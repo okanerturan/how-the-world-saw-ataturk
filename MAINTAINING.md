@@ -18,7 +18,7 @@ For the maintainer and anyone helping review. Contributors start with [CONTRIBUT
 
 ## Verifying a record
 
-Someone other than the record's author re-opens the source and fills in `verification`:
+Someone other than the record's author re-opens the source. Volunteers send what they found with the "Check a record" issue form (label `source check`); turn it into the block below, with their handle in `checked_by`, and close the issue with a link to the commit.
 
 ```yaml
 verification:

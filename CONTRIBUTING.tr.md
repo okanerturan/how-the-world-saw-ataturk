@@ -6,6 +6,15 @@ Bu arşiv, insanların kaynaklarda buldukları sözleri eklemesi ve gördükleri
 
 Issue (konu) ve pull request (çekme isteği) açıklamalarını Türkçe veya İngilizce yazabilirsiniz.
 
+## Nereden başlamalı?
+
+Elinizde bir söz ve kaynağı varsa [Yardım etmenin üç yolu](#yardım-etmenin-üç-yolu) bölümüne geçin. Yardım etmek istiyor ve yapacak bir iş arıyorsanız, şu an açık olanlar şunlar:
+
+- Yaklaşık 300 alıntının İngilizce çevirisi yok ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- Türkçe çeviriler makineyle yapıldı ve okunmayı bekliyor ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
+- Her kaydın kaynağını yeniden açacak birine ihtiyacı var: [Bir kaydı doğrulama](#bir-kaydı-doğrulama) bölümüne bakın. On bir kayıt, kimsenin açamadığı bir kaynağa dayanıyor ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
+- Var olduğu bilinen ama ulaşılamayan metinler var. Başlığı "Wanted" ile başlayan issue'lar bunlardan dördünü anlatıyor; [`research/candidates/`](research/candidates/) klasörü ile [`research/HUNT.md`](research/HUNT.md) dosyasındaki "Open leads that need a person" bölümü bölgelere göre daha fazlasını sıralıyor.
+
 ## Ne bir söz sayılır?
 
 Bir söz; kimliği belirli bir kişinin, gazetenin, kurumun veya topluluğun bilinen bir zamanda, işaret edebileceğiniz bir kaynakta Atatürk hakkında görüş bildirmesidir. Arşivde halihazırda yer alan bazı örnekler:
@@ -32,8 +41,9 @@ Bir kayıt, tek bir andaki tek bir sestir. Aynı kişi onun hakkında farklı g�
 
 - **Birincil kaynakları tercih edin:** konuşmacının kendi metni, dönemin bir gazetesi, meclis tutanağı, mektup, arşiv belgesi. Birincil kaynağı alıntılayan akademik bir kitap veya makale de uygundur; aktarım zincirini `mediated_by` alanına kaydedin, örneğin `"Toksoy 2006 ← Cumhuriyet 14 Nov 1938"`.
 - **Sayfa numarasını verin.** Kitap, dergi veya basılı gazete için sayfa (veya sütun ya da varak) numarasını belirtin. Web sitesi için bağlantıyı ve mümkünse [Wayback Machine](https://web.archive.org/) üzerindeki arşivlenmiş kopyasını verin.
-- **Özgün dilinde, birebir alıntı yapın.** Kelimeleri eski imla dahil kaynakta basıldığı şekliyle, olduğu gibi kopyalayın. Çıkarılan kelimeleri `…` ile gösterin. Alıntı İngilizce değilse, kendi alanına (`quote.translation`) İngilizce çevirisini ekleyin. Özgün metnin yerine çeviri koymayın.
+- **Özgün dilinde, birebir alıntı yapın.** Kelimeleri eski imla dahil kaynakta basıldığı şekliyle, olduğu gibi kopyalayın. Çıkarılan kelimeleri `…` ile gösterin. Alıntı İngilizce değilse, kendi alanına (`quote.translation`) İngilizce çevirisini ekleyin. Özgün metnin yerine çeviri koymayın. Kaynağın kendisi yalnızca bir çeviri veriyorsa (örneğin Almanca yapılmış bir konuşmanın bir Türk gazetesindeki hâli), onu basıldığı gibi alıntılayın ve `quote.is_translation: true` yazın.
 - **Özet bize aittir.** `summary`, söz sahibinin onda ne gördüğünü 25 veya daha az kelimeyle, İngilizce ve tarafsız biçimde yeniden ifade eden bir özettir. Ne söylediklerini aktarır ("Onu … olarak nitelendirdi", "… övdü", "… kınadı") ve bizim kendi yargımızı katmaz.
+- **Konuşanı kaynağın tanıttığı gibi tanıtın.** `role`, konuştuğu sırada kim olduğunu birkaç kelimeyle söyler. Sonradan ne olduğunu yazmayın.
 - **Şüphelerinizi yazın.** Yalnızca tek bir kaynak varsa, tarih yaklaşık ise veya sözün kime ait olduğu kesin değilse, bunu `caveat` alanında belirtin.
 - **Polarite (`polarity`), kaynağın gösterdiği şekliyle konuşmacının tutumudur.** Bizim konuşmacı hakkındaki görüşümüz veya Atatürk hakkındaki görüşümüz değildir.
 
@@ -49,6 +59,7 @@ Yalnızca bir GitHub hesabına ihtiyacınız vardır. Bir form seçin:
 
 - [Suggest a voice / Söz öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml): henüz arşivde olmayan bir söz.
 - [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml): bir kayıttaki hatalı bir bilgi.
+- [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml): bir kaydın kaynağını yeniden açtınız ve orada ne yazdığını söyleyebilirsiniz.
 - [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml): daha iyi bir Türkçe ifade önerisi.
 
 Bir söz önermeden önce, halihazırda mevcut olup olmadığını görmek için ismi [sergide](https://the-long-thread.pages.dev) veya bu depoda arayın. Bakımcı veya başka bir katkıda bulunan, uygun bir öneriyi kayda dönüştürür ve issue içinde bağlantısını paylaşır.
@@ -104,9 +115,13 @@ Dosya düzenlemeyi tercih etmiyorsanız [Translation fix / Çeviri düzeltmesi](
 
 ## Bir kaydı doğrulama
 
-Her kayıt, onu ekleyen kişi dışında biri tarafından doğrulanmalıdır. Doğrulamayı yapan kişi belirtilen kaynağı yeniden açar, alıntıyı ve iddiaları kontrol eder ve sonucu `checked_by` alanına kendi adını yazarak kaydın `verification` bloğuna işler (bkz. [data/README.md](data/README.md#verification)).
+Her kayıt, onu ekleyen kişi dışında biri tarafından doğrulanmalıdır. Doğrulamayı yapan kişi belirtilen kaynağı yeniden açar; alıntıyı, konuşanı, tarihi ve vesileyi kontrol eder.
 
-Kendi eklediğiniz bir kayda asla `verification` bloğu eklemeyin. Başkalarının kayıtlarını doğrulamak isterseniz bunu bir issue açarak belirtin.
+Doğrulamanızı göndermek için [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) formunu kullanın: kaydı belirtin, neyi açtığınızı (bağlantıyı ya da kitabı ve sayfasını) ve sözlerin kayıttaki gibi olup olmadığını yazın. Fark varsa kaynaktaki ifadeyi aynen aktarın. Bakımcı, sonucunuzu `checked_by` alanına adınızı yazarak kaydın `verification` bloğuna işler (bkz. [data/README.md](data/README.md#verification)).
+
+Sorun bulan bir doğrulama, onaylayan bir doğrulama kadar değerlidir. Doğrulamadan geçemeyen kayıtlar veride işaretli olarak kalır, sergiden çıkar.
+
+Kendi eklediğiniz bir kayda asla `verification` bloğu eklemeyin.
 
 ## Katkıda bulunduktan sonra ne olur?
 

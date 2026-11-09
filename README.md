@@ -72,10 +72,17 @@ The records are split into year folders because GitHub shows at most 1,000 files
 
 ## How to contribute
 
-You can suggest a voice, report an error or fix a Turkish translation. You do not need to know Git or YAML for the first two.
+You can suggest a voice, report an error, check a record against its source or fix a Turkish translation. None of these needs Git or YAML: each has a form.
 
-- **Open an issue** with one of the forms: [Suggest a voice / Söz öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml), [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml), [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml).
+- **Open an issue** with one of the forms: [Suggest a voice / Söz öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml), [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml), [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml), [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml).
 - **Or open a pull request** with a new or corrected file. This works in the browser.
+
+**Looking for somewhere to start?** None of these needs special access or software:
+
+- **Translate a quote into English.** About 300 quotes have no English translation yet; Turkish, French, Dutch, German, Chinese, Spanish and Japanese are the largest groups ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- **Read a Turkish translation against its English** and fix what sounds wrong. All the Turkish text was translated by machine ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
+- **Re-open a source and tell us what it says.** Every record needs a second reader, and the [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) form takes a few minutes. Eleven records cite a source we could not open at all ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
+- **Find a text we know exists but could not reach:** Jinnah's statement on Atatürk's death ([#8](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/8)), Hemingway's 1922 line in the Toronto Star ([#7](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/7)), Roncalli's diary ([#4](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/4)), Frunze's Ankara diary ([#3](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/3)). More leads of this kind are in [`research/candidates/`](research/candidates/) and under "Open leads that need a person" in [`research/HUNT.md`](research/HUNT.md).
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) first. It explains what counts as a voice, what evidence is needed, and how review works. The [code of conduct](CODE_OF_CONDUCT.md) applies in all project spaces.
 

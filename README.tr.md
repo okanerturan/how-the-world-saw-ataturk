@@ -72,10 +72,17 @@ GitHub bir klasörde en fazla 1.000 dosya gösterdiği için kayıtlar yıl klas
 
 ## Nasıl katkıda bulunabilirsiniz
 
-Bir söz önerebilir, bir hata bildirebilir veya bir Türkçe çeviriyi düzeltebilirsiniz. İlk ikisi için Git veya YAML bilmenize gerek yoktur.
+Bir söz önerebilir, bir hata bildirebilir, bir kaydı kaynağıyla karşılaştırabilir veya bir Türkçe çeviriyi düzeltebilirsiniz. Hiçbiri için Git veya YAML bilmeniz gerekmez: her birinin bir formu var.
 
-- Formlardan biriyle **bir issue (konu) açın**: [Söz öner / Suggest a voice](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml), [Düzeltme / Correction](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml), [Çeviri düzeltmesi / Translation fix](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml).
+- Formlardan biriyle **bir issue (konu) açın**: [Söz öner / Suggest a voice](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml), [Düzeltme / Correction](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml), [Kayıt doğrula / Check a record](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml), [Çeviri düzeltmesi / Translation fix](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml).
 - **Veya yeni ya da düzeltilmiş bir dosyayla bir pull request (çekme isteği) açın.** Bu işlemi doğrudan tarayıcıda yapabilirsiniz.
+
+**Nereden başlayacağınızı mı düşünüyorsunuz?** Aşağıdakilerin hiçbiri özel bir erişim ya da yazılım gerektirmez:
+
+- **Bir alıntıyı İngilizceye çevirin.** Yaklaşık 300 alıntının henüz İngilizce çevirisi yok; en kalabalık gruplar Türkçe, Fransızca, Felemenkçe, Almanca, Çince, İspanyolca ve Japonca ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- **Bir Türkçe çeviriyi İngilizcesiyle karşılaştırın** ve kulağa yanlış geleni düzeltin. Türkçe metinlerin tamamı makine çevirisidir ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
+- **Bir kaynağı yeniden açın ve orada ne yazdığını bildirin.** Her kaydın ikinci bir okura ihtiyacı var; [Kayıt doğrula / Check a record](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) formu birkaç dakikanızı alır. On bir kayıt ise hiç açamadığımız bir kaynağa dayanıyor ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
+- **Var olduğunu bildiğimiz ama ulaşamadığımız bir metni bulun:** Cinnah'ın Atatürk'ün ölümü üzerine açıklaması ([#8](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/8)), Hemingway'in 1922'de Toronto Star'da çıkan cümlesi ([#7](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/7)), Roncalli'nin günlüğü ([#4](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/4)), Frunze'nin Ankara günlüğü ([#3](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/3)). Bu türden başka ipuçları [`research/candidates/`](research/candidates/) klasöründe ve [`research/HUNT.md`](research/HUNT.md) dosyasının "Open leads that need a person" başlığı altında.
 
 Önce [CONTRIBUTING.tr.md](CONTRIBUTING.tr.md) dosyasını okuyun. Orada neyin bir söz sayıldığı, hangi kanıtların gerektiği ve inceleme sürecinin nasıl işlediği açıklanmaktadır. Tüm proje alanlarında [davranış kuralları](CODE_OF_CONDUCT.md) geçerlidir.
 

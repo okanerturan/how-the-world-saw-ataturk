@@ -1,0 +1,57 @@
+name: Check a record / Kayıt doğrula
+description: You re-opened a record's source. Tell us what it says. / Bir kaydın kaynağını yeniden açtınız. Orada ne yazdığını bildirin.
+title: "Check / Doğrulama: "
+labels: ["source check"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every record needs a second reader: someone who did not add it, who opens the cited source and looks for the quote. This form is for that. It takes a few minutes. A record that fails the check is as useful to know about as one that passes.
+
+        Her kaydın ikinci bir okura ihtiyacı var: kaydı eklememiş, gösterilen kaynağı açıp alıntıyı arayan biri. Bu form bunun için. Birkaç dakikanızı alır. Doğrulamadan geçemeyen bir kaydı öğrenmek de geçen bir kaydı öğrenmek kadar değerlidir.
+
+        You can write in English or Turkish. / İngilizce ya da Türkçe yazabilirsiniz.
+  - type: input
+    id: record
+    attributes:
+      label: Record / Kayıt
+      description: The record's id or file path, or its link in the exhibition. / Kaydın kimliği (id) ya da dosya yolu, veya sergideki bağlantısı.
+      placeholder: "lebrun-1938 or / ya da data/voices/1938/lebrun-1938.yaml"
+    validations:
+      required: true
+  - type: textarea
+    id: opened
+    attributes:
+      label: What you opened / Neyi açtınız
+      description: The link you read, or the book, journal or newspaper with its page. Say if it was a scan, a printed copy or a text version. / Okuduğunuz bağlantı, ya da kitap, dergi veya gazete ve sayfası. Taranmış görüntü mü, basılı nüsha mı, metin sürümü mü olduğunu belirtin.
+      placeholder: "Gallica, Le Temps, 11 Nov 1938, p. 2, col. 3 (page scan)"
+    validations:
+      required: true
+  - type: dropdown
+    id: quote
+    attributes:
+      label: Is the quote there? / Alıntı orada mı?
+      options:
+        - "Yes, word for word / Evet, kelimesi kelimesine"
+        - "Yes, with differences (listed below) / Evet, farklarla (aşağıda)"
+        - "No / Hayır"
+        - "The record has no quote / Kayıtta alıntı yok"
+        - "I could not open the source / Kaynağı açamadım"
+    validations:
+      required: true
+  - type: textarea
+    id: found
+    attributes:
+      label: What you found / Ne buldunuz
+      description: Any difference between the record and the source, with the source's exact wording. Check the speaker, the date and the occasion too, and whether the summary says anything the source does not. If everything matches, say so. / Kayıt ile kaynak arasındaki her fark, kaynağın tam ifadesiyle. Konuşanı, tarihi ve vesileyi de, özetin kaynakta olmayan bir şey söyleyip söylemediğini de kontrol edin. Her şey uyuyorsa bunu yazın.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation / Onay
+      options:
+        - label: I read the passage in the source myself, not a summary of it / Pasajı kaynağın kendisinde okudum, bir özetinde değil
+          required: true
+        - label: I did not add this record / Bu kaydı ben eklemedim
+          required: true

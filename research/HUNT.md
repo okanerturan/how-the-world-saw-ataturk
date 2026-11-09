@@ -218,9 +218,9 @@ not assumed.
 10. **Compilation pages** (ataturktoday.com tributes, Pera Palace press page) — T-tier lead-mines;
     never cite directly, always trace upstream.
 
-## Only Okan can do these (updated 9 Nov 2026)
+## Open leads that need a person (updated 9 Nov 2026)
 
-Every free route has been tried for each item below. What is left needs a library, a purchase, a login or a human click.
+Every free route has been tried for each item below. What is left needs a library, a purchase, a login or a person at a browser. If you can reach one of them, send what you find with the [Suggest a voice](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml) form; a photograph of the page is enough to work from.
 
 **Library or purchase**
 3. Şimşir, *Atatürk ve Yabancı Devlet Başkanları* I–IV (TTK): the incoming letters from heads of state (e.g. Hitler, 23 Nov 1934, vol. I pp. 153–154; Alexander I, vol. IV pp. 261–278).

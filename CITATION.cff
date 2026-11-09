@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: >-
+  If you use this archive, please cite it as below. To cite a single record, cite the original source named in
+  its `sources` field and add the record's file path.
+type: dataset
+title: "How the world saw Atatürk: documented voices on Mustafa Kemal Atatürk, 1919–2026"
+authors:
+  - family-names: Erturan
+    given-names: Okan
+repository-code: "https://github.com/okanerturan/how-the-world-saw-ataturk"
+url: "https://the-long-thread.pages.dev"
+license: CC-BY-4.0
+date-released: "2026-11-09"
+keywords:
+  - Atatürk
+  - reception history
+  - primary sources
+  - open data
+  - digital humanities

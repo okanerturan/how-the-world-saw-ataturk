@@ -6,6 +6,15 @@ This archive grows when people add voices they have found in sources and fix err
 
 You can write issues and pull request descriptions in Turkish or English.
 
+## Where to start
+
+If you have a voice and its source in hand, go to [Three ways to help](#three-ways-to-help). If you want to help and are looking for something to do, these are open now:
+
+- About 300 quotes have no English translation ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- The Turkish translations were made by machine and need readers ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
+- Every record needs someone to re-open its source: see [Checking a record](#checking-a-record). Eleven records cite a source nobody could open ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
+- Some texts are known to exist and have not been reached. The issues titled "Wanted" name four of them; [`research/candidates/`](research/candidates/) and the section "Open leads that need a person" in [`research/HUNT.md`](research/HUNT.md) list more, by region.
+
 ## What counts as a voice
 
 A voice is an identifiable person, newspaper, institution or collective expressing a view of Atatürk, at a known time, in a source you can point to. Some examples already in the archive:
@@ -32,8 +41,9 @@ One record is one voice at one moment. If the same person spoke about him twice,
 
 - **Prefer primary sources:** the speaker's own text, a newspaper of the time, a parliamentary record, a letter, an archive document. A scholarly book or article that quotes the primary source is fine; record the chain in `mediated_by`, for example `"Toksoy 2006 ← Cumhuriyet 14 Nov 1938"`.
 - **Give the page.** For a book, a journal or a printed newspaper, give the page (or column or folio). For a website, give the link, and if possible an archived copy from the [Wayback Machine](https://web.archive.org/).
-- **Quote verbatim, in the original language.** Copy the words exactly as the source prints them, including old spelling. Mark left-out words with `…`. If the quote is not in English, add an English translation in its own field (`quote.translation`). Do not put a translation in place of the original.
+- **Quote verbatim, in the original language.** Copy the words exactly as the source prints them, including old spelling. Mark left-out words with `…`. If the quote is not in English, add an English translation in its own field (`quote.translation`). Do not put a translation in place of the original. If the source itself gives only a translation (a Turkish newspaper's version of a speech made in German, say), quote that as printed and set `quote.is_translation: true`.
 - **The summary is ours.** `summary` is a neutral paraphrase, in English, of what the voice saw in him, in 25 words or fewer. It reports what they said ("Called him…", "Praised…", "Condemned…") and adds no judgement of our own.
+- **Describe the speaker as the source does.** `role` says who they were when they spoke, in a few words. Leave out what they became later.
 - **Write down your doubts.** If there is only one source, if the date is approximate, or if the attribution is uncertain, say so in `caveat`.
 - **Polarity is the speaker's stance, as the source shows it.** It is not our view of the speaker, and not our view of Atatürk.
 
@@ -49,6 +59,7 @@ You only need a GitHub account. Choose a form:
 
 - [Suggest a voice / Söz öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml): a voice that is not in the archive yet.
 - [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml): something wrong in a record.
+- [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml): you re-opened a record's source and can say what it prints.
 - [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml): a better Turkish wording.
 
 Before suggesting a voice, search for the name in the [exhibition](https://the-long-thread.pages.dev) or in this repository, to see whether it is already there. The maintainer or another contributor turns a good suggestion into a record and links it in the issue.
@@ -104,9 +115,13 @@ If you prefer not to edit files, use the [Translation fix / Çeviri düzeltmesi]
 
 ## Checking a record
 
-Every record must be checked by someone other than the person who added it. The checker re-opens the cited source, looks for the quote and the claims, and writes the result into the record's `verification` block (see [data/README.md](data/README.md#verification)), with their name in `checked_by`.
+Every record must be checked by someone other than the person who added it. The checker re-opens the cited source and looks for the quote, the speaker, the date and the occasion.
 
-Never add a `verification` block to a record you added yourself. If you want to check other people's records, say so in an issue.
+To send a check, use the [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) form: name the record, say what you opened (the link, or the book and its page) and whether the words are there as quoted. If they differ, copy the source's wording. The maintainer writes your result into the record's `verification` block (see [data/README.md](data/README.md#verification)) with your name in `checked_by`.
+
+A check that finds a problem is as welcome as one that confirms. Records whose check fails stay in the data, marked as such, and leave the exhibition.
+
+Never add a `verification` block to a record you added yourself.
 
 ## What happens after you contribute
 
