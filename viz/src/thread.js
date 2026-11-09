@@ -16,7 +16,9 @@ const BASE = import.meta.env.BASE_URL;
 const [{ gazes, byDate }, meta, TRV] = await Promise.all([
   loadGazes(), fetch(`${BASE}photos/photos.json`).then((r) => r.json()), loadVoices(BASE),
 ]);
-$('count').textContent = tx('count', { n: gazes.length, c: new Set(gazes.map((x) => x.country_now)).size });
+// countries and territories only: not the international bodies, nor the few records filed under two countries at once
+const NOT_ONE_COUNTRY = /European Union|Council of Europe|International|\/|and diaspora/;
+$('count').textContent = tx('count', { n: gazes.length, c: new Set(gazes.map((x) => x.country_now).filter((c) => c && !NOT_ONE_COUNTRY.test(c))).size });
 const esc = (t) => String(t ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
 // the guided routes, in the page's language (keys match scripts that build i18n/thread.tr.json)
@@ -430,7 +432,8 @@ function sheet(ei) {
   const orig = g.quote_text ? restoreName(g.quote_text) : null;
   // the original under the shown words: in Turkish only when we translated it; in English whenever it differs
   const showOrig = orig && orig !== q && (!TR || tr.quote_kind === 'translated' || tr.quote == null);
-  const origLabel = [tx('original'), g.quote_lang && langName(g.quote_lang)].filter(Boolean).join(' · ');
+  // a text that is itself a rendering (a Turkish paper's version of a foreign speaker) is 'as printed', not the original
+  const origLabel = [tx(g.quote_is_translation ? 'as_printed' : 'original'), g.quote_lang && langName(g.quote_lang)].filter(Boolean).join(' · ');
   const also = byVoice.get(g.voice).filter((i) => i !== ei);
   const cd = g.check_detail ?? {};
   const art = g.artifact ? tx(`art_${g.artifact}`) : '';

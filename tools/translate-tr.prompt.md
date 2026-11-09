@@ -15,5 +15,6 @@ Rules:
 4. role, summary: natural, clear modern Turkish. Use Turkish conventions for places and events: Smyrna → İzmir (keep "Smyrna" only inside a quoted original title), Constantinople → İstanbul, Salonika → Selanik, Angora → Ankara, Dardanelles/Gallipoli → Çanakkale/Gelibolu as appropriate, the War of Independence → Kurtuluş Savaşı, Grand National Assembly → Türkiye Büyük Millet Meclisi (TBMM), Lausanne → Lozan, the caliphate → hilafet.
 5. caveat, mediated_by, verification_note and verification_method (research notes): translate the prose fully into Turkish. Keep unchanged: titles of books, newspapers and archives, article titles, page numbers, volume/issue numbers, call numbers, URLs, file names, and any passage quoted in its original language (inside quote marks). Abbreviations like "p." → "s.", "vol." → "c.", "no." → "sayı" when citing. Dates in prose: "18 Sept 1922" → "18 Eylül 1922".
 6. Keep null as null. Keep "id" unchanged. Return exactly the fields you were given (plus quote_kind when you were given a quote). Output only the JSON object matching the schema: {"items": [...]} with one item per input record, in the same order.
+7. Glossary: "believers" (religious people) → "dindarlar" or "Müslümanlar" as the context requires; never "inananlar", which reads in Turkish as "those who believed in him".
 
 Records:
