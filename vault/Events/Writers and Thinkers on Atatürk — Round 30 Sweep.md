@@ -2,7 +2,7 @@
 type: event
 when: 1943
 tags: [event, verified, writers, sweep]
-gazes: 18
+gazes: 19
 polarity: [admiring, conflicted, hostile]
 mirror: [bourgeois-revolutionary, modernization-poster-child, nation-forge-template]
 era: [contemporary, posthumous]
@@ -194,6 +194,17 @@ Mediated by: Milliyet, 19 May 1981, p. 8: 'Uluslararası Atatürk Sempozyumu ba�
 
 ⚠️ Symposium organised by Türkiye İş Bankası. Date is the day before publication. Read on the page image (Milliyet's subscriber archive).
 
+## Mustafa Zein, 1983-11
+*Ambassador of Lebanon in Ankara; author of a book on Atatürk published in Arabic in Beirut* — admiring, quote, evidence J.
+
+Wrote a book on Atatürk, published in Arabic in Beirut, to show, he said, 'what a real genius is'.
+
+> Gerçek bir dahinin ne olduğunu göstermek istedim [English translation: I wanted to show what a real genius is]
+
+Mediated by: Milliyet, 10 Nov 1983, p. 5, news brief 'Lübnan Büyükelçisi'nin «Atatürk» kitabı' (column 'Dünya'dan kısa… kısa…').
+
+⚠️ Atatürk is not named inside the quoted sentence: it is his statement about his own book on Atatürk, which the paper calls 'Bir İnsanın İçinde Bir Ulus' and says had gone into a second printing, with a Turkish edition in preparation. The book itself was not seen. The brief does not date the statement or say in what language he made it. Read on the page image (Milliyet's subscriber archive).
+
 ## Sources
 - https://archive.org/details/in.ernet.dli.2015.115116
 - https://archive.org/details/39020025962500-kemalataturkabi
@@ -214,3 +225,4 @@ Mediated by: Milliyet, 19 May 1981, p. 8: 'Uluslararası Atatürk Sempozyumu ba�
 - https://gazetearsivi.milliyet.com.tr/liste?tarih=1973.11.03
 - https://archive.org/details/destinsrompus0000beno
 - https://gazetearsivi.milliyet.com.tr/liste?tarih=1981.05.19
+- https://gazetearsivi.milliyet.com.tr/liste?tarih=1983.11.10

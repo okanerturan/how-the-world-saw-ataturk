@@ -1,0 +1,36 @@
+# Turkish for data/voices/1983/mustafa-zein-1983.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mustafa-zein-1983
+voice: Mustafa Zein
+role: >-
+  Lübnan'ın Ankara Büyükelçisi; Beyrut'ta Arapça olarak yayımlanan Atatürk konulu bir kitabın yazarı
+quote: Gerçek bir dahinin ne olduğunu göstermek istedim
+quote_kind: original-turkish
+summary: >-
+  Beyrut'ta Arapça olarak yayımlanan Atatürk üzerine bir kitap yazdı; bunu kendi ifadesiyle 'gerçek bir
+  dahinin ne olduğunu' göstermek için yapmıştı.
+caveat: >-
+  Alıntılanan cümlenin içinde Atatürk'ün adı geçmemektedir: bu ifade, gazetenin 'Bir İnsanın İçinde Bir Ulus'
+  olarak adlandırdığı ve ikinci baskısını yaptığını, Türkçe baskısının ise hazırlık aşamasında olduğunu
+  belirttiği, kendisinin Atatürk hakkındaki kitabına ilişkin açıklamasıdır. Kitabın kendisi görülmemiştir.
+  Kısa haberde açıklamanın tarihi veya hangi dilde yapıldığı belirtilmemektedir. Sayfa görüntüsünden
+  okunmuştur (Milliyet abone arşivi).
+mediated_by: >-
+  Milliyet, 10 Kasım 1983, s. 5, 'Lübnan Büyükelçisi'nin «Atatürk» kitabı' başlıklı kısa haber ('Dünya'dan
+  kısa… kısa…' sütunu)
+verification_note: >-
+  Bir okuyucu tarafından bulunup yazıya geçirildi; haber daha sonra sayfada tespit edildi ve ikinci bir
+  okuyucu tarafından yeni bir kırpma görüntüsü üzerinden tekrar okundu (9 Kasım 2026). İki okuma kelimesi
+  kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: c243a41a68ec
+  role: f58ae9b2e4c8
+  quote: c8a16f5353f8
+  summary: 499f2d6ba035
+  caveat: af54097a988c
+  mediated_by: f798fd767d33
+  verification_note: 0a5623852922
+  verification_method: 1c3478366c90

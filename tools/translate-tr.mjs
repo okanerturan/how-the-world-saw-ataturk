@@ -17,7 +17,8 @@ const arg = (k, d) => { const i = process.argv.indexOf(`--${k}`); return i > 0 ?
 const JOBS = +arg('jobs', 6), BATCH = +arg('batch', 10), MODEL = arg('model', 'gemini-4-argon-medium'), DRY = process.argv.includes('--dry');
 const PROMPT = readFileSync(new URL('translate-tr.prompt.md', import.meta.url), 'utf8');
 const FIELDS = ['voice', 'role', 'quote', 'summary', 'caveat', 'mediated_by', 'verification_note', 'verification_method'];
-const turkish = (q) => q && ['tr', 'ota'].includes(q.language) && !q.translation;
+// a quote whose text is Turkish is copied as printed, whether or not the record also carries an English translation
+const turkish = (q) => q && ['tr', 'ota'].includes(q.language) && !q.needs_split;
 
 // what each record still needs
 const work = [];

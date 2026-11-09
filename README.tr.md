@@ -18,19 +18,19 @@ Her sözün kendi bağlantısı vardır. Yukarıdaki söz [the-long-thread.pages
 
 | | |
 |---|---|
-| Kayıtlar | 964 |
-| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 792 |
+| Kayıtlar | 965 |
+| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 793 |
 | Günümüz ülkeleri ve bölgeleri (`country_now`) | 84; ayrıca Avrupa Birliği, Avrupa Konseyi ve UNESCO |
 | Kapsanan yıllar | 1919 – 2026 (100 yıl klasörü; yalnızca 1938'de 207 kayıt vardır) |
-| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 30 dilde 837 |
-| Kayıtlı kaynak doğrulaması bulunan kayıtlar | 964 (tümü) |
-| Türkçe çeviri dosyası bulunan kayıtlar | 964 (tümü) |
+| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 30 dilde 838 |
+| Kayıtlı kaynak doğrulaması bulunan kayıtlar | 965 (tümü) |
+| Türkçe çeviri dosyası bulunan kayıtlar | 965 (tümü) |
 
 Sonuca göre kaynak doğrulamaları:
 
 | Sonuç | Kayıtlar | Oran |
 |---|---|---|
-| `confirmed` | 766 | %79 |
+| `confirmed` | 767 | %79 |
 | `partial` | 96 | %10 |
 | `paraphrase-ok` | 57 | %6 |
 | `secondary-only` | 29 | %3 |
@@ -40,9 +40,9 @@ Sonuca göre kaynak doğrulamaları:
 
 Sonuçların açıklamaları [data/README.md](data/README.md#verdicts) dosyasındadır.
 
-Sergide 958 kayıt gösterilmektedir. Diğer 6 kayıt ise doğrulaması başarısız olan (`not-found`, `contradicted`) 5 kayıt ile Atatürk'ün kendisi hakkında konuştuğu (`voice_type: self`) 1 kayıttır. Bunlar veri setinde kalmaya devam eder.
+Sergide 959 kayıt gösterilmektedir. Diğer 6 kayıt ise doğrulaması başarısız olan (`not-found`, `contradicted`) 5 kayıt ile Atatürk'ün kendisi hakkında konuştuğu (`voice_type: self`) 1 kayıttır. Bunlar veri setinde kalmaya devam eder.
 
-Söz sahibinin Atatürk'e karşı tutumu (`polarity`): 510 hayranlık duyan (admiring), 138 ikircikli (conflicted), 131 araçsal (instrumental; konuşmacının kendi gündemine hizmet eden övgü), 122 düşmanca (hostile), 63 tanık (witness; bildiren veya katılan, belirtilmiş bir görüşü olmayan).
+Söz sahibinin Atatürk'e karşı tutumu (`polarity`): 511 hayranlık duyan (admiring), 138 ikircikli (conflicted), 131 araçsal (instrumental; konuşmacının kendi gündemine hizmet eden övgü), 122 düşmanca (hostile), 63 tanık (witness; bildiren veya katılan, belirtilmiş bir görüşü olmayan).
 
 ## Klasörlerin içeriği
 

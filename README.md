@@ -18,19 +18,19 @@ Every voice has its own link. The one above is [the-long-thread.pages.dev/#veniz
 
 | | |
 |---|---|
-| Records | 964 |
-| Distinct voice names (people, papers, institutions, groups) | 792 |
+| Records | 965 |
+| Distinct voice names (people, papers, institutions, groups) | 793 |
 | Present-day countries and territories (`country_now`) | 84, plus the European Union, the Council of Europe and UNESCO |
 | Years covered | 1919 to 2026 (100 year folders; 1938 alone has 207 records) |
-| Records with the speaker's own words (`quote`) | 837, in 30 languages |
-| Records with a stored source check | 964 (all) |
-| Records with a Turkish translation file | 964 (all) |
+| Records with the speaker's own words (`quote`) | 838, in 30 languages |
+| Records with a stored source check | 965 (all) |
+| Records with a Turkish translation file | 965 (all) |
 
 Source checks, by verdict:
 
 | Verdict | Records | Share |
 |---|---|---|
-| `confirmed` | 766 | 79% |
+| `confirmed` | 767 | 79% |
 | `partial` | 96 | 10% |
 | `paraphrase-ok` | 57 | 6% |
 | `secondary-only` | 29 | 3% |
@@ -40,9 +40,9 @@ Source checks, by verdict:
 
 The verdicts are explained in [data/README.md](data/README.md#verdicts).
 
-958 records are shown in the exhibition. The other 6 are the 5 records whose check failed (`not-found`, `contradicted`) and 1 record of Atatürk speaking about himself (`voice_type: self`). They stay in the data.
+959 records are shown in the exhibition. The other 6 are the 5 records whose check failed (`not-found`, `contradicted`) and 1 record of Atatürk speaking about himself (`voice_type: self`). They stay in the data.
 
-Stance of the voice towards Atatürk (`polarity`): 510 admiring, 138 conflicted, 131 instrumental (praise that served the speaker's own agenda), 122 hostile, 63 witness (reported or attended, no stated view).
+Stance of the voice towards Atatürk (`polarity`): 511 admiring, 138 conflicted, 131 instrumental (praise that served the speaker's own agenda), 122 hostile, 63 witness (reported or attended, no stated view).
 
 ## What is in each folder
 

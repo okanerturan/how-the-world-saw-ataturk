@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mustafa-zein-1983
+voice: Mustafa Zein
+voice_type: person
+role: Ambassador of Lebanon in Ankara; author of a book on Atatürk published in Arabic in Beirut
+country: Lebanon
+country_now: Lebanon
+domain: diplomacy
+date: "1983-11"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  Wrote a book on Atatürk, published in Arabic in Beirut, to show, he said, 'what a real genius is'.
+quote:
+  text: Gerçek bir dahinin ne olduğunu göstermek istedim
+  translation: I wanted to show what a real genius is
+  language: tr
+mediated_by: >-
+  Milliyet, 10 Nov 1983, p. 5, news brief 'Lübnan Büyükelçisi'nin «Atatürk» kitabı' (column 'Dünya'dan kısa…
+  kısa…')
+caveat: >-
+  Atatürk is not named inside the quoted sentence: it is his statement about his own book on Atatürk, which the
+  paper calls 'Bir İnsanın İçinde Bir Ulus' and says had gone into a second printing, with a Turkish edition in
+  preparation. The book itself was not seen. The brief does not date the statement or say in what language he
+  made it. Read on the page image (Milliyet's subscriber archive).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1983.11.10
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 10 Nov 1983 p. 5, page image crop
+  method: page image
+  note: >-
+    Found and transcribed by one reader; the item was then located on the page and read again on a fresh crop by
+    a second reader (9 Nov 2026). The two readings agree word for word.
+  checked_on: "2026-11-09"

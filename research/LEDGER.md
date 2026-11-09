@@ -1803,3 +1803,4 @@ Before release, every record added or changed in rounds 34b–35 was re-read by 
 
 Also: 36 records whose quoted text is a rendering of a foreign speaker's words (a Turkish paper's version, or a published translation) now carry `quote.is_translation: true` (the exhibition labels such text 'As printed'); every `summary` is 25 words or fewer; the two round-sweep notes in `vault/Events/` were regenerated from the corrected records.
 
+**Added after the re-check (9 Nov 2026):** Mustafa Zein, Lebanese ambassador in Ankara, on his Arabic book about Atatürk: "Gerçek bir dahinin ne olduğunu göstermek istedim" (Milliyet 10 Nov 1983 p. 5; read by two readers). The 10 Nov 1978 issue has no foreign voice: its UNESCO item is a draft resolution with no named speaker.
