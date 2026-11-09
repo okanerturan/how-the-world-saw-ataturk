@@ -377,7 +377,7 @@ const up = (e) => {
   if (moved < 5 && drag && overType(e)) { drag = null; return; }
   if (moved < 5 && drag && !overType(e)) {
     const ci = charAt(...toWorld(e.clientX, e.clientY));
-    select(ci >= 0 ? charEntry[ci] : -1);
+    if (ci >= 0) select(charEntry[ci]); else windBack();
     // if the type now covers the place you clicked, slide his face aside so you can see where it came from
     if (ci >= 0 && cur && view.s > fitS * 1.3 && e.clientX > rect[0] - 40 && e.clientX < cur.left + cur.w + 80) {
       const [x, y] = toWorld(e.clientX, e.clientY), [vx, vy] = viewFor(x, y, ...cur.spot, view.s, view.rot);
@@ -493,6 +493,10 @@ function wrapVoice(ei, maxW, fem) {
   return { pos, lines: line + 1, w: Math.max(...widths), hLen };
 }
 let cur = null, old = null;          // the voice unwound now, and the one winding back
+// where the camera was before the first voice was opened; closing the voice rewinds the camera there,
+// in step with the letters going home
+let restView = null;
+const WIND_BACK = 1.8;               // seconds for the letters, and the camera, to go back
 const capEl = $('cap');
 function layoutVoice(ei) {
   const { l, r } = areaOf(), aw = r - l;
@@ -528,7 +532,7 @@ function unwind(ei) {
   if (cur) { old = { ...cur, u: cur.u }; } else if (old?.ei === ei) old = null;
   cur = ei >= 0 ? { ...layoutVoice(ei), u: back } : null;
   document.body.classList.toggle('unwound', !!cur);
-  if (!cur) capEl.hidden = true;
+  if (!cur) capEl.style.pointerEvents = 'none';      // it fades out with the paper; hidden once the letters are home
   else if (!old && uniforms.uClear.value < 0.05) rect = rectOf(cur);
 }
 const rectOf = (c) => [c.left - 40, c.top - 34, c.left + c.w + 40, c.top + c.h + 26];
@@ -536,7 +540,7 @@ let rect = [0, 0, 0, 0];
 
 function caption(ei) {
   const g = byDate[ei], guided = document.body.dataset.mode === 'read', stop = guided ? reading.stops[gi] : null;
-  capEl.hidden = false;
+  capEl.hidden = false; capEl.style.pointerEvents = '';
   capEl.innerHTML = guided
     ? `<div class="sc">${esc(reading.title)} &nbsp;·&nbsp; ${esc(tx('i_of_n', { i: gi + 1, n: reading.stops.length }))}</div>
       <div class="meta">${esc(when(g.date))} · ${esc(placeOf(g))} · ${esc(roleOf(g))}${entries[ei].kind === 'summary' ? ` · <b class="ours">${esc(tx('summary_note'))}</b>` : ''}</div>
@@ -552,8 +556,8 @@ function caption(ei) {
   on('c-next', () => startGuided(gi + 1));
   on('c-pause', () => { paused = !paused; $('c-pause').textContent = tx(paused ? 'go_on' : 'pause'); if (!paused && dwell) dwell.t0 = performance.now() - dwell.done; });
   on('c-src', () => { if (guided && !paused) $('c-pause').click(); sheet(ei); relayout(); });
-  on('c-stop', () => { stopGuided(); select(-1); home(); });
-  on('c-x', () => select(-1));
+  on('c-stop', () => { stopGuided(); windBack(); });
+  on('c-x', () => windBack());
 }
 // keep the unwound voice where it is when the sheet slides in or out, or the window changes: shift it, don't re-set it
 function relayout() {
@@ -566,6 +570,7 @@ addEventListener('resize', () => { if (cur) relayout(); });
 function select(ei, open = false) {
   uniforms.uSel.value = ei; tip.hidden = true;
   if (ei < 0) { sheet(null); unwind(-1); return; }
+  if (!restView) restView = flight ? { ...flight.to } : { x: view.x, y: view.y, s: view.s, rot: view.rot };
   sheet(open ? ei : null);
   caption(ei);
   unwind(ei);
@@ -582,6 +587,13 @@ const viewFor = (x, y, sx, sy, s, rot) => {
 };
 const posOf = (ci, lift = 0.33 * em) => at(charPhi[ci], lift);
 const home = () => flyTo(homeX(), 0, fitS, 0, 1900);
+// close the open voice: its letters wind back onto the spiral while the camera returns to where the reader was
+function windBack() {
+  if (!cur) return false;
+  select(-1);
+  if (restView) flyTo(restView.x, restView.y, restView.s, restView.rot, WIND_BACK * 1000);
+  return true;
+}
 // show where on his face the voice came from: a little closer, upright, beside the unwound type
 function showSpot(ei, s = fitS * 1.7) {
   const e = entries[ei], [x, y] = posOf(Math.floor((e.first + e.last) / 2));
@@ -702,7 +714,7 @@ addEventListener('keydown', (e) => {
     const d = e.key === 'ArrowRight' ? 1 : -1;
     if (gi < 0) { const c = charAt(view.x, view.y); const here = c >= 0 ? charEntry[c] : 0; gi = reading.stops.findIndex((x) => x.ei >= here) - (d > 0 ? 1 : 0); }
     startGuided(gi + d);
-  } else if (e.key === 'Escape') { select(-1); stopGuided(); home(); }
+  } else if (e.key === 'Escape') { stopGuided(); if (!windBack()) home(); }
   else if (e.key === '/') { e.preventDefault(); document.body.classList.add('menu'); $('q').focus(); }
   else if (e.key === '+' || e.key === '=') zoomAt(innerWidth / 2, innerHeight / 2, 1.5);
   else if (e.key === '-') zoomAt(innerWidth / 2, innerHeight / 2, 1 / 1.5);
@@ -745,13 +757,19 @@ function frame(now) {
 
   // unwinding and winding back
   if (cur) cur.u = Math.min(1, cur.u + rdt / 2.2);
-  if (old) { old.u = Math.max(0, old.u - rdt / 1.3); if (old.u <= 0) old = null; }
+  if (old) { old.u = Math.max(0, old.u - rdt / WIND_BACK); if (old.u <= 0) old = null; }
+  if (!cur && !old) { if (!capEl.hidden && capEl.style.pointerEvents === 'none') capEl.hidden = true; if (!flight) restView = null; }
   if (cur) for (const k of [0, 1]) cur.off[k] *= Math.max(0, 1 - dt * 5);
   uniforms.uFE.value.set(cur?.ei ?? -1, old?.ei ?? -1);
   uniforms.uFU.value.set(cur?.u ?? 0, old?.u ?? 0);
   uniforms.uFEm.value.set(cur?.fem ?? 20, old?.fem ?? 20);
   uniforms.uFOff.value.set(cur?.off[0] ?? 0, cur?.off[1] ?? 0, old?.off[0] ?? 0, old?.off[1] ?? 0);
-  uniforms.uClear.value += ((cur ? 1 : 0) - uniforms.uClear.value) * Math.min(1, dt * 3);
+  {
+    // the paper clearing: full while a voice is open; while one winds back it holds until the last letters are
+    // nearly home (the first letters of the text leave last), then fades as they land
+    const target = cur ? 1 : old ? Math.min(1, old.u / 0.3) : 0;
+    uniforms.uClear.value += (target - uniforms.uClear.value) * Math.min(1, rdt * (cur ? 3 : 8));   // real time, also on slow phones
+  }
   if (cur) { const to = rectOf(cur); rect = rect.map((v, k) => v + (to[k] - v) * Math.min(1, dt * 6)); }
   { const d = DPR(); uniforms.uRect.value.set(rect[0] * d, (innerHeight - rect[3]) * d, rect[2] * d, (innerHeight - rect[1]) * d); uniforms.uDpr.value = d; }
   uniforms.uScreen.value.set(innerWidth, innerHeight);
@@ -780,4 +798,4 @@ function frame(now) {
 }
 requestAnimationFrame(frame);
 document.body.dataset.mode = 'intro';
-if (import.meta.env.DEV) window.__thread = { renderer, mesh, view, uniforms, inst, h, em, n };
+if (import.meta.env.DEV) window.__thread = { renderer, mesh, view, uniforms, inst, h, em, n, state: () => ({ cur: cur && cur.u, old: old && old.u, restView }) };

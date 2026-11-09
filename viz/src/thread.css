@@ -83,7 +83,7 @@ body.ready #boot { display: none; }
 #fail .d { margin-top: 18px; font-size: 13px; color: var(--mute); }
 
 /* the caption under an unwound voice; placed by the script beneath the type */
-#cap { position: fixed; z-index: 3; left: 0; top: 0; padding: 10px 0 0; border-top: 1px solid var(--ink); opacity: 0; }
+#cap { position: fixed; z-index: 3; left: 0; top: 0; padding: 10px 0 0; border-top: 1px solid var(--ink); opacity: 0; transition: opacity 0.5s ease; }
 #cap .meta { margin-top: 4px; font-size: 15px; color: var(--mute); font-style: italic; }
 #cap .note { margin: 10px 0 0; font-size: 17px; line-height: 1.42; }
 #cap .acts { margin-top: 10px; display: flex; gap: 16px; flex-wrap: wrap; font-variant: all-small-caps; letter-spacing: 0.1em; font-size: 16px; }
