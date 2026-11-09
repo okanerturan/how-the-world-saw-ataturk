@@ -33,8 +33,8 @@ discovery (the text is reproduced on a Turkish compilation site of world poets' 
 second-hand reproduction, not independent authentication).
 
 This is the Azerbaijani gaze at its purest: the admiration as an act of national self-assertion
-that cost a life, the same mechanism as [[Kazi Nazrul Islam]] in Bengal but under a censor who
-shot. Compare [[Mikhail Frunze]]'s and [[Kliment Voroshilov]]'s official Soviet Kemal; this is the
+that cost a life, the same mechanism as Kazi Nazrul Islam in Bengal but under a censor who
+shot. Compare Mikhail Frunze's and Kliment Voroshilov's official Soviet Kemal; this is the
 unofficial one. See [[Azerbaijani Poetry of Atatürk]].
 
 ## Sources

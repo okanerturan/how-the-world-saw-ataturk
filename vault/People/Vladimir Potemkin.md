@@ -31,7 +31,7 @@ the new president İnönü, once a friend of good relations with Russia and now 
 The burial of the founder doubled as the opening round of Soviet–Turkish business under his
 successor. (The Soviet side had cabled condolences from Kalinin and Litvinov on 11 November;
 Turkish Wikipedia, T.) Context: [[Foreign Delegations at the Funeral, November 1938]]; the
-Soviet-era relationship runs through [[Semyon Aralov]] and [[Kliment Voroshilov]].
+Soviet-era relationship runs through Semyon Aralov and Kliment Voroshilov.
 
 ## Sources
 - Delpher: [NRC, Havas 13 Nov](http://resolver.kb.nl/resolve?urn=KBNRC01:000055598:mpeg21:a0084:ocr) · [NRC 25–26 Nov](http://resolver.kb.nl/resolve?urn=KBNRC01:000055669:mpeg21:a0041:ocr) · [Havas 17 Nov](http://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr) (P)

@@ -40,8 +40,8 @@ Gazi's triumphal entry) takes two Budapest dailies to stand for the whole press:
 The Hungarian mirror here is **Trianon**: Atatürk as the proof that a defeated Central-European
 nation could still throw down a dictated peace. It was a bearable thing to think about Turks —
 and an unbearable thing to think about Hungary — which is why the paper kept coming back to it.
-Compare [[Gyula Gömbös]] (the same hope as policy) and [[Hungary's Parliament Rises, November 1938]] (the same man mourned). See also [[Treaty of Sèvres]], [[Treaty of Lausanne]],
-[[Greco-Turkish War]].
+Compare [[Gyula Gömbös]] (the same hope as policy) and [[Hungary's Parliament Rises, November 1938]] (the same man mourned). See also Treaty of Sèvres, Treaty of Lausanne,
+Greco-Turkish War.
 
 ## Sources
 - L. Rásonyi, "Atatürk Özgürlük Savaşı'nın Macar Basınında Yankıları," *Belleten* XLV, pp. 79–86 — [DergiPark PDF](https://dergipark.org.tr/en/download/article-file/2523850) (read in full; quotations are Rásonyi's/the journal's Turkish renderings of the Hungarian; the exact issue date was not given in the page text)

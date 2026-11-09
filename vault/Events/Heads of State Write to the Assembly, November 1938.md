@@ -105,12 +105,12 @@ line the earlier note printed is a translation.
 
 Wrote and said nothing about the man: [[Ibn Saud]] (Abdulaziz, Riyadh, c1 p. 9, Arabic in Latin letters),
 Ulmanis (c1 p. 3), Tsar Boris III (c1 p. 13), Gustaf V (c1 p. 16), Päts (c1 p. 17), King Zog (c1 p. 25),
-Prince Takamatsu (c1 p. 27; see [[Prince Takamatsu]]), Mościcki (c1 p. 32), Abbas Hilmi II (c1 p. 37),
+Prince Takamatsu (c1 p. 27; see Prince Takamatsu), Mościcki (c1 p. 32), Abbas Hilmi II (c1 p. 37),
 Göring for the Reichstag (c2 p. 15: *"ihres großen Präsidenten"*, an honorific on the office, treated like
 Cárdenas's *"su gran presidente"* and Atassi's *"éminent chef"*), Carol II (c2 p. 23), Horthy (c2 p. 25),
 Hashim al-Atassi (c2 p. 29), Zahir Shah (c2 p. 39, Persian in Latin letters), Christian X (c2 p. 41),
 Grand Duchess Charlotte and Cárdenas (c2 p. 45), Haakon VII (c2 p. 48), Victor Emmanuel III (c2 p. 53),
-[[Abdullah I of Jordan]] (c2 p. 7), and the Hatay head of state and Assembly president (c2 pp. 4–5).
+Abdullah I of Jordan (c2 p. 7), and the Hatay head of state and Assembly president (c2 pp. 4–5).
 
 ## Not found
 
@@ -119,7 +119,7 @@ Grand Duchess Charlotte and Cárdenas (c2 p. 45), Haakon VII (c2 p. 48), Victor 
 - **Indian National Congress / Subhas Chandra Bose:** no such sheet. The index entry "Hindistan, Kongre
   Başkanı" matches the **Zoutpansberg Indian Congress** (Louis Trichardt, Transvaal; c2 p. 44, president
   signing, no name legible) that sits next to the Israel Council sheet in the same order. Nothing in the
-  volumes ties [[Subhas Chandra Bose]] to the cable.
+  volumes ties Subhas Chandra Bose to the cable.
 
 See [[Condolence Telegrams to Ankara, November 1938]] and [[Death and State Funeral of Atatürk]].
 

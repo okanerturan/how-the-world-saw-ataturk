@@ -20,7 +20,7 @@ one whose view of Ankara refused to forgive Ankara its religious policy. In the 
 Turkish people" — an argument that the caliphate was a political-juridical office, not a spiritual
 papacy.
 
-After the abolition ([[Abolition of the Caliphate]], March 1924) his journal turned its guns on the
+After the abolition (Abolition of the Caliphate, March 1924) his journal turned its guns on the
 new regime's religious policy. Brett Wilson's IJMES study of the first Turkish Qur'an translations
 calls Rida "highly influential in shaping opinion in the Muslim world" and opens with his 1924 verdict: the Ankara government's backing for a Turkish translation was "their heretical idea,"
 long headed "toward this action ... in order to turn the devout people among them away from the word
@@ -31,7 +31,7 @@ That makes the card a clean reading of a mirror: Rida read secular Ankara as a c
 Arabic Qur'an itself.
 
 Where the Rida card sits: beside the pan-Islamist press line of [[Shakib Arslan]] and the Cairo exile
-of [[Mustafa Sabri Efendi]] — and as the hostile twin of [[Abdelhamid Ben Badis]], who took *al-Manar* as
+of Mustafa Sabri Efendi — and as the hostile twin of [[Abdelhamid Ben Badis]], who took *al-Manar* as
 the model for his own journal and who, in 1938, wrote an elegy of a kind Rida never did.
 
 ## Sources

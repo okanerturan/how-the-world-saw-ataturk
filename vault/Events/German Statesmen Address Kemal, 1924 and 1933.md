@@ -36,7 +36,7 @@ That is why they are recorded as an instrumental and an admiring gaze with the r
 War: Nadolny for a Germany reborn, Papen for a shared front. Papen's phrase *Vorbild* ("model") puts
 Kemal's Turkey inside the same German story as [[Hitler's Atatürk, 1933–1938]], five months after
 Hitler took office. Papen later served as ambassador in Ankara (1939–44), outside this card's
-period. See [[Otto Liman von Sanders]] for the earlier German command on the Turkish front.
+period. See Otto Liman von Sanders for the earlier German command on the Turkish front.
 
 ## Sources
 - WTB wire, Angora 17 Jun 1924, as printed: Vorwärts (Berlin) 19 Jun 1924, p. 3 · P — [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/newspaper/item/ZUITNJRLCN7JKLURZWDEKBZOREYKQKX2?issuepage=3)

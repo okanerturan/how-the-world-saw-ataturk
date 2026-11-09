@@ -26,7 +26,7 @@ Lehrer des Volkes, ein strenger, unnachsichtiger und doch gütiger Lehrer" (pp. 
 Türken," is glossed in a footnote as the honorific the Turkish people gave him.
 
 **The German frame.** This is the Frankfurt, non-Party German register of the Atatürk image
-(compare [[Emil Ludwig]] in exile and [[Nazi Outreach to the Muslim World]] for the Party's own use): the
+(compare [[Emil Ludwig]] in exile and Nazi Outreach to the Muslim World for the Party's own use): the
 word *Diktatur* is kept in quotation marks and defended as pedagogy, not embraced as the model. It also
 repeats, without comment, the national-movement line that the Armenian deportations were the "Exzessen" in
 which the people took no part (Erzurum paragraph, near p. 93–95; exact page not fixed) — flagged here as the book's own account, not the

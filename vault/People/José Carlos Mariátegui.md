@@ -26,14 +26,14 @@ His Mustafá Kemal is the man who rose in Anatolia when a docile Constantinople 
 Sèvres "categorically," beat the Greek army and was named President as "el caudillo de la
 insurrección y de la victoria." Mariátegui reads the whole arc through his own lens: the Entente
 could not simply march on Ankara because it was "the era of the great revolutionary tide," British
-Labour refused another war (the [[Chanak Crisis]]), and the abolition of the Caliphate was the
+Labour refused another war (the Chanak Crisis), and the abolition of the Caliphate was the
 revolution's defensive turn into offence. The greatest enemies of "the Kemalist revolution," he
 writes, "are not Turks" — they belong to English capitalism, whose *Times* mourned the Caliphate
 "senilely and tearfully."
 
 Why he belongs in the deck: a colonial-periphery Marxist, writing from Lima, uses Turkey as
 evidence that the West's "inferior peoples" can modernize themselves from inside and against the
-Entente — the same lesson [[Mahatma Gandhi]]'s and [[Jawaharlal Nehru]]'s India drew, arrived at
+Entente — the same lesson Mahatma Gandhi's and Jawaharlal Nehru's India drew, arrived at
 independently on the far side of the planet. (Note the limit of the gaze: it is a 1924-25
 newspaper synthesis, secondhand and sympathetic; it says nothing of the Kurds, Armenians or the
 single-party state.)

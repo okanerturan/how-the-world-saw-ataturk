@@ -13,7 +13,7 @@ era: [contemporary]
 A second French card built on Gallica's page-level `ContentSearch` fragments, for the moments between the Smyrna card and the
 funeral card: the caliphate (3 March 1924), the Swiss Civil Code (17 February 1926) and the republic's tenth anniversary (29 October 1933).
 Fragments are short and cut with "(...)", so only what a fragment shows is claimed. The French OCR is noisy (e.g. "provo qua"); quotations are as the OCR gives them.
-Context: [[Abolition of the Caliphate]], [[Turkish Civil Code]].
+Context: Abolition of the Caliphate, Turkish Civil Code.
 
 **La Croix** (Catholic daily). 8 March 1924, page 1 ([issue](https://gallica.bnf.fr/ark:/12148/bpt6k261790c)), "Gazette": under the heading (OCR) *Le « milliard des Congrégations » en Turquie* the paper says that, "En abolissant le califat, le gouvernement d'Angora(...)"
 and then: *"Ceux qui leur ont parlé du fameux milliard des Congrégations de France ont sans doute omis de leur dire comment le milliard s'est, évanoui"* — those who told Angora about the famous "billion of the Congregations" in France forgot to say how the billion vanished (and tells "l'histoire du forçat Duez"). The reading — Ankara imitating French anticlerical confiscation, and being misled by it — is an inference from a truncated paragraph.

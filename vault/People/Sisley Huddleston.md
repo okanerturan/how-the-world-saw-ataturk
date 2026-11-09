@@ -32,7 +32,7 @@ He also records the reforms with approval — the Turkish woman "is rejecting th
 
 **Not a straight admirer, not an enemy.** He wants Constantinople kept and the Kemalist "insularity" softened;
 he regrets that France "helped to place the Allies in the most humiliating position" (p. 258). Compare the
-more adulatory [[H.C. Armstrong]] of 1932–33 and the colder [[Arnold J. Toynbee]] of 1922.
+more adulatory [[H.C. Armstrong]] of 1932–33 and the colder Arnold J. Toynbee of 1922.
 
 **Caveat.** His forecast (displacement) was wrong; the chapter is a snapshot of the moment before the
 Republic's consolidation. Page numbers are printed pages (search-inside leaf = printed + 8).

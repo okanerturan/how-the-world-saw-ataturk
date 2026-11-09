@@ -33,7 +33,7 @@ letter itself, so wording and pagination rest on that edition via the reviewer.
 
 **Reading.** Both courteous and accusatory: he grants Kemal courage and the unification of the two Turkeys
 (Istanbul and Ankara) while charging him with evasion on the Kurdish question. Conflicted in form, hostile in
-effect on policy. Context: [[Celadet Bedir Khan]], [[Alphabet Reform]], [[Ararat Rebellion]].
+effect on policy. Context: Celadet Bedir Khan, Alphabet Reform, Ararat Rebellion.
 
 ## Sources
 - Celadet Alî Bedirxan, *Türkiye Cumhuriyeti Reisi Gazi Mustafa Kemal Paşa Hazretlerine [Açık Mektup]*, Damascus: Hawar Library no. 6, 1933; Doz Yayınları 2010 ed. (M. Aydoğan transcription), pp. 39 and 59 as cited · S− (via review) — [Serbestiyet, 28 Mar 2022](https://serbestiyet.com/gunun-yazilari/bir-kurt-aydinindan-mustafa-kemale-mektup-88216/)

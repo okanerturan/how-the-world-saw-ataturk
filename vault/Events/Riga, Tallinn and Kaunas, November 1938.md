@@ -48,7 +48,7 @@ important position, merchant shipping greatly strengthened, newspapers read by a
 
 Note the shared grammar: the semi-official papers of regimes that had themselves suspended parliamentary politics praise **leadership
 as a principle** (the Latvian phrase), **speed** ("a leap rather than an evolution"), and the state
-as built from above. This is [[Kemalism]] read as an export model by neighbours who were
+as built from above. This is Kemalism read as an export model by neighbours who were
 running the same experiment on a smaller scale, and it is a different register from the Nordic
 liberal-democratic cards ([[Copenhagen and Oslo, November 1938]]). The hedge: these are
 papers of the regimes, summarised by Turkish digests, and we do not know what

@@ -15,7 +15,7 @@ era: [contemporary, funeral]
 
 The Rorschach test run twice on one man, fourteen years apart.
 
-**1924 — the indictment.** On 28 March 1924, weeks after the [[Abolition of the Caliphate]], Ben Badis
+**1924 — the indictment.** On 28 March 1924, weeks after the Abolition of the Caliphate, Ben Badis
 published in *al-Najah* an article titled *"The Great Catastrophe, or the Crimes of the Kemalists
 against Islam and the Muslims, and their Apostasy from the Religion."* He admitted he had earlier
 praised the Kemalists "because they rose to defend the precincts of the Caliphate" and rescue a great
@@ -24,7 +24,7 @@ to preserve Islamic unity — and never imagined they would abolish the Caliphat
 with four crimes: against the caliphate, against the caliph (left "cast on the thresholds of the
 Europeans"), against the House of Osman, and against the faith itself. In a reply the following week
 he held that no caliph meeting the legal conditions now existed — and that every caliph smelling of
-the foreigner (a dig at Sharif [[Hussein bin Ali]], then backed by Britain) should be refused.
+the foreigner (a dig at Sharif Hussein bin Ali, then backed by Britain) should be refused.
 
 **1938 — the obituary.** On Atatürk's death, in *al-Shihab* (the monthly he edited from 1925;
 vol. 14, part 9, Ramadan 1357 / Nov. 1938, pp. 1–5) Ben Badis wrote under the title
@@ -39,7 +39,7 @@ up arms alongside their masters. Kemal "did not rebel against Islam but against 
 themselves Muslims"; he took the Turks' freedom, independence and standing among nations — "which is
 not easily recovered if lost" — and Ben Badis answered the ulema who still scolded him by asking what
 the countries living under Napoleon's code had given their peoples. He closed with a prayer for his
-soul, condolences to the Turks, and congratulations to [[İsmet İnönü]].
+soul, condolences to the Turks, and congratulations to İsmet İnönü.
 
 Scholars read the reversal two ways. Ben Badis's own pre-1924 sympathy was with the Kemalists as
 anti-imperialist resisters, and a writer working to free Algeria from France was naturally drawn to

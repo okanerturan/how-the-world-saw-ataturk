@@ -22,7 +22,7 @@ cancellations. The series was released anyway — a broadcast version on FOX TV 
 theatrical films.
 
 Eighty-five years after the obituaries, the same contest over the same figure, running through a
-streaming platform: Armenian-American memory of the [[Armenian Genocide]] era against Turkish
+streaming platform: Armenian-American memory of the Armenian Genocide era against Turkish
 national memory, with an American entertainment corporation as the battlefield. The modern
 counterpart to the November 1938 press corpus — see [[Death and State Funeral of Atatürk]] and
 [[Can Dündar]] for the 2008 precursor.

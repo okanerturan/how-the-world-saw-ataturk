@@ -21,7 +21,7 @@ to "founder of the new country."
 
 Why this card matters beyond its region: a **colonized press writing about another nation's
 liberation under the censor's eye** — the admiration itself was a coded self-statement, the same
-mechanism as [[Sinn Féin and the IRA]] in Ireland and [[Kazi Nazrul Islam]] in Bengal, operating
+mechanism as Sinn Féin and the IRA in Ireland and Kazi Nazrul Islam in Bengal, operating
 under a censorship regime harsher than either. Dedicated Korean scholarship exists: a Seoul
 National University repository study on "the image of Kemal Pasha as a statesman in modern Korea
 and its evolution."

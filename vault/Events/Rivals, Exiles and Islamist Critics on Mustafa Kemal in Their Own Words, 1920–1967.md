@@ -18,13 +18,13 @@ Kemal rebelled against the sultan who sent him, that he wanted to rule alone, th
 
 ## The pattern
 
-- **The sultan's three versions of a rebellion:** [[Mehmed VI Vahideddin]] says the same thing to a British envoy (1921), to
+- **The sultan's three versions of a rebellion:** Mehmed VI Vahideddin says the same thing to a British envoy (1921), to
   a courtier in exile (1924) and in a memoir dictated in 1925: the palace sent Kemal to Anatolia and he rebelled. In March
   1924 he adds a religious charge, in a letter to Egyptian clergy. Two of the four are second-hand and one is a back-translation
   from English.
-- **Enver, the rival who knew him:** [[Enver Pasha]]'s own letters to Kemal and Cemal, May-July 1921, print the quarrel in his
+- **Enver, the rival who knew him:** Enver Pasha's own letters to Kemal and Cemal, May-July 1921, print the quarrel in his
   words: first the plea not to rule alone, then, after Hâkimiyet-i Milliye attacked him, the charge of personal ambition.
-- **The journalist:** [[Ali Kemal]] in Peyam-ı Sabah (6 May 1920) calls Kemal a false partisan who has opened a jihad of the
+- **The journalist:** Ali Kemal in Peyam-ı Sabah (6 May 1920) calls Kemal a false partisan who has opened a jihad of the
   crescent against the cross; the text reaches us through a 2019 article.
 - **The poet:** [[Necip Fazıl Kısakürek]] praised Atatürk in 1943 and was tried in 1967 for a lecture the prosecution read as a hit on him. The
   vault stores both, as they are.
@@ -37,7 +37,7 @@ Kemal rebelled against the sultan who sent him, that he wanted to rule alone, th
 
 > Şimdi muvaffakiyetinize bakarak, size iğvâ edenlere uyup memlekette bir şahsın veyâ yalnız bir kısmının tahakkümüne doğru gitmeyiniz.
 
-Turkish original (Ottoman-style transliteration by Yamauchi); the vault's translation: 'Now that you are succeeding, do not follow those who lead you astray towards the domination of the country by one person or one group.' Letter No. 97, undated (May 1921), Moscow to Ankara, printed in Yamauchi's documents section; OCR page markers 205-207 bracket the letter, the sentence falls just after the marker 207 (cited as pp. 205-208). Enver's archive reference given by Yamauchi: Klasör 7/Mustafa Kemal Dosyası. Immediately before, Enver writes that he had valued Kemal's ability since his own War Ministry ('İktidârınızı ... takdir ettim'). The letter also reports his claim that Kemal's circle had made him the dictator of an 'Ankara Communist Party'. Enver's own account of his conduct, written to a man he saw as a rival. Location: Yamauchi, Hoşnut Olamamış Adam — Enver Paşa: Türkiye'den Türkistan'a (Bağlam, 1995), letter No. 97, pp. 205-208. Evidence P. See [[Enver Pasha]].
+Turkish original (Ottoman-style transliteration by Yamauchi); the vault's translation: 'Now that you are succeeding, do not follow those who lead you astray towards the domination of the country by one person or one group.' Letter No. 97, undated (May 1921), Moscow to Ankara, printed in Yamauchi's documents section; OCR page markers 205-207 bracket the letter, the sentence falls just after the marker 207 (cited as pp. 205-208). Enver's archive reference given by Yamauchi: Klasör 7/Mustafa Kemal Dosyası. Immediately before, Enver writes that he had valued Kemal's ability since his own War Ministry ('İktidârınızı ... takdir ettim'). The letter also reports his claim that Kemal's circle had made him the dictator of an 'Ankara Communist Party'. Enver's own account of his conduct, written to a man he saw as a rival. Location: Yamauchi, Hoşnut Olamamış Adam — Enver Paşa: Türkiye'den Türkistan'a (Bağlam, 1995), letter No. 97, pp. 205-208. Evidence P. See Enver Pasha.
 
 
 ## Enver Pasha (1921-07-17)
@@ -46,7 +46,7 @@ Turkish original (Ottoman-style transliteration by Yamauchi); the vault's transl
 
 > Şimdi muvaffakiyet belirince tabi'i maksadınızı gösterdiniz. Beni ve arkadaşlarımı şahsi emellerinize engel sayıyorsunuz.
 
-Turkish original; vault translation: 'Now that success is in sight you have naturally shown your aim. You regard me and my friends as obstacles to your personal ambitions.' Letter No. 118, Enver (Moscow) to Mustafa Kemal (Ankara), 17 July 1921, sent after Enver read Hâkimiyet-i Milliye's article against him in the Istanbul papers (Yamauchi's archive ref: Klasör 7/Mustafa Kemal Dosyası). It ends: 'I regret to see that the personal character I have known since Tripoli has not changed in the position you have reached ... I pity you, beaten by your personal ambition and made so small.' Pages: OCR marker 233 falls inside the letter (cited as pp. 233-234). Location: Yamauchi, Hoşnut Olamamış Adam (Bağlam, 1995), letter No. 118, pp. 233-234. Evidence P. See [[Enver Pasha]].
+Turkish original; vault translation: 'Now that success is in sight you have naturally shown your aim. You regard me and my friends as obstacles to your personal ambitions.' Letter No. 118, Enver (Moscow) to Mustafa Kemal (Ankara), 17 July 1921, sent after Enver read Hâkimiyet-i Milliye's article against him in the Istanbul papers (Yamauchi's archive ref: Klasör 7/Mustafa Kemal Dosyası). It ends: 'I regret to see that the personal character I have known since Tripoli has not changed in the position you have reached ... I pity you, beaten by your personal ambition and made so small.' Pages: OCR marker 233 falls inside the letter (cited as pp. 233-234). Location: Yamauchi, Hoşnut Olamamış Adam (Bağlam, 1995), letter No. 118, pp. 233-234. Evidence P. See Enver Pasha.
 
 
 ## Enver Pasha (1921-07-22)
@@ -55,7 +55,7 @@ Turkish original; vault translation: 'Now that success is in sight you have natu
 
 > Anadolu'da Mustafa Kemal Paşa şahsen beni rakib telâkki
 
-Turkish original; vault translation: 'in Anatolia Mustafa Kemal Pasha personally regards me as a rival'. Letter No. 120, Enver to Cemal Pasha (Kabul), 22 July 1921; the same letter says Kemal had a Hâkimiyet-i Milliye article written 'aimed only at me' and that 'we have no movement against Mustafa Kemal Pasha, on the contrary we try to calm the negative friends'. Written to an ally, not to Kemal; cited as pp. 234-235 (OCR marker 235 follows the sentence). Location: Yamauchi, Hoşnut Olamamış Adam (Bağlam, 1995), letter No. 120, pp. 234-235. Evidence P. See [[Enver Pasha]].
+Turkish original; vault translation: 'in Anatolia Mustafa Kemal Pasha personally regards me as a rival'. Letter No. 120, Enver to Cemal Pasha (Kabul), 22 July 1921; the same letter says Kemal had a Hâkimiyet-i Milliye article written 'aimed only at me' and that 'we have no movement against Mustafa Kemal Pasha, on the contrary we try to calm the negative friends'. Written to an ally, not to Kemal; cited as pp. 234-235 (OCR marker 235 follows the sentence). Location: Yamauchi, Hoşnut Olamamış Adam (Bağlam, 1995), letter No. 120, pp. 234-235. Evidence P. See Enver Pasha.
 
 
 ## Mehmed VI Vahideddin (1921-03-23)
@@ -64,7 +64,7 @@ Turkish original; vault translation: 'in Anatolia Mustafa Kemal Pasha personally
 
 > Londra'da yirmi veya otuz sene oturtsanız ve sonra 24 saatliğine dağın tepesine götürseniz derhal eski halini alır
 
-Bardakçı's Turkish rendering of Vahideddin's words as reported in Sir Horace Rumbold's English dispatch; the sentence is a back-translation, not the Sultan's own Turkish. Vahideddin also said Kemal 'is a revolutionary' and that Bekir Sami was 'a Circassian, all the same', and that a forced caliph would be 'an instrument in the hands of wolves who like foggy weather' (same page). The date 23 March 1921 is taken from Bardakçı's chapter note for this chapter ('a two-and-a-half-hour private interview'), which the OCR does not attach by number to this passage; treat the day as inferred, the year as safe. Cited from the 2006 İnkılâp edition, p. 215 (OCR folio). Location: Bardakçı, Şahbaba (İnkılâp, 2006; first ed. Pan 1998), p. 215. Evidence S. See [[Mehmed VI Vahideddin]].
+Bardakçı's Turkish rendering of Vahideddin's words as reported in Sir Horace Rumbold's English dispatch; the sentence is a back-translation, not the Sultan's own Turkish. Vahideddin also said Kemal 'is a revolutionary' and that Bekir Sami was 'a Circassian, all the same', and that a forced caliph would be 'an instrument in the hands of wolves who like foggy weather' (same page). The date 23 March 1921 is taken from Bardakçı's chapter note for this chapter ('a two-and-a-half-hour private interview'), which the OCR does not attach by number to this passage; treat the day as inferred, the year as safe. Cited from the 2006 İnkılâp edition, p. 215 (OCR folio). Location: Bardakçı, Şahbaba (İnkılâp, 2006; first ed. Pan 1998), p. 215. Evidence S. See Mehmed VI Vahideddin.
 
 
 ## Mehmed VI Vahideddin (1924-03-11)
@@ -73,7 +73,7 @@ Bardakçı's Turkish rendering of Vahideddin's words as reported in Sir Horace R
 
 > Mustafa Kemal ve hempaları Müslümanlar'ın sevgisi, Osmanlılar'ın şehameti ve Allah'ın inayetiyle Yunanlılara galip geldi
 
-Turkish rendering by Bardakçı of a letter (presumably Arabic) to Sheikh Muhammad Farraj al-Minyawi, head of the Egyptian Ulema Union. The sentence goes on (marked '(...ama)'): 'but they at once turned against the sharia that was its source'. The following lines, partly garbled in the OCR, list the veil lifted, women in bars and cafés, Muslim-Christian marriage allowed, polygamy abolished, hajj made 'a pretext', and that Kemal 'humiliated the caliphate and the House of Osman'. Vahideddin's own list of grievances; the vault does not endorse it. Cited p. 377 (OCR folio). Location: Bardakçı, Şahbaba (İnkılâp, 2006), p. 377. Evidence S. See [[Mehmed VI Vahideddin]].
+Turkish rendering by Bardakçı of a letter (presumably Arabic) to Sheikh Muhammad Farraj al-Minyawi, head of the Egyptian Ulema Union. The sentence goes on (marked '(...ama)'): 'but they at once turned against the sharia that was its source'. The following lines, partly garbled in the OCR, list the veil lifted, women in bars and cafés, Muslim-Christian marriage allowed, polygamy abolished, hajj made 'a pretext', and that Kemal 'humiliated the caliphate and the House of Osman'. Vahideddin's own list of grievances; the vault does not endorse it. Cited p. 377 (OCR folio). Location: Bardakçı, Şahbaba (İnkılâp, 2006), p. 377. Evidence S. See Mehmed VI Vahideddin.
 
 
 ## Mehmed VI Vahideddin (1924)
@@ -82,7 +82,7 @@ Turkish rendering by Bardakçı of a letter (presumably Arabic) to Sheikh Muhamm
 
 > Bildiğiniz gibi Mustafa Kemal Paşa'yı Anadolu'ya biz gönderdik ve o açık bir şekilde bize isyan etti.
 
-Belge 2 in Bardakçı's documents section: Turkish translation of parts of Şerif Paşa's French record of private conversations at San Remo, 1924-25; the year is the range's start. The same notes list Kemal's 'different roles' (hiding behind the defence of the country to keep leading the movement, running propaganda against the palace, accusing it of taking foreign money) and call the accusations 'lies'. Bardakçı also quotes the sentence in the body (p. 215) in slightly different words as from 'his memoirs'. Not the Sultan's own text but a courtier's record; the book's own page for Belge 2 is not legible in the OCR. Location: Bardakçı, Şahbaba (İnkılâp, 2006), Belgeler, Belge 2 (Şerif Paşa's notes); body quotation p. 215. Evidence S. See [[Mehmed VI Vahideddin]].
+Belge 2 in Bardakçı's documents section: Turkish translation of parts of Şerif Paşa's French record of private conversations at San Remo, 1924-25; the year is the range's start. The same notes list Kemal's 'different roles' (hiding behind the defence of the country to keep leading the movement, running propaganda against the palace, accusing it of taking foreign money) and call the accusations 'lies'. Bardakçı also quotes the sentence in the body (p. 215) in slightly different words as from 'his memoirs'. Not the Sultan's own text but a courtier's record; the book's own page for Belge 2 is not legible in the OCR. Location: Bardakçı, Şahbaba (İnkılâp, 2006), Belgeler, Belge 2 (Şerif Paşa's notes); body quotation p. 215. Evidence S. See Mehmed VI Vahideddin.
 
 
 ## Mehmed VI Vahideddin (1925)
@@ -91,7 +91,7 @@ Belge 2 in Bardakçı's documents section: Turkish translation of parts of Şeri
 
 > Ertesi gün Mustafa Kemal'in şahsımız ve hanedanımız aleyhinde tefevvühâtını gazetelerde görünce, benim de karar verecek zamanım geldi.
 
-Turkish original (Ottoman style). Belge 1, 'Sultan Vahideddin'in Hatıraları (1925)', dictated at San Remo to Avni Paşa and left unfinished; the first four paragraphs are the Sultan's own hand, the rest Avni's. Bardakçı removed some phrases (marked with dots), for example the sentence on Kemal as the aide he sent to Anatolia ('...Mustafa Kemal'in ..... karşısında kalmıştım'). The passage describes the day after a meeting in which a visitor offered him a reduced caliphate if he would recognise Ankara; the sequence places it shortly before his departure in November 1922 (the OCR is garbled there). The page number of Belge 1 is not legible in the OCR. Location: Bardakçı, Şahbaba (İnkılâp, 2006), Belgeler, Belge 1. Evidence S. See [[Mehmed VI Vahideddin]].
+Turkish original (Ottoman style). Belge 1, 'Sultan Vahideddin'in Hatıraları (1925)', dictated at San Remo to Avni Paşa and left unfinished; the first four paragraphs are the Sultan's own hand, the rest Avni's. Bardakçı removed some phrases (marked with dots), for example the sentence on Kemal as the aide he sent to Anatolia ('...Mustafa Kemal'in ..... karşısında kalmıştım'). The passage describes the day after a meeting in which a visitor offered him a reduced caliphate if he would recognise Ankara; the sequence places it shortly before his departure in November 1922 (the OCR is garbled there). The page number of Belge 1 is not legible in the OCR. Location: Bardakçı, Şahbaba (İnkılâp, 2006), Belgeler, Belge 1. Evidence S. See Mehmed VI Vahideddin.
 
 
 ## Ali Kemal (1920-05-06)
@@ -100,7 +100,7 @@ Turkish original (Ottoman style). Belge 1, 'Sultan Vahideddin'in Hatıraları (1
 
 > sahte bir taraftar, bir riya kisvesine bürünerek, haça karşı hilal cihadını açmış, ehli imanın safdillerini aldatan
 
-Turkish original as quoted by Fevzi Çakmak (historian, not the marshal), 'Milli Mücadele Dönemi Türk Mizahında Muhalif Bir Kimlik: Ali Kemal', Tarih İncelemeleri Dergisi 34/2 (2019), 413-441, DOI 10.18513/egetid.661569, citing note 15 'Peyam-ı Sabah, 6 Mayıs 1920'. Vault translation: 'a false partisan, who, wrapped in the cloak of hypocrisy, has opened a crescent jihad against the cross, deceiving the simple-hearted of the faithful'. Çakmak places the phrase in his own sentence about Kemal in Havza, so it is a quotation of the editorial, not a full text of it. The same article says Ali Kemal called the Ankara deputies 'small fellows' (23 Apr 1920) and named Kemal among the 'bloody and cruel' members of the Union and Progress circle (7 May 1920). Ali Kemal was lynched on 6 Nov 1922. Location: Çakmak, Tarih İncelemeleri Dergisi 34/2 (2019), p. 416, n. 15. Evidence S. See [[Ali Kemal]].
+Turkish original as quoted by Fevzi Çakmak (historian, not the marshal), 'Milli Mücadele Dönemi Türk Mizahında Muhalif Bir Kimlik: Ali Kemal', Tarih İncelemeleri Dergisi 34/2 (2019), 413-441, DOI 10.18513/egetid.661569, citing note 15 'Peyam-ı Sabah, 6 Mayıs 1920'. Vault translation: 'a false partisan, who, wrapped in the cloak of hypocrisy, has opened a crescent jihad against the cross, deceiving the simple-hearted of the faithful'. Çakmak places the phrase in his own sentence about Kemal in Havza, so it is a quotation of the editorial, not a full text of it. The same article says Ali Kemal called the Ankara deputies 'small fellows' (23 Apr 1920) and named Kemal among the 'bloody and cruel' members of the Union and Progress circle (7 May 1920). Ali Kemal was lynched on 6 Nov 1922. Location: Çakmak, Tarih İncelemeleri Dergisi 34/2 (2019), p. 416, n. 15. Evidence S. See Ali Kemal.
 
 
 ## Necip Fazıl Kısakürek (1943-11-19)

@@ -53,7 +53,7 @@ Söz sahibinin Atatürk'e karşı tutumu (`polarity`): 511 hayranlık duyan (adm
 | `data/schema/` | Kayıt ve çeviri dosyaları için JSON Şemaları. |
 | `data/templates/voice.yaml` | Yeni bir kayıt için açıklamalı şablon. |
 | `data/README.md` | Alan başvuru kılavuzu: her alan, kuralı ve izin verilen değerleri. |
-| `vault/` | Her kişi veya olay için bir adet olmak üzere araştırma notları. Kayıtlar `node` alanıyla bunlara işaret eder. |
+| `vault/` | Doğrulanmış kayıtlardan oluşturulan araştırma notları; her kişi veya olay için bir not, her notun sonunda kaynak listesi. Kayıtlar `node` alanıyla bunlara işaret eder. |
 | `research/` | Araştırma sorusu ve yöntemi (`RESEARCH.md`), arama günlüğü (`HUNT.md`), her karar ve düzeltme (`LEDGER.md`), henüz tamamlanmamış ipuçları (`candidates/`) ve kullanılan betikler (`pipeline/`). |
 | `tools/` | Doğrulayıcı (`tools/validate.mjs`), yeni kayıt taslak oluşturucusu (`tools/new-voice.mjs`) ve ortak yükleyici (`tools/lib/records.mjs`). |
 | `viz/` | Sergi (Vite ve three.js). `viz/scripts/build-data.mjs` verisini `data/` klasöründen oluşturur. |
@@ -110,4 +110,4 @@ Erişim tarihini veriyi kullandığınız tarihle değiştirin. Tek bir kaydı k
 
 ## Emeği geçenler
 
-Okan Erturan tarafından oluşturulmuştur. Aramaların büyük kısmı yapay zekâ araştırma ajanlarıyla yapılmış; ardından her kayıt ayrı bir doğrulayıcı tarafından kaynağıyla karşılaştırılarak yeniden doğrulanmış ve bu doğrulama kaydın içine işlenmiştir.
+Okan Erturan tarafından oluşturulmuştur. Aramaların büyük kısmı yapay zekâ araştırma ajanlarıyla yapıldı. Ardından her kayıt, onu yazmamış olan ikinci bir yapay zekâ ajanı tarafından kaynağıyla karşılaştırılarak yeniden doğrulandı ve bu doğrulama kaydın içine işlendi. Kaynakların çoğunu henüz bir insan yeniden okumadı: siz okursanız, ne bulduğunuzu [Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) formuyla bildirebilirsiniz.

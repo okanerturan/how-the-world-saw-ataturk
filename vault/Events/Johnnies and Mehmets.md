@@ -32,7 +32,7 @@ Why it leads the project: a grieving Australia and a reconciling Turkey **co-aut
 both needed**, then installed him at their most sacred sites. And the Şükrü Kaya problem (the vault's label, after the title of Reuben
 Silverman's essay on Kaya): the words of borderless tolerance reach us through the regime's chief homogenizer, in
 the middle of the deportation-law era. No single artifact demonstrates "Atatürk as Rorschach"
-better. See [[Gallipoli Campaign]], [[William Birdwood]], [[Historiography of Atatürk]].
+better. See Gallipoli Campaign, William Birdwood, [[Historiography of Atatürk]].
 
 ## Sources
 - [Honest History: "an Anzac confidence trick"](https://honesthistory.net.au/wp/stephens-david-johnnies-and-mehmets-kemal-ataturks-quote-is-an-anzac-confidence-trick/) · [Honest History research note](https://honesthistory.net.au/wp/wp-content/uploads/539-1104-1-SM.pdf) · [Özakıncı's Bütün Dünya article](http://static.guim.co.uk/ni/1429509048317/Part-1-V2-March-article.pdf) · [Daley, *The Guardian*, Apr 2015](https://bluewatsons.tumblr.com/post/144043614159/paul-daley-ataturks-johnnies-and-mehmets-words) · [Silverman, on Kaya's ministry only](https://reubensilverman.wordpress.com/2015/04/19/the-sukru-kaya-problem/) · [Honest History, "Ankara calling" (Canberra memorial, 25 Apr 1985)](https://honesthistory.net.au/wp/ankara-calling-the-rush-to-build-the-ataturk-memorial-in-anzac-parade-canberra-1984-85/)

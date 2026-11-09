@@ -10,7 +10,7 @@ era: [posthumous]
 
 # German Parliaments on Atatürk — Hitler's Reichstag 1941 and the Bundestag 1983–2025
 
-Two seams in German parliamentary record. (1) The **Reichstag**: the German original of [[Adolf Hitler]]'s speech of 4 May 1941, read on the page image of the Bayerische Staatsbibliothek's digitised *Verhandlungen des Reichstags*. (2) The **Bundestag**: the plenary protocols in the DIP database, scanned in full for Atatürk and Kemal; the records below are the speeches in which a named member states a view of him.
+Two seams in German parliamentary record. (1) The **Reichstag**: the German original of Adolf Hitler's speech of 4 May 1941, read on the page image of the Bayerische Staatsbibliothek's digitised *Verhandlungen des Reichstags*. (2) The **Bundestag**: the plenary protocols in the DIP database, scanned in full for Atatürk and Kemal; the records below are the speeches in which a named member states a view of him.
 
 ## Hitler, Reichstag, 4 May 1941 — the German original
 

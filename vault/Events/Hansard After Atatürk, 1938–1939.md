@@ -21,7 +21,7 @@ Mustafa Kemal as "the genius of centuries" or similar, repeated in Turkish colum
 contributions, so the engine is live and honours phrase queries. A combined query ("Lloyd George" Kemal genius, 1919–39)
 also returns 0; the only contributions matching "Mustapha Kemal" between August and December 1922 are
 two (4 Aug, *Near East*, and 14 Dec, a debate on American debt), which I did not read and which are not the quote. This
-confirms what the ledger row for [[David Lloyd George]] already carried from secondary sources: the line has no
+confirms what the ledger row for David Lloyd George already carried from secondary sources: the line has no
 parliamentary source (Parliament was in recess through the Chanak weeks, and the Commons hits for 1922 are 4 Aug and 14 Dec). It cannot, of course, exclude a speech
 or an interview elsewhere; it removes only the parliamentary home people give it.
 
@@ -65,8 +65,8 @@ Anglo-Turkish Bill of July 1938, debated below). Mourning came elsewhere — see
   of his successor, President General Inönü."*
 
 The pattern is the Rorschach one in miniature: the House said nothing at his death, but when it needed an exemplar —
-for a credit bill, for the Spanish argument, for a treaty — it reached for him. See [[Winston Churchill]] and
-[[Lord Curzon]] for the earlier British gazes, and [[Treaty of Lausanne]].
+for a credit bill, for the Spanish argument, for a treaty — it reached for him. See Winston Churchill and
+Lord Curzon for the earlier British gazes, and Treaty of Lausanne.
 
 Caveat: Hansard's search covers its own indexed text; spellings (Atatiirk/Ataturk/Atatürk, Mustapha/Mustafa) were tried in several
 forms; a mention under another transliteration or inside a table could escape. Debate section IDs: Strabolgi `3bc64e63-0d16-4836-b296-4a66f58bd544`,

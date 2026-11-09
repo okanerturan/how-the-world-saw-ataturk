@@ -29,7 +29,7 @@ Indian column has. Three strands, each sourced:
 - **The 1932 travelogue and the 1938 shutdown.** The Indian scholar Ramkrishna Bhattacharya
   (*Frontier*) notes that Tagore commended Kemal Pasha "with unconcealed admiration" in his Persia
   travelogue (*Japane Parasye*, written 1932–33; English *Journey to Persia and Iraq*, p. 31) and in
-  a *Modern Review* essay of October 1932 — a pairing of Kemal with [[Reza Shah Pahlavi]] as the
+  a *Modern Review* essay of October 1932 — a pairing of Kemal with Reza Shah Pahlavi as the
   architects of the two new Asian states. And **classes at Santiniketan were suspended on
   18 November 1938** after Atatürk's death.
 
@@ -41,7 +41,7 @@ nationalism that had thrown out an empire *and* a priesthood. The exception is t
 1922; the scholarly and press record puts the only contact at the 1926 Istanbul stopover, and
 Vajpayee himself says they never met.
 
-See [[Khilafat Disillusion, 1924]], [[India Mourns, November 1938]], [[Kemalism]].
+See [[Khilafat Disillusion, 1924]], [[India Mourns, November 1938]], Kemalism.
 
 ## Sources
 - Ramkrishna Bhattacharya, "The World Comes First: Tagore and his Nationalism," *Frontier* 51(45) — [frontierweekly.com](https://frontierweekly.com/articles/vol-51/51-45/51-45-Tagore%20and%20his%20Nationalism.html) (cites *Rabindra-rachanabali* 12:449–50; *Journey to Persia and Iraq*, p. 31; *Modern Review* Oct 1932; Bandyopadhyaya vol. 3:143)

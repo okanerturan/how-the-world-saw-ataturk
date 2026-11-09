@@ -14,7 +14,7 @@ Days after the battle of the Sakarya ended (the front's motion is dated 14/15 Se
 (Dönem 1, cilt 12, 79th sitting, pp. 262–265) and voted Mustafa Kemal the rank of Marshal (*müşir*) and the title
 **Gazi**. Three gazes:
 
-- **[[Fevzi Çakmak]] and [[İsmet İnönü]]** (p. 263), from the West Front, jointly telegraphed a motion that credits the
+- **Fevzi Çakmak and İsmet İnönü** (p. 263), from the West Front, jointly telegraphed a motion that credits the
   Commander-in-Chief with the victory at the battlefield itself: *"Bizzat muharebe meydanındaki tedabir ile
   muzafferiyetin âmil ve müessiri olmuş olan Başkumandan Mustafa Kemal Paşa Hazretlerine müşirlik rütbesi ve gazilik
   unvanı tevcihini teklif ve istirham ederiz."* ("we propose and request the rank of Marshal and the title of Gazi for
@@ -30,7 +30,7 @@ Days after the battle of the Sakarya ended (the front's motion is dated 14/15 Se
 **Reading.** All three are admiring and all three are *requests*: the honours were proposed from the bottom of the chain
 (front commanders, then deputies), not given by Kemal's own motion. Within six weeks the same Assembly's closed sitting
 was arguing over whether to extend the powers granted in August
-([[TBMM Closed Session of 31 October 1921 — Renewing the Commander-in-Chief]]). See also [[Turkish War of Independence]].
+([[TBMM Closed Session of 31 October 1921 — Renewing the Commander-in-Chief]]). See also Turkish War of Independence.
 
 ## Sources
 - TBMM, *Zabıt Ceridesi* (Hansard), Dönem 1, cilt 12, 79. içtima, 19 Eylül 1337 [1921], printed pp. 263–264 (proposal text p. 263, Tunalı Hilmi p. 264) · P — [PDF](https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012079.pdf)

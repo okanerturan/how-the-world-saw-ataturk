@@ -18,7 +18,7 @@ Turkish."** On 14 October 1932, two weeks into office, he received the Turkish e
 and explained why — three ties: *one race, our Asian-ness*; the high soldierly quality he had
 seen in the Turks in the Great War; and **"the great revolution made by your great leader's
 genius."** He added that he followed Atatürk's history and language initiatives "with admiration
-and attention" (see [[Turkish History Thesis]]).
+and attention" (see Turkish History Thesis).
 
 He then went to Ankara. On **21 October 1933** Atatürk received Gömbös and Foreign Minister
 Kálmán Kánya for two hours; to the Hungarian journalists he offered a piece of Turanian theatre
@@ -31,10 +31,10 @@ Prince Rákóczi, 175 Hungarians strong, and Gömbös's Rákóczi speech closed 
 anthem.
 
 The gaze has a hook in it. Gömbös's one fixed star was revision of the Trianon settlement;
-**his idol was [[Benito Mussolini]] first, Atatürk second** (Erdem), and the Ankara visit was
+**his idol was Benito Mussolini first, Atatürk second** (Erdem), and the Ankara visit was
 meant to peel Turkey off the anti-revisionist camp and broker a Turkish–Bulgarian line behind
 the Little Entente. Atatürk, whose whole foreign policy was frontiers-as-they-are, gave warmth
-and no commitment; when Turkey signed the [[Balkan Pact]] in February 1934 the Hungarian
+and no commitment; when Turkey signed the Balkan Pact in February 1934 the Hungarian
 embassy reported the pact as a Turkish step *against* Turco-Hungarian friendship — and Ankara
 spent the next weeks reassuring Budapest by protocol. Turkish diplomatic reports still rate
 Atatürk as valuing Gömbös's friendship highly into 1935, and the Turkish press mourned him warmly

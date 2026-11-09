@@ -10,7 +10,7 @@ era: [contemporary]
 
 # Indian Legislative Assembly on Kemal, 1924–1925 — Chaman Lall and Motilal Nehru
 
-Two Legislative Assembly speeches. Chaman Lall (25 March 1924) in the debate on passports for the Khilafat delegation to Angora: Kemal's sword, not British diplomacy, had won revision of Sevres. Motilal Nehru (11 February 1925) used Kemal's £40 salary as head of the administration in the debate on the President's pay. Earlier Indian reactions: [[Gaya to Angora — Indian Voices on Kemal, 1922–1924]]; later: [[Jawaharlal Nehru]]. (A third voice of the 1924 debates, Harchandrai Vishindas on 6 March 1924, said the abolition of the Caliphate was 'a lesson' the Government of India should take, and is noted in the candidates file.)
+Two Legislative Assembly speeches. Chaman Lall (25 March 1924) in the debate on passports for the Khilafat delegation to Angora: Kemal's sword, not British diplomacy, had won revision of Sevres. Motilal Nehru (11 February 1925) used Kemal's £40 salary as head of the administration in the debate on the President's pay. Earlier Indian reactions: [[Gaya to Angora — Indian Voices on Kemal, 1922–1924]]; later: Jawaharlal Nehru. (A third voice of the 1924 debates, Harchandrai Vishindas on 6 March 1924, said the abolition of the Caliphate was 'a lesson' the Government of India should take, and is noted in the candidates file.)
 
 ## Diwan Chaman Lall (1924-03-25)
 

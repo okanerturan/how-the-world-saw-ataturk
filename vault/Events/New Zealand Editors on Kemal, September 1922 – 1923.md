@@ -13,7 +13,7 @@ era: [contemporary]
 **The Dominion that refused to be asked.** The existing card [[New Zealand Leaders on Kemal at Chanak, September 1922]] has
 the opening leaders (18–20 Sept). This card follows the Papers Past leader columns through the crisis, sampled from 100
 results for *Kemal* between 15 Sept and 31 Oct 1922 plus 1923, and keeps only editorial opinion; the cabled news and
-syndicated biographies ("Who Is Kemal?", "Kemal of the Iron Hand," Clair Price's portrait — see [[Clair Price]]) are not gazes.
+syndicated biographies ("Who Is Kemal?", "Kemal of the Iron Hand," Clair Price's portrait — see Clair Price) are not gazes.
 
 **Chanak (September–October 1922).**
 - *Dominion* ("Without Prejudice," 15 Sept) jokes that "Kemal Pasha is an unusually tough nut to crack" for Greece, especially with nobody having the price of a

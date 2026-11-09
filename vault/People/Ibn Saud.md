@@ -20,11 +20,11 @@ secular/Wahhabi divide.
 
 - **1926.** Proclaimed King of the Hejaz on 8 January, Abdulaziz found Turkey the **first country
   in the world to recognise** his kingdom (May 1926) — a move Hakan Özoğlu reads as pragmatic, not
-  ideological, and probably relished by Kemalist officers who despised the Hashemite [[Hussein bin Ali]], the Arab Revolt's leader. Ankara sent three envoys at once; the chargé d'affaires reached
+  ideological, and probably relished by Kemalist officers who despised the Hashemite Hussein bin Ali, the Arab Revolt's leader. Ankara sent three envoys at once; the chargé d'affaires reached
   Jeddah on 25 May.
 - **The Mecca congress.** On 26 March 1926 Abdulaziz invited Turkish representatives to the Islamic
   Congress he was convening in Mecca — against the grain of an Arab world that wished to isolate
-  Turkey after the [[Abolition of the Caliphate]]. Özoğlu's guess is that the Saudis wanted a
+  Turkey after the Abolition of the Caliphate. Özoğlu's guess is that the Saudis wanted a
   regional ally beyond the Arab world; both new states, he notes, shared one thing: neither was a
   mandate of a Western power. Turkey went (Edip Bey, 25 May) but had refused the Cairo Caliphate
   conference that month on secularist grounds, and in Mecca objected to any political agenda.
@@ -40,8 +40,8 @@ secular/Wahhabi divide.
 
 The deck position is **instrumental, with courtesy**: Ibn Saud neither borrowed Kemalism nor
 condemned it, which makes him the control case for the Arab pious right — compare the open hostility
-of [[Shakib Arslan]], the theological prosecution of [[Mustafa Sabri Efendi]], and the Hashemite
-mirror of [[Hussein bin Ali]]. Diplomatic relations stayed at chargé level from 1926 to 1942.
+of [[Shakib Arslan]], the theological prosecution of Mustafa Sabri Efendi, and the Hashemite
+mirror of Hussein bin Ali. Diplomatic relations stayed at chargé level from 1926 to 1942.
 (Caveat: motive is inference — Cengiz herself notes "few sources about Turkey's motivations".)
 
 ## Sources

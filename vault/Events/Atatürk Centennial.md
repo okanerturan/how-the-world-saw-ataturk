@@ -24,7 +24,7 @@ click).
 The domestic wrinkle worth the project's attention: the centennial year arrived ten months after
 the **12 September 1980 military coup**, so the worldwide celebration of Atatürk unfolded inside
 Turkey under a junta that wrapped itself in his authority — the state-managed gaze at maximum
-volume, exactly as [[Kemalism]] was being rewritten from above. Pair with [[10 Kasım]] and the
+volume, exactly as Kemalism was being rewritten from above. Pair with [[10 Kasım]] and the
 memory-studies shelf in [[Historiography of Atatürk]].
 
 ## Sources

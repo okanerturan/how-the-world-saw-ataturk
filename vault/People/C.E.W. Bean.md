@@ -40,7 +40,7 @@ years before Anzac Parade.
 records his return to the peninsula) is not yet read here — only the Official History line is
 sourced. Intensity 2.
 
-See [[Gallipoli Campaign]], [[Winston Churchill]], [[Johnnies and Mehmets]].
+See Gallipoli Campaign, Winston Churchill, [[Johnnies and Mehmets]].
 
 ## Sources
 - Ayhan Aktar, ["Rewriting the history of Gallipoli: a Turkish perspective," Honest History, 25 July 2017](https://honesthistory.net.au/wp/rewriting-the-history-of-gallipoli-a-turkish-perspective) (§ on Bean; citing Macleod, *Reconsidering Gallipoli*, Manchester UP 2004, p. 78)

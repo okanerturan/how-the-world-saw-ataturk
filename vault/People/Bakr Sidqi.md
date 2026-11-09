@@ -29,7 +29,7 @@ last detail is from a Wikipedia article and the trip's Turkish end is not indepe
 here — T-tier). Whatever Atatürk made of the invitation, the pairing says what the officers wanted
 from Turkey: the army-led republic.
 
-His Kemalism, on this evidence, was borrowed machinery rather than a creed. For the other pole of the Iraqi mirror, see [[Faisal I of Iraq]].
+His Kemalism, on this evidence, was borrowed machinery rather than a creed. For the other pole of the Iraqi mirror, see Faisal I of Iraq.
 
 ## Sources
 - Britannica, "Bakr Ṣidqī" — https://britannica.com/biography/Bakr-Sidqi (S, reference)

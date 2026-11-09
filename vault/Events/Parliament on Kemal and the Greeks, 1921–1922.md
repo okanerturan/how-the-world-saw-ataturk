@@ -17,14 +17,14 @@ Kemal and his army" (Commons, 14 Dec 1922), the Hansard record shows Westminster
 - **Hostile — the Armenian and Greek lobby.** *Viscount Bryce* (Lords, "British Mandates," 23 Jun 1921) makes any peace with
   Constantinople or "the rebel government" at Angora conditional on safety for the Christian communities. *Lord Robert Cecil*
   (19 Dec 1921) says the French had "made an arrangement with Mustapha Kemal which involves the complete abandonment of the Christian
-  population" in Cilicia. *T. P. O'Connor* (27 Mar 1922) sneers at "M. Bouillon's enlightened statesmen" ([[Franklin Bouillon]]),
+  population" in Cilicia. *T. P. O'Connor* (27 Mar 1922) sneers at "M. Bouillon's enlightened statesmen" (Franklin Bouillon),
   citing an escaped Malta internee who "joined Moustapha Kemal at Angora as a general in his army," and on 26 Jun asks what the
   Government will do about Kemal's Ismid speech, which he says justified atrocities against the Greeks.
 - **Lloyd George, twice.** On 22 Dec 1920 he had called Kemal "a mutinous general" and refused to buy "the good will of this
   general" with Smyrna — a passage T. P. O'Connor read back into the House on 8 Feb 1922 to show how far the Coalition had turned.
   On 4 Aug 1922, the month before Smyrna: *"Mustapha Kemal may be a great general and a great patriot; but the head of Islam is in
-  Constantinople."* See [[David Lloyd George]].
-- **Admiring — the soldier's view.** *Sir Charles Townshend* (30 May 1922), who surrendered at Kut ([[Charles Townshend]]): the
+  Constantinople."* See David Lloyd George.
+- **Admiring — the soldier's view.** *Sir Charles Townshend* (30 May 1922), who surrendered at Kut (Charles Townshend): the
   Allied occupation of Constantinople "at once lit up the Turkish Nationalist party, and created this patriot Kemal, whom the Prime Minister described as a revolting general.
   There have been other revolting generals in history. Washington was one"; he would have gone to Ismid to "say to him, 'For
   heaven's sake, Kemal, moderate your demands'," and ends "I know him well and respect him." This is a Commons speech in his own
@@ -36,7 +36,7 @@ Kemal and his army" (Commons, 14 Dec 1922), the Hansard record shows Westminster
 **A gap worth knowing.** Parliament was in recess through the Chanak weeks, so the Hansard record has no debate for 11 Sept –
 mid-Nov 1922. Between 5 Aug and 13 Dec 1922 the sweep finds no contribution in either House containing the words *Kemal*, *Kemalist* or
 *Ataturk*; the Lords address debate of 23 Nov and the Commons foreign affairs debate of 24 Nov surface only under *Angora* (see
-[[Chanak Crisis]]). The Chanak summer is therefore recoverable from the press, not from Hansard — see
+Chanak Crisis). The Chanak summer is therefore recoverable from the press, not from Hansard — see
 [[New Zealand Editors on Kemal, September 1922 – 1923]] and [[New Zealand Leaders on Kemal at Chanak, September 1922]].
 
 Previous: [[Parliament Meets Kemal, February–March 1920]]. Next: [[Westminster on the Turkish Dictator, 1924–1938]].

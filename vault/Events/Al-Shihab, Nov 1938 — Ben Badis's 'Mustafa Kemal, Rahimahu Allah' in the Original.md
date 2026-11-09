@@ -27,7 +27,7 @@ What the vault's summaries say is confirmed in the Arabic text:
   took the Shari'a rulings from the Turks; but he alone is not responsible for that" — they can take them back "when and as they like", and the
   Muslim countries living under Napoleon's code are asked what *their* ulama have said (p. 133–134).
 - End (p. 134): *"God have mercy on Mustafa, may the scale of his good deeds weigh heavy"*; condolences to "the noble Turkish nation, in which we have
-  grandsons and maternal uncles", and congratulations to the new president İsmet İnönü (see [[İsmet İnönü]]).
+  grandsons and maternal uncles", and congratulations to the new president İsmet İnönü (see İsmet İnönü).
 
 **Upgrade for the vault.** The 1938 record `ben-badis-1938` can now be marked primary (the text is his, signed) rather than reported by Guenn and al-Sallabi:
 cite *al-Shihab* 14/9, pp. 131–134 (pdf pp. 5–8). The page is the same utterance, so no new gaze record. Two corrections to the existing

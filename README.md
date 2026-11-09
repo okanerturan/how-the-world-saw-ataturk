@@ -53,7 +53,7 @@ Stance of the voice towards Atatürk (`polarity`): 511 admiring, 138 conflicted,
 | `data/schema/` | JSON Schemas for a record and for a translation file. |
 | `data/templates/voice.yaml` | The commented template for a new record. |
 | `data/README.md` | The field reference: every field, its rule and its allowed values. |
-| `vault/` | Research notes, one per person or event. Records point to them with the `node` field. |
+| `vault/` | Research notes built from the checked records, one per person or event, each ending with its list of sources. Records point to them with the `node` field. |
 | `research/` | The research question and method (`RESEARCH.md`), the search log (`HUNT.md`), every decision and correction (`LEDGER.md`), leads not yet done (`candidates/`) and the scripts used (`pipeline/`). |
 | `tools/` | The validator (`tools/validate.mjs`), the new-record scaffolder (`tools/new-voice.mjs`) and the shared loader (`tools/lib/records.mjs`). |
 | `viz/` | The exhibition (Vite and three.js). `viz/scripts/build-data.mjs` builds its data from `data/`. |
@@ -110,4 +110,4 @@ Replace the access date with the date you used it. To cite a single record, cite
 
 ## Credits
 
-Built by Okan Erturan. Much of the searching was done with AI research agents; every record was then re-checked against its source by a separate checker, and that check is stored in the record.
+Built by Okan Erturan. Much of the searching was done with AI research agents. Every record was then re-checked against its source by a second AI agent that had not written it, and that check is stored in the record. No person has yet re-read most of the sources: if you do, the [Check a record](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) form is how to tell us what you found.

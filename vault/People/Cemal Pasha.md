@@ -28,8 +28,8 @@ attitude" in staying in Syria. The closing paragraph of ch. VIII looks to the fu
 succeed in saving proud Stamboul and beautiful Smyrna for their country, thanks to the recent national rising under
 the leadership of Mustafa Kemal Pasha"* (pp. 237–238).
 
-**Reading.** Cemal's colleague [[Enver Pasha]] is the Young Turk who, in Cemal's account, planned the Baghdad expedition under
-Falkenhayn; Cemal sides with Kemal against the German. Compare [[Talat Pasha]].
+**Reading.** Cemal's colleague Enver Pasha is the Young Turk who, in Cemal's account, planned the Baghdad expedition under
+Falkenhayn; Cemal sides with Kemal against the German. Compare Talat Pasha.
 
 **Caveat.** A passing view across 700 pages; intensity is moderate (2), not a portrait. Page numbers are the book's.
 

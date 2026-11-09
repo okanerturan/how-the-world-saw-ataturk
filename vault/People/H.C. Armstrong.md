@@ -31,8 +31,8 @@ of Asia" (p. 254) — and the drinking, gambling and women recur throughout; yet
 genius." Mango (p. 506) calls it "a sensational mixture of gossip and men's club racism." Polarity:
 **conflicted**.
 
-His place in the deck: the **intimate-hostile Western card**, printed the same era as [[Charles H. Sherrill]]'s admiring embassy memoir — the two gazes side by side in the 1930s bookshop. The
-rehabilitated Western gaze came later with [[Lord Kinross]]. See [[Historiography of Atatürk]].
+His place in the deck: the **intimate-hostile Western card**, printed the same era as Charles H. Sherrill's admiring embassy memoir — the two gazes side by side in the 1930s bookshop. The
+rehabilitated Western gaze came later with Lord Kinross. See [[Historiography of Atatürk]].
 
 ## Sources
 - H.C. Armstrong, *Grey Wolf* (Arthur Barker, 1932) — [full text, Internet Archive dli.ernet.524437](https://archive.org/details/dli.ernet.524437) (pp. 254, 284; chs. LXX, LXXIV–LXXV) · [Routledge reissue](https://www.routledge.com/Grey-Wolf---Mustafa-Kemal-An-Intimate-Study-of-a-Dictator/Armstrong/p/book/9781138999565)

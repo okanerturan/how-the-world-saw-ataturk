@@ -22,7 +22,7 @@ come here as someone who feels the pain of separation and longs for unity with t
 Historical and political events that took place in the recent past have surely failed the sincerity
 and fellowship that our people feel for each other. Our two peoples are brothers and will remain so."*
 Özoğlu reads the warmth as a signal to the world that Turkey despised the ex-ruler of the Hejaz, Sharif
-[[Hussein bin Ali]], and preferred the Saudis to the Hashemites; the Saudi dislike of reviving the
+Hussein bin Ali, and preferred the Saudis to the Hashemites; the Saudi dislike of reviving the
 caliphate was a further reason for Ankara's friendliness.
 
 Faisal came back to the subject six years on: when Atatürk died, as Foreign Minister he cabled Ankara

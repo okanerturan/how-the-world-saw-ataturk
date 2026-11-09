@@ -31,7 +31,7 @@ responsible*, not (in the preface) a specific incendiary.
 correspondent who saw "no massacres" in the first days (leaf n67), a dispatch that "Kemal must have given strict
 orders to his troops" (leaf n71) — and a Reuter item that Kemal's Order of the Day said molestation of Christians
 "will be punished by death" (leaf n98). Leaf numbers are the archive.org scan; printed pages were not checked. A reader can use it as a dossier of what Britain was reading in 1922, alongside
-[[Burning of Smyrna]] and [[Paris Reads Smyrna and the Straits, September 1922]].
+Burning of Smyrna and [[Paris Reads Smyrna and the Straits, September 1922]].
 
 **Caveat.** Oeconomos was writing for the Greek national cause within weeks of the catastrophe; as with
 [[George Horton]], the card records his view of Kemal, not a settled account of the fire.

@@ -10,7 +10,7 @@ era: [funeral]
 
 # Albanian Press, November 1938
 
-Tirana in the last year of [[King Zog I]]'s kingdom, under Italian shadow — and an Albanian press
+Tirana in the last year of King Zog I's kingdom, under Italian shadow — and an Albanian press
 that took the occasion to praise **reform as an example for Albania.** Toksoy, from *Akşam* (14
 and 18 Nov 1938) and *Ulus* (14 Nov):
 
@@ -29,7 +29,7 @@ and 18 Nov 1938) and *Ulus* (14 Nov):
 
 The Albanian gaze is the only one in the Balkan set that tells its own readers to *follow*: in
 a Muslim-majority, newly-secularizing Europe state, Turkey's veil-and-caliphate programme was a
-live domestic argument. Compare [[King Zog I]], whose own modernization drew on the Kemalist
+live domestic argument. Compare King Zog I, whose own modernization drew on the Kemalist
 model, and the Yugoslav alliance reading in [[Yugoslav Press, November 1938]].
 
 ## Sources

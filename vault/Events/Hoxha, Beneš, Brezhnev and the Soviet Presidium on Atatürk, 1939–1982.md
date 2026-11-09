@@ -20,7 +20,7 @@ most surprising result.
 - **The Albanian dictator's Atatürk:** [[Enver Hoxha]] wrote and said it four times. In 1967 he used the victory over Greece as a warning in the Cyprus
   quarrel; in a letter of 8 September 1981 he thanked the municipality of Gölcük for a bronze portrait of Atatürk and called him a great statesman; in 1981 and 1982 he
   put him in his party report and electoral address as an 'outstanding democrat' who destroyed the Caliphate. He also says Atatürk
-  opposed [[King Zog I]], which is Hoxha's own reading and is not confirmed elsewhere in the census.
+  opposed King Zog I, which is Hoxha's own reading and is not confirmed elsewhere in the census.
 - **The Czechoslovak exile:** [[Edvard Beneš]], writing in 1939, treats Atatürk as one of the interwar dictators and also credits his modernization with the authority that kept him in power.
 - **The Soviet formula 'Lenin and Atatürk':** from the 25th anniversary of his death in November 1963 Moscow's rhetoric returns to the early-1920s friendship. [[Nikolai Podgorny]] (1965) and
   [[Leonid Brezhnev]] (1978) use it; Podgorny's Assembly speech of 5 January 1965 is in the TBMM record (stored once, under the Assembly note); Brezhnev's line, from his Minsk speech of 25 June 1978, is seen only as a search-inside snippet. See also [[Nikita Khrushchev]] (1959) and [[Soviet Leaders on the Kemalists, 1920–1930]].
@@ -32,7 +32,7 @@ most surprising result.
 
 > They forgot the heavy blows the brave Turkish people, led by Mustafa Kemal Ataturk dealt at Venizelos's hordes
 
-English text of the 1974 second edition (Tirana, '8 Nentori'); the OCR page marks 120 and 121 bracket the passage (cited as p. 120-121). Hoxha's frame is a warning to Athens in the Cyprus context, so the Kemal reference is instrumental; the note records no view of the Greek-Turkish war itself. The English is the Albanian publisher's own translation. Location: Hoxha, Report on the Role and Tasks of the Democratic Front... (4th Congress, 14 Sept 1967; Tirana 1974), pp. 120-121. Evidence P. See [[Mustafa Kemal Atatürk]].
+English text of the 1974 second edition (Tirana, '8 Nentori'); the OCR page marks 120 and 121 bracket the passage (cited as p. 120-121). Hoxha's frame is a warning to Athens in the Cyprus context, so the Kemal reference is instrumental; the note records no view of the Greek-Turkish war itself. The English is the Albanian publisher's own translation. Location: Hoxha, Report on the Role and Tasks of the Democratic Front... (4th Congress, 14 Sept 1967; Tirana 1974), pp. 120-121. Evidence P. See Mustafa Kemal Atatürk.
 
 
 ## Enver Hoxha (1973-04-30)
@@ -41,7 +41,7 @@ English text of the 1974 second edition (Tirana, '8 Nentori'); the OCR page mark
 
 > Mustafa Kemal Ataturku ka qenë një udhëheqës i madh shtetëror e personalitet i shquar politik
 
-Translation (the vault's): 'Mustafa Kemal Atatürk was a great statesman-leader and an outstanding political personality.' Albanian original in Enver Hoxha, Letra të zgjedhura, vol. 2 (Tiranë: 8 Nëntori, 1986), item 'Përshëndetje drejtuar zotit Mustafa Kemal Pasha, kryetar i Shoqatës së Miqësisë Pakistan-Shqipëri', 30 April 1973, pp. 264-266 (OCR page marks 264, 265, and a misread mark for 266). The passage goes on: Atatürk was known for democratic thought and bold work aimed at 'progress and modernization', for his trust in the young generation, and for goodwill toward the Albanian people. A courtesy letter, but a considered one; the bust was a gift from the Association. Location: Hoxha, Letra të zgjedhura, vol. 2 (1986), letter of 30 Apr 1973, pp. 265-266. Evidence P. See [[Mustafa Kemal Atatürk]].
+Translation (the vault's): 'Mustafa Kemal Atatürk was a great statesman-leader and an outstanding political personality.' Albanian original in Enver Hoxha, Letra të zgjedhura, vol. 2 (Tiranë: 8 Nëntori, 1986), item 'Përshëndetje drejtuar zotit Mustafa Kemal Pasha, kryetar i Shoqatës së Miqësisë Pakistan-Shqipëri', 30 April 1973, pp. 264-266 (OCR page marks 264, 265, and a misread mark for 266). The passage goes on: Atatürk was known for democratic thought and bold work aimed at 'progress and modernization', for his trust in the young generation, and for goodwill toward the Albanian people. A courtesy letter, but a considered one; the bust was a gift from the Association. Location: Hoxha, Letra të zgjedhura, vol. 2 (1986), letter of 30 Apr 1973, pp. 265-266. Evidence P. See Mustafa Kemal Atatürk.
 
 
 ## Enver Hoxha (1981-11-01)
@@ -50,7 +50,7 @@ Translation (the vault's): 'Mustafa Kemal Atatürk was a great statesman-leader 
 
 > The Albanian people have special admiration and respect for Mustafa Kemal Ataturk, that outstanding personality and statesman,
 
-Enver Hoxha, Selected Works, vol. VI (Tirana: 8 Nentori, English), 'Report to the 8th Congress of the PLA', 1 Nov 1981, p. 417 (running head 'REPORT TO THE 8TH CONGRESS OF THE PLA 417'). The OCR prints 'Atattirk'. Continues: he 'liberated Turkey and its valiant people', 'consolidated the unity and genuine independence of the Turkish nation'; Hoxha adds that Atatürk was well disposed to Albania and opposed King Zog, and that Turkey sheltered hundreds of Albanian exiles. Same passage in Spanish, Portuguese, Italian and German editions (fts). The Zog remark is Hoxha's; the vault records no independent confirmation. Location: Hoxha, Selected Works, vol. 6, Report to the 8th Congress of the PLA (1 Nov 1981), p. 417. Evidence P. See [[King Zog I]].
+Enver Hoxha, Selected Works, vol. VI (Tirana: 8 Nentori, English), 'Report to the 8th Congress of the PLA', 1 Nov 1981, p. 417 (running head 'REPORT TO THE 8TH CONGRESS OF THE PLA 417'). The OCR prints 'Atattirk'. Continues: he 'liberated Turkey and its valiant people', 'consolidated the unity and genuine independence of the Turkish nation'; Hoxha adds that Atatürk was well disposed to Albania and opposed King Zog, and that Turkey sheltered hundreds of Albanian exiles. Same passage in Spanish, Portuguese, Italian and German editions (fts). The Zog remark is Hoxha's; the vault records no independent confirmation. Location: Hoxha, Selected Works, vol. 6, Report to the 8th Congress of the PLA (1 Nov 1981), p. 417. Evidence P. See King Zog I.
 
 
 ## Enver Hoxha (1982-11-10)
@@ -59,7 +59,7 @@ Enver Hoxha, Selected Works, vol. VI (Tirana: 8 Nentori, English), 'Report to th
 
 > We honour and respect the great leader of the Turkish people, Mustafa Kemal Ataturk, who, as an outstanding democrat, destroyed the Ottoman Empire and the Caliphate and set up the new democratic Turkey.
 
-Selected Works, vol. VI, 'Address to the electors', dated 10 Nov 1982 (delivered in electoral zone no. 210, Tirana), p. 618 (running head '618 ENVER HOXHA'; the OCR prints 'Atatirk'). The next sentence: 'Let all the pseudo-democrats and pseudo-socialists who oppress the peoples ... follow the example of Kemal Ataturk who cut the Gordian knot of the Ottoman Empire with his sword.' Part of a tour of Albania's neighbours; the praise is also a barb at Hoxha's contemporaries. The attribution of the page to the 1982 address rests on the continuous run of the speech from p. 598 to p. 620+. Location: Hoxha, Selected Works, vol. 6, Address to the electors (10 Nov 1982), p. 618. Evidence P. See [[Mustafa Kemal Atatürk]].
+Selected Works, vol. VI, 'Address to the electors', dated 10 Nov 1982 (delivered in electoral zone no. 210, Tirana), p. 618 (running head '618 ENVER HOXHA'; the OCR prints 'Atatirk'). The next sentence: 'Let all the pseudo-democrats and pseudo-socialists who oppress the peoples ... follow the example of Kemal Ataturk who cut the Gordian knot of the Ottoman Empire with his sword.' Part of a tour of Albania's neighbours; the praise is also a barb at Hoxha's contemporaries. The attribution of the page to the 1982 address rests on the continuous run of the speech from p. 598 to p. 620+. Location: Hoxha, Selected Works, vol. 6, Address to the electors (10 Nov 1982), p. 618. Evidence P. See Mustafa Kemal Atatürk.
 
 
 ## Edvard Beneš (1939)
@@ -68,7 +68,7 @@ Selected Works, vol. VI, 'Address to the electors', dated 10 Nov 1982 (delivered
 
 > It must, besides, be remembered that from 1923 the dictatorship of Kemal Ataturk was established in full force in Turkey: his victory over Greece and his courageous modernisation of the whole social, cultural, and national life of Turkey endowed him with sufficient authority to preserve his dictatorship successfully up to his death in 1938.
 
-Edvard Beneš, Democracy Today and Tomorrow (New York: Macmillan, 1939), p. 90, chapter 'Downfall of postwar democracies'; the lectures were given at the University of Chicago, 1939. Open scan democracytodayto00bene (Univ. of Florida copy); the index lists 'Attaturk, Kemal, 90'. A descriptive aside inside an argument about the rise of Fascism, so both labels (dictatorship, courageous modernisation) are Beneš's. Location: Beneš, Democracy Today and Tomorrow (1939), p. 90. Evidence P. See [[Mustafa Kemal Atatürk]].
+Edvard Beneš, Democracy Today and Tomorrow (New York: Macmillan, 1939), p. 90, chapter 'Downfall of postwar democracies'; the lectures were given at the University of Chicago, 1939. Open scan democracytodayto00bene (Univ. of Florida copy); the index lists 'Attaturk, Kemal, 90'. A descriptive aside inside an argument about the rise of Fascism, so both labels (dictatorship, courageous modernisation) are Beneš's. Location: Beneš, Democracy Today and Tomorrow (1939), p. 90. Evidence P. See Mustafa Kemal Atatürk.
 
 
 ## Nikolai Podgorny (1965-01)

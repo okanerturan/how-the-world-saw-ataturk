@@ -12,9 +12,9 @@ era: [contemporary, posthumous]
 
 Round 14 (second pass on writers and thinkers) searched the open full-text copies on archive.org, mostly Digital Library
 of India scans, for what famous pens actually wrote about Atatürk. Six records were staged; the independent check
-kept four (Gunther, Nicolson, Coudenhove-Kalergi twice). [[John Dewey]] and [[Rebecca West]] are discussed below but not counted
+kept four (Gunther, Nicolson, Coudenhove-Kalergi twice). John Dewey and [[Rebecca West]] are discussed below but not counted
 as gazes: Dewey never names Kemal, and West's line is an aside about his eyes. None of them is a eulogy: the keenest is [[John Gunther]]'s cheerfully
-shocked profile of 1936, and the warmest ([[John Dewey]] in 1924) never names Mustafa Kemal.
+shocked profile of 1936, and the warmest (John Dewey in 1924) never names Mustafa Kemal.
 
 ## John Gunther (1936), 'the roughneck of dictators'
 
@@ -28,7 +28,7 @@ embodiment of totalitarian rule by character'. The 1926 hangings, the champagne 
 Egyptian minister are all there, and so is the verdict on the work: 'He took a nation that was centuries deep in rot,
 pulled it to its feet, wiped its face, re-clothed it, transformed it, made it work.' He insists the credit is shared
 ('Kamal, alone, it may be said, does not deserve credit for all this') and spends a page on the mother, the illness and
-the blue eyes. The comparison is with [[Benito Mussolini]] and [[Adolf Hitler]]. Inside Europe (Hamish Hamilton, rev. illus. ed., 1938), ch. XXXI, pp. 417-424 (quote p. 419). Evidence P.
+the blue eyes. The comparison is with Benito Mussolini and Adolf Hitler. Inside Europe (Hamish Hamilton, rev. illus. ed., 1938), ch. XXXI, pp. 417-424 (quote p. 419). Evidence P.
 
 ## John Dewey (1924), the new leaders' instincts
 
@@ -39,7 +39,7 @@ the blue eyes. The comparison is with [[Benito Mussolini]] and [[Adolf Hitler]].
 Dewey went to Angora by train from Constantinople in 1924 and wrote it up for *The New Republic* (the book says all its articles first appeared there). He
 describes the 'astonishment and resentment' at the move of the capital, the plateau 'treeless as far as the eye can
 reach', and then: 'After only a few hours in Angora, the mood changes.' Mustafa Kemal is not named; the only trace is a
-school named for him and one for his wife. So the Dewey card ([[John Dewey]]) rests, in this text, on the praise of
+school named for him and one for his wife. So the Dewey card (John Dewey) rests, in this text, on the praise of
 'the new leaders' and on the line that Constantinople 'seems not old but tired'. Impressions of Soviet Russia and the Revolutionary World (New Republic Inc., 1929), 'Angora, the New Turkey', c. p. 213. Evidence P.
 
 ## Harold Nicolson (1934), luck made of enemies
@@ -48,7 +48,7 @@ school named for him and one for his wife. So the Dewey card ([[John Dewey]]) re
 
 > he owed his immense good fortune, not to the friendships which he had been able to conciliate, but to the enmities which he had aroused.
 
-[[Lord Curzon]]'s biographer treats Mustafa Kemal as a case rather than a hero. His career 'is typically Young Turk';
+Lord Curzon's biographer treats Mustafa Kemal as a case rather than a hero. His career 'is typically Young Turk';
 what sets it apart is that he was spared the suspicion of the Sultan and the occupying powers because he had quarrelled
 with Enver, Talaat, Djemal and Djavid in 1912 and with the German generals in 1917. Curzon: The Last Phase (Constable, 1934), p. 116 (also p. 352). Evidence P.
 
@@ -64,8 +64,8 @@ with Enver, Talaat, Djemal and Djavid in 1912 and with the German generals in 19
 
 The founder of the Pan-Europe movement uses Kemal twice in his autobiography: once as the 'great leader' whose Turkey
 joined Western civilization on its own initiative and could be a pattern for the 'Mohammedan nations', and once as the
-man whose refusal of Sèvres began the counter-revolution against the treaties of Paris (see [[Treaty of Lausanne]]). He
-also reports that [[Eleftherios Venizelos]] told him in Vienna that Kemal's Turkey 'had become an integral part of
+man whose refusal of Sèvres began the counter-revolution against the treaties of Paris (see Treaty of Lausanne). He
+also reports that Eleftherios Venizelos told him in Vienna that Kemal's Turkey 'had become an integral part of
 Western civilization'. Crusade for Pan-Europe (Putnam, 1943), ch. XXVII c. p. 280 (also ch. XIV pp. 125-126). Crusade for Pan-Europe (Putnam, 1943), ch. VIII, pp. 67-68. Evidence P.
 
 ## Rebecca West (1941), the blue eyes
@@ -76,7 +76,7 @@ Western civilization'. Crusade for Pan-Europe (Putnam, 1943), ch. XXVII c. p. 28
 
 An aside in *Black Lamb and Grey Falcon*, a book whose real subject is Yugoslavia: King Alexander goes to
 Constantinople to see Mustapha Kemal, 'who smiled at him with eyes which revealed that the Balkans had once more played
-their trick on the Turk' (see [[Balkan Pact]] and [[Alexander I of Yugoslavia]]). Her other mentions are admiring in
+their trick on the Turk' (see Balkan Pact and Alexander I of Yugoslavia). Her other mentions are admiring in
 tone, but they are by-the-way. Black Lamb and Grey Falcon (1941; 1946 two-volume printing), vol. I c. p. 633. Evidence P.
 
 ## Not stored, and dry ends (round 14)

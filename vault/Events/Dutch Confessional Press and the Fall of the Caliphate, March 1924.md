@@ -14,7 +14,7 @@ The Grand National Assembly voted the abolition of the caliphate on 3 March 1924
 4–6 March are nearly all wire copy (Reuter, Havas, B.T.A.). This card is about the minority that added a voice.
 The pattern is simple: the confessional dailies, Catholic and Protestant, saw a Muslim world and a Christian
 minority put at risk by a secularising dictator, and none of them praised it. The liberal and colonial papers mostly
-reported. Context: [[Abolition of the Caliphate]]; the Malay-world equivalent is [[Malay Press and the Fall of the Caliphate]].
+reported. Context: Abolition of the Caliphate; the Malay-world equivalent is [[Malay Press and the Fall of the Caliphate]].
 
 **Het Centrum** (Utrecht Catholic daily). *Kijkjes op de Wereld*, 6 March 1924 ([article](https://resolver.kb.nl/resolve?urn=ddd:010001277:mpeg21:a0117)):
 *"Men kent de feiten: eerst zette Kemal Pacha. de Mussolini der Turken.- den Sultan af"* — Kemal as the Turkish Mussolini,

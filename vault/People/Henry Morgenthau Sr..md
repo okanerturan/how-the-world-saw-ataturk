@@ -22,13 +22,13 @@ necessary, to preserve a Turkish nation in Asia Minor"* (p. 25). He is then the 
 causes of the refugee emergency is "the systematic burning of the Greek quarter of Smyrna by the Turkish troops
 under the very eye of Kemal" (pp. 47–48) and a Nationalist programme by which Asia Minor "was to be completely
 'Turkeyfied'" (p. 48). On the Franklin-Bouillon agreement, signed "by Kemal for the Turks", he blames French
-"greed of French capitalists" for deserting the Greeks (p. 30; [[Franklin Bouillon]]). At the time of his 1923 mission,
+"greed of French capitalists" for deserting the Greeks (p. 30; Franklin Bouillon). At the time of his 1923 mission,
 Turkey "was now ruled by a single new dictator, Kemal Pasha, whose capital was not Constantinople but … Angora"
 under whom "the Turks were making their last stand to preserve their nation" (p. 91).
 
 **Reading.** A Wilsonian humanitarian who is neither Horton's prosecutor nor the admirer: he respects the
 soldier, assigns the Nationalists responsibility for the Greek exodus, and in the same book chairs the settlement
-that depended on Turkey's cooperation. His 1915–16 ambassadorship is the context readers bring ([[Talat Pasha]]); this book is about 1923 on.
+that depended on Turkey's cooperation. His 1915–16 ambassadorship is the context readers bring (Talat Pasha); this book is about 1923 on.
 
 **Caveat.** Ghost-collaborated memoir; passages on Smyrna are summaries in a list of causes, not eyewitness
 (the book does not claim he was at Smyrna in 1922). Printed pages from the book's index; leaf = printed + 12.

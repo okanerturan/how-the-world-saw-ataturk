@@ -14,7 +14,7 @@ era: [contemporary]
 almost nothing to trade and little to say, but the paper trail shows how Mexico City addressed
 Atatürk across eight years. The friendship treaty was signed in Rome on 25 May 1927 by Turkey's
 ambassador to Italy, Suat (Suad) Bey, and Mexico's minister in Rome, Carlos Puig Casauranc —
-under [[Plutarco Elías Calles]], whom Mexicans nicknamed "el Turco" (Carlos Martínez Assad, in his prologue to Orgaz, 2021,
+under Plutarco Elías Calles, whom Mexicans nicknamed "el Turco" (Carlos Martínez Assad, in his prologue to Orgaz, 2021,
 credits his clipped moustache or a surname people took for Lebanese, and adds that he governed at the
 same time as Atatürk). Mexico, newly in the League, voted for Turkey's admission in 1932. On
 17 October 1933 Atatürk received Mexico's Genaro Estrada — the poet-diplomat — at credential presentation, the two

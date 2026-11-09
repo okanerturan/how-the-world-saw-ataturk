@@ -31,7 +31,7 @@ loses its founder, Greece loses a great and trusted friend"), Hungary's *Pesti N
 press quotes, Romania's black flags on official buildings on funeral day. Full extracted text
 banked at `sources/toksoy-2010-balkan-mideast-press.txt`.
 
-See [[Death and State Funeral of Atatürk]], [[Balkan Pact]], [[Ioannis Metaxas]].
+See [[Death and State Funeral of Atatürk]], Balkan Pact, Ioannis Metaxas.
 
 ## Sources
 - [Toksoy, "Atatürk'ün Vefatının Balkanlar ve Ortadoğu Basınındaki Etkilerinin Türkiye'deki Akisleri," *Atatürk Üniversitesi SBE Dergisi*, 2010 (PDF)](https://dergipark.org.tr/en/download/article-file/32009) — full text in `sources/` · Tatarlı, "Bulgar Basınında Atatürk" (cited therein) · contemporary refs: *Kurun* 14/16/22 Nov 1938, *Akşam* 12/16/18 Nov 1938, *Ulus* 17 Nov 1938

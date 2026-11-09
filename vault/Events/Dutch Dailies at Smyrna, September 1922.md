@@ -11,7 +11,7 @@ era: [contemporary]
 # Dutch Dailies at Smyrna, September 1922
 
 The Dutch dailies of September 1922 handled Smyrna as wire news. Two items from the KB index show how Kemal appeared
-in them; neither is an editorial, and the card is deliberately short. Context: [[Burning of Smyrna]]; Paris
+in them; neither is an editorial, and the card is deliberately short. Context: Burning of Smyrna; Paris
 on the same days: [[Paris Reads Smyrna and the Straits, September 1922]].
 
 **De Grondwet**, 18 September 1922 ([article](https://resolver.kb.nl/resolve?urn=MMGARO01:000172985:mpeg21:a0018)), "Telegrammen. De brand-ramp van Smyrna": a Constantinople wire collecting

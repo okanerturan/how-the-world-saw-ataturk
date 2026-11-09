@@ -44,7 +44,7 @@ split exactly on person versus office:
   Commander-in-Chief post" (tr.) — while arguing that the emergency which justified lending him the Assembly's legislative powers had passed (p. 375).
 
 **18 September 1922 and 6 November 1922 (vol. 3).** With the army at the Straits, the cabinet itself speaks.
-**[[Rauf Orbay]]**, prime minister, defends consulting the army's head in secret session: *"Mustafa Kemal Paşa
+**Rauf Orbay**, prime minister, defends consulting the army's head in secret session: *"Mustafa Kemal Paşa
 Meclisi Âliniz tarafından intihap edilmiş Başkumandandır."* (p. 905; "…is the Commander-in-Chief elected by your August
 Assembly", tr.). On 6 November, as Refet Pasha is sent to take over Thrace "in the name of the government and the
 Commander-in-Chief", **[[Ziya Hurşit]]** erupts: *"Ankara'da bir imparatorluk mu tesis edeceğiz? Katiyyen reddederiz.
@@ -54,8 +54,8 @@ The Commander-in-Chief cannot represent anyone", tr.).
 **Reading.** The record does not show a faction that denied the war-leader: even the hardest speakers (Hüseyin Avni,
 Ali Şükrü) concede his sacrifice or the need for the post. What the minutes record is a *constitutional* quarrel —
 one man, one Assembly, whose powers? — in the voice of men who would later be pushed out of politics or, in
-Ziya Hurşit's case, executed after the 1926 İzmir plot. See [[Independence Tribunals]], [[Turkish War of Independence]],
-[[Abolition of the Sultanate]].
+Ziya Hurşit's case, executed after the 1926 İzmir plot. See Independence Tribunals, Turkish War of Independence,
+Abolition of the Sultanate.
 
 ## Sources
 - TBMM, *Gizli Celse Zabıtları* (revised edition, Ankara: TBMM, 2023) — open access, vol. 2: sitting 62 (5 Ağustos 1337 [1921]), pp. 187–211 (Rıza Nur p. 205, Taki Efendi p. 193, Mustafa Durak p. 203) · P — [repository record](https://acikerisim.tbmm.gov.tr/handle/11543/3271) · [vol. 2 PDF](https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content)

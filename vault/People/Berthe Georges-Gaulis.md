@@ -16,7 +16,7 @@ era: [contemporary]
 Her *Angora, Constantinople, Londres* (Paris, 1922) is a book of three capitals, and an early
 chapter is a portrait: **"Moustafa Kémal Pacha"**, opening on p. 25. She had been in Anatolia
 earlier in 1921 ("l'entretien interrompu six mois auparavant"), came back for a second stay at Ankara in
-**November–December 1921** (weeks after the Franklin-Bouillon accord — see [[Franklin Bouillon]]), and writes as a woman
+**November–December 1921** (weeks after the Franklin-Bouillon accord — see Franklin Bouillon), and writes as a woman
 who has been the pasha's houseguest at his hillside house ("Tchan-Kaya," Çankaya) and says so.
 
 **What she saw.** A maker of an epoch, not a soldier: *"On peut dire que, sans lui, l'Islam aurait mis
@@ -32,8 +32,8 @@ his 1917 Aleppo report to Talat and Enver as proof that he had never been anyone
 connaître chez vous, y détruire les légendes, si vous les jugez fausses une fois de plus."* She
 accepted the commission and says she was "plus libre dans ses paroles et dans ses jugements que je ne
 le fus à Angora" (p. 40) — and the result is exactly the legend-destroying portrait he asked for. The
-Franco-Turkish *rapprochement* of October 1921 needed such a voice in Paris. Compare [[Grace Ellison]] (the
-English woman guest of the same years) and [[Claude Farrère and Pierre Loti]] (the French romantic
+Franco-Turkish *rapprochement* of October 1921 needed such a voice in Paris. Compare Grace Ellison (the
+English woman guest of the same years) and Claude Farrère and Pierre Loti (the French romantic
 option).
 
 **Caveat.** Everything here is her book's own account of the visit; the Çankaya interviews are

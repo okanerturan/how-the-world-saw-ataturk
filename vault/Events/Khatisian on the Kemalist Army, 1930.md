@@ -24,7 +24,7 @@ the Kemalists' aims are summarised as seeking Turkey's peace treaty through Russ
 
 **Reading.** A victim-state premier grants the adversary talent while describing its aims as hostile to
 Armenia. The vault records this as the speaker's account; the editors of the English edition add their own
-notes, which are not the voice recorded here. Context: [[Armenian Genocide]], [[Treaty of Lausanne]].
+notes, which are not the voice recorded here. Context: Armenian Genocide, Treaty of Lausanne.
 
 ## Sources
 - A. Khatisian, *Hayastani Hanrapetutean Cagume ev Zargacume* (Athens, 1930), English edition as *The Origin and Development of the Republic of Armenia*, PDF p. 141 (assessment) and edition p. ~162 (aims) · S− (translation of a primary memoir; the Armenian original and the editors' fidelity unchecked) — [PDF](https://fatsr.org/wp-content/uploads/2025/11/The-Origin-and-The-Devlopment-of-The-Republic-of-Armenia-Alexander-Khatisian-Athens-1930-English-version.pdf)

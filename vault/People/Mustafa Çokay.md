@@ -35,7 +35,7 @@ primary or a scholarly citation before they enter the ledger.
 
 Why he matters beyond biography: Turkestan was the place where the Turkish and Soviet visions of
 the East collided; his reading — admiration for the state-builder, anxiety about the Moscow
-friendship — is the exile's version of [[Vladimir Lenin]]'s instrumental one.
+friendship — is the exile's version of Vladimir Lenin's instrumental one.
 
 ## Sources
 - [*Modern Türklük Araştırmaları Dergisi* 10(4), Dec 2013, article on Çokay and Atatürk (Esmagambetov): abstract and bibliography, fetched](https://mtad.humanity.ankara.edu.tr/39-1042013-633.php) — S

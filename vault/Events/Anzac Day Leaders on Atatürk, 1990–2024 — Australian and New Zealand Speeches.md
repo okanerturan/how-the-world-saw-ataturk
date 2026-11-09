@@ -10,7 +10,7 @@ era: [posthumous]
 
 # Anzac Day Leaders on Atatürk, 1990–2024 — Australian and New Zealand Speeches
 
-Twelve records of Australian and New Zealand leaders speaking of Atatürk at Anzac and Gallipoli occasions, from Hawke (1990) to Peters (2024), read in the Australian PM Transcripts archive (official, evidence P) and on beehive.govt.nz. The pattern: Atatürk is always the generous former enemy of the 'Johnnies and Mehmets' legend, never the reformer, except when Morrison invokes him against Erdoğan in 2019 and Abbott in 2015 nods to the secular 'beacon'. Not found: Menzies, Holt, Whitlam, Fraser, Keating (no PM Transcripts hits for Ataturk or Kemal), nor New Zealand's Clark, Key (2015 Dawn Service speech never names him) or Luxon (2025 Gallipoli and Chunuk Bair speeches do not). See [[Johnnies and Mehmets]] and [[Gallipoli Campaign]].
+Twelve records of Australian and New Zealand leaders speaking of Atatürk at Anzac and Gallipoli occasions, from Hawke (1990) to Peters (2024), read in the Australian PM Transcripts archive (official, evidence P) and on beehive.govt.nz. The pattern: Atatürk is always the generous former enemy of the 'Johnnies and Mehmets' legend, never the reformer, except when Morrison invokes him against Erdoğan in 2019 and Abbott in 2015 nods to the secular 'beacon'. Not found: Menzies, Holt, Whitlam, Fraser, Keating (no PM Transcripts hits for Ataturk or Kemal), nor New Zealand's Clark, Key (2015 Dawn Service speech never names him) or Luxon (2025 Gallipoli and Chunuk Bair speeches do not). See [[Johnnies and Mehmets]] and Gallipoli Campaign.
 
 ## Bob Hawke — Speech at Lone Pine Ceremony, Gallipoli, 25 April 1990 (1990-04-25)
 

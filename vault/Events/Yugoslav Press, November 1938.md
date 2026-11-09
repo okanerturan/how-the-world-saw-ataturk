@@ -19,7 +19,7 @@ speak most directly to Atatürk's role as a regional guarantor.
 - *Pravda* ran twelve major pieces; *Vreme* about twenty, including an editorial recalling the
   moment after **King Alexander's assassination (Marseille, 1934)** when, it says, Atatürk
   cabled the Yugoslavs asking *"Shall I declare mobilization?"* — "a phrase Yugoslavia will never
-  forget." (*Vreme*'s own claim; no telegram text seen — see [[Alexander I of Yugoslavia]].)
+  forget." (*Vreme*'s own claim; no telegram text seen — see Alexander I of Yugoslavia.)
 - *Politika*: "History will inscribe this statesman's name in indelible letters. Atatürk is a man
   of the people; his unbreakable will and powerful intelligence brought him face to face with the
   destiny he defeated, and so he became the **transformer of the new Turkey**" — and, in a second editorial, a recollection of Prime Minister **Milan
@@ -38,7 +38,7 @@ than as a modernizer — and it is worth setting beside the Albanian and Romania
 accent is reform. (Karahasan's later Turkish survey of the Yugoslav press, cited in Toksoy,
 credits *Politika* with presenting him as the once-in-a-thousand-years statesman and
 *Vreme* with the line that the grave would become "a place of pilgrimage for all Turks.") See
-[[Balkan Pact]] and [[Death and State Funeral of Atatürk]].
+Balkan Pact and [[Death and State Funeral of Atatürk]].
 
 ## Sources
 - [Toksoy, "Atatürk'ün Vefatının Balkanlar ve Ortadoğu Basınındaki Etkilerinin Türkiye'deki Akisleri," *Atatürk Üniversitesi SBE Dergisi*, 2010](https://dergipark.org.tr/en/download/article-file/32009) — full text in `sources/toksoy-2010-balkan-mideast-press.txt`, §E Yugoslavya Basını (pp. 195–197) and footnotes 80–89

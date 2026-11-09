@@ -38,7 +38,7 @@ horses," the Kemalists could not have beaten Greece without France's tacit encou
 Constantinople "is largely responsible for the present situation." It calls for a conference "a thousand
 times better than a resort to the futility of fighting."
 
-Compare [[Chanak Crisis]] and [[Gallipoli Campaign]]. The 1922 gaze is the mirror image of 1938's: the
+Compare Chanak Crisis and Gallipoli Campaign. The 1922 gaze is the mirror image of 1938's: the
 same papers that called him a menace in September 1922 would call him "the Saviour of Turkey" sixteen
 years later (see [[New Zealand Leaders on Kemal, November 1938]]).
 

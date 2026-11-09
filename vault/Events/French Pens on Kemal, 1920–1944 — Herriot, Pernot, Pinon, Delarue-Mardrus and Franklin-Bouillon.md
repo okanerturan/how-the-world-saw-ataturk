@@ -10,7 +10,7 @@ era: [contemporary]
 
 # French Pens on Kemal, 1920–1944 — Herriot, Pernot, Pinon, Delarue-Mardrus and Franklin-Bouillon
 
-Five French voices on Kemal found by archive.org full-text search (the Herriot lecture in the Turkish Press Directorate's review, with the open djvu read) and by phrase search of French Wikisource (the two Revue des Deux Mondes pieces and Delarue-Mardrus), plus Franklin-Bouillon's statement of September 1922 as reported by the New York Times. Related: [[Franklin Bouillon]], and the earlier [[Western Statesmen and Churchmen on Atatürk in Their Own Words]].
+Five French voices on Kemal found by archive.org full-text search (the Herriot lecture in the Turkish Press Directorate's review, with the open djvu read) and by phrase search of French Wikisource (the two Revue des Deux Mondes pieces and Delarue-Mardrus), plus Franklin-Bouillon's statement of September 1922 as reported by the New York Times. Related: Franklin Bouillon, and the earlier [[Western Statesmen and Churchmen on Atatürk in Their Own Words]].
 
 ## Édouard Herriot — 1934
 
@@ -55,7 +55,7 @@ Five French voices on Kemal found by archive.org full-text search (the Herriot l
 > Our exchange of telegrams. our reciprocal friendship and my knowledge of the man leads me to hope
 > (translation: (already English: the New York Times's rendering of his French remarks))
 
-[[Franklin Bouillon]]. Single source (J): read only as the archive snippet returned by search, the article itself is paywalled; the quotation is the NYT's English rendering of a French statement, and the OCR full stop after 'telegrams' is kept as printed in the snippet. Wire/press report of a statement, not his own text. Diplomatic purpose (selling Allied terms to Kemal) colours it; he adds that dangers remain. Cited as: 'Paris Acclaims Peace in Near East; Will Send Franklin-Bouillon by Fast Cruiser to Advise the Turks', New York Times, 25 September 1922 (Paris dispatch of 24 Sept).
+Franklin Bouillon. Single source (J): read only as the archive snippet returned by search, the article itself is paywalled; the quotation is the NYT's English rendering of a French statement, and the OCR full stop after 'telegrams' is kept as printed in the snippet. Wire/press report of a statement, not his own text. Diplomatic purpose (selling Allied terms to Kemal) colours it; he adds that dangers remain. Cited as: 'Paris Acclaims Peace in Near East; Will Send Franklin-Bouillon by Fast Cruiser to Advise the Turks', New York Times, 25 September 1922 (Paris dispatch of 24 Sept).
 
 ## Sources
 - Herriot, 'De la vieille à la nouvelle Turquie', La Turquie kémaliste no. 1 (1934), pp. 15–28, quote on p. 27 (a lecture to an audience, 'Mesdames et Messieurs'): https://archive.org/download/la_turquie_kemaliste/La%20Turquie%20Kemaliste/1_djvu.txt

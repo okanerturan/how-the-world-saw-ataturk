@@ -18,7 +18,7 @@ was also a dictator. Neither paper is hostile to the reforms; both are uneasy wi
   neighbouring snippets (OCR heavily damaged) say he first tried to win the religious authority of the
   Caliphate for the new republic, and set the move against a people held back by ignorance and
   fanaticism; the paper's line is that Europeanization justifies the step. No praise of the man, but no
-  protest. See [[Abolition of the Caliphate]].
+  protest. See Abolition of the Caliphate.
 - **Vorwärts (Berlin), 24 July 1926, p. 1.** Front-page article *"Der Kampf um Kemal. Die Hintergründe des
   Urteils von Smyrna"*, by Dr. Artasches Abeghian, on the İzmir verdict (15 death sentences). It reads the
   opposition as monarchist, Young Turk and clerical: *"Sie ist nicht nur gegen den Diktator, sondern
@@ -27,7 +27,7 @@ was also a dictator. Neither paper is hostile to the reforms; both are uneasy wi
   Diktaturregime"*, which is *"alles andere … als eine Republik"* ("anything but a republic", tr.). It also
   says his reforms *"oft auf soziale und kulturelle Rückständigkeit des Landes keine Rücksicht nehmen"*
   ("often take no account of the country's social and cultural backwardness", tr.) in the
-  opposition's account. Hostile to the system, unsparing about the opposition. See [[Independence Tribunals]].
+  opposition's account. Hostile to the system, unsparing about the opposition. See Independence Tribunals.
 - **Vorwärts, 10 January 1929, p. 5.** Feature *"Europa revolutioniert Vorderasien — Gegen Turban, Harem,
   Schleier, Fez"*: Kemal is *"der Alleinherrscher der Türkei"*, *"ein typischer Diktator"*, first among the
   region's *"aufgeklärte Monarchen"* in the pace of reform. Reform is carried by an *"radikalen

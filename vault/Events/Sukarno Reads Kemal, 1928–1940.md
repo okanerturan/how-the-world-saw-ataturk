@@ -10,7 +10,7 @@ era: [contemporary, posthumous]
 
 # Sukarno Reads Kemal, 1928–1940
 
-A deeper, primary-text note on a voice that [[Sukarno]] covers only second-hand: **what Sukarno actually wrote about Kemal**, from *Dibawah Bendera
+A deeper, primary-text note on a voice that Sukarno covers only second-hand: **what Sukarno actually wrote about Kemal**, from *Dibawah Bendera
 Revolusi* vol. 1 (Internet Archive scan; essay titles, dates as the volume prints them; the scan's printed page numbers are unreadable, so each is located by Archive.org leaf, "n").
 
 1. **"Indonesianisme dan Pan-Asiatisme" (July 1928, leaf n88).** On the Indonesian celebration of the Chinese nationalists' victory he writes that the 1905 victory of Japan was felt by Asia as a victory over Europe *"sebagaimana kemenangan Mustafa Kemal Pasha dipadang peperangan Afiun Karahisar oleh seluruh dunia Asia dirasakan pula sebagai suatu kemenangan Timur di atas Barat"*. Kemal is the second Asian victory in the series; the list is Pan-Asian propaganda.

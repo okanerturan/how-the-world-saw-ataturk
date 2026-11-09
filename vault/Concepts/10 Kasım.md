@@ -16,7 +16,7 @@ observes one. Schools run Atatürk Week (10–16 November); flags fly at half-ma
 
 The date organises the whole memory system:
 - **1938** — the death and [[Death and State Funeral of Atatürk]].
-- **1953** — the transfer to [[Anıtkabir]], deliberately staged on the fifteenth anniversary.
+- **1953** — the transfer to Anıtkabir, deliberately staged on the fifteenth anniversary.
 - **2008** — [[Can Dündar]]'s *Mustafa* premieres into the anniversary season and the humanization
   row erupts.
 - **2023** — the centennial year's [[2023 Atatürk Series Controversy]].

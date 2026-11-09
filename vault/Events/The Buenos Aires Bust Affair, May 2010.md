@@ -35,8 +35,8 @@ Read it as the mirror of everything the vault holds on the genocide thread: a st
 by one diaspora's calendar and indicted by another's, on the soil of a third country that had
 itself legislated on the matter (Argentina recognized the genocide by law in 2007). Neutral note:
 what is verified is the dispute and its sequence; the historical charge against Atatürk is argued
-in [[Armenian Genocide]] and is not adjudicated here. For the Turkish counter-image of such
-monuments see [[Anıtkabir]].
+in Armenian Genocide and is not adjudicated here. For the Turkish counter-image of such
+monuments see Anıtkabir.
 
 ## Sources
 - Reuters via [azatutyun.am](https://azatutyun.am/a/2058104.html), 31 May 2010 (Turkish MFA statement) · [Buenos Aires Herald via armenianclub.com](https://armenianclub.com/2010/06/01/buenos-aires-erdogan-cancellation-sparks-controversy) (city-hall account; ambassador's account) · [Foreign Minister Taiana's version, AFP via armenianclub](https://armenianclub.com/2010/05/31/turkish-pm-cancels-visit-to-argentina)

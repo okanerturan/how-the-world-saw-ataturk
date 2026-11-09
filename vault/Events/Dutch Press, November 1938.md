@@ -19,7 +19,7 @@ HUNT.md seam 3) — and the article OCR resolves, so the primary prose is in han
   the Galata Bridge toward Dolmabahçe; a great silent crowd; flags at half-mast on every
   building; and **students on the Square of the Nation swearing to defend the republican
   principles Atatürk established**.
-- **13 Nov** — a Havas dispatch from Athens: [[Ioannis Metaxas]] will attend the interment, and
+- **13 Nov** — a Havas dispatch from Athens: Ioannis Metaxas will attend the interment, and
   **Salonika renames the street of Atatürk's birth after him** (see [[Salonika Names His Street, November 1938]]).
 - **24 Nov** — three papers carry an "Ataturk-Universiteit" story: the mourning already turning
   into institutions.

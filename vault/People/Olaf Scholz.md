@@ -11,7 +11,7 @@ tags: [person, verified, head-of-state, anitkabir]
 
 On 14 March 2022 he wrote of Atatürk as 'founder of modern Turkey and great European statesman'.
 
-See [[Leaders in the Anıtkabir Special Book, 2004–2025]] and [[Anıtkabir]].
+See [[Leaders in the Anıtkabir Special Book, 2004–2025]] and Anıtkabir.
 
 ## Sources
 - Turkish press reports of the Anıtkabir special book entry; see [[Leaders in the Anıtkabir Special Book, 2004–2025]].

@@ -11,7 +11,7 @@ tags: [person, verified, head-of-state, anitkabir]
 
 On 27 January 2014, the first state visit by a French president in 22 years, he wrote in the Anıtkabir book to the statesman who rebuilt Turkey after great suffering and revived friendship with France.
 
-See [[Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026]] and [[Anıtkabir]].
+See [[Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026]] and Anıtkabir.
 
 ## Sources
 - Turkish press reports of the Anıtkabir special book entry; see [[Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026]].

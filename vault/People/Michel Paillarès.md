@@ -28,7 +28,7 @@ Christian side; its Kemal is a danger to be "maté," not a partner.
 
 **Caveat.** The book is a compilation of dated chronicle and press excerpts: this vault records only sentences
 in the author's own narrative (pp. 65, 346), not the quoted dispatches. The 1920 dating of p. 65 rests on
-its place in the book's chronology. Compare [[Franklin Bouillon]]'s optimism, which Paillarès's work
+its place in the book's chronology. Compare Franklin Bouillon's optimism, which Paillarès's work
 was trying to undo.
 
 ## Sources

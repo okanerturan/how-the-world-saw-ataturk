@@ -9,13 +9,13 @@ The mirrors in print, chronologically — each entry a card, with what it needed
 
 - **TIME, Vol. I No. 4 (24 March 1923)** — cover by Gordon Stevenson, the magazine's *fourth issue
   ever*: the Western mass-press gaze arrives months before the Republic exists.
-- **1922–23 correspondents** — [[Grace Ellison]], [[Clair Price]], [[Clare Sheridan]]: the
+- **1922–23 correspondents** — Grace Ellison, Clair Price, Clare Sheridan: the
   sympathetic dispatches that broke the "Terrible Turk" frame.
 - **[[Nutuk]] (1927)** — the self-portrait all later mirrors answer.
-- **[[H.C. Armstrong]], *Grey Wolf* (1932)** — the hostile intimate study, banned; **[[Charles H. Sherrill]], *A Year's Embassy* (1934)** — the admiring embassy memoir. The 1930s shelf held both.
+- **[[H.C. Armstrong]], *Grey Wolf* (1932)** — the hostile intimate study, banned; **Charles H. Sherrill, *A Year's Embassy* (1934)** — the admiring embassy memoir. The 1930s shelf held both.
 - **Turkish canon** — Şevket Süreyya Aydemir's *Tek Adam*; [[Falih Rıfkı Atay]]'s *Çankaya*
   (1961); against them, [[Rıza Nur]]'s sealed-and-detonated memoirs (published 1967–68).
-- **Cold War canonization** — [[Lord Kinross]] (1964) the heroic enlightened despot; Daniel Lerner
+- **Cold War canonization** — Lord Kinross (1964) the heroic enlightened despot; Daniel Lerner
   (1958) and Bernard Lewis (1961) making Turkey modernization theory's showcase.
 - **The modern standard** — [[Andrew Mango]] (1999), cooler and deeper.
 - **The scholarly turn** — Hanioğlu's intellectual baseline (2011); Gawrych in the Turkish General

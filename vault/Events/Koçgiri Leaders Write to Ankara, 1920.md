@@ -28,11 +28,11 @@ memoir, gives the sequence.
   accepted the Kurdish autonomy agreed by the Sultan's government; its stance toward an autonomous
   Kurdistan; release of Kurdish prisoners in Elaziz, Malatya, Sivas and Erzincan; withdrawal of
   Turkish officials from Kurdish-majority areas; and withdrawal of the troops sent to Koçgiri.
-  Olson reads the rebellion as an attempt to seize on Articles 62 and 64 of the [[Treaty of Sèvres]].
+  Olson reads the rebellion as an attempt to seize on Articles 62 and 64 of the Treaty of Sèvres.
 
 The ambivalence is in the sequence: they wrote to Ankara *as the possible grantor* of the
 autonomy Istanbul had promised. The Kemalist side's later reading of the same events is the
-[[Sheikh Said Rebellion]] and [[Dersim Rebellion]] story.
+Sheikh Said Rebellion and Dersim Rebellion story.
 
 **Caveats.** The excerpt of Olson I read is OCR text of the printed article; the leader's
 name is partly cut off; the declaration's details come through Olson's footnotes to Dersimi,

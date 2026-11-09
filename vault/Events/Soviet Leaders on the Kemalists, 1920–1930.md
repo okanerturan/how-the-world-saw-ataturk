@@ -60,13 +60,13 @@ Britain, and a bourgeois dictator who will not stay one.
 ("top stratum", "bourgeois"). By 1930 the opposition is using Kemal as a mirror for Stalin. None of these
 voices is hostile in the way the Turkish liberal or royalist press was hostile; the Soviet reading of Kemal
 is mostly about what the Soviet reader should not do or become. Mustafa Suphi's killing in January 1921 and
-the 1925 and 1927 repressions are the background (see [[Mustafa Suphi]], [[Şefik Hüsnü]], [[Vladimir Lenin]]).
+the 1925 and 1927 repressions are the background (see Mustafa Suphi, Şefik Hüsnü, Vladimir Lenin).
 
 
 ## Threads
 - [[The Comintern's Verdict on Kemal, 1922–1928]]
-- [[Mustafa Suphi]]
-- [[Vladimir Lenin]]
+- Mustafa Suphi
+- Vladimir Lenin
 
 ## Sources
 - Zinoviev, speech at the First Congress of the Peoples of the East, Baku, 1 Sept 1920 (first session), stenographic report ch. 1 · P/S — [text](https://www.marxists.org/history/international/comintern/baku/ch01.htm)

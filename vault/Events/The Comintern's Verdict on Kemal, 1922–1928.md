@@ -12,7 +12,7 @@ era: [contemporary]
 
 The Communist International could not decide whether Mustafa Kemal was an ally or a gendarme,
 and said both, in print, for six years — while the Turkish party it sponsored
-([[Mustafa Suphi]], [[Şefik Hüsnü]]) was being jailed or killed by him.
+(Mustafa Suphi, Şefik Hüsnü) was being jailed or killed by him.
 
 - **Fourth Congress, Nov–Dec 1922: the Open Letter.** "Open Letter to the Communists and Working Masses of Turkey", presented by the TKP
   delegate Orhan (Sadrettin Celal Antel) and unanimously adopted: the workers and peasants of Turkey had been "a living

@@ -19,7 +19,7 @@ sincere bonds of friendship with them — treaties of amity even with nations th
 against Turkey in enmity. A terrifying enemy of invaders, and the most reliable friend of any
 who renounced their designs."**
 
-That is the full "Sick Man of Asia" reading in one paragraph — the same lesson [[Chiang Kai-shek]]'s KMT had made required reading, delivered as a eulogy. Pair with [[Mao Zedong]]'s
+That is the full "Sick Man of Asia" reading in one paragraph — the same lesson Chiang Kai-shek's KMT had made required reading, delivered as a eulogy. Pair with Mao Zedong's
 cooler verdict for the complete Chinese mirror.
 
 ## Sources

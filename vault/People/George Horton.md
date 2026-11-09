@@ -18,7 +18,7 @@ Christian populations by Mohammedans and of the culpability of certain great pow
 burning of Smyrna", by a man who says he was in Smyrna "up until the evening of September 13, 1922, on which date
 the city was set on fire by the army of Mustapha Khemal" (Introduction). It is the most-cited hostile
 eyewitness-author of the Smyrna literature — and it is on the card here as a *gaze at Kemal*, not as a ruling on
-what happened: historians still dispute who set the fire (see [[Burning of Smyrna]]).
+what happened: historians still dispute who set the fire (see Burning of Smyrna).
 
 **What he saw.** Kemal ("Khemal" throughout) is the author of the destruction and of the larger design:
 *"Mustapha Khemal made a stupendous blunder when he burned Smyrna and maltreated its inhabitants"* (p. 167),
@@ -30,10 +30,10 @@ and completed the destruction of the Christians, is a creature of Europe"* (p. 1
 Mustapha Khemal" (p. 209 ff.), opens: the building-up of Kemal by certain Christian countries "was one of the
 unwisest, most pernicious and most dangerous deeds that Occidental diplomacy, intrigue and jealousy has ever
 perpetrated". He ties Kemal to Talaat ("Khemal has followed in the footsteps of Talaat", p. 236) and singles out
-the French (Franklin-Bouillon "seizing Mustapha Khemal in his arms, kissed him", p. 192 — see [[Franklin Bouillon]])
+the French (Franklin-Bouillon "seizing Mustapha Khemal in his arms, kissed him", p. 192 — see Franklin Bouillon)
 and the American missionary who "loudly proclaim[ed] Mustapha Khemal the George Washington of Turkey" (p. 221).
 
-**Counterweight.** Seen against [[Arnold J. Toynbee]]'s 1922 reading of Kemal as an "audacious rebel", Horton is the
+**Counterweight.** Seen against Arnold J. Toynbee's 1922 reading of Kemal as an "audacious rebel", Horton is the
 case for the prosecution; the tone ("the Turk is an anachronism", p. 35) is racial as well as political, which a reader
 should keep in view.
 

@@ -43,7 +43,7 @@ May 1922 quarrel, and a useful cross-section of Assembly opinion in the weeks af
   still concludes they cannot be withdrawn before the aim (driving the enemy "from Izmir into the sea") is reached.
 
 **Reading.** Nobody in the speeches above argues against Kemal personally; the argument is whether concentrating the Assembly's
-powers in one man was safe, and how to hold him answerable (other speakers of the same sitting are not covered here). See [[Turkish War of Independence]].
+powers in one man was safe, and how to hold him answerable (other speakers of the same sitting are not covered here). See Turkish War of Independence.
 
 ## Sources
 - TBMM, *Gizli Celse Zabıtları* (revised edition, Ankara: TBMM, 2023) — open access, vol. 2: 29/31 Teşrinievvel 1337 [1921], 101st–102nd sitting, pp. 470–480 (Müfid p. 474; Hüseyin Avni pp. 474–475; Cavid pp. 475–476; Hüsrev p. 476; Tunalı Hilmi p. 477; Mustafa Durak and Necip p. 478; Abdullah Azmi and Lütfü p. 479) · P — [repository record](https://acikerisim.tbmm.gov.tr/handle/11543/3271) · [vol. 2 PDF](https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content)

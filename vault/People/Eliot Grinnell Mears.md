@@ -27,7 +27,7 @@ speeches (1923) — "Those who effect conquests by the sword finish by being bea
 the plough" — as evidence of Angora's openness to foreign capital.
 
 **Reading.** An instrumental-leaning admiration: the praise serves a commercial thesis (invest in Turkey, the
-Kemalist state is stable and welcoming). Compare [[Charles H. Sherrill]] and [[Mark L. Bristol]] for the American
+Kemalist state is stable and welcoming). Compare Charles H. Sherrill and Mark L. Bristol for the American
 business-diplomatic approach to Angora.
 
 **Caveat.** Contributors' chapters are not Mears's views; only the General Introduction is attributed to him. The

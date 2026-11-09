@@ -15,7 +15,7 @@ era: [posthumous]
 
 Born in Istanbul to an Anglo-Russian family, press officer at the British Embassy in Ankara in his
 twenties, then head of Turkish broadcasts at the BBC External Services until 1986. His *Atatürk*
-(1999) — cooler and deeper than [[Lord Kinross]]'s Cold War portrait, still respectful — became the
+(1999) — cooler and deeper than Lord Kinross's Cold War portrait, still respectful — became the
 standard modern biography in English, and serves as this vault's default checking tool.
 
 His place in the deck: the **post-heroic Western card** — written when Turkey no longer needed

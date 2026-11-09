@@ -10,7 +10,7 @@ era: [contemporary, posthumous]
 
 # Egyptian Pens in al-Risala on Atatürk, 1935–1946
 
-Ten pieces from the Cairo weekly *al-Risala* (founded 1933 by Ahmad Hasan al-Zayyat), read from the Arabic Wikisource transcription of each issue and quoted at one or two sentences. The weekly's writers are the Egyptian and Arab literary establishment of the 1930s-40s; several are hostile over the caliphate, the Latin alphabet or Hagia Sophia, a few admire the soldier-statesman. Religion and the caliphate are recorded in each author's own framing, not the vault's. See also [[Ahmad Hasan al-Zayyat]], [[Four Poems on Atatürk — Melbourne, Damascus, Cairo and Hyderabad, 1933–1939]], [[Abolition of the Caliphate]], [[Hat Law]].
+Ten pieces from the Cairo weekly *al-Risala* (founded 1933 by Ahmad Hasan al-Zayyat), read from the Arabic Wikisource transcription of each issue and quoted at one or two sentences. The weekly's writers are the Egyptian and Arab literary establishment of the 1930s-40s; several are hostile over the caliphate, the Latin alphabet or Hagia Sophia, a few admire the soldier-statesman. Religion and the caliphate are recorded in each author's own framing, not the vault's. See also [[Ahmad Hasan al-Zayyat]], [[Four Poems on Atatürk — Melbourne, Damascus, Cairo and Hyderabad, 1933–1939]], Abolition of the Caliphate, Hat Law.
 
 ## Abd al-Wahhab Azzam — *al-Risala*, no. 104, 1 Jul 1935
 

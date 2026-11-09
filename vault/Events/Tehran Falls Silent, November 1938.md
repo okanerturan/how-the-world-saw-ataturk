@@ -17,9 +17,9 @@ new Turkey" — under headlines such as "The Great Mourning of the Eastern World
 Greatest Man." (The phrase "guardian of independence, its head for twenty years" belongs to the Cairo daily
 *al-Ahram*, quoted just before the Iran section in Toksoy, not to the Iranian press.)
 
-The card sits on top of the state layer already in the vault: [[Reza Shah Pahlavi]], the
+The card sits on top of the state layer already in the vault: Reza Shah Pahlavi, the
 imitator-king who had made his only foreign trip to see Atatürk in 1934. The street grief of
-1938 and the [[Ruhollah Khomeini]] reaction of 1979 are the two poles of the Iranian mirror —
+1938 and the Ruhollah Khomeini reaction of 1979 are the two poles of the Iranian mirror —
 the census now has both.
 
 ## Sources

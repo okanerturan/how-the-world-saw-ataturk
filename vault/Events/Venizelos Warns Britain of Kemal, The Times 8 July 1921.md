@@ -28,8 +28,8 @@ Greece. These are Spender's notes of the exchange, not a stenographic record.
 
 **Reading.** Kemal appears as a military and geopolitical threat, not a character; there is no personal
 description. The 1930 rapprochement and the 1934 Nobel nomination are the same man's later stance (see
-[[Venizelos Nominates Kemal for the Nobel Peace Prize, 1934]] and [[Eleftherios Venizelos]]). Context:
-[[Greco-Turkish War]].
+[[Venizelos Nominates Kemal for the Nobel Peace Prize, 1934]] and Eleftherios Venizelos). Context:
+Greco-Turkish War.
 
 ## Sources
 - *The Times*, London, Friday 8 July 1921, p. 10, issue 42767, "Why Greece Is Fighting — Interview with M. Venizelos" (notes by Harold Spender) · reproduced in full in Ali Şahin, "A Historical Interview With Greek Prime Minister Venizelos", *BRIQ* no. 6 (2021), pp. 87–90 · S (reprint of the page text; I read the reprint, not the Times scan) — [PDF](https://briqjournal.com/sites/default/files/yazi-ici-dosyalar/2021-03/A%20Historical%20Interview%20With%20Greek%20Prime%20Minister%20Venizelos.pdf)

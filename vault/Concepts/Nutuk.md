@@ -13,7 +13,7 @@ memorised in schools and translated worldwide.
 For this project it is the **first Rorschach card — the self-drawn one**. Hülya Adak's reading
 ("National Myths and Self-Na(rra)tions," *South Atlantic Quarterly* 102:2–3, 2003) treats it as
 constructed autobiography: a national myth that writes rivals out of the founding, best read
-against [[Halide Edib Adıvar]]'s rival memoirs and [[Rıza Nur]]'s poisoned ones, and quarried
+against Halide Edib Adıvar's rival memoirs and [[Rıza Nur]]'s poisoned ones, and quarried
 against [[Falih Rıfkı Atay]]'s *Çankaya*. Every later mirror in [[Historiography of Atatürk]] is
 in some way a response to the portrait this text painted first.
 

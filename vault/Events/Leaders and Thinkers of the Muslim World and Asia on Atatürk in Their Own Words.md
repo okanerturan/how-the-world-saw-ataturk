@@ -16,11 +16,11 @@ written, and all are in English as published.
 
 ## The pattern
 
-- **The son of the imitator:** [[Reza Shah Pahlavi]]'s son writes twice (1961, 1980) that his father was drawn to the
+- **The son of the imitator:** Reza Shah Pahlavi's son writes twice (1961, 1980) that his father was drawn to the
   Turkish republic and the 'dynamic leadership' behind it, then chose monarchy; the Shah gives facts, not a verdict.
 - **The convert's disappointment:** Muhammad Asad (Leopold Weiss) credits the war of independence with an Islamic spirit
   and charges Atatürk with throwing away that force for a rejection of 'all Islamic values' (cf.
-  [[Abolition of the Caliphate]]; compare [[Islamic Thinkers on Atatürk in Their Own Words]]).
+  Abolition of the Caliphate; compare [[Islamic Thinkers on Atatürk in Their Own Words]]).
 - **The modernizer-defender:** Mahathir Mohamad in 2003 and 2005 defends him before Muslim audiences: he saved Turkey
   from Greek partition and 'saved Turkey for Islam'.
 - **The Chicago reformer:** Fazlur Rahman writes of a purely secular education engineered by Atatürk and Inönü, and says
@@ -33,7 +33,7 @@ written, and all are in English as published.
 
 > the Turks had abolished their archaic caliphate; and soon afterwards they established a republic under the dynamic leadership of Kemal Ataturk.
 
-Brief and in passing, so intensity 1. Page 39 is taken from the book's own index ('Ataturk, Kemal, 39'); the archive.org OCR text has no page markers. The next paragraph compares Iran in the 1920s with 'neighbouring Turkey, which my father visited in 1934 to observe the remarkable progress made' (about p. 39-40). The Shah is writing as monarch about his father's republic-or-monarchy choice; the sentence is context for that choice. Location: Mohammad Reza Pahlavi, Mission for My Country (1961), p. 39 (index page). Evidence P. See [[Reza Shah Pahlavi]].
+Brief and in passing, so intensity 1. Page 39 is taken from the book's own index ('Ataturk, Kemal, 39'); the archive.org OCR text has no page markers. The next paragraph compares Iran in the 1920s with 'neighbouring Turkey, which my father visited in 1934 to observe the remarkable progress made' (about p. 39-40). The Shah is writing as monarch about his father's republic-or-monarchy choice; the sentence is context for that choice. Location: Mohammad Reza Pahlavi, Mission for My Country (1961), p. 39 (index page). Evidence P. See Reza Shah Pahlavi.
 
 
 ## Mohammad Reza Pahlavi, Shah of Iran (in exile); Answer to History (1980) (1980)
@@ -42,7 +42,7 @@ Brief and in passing, so intensity 1. Page 39 is taken from the book's own index
 
 > Reza Khan had been greatly influenced by the reforms Kemal Ataturk had introduced in Turkey and for a time he hoped to emulate his neighbor's achievements
 
-The object is Reza Shah's modelling on Atatürk; the Shah states no personal verdict, only calls Atatürk 'the man he had sought to emulate' and recounts the 1934 State visit when the honor guard's standard bearer knelt before Reza Shah (p. 52). Polarity 'admiring' is therefore weak; it could be read as witness. The sentence goes on to say the republic plan failed because 'Persia, unlike Turkey, was an empire'. Page 51 per the book's index; the passage runs onto p. 52 (OCR page header '52 ANSWER TO HISTORY'). Location: Mohammad Reza Pahlavi, Answer to History (1980), pp. 51-52. Evidence P. See [[Reza Shah Pahlavi]].
+The object is Reza Shah's modelling on Atatürk; the Shah states no personal verdict, only calls Atatürk 'the man he had sought to emulate' and recounts the 1934 State visit when the honor guard's standard bearer knelt before Reza Shah (p. 52). Polarity 'admiring' is therefore weak; it could be read as witness. The sentence goes on to say the republic plan failed because 'Persia, unlike Turkey, was an empire'. Page 51 per the book's index; the passage runs onto p. 52 (OCR page header '52 ANSWER TO HISTORY'). Location: Mohammad Reza Pahlavi, Answer to History (1980), pp. 51-52. Evidence P. See Reza Shah Pahlavi.
 
 
 ## Muhammad Asad (Leopold Weiss), Austrian-born Muslim scholar and writer; memoir The Road to Mecca (1954) (1954)
@@ -51,7 +51,7 @@ The object is Reza Shah's modelling on Atatürk; the Shah states no personal ver
 
 > Instead of basing his social revolution on a revived and reinvigorated Islam, Ataturk forsook the spiritual force of religion (which alone had brought him to victory) and made, quite unnecessarily, a rejection of all Islamic values the basis of his reforms.
 
-Passage is in the Sanusi chapter ('Jihad'), p. 319 (text between the page headers 'JIHAD 319' and '320'), and describes Sayyid Ahmad al-Sanusi's disappointment; the judgement of Atatürk is the narrator's own. Read from the Islamic Book Service (New Delhi, 2004) reprint titled The Road to Makkah as scanned on archive.org; page numbers are that reprint's printed headers. Asad writes in 1954 about events of the 1920s-30s. Further passages: p. 297 (a dialogue set in Iran in the 1930s, Asad asks 'How is it that Ataturk, that petty masquerader who denies all value to Islam, has become to you Muslims a symbol of Muslim revival?'), p. 268 (Reza Khan's 'obvious admiration of Kemal Ataturk' and Iranians' 'fear of losing their religion as the Turks had lost theirs'), p. 272 (Reza Shah seeking 'to emulate Kemal Ataturk in building a vainglorious Western facade'). Same voice and date, so merged into one record; polarity 'conflicted' because he credits the Islamic character of the war of independence. Asad's Islam at the Crossroads (1934) and The Principles of State and Government in Islam were grepped and do not name Atatürk. Location: Muhammad Asad, The Road to Mecca (1954), p. 319 (also pp. 268, 272, 297). Evidence P. See [[Abolition of the Caliphate]].
+Passage is in the Sanusi chapter ('Jihad'), p. 319 (text between the page headers 'JIHAD 319' and '320'), and describes Sayyid Ahmad al-Sanusi's disappointment; the judgement of Atatürk is the narrator's own. Read from the Islamic Book Service (New Delhi, 2004) reprint titled The Road to Makkah as scanned on archive.org; page numbers are that reprint's printed headers. Asad writes in 1954 about events of the 1920s-30s. Further passages: p. 297 (a dialogue set in Iran in the 1930s, Asad asks 'How is it that Ataturk, that petty masquerader who denies all value to Islam, has become to you Muslims a symbol of Muslim revival?'), p. 268 (Reza Khan's 'obvious admiration of Kemal Ataturk' and Iranians' 'fear of losing their religion as the Turks had lost theirs'), p. 272 (Reza Shah seeking 'to emulate Kemal Ataturk in building a vainglorious Western facade'). Same voice and date, so merged into one record; polarity 'conflicted' because he credits the Islamic character of the war of independence. Asad's Islam at the Crossroads (1934) and The Principles of State and Government in Islam were grepped and do not name Atatürk. Location: Muhammad Asad, The Road to Mecca (1954), p. 319 (also pp. 268, 272, 297). Evidence P. See Abolition of the Caliphate.
 
 
 ## Mahathir Mohamad, Prime Minister of Malaysia; speech to the World Ulama Conference, Putrajaya (2003-07-10)

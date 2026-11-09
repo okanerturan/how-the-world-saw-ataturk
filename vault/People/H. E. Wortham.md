@@ -28,8 +28,8 @@ his justification must be "that without such harsh medicine Turkey would never h
 organised under the rule of law". On dictatorship he is more generous than his contemporaries: Kemal "never lost his
 patience with the Assembly — a point in which he stands alone amongst the team of post-war dictators".
 
-**Reading.** A rare 1930 English text that names the hangings of the [[Independence Tribunals]] without either hiding
-or relishing them. Compare [[H.C. Armstrong]] (1932–33) and [[Grace Ellison]].
+**Reading.** A rare 1930 English text that names the hangings of the Independence Tribunals without either hiding
+or relishing them. Compare [[H.C. Armstrong]] (1932–33) and Grace Ellison.
 
 **Caveat.** Page numbers are the book's own. The biography's author is identified only by the title page here.
 

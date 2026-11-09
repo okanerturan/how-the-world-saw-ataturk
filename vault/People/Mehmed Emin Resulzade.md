@@ -34,7 +34,7 @@ Atatürk:
   faced — what happens when the founder dies? — pointing to İnönü's instant election and the
   government's "the Republic is his immortal work" notice as proof the machine ran "like a wound
   clock." The Russian rewrite adds what the Turkish text omits: the Ankara–Moscow relationship,
-  including the drowning of [[Mustafa Suphi]]'s party at Trabzon.
+  including the drowning of Mustafa Suphi's party at Trabzon.
 
 **The expulsion.** The BBC Azərbaycanca historian Altay Göyüşov surveys the literature: the date of
 Resulzade's leaving Turkey is given variously between 1928 and 1931 (most sources: **1931**);
@@ -47,7 +47,7 @@ Türk Ocakları (Turkish Hearths) into the party-state, and was ending the Free 
 1930–31; the Azerbaijani émigrés' independent anti-Soviet organizing no longer fit, and in 1931
 all his publications were banned. Resulzade went to Poland, later Berlin and Romania, and regained
 Turkish citizenship only in 1947. (Another Azerbaijani account, in the preface to Vilayət Quliyev's
-translation, places the expulsion after the October 1933 visit of [[Kliment Voroshilov]] and
+translation, places the expulsion after the October 1933 visit of Kliment Voroshilov and
 Budyonny, who delivered Stalin's complaint about anti-Soviet agitation — **the date is genuinely
 unsettled.**)
 
@@ -57,9 +57,9 @@ turn him from the model. He died in Ankara in 1955; the modern Azerbaijani state
 and the Heşimova survey of Azerbaijani poetry credits him with assessing Atatürk's struggle
 highly (see [[Azerbaijani Poetry of Atatürk]]).
 
-Pair with [[Mustafa Suphi]] (the communist killed at sea) and [[Mustafa Çokay]] — three exiled
+Pair with Mustafa Suphi (the communist killed at sea) and [[Mustafa Çokay]] — three exiled
 Turkic voices who watched Ankara bargain with Moscow and judged the bargain differently.
-Context: [[Abolition of the Caliphate]] · [[Death and State Funeral of Atatürk]].
+Context: Abolition of the Caliphate · [[Death and State Funeral of Atatürk]].
 
 ## Sources
 - Göyüşov, "Rəsulzadə Türkiyədən niyə getdi?", [BBC Azərbaycanca, 9 Mar 2017 (updated 2024)](https://www.bbc.com/azeri/analysis-39221340) — S/J (historian's analysis)

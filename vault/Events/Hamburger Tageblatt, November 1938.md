@@ -18,7 +18,7 @@ essay attributed to Atatürk himself, "The Leader and His People"** (the two are
 Nazi paper as leadership doctrine.
 
 GHDI's editorial frame matches Ihrig's thesis exactly: Nazi Germany read Atatürk's "new national
-consciousness" as a model of the leadership it valued in itself. This card gives the [[Adolf Hitler]] node its documentary floor — a real Nazi-era newspaper page, translated and curated by
+consciousness" as a model of the leadership it valued in itself. This card gives the Adolf Hitler node its documentary floor — a real Nazi-era newspaper page, translated and curated by
 a scholarly project, doing precisely what Ihrig says the German press did. (The "eclipsed
 Kristallnacht" formulation remains a page-level Ihrig check — this card neither proves nor needs
 it.)

@@ -33,7 +33,7 @@ it addresses the Turkish parliament as the voice of the very provinces it claime
 reformer of religion: the word "Muslim" appears nowhere in the telegram, the word "nationalism"
 does. That is a distinctive angle inside the Indian column, where the 1920s gaze had been
 Khilafat-shaped (see [[Khilafat Disillusion, 1924]]) and the mainstream League gaze was Jinnah's
-("[[Muhammad Ali Jinnah]]") — and a mirror for a man whose own project would later be written out of
+("Muhammad Ali Jinnah") — and a mirror for a man whose own project would later be written out of
 Pakistan's official story (the Cambridge chapter below: his "virtual banishment from Pakistan's history").
 
 *Boundary:* one telegram, formulaic by the genre, sent by a man who needed international

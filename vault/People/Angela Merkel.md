@@ -11,7 +11,7 @@ tags: [person, verified, head-of-state, anitkabir]
 
 On 8 February 2016 she wrote in the Anıtkabir book of Atatürk as the 'Ata' of the modern Turkish Republic and 'architect of the road to Europe'.
 
-See [[Leaders in the Anıtkabir Special Book, 2004–2025]] and [[Anıtkabir]].
+See [[Leaders in the Anıtkabir Special Book, 2004–2025]] and Anıtkabir.
 
 ## Sources
 - Turkish press reports of the Anıtkabir special book entry; see [[Leaders in the Anıtkabir Special Book, 2004–2025]].

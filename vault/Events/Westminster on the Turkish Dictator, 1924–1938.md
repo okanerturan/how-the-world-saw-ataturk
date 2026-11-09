@@ -15,7 +15,7 @@ an example. Nine members and peers, all from the Hansard Search API sweep:
 
 - **Curzon (Lords, 14 May 1924).** The man who made Lausanne, on Reza Khan's modelling himself on Kemal: "I can foresee that if
   he follows certain lines of policy which have been pursued by Mustapha Kemal in Turkey, he may come to grief at an early stage in
-  his own country." ([[Lord Curzon]]; the API prints his name as "Marquess Quezon of Kedleston," a typo.)
+  his own country." (Lord Curzon; the API prints his name as "Marquess Quezon of Kedleston," a typo.)
 - **Mr Pilcher (Commons, 18 Feb 1926, Anglo-Iraq Treaty).** Hostile, with the Mosul dispute as backdrop: "The Indian Moslem
   has discovered exactly the true nature of the Kemal Pasha régime in Angora," persecuting fez-wearers and Moslem prayer, "rulers
   who are definitely librepenseurs and anti-Moslem."

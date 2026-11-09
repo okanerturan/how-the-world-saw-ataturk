@@ -13,10 +13,10 @@ era: [contemporary]
 
 # E. Nicol
 
-A 36-page pamphlet (the text's last page head reads 36) dated **Paris, 18 February 1922**, written in reply to the lecture in which [[Franklin Bouillon]],
+A 36-page pamphlet (the text's last page head reads 36) dated **Paris, 18 February 1922**, written in reply to the lecture in which Franklin Bouillon,
 home from the Angora mission, "rompit le silence." Nicol is not otherwise identified in the sources I
 have; the voice is that of the Entente-first argument against the Angora deal, defending the Allied line of the
-Treaty of Sèvres ([[Treaty of Sèvres]]).
+Treaty of Sèvres (Treaty of Sèvres).
 
 **What he saw.** Kemal as the *front* of a movement whose essence is hostility to Europe. *"La xénophobie
 et la haine de l'Europe sont l'essence même du kémalisme"* (p. 15) — and the pamphlet's own twist on
@@ -30,7 +30,7 @@ d'Européens si facile à rouler" (pp. 26–27). He ends by arguing that the Kem
 of European arms and supplies "pour le voir s'émietter" (p. 36).
 
 **Why it matters.** This is the other half of the Franco-Turkish argument of 1921–22: a *French* anti-Angora
-voice, February 1922, seven months before the Kemalist victory at Smyrna ([[Burning of Smyrna]]) that made its
+voice, February 1922, seven months before the Kemalist victory at Smyrna (Burning of Smyrna) that made its
 forecast of a movement that would "s'émietter" without European arms look wrong.
 
 ## Sources

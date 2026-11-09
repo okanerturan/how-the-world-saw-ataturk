@@ -12,7 +12,7 @@ era: [contemporary]
 
 In the week Smyrna burned (13–14 Sept) and the Chanak crisis opened, Paris was the one Allied capital that had
 already signed its own separate peace with Ankara — the Franklin-Bouillon agreement of October 1921 (see
-[[Franklin Bouillon]]) — and its press shows it. The pages below are 16–17 Sept 1922, read as OCR fragments
+Franklin Bouillon) — and its press shows it. The pages below are 16–17 Sept 1922, read as OCR fragments
 (see the caveat); the editorial voices are thinner here than in 1938, and where a fragment is a wire dispatch
 rather than the paper's own words I say so.
 
@@ -45,11 +45,11 @@ edict against atrocities and the fire.
 **Le Figaro, 16 Sept 1922** ([issue](https://gallica.bnf.fr/ark:/12148/bpt6k293339r)) carries the Smyrna-fire dispatch and the Allied
 resolution (reinforce the "drapeaux alliés" if Kemal threatened the Straits); no editorial fragment on him.
 
-**Reading.** Nothing here is the Burning of Smyrna as a verdict — see [[Burning of Smyrna]] and the
-Armenian-Greek record in [[Armenian Genocide]] for what the history says; this card is only how four Paris papers
+**Reading.** Nothing here is the Burning of Smyrna as a verdict — see Burning of Smyrna and the
+Armenian-Greek record in Armenian Genocide for what the history says; this card is only how four Paris papers
 placed Mustafa Kemal that week: moderate (*Action française*), a belligerent to be warned yet pledged to peace and
 punishing excess (*Temps*), a pawn in the imperialists' game (*Humanité*). For the English-speaking side of the same
-fortnight see [[Chanak Crisis]] and [[Canada Says Not Yet at Chanak, September 1922]].
+fortnight see Chanak Crisis and [[Canada Says Not Yet at Chanak, September 1922]].
 
 Caveat: Gallica's OCR is noisy; every French quotation below is copied exactly as the OCR gives it, with obvious misreadings flagged [OCR] rather than silently mended. The page text was read as search-hit fragments (Gallica's `ContentSearch` service), not as whole articles, so what follows is what the fragments say and no more. The Action française and Humanité attributions rest on front-page fragments; whether
 each is the paper's editorial or a quoted dispatch could not be seen.

@@ -31,7 +31,7 @@ Caliphate"* and the remark that if Kemal had died or withdrawn after the peace c
 history reaches" — an opinion Rida says many thinkers shared with the shaykh. *(English translation mine.)*
 
 Compare [[Rashid Rida]] (the editor who quotes him, and who is harder on the Kemalists), [[Abdelhamid Ben Badis]] (the same
-"we praised them until the Caliphate fell" arc, written two weeks later in Algeria) and [[Ahmad Shawqi]].
+"we praised them until the Caliphate fell" arc, written two weeks later in Algeria) and Ahmad Shawqi.
 
 **Caveats.** Mediated by Rida's reprint: the three *al-Akhbar* articles themselves were not seen (Egyptian press, not located on open
 scans). I could not tell which of the three articles p. 290 reproduces; the date on the gaze record is the year only. Rida's page 291

@@ -10,7 +10,7 @@ era: [posthumous]
 
 # Constituent Assembly and Lok Sabha on Atatürk, 1946–1966 — Radhakrishnan, Gour, Kamath, Anthony and Brajeshwar Prasad
 
-Found by archive.org full-text search over the Lok Sabha Secretariat's digitised debates. In the Constituent Assembly Kemal is a weapon in the argument over religion and the state (Gour, Radhakrishnan, against Jinnah's Pakistan) and over strong government (Brajeshwar Prasad); after independence he becomes an example in Lok Sabha: the ragged army (Kamath 1949), whipping and flogging (Anthony 1955, Kamath 1963). Nehru's own view: [[Jawaharlal Nehru]].
+Found by archive.org full-text search over the Lok Sabha Secretariat's digitised debates. In the Constituent Assembly Kemal is a weapon in the argument over religion and the state (Gour, Radhakrishnan, against Jinnah's Pakistan) and over strong government (Brajeshwar Prasad); after independence he becomes an example in Lok Sabha: the ragged army (Kamath 1949), whipping and flogging (Anthony 1955, Kamath 1963). Nehru's own view: Jawaharlal Nehru.
 
 ## S. Radhakrishnan (1947-01-20)
 

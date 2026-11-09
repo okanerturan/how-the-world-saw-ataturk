@@ -50,7 +50,7 @@ in Petrvald striking underground against the Polish seizure of the Teschen mines
 the papers carried Atatürk's lying-in-state crush.
 
 What this card is not: a Beneš node. Beneš, who as foreign minister had been in the Little
-Entente–Balkan Pact orbit ([[Balkan Pact]]), has no sourced statement here; Beneš's own view
+Entente–Balkan Pact orbit (Balkan Pact), has no sourced statement here; Beneš's own view
 remains open.
 
 Caveat: Paper titles in Toksoy are phonetic and sometimes garbled (she is working from Turkish newspaper digests, chiefly *Ayın Tarihi* Nov 1938, *Ulus*, *Cumhuriyet*, *Akşam*, *Kurun*, *Tan*); the identifications below are mine and marked "presumably." The foreign originals were not seen. The *České slovo* sentence is the best-documented because Toksoy

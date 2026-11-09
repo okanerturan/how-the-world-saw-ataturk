@@ -10,7 +10,7 @@ era: [contemporary]
 
 # Hitler's Atatürk, 1933–1938
 
-The [[Adolf Hitler]] node is transcript-derived; this card holds what is now **page-confirmed** in
+The Adolf Hitler node is transcript-derived; this card holds what is now **page-confirmed** in
 Ihrig's study (read through search-inside snippets, Oct 2026), so the dark mirror stands on cited
 ground.
 

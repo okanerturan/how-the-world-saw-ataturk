@@ -10,7 +10,7 @@ era: [contemporary]
 
 # Toynbee on the Audacious Rebel, 1922
 
-A deeper primary-source companion to the vault's [[Arnold J. Toynbee]] card. The man who
+A deeper primary-source companion to the vault's Arnold J. Toynbee card. The man who
 edited Britain's 1916 Blue Book on the Armenians (under Lord Bryce) turned, after reporting the Greek-Turkish war
 for the *Manchester Guardian* in 1921–22, into the Western world's most prominent academic
 Turkophile — "his conversion from institutional Philhellenism to unapologetic Turkophilia"
@@ -34,7 +34,7 @@ and the Greek side judged it betrayal.
 
 **Why "conflicted".** The 1922 text on Kemal is guardedly sympathetic; the conflict is Toynbee's
 arc (Blue Book 1916; Turkophile 1922; later mixed verdicts on the one-party state, not yet
-sourced here). The deck keeps both. See [[Eleftherios Venizelos]] for the Greek mirror, [[Greco-Turkish War]].
+sourced here). The deck keeps both. See Eleftherios Venizelos for the Greek mirror, Greco-Turkish War.
 
 ## Sources
 - [Toynbee, *The Western Question in Greece and Turkey* (1922), full text, archive.org](https://archive.org/stream/westernquestioni00toynrich/westernquestioni00toynrich_djvu.txt) — chapter "Greek and Turkish Government", pp. 178–180 · P

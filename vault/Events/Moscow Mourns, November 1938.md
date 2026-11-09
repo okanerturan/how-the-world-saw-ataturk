@@ -33,8 +33,8 @@ Kemal Atatürk… all sincere friends of independent Turkey feel sorrow"; and an
 Union, 10 Nov 1938": Khrushchev held no such office in 1938, so the attribution is an error in the
 compilation.)
 
-The card sits at the end of an arc already in the vault: [[Vladimir Lenin]]'s "Turkish Octobrists,"
-[[Mikhail Frunze]]'s and [[Kliment Voroshilov]]'s Ankara visits, [[Semyon Aralov]]'s embassy, then the
+The card sits at the end of an arc already in the vault: Vladimir Lenin's "Turkish Octobrists,"
+Mikhail Frunze's and Kliment Voroshilov's Ankara visits, Semyon Aralov's embassy, then the
 1938 Soviet obituary that praises the "friend" while skipping the Straits. For the Azerbaijani
 view of the same Soviet silence, see [[Mehmed Emin Resulzade]]'s Russian-language article.
 

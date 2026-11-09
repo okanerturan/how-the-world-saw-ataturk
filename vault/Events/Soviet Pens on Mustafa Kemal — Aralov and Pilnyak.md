@@ -10,7 +10,7 @@ era: [contemporary, posthumous]
 
 # Soviet Pens on Mustafa Kemal — Aralov and Pilnyak
 
-Two Soviet-era Russian texts read in full-text open copies. **Semyon Aralov**, the first Soviet ambassador in Ankara, remembers Kemal in his 1960 memoir (see his note [[Semyon Aralov]]): a man of 'delicate, lyrical nature' hardened by love of country, whose revolution, Aralov concludes in Marxist terms, helped only the bourgeoisie. **Boris Pilnyak**, the novelist, makes Kemal a name in a catalogue of the region's massacres, in a narrator's aside (sensitive thread; the framing is Pilnyak's).
+Two Soviet-era Russian texts read in full-text open copies. **Semyon Aralov**, the first Soviet ambassador in Ankara, remembers Kemal in his 1960 memoir (see his note Semyon Aralov): a man of 'delicate, lyrical nature' hardened by love of country, whose revolution, Aralov concludes in Marxist terms, helped only the bourgeoisie. **Boris Pilnyak**, the novelist, makes Kemal a name in a catalogue of the region's massacres, in a narrator's aside (sensitive thread; the framing is Pilnyak's).
 
 ## Semyon Aralov, *Воспоминания советского дипломата* (1960), pp. 211 and 215
 
@@ -19,7 +19,7 @@ Two Soviet-era Russian texts read in full-text open copies. **Semyon Aralov**, t
 
 Second passage, p. 211: *Но надежды эти не оправдались. Выиграла от национальной революции и военных побед освободительной армии только буржуазия.* (translation: But those hopes were not fulfilled. Only the bourgeoisie gained from the national revolution and the liberation army's victories.)
 
-See [[Semyon Aralov]], [[Mikhail Frunze]], [[Kliment Voroshilov]].
+See Semyon Aralov, Mikhail Frunze, Kliment Voroshilov.
 
 ## Boris Pilnyak, *Повесть о ключах и глине* (1926)
 

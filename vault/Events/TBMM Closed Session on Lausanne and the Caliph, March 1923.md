@@ -10,7 +10,7 @@ era: [contemporary]
 
 # TBMM Closed Session on Lausanne and the Caliph, March 1923
 
-Four months after the sultanate was abolished (see [[Abolition of the Sultanate]]) and with the Lausanne talks stalled, the
+Four months after the sultanate was abolished (see Abolition of the Sultanate) and with the Lausanne talks stalled, the
 Assembly debated in closed session (vol. 4, 4th–5th sitting, 4–5 March 1923) whether to dismiss the cabinet, with a motion that
 puts the Pasha-or-Caliph question in so many words. **Mustafa Bey (Karahisar-ı Şarki)** moved a three-article motion (pp. 168–170):
 - It calls Kemal and the Assembly's founders the saviours: *"Gazi âli şânımız ve sebebi necatımız Mustafa Kemal Paşa Hazretleri"*
@@ -20,7 +20,7 @@ puts the Pasha-or-Caliph question in so many words. **Mustafa Bey (Karahisar-ı 
   committee to merge constitutions, an end to "groupism", and the cabinet's immediate fall.
 
 He does not appear to propose removing Kemal; the gaze is conflicted: gratitude to the leader, anxiety about a two-headed state,
-and an appeal to the Assembly's old unity. See [[Abolition of the Caliphate]] and [[Abdulmejid II]].
+and an appeal to the Assembly's old unity. See Abolition of the Caliphate and Abdulmejid II.
 
 **Hüseyin Avni, same sitting.** On 4 March (vol. 4, pp. 114–116) [[Hüseyin Avni Ulaş]] urges a "Başkumandan Paşa" to go back to the army and leave
 politics; the text is ambiguous whether this addresses Kemal or İsmet, and it is therefore left out of the dataset (Round 7 had

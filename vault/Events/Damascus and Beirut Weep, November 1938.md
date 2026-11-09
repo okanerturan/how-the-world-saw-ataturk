@@ -32,7 +32,7 @@ his soul and the funeral prayer in absentia was held. *Al-Ayyam* put a full-page
 - ***Al-Qabas*** (Damascus): "we Syrians share the grief with all our hearts; our greatest consolation is
   to follow the road the great genius drew."
 
-Set it beside the vault's other Levantine voices — [[Antoun Saadeh]], [[Sati' al-Husri]], [[Amin al-Rihani]] —
+Set it beside the vault's other Levantine voices — Antoun Saadeh, Sati' al-Husri, Amin al-Rihani —
 and against [[Shakib Arslan]], the Lebanese pan-Islamist who prosecuted Atatürk from Geneva: the street and
 the press of Damascus and Beirut mourned in a register the Geneva exile never used. (Method note: all quotes come through Turkish dailies' translations of
 the Arabic — *Akşam* and *Cumhuriyet*, 14–21 Nov 1938, and *Ayın Tarihi* — so wording is

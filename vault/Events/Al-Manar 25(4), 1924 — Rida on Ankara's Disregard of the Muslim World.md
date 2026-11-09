@@ -44,7 +44,7 @@ on Shawish is covered in [[Abd al-Aziz Shawish]]. Rida's own headings on p. 290 
 Caliphate"* (طمع مصطفى كمال بالخلافة) and, on p. 291, *"the Tatar sedition that corrupts the Turks' beliefs"* (فتنة التتار المفسدة لعقائد الترك; text not analysed here).
 
 **Place in the deck.** The same pen as the [[Rashid Rida]] card, but here the target is Mustafa Kemal and his party by
-name, in the first weeks after the [[Abolition of the Caliphate]]: Rida does not call Kemal an unbeliever; he calls the
+name, in the first weeks after the Abolition of the Caliphate: Rida does not call Kemal an unbeliever; he calls the
 regime indifferent to the Muslim world.
 
 **Caveats.** Part 4's month is inferred from the part sequence of vol. 25 (it follows the March 1924 events and an

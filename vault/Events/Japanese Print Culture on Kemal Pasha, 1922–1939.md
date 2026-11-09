@@ -10,7 +10,7 @@ era: [contemporary, posthumous]
 
 # Japanese Print Culture on Kemal Pasha, 1922–1939
 
-Japan already holds [[Ōkawa Shūmei]] and a Takamatsu visit; this card widens the lens to the
+Japan already holds Ōkawa Shūmei and a Takamatsu visit; this card widens the lens to the
 whole **printed conversation** — and it is enormous.
 
 Shimizu's bibliography (Chiba University, 2013) combs the Japanese holdings of 1910–1939 and finds

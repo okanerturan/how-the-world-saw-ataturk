@@ -9,7 +9,7 @@ tags: [person, politician, india, verified]
 
 # C. N. Annadurai
 
-In a 1960 weekly letter to his 'thambi' (younger brother) on the Turkish coup against Menderes, he calls Mustafa Kemal one who 'served to the praise of the whole world' and built the new Turkey of revival and freedom. Compare [[Periyar E. V. Ramasamy]].
+In a 1960 weekly letter to his 'thambi' (younger brother) on the Turkish coup against Menderes, he calls Mustafa Kemal one who 'served to the praise of the whole world' and built the new Turkey of revival and freedom. Compare Periyar E. V. Ramasamy.
 
 See [[Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others]].
 

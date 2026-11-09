@@ -51,7 +51,7 @@ delegate and no second source — treat as unverified).
 | Italy | Baron Pompeo Aloisi | senior diplomat, ex-delegate to the League | Havas 17 Nov · Tüylü Turan 2019 | P+S |
 | USSR | [[Vladimir Potemkin]]; Adm. Yumashev; Amb. Terentyev | First Deputy Foreign Commissar; fleet commander; ambassador | Havas 13 Nov · Havas 17 Nov · NRC 26 Nov · Soviet archive summary | P+J |
 | United Kingdom | Field Marshal Lord Birdwood (for George VI); Adm. Sir Dudley Pound; 200 marines and the band of *Malaya* | royal representative; C-in-C Mediterranean | Reuter 21 Nov · Havas 17 Nov · Uyanıker 2020 | P+S |
-| Greece | [[Ioannis Metaxas]] | Prime Minister, in person; destroyer *Hydra* (Capt. Ikonomu) + army detachment | Havas 17 Nov · Havas 12 Nov via [[Salonika Names His Street, November 1938]] | P |
+| Greece | Ioannis Metaxas | Prime Minister, in person; destroyer *Hydra* (Capt. Ikonomu) + army detachment | Havas 17 Nov · Havas 12 Nov via [[Salonika Names His Street, November 1938]] | P |
 | Yugoslavia | Army Gen. Nedić (⚠️ **Milutin** by inference from the minister list; the sources give only "Nedić"/"minister of war") | Minister of the Army and Navy; plus military detachments | Havas 17 Nov ("minister of war") · Boran 2011 p.512 via Tüylü Turan · ministers list | P+S+T |
 | Bulgaria | Minister of War (name not in wire) + detachment | — | Havas 17 Nov | P |
 | Romania | Minister of Air (name not in wire) + detachment; destroyer *Regina Maria* (Lt-Cdr Macellariu) | — | Havas 17 Nov · Uyanıker 2020 | P+S |
@@ -78,7 +78,7 @@ delegate and no second source — treat as unverified).
   replaced Amanullah — and Tüylü Turan has an Afghan commission arriving in Istanbul on 18 November.
   No contemporary or scholarly source seen puts the exiled ex-king in Ankara. The Wikipedia
   Afghanistan–Turkey page (T) says only that he "made a special attendance" from Rome, with no
-  citation. See [[Amanullah Khan]].
+  citation. See Amanullah Khan.
 - **The headline counts disagree.** "Seventeen nations" (Wikipedia) fits the
   Havas special-delegation list almost exactly; "28 countries" (vault inheritance) and the 32-name
   Wikipedia table could not be traced to a primary source this round. One plausible reconciliation
@@ -103,7 +103,7 @@ Erkan Dağlı's article mines the Presidential Archive (CA) for what ordinary fo
 the illness and after. Named senders, with what they wrote:
 
 - **Abdullah I of Jordan**, April 1938 telegram: read of the illness in the paper, "anxious and
-  distressed" ([[Abdullah I of Jordan]]; CA 01008484-2).
+  distressed" (Abdullah I of Jordan; CA 01008484-2).
 - **Dr André Pirim (of the Kasapyan family, for Turkey's Armenian Catholics)** and **Archbishop
   Boğos Kireçyan**, spiritual head of the Armenian Catholics, 2–3 April 1938: wishes for health and prayers that Atatürk shelter the young
   republic "for years under your wings" (CA 01019988-116, -106).

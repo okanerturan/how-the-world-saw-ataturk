@@ -20,7 +20,7 @@ met twice: first to hear the news and stand in silence, then to elect his succes
   the members to stand for **five minutes** of silence (*"ayakta, beş dakika sükût"*); the minutes record "sobs and weeping".
 - **Prime Minister Celâl Bayar**'s notice reports the death 'with irreparable pain and grief': *"terki hayat ettiklerini onulmaz
   acı ve teessürlerle arzederim."* (p. 16), accompanied by the doctors' report.
-- **[[İsmet İnönü]]**, elected President by 348 votes *"müttefikan"* (unanimously), said in his address: *"fevkalâde hizmetlerini bu günkü Türk
+- **İsmet İnönü**, elected President by 348 votes *"müttefikan"* (unanimously), said in his address: *"fevkalâde hizmetlerini bu günkü Türk
   Devletinin bünyesinde tam ve temiz eserler olarak tecessüm etmiş görüyoruz"* ("we see his extraordinary services embodied as complete
   and clean works in the structure of today's Turkish State", tr., p. 17) and that *(Kemal Atatürk)* would live on in the nation's heart.
 

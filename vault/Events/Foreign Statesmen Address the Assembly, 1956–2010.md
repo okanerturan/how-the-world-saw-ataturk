@@ -26,13 +26,13 @@ without stating a view is a *ritual mention* and is not stored as a gaze. The el
 ## The pattern
 
 - **Admiration for the liberator**: Pakistan (Mirza 1956, Muzaffar Ali 1957, Musharraf 2004) and Malaysia (Zahir 1988) remember
-  him as the colonised world's hero, [[Muhammad Ali Jinnah]]'s counterpart.
+  him as the colonised world's hero, Muhammad Ali Jinnah's counterpart.
 - **The post-Soviet turn**: Elçibey, Haydar Aliyev and Nazarbayev treat him as the model for a new Turkic state; the Soviet delegate of 1965
   had instead appealed to the Lenin–Atatürk friendship.
 - **The European and American register**: from 1999 the Commission and Parliament presidents, Clinton, Obama and Wulff cite
   him as the author of Turkey's secular, modernising, European direction. That is praise with a purpose; it is stored as
   *instrumental* where the sentence serves the speaker's own pitch (accession talks), *admiring* where it states a view of the man.
-- **The single conflicted voice**: [[Habib Bourguiba]] in 1965.
+- **The single conflicted voice**: Habib Bourguiba in 1965.
 
 ## 1956–1965 — the first guests
 
@@ -50,7 +50,7 @@ Translation: "Atatürk belongs to the class of world heroes whom history will ho
 
 > Bu ilham membaını Türkiye ve Pakistan’ın büyük şahsiyetleri olan Atatürk ve Mehmet Ali Cinnah’a karşı duyduğumuz derin hayranlık teşkil etmektedir.
 
-Translation: "The source of this inspiration is the deep admiration we feel for Atatürk and Muhammad Ali Jinnah, the great figures of Turkey and Pakistan." (PDF p. 18 (printed p. 7)). Book heading: 'Pakistan Parlamento Heyeti Reisi Nevvab Muzaffer Ali', 7 Haziran 1957. Spelling of the name follows the book. See [[Muhammad Ali Jinnah]].
+Translation: "The source of this inspiration is the deep admiration we feel for Atatürk and Muhammad Ali Jinnah, the great figures of Turkey and Pakistan." (PDF p. 18 (printed p. 7)). Book heading: 'Pakistan Parlamento Heyeti Reisi Nevvab Muzaffer Ali', 7 Haziran 1957. Spelling of the name follows the book. See Muhammad Ali Jinnah.
 
 ### Nikolay Podgorny, Head of the Soviet parliamentary delegation (1965-01-05)
 
@@ -66,7 +66,7 @@ Translation: "The leader of the Turkish nation, Kemal Atatürk, duly appreciated
 
 > Sakarya Harbi, Sakarya Zaferi, 20 yaşımın en kuvvetli hâtırası olmuştur.
 
-Translation: "The Battle of Sakarya, the Victory of Sakarya, became the strongest memory of my twentieth year." (PDF p. 43 (printed p. 32)). Same speech: 'Sizin Kemalist ihtilâliniz ise, bizlere maya oldu' (PDF p. 48, 'your Kemalist revolution became leaven for us'), and on PDF p. 44 the Arab hesitation is traced to 'bu liderin din ve din müessesesine karşı takındığı tavırlar' (this leader's stance toward religion and religious institutions), with Bourguiba dissenting from the 'very radical judgments'. Heading: 'Tunus Cumhurbaşkanı Habib Burgiba', 25 Mart 1965. Existing person note covers his later Kemalist programme. See [[Habib Bourguiba]].
+Translation: "The Battle of Sakarya, the Victory of Sakarya, became the strongest memory of my twentieth year." (PDF p. 43 (printed p. 32)). Same speech: 'Sizin Kemalist ihtilâliniz ise, bizlere maya oldu' (PDF p. 48, 'your Kemalist revolution became leaven for us'), and on PDF p. 44 the Arab hesitation is traced to 'bu liderin din ve din müessesesine karşı takındığı tavırlar' (this leader's stance toward religion and religious institutions), with Bourguiba dissenting from the 'very radical judgments'. Heading: 'Tunus Cumhurbaşkanı Habib Burgiba', 25 Mart 1965. Existing person note covers his later Kemalist programme. See Habib Bourguiba.
 
 
 ## 1984–1999 — anniversary speeches and the new Turkic states
@@ -85,7 +85,7 @@ Translation: "[We] feel deep respect for the Great Atatürk, who made indelible 
 
 > bu tarihî lidere en derin saygı ve hayranlık hisleriyle dolu bulunmaktayım.
 
-Translation: "I am filled with the deepest feelings of respect and admiration for this historic leader." (PDF p. 53 (printed p. 42)). Heading: 'Japonya Temsilciler Meclisi Üyesi Susumu Kobayashi', 23 Nisan 1985; speech begins PDF p. 52. See [[Anıtkabir]].
+Translation: "I am filled with the deepest feelings of respect and admiration for this historic leader." (PDF p. 53 (printed p. 42)). Heading: 'Japonya Temsilciler Meclisi Üyesi Susumu Kobayashi', 23 Nisan 1985; speech begins PDF p. 52. See Anıtkabir.
 
 ### Tan Sri Dato Mohd Zahir Hacı İsmail, Speaker of the Malaysian House of Representatives (1988-04-23)
 
@@ -152,7 +152,7 @@ Translation: "His vision of Turkey was to take a full place within the family of
 
 > Kemal Atatürk bir kahramandı. (Alkışlar) Bizim bölgemizde bulunan Müslümanların sık sık kendi çocuklarına verdiği ismin sahibiydi.
 
-Translation: "Kemal Atatürk was a hero. (Applause) He was the bearer of a name that Muslims in our region often gave their own children." (PDF p. 187 (printed p. 176)). Same speech pairs Jinnah and Atatürk on peace (PDF p. 191). The vault's existing note says Atatürk was his hero in a general way; this is his stated view in the TBMM. Heading: 'Pakistan Cumhurbaşkanı Pervez Müşerref', 20 Ocak 2004. See [[Pervez Musharraf]].
+Translation: "Kemal Atatürk was a hero. (Applause) He was the bearer of a name that Muslims in our region often gave their own children." (PDF p. 187 (printed p. 176)). Same speech pairs Jinnah and Atatürk on peace (PDF p. 191). The vault's existing note says Atatürk was his hero in a general way; this is his stated view in the TBMM. Heading: 'Pakistan Cumhurbaşkanı Pervez Müşerref', 20 Ocak 2004. See Pervez Musharraf.
 
 ### Pat Cox, President of the European Parliament (2004-03-02)
 
@@ -176,7 +176,7 @@ Translation: "The Republic of Turkey was founded by Atatürk, and by Atatürk Tu
 
 > Kendisi bir hukuk ve sosyal politik ve kültürel reformları gerçekleştirmiş, bugünkü Türkiye’nin temellerini atmıştır ve eminim ki, siz de O’nun yolundan gidecek bir parlamentosunuz.
 
-Translation: "He carried out legal, socio-political and cultural reforms and laid the foundations of today's Turkey, and I am sure that you will be a parliament that follows his path." (PDF p. 229 (printed p. 218)). He also notes that 9 November was the eve of the anniversary of Atatürk's death and calls the name 'Atatürk' the 'father of the Turks'; urges more women MPs. Heading: 'Avrupa Konseyi Parlamenter Meclisi Başkanı Rene Van Der Linden', 9 Kasım 2005. See [[Anıtkabir]].
+Translation: "He carried out legal, socio-political and cultural reforms and laid the foundations of today's Turkey, and I am sure that you will be a parliament that follows his path." (PDF p. 229 (printed p. 218)). He also notes that 9 November was the eve of the anniversary of Atatürk's death and calls the name 'Atatürk' the 'father of the Turks'; urges more women MPs. Heading: 'Avrupa Konseyi Parlamenter Meclisi Başkanı Rene Van Der Linden', 9 Kasım 2005. See Anıtkabir.
 
 ### José Manuel Barroso, President of the European Commission (2008-04-10)
 
@@ -192,7 +192,7 @@ Translation: "The Great Mustafa Kemal Atatürk founded this Assembly to give the
 
 > kendisi tarihin şeklini değiştiren bir liderdir. Ama Atatürk’ün yaşamına ait en büyük anıt hiçbir şekilde taştan ya da mermerden inşa edilemez, kendisinin bırakmış olduğu en büyük miras Türkiye’nin canlı laik demokrasisidir
 
-Translation: "He is a leader who changed the shape of history. But the greatest monument to Atatürk's life cannot be built of stone or marble; the greatest legacy he left is Turkey's living secular democracy." (PDF p. 254 (printed p. 243)). Heading: 'Amerika Birleşik Devletleri Başkanı Barack Hussein Obama', 6 Nisan 2009. See [[Anıtkabir]].
+Translation: "He is a leader who changed the shape of history. But the greatest monument to Atatürk's life cannot be built of stone or marble; the greatest legacy he left is Turkey's living secular democracy." (PDF p. 254 (printed p. 243)). Heading: 'Amerika Birleşik Devletleri Başkanı Barack Hussein Obama', 6 Nisan 2009. See Anıtkabir.
 
 ### Nursultan Nazarbayev, President of Kazakhstan (2009-10-22)
 
@@ -214,8 +214,8 @@ Translation: "This road was opened by the Great Mustafa Kemal Atatürk." (PDF p.
 ## Dry ends
 
 - No mention of Atatürk in the speeches of 1955 (Iraq's Mercan), Sukarno 1959, Gerstenmaier 1964, the two İlham Aliyev
-  speeches, Yudhoyono, Abbas and Buzek. Sukarno's views are on his own note: [[Sukarno]].
-- The Iranian delegate of 1958 recalls [[Reza Shah Pahlavi]]'s 1934 visit and calls Atatürk the "founder of the great Turkish
+  speeches, Yudhoyono, Abbas and Buzek. Sukarno's views are on his own note: Sukarno.
+- The Iranian delegate of 1958 recalls Reza Shah Pahlavi's 1934 visit and calls Atatürk the "founder of the great Turkish
   nation", a formula only.
 
 ## Sources

@@ -40,8 +40,8 @@ Poland, from Toksoy 2006's own Polish section (§E; *Cumhuriyet* 12 and
   as the key in the Near East and **balanced Eastern Europe**, guaranteeing the independence of the peoples of
   that part of the world.
 
-The political frame is [[Józef Piłsudski]]'s unfinished project of tying Poland to Turkey and the
-Balkan states (note the Pact: [[Balkan Pact]]), which a recent Polish study finds was held back by the
+The political frame is Józef Piłsudski's unfinished project of tying Poland to Turkey and the
+Balkan states (note the Pact: Balkan Pact), which a recent Polish study finds was held back by the
 two states' diverging relations with the USSR. Two details rise above the praise: "Washington" is the founder-statesman comparison of choice (and a
 sword-then-constitution one); and the ambassador's "balances Eastern Europe" is the one sentence where a Pole openly states what Turkey is
 for. A Dutch wire of 19 November, the same week, has Czech miners striking against Poland's seizure of the Teschen

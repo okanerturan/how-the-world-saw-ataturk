@@ -10,7 +10,7 @@ era: [contemporary]
 
 # Nursi in Ankara, 1922–1923
 
-A deeper, biography-sourced companion to the vault's second-hand [[Said Nursi]] card — the
+A deeper, biography-sourced companion to the vault's second-hand Said Nursi card — the
 "famously heated argument" with Atatürk there is, in the Vahide biography, a more specific
 and more interesting scene.
 
@@ -22,7 +22,7 @@ a Qur'an-based order. What he found, in his own words, was "an abominable curren
 **The Ten Points.** On 19 January 1923 he circulated a ten-point letter to the deputies stressing
 the obligatory prayers: those who neglect their religious duties are "not fit to govern"; the
 Assembly has taken the Sultanate and must answer the Caliphate's duties too, or discord follows.
-Karabekir read it to Mustafa Kemal ([[Kâzım Karabekir]]). Vahide says about sixty deputies began
+Karabekir read it to Mustafa Kemal (Kâzım Karabekir). Vahide says about sixty deputies began
 praying regularly, so that the Assembly's prayer room had to be enlarged.
 
 **The shouting match.** The Assembly's president — Mustafa Kemal — told him angrily in front of
@@ -43,8 +43,8 @@ hospitals, schools, orphanages, mosques, and roads."
 
 So: a courted dissenter who would not be co-opted. The hostility is conditional and
 theological, and "conflicted" is the truer word for 1922–23. The later prisons and the *Risale-i
-Nur* are the other half of the Nursi story (see [[Sheikh Said Rebellion]] for the armed
-contrast and [[Abolition of the Caliphate]]).
+Nur* are the other half of the Nursi story (see Sheikh Said Rebellion for the armed
+contrast and Abolition of the Caliphate).
 
 **Provenance and caveat.** The source is Şükran Vahide's biography as hosted by the Risale-i
 Nur Kulliyat site of a Nur-movement publisher (iikv.org; author/edition attribution to be

@@ -27,7 +27,7 @@ paraphrase.
   sovereignty".
 - **The letter to Faisal.** Polat, following Öke & Karaman, reports that around 1920–21 Yahya —
   "probably at the instigation of" the ex-governor Mahmud Nedim Bey, who stayed in Sanaa —
-  wrote to [[Faisal I of Iraq]] expressing satisfaction at his **cooperation with Mustafa Kemal**
+  wrote to Faisal I of Iraq expressing satisfaction at his **cooperation with Mustafa Kemal**
   and stressing the importance of cooperating against the Westerners. Faisal answered that the
   Ottomans "have passed"; the Arabs should look after their own interests. Both men were
   hedging.

@@ -37,13 +37,13 @@ Faridah Zaman (Brill chapter, accepted manuscript) adds the machinery of disillu
   wrote to the Shaykh al-Azhar that the khilafat's future belonged to "a world Muslim conference."
   Neither brother is sourced here with a first-person Atatürk statement — the card is the
   movement's, not theirs.
-- **The reversal**: by 1930 [[Allama Iqbal]] was calling Turkey's abolition a radical act of
+- **The reversal**: by 1930 Allama Iqbal was calling Turkey's abolition a radical act of
   *ijtihad* — "perfectly sound."
 
 *Recorded gap:* the exact words of the Ali brothers on Kemal in 1924 (*Hamdard*, *Comrade*) have
 not been read; the *Hamdard*–Tagore link is on the [[Rabindranath Tagore]] node.
 
-Compare [[Abolition of the Caliphate]], [[Khilafat Movement]], [[Aga Khan III]], [[Mahatma Gandhi]].
+Compare Abolition of the Caliphate, Khilafat Movement, Aga Khan III, Mahatma Gandhi.
 
 ## Sources
 - M. Naeem Qureshi, ["Muslims of British India and the Kemalist Reform in Turkey: Iqbal, Jinnah and Atatürk, 1924–1938," *Atatürk Araştırma Merkezi Dergisi* XII (35), 1996, pp. 379–386](https://atamdergi.gov.tr/ozet/807/eng)

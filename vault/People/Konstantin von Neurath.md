@@ -27,7 +27,7 @@ that the man it chose had been removed from the foreign ministry nine months ear
 warship off Istanbul, the cruiser *Emden* under Kapitän zur See Paul Wever, took part in the sea
 procession, and a Soviet admiral's report records tension when *Emden*'s officers photographed the
 Soviet destroyer at close range. German press pages of those days are the subject of the German-press
-cards; Hitler's own line to Turkish visitors is in [[Adolf Hitler]]. Context:
+cards; Hitler's own line to Turkish visitors is in Adolf Hitler. Context:
 [[Foreign Delegations at the Funeral, November 1938]].
 
 ## Sources

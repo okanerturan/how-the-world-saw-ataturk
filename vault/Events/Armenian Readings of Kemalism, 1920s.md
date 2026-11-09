@@ -23,14 +23,14 @@ What the abstract and release add:
   who followed Turkish domestic politics closely; by the mid-1920s "Kemalism" was everywhere in
   Armenian and Russian periodicals and debates.
 - Their reason for watching was different from other nations': "the extraordinary events of the
-  Armenian Genocide" (see [[Armenian Genocide]]) made the motive to monitor Turkey's domestic
+  Armenian Genocide" (see Armenian Genocide) made the motive to monitor Turkey's domestic
   transformation fundamentally different.
 - The article's main contrast is between Soviet and Diaspora Armenian interpretations.
 
 **What is not yet in hand.** The article itself is paywalled; only the abstract, the release and
 a footnote citation (*Hairenik* Monthly, Aug. 1925, no. 10 (31), p. 121 — the ARF's Boston
 organ) were readable, so **no individual Armenian author's words are quoted here.** Each named
-voice is a lead (see `candidates/hostile-gazes.md`). [[Treaty of Lausanne]] is the moment the
+voice is a lead (see `candidates/hostile-gazes.md`). Treaty of Lausanne is the moment the
 sources locate the diaspora's hopes ending, but the Armenian National Delegation's own reading
 of Kemal is not in this card.
 

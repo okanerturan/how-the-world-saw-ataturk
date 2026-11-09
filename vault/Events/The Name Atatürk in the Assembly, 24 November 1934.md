@@ -10,11 +10,11 @@ era: [contemporary]
 
 # The Name Atatürk in the Assembly, 24 November 1934
 
-The Surname Law (see [[Surname Law]]) had passed earlier in 1934; on 24 November 1934 the Assembly (Dönem 4, cilt 25, 7th sitting,
+The Surname Law (see Surname Law) had passed earlier in 1934; on 24 November 1934 the Assembly (Dönem 4, cilt 25, 7th sitting,
 p. 35) handed the President the name itself. The bill read: *"Kemal Öz adlı Cumhur reisimize Atatürk soy adı verilmiştir."*
 ("the surname Atatürk is given to our President named Kemal Öz", tr.) — the bill names him "Kemal Öz".
 
-- **Prime Minister [[İsmet İnönü]]** introduced it, saying the Assembly had a debt and a right to choose the name of the "Great Leader":
+- **Prime Minister İsmet İnönü** introduced it, saying the Assembly had a debt and a right to choose the name of the "Great Leader":
   *"İnanıyoruz ki (Atatürk) adı ile Büyük Türk ulusu en büyük oğluna en büyük, en saygılı hitabını yapmış olacaktır."* ("we believe
   that with the name Atatürk the great Turkish nation will have made its greatest, most respectful address to its greatest son",
   tr.). There was no debate: the Reis asked for speakers on the whole, heard none, and the bill passed *"ittifakla"*.

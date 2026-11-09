@@ -30,7 +30,7 @@ west, "the two great barricades of Asia"). The same speech holds up "benevolence
 so the praise is also an appeal to Tokyo.
 
 **Reading.** An admiring-but-anonymous gaze: Sun sees a *state* and a *position* (the western barricade), not a man. That the man
-is missing is itself data; compare [[Chiang Kai-shek]] and [[Ta Kung Pao Mourns, November 1938]], where the Chinese side later gave the barricade a face.
+is missing is itself data; compare Chiang Kai-shek and [[Ta Kung Pao Mourns, November 1938]], where the Chinese side later gave the barricade a face.
 
 **Caveats.** The texts are Wikisource transcriptions of the Chinese originals; the page does not name the edition. The
 Kobe speech is a translation-free primary text but a performance for a Japanese host.

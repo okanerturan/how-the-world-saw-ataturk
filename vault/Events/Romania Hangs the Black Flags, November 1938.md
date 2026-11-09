@@ -19,7 +19,7 @@ once**. Per Toksoy's reading of the contemporary Turkish press (*Ulus* 20 Nov, *
   November**, the day of the burial, and a Romanian delegation was announced for the funeral.
 - *Universul* called him "one of the greatest men of the time" and "a loyal friend of Romania";
   a second piece in the same paper, signed "Basarya" and described as by a former Ottoman
-  minister, named him a founder of the Balkan Entente — see [[Balkan Pact]].
+  minister, named him a founder of the Balkan Entente — see Balkan Pact.
 - *Timpul*, under "The Founder of New Turkey Is Dead," ran an **interview two Romanian journalists
   had once had with him**, with Atatürk made to say: *"I never expected reward or gratitude… like
   a gardener who raises flowers with great love and wants nothing from them."* (Provenance of
@@ -44,7 +44,7 @@ once**. Per Toksoy's reading of the contemporary Turkish press (*Ulus* 20 Nov, *
 Carol II's Romania was both a Balkan Pact partner and a neighbour with a Turkish minority; the
 card's reading is that officialdom, intellectuals and the Turkish minority each saw something different
 — a treaty guarantor, a fellow modernizer, a kinsman. For the Romanian statesman of the same
-years see [[Nicolae Titulescu]]; for the funeral delegations see [[Foreign Delegations at the Funeral, November 1938]]; the whole corpus: [[Death and State Funeral of Atatürk]].
+years see Nicolae Titulescu; for the funeral delegations see [[Foreign Delegations at the Funeral, November 1938]]; the whole corpus: [[Death and State Funeral of Atatürk]].
 
 ## Sources
 - [Toksoy, "Atatürk'ün Vefatının Balkanlar ve Ortadoğu Basınındaki Etkilerinin Türkiye'deki Akisleri," *Atatürk Üniversitesi SBE Dergisi*, 2010](https://dergipark.org.tr/en/download/article-file/32009) — full text in `sources/toksoy-2010-balkan-mideast-press.txt`, §D Romanya Basını (pp. 190–195), citing Mustafa Mehmet, "Romanya Türk Basında Atatürk ve Türkiye Cumhuriyeti," *Beşinci Uluslararası Atatürk Kongresi* (Ankara 2005) and Nedret Mağmud, "Romanya'da Atatürk," *Üçüncü Uluslararası Atatürk Sempozyumu* (Ankara 1998)

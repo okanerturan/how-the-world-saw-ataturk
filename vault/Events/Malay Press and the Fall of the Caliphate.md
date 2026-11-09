@@ -32,12 +32,12 @@ The shape: **Malay court + British control = muffled Caliphate sentiment; Kaum M
 press = sustained but divided interest in Turkey.** Compare the Dutch East Indies press, which
 a Cambridge University Press book chapter (snippet read; title not extracted) says was "overall
 unconcerned" with the Ottoman defeat and "supportive of Mustafa Kemal's actions" until a Surabaya
-Caliphate Committee formed in October 1924 (see [[Sukarno]]).
+Caliphate Committee formed in October 1924 (see Sukarno).
 
 *Recorded gap:* NLB NewspaperSG (the Straits Times / *Malaya Tribune* / *Warta Malaya* archive)
 blocks automated fetch; the Nov 1938 Malayan press is a browser-queue item.
 
-See [[Abolition of the Caliphate]], [[Khilafat Disillusion, 1924]].
+See Abolition of the Caliphate, [[Khilafat Disillusion, 1924]].
 
 ## Sources
 - ["The Impact of the Fall of the Ottoman Caliphate on the Muslims in Malaya" (IIUM student repository thesis)](https://studentrepo.iium.edu.my/entities/publication/105a300c-4170-4fb3-8e3f-ee8d249d497e/full) — abstract read via search; author/title page not extracted

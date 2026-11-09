@@ -15,7 +15,7 @@ The corpus's most striking contrast card. Per the contemporary reporting mined b
 world as affected by this death as Palestine. For three days the entire Palestinian people
 gathered at their radios listening to Ankara's broadcasts — even shedding tears."**
 
-Hold it against the vault's existing Palestinian card: [[Haj Amin al-Husseini]], the Mufti who
+Hold it against the vault's existing Palestinian card: Haj Amin al-Husseini, the Mufti who
 considered Atatürk Islam's great betrayer. **The leader despised him; the street wept for him.**
 No single pairing in the census demonstrates better that "the X gaze" is never one gaze — the
 Rorschach test runs *within* nations, not just between them. (Method note: the report reaches us

@@ -15,7 +15,7 @@ era: [posthumous]
 
 The Kurdish pen behind most of what the world knows from the *Kurdish* side of the Dersim
 campaign. His memoir *Kürdistan tarihinde Dersim* (Aleppo, 1952) is the source Martin van
-Bruinessen relies on first in his survey of the [[Dersim Rebellion]], with two cautions that
+Bruinessen relies on first in his survey of the Dersim Rebellion, with two cautions that
 belong on the card: Dersimi had left the region before the main operations began, so **he was
 not an eyewitness** of the massacres; and he wanted to show Dersim as more nationalist than it
 was. Van Bruinessen finds the account "on the whole reliable", and says its main lines are
@@ -25,7 +25,7 @@ poison-gas claim, which he says cannot be substantiated.
 **What he saw.** Of the army's 1938 offensive he writes, in van Bruinessen's translation:
 *"Thousands of these women and children perished ... because the army bricked up the entrances
 of the caves."* He also tells how the army offered a cease-fire in the winter of 1937 and used it
-to lure [[Seyid Riza]] to Erzincan, where Riza and ten others were tried in haste and executed
+to lure Seyid Riza to Erzincan, where Riza and ten others were tried in haste and executed
 before President Atatürk's visit — haste van Bruinessen attributes to the officials' wish not to
 let the local people petition the president for mercy (the later foreign minister İhsan Sabri
 Çağlayangil narrates the trial "with apparent feelings of shame" in his memoirs).

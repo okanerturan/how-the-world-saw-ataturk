@@ -13,7 +13,7 @@ era: [contemporary]
 
 # Rıza Nur
 
-Second delegate at [[Treaty of Lausanne]] under [[İsmet İnönü]] and a minister of the early
+Second delegate at Treaty of Lausanne under İsmet İnönü and a minister of the early
 republic — then a bitter enemy in Paris exile. There he wrote *Hayat ve Hatıratım* ("My Life and
 Memoirs"), covering his life to 1935, and staged its afterlife like a time bomb: he personally
 deposited the manuscript at the British Museum on 4 June 1935 with the condition that it stay

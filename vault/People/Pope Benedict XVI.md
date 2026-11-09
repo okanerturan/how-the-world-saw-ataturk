@@ -17,8 +17,8 @@ On 28 November 2006, two months after his Regensburg lecture had angered much of
 XVI began his Turkey journey at Anıtkabir. In the special book he wrote that in this land, "meeting place and
 crossroads of different religions and cultures", he gladly made "my own the words of the founder of the Turkish
 Republic": "peace at home, peace in the world". He does not name Atatürk; the founder's maxim is borrowed as a
-bridge. Angelo Roncalli, apostolic delegate in Istanbul in the 1930s, later became [[Pope John XXIII]]. His successors Francis
-(2014) and Leo XIV (2025) signed the same book without mentioning Atatürk. See [[Mustafa Kemal Atatürk]].
+bridge. Angelo Roncalli, apostolic delegate in Istanbul in the 1930s, later became Pope John XXIII. His successors Francis
+(2014) and Leo XIV (2025) signed the same book without mentioning Atatürk. See Mustafa Kemal Atatürk.
 
 ## Sources
 - AsiaNews, 28 Nov 2006, "Dialogue between Christians and Muslims is a vital necessity, says Pope" (asianews.it, art. 7875).

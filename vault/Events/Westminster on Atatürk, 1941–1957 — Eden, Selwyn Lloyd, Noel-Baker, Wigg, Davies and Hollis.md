@@ -10,7 +10,7 @@ era: [posthumous]
 
 # Westminster on Atatürk, 1941–1957 — Eden, Selwyn Lloyd, Noel-Baker, Wigg, Davies and Hollis
 
-Found through TheyWorkForYou's search of the historic Commons record (a transcription of Hansard). In wartime, Eden uses Atatürk's 'genius' to court Turkey (Churchill's 2 Aug 1944 line on Kemal's Russian policy states no view and is not counted); in the Cyprus years (1955-56) Davies, Selwyn Lloyd and Noel-Baker cite the Atatürk-Venizelos reconciliation as a model, and in 1957 Wigg uses Britain's failure to topple Kemal in 1922 as a lesson. Existing person note: [[Winston Churchill]] (earlier Commons records are in [[Parliament Meets Kemal, February–March 1920]]).
+Found through TheyWorkForYou's search of the historic Commons record (a transcription of Hansard). In wartime, Eden uses Atatürk's 'genius' to court Turkey (Churchill's 2 Aug 1944 line on Kemal's Russian policy states no view and is not counted); in the Cyprus years (1955-56) Davies, Selwyn Lloyd and Noel-Baker cite the Atatürk-Venizelos reconciliation as a model, and in 1957 Wigg uses Britain's failure to topple Kemal in 1922 as a lesson. Existing person note: Winston Churchill (earlier Commons records are in [[Parliament Meets Kemal, February–March 1920]]).
 
 ## Anthony Eden (1941-08-06)
 

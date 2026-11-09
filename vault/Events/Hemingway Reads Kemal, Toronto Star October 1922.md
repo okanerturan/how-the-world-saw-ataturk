@@ -10,7 +10,7 @@ era: [contemporary]
 
 # Hemingway Reads Kemal, Toronto Star October 1922
 
-[[Ernest Hemingway]] reached Constantinople on 30 September 1922, at the height of the [[Chanak Crisis]], and wrote some
+Ernest Hemingway reached Constantinople on 30 September 1922, at the height of the Chanak Crisis, and wrote some
 twenty dispatches for the *Toronto Daily Star* in the weeks the Greeks evacuated Thrace and the Kemalist army stood outside the
 city. The existing card has him reporting Atatürk with "stark awe"; the dispatches read differently. What they show is a
 young reporter's sardonic, sceptical Kemal, seen mostly at second hand.

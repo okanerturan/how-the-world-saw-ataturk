@@ -28,7 +28,7 @@ the Turkish case: "Angora is her vindication".
 
 **Context.** Sir Percy Sykes's Foreword (pp. vii–xvi) calls Turkey's survival "thanks mainly to the genius of Mustafa
 Kemal" — but that is Sykes, not Forbes; the vault does not attribute it to her. The pairing of Forbes's sceptical preface
-and Sykes's admiring foreword in one volume is itself a window on British opinion in 1931. See also [[Grace Ellison]]'s
+and Sykes's admiring foreword in one volume is itself a window on British opinion in 1931. See also Grace Ellison's
 *Turkey To-day* (1928).
 
 **Caveat.** Page numbers from the running heads of the 1931 scan: the Author's Preface is unnumbered; ch. I statues

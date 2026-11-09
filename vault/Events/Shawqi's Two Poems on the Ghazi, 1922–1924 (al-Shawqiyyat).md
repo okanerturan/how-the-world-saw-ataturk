@@ -10,7 +10,7 @@ era: [contemporary]
 
 # Shawqi's Two Poems on the Ghazi, 1922–1924 (al-Shawqiyyat)
 
-The [[Ahmad Shawqi]] card gives the whiplash in a paragraph and no text. Here are the verses, from an open scan of
+The Ahmad Shawqi card gives the whiplash in a paragraph and no text. Here are the verses, from an open scan of
 *al-Shawqiyyat* vol. 1 (the political, historical and social poems), Dar al-'Awda, Beirut, with Muhammad Husayn Haykal's preface from
 the first edition and an editor's glosses ([`elshandawily1184`](https://archive.org/details/elshandawily1184), "al-Shawqiyyat j. 1").
 Page numbers below are the printed ones.

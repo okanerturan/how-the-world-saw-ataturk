@@ -26,9 +26,9 @@ formulae of the genre — not of private feeling.
 
 | From | Sender | The gist (translated; French, English, German or Italian originals) |
 |---|---|---|
-| United States | [[Franklin D. Roosevelt]], the White House | "devotion to his country won for him the respect of the entire world" |
-| Germany | [[Adolf Hitler]] (as Reich Chancellor); Field Marshal Göring (Reichstag) | Hitler: "a great soldier, a brilliant statesman and a historical personality… in the creation of the new Turkish state Atatürk set himself a monument whose existence will outlast generations." Göring: grief "on behalf of the whole Greater German Reichstag" |
-| Japan | Emperor Hirohito; [[Prince Takamatsu]]; the president of the Japan–Turkey society (a Tokugawa) | Hirohito: "I learn with deep affliction of the death of … Kamal Ataturk"; Takamatsu in English, "profound sorrow"; the society: "the friends of Turkey in Japan share" the grief |
+| United States | Franklin D. Roosevelt, the White House | "devotion to his country won for him the respect of the entire world" |
+| Germany | Adolf Hitler (as Reich Chancellor); Field Marshal Göring (Reichstag) | Hitler: "a great soldier, a brilliant statesman and a historical personality… in the creation of the new Turkish state Atatürk set himself a monument whose existence will outlast generations." Göring: grief "on behalf of the whole Greater German Reichstag" |
+| Japan | Emperor Hirohito; Prince Takamatsu; the president of the Japan–Turkey society (a Tokugawa) | Hirohito: "I learn with deep affliction of the death of … Kamal Ataturk"; Takamatsu in English, "profound sorrow"; the society: "the friends of Turkey in Japan share" the grief |
 | Italy | the King, from Pisa; Senate (Federzoni); Chamber (Ciano) — via the Italian embassy, 12 Nov | the Chamber: Atatürk the "architect of the rebirth of the Turkish nation" |
 | Australia | Prime Minister Joseph Lyons, Canberra | "illustrious statesman and founder of the Turkish Republic" |
 | Afghanistan | King Zahir Shah (Persian, Latin-script transliteration) | grief for the Turkish brother nation; Afghan envoy Esendal and the Turks in Kabul also wired |
@@ -36,9 +36,9 @@ formulae of the genre — not of private feeling.
 | Iraq | King Ghazi; the Chamber of Deputies, which **suspended its sitting** | the Chamber charged its president to convey its condolences "to the great saviour" |
 | Syria | President Hashim al-Atassi | "profoundly afflicted… the Syrian people" |
 | Saudi Arabia | Abdul Aziz (Riyadh) | listed in the index (text not read) |
-| Transjordan | Emir [[Abdullah I of Jordan]] (Amman, 10 Nov) | condolences to "the noble Turkish nation" |
+| Transjordan | Emir Abdullah I of Jordan (Amman, 10 Nov) | condolences to "the noble Turkish nation" |
 | Egypt | King Farouk; Wafd leader Nahhas Pasha; Chamber president Baha ed-Din Barakat | Farouk: "illustrious patriot, regenerator of the new Turkey"; Nahhas: "Turkey and the East"; the Chamber: "glorious hero, renovator and creator of greater Turkey" |
-| Palestine | [[Haj Amin al-Husseini]] (from Beirut); Jewish General Council of Palestine (Isaac Ben-Zvi, chairman); "the Turks of Haifa" | Husseini: "the Arab nation of Palestine presents through you to the noble Turkish people its moved condolences for the irreparable loss … the great Atatürk"; the Jewish Council: "great founder, regenerator of new Turkey" |
+| Palestine | Haj Amin al-Husseini (from Beirut); Jewish General Council of Palestine (Isaac Ben-Zvi, chairman); "the Turks of Haifa" | Husseini: "the Arab nation of Palestine presents through you to the noble Turkish people its moved condolences for the irreparable loss … the great Atatürk"; the Jewish Council: "great founder, regenerator of new Turkey" |
 | Spain | President Manuel Azaña (Barcelona) | "best wishes for the continuity of his great work" |
 | Albania, Bulgaria, Romania, Hungary, Yugoslavia, Estonia, Latvia, Poland, Sweden, Denmark, Norway, Switzerland, Luxembourg, Mexico, USSR (Kalinin, index only) | King Zog, Tsar Boris III, King Carol II, Regent Horthy, the Yugoslav Senate and Chamber, Paets, Ulmanis, Mościcki, King Gustaf V, King Christian X, King Haakon, Baumann (Swiss Federal Council), Grand Duchess Charlotte, Lázaro Cárdenas | the genre; the Speaker of the Bulgarian Sobranie, Stoycho Moshanov (Sofia, 10 Nov; the telegram is in French, here translated): "the death of its renovator and great head of state" |
 | Émigrés | [[Mehmed Emin Resulzade]] (Warsaw): "in the name of National Azerbaijan"; Mir Yakub (Paris), Azerbaijani National Committee | the second adds that "Azerbaijan, groaning under foreign domination" mourns |

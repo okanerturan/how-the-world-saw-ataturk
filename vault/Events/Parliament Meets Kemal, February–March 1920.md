@@ -25,7 +25,7 @@ Marash, Zeitun and others, January–February 1920 — were organised by the Nat
   presses: is Kemal not "the agent of the Committee of Union and Progress" that "organises these massacres"? (The Foreign Office
   line, as a questioner restated it on 15 March, was careful: the Minister had *not* accepted that Kemal was the Committee's agent.)
 - **22 Mar, Army Estimates.** *Major-General Sir John Davidson*: "I do not believe that the troops under Mustapha Kemal in Anatolia care anything for our
-  occupation of Constantinople," so no saving on the Army. *[[Winston Churchill]]*, as War Secretary, lists "the Turkish
+  occupation of Constantinople," so no saving on the Army. *Winston Churchill*, as War Secretary, lists "the Turkish
   Nationalists under Mustapha Kemal" among the three anxieties for Mesopotamia and warns of a junction with the Bolsheviks and
   "the hostile forces of Mustapha Kemal."
 - **25 Mar, Foreign Affairs.** *H. H. Asquith*: "so long as Mustapha Kemal and his forces are at large, and the Armenians are
@@ -34,12 +34,12 @@ Marash, Zeitun and others, January–February 1920 — were organised by the Nat
   Turk leaders who have brought so much ruin on Turkey."
 
 **Reading it.** Seven of the eight are hostile; the eighth (Davidson) is a general sizing up an army. The frame is the Young
-Turk Committee and the memory of 1915 (see [[Armenian Genocide]]): Kemal enters British politics cast as Enver's successor and held answerable for the Cilicia
+Turk Committee and the memory of 1915 (see Armenian Genocide): Kemal enters British politics cast as Enver's successor and held answerable for the Cilicia
 massacres; how far the Nationalist command directed them is a question this record does not settle. Nobody yet calls him a
 statesman. (Earlier, 17 Dec 1919, Viscount Bryce in the Lords names him as "in command of a large Turkish force" west of
 the Taurus; that is a location, not yet a view.)
 
-Next: [[Parliament on Kemal and the Greeks, 1921–1922]]. See also [[Treaty of Sèvres]].
+Next: [[Parliament on Kemal and the Greeks, 1921–1922]]. See also Treaty of Sèvres.
 
 ## Sources
 - Hansard (Commons) 26 Feb 1920, "Turks And Constantinople": [page](https://hansard.parliament.uk/Commons/1920-02-26/debates/7dd9498b-3e40-4d22-a1d1-b06729365496/TurksAndConstantinople) — Guinness, ContributionExtId `2533087e-f48b-428e-850d-6bed2453da23`; Bonar Law `a79029b5-046a-446e-bf61-fe2ce02675d3`

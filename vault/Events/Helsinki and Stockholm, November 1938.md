@@ -41,7 +41,7 @@ economy can buy.
 
 **Sweden.** Beyond the one-liner: *Aftonbladet* (via *Cumhuriyet*) called the rebuilding of
 Turkey "an astonishing, complete revolution" and said the final victory of November 1922, when the
-last sultan left his land (i.e. the end of the Sultanate; see [[Abolition of the Sultanate]]), had been hailed
+last sultan left his land (i.e. the end of the Sultanate; see Abolition of the Sultanate), had been hailed
 with enthusiasm across the East, and that his subsequent decisions astonished the world by "the
 speed of execution." *Göteborgs Handels- och Sjöfartstidning* ("Goeteborg Handels") praised the
 state-builder who made a national Turkish state "out of the Ottoman remnants" and rationalised

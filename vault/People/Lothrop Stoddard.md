@@ -27,7 +27,7 @@ Russia" (pp. 232–233), and "Kemal's hand was clearly apparent in the rebellion
 like Mustapha Kemal" (p. 337).
 
 **Reading.** Not hostile to Kemal personally — he is a competent adversary — but an early model of the Western
-"pan-Islam" alarm reading that [[Arnold J. Toynbee]] and [[Charles H. Sherrill]] would, in different keys, take apart.
+"pan-Islam" alarm reading that Arnold J. Toynbee and Charles H. Sherrill would, in different keys, take apart.
 
 **Caveat.** The book's racial framework is explicit (it cites the author's *The Rising Tide of Color against White
 World-Supremacy*, p. 336 n.); the card records the passage, not an endorsement. Page numbers inferred from running heads (p. 229 header "NATIONALISM 229").

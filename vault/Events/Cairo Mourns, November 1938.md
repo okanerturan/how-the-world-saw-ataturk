@@ -27,11 +27,11 @@ stand out:
   through Egypt with his officers to relieve Tripolitania ("already then I saw he had an unbeatable
   will"), and again in Ankara ten years later "at the peak of glory"; at **Lausanne** in 1922 "the Egyptian
   question was an important subject", and it "was concluded thanks to Atatürk's success."
-- ***Al-Belağ*** carried the account of the Egyptian women's representative [[Huda Sha'arawi]]'s talk with
+- ***Al-Belağ*** carried the account of the Egyptian women's representative Huda Sha'arawi's talk with
   Atatürk, with its praise for the revolution in Turkish women's rights, which "all the Turkish people
   admired" him for.
 
-Hold it against the Cairo of the 1920s: [[Rashid Rida]]'s *al-Manar*, the exile of [[Mustafa Sabri Efendi]], and the poet [[Ahmad Shawqi]]'s admiring-then-devastated arc. By 1938 the newspapers, at least,
+Hold it against the Cairo of the 1920s: [[Rashid Rida]]'s *al-Manar*, the exile of Mustafa Sabri Efendi, and the poet Ahmad Shawqi's admiring-then-devastated arc. By 1938 the newspapers, at least,
 had settled into mourning. (Method
 note: the Egyptian papers reach us through Turkish dailies' translations — *Cumhuriyet*, 12 and 20 Nov
 1938 — and the *Ayın Tarihi* digest; superlatives like *al-Ahram*'s rank order are the paper's own, and

@@ -81,9 +81,9 @@ The Indies editors needed no Muslim translation of Atatürk: they had a ready Pr
 "Oriental" in the same sentence. What the colony's Muslims thought has to be read from the margins —
 a Surabaya meeting minute, a police note-taker, a prayer in two languages — and the Malay-language
 press (*Pewarta Deli*, *Pemandangan*, *Soeara Moehammadijah*) is not in this corpus. Cf.
-[[Malay Press and the Fall of the Caliphate]] for the earlier debate across the Straits, [[Sukarno]]
+[[Malay Press and the Fall of the Caliphate]] for the earlier debate across the Straits, Sukarno
 for the nationalist reading of Kemal that came later, and [[Dutch Press, November 1938]] for the
-metropolitan counterpart. See [[Death and State Funeral of Atatürk]], [[Kemalism]].
+metropolitan counterpart. See [[Death and State Funeral of Atatürk]], Kemalism.
 
 ## Sources
 - Soerabaijasch Handelsblad, 16 Nov 1938, "Vergadering Mohammadijah" — KB/Delpher `ddd:011121218:mpeg21:a0100:ocr` (P)

@@ -37,8 +37,8 @@ The texts read so far:
 Reception data, not biography: the piece mixes real events with period errors (the "Kamal"
 spelling, the hated-Britain line) — which is exactly why it is a **Rorschach card**: a Dominion
 that had sent the Anzacs to Gallipoli reads the man who beat them through the 1930s dictator
-template, with a sneer and a bow in the same paragraph. See [[Gallipoli Campaign]], 
-[[Chanak Crisis]], [[C.E.W. Bean]].
+template, with a sneer and a bow in the same paragraph. See Gallipoli Campaign, 
+Chanak Crisis, [[C.E.W. Bean]].
 
 *Access note for the next researcher:* the Papers Past search page returns headlines only (links
 stripped); article IDs surface via web-search snippets, and `paperspast.natlib.govt.nz/newspapers/<ID>`

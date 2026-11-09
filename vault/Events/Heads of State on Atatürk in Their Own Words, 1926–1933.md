@@ -28,7 +28,7 @@ satisfaction and pride" and counts Atatürk its "only author"; "imtina" is proba
 speech he set the two struggles side by side: the Turkish nation rose "under your guidance" while the Afghans rose under his.
 (Akbaş 2008, pp. 318–319; Şimşir vol. I pp. 33–34 for the speeches.) The farewell remark on 1 June, *"Türkler Afganlıların
 ağabeyleridir"* ("the Turks are the Afghans' elder brothers"), concerns the nation, not the man, and is not counted.
-Amanullah fell the next year; see [[Amanullah Khan]] for what he tried to copy.
+Amanullah fell the next year; see Amanullah Khan for what he tried to copy.
 
 ## Ahmet Zogu (King Zog I), 1926 and 1931
 
@@ -37,13 +37,13 @@ Two reports in Kaceli's chapter, both from Turkish diplomats' dispatches that sh
 Muslim countries and "especially for Albania" and "stated his special sympathy for Mustafa Kemal". **5 Dec 1931:** after four
 years without a Turkish envoy, the King told the chargé Zeki Haki of his respect for Atatürk and his high praise for what
 Atatürk had done for Turkey's development. Paraphrase only; no verbatim words of Zog about Atatürk survive in the article.
-The contrast with the vault's [[King Zog I]] note is the point: the man who copied the decrees and crowned himself in 1928
+The contrast with the vault's King Zog I note is the point: the man who copied the decrees and crowned himself in 1928
 told the Republic's envoys he admired the model. Kaceli also quotes his 19 April 1925 letter to Mustafa Kemal, which speaks
 only of the treaty of friendship and is protocol.
 
 ## Alexander I of Yugoslavia, September–October 1933
 
-Before the Dolmabahçe meeting of 4 October 1933 (the visit that opened the road to the [[Balkan Pact]]), the Turkish minister
+Before the Dolmabahçe meeting of 4 October 1933 (the visit that opened the road to the Balkan Pact), the Turkish minister
 in Bucharest, Hamdullah Suphi, reported on 28 Sep that the King *"Gazi Mustafa Kemal'in döneme damgasını vurmuş bir lider
 olduğu ve idareci, teşkilatçı, inkılapçı olarak yaptıklarına hayran olduğu"* (that Atatürk was a leader who had stamped the
 age and that he admired what he had done as administrator, organiser and reformer). After the meeting the King is quoted:
@@ -51,7 +51,7 @@ age and that he admired what he had done as administrator, organiser and reforme
 tesir bırakıyor"* (his manner, bearing, speech, head, gaze and voice at once give the impression of facing a rare man) and
 *"Devrin bu faik adamı ile anlaşmanın kolay olacağına dair bir intiba hasıl ettim"*. Both are Turkish reports of French or
 Serbian remarks, from the archive file BCA 030.10.251.696.22 as printed in a 2022 article that cites Şimşir vol. IV pp. 261
-and 278 for the visit. A year later he was dead in Marseille (see [[Alexander I of Yugoslavia]]). The thank-you telegram
+and 278 for the visit. A year later he was dead in Marseille (see Alexander I of Yugoslavia). The thank-you telegram
 exchange after the visit (gratitude for the reception) is protocol.
 
 ## Gyula Gömbös, October 1933

@@ -27,20 +27,20 @@ state a view of him. Spelling is quoted as printed.
 
 **Peace partner, 1921–1922.** *Lord Newton* (Lords, 10 Nov 1921) expects "some arrangement with Kemal Pasha" and wants war criminals handed back as the price.
 In May–June 1922 the Turcophile bench uses him as the interlocutor: *Sir Charles Townshend* (25 May) cites Kemal's note readiness to negotiate at Ismid and asks the Government to
-press Greece; *Aubrey Herbert* ([[Aubrey Herbert]], 22 Jun) asks whether the Government will discuss "terms of settlement immediately with Mustapha Kemal Pasha at Ismid."
+press Greece; *Aubrey Herbert* (Aubrey Herbert, 22 Jun) asks whether the Government will discuss "terms of settlement immediately with Mustapha Kemal Pasha at Ismid."
 (Townshend's 30 May speech is in [[Parliament on Kemal and the Greeks, 1921–1922]].)
 
-**4 August 1922, the turn.** The same day [[David Lloyd George]] concedes that he "may be a great general and a great patriot," Kenworthy tells the House that the Smyrna
+**4 August 1922, the turn.** The same day David Lloyd George concedes that he "may be a great general and a great patriot," Kenworthy tells the House that the Smyrna
 inquiry report, "suppressed," "roused all Turkey" and that "the gentleman who is referred to occasionally by Members of this Government as some rebel general is the great
 national hero of Turkey, and is looked upon as the wielder of the Sword of the Faithful." Kenworthy had wanted his camps bombed in March 1920; his change of stance is the voice-shift
-of the set (see [[Chanak Crisis]]).
+of the set (see Chanak Crisis).
 
 **Not here.** The Lords address debate of 23 Nov 1922 and Commons 24 Nov 1922 (read in full): no one names Kemal. Wester Wemyss calls "these Angora Turks" a "rabble" dependent on Moscow
 and Lamington defends the Turkish people against Newton; Curzon's 13 Feb 1923 speech names only "Angora" as a place; Mosley, Pringle and McNeill in March 1923 speak of the Angora negotiations,
 not of him. These are views of a movement and a capital, so none is recorded. The 22 Dec 1920 Commons sitting that is the source of Lloyd George's "mutinous general" is missing
 from both the Hansard Search API and the historic-hansard text; the words survive in T. P. O'Connor's reading of the Official Report (8 Feb 1922, citing Vol. 136 cols 1895, 1897), already in the existing card.
 
-Net: ten records (six hostile, four instrumental, none admiring until Kenworthy's August 1922 speech, which is instrumental). See [[Treaty of Lausanne]] for the settlement all of them were arguing toward.
+Net: ten records (six hostile, four instrumental, none admiring until Kenworthy's August 1922 speech, which is instrumental). See Treaty of Lausanne for the settlement all of them were arguing toward.
 
 ## Sources
 - Hansard Search API (tier P, full contribution text; page URLs follow the canonical form, the site returns 403 to non-browser clients):

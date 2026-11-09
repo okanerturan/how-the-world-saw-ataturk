@@ -19,7 +19,7 @@ The Khilafat movement's most famous orator, in the last quarter of 1923, on the 
 the Allied record against the Khilafat and says of Lausanne: *"it was Great Britain herself that was the chief obstacle in the path of Ghazi Mustafa Kemal Pasha to the very end of this tragic tale"*
 (Afzal Iqbal's *Select Writings and Speeches of Maulana Mohamed Ali*, vol. 2, p. 133; separate print of the address, p. 86).
 Kemal is the victim of British hostility, the Greeks "her own brutal nominee and agent". The speech defends the Khilafat as an institution and
-never doubts that Ankara is its protector; it was delivered three months before the Assembly abolished it. See [[Abolition of the Caliphate]] and the arc in [[Khilafat Disillusion, 1924]].
+never doubts that Ankara is its protector; it was delivered three months before the Assembly abolished it. See Abolition of the Caliphate and the arc in [[Khilafat Disillusion, 1924]].
 
 **What is not here.** The *"Khilafatists' 1924 bitterness in their own words"* is, for Mohamed Ali, **not in the open scans I could read**:
 I found no passage on the abolition itself in the two-volume *Select Writings* (1969), and *My Life: A Fragment* gave no OCR hit for Kemal. The

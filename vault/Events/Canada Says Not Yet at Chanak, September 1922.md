@@ -10,13 +10,13 @@ era: [contemporary]
 
 # Canada Says Not Yet at Chanak, September 1922
 
-**Kemal as the occasion for Canadian independence.** When [[David Lloyd George]]'s cabinet decided
+**Kemal as the occasion for Canadian independence.** When David Lloyd George's cabinet decided
 on 15 September 1922 to hold Chanak against Mustafa Kemal's advancing army, the Dominions were
 asked for troops — and the press communiqué announcing it reached Canadians before the telegram
 reached their Prime Minister. Mackenzie King telegraphed from Toronto at 3.40 a.m. on 18 September
 that "despatches from England have appeared in our press announcing the British Government's
 intention to ask Canada to participate in resisting Turkish forces," and demanded to know what
-had actually been sent; [[Winston Churchill]]'s reply was a polite refusal to let it be published
+had actually been sent; Winston Churchill's reply was a polite refusal to let it be published
 verbatim. King's cabinet held that only Parliament could decide, and stalled until the crisis
 passed. Conservative leader Arthur Meighen answered that Canada should have said "Ready, aye
 ready; we stand by you."
@@ -34,8 +34,8 @@ What this gaze is: **instrumental, not interested.** Almost nothing in the Canad
 about Kemal himself — the CIPS retrospective notes King knew little of the dispute "in far-off
 Anatolia." The Turk is the beast in one editorial and the pretext in the other; the Canadian
 tradition that Chanak was the first assertion of an independent foreign policy owes its occasion to
-the man on the Smyrna road. Compare the British side of the same week in [[Chanak Crisis]] and
-the settlement in [[Treaty of Lausanne]].
+the man on the Smyrna road. Compare the British side of the same week in Chanak Crisis and
+the settlement in Treaty of Lausanne.
 
 ## Sources
 - C.P. Stacey, *Canada and the Age of Conflict, vol. 2: 1921–1948, The Mackenzie King Era* (U Toronto Press, 1981), ch. on Chanak: [doi:10.3138/9781442628137](https://doi.org/10.3138/9781442628137) (Globe headline; Sifton–Dafoe letters; Skelton quote — read in search excerpt)

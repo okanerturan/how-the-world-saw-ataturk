@@ -57,7 +57,7 @@ that pattern: the only named opponents in the chamber are the already-banned Pro
 only emotions recorded are grief for the Gazi and satisfaction at the trials. The fifteen-man
 delegation, elected by lot, went to Çankaya; the minutes do not record what was said there. For the
 dataset the card is a cluster of admiring and instrumental gazes, all contemporary, all Turkish, all
-tier P. See [[Independence Tribunals]] and [[Nutuk]].
+tier P. See Independence Tribunals and [[Nutuk]].
 
 ## Sources
 - TBMM, *Zabıt Ceridesi* (Hansard), Dönem 2, cilt 27, birinci içtima, 1 Teşrinisani 1926, printed pp. 2–6 (opening speech; plot passage p. 2; Tunalı Hilmi pp. 2 and 5; Refik Bey p. 6) · P — [PDF](https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c027/tbmm02027001.pdf)

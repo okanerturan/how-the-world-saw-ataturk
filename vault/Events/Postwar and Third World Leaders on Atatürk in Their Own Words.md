@@ -17,13 +17,13 @@ corrects an existing claim in the vault. Each quote was checked against fetched 
 ## The pattern
 
 - **The boyhood hero:** Anwar Sadat's memoir has Atatürk's photograph in the family house and a cadet's ideal; the
-  admiration is retrospective (1978), written by a president who had broken with [[Gamal Abdel Nasser]]'s legacy.
+  admiration is retrospective (1978), written by a president who had broken with Gamal Abdel Nasser's legacy.
 - **The partner who wanted something:** Chaim Weizmann in 1949 recalls Atatürk sending officials to see Zionist
   settlement in Palestine, and why he thought Ankara could mediate with the Arabs in 1938 — usefulness, not a verdict.
 - **The historian-statesman:** Zulfikar Ali Bhutto in 1965 recounts the end of the Caliphate; see
-  [[Abolition of the Caliphate]] and [[Khilafat Movement]].
+  Abolition of the Caliphate and Khilafat Movement.
 - **The dismissive neighbour:** Muammar Gaddafi in 2002 sneers at the Latin alphabet; the vault's claim that he called
-  Atatürk a traitor is not backed by this text (see [[Muammar Gaddafi]]).
+  Atatürk a traitor is not backed by this text (see Muammar Gaddafi).
 
 
 ## Chaim Weizmann, Zionist leader, first President of Israel; memoir of his Nov 1938 Turkey visit (1949)
@@ -59,13 +59,13 @@ A historical account with no stated judgement of Atatürk, hence witness. 'resus
 
 > Even the Latin alphabet it has adopted is not really Latin. It has actually corrupted Latin orthography.
 
-Hostility is aimed at the alphabet reform, not at Atatürk by name. Atatürk appears once, in passing: 'The problem does not lie with the older generation of Turkish politicians who continue to hold Ataturk and his teachings sacred.' The text does NOT support the vault's person note, which says Gaddafi called Atatürk a 'catastrophic traitor' for abolishing the Caliphate; no such statement was found. Location: Gaddafi, 'Turkey, Europe and the Bin-Ladenists', 22 Nov 2002. Evidence P (English text on algaddafi.org (a Gaddafi-legacy site), dated '22.11.2002' on the page; original place of publication not given). See [[Muammar Gaddafi]].
+Hostility is aimed at the alphabet reform, not at Atatürk by name. Atatürk appears once, in passing: 'The problem does not lie with the older generation of Turkish politicians who continue to hold Ataturk and his teachings sacred.' The text does NOT support the vault's person note, which says Gaddafi called Atatürk a 'catastrophic traitor' for abolishing the Caliphate; no such statement was found. Location: Gaddafi, 'Turkey, Europe and the Bin-Ladenists', 22 Nov 2002. Evidence P (English text on algaddafi.org (a Gaddafi-legacy site), dated '22.11.2002' on the page; original place of publication not given). See Muammar Gaddafi.
 
 
 ## Dry ends (round 13)
 
-- **Nasser:** *The Philosophy of the Revolution* (1954; archive.org `dli.ernet.449321`, full OCR text grepped) never names Kemal or Atatürk; its one Turkey hit is his mother's Turkish descent. No Nasser speech with a sentence on Atatürk was reached. The Nasser–Menderes hostility (Baghdad Pact, 1955) is well documented in secondary sources but those give no Nasser line on Atatürk. See [[Gamal Abdel Nasser]].
-- **Jabotinsky:** the open web gives only his 1908–11 *Le Jeune Turc* period (Springer chapter, 2020); no 1920s Kemal article was located. See [[Ze'ev Jabotinsky]].
+- **Nasser:** *The Philosophy of the Revolution* (1954; archive.org `dli.ernet.449321`, full OCR text grepped) never names Kemal or Atatürk; its one Turkey hit is his mother's Turkish descent. No Nasser speech with a sentence on Atatürk was reached. The Nasser–Menderes hostility (Baghdad Pact, 1955) is well documented in secondary sources but those give no Nasser line on Atatürk. See Gamal Abdel Nasser.
+- **Jabotinsky:** the open web gives only his 1908–11 *Le Jeune Turc* period (Springer chapter, 2020); no 1920s Kemal article was located. See Ze'ev Jabotinsky.
 - **Nkrumah, Nyerere, Senghor, Indira Gandhi, Lee Kuan Yew:** no statement of theirs on Atatürk found (Lee appears in the *Diplomat*/Harvard commentary as a comparison drawn by others, and the blurb of *From Third World to First* names Atatürk only in the publisher's text).
 - **Mahathir:** laid a wreath at Anıtkabir on 25 July 2019 (Malay Mail, Bernama); no sentence by him on Atatürk found.
 - **Arafat, King Hussein, Saddam, the Assads:** not reached within the search budget.

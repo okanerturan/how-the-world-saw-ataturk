@@ -18,7 +18,7 @@ In the survey that made his name, **中國近代史** (Commercial Press, first e
 He sets Turkey's late-Ottoman reform ("三心兩意的，不澈底的，無整個計畫的", *half-hearted, incomplete, without a plan*) against what followed the war:
 *"土耳其人經過那次大國難以後，一致團結起來，擁護民族領袖基瑪爾，於是始得復興。基瑪爾一心一意爲國家服務，不知有他。他認識了時代的潮流，知道要救國非澈底接受近代的文化不可"* (my translation: "After that great national disaster the Turks united and rallied behind the national leader Kemal, and so recovered. Kemal served the country with a single mind and knew no self. He recognised the current of the age, and knew that to save the country he must accept modern culture to the root."). He credits him with science and industry, and with changing the script: *"甚至改革了土耳其的文字"*, because the old script wasted children's time that could go to "real learning". Then: *"現在土耳其立國的基礎算打穩了"* ("Turkey's foundations are now firmly laid").
 
-**Reading.** A "nation-forge" reading from the historian of the Nationalist state, written in the year Chiang's government moved to Chongqing. Compare [[Chiang Kai-shek]]: Jiang's Turkey is the same *civil-service* Turkey, with no mention of a dictator.
+**Reading.** A "nation-forge" reading from the historian of the Nationalist state, written in the year Chiang's government moved to Chongqing. Compare Chiang Kai-shek: Jiang's Turkey is the same *civil-service* Turkey, with no mention of a dictator.
 
 **Caveats.** The July 1938 first-edition date comes from a bookseller's blurb (tier J) and is not on the Wikisource page; the Wikisource text carries the later title. Kemal is "基瑪爾" throughout.
 

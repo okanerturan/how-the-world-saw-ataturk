@@ -35,7 +35,7 @@ footnote adds that his report contains further comments on Atatürk's "thought a
 Yarar leaves for another study — a lead, not yet read.
 
 What makes him interesting for the deck: he is a Mexican, i.e. a citizen of the other great
-twentieth-century secularising revolution (compare [[Plutarco Elías Calles]]), and a *critical* observer
+twentieth-century secularising revolution (compare Plutarco Elías Calles), and a *critical* observer
 of Washington's hold on the Menderes-era government — yet his Atatürk is a plain success story. The
 limit: this is a historian's summary of dispatches, not the dispatches (Mexico's Archivo Histórico
 Genaro Estrada, SRE).

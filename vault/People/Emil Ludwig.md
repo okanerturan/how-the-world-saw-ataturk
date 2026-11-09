@@ -29,7 +29,7 @@ mirrors: the cold engineer of 1930 and the poet-lawgiver of 1942.
 The inherited version of this note (from the source transcript) said Ludwig compared Atatürk to Napoleon. The 1930
 text does, but the other way round from the legend: beside Kemal, Napoleon looks "half a dreamer"; the "knew where to
 stop" gloss is not in it.
-Compare [[W.B. Yeats]].
+Compare W.B. Yeats.
 
 ## Sources
 - Emil Ludwig, "Besuch bei Mustafa Kemal", *Neue Freie Presse*, 9 Mar 1930, pp. 2, 4 (ANNO page image read); reprinted in *Für die Weimarer Republik und Europa* (Peter Lang, 1991), pp. 181–187 (archive.org furdieweimarerre0000ludw, full-text-search snippets).

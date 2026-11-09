@@ -24,7 +24,7 @@ The French naval officer turned novelist put it in a 1921 preface, in the middle
 over Cilicia: were he not French, he would fight for Turkey against Greece and England 'aux côtés de mon ami d'Angora,
 Kemal-pacha'. Sixteen years later, in the book published in Turkish as *Türkiye'nin Manevi Kuvvetleri* (translation,
 quoted in Turkish), he is more reserved. Approves Gazi Mustafa Kemal's modernizing and forgives his mistakes as the price of doing anything; faults the republicans for scorning their Ottoman ancestors. He also scolds the republicans for scorning the Ottoman inheritance.
-See [[Claude Farrère and Pierre Loti]].
+See Claude Farrère and Pierre Loti.
 
 ## Halide Edib (1930), a 'superb political game'
 
@@ -34,7 +34,7 @@ See [[Claude Farrère and Pierre Loti]].
 
 Her book *Turkey Faces West* (1930), written in exile, take the 1925 Law on the Maintenance of Order and
 the Independence Tribunals as the hinge from democracy to dictatorship, and she puts the 'moral responsibility' on the
-Assembly majority while giving Mustafa Kemal credit for the cunning. See [[Halide Edib Adıvar]], [[Independence Tribunals]].
+Assembly majority while giving Mustafa Kemal credit for the cunning. See Halide Edib Adıvar, Independence Tribunals.
 
 ## Arnold Toynbee (1939 and 1954)
 
@@ -44,12 +44,12 @@ Assembly majority while giving Mustafa Kemal credit for the cunning. See [[Halid
 
 Volume VI of *A Study of History* sets the Ghazi among the Ottoman 'saviours' who tried to Westernize their state, calls him
 the 'third Ottoman saviour' and a 'totalitarian Westernizer', and, on the language reform, 'a hero'. Toynbee does not look away from the method: he describes the expulsion of an
-'indispensable Greek and Armenian middle class' as a calculation (his framing, not the vault's). See [[Alphabet Reform]], [[Greco-Turkish Population Exchange]]. Volume
+'indispensable Greek and Armenian middle class' as a calculation (his framing, not the vault's). See Alphabet Reform, Greco-Turkish Population Exchange. Volume
 VIII (1954) adds *Names his refusal of the Pan-Turan mirage, a visionary march into collision with Russia, 'one of the most signal evidences' of Atatürk's political genius.*
 
 > One of the most signal evidences of Ghazi Mustafa Kemal Ataturk's political genius was his clear recognition that a visionary pursuit of this mirage of a Yeni Turan
 
-See [[Arnold J. Toynbee]].
+See Arnold J. Toynbee.
 
 ## Orhan Pamuk (2007), the shame of the hat
 
@@ -58,7 +58,7 @@ See [[Arnold J. Toynbee]].
 > Ataturk found a way of confronting the shame suffered by all
 
 In *Other Colors* Pamuk puts Atatürk next to André Gide and reads the Hat Law as aimed at shame before Europe's eyes.
-The text is read by search-inside snippet only. See [[Orhan Pamuk]], [[Hat Law]].
+The text is read by search-inside snippet only. See [[Orhan Pamuk]], Hat Law.
 
 ## Aziz Nesin (1987), the astonished satirist
 

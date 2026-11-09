@@ -23,10 +23,10 @@ Nov p. 2 — headline "Danish Papers Speak of Atatürk and His Work with Admirat
   World War: a state in ruins, a beaten army, a nation exhausted and in despair. Yet … he dictated
   national Turkey to the defeated at Lausanne in June 1923." He left "a Westernised modern state"; wearing the hat and learning the
   new alphabet were "not mere externals"; the new state was "the firmest support of the policy of peace";
-  he settled Mosul and Hatay, built industry and railways. (See [[Treaty of Lausanne]], [[Hat Law]] and
-  [[Alphabet Reform]].)
+  he settled Mosul and Hatay, built industry and railways. (See Treaty of Lausanne, Hat Law and
+  Alphabet Reform.)
 - ***Social-Demokraten*** : he did what no state expected, making a strong country of the "sick man."
-  ***Børsen***: the man who tore up Sèvres and rebuilt his homeland in eighteen years (see [[Treaty of Sèvres]]).
+  ***Børsen***: the man who tore up Sèvres and rebuilt his homeland in eighteen years (see Treaty of Sèvres).
 - ***Kristeligt Dagblad*** (Toksoy's "Cristing Dagblat"): the man who worked wonders, spared nothing for his nation and
   crushed every plot — then a line worth keeping: **"The arm that wields the sword is worthy of holding
   the sceptre; his motto became the watchword of the grey wolf."**
@@ -36,7 +36,7 @@ Nov p. 2 — headline "Danish Papers Speak of Atatürk and His Work with Admirat
   the discarding of symbols "rooted in the spirit of the East"; a foreign policy that "will remain a model in history":
   debts settled by friendly agreement, the Straits re-fortified, Hatay settled "without shedding
   blood." This is very probably the source of the listicle's "greatest miracle of the twentieth
-  century" headline line (same paper, same "greatest event of the century" idea; the wording differs). (See [[Abolition of the Caliphate]].)
+  century" headline line (same paper, same "greatest event of the century" idea; the wording differs). (See Abolition of the Caliphate.)
 
 **Norway.** The papers gave the news wide space, printed his biography and praised his work.
 ***Dagbladet*** wrote that Turkey had now buried the label "sick man" entirely and that this was Atatürk's

@@ -14,9 +14,9 @@ era: [posthumous]
 # Şükrü Kaya
 
 Atatürk's Interior Minister for the last eleven years of his life — the operational enforcer of the
-homogenizing state: the Settlement Law, the [[Surname Law]] machinery, the language campaigns, and
-the interior ministry through the [[Dersim Rebellion]] years. His ministry ended on 11 November
-1938 — the day after Atatürk's death — as [[İsmet İnönü]] took over.
+homogenizing state: the Settlement Law, the Surname Law machinery, the language campaigns, and
+the interior ministry through the Dersim Rebellion years. His ministry ended on 11 November
+1938 — the day after Atatürk's death — as İsmet İnönü took over.
 
 His strange afterlife is in reception history. The official narrative has him delivering Atatürk's
 Martyrs' Day message at Gallipoli on 18 March 1934; his 1953 recollection in the newspaper *Dünya*

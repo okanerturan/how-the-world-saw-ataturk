@@ -33,7 +33,7 @@ al-Banna's answer is institutional, not personal.
 **Limits.** The memoir is retrospective; the passages were verified only through two
 independent quoters, not the printed page; and no al-Banna statement naming Atatürk in the
 1930s has been found. He sits in the hostile column as the first link in the chain that runs
-to [[Sayyid Qutb]].
+to Sayyid Qutb.
 
 ## Sources
 - [Arabic Center for Research (acrseg.org), "al-Islam al-siyasi wa-ihya' al-khilafa"](https://acrseg.org/39488) — quotes the memoir passage · J

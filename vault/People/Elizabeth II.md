@@ -11,7 +11,7 @@ tags: [person, verified, head-of-state, anitkabir]
 
 On her 2008 state visit she wrote in the Anıtkabir book that Atatürk was a valued friend of Britain and one of the greatest figures of modern history.
 
-See [[Leaders in the Anıtkabir Special Book, 2004–2025]] and [[Anıtkabir]].
+See [[Leaders in the Anıtkabir Special Book, 2004–2025]] and Anıtkabir.
 
 ## Sources
 - Turkish press reports of the Anıtkabir special book entry; see [[Leaders in the Anıtkabir Special Book, 2004–2025]].

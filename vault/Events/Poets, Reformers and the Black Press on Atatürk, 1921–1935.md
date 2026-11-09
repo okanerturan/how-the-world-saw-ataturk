@@ -22,7 +22,7 @@ did not write about him: Al-Chalaby (2019) says 'many' ignored the victories.
 
 The poem in *Agni-Veena* (Oct 1922) greets the Turkish army's sword as vengeance for the colonised; a forum English
 version has 'Bravo to your sharpened sword ... who is there on earth not afraid of Turkish sword?'. It also names
-Anwar Pasha, and BRIQ reads Nazrul as folding Kemal into pan-Islamic loyalty. See [[Kazi Nazrul Islam]], [[Greco-Turkish War]].
+Anwar Pasha, and BRIQ reads Nazrul as folding Kemal into pan-Islamic loyalty. See Kazi Nazrul Islam, Greco-Turkish War.
 
 ## Ma'ruf al-Rusafi and Mustafa al-Ghalayini, two Arab odes
 
@@ -35,7 +35,7 @@ Anwar Pasha, and BRIQ reads Nazrul as folding Kemal into pan-Islamic loyalty. Se
 
 > Ey Araplar! İçinizde mücadele ateşini tutuşturacak bir Mustafa Kemal yok mu?  (Turkish translation by Benli; the Arabic was not retrieved)
 
-See [[Ma'ruf al-Rusafi]], [[Mustafa al-Ghalayini]], [[Ahmad Shawqi]] for the better-known Arab ode.
+See [[Ma'ruf al-Rusafi]], [[Mustafa al-Ghalayini]], Ahmad Shawqi for the better-known Arab ode.
 
 ## Huda Sha'arawi (April 1935), 'Atasharq'
 
@@ -46,7 +46,7 @@ See [[Ma'ruf al-Rusafi]], [[Mustafa al-Ghalayini]], [[Ahmad Shawqi]] for the bet
 
 She spoke in Turkish to Atatürk at the reception for the delegates of the Istanbul congress of the International Alliance
 of Women. Our text is the Arabic as quoted from her memoirs by an Islamist critic, who cites it to condemn her; Libal (2008)
-independently reports the saying. See [[Huda Sha'arawi]], [[Women's Suffrage in Turkey]].
+independently reports the saying. See Huda Sha'arawi, Women's Suffrage in Turkey.
 
 ## Marcus Garvey and The Negro World (1922, 1927)
 
@@ -56,11 +56,11 @@ independently reports the saying. See [[Huda Sha'arawi]], [[Women's Suffrage in 
 
 Garvey's front-page message of 23 September 1922, days after Smyrna, makes Kemal the man around whom 'the world revolves',
 tells his followers they will not be used in Britain's war against the Turks, and answers the 'barbarian' charge by pointing
-at British bombing in Africa. That is his framing of a disputed event (see [[Burning of Smyrna]]), not the vault's. *Front-page editorial lists Kemal Pasha with Gandhi, Zaghlul, Sun Yat-sen and Chen as 'leaders of courage and vision' whom Africans lack.*
+at British bombing in Africa. That is his framing of a disputed event (see Burning of Smyrna), not the vault's. *Front-page editorial lists Kemal Pasha with Gandhi, Zaghlul, Sun Yat-sen and Chen as 'leaders of courage and vision' whom Africans lack.*
 
 > leaders of courage and vision, uncompromising, upstanding men, real patriots
 
-See [[Marcus Garvey]].
+See Marcus Garvey.
 
 ## Elisaveta Bagryana, 'New Atlantis'
 

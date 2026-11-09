@@ -24,7 +24,7 @@ is the only place in the Canadian record where Kemal is named in this debate:
 **What was searched.** The volumes of the 14th Parliament (1922, 1923, 1924 sessions) were searched page-by-page for *Chanak, Kemal, Mustapha, Turks, Angora, Turkey* through
 the Library of Parliament's full-text search; apart from the index pages (which list the name), Kemal is named on those two pages only. Meighen's reply and the later Chanak
 passages talk of Turkey, the Straits and imperial consultation, not of him, and the 1924 Lausanne debate does not name him. That silence is the finding: the Dominion Parliament argued
-about its own autonomy, and Kemal is the occasion. Compare [[Chanak Crisis]], [[Kemal in the Commons, Variant Spellings, 1920–1922]], and [[New Zealand Leaders on Kemal at Chanak, September 1922]].
+about its own autonomy, and Kemal is the occasion. Compare Chanak Crisis, [[Kemal in the Commons, Variant Spellings, 1920–1922]], and [[New Zealand Leaders on Kemal at Chanak, September 1922]].
 
 **Australia.** Not read. The Parliament's Hansard sites (ParlInfo, historichansard.net) block non-browser clients behind a WAF/CAPTCHA; nothing is claimed here (see the candidates file).
 

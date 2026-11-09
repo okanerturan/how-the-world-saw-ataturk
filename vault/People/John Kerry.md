@@ -11,7 +11,7 @@ tags: [person, verified, head-of-state, anitkabir]
 
 On 2 March 2013 he wrote in the Anıtkabir book of Atatürk as a soldier and statesman who pioneered education and independence.
 
-See [[Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026]] and [[Anıtkabir]].
+See [[Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026]] and Anıtkabir.
 
 ## Sources
 - Turkish press reports of the Anıtkabir special book entry; see [[Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026]].

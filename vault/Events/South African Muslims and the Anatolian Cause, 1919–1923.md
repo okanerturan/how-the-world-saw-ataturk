@@ -32,7 +32,7 @@ Archives (SAB GG series) and Turkish archival works (Uçar), gives three facts:
    the 1914 Rebellion — **declined to send a contingent**, "the first instance in which the Prime
    Minister of South Africa made a decision on foreign relations diametrically opposed to the
    wishes of the Imperial Government" (Wheeler, cited by Orakçı); as a Lausanne signatory it later
-   became a guarantor of Turkey's borders. See [[Chanak Crisis]], [[Treaty of Lausanne]].
+   became a guarantor of Turkey's borders. See Chanak Crisis, Treaty of Lausanne.
 
 Polarity: **instrumental-admiring** — South Africa's Muslims gave to the cause of Ankara in the
 vocabulary of the Caliphate, not of Kemalism; the card sits next to [[Khilafat Disillusion, 1924]].

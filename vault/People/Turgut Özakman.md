@@ -22,7 +22,7 @@ obituary; ledger row exists) — record-breaking sales for a Turkish book.
 
 His place in the deck: the **modern Turkish self-gaze in book form** — the war retold as national
 scripture for readers who felt the founding story slipping. It matters to this project's method
-too: the book sits inside the provenance chain of the apocryphal [[David Lloyd George]] "genius of
+too: the book sits inside the provenance chain of the apocryphal David Lloyd George "genius of
 centuries" quote, which it cites from an ATAM journal article and helped fix in popular memory. A
 reception machine, not just a reception artifact.
 

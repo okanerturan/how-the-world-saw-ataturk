@@ -45,7 +45,7 @@ its head, condemned him in a ruling dated 12 November 1925 (per Prophetic Politi
 secondary web source): his titles were stripped, he was dismissed from his judgeship and barred
 from public office. [[Rashid Rida]], in *al-Manar*, called the book the latest attempt of the
 enemies of Islam to divide it from within and welcomed the verdict as a "great manifest
-victory". Albert Hourani's summary: a "violent storm". The event that made the question askable is in [[Abolition of the Caliphate]]; for the contrasting jurist-hostility of [[Mustafa Sabri Efendi]], who fled to Egypt.
+victory". Albert Hourani's summary: a "violent storm". The event that made the question askable is in Abolition of the Caliphate; for the contrasting jurist-hostility of Mustafa Sabri Efendi, who fled to Egypt.
 
 Why keep him in a census of gazes? Because the Rorschach test has an *indirect* register: a
 thinker who sees in an event a licence rather than a person. Later liberals made him "the first

@@ -22,7 +22,7 @@ a use of Kemal as an argument in Indian quarrels.** Page numbers are read from O
 
 **A fifth voice in the same pages.** The economist **Benoy Kumar Sarkar**, in the April 1923 issue ("The Economics of the Rhineland", section "The New Germany and Kemal Pasha"), says that "from Manila to Morocco" the whole East "has been spiritualized by the Turkish successes under Kemal Pasha", and that the example reached Young Germany as well. (The OCR of the standfirst is noisy and no quote is printed.) The Modern Review of Jan–Jun 1925 also remarks, in an article on China whose author I did not identify, that "only in one quarter has Kemal Pasha, luckily for Asia, succeeded" in raising Asia's reputation while no "Kemal Pashas" are forthcoming in China — not recorded as a gaze here.
 
-**Why it matters.** Between them these notes give a non-Muslim Indian public sphere's Kemal: war hero (July 1924), nationalist who dismissed the Khilafat (April 1924), and a symbol Muslims were spending money on (March 1923). Compare the Muslim voices in [[Khilafat Disillusion, 1924]]; and the Indian viewpoint of [[Rabindranath Tagore]] and [[Jawaharlal Nehru]].
+**Why it matters.** Between them these notes give a non-Muslim Indian public sphere's Kemal: war hero (July 1924), nationalist who dismissed the Khilafat (April 1924), and a symbol Muslims were spending money on (March 1923). Compare the Muslim voices in [[Khilafat Disillusion, 1924]]; and the Indian viewpoint of [[Rabindranath Tagore]] and Jawaharlal Nehru.
 
 ## Sources
 - *The Modern Review* vol. XXXIII (Jan–Jun 1923): Notes, March 1923; Sarkar, April 1923 — [archive.org/details/dli.calcutta.09830](https://archive.org/details/dli.calcutta.09830) · tier P

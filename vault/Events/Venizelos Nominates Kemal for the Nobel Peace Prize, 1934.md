@@ -12,7 +12,7 @@ era: [contemporary]
 
 On 12 January 1934 Venizelos wrote in French to the Nobel committee proposing Mustafa Kemal for the Peace Prize,
 as "the leader of the Hellenic Government in 1930, when the signature of the Greek-Turkish pact marked a new
-era". He had been the architect of the 1919 Smyrna landing and the 1920 offensive (see [[Greco-Turkish War]]).
+era". He had been the architect of the 1919 Smyrna landing and the 1920 offensive (see Greco-Turkish War).
 
 What he says, in the English translation circulating online (translation from the French by Stella Colston):
 
@@ -29,9 +29,9 @@ What he says, in the English translation circulating online (translation from th
 **Reading.** An adversary of 1919–22 praising the victor, with a diplomatic purpose (the 1930 pact, the
 Greek-Turkish settlement). The vault's existing person note records the nomination and the Nobel archive's
 annotation that no evaluation was ever written; this card adds the letter's own words. Filed as admiring with
-the Greek-Turkish history named; a reader may weigh it as instrumental. See [[Eleftherios Venizelos]].
+the Greek-Turkish history named; a reader may weigh it as instrumental. See Eleftherios Venizelos.
 
 ## Sources
 - E. K. Venizelos to the Nobel Committee, Athens, 12 January 1934 (English translation from the French, S. Colston; Greek version alongside) · J — [Greek World Media](https://greekworldmedia.com/2017/03/19/nomination-letter-by-eleftherios-k-venizelos-for-the-conferral-of-the-nobel-peace-prize-upon-mustafa-kemal-pasha-ataturk)
-- Nobel nomination archive, Peace 1934, record 24-1 (cited in [[Eleftherios Venizelos]]; not re-read this round)
+- Nobel nomination archive, Peace 1934, record 24-1 (cited in Eleftherios Venizelos; not re-read this round)
 - Caveat: the French original was not seen; quotes are the web translation, which may differ in wording from the original.

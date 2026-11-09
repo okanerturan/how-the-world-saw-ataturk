@@ -10,7 +10,7 @@ era: [contemporary]
 
 # Ihsan Nuri's Ararat Papers, 1927–1930
 
-The vault card [[Ihsan Nuri Pasha]] gives the rebel; this card gives the **turn**. A review
+The vault card Ihsan Nuri Pasha gives the rebel; this card gives the **turn**. A review
 essay on the Hoybun/ARF archive (the Ağrı headquarters' reports and the Hoybun centre's answers
 for 1927–1930, kept by the Armenian Revolutionary Federation) reads İhsan Nuri's path as a
 change of mind about Mustafa Kemal's movement:
@@ -19,7 +19,7 @@ change of mind about Mustafa Kemal's movement:
   officer, was less "Kurdist" than the *Jin* newspaper circle, and — although citing Wilson's
   principles — thought the Kurds should support the movement Mustafa Kemal had started.
 - **1927–1930: commander.** As Hoybun's extraordinary commissioner on Ararat (code name "Cemşit")
-  he ran the [[Ararat Rebellion]]'s military and civil structure. The essay's verdict is that
+  he ran the Ararat Rebellion's military and civil structure. The essay's verdict is that
   even for him Kurdish nationalism "could not go beyond" a reaction to the Turkish nationalism
   the Kemalist elite practised, and that he was a candidate to be the **Kurds' Mustafa Kemal** with
   a residue far weaker than Mustafa Kemal's Ottoman one.
@@ -31,7 +31,7 @@ change of mind about Mustafa Kemal's movement:
 **Caveats.** Both studies are Turkish-language; the review essay's author and its parent book
 (*Ağrı Dağı'nda Cumhuriyet Kurmak*) are not captured in the page text, so the evidence is
 scholarly-secondary on archival letters, not the letters themselves. The Hoybun article is
-DergiPark's "Hoybun Örgütü: Kürt Milliyetçiliğinde Yeni Bir Evre". Connect: [[Celadet Bedir Khan]] (Hoybun's president), [[Ararat Rebellion]].
+DergiPark's "Hoybun Örgütü: Kürt Milliyetçiliğinde Yeni Bir Evre". Connect: Celadet Bedir Khan (Hoybun's president), Ararat Rebellion.
 
 ## Sources
 - [Kürt Araştırmaları, review essay on the Ağrı Dağı papers (ARF archive file 1662)](https://kurdarastirmalari.com/details/agri-daginda-cumhuriyet-kurmak-yeni-belgeler-isiginda-agri-syani) · S−

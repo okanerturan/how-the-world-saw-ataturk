@@ -22,19 +22,19 @@ president of Colombia,"** and that Atatürk's legacy had "made an important infl
 decision-making process that we have made in Colombia."
 
 What he saw, by his own selection:
-- **The Gallipoli commander** ([[Gallipoli Campaign]]): he recalled the order that soldiers had
+- **The Gallipoli commander** (Gallipoli Campaign): he recalled the order that soldiers had
   come not to fight but to die, the line every visiting statesman reaches for first.
 - **Education as the social leveller**: "for the last four years, following Atatürk's path, we
   have drawn on education as the main source for closing the social gap" (rendered from the Turkish
   report).
-- **Women's political rights** ([[Women's Suffrage in Turkey]]): he set Colombia's late
+- **Women's political rights** (Women's Suffrage in Turkey): he set Colombia's late
   enfranchisement of women (he dated it to 1958; Colombian women in fact first voted in the 1957
   plebiscite) against Atatürk's vision "almost 30 years" earlier.
 - **"Peace at home, peace in the world"**, which he quoted.
 
 The frame matters: the lecture sat inside a trade-and-investment visit (a $2 billion bilateral
 target) and closed on Colombia as Turkey's "ground" into Latin America. This is the
-**instrumental-admiring** card of the [[Kemalism]] mirror: Atatürk as a shared diplomatic
+**instrumental-admiring** card of the Kemalism mirror: Atatürk as a shared diplomatic
 vocabulary between two governments, not a contemporary's reckoning.
 
 *Census note:* Colombia and Turkey established diplomatic relations only in **1959**, twenty-one
