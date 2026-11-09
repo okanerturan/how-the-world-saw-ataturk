@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ahmed-hasim-1928
+voice: Ahmed Haşim
+voice_type: person
+role: Turkish symbolist poet (1884–1933), essayist
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1928"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: article
+evidence: S
+summary: >-
+  Describes meeting Atatürk in person at Dolmabahçe: an ageless, luminous face, the man who 'made an era of
+  centuries grow old'.
+quote:
+  text: >-
+    Le visage de l'Homme qui a fait vieillir une ère longue de siècles, tout comme ceux des dieux anciens ne
+    porte aucune trace de l'âge. [translation: The face of the Man who made an era of many centuries grow old,
+    like those of the ancient gods, bears no trace of age.] … Le grand bienfait de ce jour pour moi fut de
+    voir de près ce visage jeune et légendaire.
+  translation: The great gift of this day for me was to see this young and legendary face close up.
+  needs_split: true
+  language: fr
+mediated_by: La Turquie kémaliste no. 10 (Dec 1935), French translation of 'Gazî' in Haşim's Bize Göre
+caveat: >-
+  Published in La Turquie kémaliste, the illustrated review of the Turkish Press Directorate (Direction
+  Générale de la Presse, Ministry of the Interior), a Kemalist state propaganda venue that chose and printed
+  (and for some items translated) what it ran; read in the OCR of archive.org item la_turquie_kemaliste.
+  French translation of a short essay 'Atatürk' printed under the heading 'Quelques essais d'Ahmed Hasim' in
+  no. 10 (December 1935), two years after Haşim's death; the Turkish original and its date are not located
+  (the text speaks of a meeting 'last week' at Dolmabahçe 'autour de la nouvelle écriture', which suggests the
+  alphabet consultations of August 1928, an inference not verified). Page not shown in the OCR. Translator not
+  named. Evidence S (a posthumous translation chosen by the review), not the poet's own printing. Cited as La
+  Turquie kémaliste no. 10 (December 1935), 'Quelques essais d'Ahmed Hasim — Atatürk'. Check: the original is
+  the essay 'Gazî' in Haşim's Bize Göre (tr.wikisource), which says 'Gazi' (the review inserted 'Atatürk') and
+  'Altı yüz senelik bir devri' (six hundred years), loosened in French to 'une ère longue de siècles'. Dated
+  c. 1928 from the Dolmabahçe meeting on the new letters (inferred).
+node: La Turquie kémaliste 1935–1938 — Haşim, Wright, Pittard, Ireland and Belge
+sources:
+  - url: https://archive.org/details/la_turquie_kemaliste
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    archive.org la_turquie_kemaliste 10_djvu.txt (no. 10, Décembre 1935, p. 18) and tr.wikisource Bize
+    Göre/Gazi (render); tools/ms search (1 call)
+  method: fetched djvu text and Turkish original, compared line by line; tools/ms search
+  note: >-
+    French text verbatim. But it is a posthumous translation (Haşim died June 1933) of the essay 'Gazî' in
+    Haşim's Bize Göre; the Turkish original title and text say 'Gazi', so 'Atatürk' (heading and text) is the
+    review's insertion. Original is about the first Dolmabahçe meeting on the new letters (Aug 1928 by
+    history, not stated in the text; Bize Göre is a 1928 book, first-edition date not seen). The French
+    loosens 'Altı yüz senelik bir devri' (an era of six hundred years) into 'une ère longue de siècles'.
+    Correction: date the utterance ~1928 (era contemporary either way), keep La Turquie kémaliste no. 10, Dec
+    1935 as the mediation, and quote the Turkish original with the French as the 1935 translation; do not
+    credit 'Atatürk' to Haşim.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (rounds 21–22)
+  checked_on: "2026-11-03"

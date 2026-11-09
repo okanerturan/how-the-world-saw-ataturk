@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lenin-aralov-1921
+voice: Vladimir Lenin
+voice_type: person
+role: Chairman of the Council of People's Commissars, Soviet Russia
+country: Soviet Russia
+country_now: Russia
+domain: politics
+date: "1921"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: bourgeois-revolutionary
+artifact: memoir
+evidence: P
+summary: >-
+  Briefing his envoy, calls Mustafa Kemal no socialist but a good organiser, talented commander and clever
+  statesman leading a bourgeois-national revolution.
+quote:
+  text: >-
+    — Конечно, Мустафа Кемаль-паша не социалист,— говорил Владимир Ильич,— но, по-видимому, хороший
+    организатор, талантливый полководец, ведет буржуазно-национальную революцию, прогрессивно настроенный
+    человек, умный государственный деятель.
+  translation: >-
+    Of course, Mustafa Kemal Pasha is not a socialist,' Vladimir Ilyich said, 'but he is evidently a good
+    organiser, a talented commander, leading a bourgeois-national revolution, a progressive-minded man, a
+    clever statesman.
+  language: ru
+mediated_by: >-
+  S. I. Aralov, Vospominaniya sovetskogo diplomata 1922–1923 (Moscow: IMO, 1960), pp. 34–35, recalling his
+  briefing by Lenin
+caveat: >-
+  Recollected about 38 years later in a Soviet-era memoir; Lenin's words are Aralov's reconstruction. The
+  meeting took place in Moscow between Aralov's recall in early November 1921 and his departure for Ankara at
+  the end of December 1921 (pp. 23, 33–36). The scan reads 'не социалист' as '—: е социалист' (OCR). Lenin
+  goes on to say he is sure Kemal 'will knock the arrogance out of the imperialists' and that Russia must help
+  the Turkish people. Read in the archive.org open text.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/vospominaniia_sovetskogo_diplomata_1922_1923
+  - url: https://archive.org/download/vospominaniia_sovetskogo_diplomata_1922_1923/vospominaniia_sovetskogo_diplomata_1922_1923_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    S. I. Aralov, Vospominaniya sovetskogo diplomata 1922–1923 (Moscow: Izd. Instituta mezhdunarodnykh
+    otnoshenii, 1960, 224 pp.), archive.org vospominaniia_sovetskogo_diplomata_1922_1923 djvu.txt; scene
+    starts p. 34, Lenin's lines on p. 35
+  method: archive.org open OCR text read
+  note: >-
+    Russian verbatim apart from the OCR slip '—: е социалист' (= 'не социалист'). Edition and pages match (p.
+    34 runs to 'кни-', p. 35 holds the quote). Context: Chicherin brings Aralov to Lenin before his departure;
+    recalled in early Nov 1921 (OCR line 'В начале ноября 1921 года'), left end Dec 1921 ('В конце декабря
+    1921 года'). Tier: P is Aralov's memoir, not Lenin's own text; it is acceptable only because mediated_by
+    and the caveat name the reconstruction (cf. reza-shah-1933 via an ambassador's memoir). Era contemporary
+    is correct.
+  checked_on: "2026-11-05"

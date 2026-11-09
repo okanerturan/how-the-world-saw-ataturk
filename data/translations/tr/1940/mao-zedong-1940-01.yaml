@@ -1,0 +1,42 @@
+# Turkish for data/voices/1940/mao-zedong-1940-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mao-zedong-1940-01
+voice: Mao Zedong
+role: Çin Komünist Partisi Başkanı
+quote: >-
+  Kemalist Türkiye bile sonunda kendisini İngiliz-Fransız emperyalizminin kollarına atmak zorunda kaldı;
+  giderek daha fazla bir yarı-sömürge ve gerici emperyalist dünyanın bir parçası haline geldi.
+quote_kind: translated
+summary: >-
+  Türkiye'deki burjuva Kemalist diktatörlüğün özel koşullardan doğduğunu kabul eder, ancak Çin'in bunu
+  tekrarlayamayacağını ve Kemalist Türkiye'nin sonunda bir yarı-sömürge haline geldiğini savunur.
+caveat: >-
+  Atatürk'ün ölümünden sonra, Ocak 1940'ta yazılmıştır (bu nedenle dönemi ölüm sonrasıdır). Şahsen Atatürk'ü
+  değil, Kemalizmi ve 'Çin'in Kemal'ini' değerlendirir. Aynı pasaj, 'petty Kemalist dictatorship of the
+  bourgeoisie' rejiminin 'owing to certain specific conditions (the bourgeoisie's success in repelling Greek
+  aggression and the weakness of the proletariat)' ortaya çıktığını söyler. Arşivin kişi notu Mao'ya 1936'da
+  Edgar Snow'a söylenmiş bir söz atfeder ('We are not going to be another Kemal Turkey'); bu cümle bu turda
+  okunan hiçbir kaynakta bulunamadı ve doğrulanmamış olarak kalmaktadır.
+mediated_by: >-
+  'On New Democracy'nin (Selected Works, c. 2, FLP) marxists.org üzerinden İngilizce metni; Çince aslı değil
+verification_note: >-
+  Kelimesi kelimesine: 'Besides, even Kemalist Turkey eventually had to throw herself into the arms of
+  Anglo-French imperialism, becoming more and more of a semi-colony and part of the reactionary imperialist
+  world.' 'petty Kemalist dictatorship of the bourgeoisie' / 'certain specific conditions' cümlesi ve 'where
+  is China's Kemal?' ifadesi de kelimesi kelimesinedir. Ocak 1940 tarihi uygun. 'conflicted' (çelişkili)
+  kutupluluğu fazla cömert: pasaj küçümseyicidir (çıkmaz bir model olarak Kemalizm, 'ikinci bir Türkiye yok');
+  tek taviz bunun özel koşullar altında ortaya çıktığıdır. Seçenekler izin veriyorsa 'critical' (eleştirel)
+  düşünülmeli, aksi halde yoğunluk 2 ile conflicted tutulmalı. Not: metin şahsen Atatürk'ü değil, Kemalizmi ve
+  'Çin'in Kemal'ini' değerlendirir (çekince notunda zaten belirtiliyor).
+verification_method: marxists.org sayfasının tools/ms ile ücretsiz çekimi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3f2296bb1d29
+  role: 8849dcb5f45b
+  quote: 5c17b56ccf2d
+  summary: e52d022acf3d
+  caveat: 9f0ab79a2734
+  mediated_by: 11ee5607569a
+  verification_note: ad4a766b194e
+  verification_method: 1501e9d3568f

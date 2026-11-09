@@ -1,0 +1,33 @@
+# Turkish for data/voices/2012/kagame-2012-03-23.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kagame-2012-03-23
+voice: Paul Kagame
+role: Ruanda Devlet Başkanı
+quote: >-
+  Modern Türkiye halkı bunu çok iyi biliyor, çünkü Mustafa Kemal Atatürk'e kadar uzanan böylesine vizyoner
+  liderleriniz oldu – ve ülkenizdeki sonuçlar da bunu gösteriyor.
+quote_kind: translated
+summary: >-
+  Mustafa Kemal Atatürk'e uzanan vizyoner liderlere sahip olan modern Türkiye'nin, uzun vadeli vizyoner
+  liderliğin değerini bildiğini ve sonuçlarının ortada olduğunu söyler.
+caveat: >-
+  23 Mart 2012'de İstanbul'da Fatih Üniversitesi'nden fahri doktora kabul konuşması, metin paulkagame.rw
+  adresindedir. Bir önceki cümle liderlerin 'long-term vision'a ve halklarını motive etme becerisine ihtiyaç
+  duyduğunu belirtir; bir sonraki cümle Ruanda'ya döner. Fatih Üniversitesi daha sonra 2016'nın ardından Gülen
+  bağlantılı olduğu gerekçesiyle kanun hükmünde kararnameyle kapatılmıştır.
+verification_note: >-
+  Alıntı birebir aynıdır ve P dürüsttür. what_they_saw aşırı yorum içermektedir: Kagame, Atatürk'ü hiçbir
+  yerde 'a model for Rwanda's own transformation' olarak nitelendirmez; bir sonraki cümle Ruanda'ya yalnızca
+  genel bir ifadeyle ('with the examples available') döner. what_they_saw düzeltilmeli; bu durumda
+  nation-forge-template yansıması zayıf kalır.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 52ee7d4c25a8
+  role: 4f45fd0aa77c
+  quote: 9edf30b6f04a
+  summary: 35cecd214ab5
+  caveat: 3fd0b2e78703
+  verification_note: 8ce26dbecdb0
+  verification_method: 5300d17a1d69

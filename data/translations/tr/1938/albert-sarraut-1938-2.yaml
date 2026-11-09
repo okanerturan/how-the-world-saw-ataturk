@@ -1,0 +1,34 @@
+# Turkish for data/voices/1938/albert-sarraut-1938-2.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: albert-sarraut-1938-2
+voice: Albert Sarraut
+role: Fransa İçişleri Bakanı, cenaze heyeti başkanı
+quote: Ona hayranlık ve sevgi duydum
+quote_kind: translated
+summary: >-
+  Fransa'nın cenaze heyetine bizzat başkanlık etti; eski Ankara büyükelçisi olarak Türk basınına o zamandan
+  beri Atatürk'e 'derin hayranlık' duyduğunu söylerken, bir Hollanda günlük gazetesi heyete onun başkanlık
+  etmesini Batılı güçlerin Türkiye'nin dostluğuna verdiği ağırlığın bir işareti olarak okudu.
+caveat: >-
+  Alıntı ve 'deep admiration' ifadesi, Sarraut'nun açıklamalarına ilişkin Toksoy'un Türkçe özetlerinin
+  İngilizce aktarımlarıdır. 'courtship of Ankara' okuması Sarraut'ya değil, bir Hollanda günlük gazetesine
+  aittir. Tüylü Turan 2019 doğrudan okunmadı.
+mediated_by: >-
+  Toksoy 2006 (Ulus 15 Kasım 1938; Aksam 20 Kasım 1938); Tüylü Turan 2019 (İspanyol basını); Delpher üzerinden
+  Havas
+verification_note: >-
+  Heyet başkanlığı destekleniyor. 'Instrumental / courtship of Ankara' notun kendi okumasıdır; Toksoy dn. 59,
+  Sarraut'nun Atatürk'e duyduğunu belirttiği 'deep admiration' ifadesini aktarır, dolayısıyla araçsal
+  kutupluluk desteklenmemektedir. Tuylu Turan 2019 okunmadı.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c8b9ad53d5f8
+  role: "297669362429"
+  quote: a96d4473c4d8
+  summary: d39a0d1f1378
+  caveat: 8328865110fa
+  mediated_by: 6589ffb36ed6
+  verification_note: 3ba3989533b6
+  verification_method: 939bb46a04c3

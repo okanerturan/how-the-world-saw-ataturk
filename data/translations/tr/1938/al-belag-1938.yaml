@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/al-belag-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-belag-1938
+voice: Al-Belağ
+role: Mısır gazetesi
+summary: >-
+  Huda Sha'arawi'nin Atatürk ile yaptığı görüşmeye ilişkin, Türk halkının bu nedenle kendisine hayranlık
+  duyduğu Türk kadın hakları devrimini öven anlatımına yer verdi.
+caveat: Sha'arawi'nin görüşmesinin gazetede aktarıldığı şekliyle anlatımı, ikinci elden.
+mediated_by: Toksoy 2010 ← Cumhuriyet 12 ve 20 Kasım 1938, Ayın Tarihi no. 194 (Türkçe çeviri)
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 883b52e836ef
+  role: ad500ca7c154
+  summary: 93c164ef1087
+  caveat: 9ed06434e9f9
+  mediated_by: e0cb488042f7
+  verification_method: 939bb46a04c3

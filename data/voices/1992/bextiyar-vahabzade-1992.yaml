@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bextiyar-vahabzade-1992
+voice: Bəxtiyar Vahabzadə
+voice_type: person
+role: Azerbaijani poet
+country: Azerbaijan
+country_now: Azerbaijan
+domain: letters
+date: "1992"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: poem
+evidence: S
+summary: >-
+  In 'Atatürk'ün Babası' pictured a people asking God for a leader to unite them; the note reads him as the
+  state-builder Azerbaijan wished for.
+node: Azerbaijani Poetry of Atatürk
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/3737657
+    archived: https://web.archive.org/web/20250625234243/https://dergipark.org.tr/en/download/article-file/3737657
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    dergipark article-file/3737657 (Int. J. Sci. Research of the Turkic World 2024): Vahapzade 1992 poem
+    "Atatürk'ün Babası", people asks God for a unifying Atatürk
+  method: fetch
+  note: Secondary reading; "note reads him as state-builder" is note interpretation.
+  checked_on: "2026-10-29"

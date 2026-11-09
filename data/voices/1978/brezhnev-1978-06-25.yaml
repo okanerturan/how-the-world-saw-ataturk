@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: brezhnev-1978-06-25
+voice: Leonid Brezhnev
+voice_type: person
+role: >-
+  General Secretary of the CPSU; speech in the collection Peace, Detente and Soviet-American Relations (1979)
+country: Soviet Union
+country_now: Russia
+domain: politics
+date: "1978-06-25"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: J
+summary: >-
+  Names Lenin and Atatürk together as the authors of the road on which Soviet-Turkish friendship is to
+  continue.
+quote:
+  text: the road charted long ago by Lenin and Ataturk.
+  language: en
+caveat: >-
+  Speech at the award ceremony in the Hero City of Minsk, 25 June 1978 (book contents: 'Speech … Hero City of
+  Minsk, June 25, 1978, 221'), in Peace, Detente and Soviet-American Relations (1979; archive.org
+  peacedetenteso00brez, lending) and Our Course, Peace and Socialism. Full sentence: '…an important stage in
+  the development of our relations along the road charted long ago by Lenin and Ataturk.' Welcomes Ecevit's
+  June 1978 visit. Page 223 by the index; the page itself seen only as full-text-search snippets.
+node: Hoxha, Beneš, Brezhnev and the Soviet Presidium on Atatürk, 1939–1982
+sources:
+  - url: https://archive.org/details/peacedetenteso00brez
+  - url: https://archive.org/details/ourcoursepeaceso0000libr
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Brezhnev, Peace, Detente and Soviet-American Relations (Harcourt/NY 1979), archive.org
+    peacedetenteso00brez, fts snippets and fts hits on the printed contents/index; cross-checked with
+    ourcoursepeaceso0000libr
+  method: >-
+    tools/fts.py snippets only (lending copy, no page images); date derived from the book's own contents list
+    and index
+  note: >-
+    Quote verbatim in the snippet, with its full sentence: '... friendly co-operation between the USSR and
+    Turkey mark an important stage in the development of our relations along the road charted long ago by
+    Lenin and Ataturk. In general I agree with the words of West German Chancellor Schmidt ...'. The 'Our
+    Course' translation reads 'the road charted way back in the past by Lenin and Ataturk'. The date is NOT
+    inferred from the Ecevit visit alone: the contents list ends with 'From Speech upon Presenting the Order
+    of Lenin and the Gold Star Medal to the Hero City of Minsk, June 25, 1978 ... 221', then the appendix; the
+    index lists 'Turkey, 223' and 'Ecevit, Bulent, 223', so the passage lies in that Minsk speech (starts p.
+    221; passage at p. 223 by the index, not seen on the page). Immediately before it Brezhnev says the Ecevit
+    visit and political document were 'a practical contribution' to the all-European conference. CORRECTIONS:
+    date 1978-06-25; id brezhnev-1978-06-25; speech = Minsk Hero City award ceremony; page 223 (index;
+    unverified on the page image); keep evidence J and caveat that the book is lending-only; the 'speech and
+    occasion unidentified' wording is now wrong. Stays partial only because the page itself was not seen; no
+    snippet shows more than one sentence. Instrumental/intensity 1 fair; era posthumous correct.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/milutin-nedic-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: milutin-nedic-1938
+voice: Milutin Nedić
+role: Yugoslavya Ordu ve Donanma Bakanı
+summary: >-
+  Cenazede Savaş Bakanı Nedić sıfatıyla, askeri müfrezeler eşliğinde Yugoslavya'yı temsil etti; arşiv, Milan
+  Nedić ile yapılan yaygın karışıklığı düzeltmektedir.
+caveat: >-
+  İlk adı Milutin bakanlar listesinden (T) çıkarılmıştır; Havas ve Tüylü Turan yalnızca 'Nedić'/'minister of
+  war' ifadesini verir ve Havas bir şeref kıtasından değil, askeri müfrezelerden söz eder. Turan'ın metni
+  ayrıca Başbakan Stojadinović'in de katılacağını belirtir.
+mediated_by: Havas 17 Kasım 1938; Tüylü Turan 2019 üzerinden Boran 2011
+verification_note: >-
+  Kaynaklar yalnızca soyadını/"minister of war" ifadesini veriyor; ilk adı Milutin ve "guard of honour"
+  kaynaklarda yer almıyor (not, kimlik tespitinin bakanlar listesine dayandığını kabul ediyor). Turan metni
+  ayrıca Başbakan Stoyadinovitch'in de katılacağını söylüyor.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 305c699b5081
+  role: 5f359092a193
+  summary: ab0cdcfe826d
+  caveat: 392aa738852e
+  mediated_by: d87f925d9185
+  verification_note: c091e69896c2
+  verification_method: ad8cee67138e

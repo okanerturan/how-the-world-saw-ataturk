@@ -1,0 +1,23 @@
+# Turkish for data/voices/1921/abdullah-azmi-tbmm-1921-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abdullah-azmi-tbmm-1921-10-31
+voice: Abdullah Azmi Efendi (Eskişehir)
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Eskişehir milletvekili
+quote: Paşa Hazretleri bu davayı milli için kendisi, herhalde, fedayı nefisle ortaya atıldı.
+quote_kind: original-turkish
+summary: >-
+  Komutanlığın Paşa'yı yıpratacağı yönündeki endişeleri reddetti: Kemal milli dava için ortaya atılmıştı ve
+  canını vermekten gurur duyardı.
+caveat: Basılı metin s. 479.
+verification_note: Birebir aynı, s. 479; belirtildiği gibi 'Paşa'yı yıpratma' itirazına yanıt veriyor.
+verification_method: bitstream PDF üzerinde pdftotext
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b859afcf0abf
+  role: 2f5bdd0adc93
+  quote: bce907ffbedb
+  summary: e70565bd3d79
+  caveat: edfe51905ce1
+  verification_note: 09877dbf8e60
+  verification_method: 947fda15c51e

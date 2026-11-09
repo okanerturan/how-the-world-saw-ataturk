@@ -1,0 +1,28 @@
+# Turkish for data/voices/1925/ali-abd-al-raziq-1925.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ali-abd-al-raziq-1925
+voice: Ali Abd al-Raziq
+role: Ezher yetişmeli Mısırlı şeriat hâkimi
+summary: >-
+  Türkiye'de hilafetin kaldırılmasından bir yıl sonra al-Islam wa usul al-hukm (1925) adlı eseri yazdı;
+  kaynaklar bu olayı eserin vesilesi sayar; Guardian ise asıl hedefinin Atatürk değil Kahire sarayı olduğu
+  çıkarımında bulunur.
+caveat: >-
+  Metninde veya akademik literatürde Atatürk'e yönelik övgü ya da yergi içeren hiçbir cümle bulunamadı.
+  Hilafetin kaldırılmasının esere vesile olduğu bağlantısı gevşek biçimde desteklenmektedir (Encyclopedia.com
+  'one year after'; Jadaliyya sayfası yeniden kontrolde sonuç vermedi); 'hedefin saray olduğu' Guardian'ın
+  çıkarımıdır.
+verification_note: >-
+  Hilafetin kaldırılmasının vesile olduğu iddiası yalnızca gevşek biçimde destekleniyor; "hedefin Kahire
+  sarayı olduğu" açıkça belirtilmiş değil, Guardian'ın çıkarımı; kaynaklarda Atatürk'e yönelik bir bakış yok
+  (kaydın kendisinin de kabul ettiği gibi).
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3f778285c8e2
+  role: 2cf16684759f
+  summary: 437aefad0cbe
+  caveat: 9477e498444b
+  verification_note: 6c7196c53a4f
+  verification_method: ad8cee67138e

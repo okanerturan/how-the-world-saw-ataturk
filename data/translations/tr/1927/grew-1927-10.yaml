@@ -1,0 +1,37 @@
+# Turkish for data/voices/1927/grew-1927-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: grew-1927-10
+voice: Joseph C. Grew
+role: ABD'nin Türkiye Büyükelçisi (1927–1932)
+quote: Hedefine ulaşırken tüm güçlükleri aşabilecek bir adamın yüzüne sahipti.
+quote_kind: translated
+summary: >-
+  Güven mektubunu sunduktan sonra Dışişleri Bakanı'na, yüzündeki güç ve kararlılıktan etkilenerek Gazi'nin
+  kendisinde derin bir izlenim bıraktığını söyledi.
+caveat: >-
+  Turbulent Era: A Diplomatic Record of Forty Years, 1904–1945 (Boston: Houghton Mifflin, 1952), c. II,
+  'Arrival in Turkey' bölümü (s. 729'dan itibaren; tam sayfa görülmedi); yalnızca ödünç verilebilir bir
+  nüshanın archive.org metin içi arama kesitlerinden okunmuştur ve bu kesitlerde 'I said to the Minister that
+  the President had made a profound impression on me' ifadesi de yer almaktadır. Arşiv kartındaki sabaha kadar
+  süren akşam yemekleri ve 'terrifyingly intelligent' sözü bulunamamıştır. Sayfa bilinmiyor ('Arrival in
+  Turkey' bölümü).
+verification_note: >-
+  Metin dizisi her iki nüshada da birebir aynı: '...especially by my speech, and the Gazi was not easy to
+  please. I said to the Minister that the President had made a profound im-pression on me and that I was
+  particularly impressed with the strength and determination of his face. He had the face of a man who could
+  overcome all difficulties in reaching his goal.' Sayfa görünmüyor; bölümün sayfa üstü başlığı 'ARRIVAL IN
+  TURKEY 729', 'Angora, Saturday, October 8 [1927]' kesitinde yer almakta ve 'Angora, Thursday, October 27
+  [1927]' başka bir kayıt olarak görülmektedir; dolayısıyla Ekim 1927 uymaktadır ancak tam gün
+  kesinleştirilememiştir. Düzeltme: Kitap 'Diary in Turbulent Era' değil, 'Turbulent Era: A Diplomatic Record
+  of Forty Years, 1904–1945'tir.
+verification_method: archive.org tam metin araması (örtüşen kesitler)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a8c5d791c23e
+  role: af05dd5ff6f9
+  quote: 1b4d7994b3e1
+  summary: 7b4878326e5d
+  caveat: f0ad8019a167
+  verification_note: a89e09183e1a
+  verification_method: ff2ece6da75f

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hafiz-ramazan-pasha-1938
+voice: Hafız Ramazan Paşa
+voice_type: person
+role: Egyptian senator
+country: Egypt
+country_now: Egypt
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: S
+summary: >-
+  Met Mustafa Kemal in 1912 and again in Ankara; saw an unbeatable will; credits Atatürk's success for
+  concluding the Egyptian question at Lausanne.
+quote:
+  text: Without Kemal Atatürk, would we have seen a new Turkey? Perhaps not.
+  language: en
+mediated_by: Toksoy 2010 ← Cumhuriyet 12 and 20 Nov 1938, Ayın Tarihi no. 194 (Turkish translation)
+caveat: Note calls the Lausanne claim Egyptian self-interest speaking.
+node: Cairo Mourns, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: sources/toksoy-2010-balkan-mideast-press.txt p.200 (Hafız Ramazan Paşa, Cumhuriyet 20 Nov)
+  method: local
+  checked_on: "2026-10-29"

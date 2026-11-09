@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: vreme-1938
+voice: Vreme
+voice_type: press
+role: Yugoslav daily
+country: Yugoslavia
+country_now: Serbia
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  Editorial recalled Atatürk cabling after King Alexander's 1934 assassination to ask whether to mobilize, a
+  phrase Yugoslavia will never forget.
+quote:
+  text: Shall I declare mobilization?
+  language: en
+mediated_by: Toksoy 2010 §E; Karahasan 1994 as cited
+caveat: >-
+  The mobilization-telegram claim is Vreme's own; no telegram text seen. Quotations via Toksoy's Turkish;
+  Serbo-Croatian originals not seen. City not stated.
+node: Yugoslav Press, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt p.196-197 (Vreme editorial; 'seferberlik ilan edeyim mi?')
+  method: local
+  note: Translated from Toksoy Turkish.
+  checked_on: "2026-10-29"

@@ -1,0 +1,34 @@
+# Turkish for data/voices/1932/tsaldaris-1932-03-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tsaldaris-1932-03-31
+voice: Panagis Tsaldaris
+role: Halk Partisi lideri, sonradan Başbakan
+quote: >-
+  Bununla birlikte, Sayın Hükümet Başkanı, Kemal'in Misak-ı Millî'sini biliyorsunuz ve sizin yapmış olduğunuz
+  antlaşmayla onun seferi sürdürmek için hiçbir malzemeden mahrum kalmadığını da biliyorsunuz. Ne yazık ki
+  Kemal bunların hiçbirini kabul etmiyordu.
+quote_kind: translated
+summary: >-
+  Venizelos'a, Misak-ı Millî'ye bağlılık yemini etmiş olan Kemal'in Venizelos'un antlaşması uyarınca hiçbir
+  savaş malzemesi kaybetmediğini ve önerilen uzlaşmaların hiçbirini kabul etmediğini söyler.
+caveat: >-
+  Βουλή Β΄ περίοδος Δ΄ σύνοδος, Τόμος 1 2. kısım, 31 Mart 1932 Perşembe tarihli Ν΄ birleşimi, basılı s. 660
+  (PDF sayfası 137; sayfa görüntüsü okundu; birebir stenografi). İki cümle birbirinden yaklaşık 20 satır
+  uzaktadır (ilki sol sütunun sonuna kadar uzanır, ikincisi sağ sütundadır). Başbakan Venizelos ile yapılan
+  1920-22 politikası tartışmasında Tsaldaris, Kemal ile şartlarda uzlaşmanın hiçbir zaman kolay olmadığını
+  savunur; Kemal onun argümanı için bir araçtır. Venizelos'un yanıtı (s. 671) yalnızca Tsaldaris'in Kemal ile
+  barış önerisini aktarır ve Kemal hakkında herhangi bir görüş belirtmez; kayda alınmadı.
+verification_note: >-
+  Alıntı sayfa görüntüsünde birebir aynı. Birebir stenografi; iki cümle birbirinden ~20 satır uzaktadır.
+verification_method: >-
+  sayfa görüntüsü 230 dpi çözünürlükte işlendi ve politonik Yunanca OKUNDU (derleyici değil, ana ajan)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 31ecf88ed366
+  role: 9e7e4dc45596
+  quote: 504405cd14d0
+  summary: b1e3a959f8ca
+  caveat: 41e91cfedc03
+  verification_note: 4392dc4ba31a
+  verification_method: adc1a10a8ce8

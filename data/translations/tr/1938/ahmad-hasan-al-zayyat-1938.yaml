@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/ahmad-hasan-al-zayyat-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ahmad-hasan-al-zayyat-1938
+voice: Ahmad Hasan al-Zayyat
+role: Kahire haftalık dergisi al-Risala'nın editörü
+quote: Mustafa Kemal, Allah ona rahmet etsin, tesadüf ve şans adamı değildi
+quote_kind: translated
+summary: >-
+  Kemal bir tesadüf adamı değil, bir sürünün seçilmiş önderidir; yine de yeniden doğuşu vahye dayanan Muhammed
+  ile yapılan karşılaştırmadan kuşku duyar.
+caveat: >-
+  Muhammed karşılaştırmasına dair bir çekinceyle birlikte hayranlık dolu. Alıntı, notta yer verilen Arapça
+  özgün metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+verification_note: ""
+verification_method: >-
+  OCR (gürültülü) 'lam yakun Mustafa Kamal rahimahu Allah rajulan min rijal al-musadafa wal-hazz ...'
+  ifadesini ve Muhammed karşılaştırması çekincesini ('nahdat Muhammad yusadiduha Qur'an wa yasnuduha wahy')
+  gösteriyor; çeviri sadık
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 72356aa467bf
+  role: 6a2edb350467
+  quote: 24ca70fbd7c2
+  summary: d6e27386ab1c
+  caveat: 2df0f9345dd8
+  verification_note: da39a3ee5e6b
+  verification_method: 1053b6d523dd

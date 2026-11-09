@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: necip-bey-ertugrul-tbmm-1921-10-31
+voice: Necip Bey (Ertuğrul)
+voice_type: person
+role: Ertuğrul deputy, First Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-10-31"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Said everyone trusted the Pasha and wanted the army under his command, but he opposed giving up the
+  Assembly's powers to one man.
+quote:
+  text: Paşa Hz. ne hepimizin itimadı vardır.
+  language: tr
+caveat: >-
+  Printed p. 478; the same speech continues 'Bendeniz şeklin aleyhindeyim' (against the form).
+node: TBMM Closed Session of 31 October 1921 — Renewing the Commander-in-Chief
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+    archived: https://web.archive.org/web/20250915054819/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Gizli Celse Zabitlari Cilt 2 (31 Tesrinievvel 1337), p.478
+  method: pdftotext of Cilt 2; after foot 477, before 478
+  note: Exact; 'Bendeniz seklin aleyhindeyim' follows as caveat says.
+  checked_on: "2026-10-30"

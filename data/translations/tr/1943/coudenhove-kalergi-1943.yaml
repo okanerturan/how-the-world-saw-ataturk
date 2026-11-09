@@ -1,0 +1,35 @@
+# Turkish for data/voices/1943/coudenhove-kalergi-1943.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: coudenhove-kalergi-1943
+voice: Richard Coudenhove-Kalergi
+role: Pan-Avrupa hareketinin kurucusu
+quote: hiçbir Avrupa baskısı olmaksızın Batı uygarlığının bütün hayati unsurlarını benimsedi.
+quote_kind: translated
+summary: >-
+  Atatürk'ü, hiçbir Avrupa baskısı olmaksızın Batı uygarlığını benimseyen Türkiye'nin 'büyük lideri' ve Avrupa
+  ile İslam'ı uzlaştırmak için bir model olarak nitelendirir.
+caveat: >-
+  Crusade for Pan-Europe: Autobiography of a Man and a Movement (Putnam, 1943), böl. XXVII 'The Future of
+  Asia', yaklaşık s. 280 (basılı sayfa numarası okunamadı; DLI taraması dli.ernet.155751'de pasaj 275 ve 282
+  sayfa işaretleri arasındadır). Tam cümle: 'The most important step toward such a new understanding between
+  Europe and the Near East has been accomplished by modern Turkey, that recently under its great leader Kemal
+  Ataturk, embraced without any European pressure all vital elements of Western civilization.' Ayrıca böl. XIV
+  s. 126-127: Yunanistan ve Türkiye 'were blessed with far-sighted and energetic statesmen - Kemal Ataturk,
+  the Turkish dictator, and Eleutherios Venizelos'. Venizelos'un Viyana'da Coudenhove'a anlattığı Kemal
+  hayranlığı (s. 125-126) ikinci elden aktarımdır ve burada Venizelos'un bakışı olarak kaydedilmemiştir.
+verification_note: >-
+  Alıntı birebir aynı ('embraced without any European pressure all vital elements of Western civilization'),
+  öncesinde 'under its great leader Kemal Ataturk' ifadesiyle birlikte. Sayfa: dizin 280 veriyor, belirtilen
+  'yaklaşık s. 280' ile uyuşuyor; s. 280 kullanın. İleri görüşlü devlet adamları satırı dizinde 126-127'de yer
+  alıyor (kayıt s. 125 diyor; küçük bir fark).
+verification_method: djvu metnini curl ile çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8b3f530d3c86
+  role: e6cc82651c1b
+  quote: 605402d15c53
+  summary: bb7c3b3ea52a
+  caveat: 4bb1398a7dc3
+  verification_note: 0f98ae53f0d0
+  verification_method: bac8b144a275

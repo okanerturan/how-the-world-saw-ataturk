@@ -1,0 +1,25 @@
+# Turkish for data/voices/1952/pardo-bolland-1952.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pardo-bolland-1952
+voice: Salvador Pardo Bolland
+role: Meksika'nın Türkiye maslahatgüzarı
+summary: >-
+  Türkiye Asya-Müslüman bloku yerine Batı'yı seçerken Atatürk'ün eserinin meyve vermeye başladığını bildirdi;
+  heykel deviren fanatikleri ciddi bir tehdit olarak görmedi.
+caveat: Diplomatik raporların kendisi değil, tarihçinin özeti; ifade Yarar'ın dolaylı anlatımıdır.
+mediated_by: Yarar 2025 (CTAD) ← Meksika Dışişleri Bakanlığı arşivi, 'Información sobre Turquía' 1952
+verification_note: >-
+  Bolland: Atatürk'ün eseri şimdiden meyve veriyor, Türkiye Asya-Müslüman grubunu bırakıp Batı'ya yöneliyor;
+  heykel deviren fanatikler dikkate almaya değmeyecek marjinal bir grup. Şerhte belirtildiği gibi tarihçinin
+  özeti
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: eda9a84ebfdf
+  role: 069578a59e2a
+  summary: 411a197b179e
+  caveat: 0d693d4e106c
+  mediated_by: 66725b26981e
+  verification_note: 81d6279a1a2c
+  verification_method: ad8cee67138e

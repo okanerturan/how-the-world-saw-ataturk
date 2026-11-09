@@ -1,0 +1,30 @@
+# Turkish for data/voices/1921/riza-nur-hh-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: riza-nur-hh-1921
+voice: Rıza Nur
+role: Milletvekili ve bakan; sonradan sürgün anı yazarı
+quote: >-
+  Hasılı Mustafa Kemal atılınca kimin geleceği ve onun ne olacağı malûm değildir, iyisi mi böyle gitsin
+quote_kind: original-turkish
+summary: >-
+  Anılarında, Kemal'i komutan olarak uygun bulmadığını ancak olası her halef daha kötü göründüğü için 1921'de
+  bir darbeye karşı çıktığını yazar.
+caveat: >-
+  Kaynak: Rıza Nur, Hayat ve Hatıratım, c. 3 (İstanbul: Altındağ, 1967), s. 888-890 (alıntı s. 890). Kayıt
+  Sakarya (1921) civarındaki haftalarda geçer; sürgünde derlenen anılar taraflıdır ve araştırmacılar
+  tarafından ihtiyatla karşılanır.
+verification_note: >-
+  Birebir aynı ('Hasılı Mustafa Kemal atılınca kimin geleceği ... İyisi mi böyle gitsin'); s. 889'daki
+  'Başkumandan lâyık bir adam değil' ifadesi komutan olarak uygun görmeme yargısını destekliyor; darbeye karşı
+  çıkma gerekçesi s. 890'da.
+verification_method: archive.org djvu metni; s. 888-890 bağlamı okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: eaee1832b3bb
+  role: 4ca1047d74d1
+  quote: b5be0aa563d8
+  summary: 5c53a4c65a39
+  caveat: 8b85e45d649d
+  verification_note: 97dae4010d03
+  verification_method: 4d9482013cbf

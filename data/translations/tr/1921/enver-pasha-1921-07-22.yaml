@@ -1,0 +1,36 @@
+# Turkish for data/voices/1921/enver-pasha-1921-07-22.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: enver-pasha-1921-07-22
+voice: Enver Paşa
+role: Eski Osmanlı Harbiye Nazırı, Moskova'da; Kabil'deki Cemal Paşa'ya mektup
+quote: Anadolu'da Mustafa Kemal Paşa şahsen beni rakib telâkki
+quote_kind: original-turkish
+summary: >-
+  Cemal'e, Anadolu'da Mustafa Kemal'in şahsen kendisini rakip olarak gördüğünü söyler; buna karşın Kemal'e
+  karşı bir hareketleri olmadığını iddia eder.
+caveat: >-
+  Türkçe özgün metin; arşivin çevirisi: 'in Anatolia Mustafa Kemal Pasha personally regards me as a rival'.
+  120 sayılı mektup, Enver'den Cemal Paşa'ya (Kabil), 22 Temmuz 1921; aynı mektupta Kemal'in Hâkimiyet-i
+  Milliye'de 'yalnız bana yönelik' bir makale yazdırdığı ve 'Mustafa Kemal Paşa aleyhinde bir hareketimiz
+  olmadığı, bilakis olumsuz düşünen arkadaşları yatıştırmaya çalıştığımız' belirtilir. Kemal'e değil, bir
+  müttefike yazılmıştır; s. 234-235 olarak atıf yapılmıştır (OCR işareti 235 cümleyi izler). Alıntı s.
+  235'tedir; 'Kemal aleyhinde bir hareket olmadığı' cümlesi s. 236'dadır.
+verification_note: >-
+  Kelimeler birebir aynı ('Bildiğiniz gibi Anadolu'da Mustafa Kemal Paşa şahsen beni rakib telâkki ise burada
+  temâs samimi ve açık anlatmamıza rağmen hattâ Hâkimiyet-i Milliye ile şimdilik yalnız bana müteveccih bir
+  makâle yazdırdı'). Sayfa düzeltmesi: mektup folyo 234'ten sonra başlıyor, dolayısıyla bu cümle s. 235'tedir
+  (234-235 değil); 'Mustafa Kemal Paşa aleyhinde bir hareket değil ... menfi olan arkadaşları da teskin' s.
+  236'dadır. Kaydın çevirisi kabul edilebilir; parçada 'ise' kelimesi atlanmıştır, bu da cümle tamamlanmamış
+  olduğu halde tamamlanmış gibi görünmesine yol açmaktadır. Enver'in bir müttefike yazdığı kendi mektubu.
+  Çelişkili/1 yerinde.
+verification_method: archive.org djvu indirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fea41fea54fd
+  role: 01ed27cf371a
+  quote: cd1175941954
+  summary: 75f46c0fa498
+  caveat: dae7fe6d909f
+  verification_note: d899c2a0425f
+  verification_method: 0b1464308eaa

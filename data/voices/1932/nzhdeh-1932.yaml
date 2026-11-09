@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nzhdeh-1932
+voice: Garegin Nzhdeh
+voice_type: person
+role: Armenian military commander (Zangezur 1921), political thinker, exile in Bulgaria
+country: Armenia (émigré in Bulgaria)
+country_now: Armenia
+domain: military
+date: "1932"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  Pictures Kemal as drunk with a lucky, accidental victory, his hand bloody, eyeing the Ararat plain from the
+  Araxes and dreaming of ruining it.
+quote:
+  text: >-
+    երբ Քեմալը՝ բախտահաս պատահական յաղթութեամբ գինով, իր արնոտ ձեռքը ագռաւի թեւերին իջեցրած՝ Արաքսի ափէն իր
+    պղտոր հայեացքով Արարատեան դաշտն է չափում, զայն մի օր սեւ հողերի վերածելու երազով.
+  translation: >-
+    when Kemal, drunk with a lucky accidental victory, his bloody hand lowered on the raven's wings, measures
+    the Ararat plain from the bank of the Araxes with his murky gaze, dreaming of one day turning it into
+    black earth.
+  language: hy
+caveat: >-
+  'Ցեղի ոգու շարժը' ('The movement of the race's spirit'); the Wikisource header and footnote say it was
+  printed in Sofia in 1932. Sensitive thread (Armenian genocide memory): recorded as Nzhdeh's own rhetoric in
+  a polemical essay, not as the vault's description of Kemal. Translation (including the figurative 'raven's
+  wings') is the vault's own; check with an Armenian reader. Scan not viewed.
+node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
+sources:
+  - url: https://hy.wikisource.org/wiki/%D5%91%D5%A5%D5%B2%D5%AB_%D5%B8%D5%A3%D5%B8%D6%82_%D5%B7%D5%A1%D6%80%D5%AA%D5%A8
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    hy.wikisource Ցեղի ոգու շարժը (raw wikitext), header footnote 'Տպագրվել է Սոֆիայում, 1932թ.'
+  method: fetched raw page, string match
+  note: >-
+    Armenian verbatim; translation faithful ('ագռաւ' = raven, 'սեւ հողեր' = black earth/lands). Year 1932 only
+    from the Wikisource header. Own polemic, hostile is stated. Sensitive thread: framing in the record is
+    attributed to Nzhdeh, acceptable.
+  checked_on: "2026-11-03"

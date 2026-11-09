@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: yun-daiying-1923-11
+voice: Yun Daiying (惲代英)
+voice_type: person
+role: Communist theorist, writing in Dongfang zazhi
+country: China
+country_now: China
+domain: politics
+date: "1923-11-25"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: article
+evidence: P
+summary: >-
+  Held up Kemal as the general whose army forced Britain and France to yield, and said China needs a Kemal and
+  a Kemal's army.
+quote:
+  text: 中國亦需要一個凱末爾將軍，亦需要一個凱末爾將軍的軍隊啊
+  language: zh
+caveat: >-
+  Wikisource inserts spaces before proper names ('一個 凱末爾將軍'); quote is space-normalised. Dongfang zazhi vol.
+  20 no. 22.
+node: Yun Daiying
+sources:
+  - url: https://zh.wikisource.org/wiki/時論的誤點
+    archived: https://web.archive.org/web/20260129190017/https://zh.wikisource.org/wiki/%E6%99%82%E8%AB%96%E7%9A%84%E8%AA%A4%E9%BB%9E
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource 時論的誤點 (惲代英, Dongfang zazhi 1923 vol.20 no.22, 25 Nov 1923)
+  method: Wikisource parse text, whitespace-normalised
+  note: >-
+    Quote verbatim; earlier paragraph says Kemal's call made Britain/France yield and return Constantinople,
+    so claim supported.
+  checked_on: "2026-10-30"

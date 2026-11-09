@@ -1,0 +1,31 @@
+# Turkish for data/voices/1924/gandhi-1924-03-21.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: gandhi-1924-03-21
+voice: Mahatma Gandhi
+role: Kongre lideri, Poona'da yapılan mülakat
+quote: >-
+  Gandhi, bunun Hindu-Müslüman birliğini etkilemediği karşılığını verdi; ancak bu birliğin eskisi kadar güçlü
+  olmadığını da itiraf etti.
+quote_kind: translated
+summary: >-
+  Kemal'in Halifeyi tahttan indirmesi sorulduğunda, birlik eskisinden daha zayıf olsa da bunun Hindu-Müslüman
+  birliğini etkilemediğini söyledi.
+caveat: >-
+  Gandhi'nin kendi cümlesi değil, mülakatı yapanın Gandhi'den dolaylı aktarımıdır; bizzat Kemal hakkında bir
+  yargı yoktur. Gandhi'nin Mahomed Ali'ye yazdığı 5 Mart 1924 tarihli mektup (CWMG 23, sayı 127) Türk
+  Meclisi'nin kararından söz eder ancak Kemal'den bahsetmez.
+mediated_by: >-
+  Liverpool Post and Mercury muhabirinin günlük kaydı, The Hindu 14 Nisan 1924 ← CWMG c. 23 s. 295
+verification_note: ""
+verification_method: alıntı birebir aynı; şerhte belirtildiği üzere mülakatçının dolaylı aktarımı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6365cc21747b
+  role: 4c5708cd5d7f
+  quote: b82d0583ba1f
+  summary: 70cbddcdb467
+  caveat: b8b9c7aa0100
+  mediated_by: 58f43c8138b7
+  verification_note: da39a3ee5e6b
+  verification_method: 72a4353f8296

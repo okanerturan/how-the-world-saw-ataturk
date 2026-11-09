@@ -1,0 +1,28 @@
+# Turkish for data/voices/1924/modern-review-1924-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: modern-review-1924-07
+voice: The Modern Review
+role: >-
+  Kalküta'da yayımlanan İngilizce aylık dergi (editör Ramananda Chatterjee), editoryal Notlar
+quote: Mustafa Kemal Paşa ülkesini özgür kılmak ve özgür tutmak için savaştı
+quote_kind: translated
+summary: >-
+  Kemal'i haklı bir savaşta şiddet kullanımının ölçüt örneği yaptı: suikastçıların aksine o, ülkesini özgür
+  tutmak için savaşmıştı ve savaşmakta haklıydı.
+caveat: >-
+  Bengal konferansının Gopinath Saha'yı övmesine yönelik bir kınama yazısı içinde savunulmuştur; Kemal karşıt
+  örnek olarak verilmiştir. Yaklaşık s. 115-116.
+verification_note: >-
+  Birebir 'Mustapha Kemal Pasha fought to make and keep his country free and fought successfully. Hence he was
+  right in fighting.' s. 116; bağlam suikastla karşıtlık kurmaktadır.
+verification_method: djvu OCR metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 84251b4a21a5
+  role: 817d0e761017
+  quote: 6cacecded5ea
+  summary: ae253ebda846
+  caveat: 366ff587f7d3
+  verification_note: 78d268b02cf9
+  verification_method: 8f3db4510e6b

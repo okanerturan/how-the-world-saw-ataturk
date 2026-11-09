@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: novosti-1938
+voice: Novosti (Zagreb)
+voice_type: press
+role: Zagreb paper
+country: Yugoslavia
+country_now: Croatia
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  Under 'The Death of the Great Ally' called him Yugoslavia's greatest friend and surest support of
+  Balkan-pact policy.
+quote:
+  text: Atatürk's genius did what a sultanate could not do in five centuries
+  language: en
+mediated_by: Toksoy 2010 §E; Karahasan 1994 as cited
+caveat: Quotations via Toksoy's Turkish; Serbo-Croatian originals not seen.
+node: Yugoslav Press, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt §Yugoslavya: Zagreb Novosti "Büyük Müttefikin Ölümü"
+    "Atatürk'ün dehası, saltanatın beş asırdır yapamadığını yaptı. En büyük dostumuz ve en sadık
+    müttefikimiz... Balkan anlaşmaları politikasının en emin bir desteği idi"
+  method: local
+  note: Translated.
+  checked_on: "2026-10-29"

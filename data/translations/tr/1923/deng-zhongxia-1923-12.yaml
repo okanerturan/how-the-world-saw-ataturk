@@ -1,0 +1,40 @@
+# Turkish for data/voices/1923/deng-zhongxia-1923-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: deng-zhongxia-1923-12
+voice: Deng Zhongxia
+role: Erken dönem Çinli komünist ve işçi hareketi lideri (Zhongguo Qingnian'da yazan)
+quote: Türkiye'nin devriminde, Kemal ve diğerlerinin köylülerden gördüğü yardım az değildi.
+quote_kind: translated
+summary: >-
+  Köylülerin devrim yaptığının kanıtı olarak Kemal'in Türk devrimini örnek gösterir: Kemal 've diğerleri'
+  köylülerden çok yardım almış, bütün ülke onun peşinden gitmiştir.
+caveat: >-
+  Zhongguo Qingnian sayı 11, 中夏 imzalı, 29 Aralık 1923 tarihli (Wikisource notu), Wikisource sayfası '論農民運動'
+  olarak kaynak gösterilmiştir. 'Köylü Hareketi Üzerine' (论农民运动) başlıklı yazıdan, basitleştirilmiş
+  karakterlerle Wikisource transkripsiyonu; sayfa üstbilgisi yazarı 鄧中夏 olarak verir ve notlar alanı
+  1923-12-29 tarihini ve özgün yayın yerini (Zhongguo Qingnian sayı 11) belirtir. Yazının ilerleyen
+  kısımlarında, serflik olmadığı halde Yunan ordusunu boğazların ötesine sürmek için neden 'bütün ülkenin
+  Milliyetçi Parti lideri Kemal'in peşinden gittiğini' sorar: 'neden Türkiye'de de serflik yoktu ama yine de
+  bütün ülke ... Kemal'in peşinden gitti'. Kemal yazının konusu değil, bir argümandır; 基玛尔 olarak yazılmıştır.
+  Köylü hareketine katılım çağrısı yapan bir argümanda araçsal kullanım.
+verification_note: >-
+  Alıntı basitleştirilmiş karakterlerle birebir aynı: '俄国的革命,列宁等得农民的帮助不小;土耳其的革命,基玛尔等得农民的帮助不小。' (kayıt yalnızca
+  ilgili cümleciği kullanıyor; önceki Lenin cümleciği bunun paralelidir). Üstbilgi: yazar 鄧中夏, notlar
+  1923年12月29日; altbilgi '原载《中国青年》第11期 署名:中夏'. Dolayısıyla sayı 11 ve tarih sayfanın iki farklı alanından
+  gelmektedir; ikisi de mevcuttur. 20 Ekim 1923'ten başlayan haftalık numaralandırma, 29 Aralık'taki sayı 11
+  ile tutarlıdır. Daha sonraki '全国都跟着国民党首领基玛尔起来革命,把希腊军队驱渡君士但丁海峡' pasajı mevcuttur. Çeviri sadık; araçsal / 1
+  uygun; what_they_saw 23 kelime; çağdaş dönem doğru. Şema tamam. Küçük ayrıntı: çekince notu yayın yerini
+  notlar alanının verdiğini söylüyor; aslında altbilgidedir.
+verification_method: >-
+  User-Agent ve 8 sn bekleme ile action=raw alındı, Çince alıntının tam eşleşmesi yapıldı, üstbilgi ve
+  altbilgi okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 08dbae7b010f
+  role: 7c4aed960568
+  quote: 0ca1f881a05d
+  summary: 7fe82738318a
+  caveat: 4cf532435c58
+  verification_note: 0d6b3a62fe38
+  verification_method: 849a04032c2f

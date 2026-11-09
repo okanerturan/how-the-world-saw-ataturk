@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sokolnicki-1938
+voice: Michał Sokolnicki (presumed)
+voice_type: person
+role: Polish ambassador in Ankara
+country: Poland
+country_now: Poland
+domain: diplomacy
+date: "1938-11"
+era: funeral
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: S
+summary: >-
+  Told Express Poranny that under Atatürk Turkey had resumed its role as the Near East's key and balanced
+  Eastern Europe.
+mediated_by: Toksoy 2006 ← Turkish press digests (Ayın Tarihi Nov 1938, Ulus, Akşam)
+caveat: Identification as Michał Sokolnicki is the note's inference; Toksoy spells 'Sokolniski'.
+node: Warsaw Compares Him to Washington, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt sec. Polonya ('Ankara Buyukelcisi Sokolniski, Exspress
+    Poranny')
+  method: local
+  note: >-
+    Ambassador's name spelled Sokolniski; identification as Michal Sokolnicki is inference (plausible,
+    ambassador in Ankara 1936-39).
+  checked_on: "2026-10-29"

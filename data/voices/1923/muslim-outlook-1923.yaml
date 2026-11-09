@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: muslim-outlook-1923
+voice: Muslim Outlook
+voice_type: press
+role: Lahore newspaper
+country: British India
+country_now: Pakistan
+domain: press
+date: "1923-11-23"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  Captured Lausanne celebrations in Delhi mixed with nervousness that the caliphate seemed absent from Turkish
+  nationalists' future.
+mediated_by: Zaman (Brill ch.)
+node: Khilafat Disillusion, 1924
+sources:
+  - url: https://ora.ox.ac.uk/objects/uuid:bf4cf9f8-0d86-41d8-9213-752ace9be015/files/sr781wh913
+    archived: https://web.archive.org/web/20251206161359/https://ora.ox.ac.uk/objects/uuid:bf4cf9f8-0d86-41d8-9213-752ace9be015/files/sr781wh913
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://ora.ox.ac.uk/objects/uuid:bf4cf9f8-0d86-41d8-9213-752ace9be015/files/sr781wh913 (Zaman chapter,
+    text at fn.126)
+  method: fetch
+  note: >-
+    Chapter attributes the Delhi celebration/nervousness to Muslim Outlook 23 Nov 1923 via fn.126; the paper
+    itself not seen.
+  checked_on: "2026-10-29"

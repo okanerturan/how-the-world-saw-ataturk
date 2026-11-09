@@ -1,0 +1,35 @@
+# Turkish for data/voices/2022/rutte-2022-03-22-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rutte-2022-03-22-book
+voice: Mark Rutte
+role: Hollanda Başbakanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Mustafa Kemal Atatürk'ün hatırasını onurlandırmak için yeni bir fırsatla Anıtkabir'e geri geldiğim için
+  ayrıcalıklı hissediyorum.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ün hatırasını onurlandırmak üzere Anıtkabir'e tekrar gelmekten ayrıcalıklı hissettiğini belirtir;
+  yazının geri kalanı Hollanda-Türkiye ilişkileri hakkındadır.
+caveat: >-
+  İngilizce yazılmış bir metnin Türkçe çevirisi (İngilizce). TürkInfo.nl ve İktibas Dergisi aynı AA metnini
+  yayımlamaktadır. 'Geri geldiğim' ifadesi daha önce de orada bulunduğunu gösterir. NATO Genel Sekreteri
+  olarak Rutte, 25 Kasım 2024'te Anıtkabir'i tekrar ziyaret etmiştir (Akşam, AA), ancak defter metni
+  bulunamamıştır.
+mediated_by: TürkInfo.nl ve İktibas Dergisi (AA), 22 Mart 2022 (maddenin Türkçe çevirisi)
+verification_note: >-
+  Alıntı birebir aynı, iki cümleden ilki; tarih doğru. TürkInfo kaynak olarak AA'yı gösteriyor; İktibas kaynak
+  belirtmeden aynı metni veriyor: tek kaynak. Araçsal/1 yerinde.
+verification_method: >-
+  atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0ba0eb1178c4
+  role: aebeb71bbdf9
+  quote: "556057598224"
+  summary: 8f2cb3051987
+  caveat: dd8bc3d56443
+  mediated_by: 2bfdee498ad0
+  verification_note: "725412239280"
+  verification_method: 8505ab605bfa

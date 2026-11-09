@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pittard-1937
+voice: Eugène Pittard
+voice_type: person
+role: >-
+  Geneva anthropologist and professor, spokesman of the foreign scholars at the 2nd Turkish History Congress
+country: Switzerland
+country_now: Switzerland
+domain: science
+date: "1937-10"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: S
+summary: >-
+  Speaking for foreign scholars before the President, praises the Turkish History Society's energy as matching
+  'the builder of the country', the Republic's glorious architect.
+quote:
+  text: >-
+    Son énergie va de pair avec celle du constructeur même du pays, de l'édificateur glorieux de la
+    République. [translation: Its energy goes hand in hand with that of the very builder of the country, the
+    glorious architect of the Republic.] … Au nom des savants étrangers réunis ici, j'adresse mes hommages
+    respectueux à Monsieur le Président de la République Turque, chef suprême de cet Etat.
+  translation: >-
+    In the name of the foreign scholars gathered here, I address my respectful homage to the President of the
+    Turkish Republic, supreme head of this State.
+  needs_split: true
+  language: fr
+mediated_by: La Turquie kémaliste (Turkish Press Directorate) translation
+caveat: >-
+  Published in La Turquie kémaliste, the illustrated review of the Turkish Press Directorate (Direction
+  Générale de la Presse, Ministry of the Interior), a Kemalist state propaganda venue that chose and printed
+  (and for some items translated) what it ran; read in the OCR of archive.org item la_turquie_kemaliste.
+  'Allocution de M. Eugène Pittard, professeur à l'Université de Genève, au nom des savants étrangers',
+  printed in the double issue no. 21-22 (header 'Décembre 1937'), reproducing his address at the 2nd Turkish
+  History Congress, which the same issue says opened on 20 October 1937 at Dolmabahçe in Atatürk's presence;
+  the exact day of the address is not printed, so the date is month-only. Atatürk is not named in the quoted
+  lines: the referents are 'le constructeur du pays' and 'Monsieur le Président de la République', i.e.
+  Atatürk, who was present (the issue's own report). Pittard also says he was 'témoin objectif — et non pas le
+  thuriféraire' of a Turkish effort of 36 years' acquaintance. A diplomatic speech of thanks to a host: the
+  praise is partly occasion. Page not shown in the OCR. Cited as La Turquie kémaliste no. 21-22 (December
+  1937), 'Allocution de M. Eugène Pittard'.
+node: La Turquie kémaliste 1935–1938 — Haşim, Wright, Pittard, Ireland and Belge
+sources:
+  - url: https://archive.org/details/la_turquie_kemaliste
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org la_turquie_kemaliste 21-22_djvu.txt (no. 21-22, Décembre 1937)
+  method: fetched djvu text, string match, read context
+  note: >-
+    Both passages verbatim. Referent is clear: the address opens 'Monsieur le Président de la République', the
+    same issue reports the congress opened 20 Oct 1937 'en présence d'Atatürk', and the second quote is the
+    explicit homage to 'Monsieur le Président de la République Turque, chef suprême de cet Etat'; but Atatürk
+    is never named in the address, so say so in the caveat (already done). Courtesy speech: 'instrumental'
+    would be as defensible as admiring. Date 1937-10 acceptable (address on the opening day).
+  checked_on: "2026-11-03"

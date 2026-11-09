@@ -1,0 +1,43 @@
+# Turkish for data/voices/1924/vahideddin-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: vahideddin-1924
+voice: VI. Mehmed Vahideddin
+role: Son Osmanlı Padişahı, San Remo'da sürgünde; Şerif Paşa'nın tuttuğu notlar
+quote: >-
+  Bildiğiniz gibi Mustafa Kemal Paşa'yı Anadolu'ya biz gönderdik ve o açık bir şekilde bize isyan etti.
+quote_kind: original-turkish
+summary: >-
+  Kemal'in Anadolu'ya saray tarafından gönderildiğini ve açıkça isyan ettiğini; ne Damad Ferid'in ne de Tevfik
+  Paşa'nın onu hizaya getirebildiğini söyler.
+caveat: >-
+  Bardakçı'nın belgeler bölümündeki Belge 2: San Remo'daki özel görüşmelere (1924-25) dair Şerif Paşa'nın
+  Fransızca kaydının bazı kısımlarının Türkçe çevirisi; yıl, bu aralığın başlangıcıdır. Aynı notlar Kemal'in
+  'farklı rollerini' (hareketin başında kalmak için ülke savunmasının arkasına saklanmak, saraya karşı
+  propaganda yürütmek, sarayı yabancı para almakla suçlamak) sıralar ve bu suçlamaları 'yalanlar' olarak
+  nitelendirir. Bardakçı cümleyi metin içinde de (s. 215) biraz farklı sözcüklerle 'hatıralarından' diyerek
+  alıntılar. Padişah'ın kendi metni değil, bir saray mensubunun kaydıdır; Belge 2'nin kitaptaki sayfa numarası
+  OCR'da okunamamaktadır.
+mediated_by: >-
+  Şerif Paşa'nın Vahideddin ile görüşmelerine dair Fransızca notları (1924-25) ← Bardakçı 2006, Belge 2
+verification_note: >-
+  s. 442'de (varak 441 ile 442 arasında) birebir mevcut: 'Bildiğiniz gibi Mustafa Kemal Paşa'yı Anadolu'ya biz
+  gönderdik ve o açık bir şekilde bize isyan etti. Damad Ferid Paşa günün birinde onu görevden almak ve aklını
+  başına getirtmek istedi ama başaramadı. ... Tevfik Paşa'yı vazifeye çağırdım ama o da aynı şekilde başarısız
+  oldu.' Belge 2 girişi: Şerif Paşa'nın FRANSIZCA belgesinin (San Remo'da özel görüşmeler, 1924-25) kısmi
+  Türkçe çevirisi ve metin 'Konuşmaya yeniden başlayan Zât-ı Şahâne şunları söyledi' ifadesiyle sunuluyor;
+  yani bir saray mensubunun kaydının çevirisidir. s. 215'teki ana metin versiyonu ifade bakımından farklıdır
+  (kontrol edildi) ve metin içinde 'hatıralarında' denmesine rağmen dipnotunda 'Şerif Paşa notları'
+  yazmaktadır. Kanıt düzeyi S doğrudur; belge türü olarak 'hatırat' gevşek bir adlandırmadır (görüşme
+  notları); 1924 tarihi = aralığın başlangıcı.
+verification_method: archive.org djvu indirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 27985884d598
+  role: bac5a329c4e8
+  quote: c1017083da7b
+  summary: e65f829b204f
+  caveat: 245cf70fc3dc
+  mediated_by: c2ea8c8ae2c8
+  verification_note: 467bdf0ec561
+  verification_method: 0b1464308eaa

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: modern-review-1924-10
+voice: The Modern Review
+voice_type: press
+role: Calcutta English monthly (editor Ramananda Chatterjee), editorial Notes
+country: British India
+country_now: India
+domain: press
+date: "1924-10"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Cited Kemal's silence toward the Central Khilafat Committee to argue that foreign Muslims never gave Indian
+  Muslims special consideration, so Indians should stress Indian ties.
+quote:
+  text: >-
+    When a long telegram was sent to Ghazi Kemal Pasha in reply to his telegraphic explanation of the reasons
+    for the abolition of the Caliphate in Turkey, he did not even acknowledge or answer it.
+  language: en
+caveat: >-
+  Unsigned Notes; the claim that Kemal never replied is the Modern Review's own assertion. Pages c. 471-472.
+node: The Modern Review on Kemal, 1923–1924
+sources:
+  - url: https://archive.org/details/dli.calcutta.09832
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA dli.calcutta.09832 Modern Review Oct 1924 djvu text, c. p.472
+  method: >-
+    quote verbatim; surrounding argument (foreign Muslims gave Indian Muslims no special consideration)
+    supports what_they_saw
+  checked_on: "2026-10-29"

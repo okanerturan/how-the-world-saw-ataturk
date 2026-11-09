@@ -1,0 +1,27 @@
+# Turkish for data/voices/1928/sukarno-1928-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sukarno-1928-12
+voice: Sukarno
+role: PNI başkanı, milliyetçi yazar
+quote: Mustafa Kemal Paşa da dememiş midir ki, bizim bağımsızlığımız, milliyetimiz, gücümüz
+quote_kind: translated
+summary: >-
+  Kadınlar kongresi için kaleme aldığı bir yazıda, ulusal özgürlüğün kadınların ne kadar iyi eğitildiğine
+  bağlı olduğu konusunda bir otorite olarak Kemal'e başvurdu.
+caveat: >-
+  'Kongres Kaum Ibu', Suluh Indonesia Muda 1928, Aralık 1928'de Yogyakarta'da düzenlenen kadınlar kongresi
+  için yazılmıştır. Atfedilen söz için Sukarno tarafından kaynak gösterilmemiştir. Archive.org yaprak n124.
+verification_note: >-
+  Birebir aynı (OCR'da bagus yerine 'baqus'); Aralık 1928 Yogyakarta kadınlar kongresi için yazılan yazıda;
+  otorite olarak Kemal'e başvurulması örtüşüyor.
+verification_method: djvu OCR metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 252b8547a012
+  role: 6f01431b7d51
+  quote: 2815bd08616d
+  summary: 6fd9d0d7c28f
+  caveat: d192826b156a
+  verification_note: 2f64bd50d4f1
+  verification_method: 8f3db4510e6b

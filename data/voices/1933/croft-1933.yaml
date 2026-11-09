@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: croft-1933
+voice: Sir H. Croft MP
+voice_type: person
+role: Member of the Commons, Indian Constitutional Reform debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1933-03-29"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Cited Kemal ending Turkey's democratic institutions after two years as evidence against democracy in Asia
+  and so against Indian reform.
+quote:
+  text: Mustapha Kemal put an end to them at the end of two years.
+  language: en
+node: Westminster on the Turkish Dictator, 1924–1938
+sources:
+  - url: https://hansard.parliament.uk/Commons/1933-03-29/debates/9d643c7d-3a22-4bf0-bdcf-a46ccfe5de4c/IndianConstitutionalReform
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard.parliament.uk/Commons/1933-03-29/debates/9d643c7d-3a22-4bf0-bdcf-a46ccfe5de4c
+    (contribution 8604a378-e3ea-4ca1-80e5-a83c429c2c41, Sir H. CROFT)
+  method: api
+  checked_on: "2026-10-29"

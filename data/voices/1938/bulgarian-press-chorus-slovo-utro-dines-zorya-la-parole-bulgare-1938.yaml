@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bulgarian-press-chorus-slovo-utro-dines-zorya-la-parole-bulgare-1938
+voice: Bulgarian press chorus (Slovo, Utro, Dines, Zorya, La Parole Bulgare)
+voice_type: press
+role: Bulgarian dailies
+country: Bulgaria
+country_now: Bulgaria
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  A press chorus mourned him; one headline said the world is less interesting after his death.
+quote:
+  text: >-
+    After the death of this exceptional and Great Man, the world is not as interesting as it used to be.
+  language: en
+mediated_by: Toksoy 2010 ← Turkish press; Tatarlı 'Bulgar Basınında Atatürk'
+caveat: Headline not attributed to a specific paper in the note.
+node: Bulgarian Mourning, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt (Bulgar basini, headline 'Bu mustesna ve Buyuk Adamin
+    Olumunden Sonra Dunya Eskisi Kadar Enteresan Degildir')
+  method: local
+  note: >-
+    Headline is attributed to 'Bulgar gazeteleri' generally; Slovo, Utro, Dness, Zora, La Parole Bulgare each
+    appear in the section
+  checked_on: "2026-10-29"

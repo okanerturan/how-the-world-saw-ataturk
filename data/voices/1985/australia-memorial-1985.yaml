@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: australia-memorial-1985
+voice: Australia (Atatürk Memorial, Canberra)
+voice_type: institution
+role: Australian state and Anzac memory
+country: Australia
+country_now: Australia
+domain: diplomacy
+date: "1985-04-25"
+era: posthumous
+polarity: instrumental
+intensity: 3
+mirror: chivalrous-enemy
+artifact: monument
+evidence: S+F+J
+summary: >-
+  Raised the Atatürk Memorial on Anzac Parade, installing a respectful Atatürk at its sacred sites as a basis
+  for friendship with Turkey.
+quote:
+  text: >-
+    There is no difference between the Johnnies and the Mehmets to us where they lie side by side here in this
+    country of ours…
+  language: en
+caveat: >-
+  The carved text is a composite; its attribution to Atatürk is not established (Honest History: the
+  Johnnies-and-Mehmets clause was added in Australia in 1978). Memorial unveiled 25 Apr 1985 per Honest
+  History's 1984-85 account.
+node: Johnnies and Mehmets
+sources:
+  - url: https://honesthistory.net.au/wp/stephens-david-johnnies-and-mehmets-kemal-ataturks-quote-is-an-anzac-confidence-trick/
+    archived: https://web.archive.org/web/20260508090213/https://honesthistory.net.au/wp/stephens-david-johnnies-and-mehmets-kemal-ataturks-quote-is-an-anzac-confidence-trick/
+  - url: https://honesthistory.net.au/wp/ankara-calling-the-rush-to-build-the-ataturk-memorial-in-anzac-parade-canberra-1984-85/
+    archived: https://web.archive.org/web/20251207010237/https://honesthistory.net.au/wp/ankara-calling-the-rush-to-build-the-ataturk-memorial-in-anzac-parade-canberra-1984-85/
+  - url: https://en.wikipedia.org/wiki/Kemal_Atat%C3%BCrk_Memorial,_Canberra
+    archived: https://web.archive.org/web/20260206095416/https://en.wikipedia.org/wiki/Kemal_Atat%C3%BCrk_Memorial,_Canberra
+verification:
+  verdict: partial
+  checked_against: >-
+    https://honesthistory.net.au/wp/stephens-david-johnnies-and-mehmets-kemal-ataturks-quote-is-an-anzac-confidence-trick/;
+    reubensilverman.wordpress.com page is about Sukru Kaya, irrelevant
+  method: fetch
+  note: >-
+    Honest History confirms the 'Those heroes' words, with Australian-added Johnnies-and-Mehmets clause
+    (1978), are not demonstrably Ataturk's. It does not show the 1985 Canberra memorial, its 25 Apr 1985 date
+    or that exact 'There is no difference...' wording; second listed source is wrong page
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

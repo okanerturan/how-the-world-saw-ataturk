@@ -1,0 +1,93 @@
+#!/bin/bash
+# Monid-through-InFlow wrapper for the census. Every paid web call goes through here.
+#   ms search "query" [max_results=10] [snippet_len=1500]   Keenable search      $0.004
+#   ms exa "query" [numResults=10]                           Exa neural search    $0.007
+#   ms google "query" [tbm]   (tbm=bks for Google Books)      SerpApi Google       $0.015
+#   ms fetch URL [URL...]  (max 10)                          tinyfish full text   free
+#   ms render URL                                            context.dev JS page  $0.002
+#   ms shot URL OUT.png                                      rendered screenshot  $0.002
+#   ms browse URL "goal" [max_steps=15] [stealth]            tinyfish AI browser  $0.016/STEP (cap!)
+# Rules (Okan's InFlow note): one InFlow call at a time on the whole Mac, so every call holds
+# /tmp/inflow.lock; on ANY InFlow error write the STOP flag and exit 99, and refuse all later calls
+# until a human clears it. Never run this in the background or leave a call in flight.
+DIR="$(cd "$(dirname "$0")" && pwd)"
+STATE="$DIR/.state"; mkdir -p "$STATE"
+STOP="$STATE/INFLOW_STOP"
+LOG="$STATE/spend.log"
+if [ -f "$STOP" ]; then echo "INFLOW STOPPED: $(cat "$STOP") -- do not retry, report to the main agent" >&2; exit 99; fi
+
+cmd="$1"; shift
+case "$cmd" in
+  search)
+    q="$1"; n="${2:-10}"; s="${3:-1500}"; cost=0.004
+    payload=$(jq -nc --arg q "$q" --argjson n "$n" --argjson s "$s" \
+      '{provider:"keenable",endpoint:"/v1/search",input:{body:{query:$q,max_results:$n,snippet_max_length:$s}}}') ;;
+  exa)
+    q="$1"; n="${2:-10}"; cost=0.007
+    payload=$(jq -nc --arg q "$q" --argjson n "$n" \
+      '{provider:"exa",endpoint:"/search",input:{body:{query:$q,numResults:$n,contents:{highlights:{numSentences:3,highlightsPerUrl:2},text:{maxCharacters:1500}}}}}') ;;
+  google)
+    q="$1"; cost=0.015
+    payload=$(jq -nc --arg q "$q" --arg t "${2:-}" \
+      '{provider:"serpapi",endpoint:"/google/search",input:{queryParams:({q:$q} + (if $t=="" then {} else {tbm:$t} end))}}') ;;
+  fetch)
+    cost=0
+    payload=$(jq -nc --args '{provider:"tinyfish",endpoint:"/free/fetch",input:{body:{urls:$ARGS.positional,per_url_timeout_ms:60000}}}' "$@") ;;
+  render)
+    cost=0.002
+    payload=$(jq -nc --arg u "$1" '{provider:"context.dev",endpoint:"/web/scrape",input:{body:{url:$u,formats:{markdown:true}}}}') ;;
+  shot)
+    cost=0.002; SHOT_OUT="$2"
+    payload=$(jq -nc --arg u "$1" '{provider:"context.dev",endpoint:"/web/scrape",input:{body:{url:$u,formats:{screenshot:true}}}}') ;;
+  browse)
+    steps="${3:-15}"; [ "$steps" -gt 40 ] && { echo "refusing >40 steps without main-agent approval" >&2; exit 2; }
+    prof="lite"; [ "$4" = "stealth" ] && prof="stealth"
+    cost=$(python3 -c "print(round(0.016*$steps,3))")
+    payload=$(jq -nc --arg u "$1" --arg g "$2" --argjson n "$steps" --arg p "$prof" \
+      '{provider:"tinyfish",endpoint:"/automation/run",input:{body:{url:$u,goal:$g,max_steps:$n,max_duration_seconds:600,browser_profile:$p}}}') ;;
+  *) echo "usage: ms search|exa|google|fetch|render|shot|browse ..." >&2; exit 2 ;;
+esac
+
+until mkdir /tmp/inflow.lock 2>/dev/null; do sleep 2; done
+out=$(inflow aep fetch https://api.monid.ai/v1/run --method POST --format json --data "$payload" 2>&1); rc=$?
+rmdir /tmp/inflow.lock
+
+inner=$(echo "$out" | python3 "$DIR/msparse.py"); prc=$?
+if [ $rc -ne 0 ] || [ $prc -ne 0 ]; then
+  echo "$(date -u +%FT%TZ) rc=$rc $cmd: $(echo "$out" | head -c 400)" > "$STOP"
+  echo "INFLOW ERROR (stop flag set, do not retry): $(echo "$out" | head -c 800)" >&2
+  exit 99
+fi
+status=$(echo "$inner" | python3 -c 'import sys,json;print(json.loads(sys.stdin.read(),strict=False).get("status","?"))' 2>/dev/null)
+# Async runs (browse): poll until terminal, releasing the lock between polls (max ~20 min).
+if [ "$status" = "RUNNING" ] || [ "$status" = "PENDING" ] || [ "$status" = "QUEUED" ]; then
+  run=$(echo "$inner" | python3 -c 'import sys,json;print(json.loads(sys.stdin.read(),strict=False)["runId"])')
+  echo "async run $run started; polling..." >&2
+  for i in $(seq 1 60); do
+    sleep 20
+    if [ -f "$STOP" ]; then echo "INFLOW STOPPED while polling $run" >&2; exit 99; fi
+    until mkdir /tmp/inflow.lock 2>/dev/null; do sleep 2; done
+    out=$(inflow aep fetch "https://api.monid.ai/v1/runs/$run" --method GET --format json 2>&1); rc=$?
+    rmdir /tmp/inflow.lock
+    inner=$(echo "$out" | python3 "$DIR/msparse.py")
+    if [ $rc -ne 0 ] || [ -z "$inner" ]; then
+      echo "$(date -u +%FT%TZ) rc=$rc poll $run: $(echo "$out" | head -c 400)" > "$STOP"
+      echo "INFLOW ERROR while polling (stop flag set)" >&2; exit 99
+    fi
+    status=$(echo "$inner" | python3 -c 'import sys,json;print(json.loads(sys.stdin.read(),strict=False).get("status","?"))' 2>/dev/null)
+    case "$status" in RUNNING|PENDING|QUEUED) continue ;; *) break ;; esac
+  done
+  billed=$(echo "$inner" | python3 -c 'import sys,json;print(json.loads(sys.stdin.read(),strict=False).get("billedUnits",0))' 2>/dev/null)
+  cost=$(python3 -c "print(round(0.016*${billed:-0},3))")
+fi
+echo "$(date -u +%FT%TZ) $cost $cmd $status ${1:0:80}" >> "$LOG"
+if [ "$status" != "COMPLETED" ]; then echo "PROVIDER ERROR (not InFlow; may try another engine): $(echo "$inner" | head -c 600)" >&2; exit 3; fi
+case "$cmd" in
+  search) echo "$inner" | jq '[.output.results[] | {title, url, published_at, snippet}]' ;;
+  exa)    echo "$inner" | jq '.output | (.results // .data.results // .) | if type=="array" then [.[] | {title, url, publishedDate, text: ((.text // .summary // "")[:1500])}] else . end' ;;
+  google) echo "$inner" | jq '.output | [(.organic_results // [])[] | {title, link, snippet, date: (.date // null)}]' ;;
+  fetch)  echo "$inner" | jq '.output' ;;
+  render) echo "$inner" | jq -r '.output.markdown // .output.data.markdown // .output.data // .output' ;;
+  shot)   echo "$inner" | jq -r '.output.screenshot // .output.data.screenshot' | sed 's/^data:image\/[a-z]*;base64,//' | base64 -d > "$SHOT_OUT" && echo "saved $SHOT_OUT" ;;
+  browse) echo "$inner" | jq '{status: .output.status, steps: (.output.num_of_steps // null), result: (.output.result // .output)}' ;;
+esac

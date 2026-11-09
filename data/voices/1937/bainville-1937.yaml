@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bainville-1937
+voice: Jacques Bainville
+voice_type: person
+role: French historian; Dictators in English translation by J. Lewis May
+country: France
+country_now: France
+domain: letters
+date: "1937"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Ranks Kemal the most curious and original of the dictators, admires the scale of change but mocks its speed
+  and his showmanship.
+quote:
+  text: He turns out reforms as if they were being reeled off a film.
+  language: en
+caveat: >-
+  English text by translator (Cape, 1937); original French date not checked; scan OCR is poor in places.
+  Chapter pp. 196-205, quote p. 201.
+node: Jacques Bainville
+sources:
+  - url: https://archive.org/details/JacquesBainvilleDictators?q=reeled+off+a+film
+  - url: https://archive.org/download/JacquesBainvilleDictators/JacquesBainvilleDictators_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org JacquesBainvilleDictators_djvu.txt ('reeled off a film'; 'most curious and most original
+    figure')
+  method: fetch
+  checked_on: "2026-10-29"

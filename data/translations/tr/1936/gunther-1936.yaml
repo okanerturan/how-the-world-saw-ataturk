@@ -1,0 +1,48 @@
+# Turkish for data/voices/1936/gunther-1936.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: gunther-1936
+voice: John Gunther
+role: Amerikalı dış haberler muhabiri; Inside Europe kitabının yazarı
+quote: Kamal Atatürk diktatörlerin kabadayısıdır.
+quote_kind: translated
+summary: >-
+  Atatürk'e 'diktatörlerin kabadayısı' (Hitler'e muhallebi çocuğu, Mussolini'ye züppe) der; onu yine de
+  çürümüş bir ulusu yeniden yaratan psikopat bir vatansever olarak tanımlar.
+caveat: >-
+  Bölüm XXXI 'The Turkish Colossus', s. 418-423, Hamish Hamilton gözden geçirilmiş resimli baskısı (1938
+  taraması, DLI in.ernet.dli.2015.13600; alıntılanan cümle s. 419'dadır). İlk baskı Ocak 1936: bölümdeki
+  'Father of Turks' cümlesinin 1936 basımında yer aldığı yalnızca archive.org kitap içi arama parçacığıyla
+  (insideeurope00gunt, ödünç nüsha) doğrulandığından, okunan metin 1938 metnidir. Aynı bölümde: 'The blond,
+  blue-eyed combination of patriot and psychopath who is dictator of Turkey'; 'Kamal Ataturk, who strides the
+  Turkish landscape like a colossus'; 'This man ... resembles no one so much as Peter the Great'; ve s.
+  422'de, 'Other people have created nations. Kamal's job was harder.' Ayrıca 1926 idamlarını ve tokatlanan
+  Mısır elçisini sayar ve padişah ile halifeyi kovmasının 'it is no tribute to Kamal' olduğunu söyler.
+  Gunther'ın anekdotları (idamların gecesindeki şampanya partisi, tokat olayı) kendi röportaj aktarımlarıdır
+  ve burada doğrulanmamıştır. Cümle, 3 Kasım 2026 tarihli archive.org tam metin aramasının gösterdiği üzere
+  1936 ilk basımında (Harper, New York; archive.org insideeurope00gunt, ödünç nüsha) ve diğer dört 1936
+  nüshasında yer almaktadır; atıf yapılan sayfalar tamamı okunan 1938 gözden geçirilmiş baskısındandır.
+verification_note: >-
+  Alıntı 1938 metninde s. 419'da ('Kamal Ataturk is the roughneck of dictators. Beside him. Hitler is a
+  milksop, Mussolini a perfumed dandy') birebir mevcut ve atıf yapılan diğer satırlar da orada ('centuries
+  deep in rot' ifadesi 'rotten' özetini destekliyor). Ancak Ocak 1936 ilk baskısında yer aldığı
+  GÖSTERİLMEMİŞTİR: 1938 bölümü gözden geçirilmiştir (Haziran 1936 Montrö'den söz eder) ve tek '1936' atfı
+  yanlış sayfa numarası (s. 96) veren bloglardır. DÜZELTME: kaydı okunan baskıya (1938, gözden geçirilmiş)
+  tarihleyin ya da 'ilk yayımı 1936; satır 1938 revizyonunda görüldü' şeklinde ihtiyat payı bırakın; bölüm s.
+  417-424'ü değil s. 418-423'ü kapsıyor (Polonya 424'te başlıyor); yoğunluk 3 (devlet biçimlendirici) yerine 2
+  (sürekli ilgi, bir bölüm) olmalı. EK İNCELEME 2026-11-03 (ana ajan): archive.org tam metin araması
+  (services/search/beta/page_production, fts), insideeurope00gunt (Harper 1936) ve diğer dört 1936 nüshasından
+  'Kamal Ataturk is the roughneck of dictators. Beside him, Hitler is a milksop' cümlesini döndürdü; tarih
+  yeniden 1936 yapıldı.
+verification_method: >-
+  djvu metnini curl ile çekme + 1 arama (yalnızca Ermeni diasporası blogları 'written in 1936, p. 96'
+  iddiasında bulunuyor)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 218e96bbf0d6
+  role: 8e77c8093a89
+  quote: 1ce69d0eb52a
+  summary: 38ecd5505959
+  caveat: 455987f8dce7
+  verification_note: 379be5caf43d
+  verification_method: 7d1297de45c2

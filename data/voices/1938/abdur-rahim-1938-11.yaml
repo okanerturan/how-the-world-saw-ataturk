@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abdur-rahim-1938-11
+voice: Sir Abdur Rahim
+voice_type: person
+role: President of the Central Legislative Assembly
+country: British India
+country_now: India
+domain: politics
+date: "1938-11-14"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  As President, allows the unusual condolence for a foreign ruler: Kemal's influence on Asia has 'no parallel
+  in the history of modern times'.
+quote:
+  text: >-
+    Kemal Ataturk not only saved Turkey from political annihilation by his military genius, but as a
+    far-seeing statesman he laid a new foundation, a very strong foundation for the national life of his
+    people
+  language: en
+caveat: >-
+  Legislative Assembly Debates, vol. VII (Government of India Press, Delhi 1938), 14 Nov 1938, p. 2957.
+  Official report digitised by the Lok Sabha Secretariat / Government of India Press, via archive.org OCR. He
+  adjourned the House as a mark of respect once Nripendra Sircar and Desai agreed, and promised to convey
+  sympathy to Ismet Inonu. Text read from the OCR of the official report; obvious OCR slips are silently
+  corrected in the quote.
+node: >-
+  Indian Legislative Assembly Mourns Kemal, 14 November 1938 — Desai, Nairang, Aney, Aikman, Zafar Ali Khan
+  and Sir Abdur Rahim
+sources:
+  - url: https://archive.org/download/in.ernet.dli.2015.13994/2015.13994.The-Legislative-Assembly-Debates--vol-vii-Th-1938_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Legislative Assembly Debates vol. VII (in.ernet.dli.2015.13994), 14 Nov 1938, p. 2957; speaker header 'Mr.
+    President (The Honourable Sir Abdur Rahim)'
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim (OCR 'horn' = from). 'No parallel in the history of modern times' present. Adjournment
+    after Sircar and Desai agree, and promise to convey sympathy to Ismet Inonu, confirmed. As President
+    speaking in the chair, still a stated own view; fair.
+  checked_on: "2026-11-03"

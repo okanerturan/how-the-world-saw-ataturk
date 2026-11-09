@@ -1,0 +1,41 @@
+# Turkish for data/voices/1990/hawke-1990.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hawke-1990
+voice: Bob Hawke
+role: Avustralya Başbakanı (1983–1991)
+quote: >-
+  tarihin Kemal Atatürk olarak tanıdığı bir Kader Adamı'nın, Mustafa Kemal'in yılmaz liderliğinden ilham
+  alarak vatanlarının savunmasında ölen.
+quote_kind: translated
+summary: >-
+  75. yıldönümünde Lone Pine'da, hayatını kaybeden Türkleri bir 'Kader Adamı' olan Kemal Atatürk'ün
+  liderliğinden ilham alan kişiler olarak onurlandırır.
+caveat: >-
+  Tutanak metninin OCR halidir (isim 'Mustaf a Kemal' olarak basılmıştır; boşluk tutanağa aittir). İki gün
+  önceki Ankara akşam yemeği konuşmasında (PM Transcripts 8008, 23 Nisan 1990, bozuk OCR) Hawke ondan Gelibolu
+  savunması 'demonstrated the singular qualities of leadership' olan 'the great Mustapha Kema[l] Ataturk' diye
+  söz eder ve 'written by Ataturk' olan 1934 tarihli anma mesajının 'complete reconciliation of former
+  enemies' gösterdiğini söyler. Anzak konuşmacılarının Atatürk'e atfettiği 'Johnnies and Mehmets' / 'your sons
+  are now lying in our bosom' metninin kendisi tartışmalıdır: 1934 tarihli bir orijinal bulunamamıştır, metin
+  ilk kez 1953'te İçişleri Bakanı Şükrü Kaya'nın hatırası aracılığıyla basılı olarak ortaya çıkmıştır ve
+  'Johnnies and Mehmets' ibaresi 1978 tarihli bir Avustralya eklemesidir (bkz. [[Johnnies and Mehmets]]).
+  Dolayısıyla bu, övgüyü ödüllendiren bir anma töreni veya diplomatik vesileyle dile getirilmiş, konuşmacının
+  Anzak efsanesindeki Atatürk'e dair görüşüdür. Kaynak gösterimi: Speech at Lone Pine Ceremony, Gallipoli, 25
+  April 1990.
+verification_note: >-
+  8010 sayılı tutanakta (Hawke, Lone Pine, 25 Nisan 1990) birebir aynı, kendi sözleri: 'inspired by the
+  indomitable leadership of a Man of Destiny'. Tutanak OCR'ı 'Mustaf a' olarak basmış; bir notla 'Mustafa'
+  olarak normalleştirilmesi düşünülebilir. Hayran 2 makul.
+verification_method: >-
+  kaynak yeniden çekildi, alıntının normalleştirilmiş metin eşleşmesi yapıldı; konuşmacı, tarih ve başlık
+  üstveriden/imza satırından okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 64273b72444e
+  role: c662900d5660
+  quote: dbd6d0028197
+  summary: b90a0aec05a2
+  caveat: e0343e4b2a1d
+  verification_note: 77877cf9dfd0
+  verification_method: 02ed4e837c0d

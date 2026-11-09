@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: newton-1921
+voice: Lord Newton
+voice_type: person
+role: Lords, Turkish war criminals debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1921-11-10"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Expected Britain soon to reach terms with Kemal and proposed making the return or trial of Turkish war
+  criminals a condition.
+quote:
+  text: >-
+    I presume that before very long we shall come to some arrangement with Kemal Pasha, and I presume that we
+    shall be entitled to make certain conditions
+  language: en
+caveat: Passing; no stated opinion of Kemal himself.
+node: Kemal in the Commons, Variant Spellings, 1920–1922
+sources:
+  - url: https://hansard.parliament.uk/Lords/1921-11-10/debates/1f5b38ce-1037-4903-9100-91a3c9928297/TurkishWarCriminals
+    archived: https://web.archive.org/web/20241107090036/https://hansard.parliament.uk/Lords/1921-11-10/debates/1f5b38ce-1037-4903-9100-91a3c9928297/TurkishWarCriminals
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API contribution full text, Lords 10 Nov 1921 Turkish War Criminals, LORD NEWTON
+  method: Hansard API Spoken search
+  note: Verbatim. Instrumental reading fits (conditions on terms).
+  checked_on: "2026-10-30"

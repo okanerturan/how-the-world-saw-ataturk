@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/farouk-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: farouk-1938
+voice: Kral Farouk
+role: Mısır Kralı
+quote: seçkin vatansever, yeni Türkiye'nin yenileyicisi
+quote_kind: translated
+summary: Onu seçkin bir vatansever ve yeni Türkiye'nin yenileyicisi olarak nitelendirdi.
+verification_note: >-
+  Alıntı, Fransızca özgün metnin İngilizce çevirisidir; arşiv notunda telgrafların çevrildiği belirtilmektedir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cf0fb935a2fb
+  role: 5aada68cfbf8
+  quote: dcaab7e9b929
+  summary: c3fca672fb68
+  verification_note: 4adc78c99b14
+  verification_method: 939bb46a04c3

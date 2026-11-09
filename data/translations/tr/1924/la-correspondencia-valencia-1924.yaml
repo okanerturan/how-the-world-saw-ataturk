@@ -1,0 +1,28 @@
+# Turkish for data/voices/1924/la-correspondencia-valencia-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-correspondencia-valencia-1924
+voice: La Correspondencia de Valencia
+role: Valensiya günlük gazetesi
+quote: Mustafa Kemal'in büyük eseri Angora Meclisi oldu
+quote_kind: translated
+summary: >-
+  'Visiones de Oriente' yazı dizisi: Kemal askeri teşkilatçı olarak takdire şayandır, ancak onun daha büyük
+  eseri siyasi niteliktedir: 'yeni Türkiye'yi şekillendiren' Ankara Meclisi.
+caveat: >-
+  Bu sayının OCR metninde yazı dizisinin yazarı tespit edilememiştir (ön sayfa, 2 Şubat 1924, sayı 19228); OCR
+  kalitesi düşüktür ve Kemal'in tarihteki yerine ilişkin kilit bir cümle alıntılanamayacak kadar bozuktur.
+verification_note: >-
+  'Visiones de Oriente' başlığı altında 'Pero la gran creación de Mustafá Kemal fué la Asamblea de Angora, la
+  Gran Asamblea Nacional que ha forjado la nueva Turquía' ifadesi yer alıyor; önceki metinde Kemal askeri
+  teşkilatçı olarak övülüyor.
+verification_method: archive.org djvu metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 18810f3f0165
+  role: 45c6a6f7fa1e
+  quote: b98630781125
+  summary: f6ed90646f9b
+  caveat: 424690c3fa8e
+  verification_note: de71714afa6a
+  verification_method: d18ffac52866

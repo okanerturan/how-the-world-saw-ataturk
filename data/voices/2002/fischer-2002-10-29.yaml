@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: fischer-2002-10-29
+voice: Joschka Fischer
+voice_type: person
+role: Foreign Minister of Germany (Bündnis 90/Die Grünen)
+country: Germany
+country_now: Germany
+domain: diplomacy
+date: "2002-10-29"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Names 'the modernizers since Kemal Atatürk' as the civil forces in Turkey that closing the EU door would
+  hurt; modernization means orienting to Europe.
+quote:
+  text: >-
+    damit für die zivilen Kräfte in der Türkei und für die Modernisierer seit Kemal Atatürk die Tür schließen;
+    denn Modernisierung in der Türkei bedeutet Orientierung an Europa.
+  translation: >-
+    you thereby close the door on the civil forces in Turkey and on the modernizers since Kemal Atatürk; for
+    modernization in Turkey means orientation towards Europe.
+  language: de
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
+  documentation page; printed page checked in the dserver PDF. Reply to Wolfgang Schäuble (CDU/CSU) in the
+  foreign-policy debate after the 2002 election; Fischer's speech starts at the header 'Joseph Fischer,
+  Bundesminister des Auswärtigen' on the same protocol. A passing but explicit evaluation (Atatürk as the
+  start of a modernizing line); printed page read as 96 in the PDF header. Cited as Deutscher Bundestag,
+  Plenarprotokoll 15/4, session of 2002-10-29, S. 96.
+node: German Parliaments on Atatürk — Hitler's Reichstag 1941 and the Bundestag 1983–2025
+sources:
+  - url: https://dserver.bundestag.de/btp/15/15004.pdf
+    archived: https://web.archive.org/web/20261007112943/https://dserver.bundestag.de/btp/15/15004.pdf
+  - url: https://dip.bundestag.de/
+    archived: https://web.archive.org/web/20261020200949/https://dip.bundestag.de/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Bundestag plenary-protocol PDF 15/15004.pdf (WP15 sitting 4) from dserver.bundestag.de, fetched fresh
+  method: >-
+    downloaded the dserver PDF, pdftotext, whitespace/hyphenation-normalised match of the quote, speaker
+    header and running-head page number read from the printed protocol; German read against the stored
+    translation
+  note: >-
+    Verbatim on printed p. 96 under the running head 'Bundesminister Joseph Fischer', in reply to Schaeuble.
+    Translation faithful. Gaze is thin but explicit ('Modernisierer seit Kemal Ataturk'); intensity 1 fair.
+  checked_on: "2026-11-03"

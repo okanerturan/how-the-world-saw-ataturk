@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: berlingske-tidende-1938
+voice: Berlingske Tidende
+voice_type: press
+role: Danish daily
+country: Denmark
+country_now: Denmark
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  Longest portrait: epic of heroism; fighter and statesman who, unlike others who founded power by the sword,
+  sheathed his sword; left a Westernised modern state.
+quote:
+  text: >-
+    Quite unlike many of those who founded their power by the sword, he sheathed his sword after winning
+    victory.
+  language: en
+mediated_by: Toksoy 2006 ← Akşam 16 Nov 1938 p. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
+caveat: >-
+  Paper titles in Toksoy are phonetic and sometimes garbled; identifications presumed; foreign originals not
+  seen.
+node: Copenhagen and Oslo, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt (Danimarka, 'kilicini kinina koymustur')
+  method: local
+  note: >-
+    Translated by Toksoy from Turkish press digests; English quote is a faithful rendering; Toksoy spells
+    'Berlinske'
+  checked_on: "2026-10-29"

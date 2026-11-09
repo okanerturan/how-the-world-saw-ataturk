@@ -1,0 +1,19 @@
+# Turkish for data/voices/1933/lansbury-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lansbury-1933
+voice: Bay Lansbury, Milletvekili
+role: Avam Kamarası üyesi, Silahsızlanma görüşmesi
+quote: Kemal Paşa fiilen kendi şartlarını dikte edebildi
+quote_kind: translated
+summary: >-
+  Büyük Devletlerin antlaşmaları yüzüstü bırakmasıyla Türklerin İstanbul'u zorla geri almasını, antlaşmaları
+  bozmanın kazanç sağladığının kanıtı olarak kullandı.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f3a06622ff19
+  role: 87acc86c3726
+  quote: 8225722c2455
+  summary: d4db0499c6cb
+  verification_method: a033a528b603

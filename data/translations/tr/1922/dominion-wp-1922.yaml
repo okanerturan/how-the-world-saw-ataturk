@@ -1,0 +1,24 @@
+# Turkish for data/voices/1922/dominion-wp-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dominion-wp-1922
+voice: Dominion (Wellington), 'Without Prejudice' köşesi
+role: Wellington günlük gazetesi, editöryal köşe
+quote: Mustafa Kemal Paşa alışılmadık derecede çetin bir cevizdir
+quote_kind: translated
+summary: >-
+  Clair Price'ın portresini de aktaran bir köşe yazısında, Yunanların Kemal'in çetin bir ceviz olduğunu
+  öğrenmekte olduğuna dair espri yaptı.
+caveat: >-
+  Kısmen Clair Price'tan alıntı yapan mizahi köşe yazısı; alıntılanan cümle köşenin kendi yorumudur.
+verification_note: Cümle köşe yazarının kendisine aittir ve bir Claire Price alıntısının ardından gelir
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 51f0ed74ea5b
+  role: 8b139e5a3caf
+  quote: 95efede89cb4
+  summary: ab2c3c2c3f59
+  caveat: 99824f0690a4
+  verification_note: 5bf5ef5c755d
+  verification_method: ad8cee67138e

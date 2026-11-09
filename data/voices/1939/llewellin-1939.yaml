@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: llewellin-1939
+voice: Colonel Llewellin MP
+voice_type: person
+role: Member of the Commons, Navy Estimates debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1939-03-16"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Used Turkey under Atatürk, almost a dictatorship yet outside the Rome-Berlin axis, to argue that
+  dictatorships need not ally with each other.
+quote:
+  text: >-
+    Turkey, under Ataturk, was almost a dictatorship, but it was not in any way allied to the Rome-Berlin axis.
+  language: en
+node: Hansard After Atatürk, 1938–1939
+sources:
+  - url: https://hansard.parliament.uk/Commons/1939-03-16/debates/f40b7ab7-e4d7-4b7f-b629-3178761d0294/NavyEstimates1939
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard API 1939-03-16 Navy Estimates, Col. Llewellin: "Turkey, under Ataturk, was almost a dictatorship,
+    but it was not in any way allied to the Rome-Berlin axis."
+  method: fetch
+  note: Hansard web page itself returned empty via ms fetch; text from API.
+  checked_on: "2026-10-29"

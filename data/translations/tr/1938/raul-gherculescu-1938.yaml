@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/raul-gherculescu-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: raul-gherculescu-1938
+voice: Raul D. Gherculescu
+role: Romen; Atatürk'ün 1913'te Sofya'da tanıştığı bir askeri ataşenin oğlu
+quote: Çocukluğumdan size dair en aziz hatıraları saklıyorum
+quote_kind: translated
+summary: Atatürk'e dair en aziz çocukluk hatıralarını sakladığını yazdı.
+mediated_by: Dağlı 2023 ← Cumhurbaşkanlığı Arşivi
+verification_note: >-
+  Türkçeden çevrilmiştir: 'Çocukluğumdaki en aziz hatıralarınızı muhafaza etmekteyim'. Mektup 20 Ekim tarihli
+  bir geçmiş olsun mektubudur, 1938-10 kayıt tarihi doğrudur.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9bf2b8724bc8
+  role: 0995e79a6e75
+  quote: bf17ddf44563
+  summary: 6acf9b462c0e
+  mediated_by: db69299c65ed
+  verification_note: 757f78da0bcb
+  verification_method: 939bb46a04c3

@@ -1,0 +1,26 @@
+# Turkish for data/voices/1921/cavid-bey-kars-tbmm-1921-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cavid-bey-kars-tbmm-1921-10-31
+voice: Cavid Bey (Kars)
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Kars milletvekili
+quote: Yalnız Başkumandan Paşa, Başkumandanlıkta kalmalıdır.
+quote_kind: original-turkish
+summary: >-
+  Başkomutan'ın görevde kalması gerektiğini savundu: Kemal'in komutası Eskişehir'den sonra orduyu yeniden
+  canlandırmıştı ve kanunu sınırlandırmak dünyaya Türkiye'nin yarı yolda durduğu mesajını verecekti.
+caveat: >-
+  Basılı metin s. 475-476; alıntılanan cümle s. 476'dadır. Gerekçe kişisel övgüden ziyade askeri ve dış
+  politik nedenlerle çerçevelenmiştir.
+verification_note: Tam eşleşme; ordunun yeniden canlanması ve 'hariç duyacak' argümanları mevcut.
+verification_method: >-
+  Cilt 2 üzerinde pdftotext; cümle 475 sayfa altından sonra, 476 sayfa altından önce yer alıyor
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a9a34896a833
+  role: 56fa2aa83d88
+  quote: deb28034ba58
+  summary: a7ed76faf2ac
+  caveat: 752b2026ac08
+  verification_note: 474c88e93702
+  verification_method: 9bd5189d681b

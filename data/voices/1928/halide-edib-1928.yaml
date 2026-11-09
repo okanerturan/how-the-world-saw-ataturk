@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: halide-edib-1928
+voice: Halide Edib Adıvar
+voice_type: person
+role: Turkish novelist and nationalist, then in exile; memoirist
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1928"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: memoir
+evidence: P
+summary: >-
+  Remembers Kemal in 1919 as brilliant, cunning and abnormally ambitious; by April 1920 she began to feel he
+  would be 'our George Washington'.
+quote:
+  text: a man of extraordinary intelligence and cunning as well as of abnormal ambition
+  language: en
+caveat: >-
+  UPGRADE: the existing note is not a verified one; new primary evidence from The Turkish Ordeal (1928), pp.
+  13, 141, 281-282. Written after her 1926 exile.
+node: Halide Edib Adıvar
+sources:
+  - url: https://archive.org/details/turkishordealbei00adva?q=extraordinary+intelligence+and+cunning
+  - url: https://archive.org/download/turkishordealbei00adva/turkishordealbei00adva_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://archive.org/download/turkishordealbei00adva/turkishordealbei00adva_djvu.txt (cunning/ambition
+    passage; 'our George Washington' later)
+  method: fetch
+  note: April 1920 dating of the Washington remark not independently checked
+  checked_on: "2026-10-29"

@@ -1,0 +1,32 @@
+# Turkish for data/voices/2025/starmer-2025-10-27.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: starmer-2025-10-27
+voice: Keir Starmer
+role: Birleşik Krallık Başbakanı; Anıtkabir Özel Defteri'ndeki kayıt
+quote: Modern Türkiye'nin babası Mustafa Kemal Atatürk'e saygılarımı sunmak bir onurdur.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ü 'modern Türkiye'nin babası' olarak nitelendirir ve Birleşik Krallık-Türkiye ittifakı çerçevesinde
+  saygılarını sunmanın bir onur olduğunu belirtir.
+caveat: >-
+  İngilizce bir kaydın Türkçe çevirisidir; Akşam ve Haberler (her ikisi de AA) metni 'babası' ifadesiyle
+  yayımlamaktadır; AA kaynaklı başka bir versiyonda 'kurucusu' denmektedir, ki bu da çevirinin değişkenlik
+  gösterdiğini ortaya koyar. İngilizce özgün metne ulaşılamamıştır.
+mediated_by: Akşam ve Haberler üzerinden AA, 27 Ekim 2025 (yazının Türkçe çevirisi)
+verification_note: >-
+  Aynı AA metni olan (birbirinden bağımsız olmayan) her iki kaynakta da birebir aynıdır. İngilizce özgün metin
+  bulunamamıştır. Kaydın ikinci cümlesi (Birleşik Krallık-Türkiye 'strong allies and trusted friends')
+  'instrumental' değerini desteklemektedir. Tarih doğrulandı.
+verification_method: >-
+  Alıntılanan sayfanın taze tools/ms fetch (ücretsiz) çekimi, 3 Kasım 2026; bağımsız kontrolör
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b70f762fbf54
+  role: 9f796ba32d38
+  quote: ae5b2fd479db
+  summary: a9062473f529
+  caveat: 8efad92affe4
+  mediated_by: a3088caa728f
+  verification_note: 1b5f5d11eac3
+  verification_method: 7b5332a2caf8

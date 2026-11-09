@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: karabekir-istiklal-1919
+voice: Kâzım Karabekir
+voice_type: person
+role: Commander, XV Corps, Erzurum
+country: Turkey
+country_now: Turkey
+domain: military
+date: "1919-07"
+era: contemporary
+polarity: conflicted
+intensity: 3
+mirror: internal-mirror
+artifact: memoir
+evidence: P
+summary: >-
+  His memoir says that in July 1919 he made the Erzurum delegates accept Kemal as president, while repeating
+  the charge of personal ambition against him.
+quote:
+  text: Mustafa Kemal Paşa kongreye yalnız murahhas değil, reis dahi yapılmalıdır.
+  language: tr
+caveat: >-
+  Cite: Karabekir, İstiklal Harbimiz, c. 1 (İstanbul: YKY, ed. Ziver Öktem, 2008), pp. 80-81. Reconstructed in
+  a later retrospective account (not a 1919 document); p. 81 also reports Erzurum critics saying Kemal kept
+  his uniform from 'ambition' ('ihtirasına delilmiş').
+node: Kâzım Karabekir
+sources:
+  - url: https://archive.org/details/kazim-karabekir-istiklal-harbimiz-1.-cilt-yky-241126-201102
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: IA djvu kazim-karabekir-istiklal-harbimiz-1.-cilt-yky (pp. 80-81)
+  method: djvu OCR text
+  note: >-
+    Quote verbatim on p. 81, as Karabekir's own words to the delegates; 'ihtirasına delilmiş' is the Erzurum
+    critics' charge he REPORTS, not his own; what_they_saw 'repeating the charge' slightly overstates his
+    stance (he reports it).
+  checked_on: "2026-10-29"

@@ -1,0 +1,30 @@
+# Turkish for data/voices/1922/mackenzie-king-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mackenzie-king-1922
+voice: Mackenzie King
+role: Kanada Başbakanı
+quote: >-
+  basınımızda, İngiltere'den gelen ve Britanya Hükümeti'nin Kanada'dan Türk kuvvetlerine karşı koymaya
+  katılmasını isteme niyetini duyuran telgraflar çıktı
+quote_kind: translated
+summary: >-
+  Türk kuvvetlerine karşı koyma konusunda Kanada'dan ne istendiğini öğrenmek için telgraf çekti; kabine
+  yalnızca Parlamento'nun karar verebileceğini savundu ve işi ağırdan aldı.
+caveat: >-
+  Notta King'in anlaşmazlık hakkında çok az şey bildiği ve Kemal'in konu değil vesile olduğu belirtiliyor.
+  Stacey 1981 (arama kesitinden okundu); metin kontrol edilmedi (kaynağa erişilemedi, 29 Ekim 2026)
+verification_note: >-
+  Birebir alıntı kontrol edilmedi; Stacey/T&F erişilemez durumda. King'in kararı Parlamento'nun vermesi
+  konusunda ısrar ettiği iddiası Wikipedia (ikincil kaynak) tarafından destekleniyor. 'cabinet stalled'
+  doğrulanmadı.
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5cc7fb7b5687
+  role: c30348a2c643
+  quote: d20809e22afd
+  summary: a36fe1d53324
+  caveat: af2293d9df6e
+  verification_note: 7d235ba496ad
+  verification_method: ad8cee67138e

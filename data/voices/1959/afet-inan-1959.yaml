@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: afet-inan-1959
+voice: Afet İnan
+voice_type: person
+role: Historian, Atatürk's adopted daughter, founding member of the Turkish Historical Society
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1959-05-31"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: memoir
+evidence: P
+summary: >-
+  Sees Atatürk not only as commander and founding president but as the thinker who planned his revolutions
+  over a lifetime.
+quote:
+  text: >-
+    Savaşta kumandan, devlet kurmada siyasi bir şahsiyet, inkılap hareketlerinde ise devrimci bir fikir adamı
+    olarak karşımıza çıkıyor.
+  language: tr
+caveat: >-
+  TRANSLATION (this record's): 'He appears before us as a commander in war, a political figure in founding the
+  state, and a revolutionary man of ideas in the movements of reform.' Önsöz (p. xvi) of Atatürk Hakkında
+  Hatıralar ve Belgeler (1st ed. Ankara 1959), read in the İş Bankası edition revised by her son Arı İnan
+  (2007; 8th printing 2009), whose language was modernised, so the 1959 wording may differ slightly.
+  First-hand witness of his last 13 years; the book prints his letter to her from the Savarona of 14 June
+  1938. The vault note's framing ('engineered academic') is interpretation, not tested here. Check: quote
+  verified only in the 2007 edition, whose editor (Arı İnan) modernised the language; the 1959 wording is
+  unverified.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/afet-inan-ataturk-hakkinda-hatiralar-ve-belgeler_202403
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org afet-inan-ataturk-hakkinda-hatiralar-ve-belgeler_202403 djvu text: İş Bankası Kültür Yayınları
+    ed. ('Gözden geçirilmiş 5. baskıdan itibaren yayına hazırlayan Arı İnan', © 2007; '8. baskı ... Mayıs
+    2009'; 'I. baskı: Ankara, 1959'), Önsöz pp. xiv-xvi, signed '31 Mayıs 1959, Prof. Dr. Ayşe Afet İnan'
+  method: archive.org open djvu text read; archive.org FTS for an older edition (none found)
+  note: >-
+    Quote verbatim on p. xvi of the 2007 revision. Arı İnan's Sunuş says he worked to make 'kitabın dili' more
+    understandable and added modern glosses in square brackets. The 1959 wording is therefore NOT verified and
+    may differ (e.g. 'devrimci' / 'inkılap'); FTS found no pre-2007 text. Translation faithful. Strict test
+    passes: the Önsöz is her own assessment ('Atatürk bu devrimlerini bir ömür boyunca düşünmüş...'), not
+    narration. Corrections: date '1959' → '1959-05-31' (Önsöz date); caveat should cite Arı İnan's statement
+    on modernised language. The role's 'founding member of the Turkish Historical Society' is not shown in the
+    text read (tier M). Schema ok.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33)
+  checked_on: "2026-11-06"

@@ -1,0 +1,23 @@
+# Turkish for data/voices/1922/e-nicol-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: e-nicol-1922
+voice: E. Nicol
+role: Fransız risale yazarı, Franklin-Bouillon'a yanıt
+quote: Yabancı düşmanlığı ve Avrupa nefreti, Kemalizmin bizzat özüdür
+quote_kind: translated
+summary: >-
+  Kemalizm yabancı düşmanlığı ve Avrupa nefretidir; Kemal ise saf Fransız diplomasisini kandıran, eski Alman
+  eğitimli kurnaz bir subaydır.
+caveat: >-
+  Yazarın kimliği tespit edilememiştir; risale Paris, 18 Şubat 1922 tarihlidir. Sayfa 24 atfı, 23 ve 25
+  numaralı sayfa başlıkları arasında yer almaktadır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 105263afea48
+  role: ca356b2ae35a
+  quote: f439e6dc2531
+  summary: 0c74fe7957db
+  caveat: a244bbdb507b
+  verification_method: ad8cee67138e

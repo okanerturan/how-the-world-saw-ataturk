@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: toynbee-1939
+voice: Arnold J. Toynbee
+voice_type: person
+role: British historian, A Study of History
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1939"
+era: posthumous
+polarity: conflicted
+intensity: 2
+mirror: nation-forge-template
+artifact: book
+evidence: P
+summary: >-
+  Calls Atatürk's purge of Arabic and Persian words from Turkish a task 'none but a hero could grapple' with,
+  and the 'third Ottoman saviour'.
+quote:
+  text: the Ghazi set himself a task with which none but a hero could grapple
+  language: en
+caveat: >-
+  A Study of History vol. VI (Oxford UP, 1939; scan in.ernet.dli.2015.208032), 'The Disintegration of
+  Civilizations', p. 68 (language reform). Toynbee does not spare the method: he says Mustafa Kemal 'had
+  evicted from Turkey an old-established and apparently indispensable Greek and Armenian middle class' on the
+  calculation that the vacuum would force the Turks to do their own work, and he treats the language purge on
+  the same principle ('what an astonishing intellectual stimulus can be given to mentally sluggish peoples
+  (such as his Turks and our English are)'). Same volume, p. 222: 'A totalitarian Westernizer was needed ...
+  in our own day this third Ottoman saviour has appeared in the person of President Mustafa Kemal Ataturk.'
+  The volume appeared in 1939 and was written before Atatürk's death; date and era follow the publication.
+  Adds to the existing 1922 record (Western Question), which is guarded. Sensitive thread (Greek and Armenian
+  populations): Toynbee's framing is recorded as his, not the vault's. Polarity conflicted at check: the same
+  page mocks the method and calls the Turks 'mentally sluggish'.
+node: Famous Pens on Atatürk II — Farrère, Halide Edib, Toynbee, Pamuk, Nesin
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.208032
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Toynbee, A Study of History vol. VI (OUP 1939), archive.org in.ernet.dli.2015.208032 djvu.txt
+  method: curl of the open djvu text, read in context
+  note: >-
+    Verbatim on p. 68 (running head '68 THE PROCESS OF DISINTEGRATION' precedes it): 'the Ghazi set himself a
+    task with which none but a hero could grapple'. 'Third Ottoman saviour' is on p. 222 (not p. 68; the
+    record merges the two). Polarity 'admiring' is arguable: the same page calls the method eviction of the
+    Greek and Armenian middle class and the Turks 'mentally sluggish', and the purge an 'awe-inspiring
+    spectacle'. 'Conflicted' would be fairer.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 15)
+  checked_on: "2026-11-03"

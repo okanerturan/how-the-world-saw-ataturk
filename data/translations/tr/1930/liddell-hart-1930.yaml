@@ -1,0 +1,38 @@
+# Turkish for data/voices/1930/liddell-hart-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: liddell-hart-1930
+voice: B. H. Liddell Hart
+role: Britanyalı askeri tarihçi ve stratejist; The Real War 1914-1918
+quote: >-
+  1918'de Allenby, Liman von Sanders ve Mustafa Kemal gibi yetenekli komutanları zekâsıyla alt etmek zorundaydı
+quote_kind: translated
+summary: >-
+  Kemal'i, Liman von Sanders ile birlikte 1918'de Allenby'nin zekâsıyla alt etmek zorunda kaldığı 'yetenekli
+  komutanlar' arasında sayar; Anzak'ta ise 'o zamanlar tanınmayan' subaydır.
+caveat: >-
+  The Real War 1914-1918 (Faber, 1930), s. 468 ('467' alt bilgisi 'ANNIHILATION OF THE TURKISH ARMIES' üst
+  başlığından önce gelir; kitabın dizini Megiddo için 470 vd. verir); açık DLI taraması
+  in.ernet.dli.2015.57906. Gelibolu bölümünde, s. 184: 'the initiative of one opponent, the then unknown
+  Mustapha Kemal, contributed to its unfulfilment' (Anzak çıkarmasının sunduğu fırsatın gerçekleşmemesi
+  hakkında). Bir askeri tarih kitabı içinde kısa bir değinme: kaydın yoğunluğu 1'dir. Liddell Hart hakkındaki
+  mevcut kişi notunda zaten sayfa gösterilmeyen genel bir nitelendirme yer almaktadır; kaynaklı olan kayıt
+  budur.
+verification_note: >-
+  Birebir aynı: 'in 1918 Allenby had to outwit such able commanders as Liman von Sanders and Mustapha Kemal,
+  not such men as those who thrust their heads into the sack at Sedan.' Folyo 467 önceki sayfayı kapatır,
+  dolayısıyla cümle s. 468'dedir (üst başlık ANNIHILATION OF THE TURKISH ARMIES); kitap dizini Kemal'i
+  yalnızca 177, 184, 186'da ve 'Megiddo 470 ff.' olarak listeler. s. 184 doğrulandı (ardından folyo 184
+  gelir): 'the initiative of one opponent, the then unknown Mukapha [OCR for Mustapha] Kemal, contributed to
+  its unfulfilment'. 'able commanders' yargısı açıktır; yoğunluk 1 uygun. DÖNEM DÜZELTMESİ: 'posthumous'
+  değil, 'contemporary' (1930, Kemal hayatta).
+verification_method: açık djvu metninin curl ile çekilmesi, bağlam içinde okunması; sayfa numarası folyolardan
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a3caa229cab5
+  role: 7deb1de78b8c
+  quote: 636cfd786a82
+  summary: 41558bf43967
+  caveat: a45e5c6d154d
+  verification_note: 2dd41485b260
+  verification_method: 01cbfdb012d6

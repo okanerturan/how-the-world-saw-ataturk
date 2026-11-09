@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-temps-1922-09-15
+voice: Le Temps
+voice_type: press
+role: Paris semi-official daily
+country: France
+country_now: France
+domain: press
+date: "1922-09-15"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Judged Kemal a realist who knows the Allies would jointly oppose any move on Constantinople.
+quote:
+  text: >-
+    Moustapha Kemal se rend parfaitement compte que les Français, les Anglais et les autres alliés
+    s'opposeraient ensemble
+  language: fr
+caveat: >-
+  View 1. Not shown whether the sentence is the paper's own or a correspondent's; fragment ends before the
+  object ('à Constantinople') in the OCR. Gallica ContentSearch fragment, OCR copied as given; view number is
+  Gallica's, not necessarily the printed page.
+node: Paris Dailies on Kemal's Victory, 11–17 September 1922
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k2448634
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica bpt6k2448634 ContentSearch; masthead VENDREDI 15 SEPTEMBRE 1922, 62e année
+  method: Gallica ContentSearch fragment via ms fetch
+  note: >-
+    Verbatim in PAG_1 fragment (fragment continues 'à une tentative quelconque Constantinople'); sentence
+    attribution (paper vs correspondent) cannot be shown from the fragment.
+  checked_on: "2026-10-30"

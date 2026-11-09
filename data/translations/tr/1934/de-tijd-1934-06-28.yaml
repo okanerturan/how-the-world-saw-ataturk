@@ -1,0 +1,22 @@
+# Turkish for data/voices/1934/de-tijd-1934-06-28.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-tijd-1934-06-28
+voice: De Tijd
+role: Katolik 'godsdienstig-staatkundig dagblad'
+quote: Gazi'nin en üstün hükümdarlık erdemlerinden biri
+quote_kind: translated
+summary: >-
+  Onu, doğru anı sabırla beklemesi Gazi'nin en üstün hükümdarlık erdemlerinden biri olan 'Türklerin diktatörü'
+  olarak nitelendirdi.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalandı. 'Cosmopolitica' köşesi, 'De appel van Kemal'.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e5221f936cf6
+  role: 0567a42963b6
+  quote: e48c1d936e70
+  summary: 221bd9e952dc
+  caveat: bb222040dc37
+  verification_method: ad8cee67138e

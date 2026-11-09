@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: schmidt-2008-05
+voice: Jean Schmidt
+voice_type: person
+role: U.S. Representative from Ohio (Republican)
+country: United States
+country_now: United States
+domain: politics
+date: "2008-05-22"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Marking 19 May, says Atatürk's vision of a pro-Western, secular, democratic state under the rule of law
+  quickly became reality.
+quote:
+  text: >-
+    Ataturk had a vision for Turkey and he set about reforming her. His vision of a pro-western, secular, and
+    democratic state under the rule of law quickly became reality.
+  language: en
+caveat: >-
+  Her own statement, which also quotes Kennedy and MacArthur on Atatürk (those quotations are not counted).
+  Text closely parallels statements by Foxx, Cohen and Poe in other years, i.e. a template supplied by the
+  Turkish-American lobby; a courtesy text as well as a view. Cited as Extensions of Remarks (House), 22 May
+  2008, 'Commemorating May 19 as Ataturk, Youth and Sports Day in Turkey', Congressional Record vol. 154, p.
+  E1094 (granule CREC-2008-05-23-pt1-PgE1094).
+node: >-
+  Congressional Record Closing Pass — King, Owen, Davis, Sirovich, Pepper, Knowland and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/CREC-2008-05-23/html/CREC-2008-05-23-pt1-PgE1094.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.govinfo.gov/content/pkg/CREC-2008-05-23/html/CREC-2008-05-23-pt1-PgE1094.htm - Extensions of
+    Remarks, 22 May 2008 (issue of 23 May), p. E1094
+  method: govinfo daily-edition HTML
+  note: >-
+    Verbatim; her own words (the Kennedy and MacArthur quotations are separate). Also says 'a great leader
+    began his journey' and 'We should all learn a lesson from this man's life', so the gaze is a real view.
+    Date is the statement date (22 May); the issue is 23 May. Admiring 2 fair; courtesy text.
+  checked_on: "2026-11-04"

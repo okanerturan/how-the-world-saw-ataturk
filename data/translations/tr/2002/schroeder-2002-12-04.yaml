@@ -1,0 +1,37 @@
+# Turkish for data/voices/2002/schroeder-2002-12-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: schroeder-2002-12-04
+voice: Gerhard Schröder
+role: Almanya Şansölyesi (SPD)
+quote: >-
+  Türkiye'de, devlet kurucusu Atatürk'ün anlayışı doğrultusunda laikleşmiş bir Türkiye isteyen ve bunun
+  arkasında da duran güçlerin desteklenmesinde büyük, ortak – ben diyorum ki: ulusal – bir Alman çıkarımız
+  olduğunu
+quote_kind: translated
+summary: >-
+  Atatürk'ü laik bir Türkiye'nin devlet kurucusu olarak nitelendirir ve bunu isteyen güçleri desteklemede
+  Alman ulusal çıkarı görür.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'inde kontrol edildi. Kopenhag Avrupa Konseyi öncesinde CDU/CSU'nun Türkiye
+  çizgisine yanıt olarak yapılan hükümet açıklaması; konuşma Schröder'e aittir ('Gerhard Schröder,
+  Bundeskanzler' başlığı, bu başlık ile pasaj arasında başka bir konuşmacı başlığı yoktur, Glos, Ramsauer ve
+  Merkel'in laf atmaları kaydedilmiştir). AB katılım müzakerelerini savunmak için kullanılmıştır, dolayısıyla
+  araçsaldır. Kaynak gösterimi: Deutscher Bundestag, Plenarprotokoll 15/13, 4 Aralık 2002 oturumu, s. 884.
+verification_note: >-
+  Basılı s. 884'te ('Bundeskanzler Gerhard Schroeder' üst bilgisi) birebir aynıdır. Çeviri sadıktır
+  ('Staatsgruender' = devlet kurucusu). Araçsal/1 yerindedir.
+verification_method: >-
+  dserver PDF'i indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleşmesi yapıldı,
+  konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı çeviriyle
+  karşılaştırılarak okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7bb7822902fa
+  role: b2373bac7f6e
+  quote: 9a9e0bb0f7f3
+  summary: 0cf77b136a34
+  caveat: 414d5e338396
+  verification_note: ed741a3bc151
+  verification_method: 966799b4c6ae

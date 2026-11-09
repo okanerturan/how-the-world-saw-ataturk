@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mandur-1944
+voice: Muhammad Mandur
+voice_type: person
+role: Egyptian literary critic
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1944-09-25"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: nation-forge-template
+artifact: article
+evidence: S
+summary: >-
+  Cites Mustafa Kemal and Stalin as proof that determined will overcomes obstacles regardless of collective
+  mind or social laws.
+quote:
+  text: >-
+    وأن إرادتنا لابد آتية على كافة الصعاب كما أتى مصطفى كمال على صعاب تركيا وستالين على صعاب روسيا
+  translation: >-
+    and that our will must surely overcome all obstacles, as Mustafa Kemal overcame Turkey's obstacles and
+    Stalin Russia's.
+  language: ar
+caveat: >-
+  Cited as al-Risala no. 586, 25 Sep 1944, Wikisource page 'مجلة الرسالة/العدد 586/مكافحة الشكلية'. Closing
+  sentence of an essay on 'Combating Formalism', signed Muhammad Mandur, in which Kemal serves as an example
+  of voluntarism; no assessment of his reforms. Instrumental use in an Egyptian reform argument. Wikisource
+  transcription. Polarity admiring → instrumental at check.
+node: Egyptian Pens in al-Risala on Atatürk, 1935–1946
+sources:
+  - url: https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_586/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B4%D9%83%D9%84%D9%8A%D8%A9
+    archived: https://web.archive.org/web/20191111203534/https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_586/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B4%D9%83%D9%84%D9%8A%D8%A9
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: Arabic Wikisource raw page 'مجلة الرسالة/العدد 586/مكافحة الشكلية'
+  method: >-
+    fetched action=raw, diacritic-normalised substring match of the Arabic quote, then read the surrounding
+    passage, header date and end signature
+  note: >-
+    Arabic quote verbatim; byline 'للدكتور محمد مندور' and signature 'محمد مندور', date 25-09-1944. The
+    sentence is the closing of Mandur's own lecture to a young man ('لا يا بني ...'), so the voice is his. It
+    names Kemal and Stalin as examples of will overcoming obstacles and gives no assessment of Kemal or his
+    reforms. The record's own caveat calls it 'Instrumental use', and data/README defines 'instrumental' as
+    use serving the speaker's agenda, so polarity 'admiring' contradicts the caveat. CORRECTION: polarity
+    'instrumental' (intensity 1, mirror nation-forge-template can stay or go null); fix caveat typo 'a
+    Egyptian' -> 'an Egyptian'. Translation faithful; schema OK.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 19)
+  checked_on: "2026-11-03"

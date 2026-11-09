@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/william-birdwood-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: william-birdwood-1938
+voice: William Birdwood
+role: İngiliz delege
+summary: >-
+  Cenazeye gönderilen yabancı özel heyetler arasında adı geçti; herhangi bir görüş belirtilmedi.
+mediated_by: Havas/Reuter telgrafları (Delpher), 17 Kasım 1938
+verification_note: >-
+  Delpher 'Bridwood' olarak yazıyor (OCR/ajans bozulması); Papers Past, Birdwood'u doğruluyor.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0105ee36105c
+  role: 254b652e8ce0
+  summary: 20c8245c15db
+  mediated_by: 383926753fae
+  verification_note: 7df504b9fbb8
+  verification_method: 939bb46a04c3

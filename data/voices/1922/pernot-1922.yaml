@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pernot-1922
+voice: Maurice Pernot
+voice_type: person
+role: French journalist and specialist of the Near East, Revue des Deux Mondes
+country: France
+country_now: France
+domain: press
+date: "1922"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Portrays the Angora leader as adored by his soldiers and esteemed by generals, a national hero, while noting
+  opponents' charges of dictatorship.
+quote:
+  text: >-
+    Moustapha Kemal, adoré par les soldats, est estimé par les chefs, même par ceux dont la valeur technique
+    est peut-être supérieure à la sienne.
+  translation: >-
+    Moustapha Kemal, adored by the soldiers, is esteemed by the generals, even by those whose technical
+    ability is perhaps superior to his own.
+  language: fr
+caveat: >-
+  Cited as Pernot, 'La Question turque' II, 'Angora', Revue des Deux Mondes, 7e période, tome 7 (1922), pp.
+  549–579, quote on p. 567 (Wikisource page numbers). Wikisource transcription; the issue date within 1922 is
+  not printed in the transcription (tome 7 = early 1922), so year-only. Pernot also calls him 'le jeune
+  dictateur' and reports opponents' charge of 'allures de dictateur'; the 'adoré par les soldats' sentence is
+  Pernot's own judgement, not a quoted source. Mixed: sympathetic portrait of a moderate against Unionist
+  hard-liners, framed for French policy.
+node: >-
+  French Pens on Kemal, 1920–1944 — Herriot, Pernot, Pinon, Delarue-Mardrus and Franklin-Bouillon
+sources:
+  - url: https://fr.wikisource.org/wiki/La_Question_turque/02
+    archived: https://web.archive.org/web/20251227030554/https://fr.wikisource.org/wiki/La_Question_turque/02
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    fr.wikisource La Question turque/02 (Revue des Deux Mondes, 7e période, tome 7, 1922, pp. 549-579) via
+    action=render
+  method: fetched rendered page, string match
+  note: >-
+    Verbatim. 'jeune dictateur' and 'allures de dictateur' (opponents' charge) present, so conflicted/mixed is
+    defensible. Issue date within 1922 not printed (tome 7 = early 1922); year-only fine. Page 567 not
+    independently verified.
+  checked_on: "2026-11-03"

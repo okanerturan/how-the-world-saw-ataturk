@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ihsan-nuri-1919
+voice: Ihsan Nuri Pasha
+voice_type: person
+role: Kurdish officer, later Hoybun commissioner on Ararat
+country: Ottoman Empire
+country_now: Turkey
+domain: military
+date: "1919"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: memoir
+evidence: S
+summary: >-
+  Still saw himself as an Ottoman officer; though citing Wilson's principles, thought the Kurds should support
+  the movement Mustafa Kemal had started.
+mediated_by: Kürt Araştırmaları review essay <- İhsan Nuri memoir and ARF archive file 1662
+caveat: >-
+  Review essay's author not captured; secondary reading of archival letters and memoir; 1919-20 stance, before
+  his Ararat command.
+node: Ihsan Nuri's Ararat Papers, 1927–1930
+sources:
+  - url: https://kurdarastirmalari.com/details/agri-daginda-cumhuriyet-kurmak-yeni-belgeler-isiginda-agri-syani
+    archived: https://web.archive.org/web/20260825074408/https://kurdarastirmalari.com/details/agri-daginda-cumhuriyet-kurmak-yeni-belgeler-isiginda-agri-syani
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://kurdarastirmalari.com/details/agri-daginda-cumhuriyet-kurmak-yeni-belgeler-isiginda-agri-syani
+    (opening biography para, Wilson Ilkeleri sentence)
+  method: fetch
+  note: >-
+    Article text is Turkish; claim matches ('Wilson Ilkeleri'ne atifta bulunsa da ... Kurtlerin Mustafa
+    Kemal'in baslattigi hareketi desteklemeleri gerektigini dusunmektedir'). Review-essay author not
+    identified.
+  checked_on: "2026-10-29"

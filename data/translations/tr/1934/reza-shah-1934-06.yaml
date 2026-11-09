@@ -1,0 +1,39 @@
+# Turkish for data/voices/1934/reza-shah-1934-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: reza-shah-1934-06
+voice: Reza Shah Pahlavi
+role: İran Şahı
+quote: >-
+  Türkiye'nin güzel toprağında hakkımda gösterilen fevkalade dostane hüsnü kabulden mütevellit kalbi
+  minnettarlığımı
+quote_kind: original-turkish
+summary: >-
+  Yoldayken Atatürk'e 'muhterem kardeşim' hitabıyla telgraf çekerek Türk topraklarında kendisine gösterilen
+  olağanüstü dostane kabul için teşekkür eder.
+caveat: >-
+  Kadıoğlu tarafından telgrafın Akşam'da basılan metninden alıntılanmıştır (makale kupürü 'Resim 1' olarak
+  tıpkıbasım halinde verir); telgraf Atatürk'ten gelen bir telgrafa yanıttır. 'Muhterem kardeşimden ...' diye
+  başlar. Protokol düzeyinde nezaket; konuşmacı bir devlet başkanı olduğu için kaydedilmiştir, yoğunluk 1.
+mediated_by: >-
+  Kadıoğlu, Çukurova Üniv. SBE Dergisi 34/1 (2025), s. 241 ← Akşam, 14 Haziran 1934 ('Gazi ve Şahinşah Hz.
+  arasında samimi telgraflar')
+verification_note: >-
+  s. 241'de kelimesi kelimesine (metin '242' sayfa başlığından önce gelir): Pehlevi, Atatürk'e: '…Muhterem
+  kardeşimden … Türkiye'nin güzel toprağında hakkımda gösterilen fevkalade dostane hüsnü kabulden mütevellit
+  kalbi minnettarlığımı…', Akşam 14 Haziran 1934 'Gazi ve Şahinşah Hz. arasında samimi telgraflar' (Resim 1)
+  kaynağına atıfla. 'Haziran 1934' tarihi tutarlı (Akşam 14 Haziran). Küçük bir nokta: what_they_saw
+  alanındaki 'dear brother', 'Muhterem kardeşimden' (saygıdeğer kardeşimden) ifadesinin serbest bir
+  çevirisidir. Alıntı bir cümlecik parçasıdır, kabul edilebilir. Bu ifade dışında düzeltme gerekmez.
+verification_method: >-
+  DergiPark PDF'sinin tools/ms ile ücretsiz çekimi; alıntı 242 sayfa başlığının hemen öncesinde tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4142e9b5425b
+  role: 95a8b5886fd0
+  quote: 5be37a3c592d
+  summary: ea3648cc443d
+  caveat: b168ba12e7f6
+  mediated_by: "221401281810"
+  verification_note: 1f9f73bd3bac
+  verification_method: 73a33165ceaf

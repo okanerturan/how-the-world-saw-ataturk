@@ -1,0 +1,23 @@
+# Turkish for data/voices/1921/cecil-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cecil-1921
+voice: Lord Robert Cecil (Milletvekili)
+role: Avam Kamarası'nda Küçük Asya'daki Hristiyan nüfus üzerine görüşme
+quote: >-
+  Mustafa Kemal ile o bölgedeki Hristiyan nüfusun tamamen terk edilmesini içeren bir anlaşma yaptılar
+quote_kind: translated
+summary: >-
+  Fransızların Kemal ile yaptığı anlaşmanın Kilikya'daki Hristiyanları terk ettiğini ve Türk yönetimi yeniden
+  başladığında onların özellikle hedef alınacağını bildirdi.
+caveat: >-
+  Duyuma dayanarak aktarılıyor ("we are told"); Kemal asıl hedef değil, anlaşmanın karşı tarafıdır.
+verification_method: api
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a86a4b5fc247
+  role: 1915d9efeff7
+  quote: 01e98c8b7481
+  summary: 9e78939ce426
+  caveat: b7b62915dd38
+  verification_method: a033a528b603

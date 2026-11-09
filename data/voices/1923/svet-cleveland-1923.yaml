@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: svet-cleveland-1923
+voice: Svět (Cleveland)
+voice_type: press
+role: Czech-language daily, Cleveland, Ohio
+country: United States
+country_now: United States
+domain: press
+date: "1923-09-07"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: editorial
+evidence: P
+summary: >-
+  Essay 'Obrozování Turecka': Lausanne, from which Turkey emerges victor, opens a new era; Kemal's victories
+  drive the Angora national renaissance.
+quote:
+  text: znamená počátek nového období tureckých dějin
+  language: cs
+caveat: >-
+  Essay is headed with an author's initials in the OCR ('Dr. F. Š.'?), not resolved; page header and column
+  order damaged by OCR.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn83045068/1923-09-07/ed-1/?sp=2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Chronicling America sn83045068 1923-09-07 sp=2 page OCR (headed OBROZOVANI TURECKA, Dr. F. S.)
+  method: loc.gov JSON + tile OCR
+  note: Exact (OCR 'de jin'); Lausanne peace 'jako vitez' and Kemal victories drive renaissance.
+  checked_on: "2026-10-30"

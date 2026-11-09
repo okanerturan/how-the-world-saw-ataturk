@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mustafa-bey-karahisar-i-sarki-tbmm-1923-03
+voice: Mustafa Bey (Karahisar-ı Şarki)
+voice_type: person
+role: Karahisar-ı Şarki deputy, First Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1923-03-05"
+era: contemporary
+polarity: conflicted
+intensity: 3
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  In a Lausanne-crisis motion, called Kemal the nation's saviour yet framed the Assembly's quarrel as Kemal
+  versus Caliph Abdülmecid and demanded the cabinet's fall.
+quote:
+  text: >-
+    Reisi Hükûmet Gazi Mustafa Kemal Paşa Hazretleri mi, yoksa Halife Abdülmecit Hazretleri midir?
+  language: tr
+caveat: >-
+  Motion read at the 5 Mart 1339 sitting (4th session), dated 6 Mart; it opens at the foot of p. 168, the
+  quoted sentence is on p. 169 and the three articles and signature on p. 170. Earlier in the same motion (p.
+  169): 'Gazi âli şânımız ve sebebi necatımız Mustafa Kemal Paşa Hazretleri'. Signature reads 'Karahisarışarki
+  Mebusu Mustafa'. Same-name deputies exist, so identify by constituency.
+node: TBMM Closed Session on Lausanne and the Caliph, March 1923
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/0dcc2bb5-59aa-4a20-9584-04ab9d3a2af8/content
+    archived: https://web.archive.org/web/20250524122732/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/0dcc2bb5-59aa-4a20-9584-04ab9d3a2af8/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Gizli Celse Zabitlari Cilt 4 (5 Mart 1339 Pazartesi, 4th session), p.169; signature 'Karahisarisarki
+    Mebusu Mustafa', dated 6 Mart 1339
+  method: pdftotext of Cilt 4; exact
+  note: >-
+    Also 'Gazi ali sanimiz ve sebebi necatimiz' on p.168/169 and cabinet-fall demand (Madde 3).
+  checked_on: "2026-10-30"

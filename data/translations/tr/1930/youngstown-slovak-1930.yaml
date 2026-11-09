@@ -1,0 +1,24 @@
+# Turkish for data/voices/1930/youngstown-slovak-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: youngstown-slovak-1930
+voice: Youngstownské Slovenské Noviny
+role: Slovakça gazete, Youngstown, Ohio
+quote: Yeni Türkiye, Mustafa Kemal Paşa'nın şahsında mükemmel bir cumhurbaşkanına sahiptir
+quote_kind: translated
+summary: >-
+  Türkiye'nin madenlerde çocuk işçiliğini yasaklaması üzerine haber: ABD Güneyi'nin aksine, yeni Türkiye
+  Mustafa Kemal Paşa'nın şahsında mükemmel bir cumhurbaşkanına sahiptir.
+caveat: İmzasız dolgu haberi; ABD Güneyi ile yapılan karşılaştırma gazetenin yorumudur.
+verification_note: >-
+  'TURECKO ZAKÁZALO DEŤOM PRACOVAŤ' başlığı altında alıntı birebir aynı; ABD Güneyi karşılaştırması mevcut.
+verification_method: loc.gov JSON -> tile.loc.gov full_text OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: afb1b346d1a1
+  role: 652f6d583458
+  quote: 5d9a6bce5717
+  summary: 1005f57f6f04
+  caveat: 7d5bd18ad8e5
+  verification_note: b28c9c1ce5a1
+  verification_method: 3285e0490d8a

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-tijd-1934-06-28
+voice: De Tijd
+voice_type: press
+role: Catholic 'godsdienstig-staatkundig dagblad'
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1934-06-28"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Called him the 'Turks' dictator' whose patient waiting for the right moment is one of the ghazi's finest
+  ruler's virtues.
+quote:
+  text: een der uitstekendste heerschersdeugden van den ghazi
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. 'Cosmopolitica' column 'De appel van Kemal'.
+node: Dutch Dailies on the Dictator, 1924–1937
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010535720:mpeg21:a0003
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Delpher ddd:010535720:mpeg21:a0003:ocr; metadata De Tijd 1934-06-28
+  method: fetch
+  checked_on: "2026-10-29"

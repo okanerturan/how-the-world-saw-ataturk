@@ -1,0 +1,25 @@
+# Turkish for data/voices/1921/ismet-inonu-tbmm-1921-09-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ismet-inonu-tbmm-1921-09-19
+voice: İsmet İnönü
+role: Batı Cephesi komutanı ve Edirne milletvekili
+quote: >-
+  Bizzat muharebe meydanındaki tedabir ile muzafferiyetin âmil ve müessiri olmuş olan Başkumandan Mustafa
+  Kemal Paşa Hazretlerine müşirlik rütbesi ve gazilik unvanı tevcihini teklif ve istirham ederiz.
+quote_kind: original-turkish
+summary: >-
+  Sakarya zaferini Kemal'in savaş meydanındaki tedbirlerine bağlayan ve Meclis'ten Mareşal rütbesi ile Gazi
+  unvanı isteyen önergeyi birlikte imzaladı.
+caveat: Fevzi Çakmak ile ortak önerge; bkz. Fevzi kaydı. Basılı metin s. 263.
+verification_note: Fevzi ile ortak önerge, Garp Cephesi başlığı; uyuşuyor.
+verification_method: pdftotext iki sütun kırpma; tam eşleşme (OCR 'Ismet'i 'ismet' olarak okumuş)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 56fa742095a3
+  role: c08ea584cbf6
+  quote: 29f80496480a
+  summary: b85495b4f558
+  caveat: 0f77e4ad619b
+  verification_note: 6052e71daa40
+  verification_method: 819619ac8ae9

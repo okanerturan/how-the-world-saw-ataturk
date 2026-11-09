@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: chicherin-politburo-1920-06
+voice: Georgy Chicherin
+voice_type: person
+role: Soviet People's Commissar for Foreign Affairs
+country: Soviet Russia
+country_now: Russia
+domain: diplomacy
+date: "1920-06-28"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: report
+evidence: S
+summary: >-
+  In a Politburo memo pressed for the promised arms, warning that delay would make Mustafa Kemal see Moscow as
+  talkers and deceivers.
+quote:
+  text: >-
+    will force Mustafa Kemal to look at us as talkers and deceivers, and what is even more important,
+    revolutionary Turkey can be crushed
+  language: en
+caveat: >-
+  Quote is an English translation of the Russian document as mirrored on marxistleninists.org (document No. 83
+  on that page); Russian original not seen.
+node: Soviet Leaders on the Kemalists, 1920–1930
+sources:
+  - url: http://marxistleninists.org/Soviet%20Archives/Bolshevik%20Leaders%20Correspondence/1920/april%2023%20%201920.htm
+    archived: https://web.archive.org/web/20261109085657/http://marxistleninists.org/Soviet%20Archives/Bolshevik%20Leaders%20Correspondence/1920/april%2023%20%201920.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    marxistleninists.org 'Bolshevik Leaders correspondence' page (file named april 23 1920), document 'No.
+    83', Chicherin to Politburo, 28 June 1920
+  method: Free fetch; sentence found in the English translation on the page
+  note: >-
+    Quote verbatim in the page's English. CORRECTION: the document is No. 83 in that mirror, not No. 70 as the
+    caveat says (the Chicherin-to-Politburo entries on that page are Nos. 80, 81 and 83; only No. 83 holds the
+    quote). The page URL date (april 23) is just the file name; the document is dated June 28, 1920. English
+    translation only; Russian original unseen.
+  checked_on: "2026-11-01"

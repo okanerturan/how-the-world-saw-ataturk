@@ -1,0 +1,42 @@
+# Turkish for data/voices/1930/prince-andrew-of-greece-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: prince-andrew-of-greece-1930
+voice: Yunanistan Prensi Andrew
+role: 1921'de Anadolu'daki Yunan Ordusu kolordu komutanı; Towards Disaster kitabının yazarı
+quote: >-
+  Mustafa Kemal Paşa ve İsmet Paşa gibi büyük askeri yeteneğe sahip liderler tarafından komuta edilmemiş
+  olsaydı.
+quote_kind: translated
+summary: >-
+  1921'de Yunan ordusuna açık olan bir manevrayı, 'büyük askeri yeteneğe' sahip liderleri Kemal ve İsmet
+  olmasaydı Türkler için neredeyse ölümcül olacağı şeklinde yorumlar.
+caveat: >-
+  Towards Disaster: The Greek Army in Asia Minor in 1921 (John Murray, 1930), s. 33 (üst başlık 'A NATURALLY
+  STRONG LINE 33'); açık tarama towardsdisastergreekarmy1921. Alıntı cümlenin sonudur; tam yan cümle şöyledir:
+  'might almost have caused the destruction of the Turkish Army, if it had not been commanded by leaders of
+  great military capacity as Mustapha Kemal Pasha and Ismet Pasha'. s. 173'te Türk subaylarının, Kemal'in iki
+  gün önce 'in the lines' bulunduğunu ve 'encouraging and urging his men to a last desperate fight' içinde
+  olduğunu söylediklerini aktarır (bir aktarım, yargı yok). Kitap, Yunan felaketine düşmanın değil Yunan
+  komutanlığının kendi kararlarının yol açtığını savunur; buradaki ses, rakipleri hakkında konuşan yenilmiş
+  bir subayın sesidir. Tarafsız üslupla kullanıldı; Sakarya ve Anadolu hassas konulardır.
+verification_note: >-
+  Birebir aynı, s. 33 (üst başlık 'A NATURALLY STRONG LINE 33'): '...might almost have caused the destruction
+  of the Turkish Army, if it had not been commanded by leaders of great military capacity as Mustapha Kemal
+  Pasha and Ismet Pasha.' Buradaki 'might have destroyed' ifadesi Yunan ordusuna açık olan bir manevraya dair
+  Andrew'un kendi yorumudur; dolayısıyla what_they_saw uygundur ancak 'a manoeuvre open to the Greeks'
+  demelidir. s. 173'teki aktarım (esir alınan Türk subayları Kemal'in iki gün önce hatlarda bulunduğunu ve
+  'encouraging and urging his men to a last desperate fight' içinde olduğunu söylemiştir) doğrulandı; bir
+  yargı değil, aktarımdır. Yoğunluk 1 uygun (kısa, dolaylı övgü). DÖNEM DÜZELTMESİ: 'posthumous' değil,
+  'contemporary' (1930, Kemal hayatta).
+verification_method: >-
+  açık djvu metninin curl ile çekilmesi, bağlam içinde okunması; sayfa numarası üst başlıktan
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 65ed8421e829
+  role: ca1b7dc3bbdc
+  quote: aa904b076126
+  summary: df1c1bba07bc
+  caveat: cbad815992b3
+  verification_note: eecc2a418f46
+  verification_method: ecca85580fe6

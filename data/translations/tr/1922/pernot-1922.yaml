@@ -1,0 +1,35 @@
+# Turkish for data/voices/1922/pernot-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pernot-1922
+voice: Maurice Pernot
+role: Fransız gazeteci ve Yakındoğu uzmanı, Revue des Deux Mondes
+quote: >-
+  Askerler tarafından taparcasına sevilen Mustafa Kemal, teknik değeri belki de kendisininkinden üstün olanlar
+  da dâhil olmak üzere komutanlarca takdir edilmektedir.
+quote_kind: translated
+summary: >-
+  Ankara liderini askerleri tarafından taparcasına sevilen ve generallerce takdir edilen ulusal bir kahraman
+  olarak betimlerken, muhaliflerin diktatörlük suçlamalarını da kaydeder.
+caveat: >-
+  Pernot, 'La Question turque' II, 'Angora', Revue des Deux Mondes, 7. dönem, c. 7 (1922), s. 549–579 olarak
+  kaynak gösterilmiştir; alıntı s. 567'dedir (Wikisource sayfa numaraları). Wikisource transkripsiyonu; 1922
+  içindeki sayı tarihi transkripsiyonda basılı değildir (c. 7 = 1922 başı), dolayısıyla yalnızca yıl
+  verilmiştir. Pernot ayrıca onu 'le jeune dictateur' diye adlandırır ve muhaliflerin 'allures de dictateur'
+  suçlamasını aktarır; 'adoré par les soldats' cümlesi alıntılanmış bir kaynak değil, Pernot'nun kendi
+  yargısıdır. Karışık: İttihatçı sertlik yanlılarına karşı bir ılımlının Fransız politikası çerçevesinde
+  çizilmiş sempatik portresi.
+verification_note: >-
+  Birebir aynı. 'jeune dictateur' ve 'allures de dictateur' (muhaliflerin suçlaması) mevcut, dolayısıyla
+  çelişkili/karışık nitelemesi savunulabilir. 1922 içindeki sayı tarihi basılı değil (c. 7 = 1922 başı);
+  yalnızca yıl uygun. Sayfa 567 bağımsız olarak doğrulanmadı.
+verification_method: işlenmiş sayfa çekildi, dizge eşleştirildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 628f1c61b328
+  role: 3254d4542e85
+  quote: 2501abb481eb
+  summary: 2e387ab00ade
+  caveat: 7ced58736f0c
+  verification_note: 6d768efd204a
+  verification_method: 72f7fa42fcd7

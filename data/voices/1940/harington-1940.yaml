@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: harington-1940
+voice: Charles Harington
+voice_type: person
+role: >-
+  British general, commander of Allied forces at Constantinople 1920-23; memoir Tim Harington Looks Back
+country: United Kingdom
+country_now: United Kingdom
+domain: military
+date: "1940"
+era: posthumous
+polarity: conflicted
+intensity: 2
+mirror: chivalrous-enemy
+artifact: memoir
+evidence: P
+summary: >-
+  Calls Kemal 'a real soldier' who stopped the Greeks on the Sakarya and 'saw his chance' at Afyon; says
+  Allied arms stocks fed his army.
+quote:
+  text: >-
+    This must have rejoiced the heart of Mustapha Kemal, a real soldier, who held them up quite definitely on
+    the River Sakaria.
+  language: en
+caveat: >-
+  Tim Harington Looks Back (John Murray, 1940), p. 108 (page footers; the Afyon line is p. 110); open DLI scan
+  in.ernet.dli.2015.176573. P. 110: 'With the Greeks weakened by their detachment in Eastern Thrace, Mustapha
+  Kemal saw his chance and seized it. He struck a bit of the line near Afium Karahissar'. Elsewhere the Chanak
+  commander says that the arms the Allies stored after 1918 were released to the Turks and 'formed the nucleus
+  of the army which Mustapha Kemal built up', and that Kemal 'sent some very difficult men to Constantinople'.
+  He prints Kemal's and Ismet's letters after the Mudania agreement (c. p. 150). Conflicted rather than
+  admiring: professional respect with the grievance of the Chanak commander. Neutral voice on Chanak. The
+  'difficult men … lessening the authority of the Allied Forces' sentence is p. 224.
+node: Soldiers on Mustafa Kemal in Their Own Words, 1915–1940
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.176573
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Harington, Tim Harington Looks Back (John Murray, Nov 1940), archive.org in.ernet.dli.2015.176573, djvu
+    text plus djvu.xml leaf check
+  method: >-
+    curl of the open djvu text and djvu.xml; page numbers are page-foot folios (leaf 121 ends with '110');
+    book index checked
+  note: >-
+    Quote verbatim: 'This must have rejoiced the heart of Mustapha Kemal, a real soldier, who held them up
+    quite definitely on the River Sakaria.' PAGE FIX: the folios are at the foot, so this is p. 108 (index
+    lists Kemal at 108, 110), not 107; 'saw his chance and seized it. He struck a bit of the line near Afium
+    Karahissar' is p. 110, not 109. The 'late President ... whose gallantry in the Gallipoli Campaign will
+    ever be remembered' is also p. 108. 'Mustapha Kemal then sent some very difficult men to Constantinople
+    ... with the idea of gaining power and lessening the authority of the Allied Forces of Occupation' and the
+    arms 'formed the nucleus of the army which Mustapha Kemal built up' are p. 224 (not listed in the index).
+    Harington says he never met Kemal. POLARITY: 'conflicted' is defensible (admiring soldier's verdict plus
+    the grievance and 'collecting arms ... some quite wrongly'), but the stored quote and what_they_saw carry
+    only the admiring pole; either add the p. 224 'difficult men' sentence as the second pole in the
+    caveat/note or re-label admiring intensity 1-2. Era posthumous correct (1940, calls him 'the late
+    President').
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

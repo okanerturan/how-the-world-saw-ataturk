@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hawke-1991
+voice: Bob Hawke
+voice_type: person
+role: Prime Minister of Australia (1983–1991)
+country: Australia
+country_now: Australia
+domain: politics
+date: "1991-05-09"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  Tells President Özal that Atatürk's leadership and skill at Gallipoli paved the way for his building of the
+  modern Turkish state.
+quote:
+  text: >-
+    the leadership and skill displayed by Kemal Ataturk in defending his homeland at Gallipoli paved the way
+    for his building of the modern state of Turkey.
+  language: en
+caveat: >-
+  A toast-style speech to a visiting head of state; praise is partly occasion. The 'Johnnies and Mehmets' /
+  'your sons are now lying in our bosom' text that Anzac speakers attribute to Atatürk is itself contested: no
+  1934 original has been found, it first appears in print in 1953 via Interior Minister Şükrü Kaya's
+  recollection, and the 'Johnnies and Mehmets' clause is a 1978 Australian addition (see [[Johnnies and
+  Mehmets]]). So this is a speaker's view of the Atatürk of the Anzac legend, spoken at a commemorative or
+  diplomatic occasion that rewards praise. Cited as: Speech at Parliamentary dinner for President Özal of
+  Turkey, Canberra, 9 May 1991.
+node: Anzac Day Leaders on Atatürk, 1990–2024 — Australian and New Zealand Speeches
+sources:
+  - url: https://pmtranscripts.pmc.gov.au/release/transcript-8295
+    archived: https://web.archive.org/web/20221114050157/https://pmtranscripts.pmc.gov.au/release/transcript-8295
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: pmtranscripts.pmc.gov.au XML query?transcript=8295
+  method: >-
+    fetched source fresh, normalised-text match of the quote; speaker, date and title read from metadata/byline
+  note: >-
+    Verbatim in transcript 8295 (Hawke, dinner for President Ozal, 9 May 1991), own words crediting Atatürk's
+    leadership and skill. Occasion-bound praise as caveat says; admiring 1 fair.
+  checked_on: "2026-11-03"

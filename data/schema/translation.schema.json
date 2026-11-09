@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/okanerturan/how-the-world-saw-ataturk/main/data/schema/translation.schema.json",
+  "title": "Translation of a voice record",
+  "description": "The Turkish for one record, in data/translations/tr/<YYYY>/<id>.yaml: same id and year folder as data/voices/<YYYY>/<id>.yaml. Machine translated; corrections welcome. A field whose source_fingerprints entry no longer matches the English is stale: the site shows the English for it until it is retranslated.\n\nTR: Bir kaydın Türkçesi, data/translations/tr/<YYYY>/<id>.yaml dosyasında; data/voices/<YYYY>/<id>.yaml ile aynı kimlik ve yıl klasörü. Makine çevirisi; düzeltmeler memnuniyetle karşılanır. source_fingerprints değeri İngilizceyle artık eşleşmeyen alan eskimiştir: yeniden çevrilene kadar sitede o alanın İngilizcesi gösterilir.",
+  "type": "object",
+  "required": ["id"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "description": "Id of the record this translates. The record must exist, in the same year folder.\n\nTR: Çevrilen kaydın kimliği. Kayıt mevcut olmalı ve aynı yıl klasöründe bulunmalı.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "voice": {
+      "description": "Turkish for the record's voice (names usually stay as they are).\n\nTR: Kaydın voice alanının Türkçesi (adlar genellikle olduğu gibi kalır).",
+      "type": "string"
+    },
+    "role": {
+      "description": "Turkish for role.\n\nTR: role alanının Türkçesi.",
+      "type": "string"
+    },
+    "quote": {
+      "description": "Turkish for the quote: the speaker's own words when they are Turkish (quote_kind: original-turkish), otherwise a translation (quote_kind: translated).\n\nTR: Alıntının Türkçesi: konuşanın sözleri zaten Türkçeyse kendisi (quote_kind: original-turkish), değilse çevirisi (quote_kind: translated).",
+      "type": "string"
+    },
+    "quote_kind": {
+      "description": "original-turkish: quote is the speaker's own Turkish · translated: quote is a translation.\n\nTR: original-turkish: quote konuşanın kendi Türkçesidir · translated: quote bir çeviridir.",
+      "enum": ["original-turkish", "translated"]
+    },
+    "summary": {
+      "description": "Turkish for summary.\n\nTR: summary alanının Türkçesi.",
+      "type": "string"
+    },
+    "caveat": {
+      "description": "Turkish for caveat.\n\nTR: caveat alanının Türkçesi.",
+      "type": "string"
+    },
+    "mediated_by": {
+      "description": "Turkish for mediated_by.\n\nTR: mediated_by alanının Türkçesi.",
+      "type": "string"
+    },
+    "verification_note": {
+      "description": "Turkish for verification.note.\n\nTR: verification.note alanının Türkçesi.",
+      "type": "string"
+    },
+    "verification_method": {
+      "description": "Turkish for verification.method.\n\nTR: verification.method alanının Türkçesi.",
+      "type": "string"
+    },
+    "translated_by": {
+      "description": "Who translated: \"machine: <model> (<date>)\", or a name or GitHub handle.\n\nTR: Çeviren: \"machine: <model> (<tarih>)\", ya da bir ad veya GitHub kullanıcı adı.",
+      "type": "string",
+      "minLength": 1
+    },
+    "reviewed_by": {
+      "description": "Names or GitHub handles of the people who reviewed the Turkish.\n\nTR: Türkçeyi gözden geçirenlerin adları ya da GitHub kullanıcı adları.",
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true
+    },
+    "source_fingerprints": {
+      "description": "For each translated field, the first 12 hex characters of the SHA-1 of the English it was translated from (see translatable() and fingerprint() in tools/lib/records.mjs). Leave them as they are when you correct the Turkish; the validator prints the new value when the English has changed.\n\nTR: Çevrilen her alan için, çevrildiği İngilizce metnin SHA-1 özetinin ilk 12 onaltılık karakteri (bkz. tools/lib/records.mjs içindeki translatable() ve fingerprint()). Türkçeyi düzeltirken olduğu gibi bırakın; İngilizce değiştiyse doğrulayıcı yeni değeri yazar.",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "voice": { "$ref": "#/$defs/fingerprint" },
+        "role": { "$ref": "#/$defs/fingerprint" },
+        "quote": { "$ref": "#/$defs/fingerprint" },
+        "summary": { "$ref": "#/$defs/fingerprint" },
+        "caveat": { "$ref": "#/$defs/fingerprint" },
+        "mediated_by": { "$ref": "#/$defs/fingerprint" },
+        "verification_note": { "$ref": "#/$defs/fingerprint" },
+        "verification_method": { "$ref": "#/$defs/fingerprint" }
+      }
+    }
+  },
+  "$defs": {
+    "fingerprint": {
+      "description": "First 12 hex characters of the SHA-1 of the English text.\n\nTR: İngilizce metnin SHA-1 özetinin ilk 12 onaltılık karakteri.",
+      "type": "string",
+      "pattern": "^[0-9a-f]{12}$"
+    }
+  }
+}

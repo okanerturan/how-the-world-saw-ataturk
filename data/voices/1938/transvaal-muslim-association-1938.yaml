@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: transvaal-muslim-association-1938
+voice: Transvaal Muslim Association
+voice_type: institution
+role: Johannesburg Muslim body
+country: South Africa
+country_now: South Africa
+domain: religion
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Called him Ghazi, Islam and saviour of Muslim honour.
+quote:
+  text: Kemal Ataturk Ghazi, Islam and saviour of Muslim honour
+  language: en
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    a local working file telegram Johannesburg: "transvaal muslims mourn loss kemal ataturk ghazi islam and
+    saviour muslim honour" (OCR garbled "gahzi iseam")
+  method: local
+  checked_on: "2026-10-29"

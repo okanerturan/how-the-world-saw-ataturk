@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: vahideddin-1924
+voice: Mehmed VI Vahideddin
+voice_type: person
+role: Last Ottoman Sultan, in exile at San Remo; notes taken by Şerif Paşa
+country: Italy
+country_now: Italy
+domain: politics
+date: "1924"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: memoir
+evidence: S
+summary: >-
+  Says Kemal was sent to Anatolia by the palace and openly rebelled; neither Damad Ferid nor Tevfik Pasha
+  could bring him to heel.
+quote:
+  text: >-
+    Bildiğiniz gibi Mustafa Kemal Paşa'yı Anadolu'ya biz gönderdik ve o açık bir şekilde bize isyan etti.
+  language: tr
+mediated_by: Şerif Paşa's French notes of talks with Vahideddin (1924-25) ← Bardakçı 2006, Belge 2
+caveat: >-
+  Belge 2 in Bardakçı's documents section: Turkish translation of parts of Şerif Paşa's French record of
+  private conversations at San Remo, 1924-25; the year is the range's start. The same notes list Kemal's
+  'different roles' (hiding behind the defence of the country to keep leading the movement, running propaganda
+  against the palace, accusing it of taking foreign money) and call the accusations 'lies'. Bardakçı also
+  quotes the sentence in the body (p. 215) in slightly different words as from 'his memoirs'. Not the Sultan's
+  own text but a courtier's record; the book's own page for Belge 2 is not legible in the OCR.
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://archive.org/details/sahbaba-murat-bardakci
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    archive.org Şahbaba djvu text, Belge 2 ('Şerif Paşa'nın Sultan Vahideddin'den tuttuğu şahsi notlar
+    (1924-1925)'), p.442
+  method: archive.org djvu download
+  note: >-
+    Verbatim on p.442 (between folios 441 and 442): 'Bildiğiniz gibi Mustafa Kemal Paşa'yı Anadolu'ya biz
+    gönderdik ve o açık bir şekilde bize isyan etti. Damad Ferid Paşa günün birinde onu görevden almak ve
+    aklını başına getirtmek istedi ama başaramadı. ... Tevfik Paşa'yı vazifeye çağırdım ama o da aynı şekilde
+    başarısız oldu.' Belge 2 intro: partial Turkish translation of Şerif Paşa's FRENCH document (private talks
+    at San Remo, 1924-25), and the text is introduced by 'Konuşmaya yeniden başlayan Zât-ı Şahâne şunları
+    söyledi', i.e. a courtier's record in translation. The p.215 body version differs in wording (checked) and
+    its note says 'Şerif Paşa notes', though the text calls it 'hatıralarında'. Evidence S is right; artifact
+    'memoir' is loose (notes of conversation); date 1924 = start of the range.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

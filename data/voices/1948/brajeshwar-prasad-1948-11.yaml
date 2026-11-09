@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: brajeshwar-prasad-1948-11
+voice: Brajeshwar Prasad
+voice_type: person
+role: Member of the Constituent Assembly (Bihar)
+country: India
+country_now: India
+domain: politics
+date: "1948-11-09"
+era: posthumous
+polarity: instrumental
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Against parliamentary democracy, lists Kemal with Hitler, Mussolini and Stalin as builders of 'indirect'
+  democracy; later, his record is 'as good' as parliamentarians'.
+quote:
+  text: >-
+    The system of government set up by Hitler, Mussolini, Kemal Ataturk and Stalin represent the indirect
+    forms of democracy. The whole of Germany, Italy and Turkey were behind the dictators.
+  language: en
+caveat: >-
+  Constituent Assembly of India Debates, vol. VII, 9 Nov 1948, pp. 373-374. Official report digitised by the
+  Lok Sabha Secretariat / Government of India Press, via archive.org OCR. Speaks for 'philosopher-kings' and
+  one-party rule; the same speech says 'Germany, Italy and Turkey rose to grand heights under Hitler,
+  Mussolini and Kemal Ataturk' and 'the records of Mushtapha Kemal and Mussolini are as good as that of the
+  leaders of parliamentary democracy' (p. 374). Sensitive framing (fascist comparison) is the speaker's own.
+  Text read from the OCR of the official report; obvious OCR slips are  in the quote.
+node: >-
+  Constituent Assembly and Lok Sabha on Atatürk, 1946–1966 — Radhakrishnan, Gour, Kamath, Anthony and
+  Brajeshwar Prasad
+sources:
+  - url: https://archive.org/download/eparlib.nic.in.760458/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Constituent Assembly Debates Book 2 (eparlib.nic.in.760458), vol. VII, 9 Nov 1948, p. 373 (quote; header
+    374 follows) and p. 374 ('records of Mushtapha Kemal and Mussolini are as good'); speaker header 'Shri
+    Brajeshwar Prasad (Bihar : General)', interrupted by Nagappa and resumed
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim, two consecutive sentences; no OCR correction needed (the record's 'silently corrected'
+    boilerplate did not apply). The sentences 'Germany, Italy and Turkey rose to grand heights under Hitler,
+    Mussolini and Kemal Ataturk' and 'as good as' are present. His view of Kemal is a judgement (success,
+    democratic legitimacy), so the gaze test passes; polarity instrumental fair. The sensitive framing is the
+    speaker's own and is flagged.
+  checked_on: "2026-11-03"

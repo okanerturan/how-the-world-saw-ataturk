@@ -1,0 +1,38 @@
+# Turkish for data/voices/1984/ben-bella-1984-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ben-bella-1984-07
+voice: Ahmed Ben Bella
+role: Cezayir'in ilk Cumhurbaşkanı (sürgünde)
+quote: >-
+  Türkleri Batılı sayması, çok hayati bir hataydı. Fakat bu bir yana, benim kendisine büyük hayranlığım var.
+quote_kind: original-turkish
+summary: >-
+  Yunanlara ve Batılı güçlere meydan okuduğu için Mustafa Kemal'i olağanüstü olarak nitelendirir ve ona
+  hayranlık duyar, ancak Türkleri Batılı saymanın hayati bir hata olduğunu söyler.
+caveat: >-
+  Gazetede basılan soru-cevap mülakatı (15 Temmuz tarihli bölüm Cengiz Çandar imzalıdır), sayfanın Cumhuriyet
+  e-arşiv OCR metninden okundu (OCR dizgi hataları düzeltildi: 'hayranhğım'). Ayrıca Türkiye haritadan
+  silinmek istendiğinde Yunanlara ve arkalarındaki Batılı güçlere direnerek Mustafa Kemal'in 'olağanüstü bir
+  insan' olduğunu, askeri kişiliğine hayranlık duyduğunu ve 'Ancak' (fakat) dedikten sonra onun daha sonraki
+  çarelerini paylaşmadıklarını (OCR 'getirdiği çarelerle ayru fikirde değiliz', 'aynı fikirde değiliz' olarak
+  okundu) söyler. Cezayirli aktivistlerin 1930'larda ve 40'larda Kemal'i incelediğini belirtir.
+mediated_by: >-
+  Cumhuriyet, 16 Temmuz 1984 s. 8, 'Ben Bella anlatıyor' dizisi (Cenevre söyleşisi, Türkçe çevirisiyle
+  basılmış)
+verification_note: >-
+  Türkçe alıntı kelimesi kelimesine mevcut (OCR 'hayranhğım'); 'olağanüstü bir insan oldu' ve 'getirdiği
+  çarelerle ayru [aynı] fikirde değiliz' ifadeleri ile 1930'lar-40'larda inceleme yanıtı da yer alıyor.
+  KADEME: bu, Türkçe çeviri olarak basılmış bir gazete soru-cevap mülakatıdır; dolayısıyla kendi metni değil,
+  basındır. Kanıt P → J. mediated_by doğru doldurulmuş.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: dc0420681a81
+  role: f34d9c8c0e7c
+  quote: 65dd67de8eda
+  summary: f0a76a673501
+  caveat: 49d594e2ce72
+  mediated_by: d6376bf1102c
+  verification_note: 049041a9d3d9
+  verification_method: 5300d17a1d69

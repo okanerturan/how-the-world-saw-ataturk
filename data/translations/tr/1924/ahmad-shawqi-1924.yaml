@@ -1,0 +1,27 @@
+# Turkish for data/voices/1924/ahmad-shawqi-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ahmad-shawqi-1924
+voice: Ahmad Shawqi
+role: Mısırlı 'Şairler Prensi'
+quote: Topluluğu diriltenin mürtet olduğunu ve hakları iade edenin sefih olduğunu mu söyleyeyim?
+quote_kind: translated
+summary: >-
+  Kaldırılan hilafetin yasını tutar, Gazi'ye mürtet denmesini reddeder ve onu öğüt dinleyip bu yoldan dönmeye
+  çağırır.
+caveat: >-
+  Tarih kaldırılıştan çıkarımlandı; editörün notu yanlışlıkla 1923 diyor. Alıntı, notta basılı olan Arapça
+  özgün metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+verification_note: ""
+verification_method: >-
+  sayfa görüntüsü okundu; Arapça 'a-aqulu man ahya al-jama'a mulhid / wa-aqulu man radd al-huquq ibahi'
+  mevcut, çeviri sadık; editör notu 7 al-Ghazi = Mustafa Kemal açıklamasını düşüyor
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 21df07376994
+  role: 1ae8aee12900
+  quote: 31f072a8502e
+  summary: 54bf974a26a2
+  caveat: 71c2b4fd10e2
+  verification_note: da39a3ee5e6b
+  verification_method: 8a82216f8395

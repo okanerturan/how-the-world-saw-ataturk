@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mehmet-akif-1935-08
+voice: Mehmet Âkif Ersoy
+voice_type: person
+role: Poet of the İstiklâl Marşı, former Burdur deputy, living in Cairo
+country: Turkey (resident in Egypt)
+country_now: Turkey
+domain: letters
+date: "1935-08"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  Reportedly said in Antakya that the Gazi owed Rauf his life, honour and position many times over, yet worked
+  to ruin him.
+quote:
+  text: >-
+    Zira Gazi paşa Rauf beyi çekemez. Çünki Gazi paşa def'atla hayatını, şerefini ve mevkiini Rauf beye
+    medyundur.
+  language: tr
+mediated_by: >-
+  TBMM, İstiklâl Marşı ve Mehmet Âkif Ersoy: Belgeler (2021), doc. 8.3 (from p. 84) ← İstanbul Valiliği to the
+  Interior Minister ← informant '117', report no. 5 of 6 Sept 1935
+caveat: >-
+  TRANSLATION (this record's): 'For the Gazi cannot bear Rauf Bey. Because the Gazi has owed his life, his
+  honour and his position to Rauf Bey time and again.' Hearsay in a police informant's report, a hostile and
+  interested source; the report presents it as what 'Şair Akif ... Atatürk hakkında demişdir'. OCR normalised
+  ('mevki- ini' → 'mevkiini'). Âkif was in Antakya (then French mandate Sanjak) for about three weeks and left
+  on 31 Aug 1935. The same reports say he called the abolition of the Caliphate 'en büyük bir dinsizlik' and
+  praised Abdülmecid; those are about the regime, not Kemal personally. The same TBMM volume prints Kemal's
+  1920 telegram arranging Âkif's election for Burdur (a contact from Kemal's side). Âkif's letters from Egypt
+  were not found in free sources.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/istiklal-marsi-ve-mehmet-akif-ersoy
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org istiklal-marsi-ve-mehmet-akif-ersoy (TBMM 2021, İstiklâl Marşı ve Mehmet Âkif Ersoy:
+    Belgeler), djvu text; contents: doc. 8.3 'İstanbul Valiliğinin ... Dâhiliye Vekiline gönderdiği cevabi
+    yazı' from p. 84; extract '117 nin 6/ Eylül/935 tarih ve 5 Noslı raporunda'
+  method: archive.org open djvu text read
+  note: >-
+    Quote verbatim (OCR 'Rauf be- yi', 'mevki- ini' joined): 'Şair Akif, Türkiye ricalinden de yeğân yeğân
+    bahsederek Atatürk hakkında demişdir ki ( Rauf bey Türkiyeye avdet eylemiş, Fakat ... bir mevki ihraz
+    edemez. Zira Gazi paşa Rauf beyi çekemez. Çünki Gazi paşa def'atla hayatını, şerefini ve mevkiini Rauf
+    beye medyundur ... Rauf beyi mahva çalışmıştır'. The same report says he left Antakya on 31 Aug 1935 after
+    a telegram; the 28 Aug 1935 report no. 3 says he had been there three weeks. Fair to attribute only as an
+    informant's hearsay, and the record says so (mediated_by, caveat, 'Reportedly'). The report is hostile to
+    him ('boş boğazlığile', 'zehirler saçmıştır'), so weigh it that way. Correction: what_they_saw 'told
+    Antakya notables' → 'said in Antakya'. The report ties his general talk to banquets with the eşraf but
+    does not say who heard this remark. Hostile is supported by the reported words; intensity 1 is right. Doc
+    8.3 is the governor's reply written in mid-1936 (8.2, the minister's request, is dated 26/6/936) quoting
+    the 1935 reports, so the chain in mediated_by is correct. Schema ok.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33)
+  checked_on: "2026-11-06"

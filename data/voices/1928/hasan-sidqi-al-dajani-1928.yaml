@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hasan-sidqi-al-dajani-1928
+voice: Hasan Sidqi al-Dajani
+voice_type: person
+role: Lecturer on 'Renewal in Turkey and Islam'
+country: Palestine (Mandate)
+country_now: Palestine
+domain: letters
+date: "1928-10"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Lecturer called Kemal's works a clear victory over time and a great revolution; defended women's unveiling
+  and the Latin script.
+quote:
+  text: >-
+    What al-Ghazi Mustafa Kemal Pasha has done of brilliant works, which are a clear victory over time and a
+    tremendous revolution and great development
+  language: en
+mediated_by: al-Fath no. 119 p. 301, signed al-Ri'awi al-Saghir (hostile report)
+caveat: >-
+  Reported by a hostile correspondent; lecture itself not seen; date of lecture unknown (month of report).
+  Quote is the note author's English translation of the Arabic original, which the note prints.
+node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
+sources:
+  - url: https://archive.org/details/efath-moheb-elden-elkheeb
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA efath-moheb-elden-elkheeb 001_125 PDF, pdf 1897 (p.301; no.119, 25 Oct 1928)
+  method: >-
+    curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
+  note: >-
+    Arabic quote opens report of lecture 'al-Tajaddud fi Turkiya wa al-Islam' by Hasan Sidqi al-Dajani,
+    relayed by hostile correspondent; consul source, women/veil and Latin script points present; lecture date
+    not printed; mediated caveat accurate.
+  checked_on: "2026-10-30"

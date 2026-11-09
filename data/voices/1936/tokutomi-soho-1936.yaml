@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tokutomi-soho-1936
+voice: Tokutomi Sohō
+voice_type: person
+role: Japanese journalist-historian, publisher of Kokumin Shimbun
+country: Japan
+country_now: Japan
+domain: letters
+date: "1936"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: nation-forge-template
+artifact: book
+evidence: P
+summary: >-
+  Insists Kemal Pasha at least rose with Japan as his ideal, part of a claim that Egypt, Turkey and India
+  copied Japan.
+quote:
+  text: 尠くともケマルパシヤだけは、間違ひなく、日本を理想として起つたもので、これは決して疑ひを容れないのであります。
+  language: ja
+caveat: >-
+  Warera no Nihon seishin (1936), printed p. 110, read on the page image (NDL image 65); a lecture text. The
+  same claim appears in Gendai Nihon to sekai no ugoki (1931, pid 1268736, 'Kemal Pasha ... also learned from
+  Japan'). It is Tokutomi's Japan-centred appropriation, not a report of Kemal's own view.
+node: Japanese Statesmen on Kemal, 1923–1939 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1261236
+  - url: https://dl.ndl.go.jp/pid/1268736
+    archived: https://web.archive.org/web/20250712001156/https://dl.ndl.go.jp/pid/1268736
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: NDL pid 1261236 (Warera no Nihon seishin), image 65 = printed p. 110
+  method: >-
+    NDL Digital Collections page image (dl.ndl.go.jp IIIF) + lab.ndl.go.jp fulltext-json; viewed image
+  note: >-
+    Quote verbatim on p. 110 (image 65); Egypt, Turkey and India all copied Japan is on the same page. It is
+    Tokutomi's claim about Kemal's motive, not an evaluation: borderline on the strict test, passes only as
+    'instrumental' (his image of Kemal as Japan's pupil). Keep as instrumental, intensity 2 is generous (1 is
+    safer).
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (rounds 26–28)
+  checked_on: "2026-11-05"

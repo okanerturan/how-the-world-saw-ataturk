@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rashid-rida-manar-1926
+voice: Rashid Rida
+voice_type: person
+role: Salafi theologian; editor of al-Manar
+country: Egypt
+country_now: Egypt
+domain: religion
+date: "1926-01-14"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: P
+summary: >-
+  Hat fatwa: allowed in itself but a secularist tool; the world will see the fate of Turks remade by Kemal's
+  methods.
+quote:
+  text: >-
+    the world will know the fate of the Turks from Mustafa Kemal's attempt to make them a new creation by
+    these ways he has taken
+  language: en
+caveat: >-
+  Unsigned fatwa column, attributed to Rida as editor. Quote is the note author's English translation of the
+  Arabic original, which the note prints.
+node: Al-Manar 26–29 (1926–1928) — Rida on Kemal's Reforms
+sources:
+  - url: https://archive.org/details/Almanar
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA Almanar almanar26.pdf, pdf 382-384 (pp.496-498; cover pdf 370: 29 Jumada II 1344 / 14 Jan 1926)
+  method: >-
+    curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
+  note: >-
+    Arabic on p.498 verbatim; Fatawa al-Manar column, 'Takmilat fatwa al-libas wa al-zayy', unsigned (Rida's
+    column); author of cited article is a German writer (not a reader) but the quote is the editor's own
+    comment; hostile holds.
+  checked_on: "2026-10-30"

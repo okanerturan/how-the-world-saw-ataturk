@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/kurier-poranny-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kurier-poranny-1938
+voice: Kurier Poranny
+role: Polonya günlük gazetesi
+summary: Bir ülkeyi nasıl yeniden yarattığını ayrıntılarıyla anlattı.
+mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
+verification_note: >-
+  Toksoy yalnızca tek satırlık bir özet verir: Milli Mücadele'den sonraki başlıca rolü, bir ülkeyi ince
+  ayrıntılarıyla baştan yaratması
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f463aced97e7
+  role: 641b9c0b6346
+  summary: 48831a7ab6d5
+  mediated_by: aa5a462e96c0
+  verification_note: a47052615140
+  verification_method: 939bb46a04c3

@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: blinken-2023-02-20-book
+voice: Antony Blinken
+voice_type: person
+role: US Secretary of State; entry in the Anıtkabir special book
+country: United States
+country_now: United States
+domain: diplomacy
+date: "2023-02-20"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Honoured to pay respects to the Turkish nation and to Atatürk; the entry is mostly about earthquake
+  solidarity and the bond between the peoples.
+quote:
+  text: >-
+    Türk ulusu ve Büyük Önder Mustafa Kemal Atatürk'e saygılarımı sunmaktan büyük bir onur duyuyorum.
+  is_translation: true
+  language: tr
+mediated_by: TGRT Haber and Şehitler Ölmez, 20 Feb 2023 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of an entry written in English. Written two weeks after the Kahramanmaraş earthquakes; the
+  rest of the entry speaks of the bond between the peoples 'since the birth of the Republic'. TGRT Haber and
+  Şehitler Ölmez print it; whether both repeat one wire was not checked. Courtesy line with no evaluation of
+  Atatürk.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.tgrthaber.com/dunya/turkiyedeki-abdli-bakan-blinkenin-anitkabir-ozel-defteri-2876244
+  - url: https://www.sehitlerolmez.com/abd-disisleri-bakani-blinken-anitkabiri-ziyaret-etti-ozel-deftere-yazi-yazdi
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TGRT Haber 20 Feb 2023 15:47; Şehitler Ölmez 20 Feb 2023 18:52 (credits T24)
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used
+  note: >-
+    Quote is the verbatim first sentence of a four-sentence entry; date correct. The two outlets print the
+    same text and Şehitler Ölmez credits T24, so they are not independent. No English original found. The
+    omitted sentences name 'strategic partner and NATO ally' and earthquake grief; record summary is fair.
+    Instrumental/1 fair.
+  checked_on: "2026-11-03"

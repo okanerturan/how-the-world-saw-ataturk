@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jednosc-polek-1928-10
+voice: Jedność Polek (Cleveland)
+voice_type: press
+role: Polish-language women's weekly, Cleveland
+country: United States
+country_now: United States
+domain: press
+date: "1928-10-09"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: article
+evidence: P
+summary: >-
+  Turkey Europeanises and modernises, undoubtedly Kemal's merit: Swiss law, Latin alphabet, spread of literacy.
+quote:
+  text: Zasługa to niewątpliwie Mustafa Kemal Paszy.
+  language: pl
+caveat: Unsigned news-and-comment column.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn83035481/1928-10-09/ed-1/?sp=1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn83035481 1928-10-09 p.1 OCR
+  method: tile.loc.gov full_text
+  note: >-
+    Verbatim; same article names Swiss law and Latin alphabet to spread reading (OCR column order interleaved).
+  checked_on: "2026-10-30"

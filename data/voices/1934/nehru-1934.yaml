@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nehru-1934
+voice: Jawaharlal Nehru
+voice_type: person
+role: Indian nationalist leader, writing from prison
+country: British India
+country_now: India
+domain: politics
+date: "1934"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Celebrates Kemal's victory over the Greeks and his modernization, but warns that a dictator's appetite for
+  power grows with use and he crushed opposition.
+quote:
+  text: The appetite for power of a dictator always grows with its use
+  language: en
+caveat: >-
+  UPGRADE of an existing (admirer-tagged) note: Glimpses of World History, Kitabistan 1934, vol. II letters
+  written 1933; pp. 1076, 1103, 1108-1109. Sentence spans a page break.
+node: Jawaharlal Nehru
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.49864?q=appetite+for+power+of+a+dictator
+  - url: https://archive.org/download/in.ernet.dli.2015.49864/2015.49864.Glimpses-Of-World-History-Volum-Ii_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org in.ernet.dli.2015.49864 djvu.txt lines ~23500-23520 (vol II, pp. 1108-1109); Kurdish crushing
+    text same page
+  method: fetch
+  checked_on: "2026-10-29"

@@ -1,0 +1,23 @@
+# Turkish for data/voices/1937/haagsche-courant-1937-09-15.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: haagsche-courant-1937-09-15
+voice: Haagsche Courant
+role: Lahey günlük gazetesi
+quote: Atatürk'ün diktatörlüğü ülke için bir nimet olmuştur
+quote_kind: translated
+summary: >-
+  Atatürk'ün demokrasiyi hor görmek anlamında hiçbir zaman bir diktatör olmadığını ve diktatörlüğünün ülke
+  için bir nimet olduğunu söyledi.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Bir yazı dizisi içinde 'Het nieuwe Turkije'
+  başlıklı yazı; sendikasyon yoluyla yayımlanmış veya çeviri metin olabilir.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f62cc52bbac2
+  role: 14a0aa0673bf
+  quote: f24b3f7f155f
+  summary: c6cde0d1a48a
+  caveat: ae95f1cdd0ef
+  verification_method: ad8cee67138e

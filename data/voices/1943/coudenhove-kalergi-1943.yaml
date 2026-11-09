@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: coudenhove-kalergi-1943
+voice: Richard Coudenhove-Kalergi
+voice_type: person
+role: Founder of the Pan-Europe movement
+country: Austria (exile in the United States)
+country_now: Austria
+domain: politics
+date: "1943"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: book
+evidence: P
+summary: >-
+  Calls Atatürk Turkey's 'great leader' who took up Western civilization without European pressure, a model
+  for reconciling Europe and Islam.
+quote:
+  text: embraced without any European pressure all vital elements of Western civilization.
+  language: en
+caveat: >-
+  Crusade for Pan-Europe: Autobiography of a Man and a Movement (Putnam, 1943), ch. XXVII 'The Future of
+  Asia', around p. 280 (printed page not read; page markers 275 and 282 bracket the passage in the DLI scan
+  dli.ernet.155751). The full sentence: 'The most important step toward such a new understanding between
+  Europe and the Near East has been accomplished by modern Turkey, that recently under its great leader Kemal
+  Ataturk, embraced without any European pressure all vital elements of Western civilization.' Also ch. XIV
+  pp. 126-127: Greece and Turkey 'were blessed with far-sighted and energetic statesmen - Kemal Ataturk, the
+  Turkish dictator, and Eleutherios Venizelos'. Venizelos' admiration of Kemal, told to Coudenhove in Vienna
+  (pp. 125-126), is reported second-hand and not stored as Venizelos' gaze here.
+node: Famous Pens on Atatürk — Gunther, Dewey, Nicolson, Coudenhove-Kalergi, West
+sources:
+  - url: https://archive.org/details/dli.ernet.155751
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org/download/dli.ernet.155751 (Crusade for Pan-Europe, Putnam 1943; book index 'Ataturk, Kemal,
+    68, 126, 127, 152, 280, 290')
+  method: curl djvu text
+  note: >-
+    Quote verbatim ('embraced without any European pressure all vital elements of Western civilization'), with
+    'under its great leader Kemal Ataturk'. Page: index gives 280, matching the stated 'around p.280'; use
+    p.280. Far-sighted-statesmen line sits at index 126-127 (record says p.125; minor).
+  checked_on: "2026-11-03"

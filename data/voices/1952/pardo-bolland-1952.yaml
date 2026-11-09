@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pardo-bolland-1952
+voice: Salvador Pardo Bolland
+voice_type: person
+role: Mexican chargé d'affaires in Turkey
+country: Mexico
+country_now: Mexico
+domain: diplomacy
+date: "1952"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: report
+evidence: S
+summary: >-
+  Reported that Atatürk's work had begun to bear fruit as Turkey chose the West over the Asian-Muslim bloc;
+  saw statue-toppling fanatics as no serious threat.
+mediated_by: Yarar 2025 (CTAD) ← Mexican Foreign Ministry archive, 'Información sobre Turquía' 1952
+caveat: Historian's summary of dispatches, not the dispatches; phrase is Yarar's paraphrase.
+node: Salvador Pardo Bolland
+sources:
+  - url: https://ctad.hacettepe.edu.tr/21_43/21.pdf
+    archived: https://web.archive.org/web/20260205050134/https://ctad.hacettepe.edu.tr/21_43/21.pdf
+verification:
+  verdict: confirmed
+  checked_against: https://ctad.hacettepe.edu.tr/21_43/21.pdf (Yarar 2025, p.1330-31)
+  method: fetch
+  note: >-
+    Bolland: Ataturk's work already bearing fruit, Turkey leaving Asian-Muslim group for the West;
+    statue-toppling fanatics a marginal group not worth heeding. Historian's summary, as caveat says
+  checked_on: "2026-10-29"

@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: celadet-bedirxan-1933
+voice: Celadet Bedir Khan
+voice_type: person
+role: Kurdish intellectual, a founder of Xoybûn, exile in Damascus
+country: French Mandate Syria (exile)
+country_now: Syria
+domain: letters
+date: "1933"
+era: contemporary
+polarity: conflicted
+intensity: 3
+artifact: article
+evidence: S
+summary: >-
+  Grants Kemal personal courage but charges him with refusing to admit a Kurdistan question, leaving his
+  government in half-measures.
+quote:
+  text: >-
+    Paşa Hazretleri, maruf olan şahsi ve medeni cesaretinize rağmen, bilmem ki neden şimdiye kadar Türkiye'de
+    bir Kürdistan meselesinin mevcudiyetini sarahaten itiraf edemediniz
+  language: tr
+mediated_by: Serbestiyet review 2022 ← Doz Yayınları 2010 ed. p.39 ← Hawar Library no.6, Damascus 1933
+caveat: >-
+  Letter itself not seen; quote and page taken from a review citing the 2010 transcription; the full sentence
+  continues beyond the quote; Turkish original, English paraphrase only.
+node: Celadet Bedirxan Writes to the Gazi, 1933
+sources:
+  - url: https://serbestiyet.com/gunun-yazilari/bir-kurt-aydinindan-mustafa-kemale-mektup-88216/
+    archived: https://web.archive.org/web/20220402235945/https://serbestiyet.com/gunun-yazilari/bir-kurt-aydinindan-mustafa-kemale-mektup-88216/
+  - url: https://1000kitap.com/kitap/bir-kurt-aydinindan-mustafa-kemale-mektup--101986
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    serbestiyet.com review (28 Mar 2022) of Doz Yayinlari 2010 edition (ed. M. Aydogan) p. 39; 1000kitap.com
+    blurb
+  method: Free fetch; quote found as a block quote in the review with '(s.39)'
+  note: >-
+    Quote verbatim in the review (the review prints the sentence in full, ending 'bu cesareti bulamadiniz
+    ...'; record quote is its first clause), but the letter or the 2010 edition itself was not seen. 1000kitap
+    only carries a different passage (p. 116). Letter date 1933 comes from the review. 'First president of
+    Xoybun' is not in the review (it says only an important role in founding it). Polarity 'conflicted' is
+    fair.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 10)
+  checked_on: "2026-11-01"

@@ -1,0 +1,34 @@
+# Turkish for data/voices/1959/eisenhower-1959-12-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: eisenhower-1959-12-06
+voice: Dwight D. Eisenhower
+role: Amerika Birleşik Devletleri Başkanı
+quote: >-
+  Bunlar; ilerlemeye, refaha ve barışa kararlı, yeni bağımsızlığını kazanmış tüm uluslar için bir ilham
+  kaynağı ve yol gösterici bir ışıktır.
+quote_kind: translated
+summary: >-
+  Ankara'daki akşam yemeğinde, Atatürk'ün gerçekleştirdiği değişimleri kapsamı ve hızı bakımından nefes
+  kesici, yeni bağımsızlığını kazanmış uluslar için ise bir ilham kaynağı ve yol gösterici ışık olarak
+  nitelendirir.
+caveat: >-
+  Cumhurbaşkanı Bayar tarafından verilen akşam yemeğindeki konuşma, Ankara, 6 Aralık 1959, American Presidency
+  Project (Public Papers 1959). 'They' zamiri, 'the founder of Modern Turkey, Kemal Ataturk' önderliğindeki
+  devrimci değişimlere atıfta bulunur. Soğuk Savaş dönemi devlet ziyareti bağlamı.
+verification_note: >-
+  Birebir aynı: 'Under the outstanding and farsighted leadership of the founder of Modern Turkey, Kemal
+  Ataturk, you of this country have wrought revolutionary changes. In government, customs, and traditions
+  these changes were breathtaking in scope. They were remarkable for the swiftness of their achievement. They
+  are an inspiration and a guiding light to all newly independent nations, determined on progress, prosperity,
+  and peace.' Görüntülenen sayfa tarihi: 6 Aralık 1959. Kaydın 'They' yorumu doğrudur. Düzeltme gerekmiyor.
+verification_method: Metin için tools/ms ile ücretsiz çekim, tarih için tek render
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 51d4baa65457
+  role: e98cef73a6c9
+  quote: 067adc6a0c0c
+  summary: b9d0b95ffcf9
+  caveat: 387440d490b5
+  verification_note: 5114a922def7
+  verification_method: 6bd882618a90

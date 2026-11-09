@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abdullah-i-1938
+voice: Abdullah I of Jordan
+voice_type: person
+role: Emir of Transjordan
+country: Transjordan
+country_now: Jordan
+domain: politics
+date: "1938-04"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: S
+summary: Read of Atatürk's illness in the paper and telegrammed that he was anxious and distressed.
+mediated_by: Dağlı 2023 ← Presidential Archive (Cumhurbaşkanlığı Arşivi)
+node: Foreign Delegations at the Funeral, November 1938
+sources:
+  - url: https://doi.org/10.30794/pausbed.1170334
+verification:
+  verdict: confirmed
+  checked_against: sources/yabanci-ulkeler-hastalik-vefat.pdf (Dagli 2023)
+  method: local
+  note: >-
+    Telegram April 1938, CA 01008484-2: 'rahatsizliklarini gazetede okudum. Merak ve teessur icindeyim' matches
+  checked_on: "2026-10-29"

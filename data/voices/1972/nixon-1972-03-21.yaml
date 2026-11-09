@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nixon-1972-03-21
+voice: Richard Nixon
+voice_type: person
+role: President of the United States; welcome of Prime Minister Erim
+country: United States
+country_now: United States
+domain: politics
+date: "1972-03-21"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Calls 'peace at home and peace in the world' the motto of 'your great leader Ataturk' and adopts it as an
+  American goal.
+quote:
+  text: >-
+    the motto which came from your great leader Ataturk, "Peace at home and peace in the world," is one that
+    we in the United States can also say is our goal.
+  language: en
+caveat: >-
+  Passing borrowing of the motto at an arrival ceremony; Nixon states no wider judgement. In the evening toast
+  (https://presidency.ucsb.edu/documents/toasts-the-president-and-prime-minister-erim-turkey) it is Erim who
+  speaks of 'the legacy of Kernel [sic] Ataturk'; Nixon there only repeats the motto.
+node: American, French and Russian Leaders on Atatürk in Their Own Words
+sources:
+  - url: https://presidency.ucsb.edu/documents/remarks-welcome-prime-minister-nihat-erim-turkey
+    archived: https://web.archive.org/web/20260217182505/https://www.presidency.ucsb.edu/documents/remarks-welcome-prime-minister-nihat-erim-turkey
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://presidency.ucsb.edu/documents/remarks-welcome-prime-minister-nihat-erim-turkey (March 21, 1972);
+    toasts-the-president-and-prime-minister-erim-turkey
+  method: fetch + curl of UCSB pages
+  note: >-
+    Verbatim (UCSB text has 'todays peace at home' typo irrelevant to quote). Caveat correct: Erim, not Nixon,
+    says 'legacy of Kernel [sic] Ataturk' in the toast. Instrumental/1 fair.
+  checked_on: "2026-11-03"

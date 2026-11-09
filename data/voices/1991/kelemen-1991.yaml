@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kelemen-1991
+voice: András Kelemen
+voice_type: person
+role: Hungarian Deputy Minister for Social Security
+country: Hungary
+country_now: Hungary
+domain: politics
+date: "1991-04-23"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  Presents post-communist Hungary as following the path Turkey took under the great leader Kemal Atatürk, its
+  'big sister'.
+quote:
+  text: >-
+    Böylece Macaristan, aynen büyük “ablası” Türkiye’nin 71 yıl önce Büyük önder Kemal Atatürk önderliğinde
+    yaptığı gibi, hürriyet ve kendi kendini yönetme yolunu seçmiş bulunmaktadır.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 71 (printed p. 60). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "Thus Hungary, exactly as its great 'elder sister' Turkey did 71 years ago under the
+  great leader Kemal Atatürk, has chosen the path of freedom and self-government." Also: 'Kemal Atatürk
+  ruhunun korunduğunu görmekteyiz' (PDF p. 72). Heading: 'Macar Sosyal Güvenlik Bakan Yardımcısı Andras
+  Kelemen', 23 Nisan 1991.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 71 (printed p. 60); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c71.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Macar Sosyal Güvenlik Bakan Yardımcısı
+    Andras Kelemen, 107. Birleşim, 23 Nisan 1991 (heading on PDF p. 70)'). He speaks as the Hungarian
+    Parliament's delegate (the Speaker's greetings, the 'ablası' framing is about the Assembly and Turkey).
+    Quote starts 'Böylece Macaristan, aynen büyük “ablası” Türkiye’nin ...'; record omits the leading word
+    'Böylece' correctly.
+  checked_on: "2026-11-01"

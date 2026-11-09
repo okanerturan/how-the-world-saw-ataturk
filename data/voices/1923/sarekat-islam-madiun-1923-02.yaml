@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sarekat-islam-madiun-1923-02
+voice: Sarekat Islam congress, Madiun
+voice_type: collective
+role: Annual congress of the Sarekat Islam, Java
+country: Dutch East Indies
+country_now: Indonesia
+domain: politics
+date: "1923-02"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: P+J
+summary: >-
+  Glorified Moestafa Kemal Pasha and urged recognition of the Caliphate as head of the Muslim religion.
+quote:
+  text: >-
+    Moestafa Kemal Pasha werd verheerlijkt en hierbij werd tevens aangedrongen op erkenning van het Kalifaat
+    als hoofd van den Mohammedaanschen godsdienst
+  language: nl
+mediated_by: >-
+  Het Nieuws van den Dag voor Nederlandsch-Indië 24 Feb 1923; Nieuwe Rotterdamsche Courant 22 Mar 1923
+caveat: >-
+  Written before the Caliphate's abolition: Kemal is praised and the Caliphate defended in the same breath.
+node: Sarekat Islam and the Cheribon Telegram, 1922–1923
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010219529:mpeg21:a0171:ocr
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010026490:mpeg21:a0122:ocr
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Delpher ddd:010219529:mpeg21:a0171:ocr and ddd:010026490:mpeg21:a0122:ocr
+  method: >-
+    first source has the sentence verbatim; second (Madiun congress report, 17-20 Feb) has Hadji Salim
+    glorifying Moestafa Kemal Pasha and urging Caliphate recognition
+  checked_on: "2026-10-29"

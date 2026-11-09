@@ -1,0 +1,29 @@
+# Turkish for data/voices/1938/nationaltidende-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nationaltidende-1938
+voice: Nationaltidende
+role: Danimarka günlük gazetesi
+quote: yirminci yüzyılın en muazzam olayı
+quote_kind: translated
+summary: >-
+  Yarı Doğulu, halifeyi tanıyan bir milleti modern, laik bir ulusal devlete dönüştüren yüce şahsiyet; dış
+  politikası tarihte bir örnek.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; kimlik tespitleri tahmine dayalıdır; yabancı
+  dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
+verification_note: >-
+  Alıntı doğrudan bir alıntı değil, Toksoy'un gazetenin ifadelerini ('created the most tremendous event of the
+  20th century') kendi sözleriyle aktarmasıdır.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8f0e21ac5e92
+  role: e08a7b3845d0
+  quote: 22e5ff2bd5eb
+  summary: 2c811bd763ff
+  caveat: 1d0053d25711
+  mediated_by: 272e58105c39
+  verification_note: 3a13292c5524
+  verification_method: 939bb46a04c3

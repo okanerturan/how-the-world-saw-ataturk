@@ -1,0 +1,39 @@
+# Turkish for data/voices/2005/lantos-2005-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lantos-2005-09
+voice: Tom Lantos
+role: >-
+  Kaliforniya'dan ABD Temsilciler Meclisi Üyesi (Demokrat), Temsilciler Meclisi Uluslararası İlişkiler
+  Komitesi kıdemli üyesi
+quote: >-
+  Ona, Cumhurbaşkanı Musharraf'ın yakından tanıdığı bir ulus olan modern, laik Türkiye Cumhuriyeti'nin
+  kurucusu, büyük modernleştirici Mustafa Kemal Atatürk'ün örneğini izlemesi çağrısında bulundum. Nitekim
+  kendisi, bizzat Atatürk'ün de hayranlık duyacağına inandığım bir çığır açmıştır.
+quote_kind: translated
+summary: >-
+  Musharraf'a 'büyük modernleştirici' Atatürk'ü örnek alması çağrısında bulunduğunu ve Atatürk'ün Musharraf'ın
+  izlediği yola hayranlık duyacağını söylüyor.
+caveat: >-
+  Lantos'un Musharraf'ın Amerikan Yahudi Kongresi'ndeki konuşmasına yaptığı kendi takdimi; Atatürk, Müslüman
+  bir devlet başkanının önüne koyduğu ölçüttür ve bu da övgüyü kısmen diplomatik kılar. Parti, komite görevi
+  ve eyalet bilgisi metinden değil, standart kayıtlardan alınmıştır. Şöyle kaynak gösterilmiştir: Extensions
+  of Remarks, 27 Eylül 2005, 'Speech of Pakistani President Pervez Musharraf...', Congressional Record c. 151,
+  s. E1958 (granül CREC-2005-09-27-pt1-PgE1958).
+verification_note: >-
+  Alıntı birebir (iki cümle birleştirilmiş; 'I urged him' öncesindeki 'When we met in Washington three years
+  ago,' ifadesi çıkarılmış), Extensions of Remarks, 27 Eylül 2005 Salı, Mr. LANTOS, s. E1958 (E1959 işareti
+  daha sonra geliyor). Araçsal/1 yerinde.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizliği yapıldı, alıntının normalleştirilmiş eşleşmesi
+  doğrulandı; konuşmacı, tarih ve sayfa bilgileri Record'un kendi başlıklarından ve sayfa üstbilgilerinden
+  okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2dd551fdab3a
+  role: 622b33d795c4
+  quote: 7c5f7afcf831
+  summary: cb6947adf96f
+  caveat: b94d7257ce84
+  verification_note: 9f836cc6be0a
+  verification_method: 5594abd6cdd0

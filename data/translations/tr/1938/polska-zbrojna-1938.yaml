@@ -1,0 +1,16 @@
+# Turkish for data/voices/1938/polska-zbrojna-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: polska-zbrojna-1938
+voice: Polska Zbrojna
+role: Polonya ordu gazetesi
+summary: Latin alfabesinin kabulü ve onun uygarlığa hizmeti üzerinde durdu.
+mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5a2669978ef8
+  role: ff221fff7ecb
+  summary: a396d63bcf55
+  mediated_by: aa5a462e96c0
+  verification_method: 939bb46a04c3

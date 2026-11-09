@@ -1,0 +1,26 @@
+# Turkish for data/voices/1930/wortham-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: wortham-1930
+voice: H. E. Wortham
+role: Britanyalı yazar, Mustapha Kemal of Turkey (Makers of the Modern Age)
+quote: Gazi Paşa tamamen acımasız olmuştur.
+quote_kind: translated
+summary: >-
+  Kemal'i büyük bir idealist ve putkıran olarak nitelendirir ama düşmanlarını da dostlarını da asarak tamamen
+  acımasız olduğunu açıkça belirtir.
+caveat: >-
+  Kitap s. 159 (dizin: 'his ruthlessness, 159'); idealist/putkıran ifadesi s. 1-3. Yazarın biyografisi kontrol
+  edilmedi.
+verification_note: >-
+  Alıntının yanındaki sayfa işareti 159 gösteriyor; çekince notunda s. 160 (dizin) deniyor. Küçük sorun.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e1f1420425dc
+  role: 1aa4df43e364
+  quote: 6b88dcc3a4f5
+  summary: 99fccf3b7bea
+  caveat: ef648b896583
+  verification_note: 1ef75861ef64
+  verification_method: ad8cee67138e

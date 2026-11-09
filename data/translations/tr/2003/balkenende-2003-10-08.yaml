@@ -1,0 +1,40 @@
+# Turkish for data/voices/2003/balkenende-2003-10-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: balkenende-2003-10-08
+voice: Jan Peter Balkenende
+role: Hollanda Başbakanı
+quote: >-
+  Türkiye'nin, Genç Cumhuriyet için Kurucusu Kemal Atatürk tarafından dile getirilen Avrupa hedeflerindeki bu
+  tarihi anda burada bulunmaktan mutluluk ve onur duyuyorum.
+quote_kind: translated
+summary: >-
+  Genç cumhuriyetin Avrupa hedeflerini dile getiren 'büyük Türk liderini', uygarlık yolunda ilerlemeye dair
+  sözlerini alıntılayarak onurlandırır.
+caveat: >-
+  İngilizce el yazısıyla yazılmış, 8 Ekim 2003; şöyle devam eder: 'In memory of the great Turkish leader who
+  said, "The Turkish people have both the ability and the determination to progress, without hesitation or
+  disenchantment, along the path of civilization."' Türkiye'nin AB yöneliminin müellifi olarak Atatürk.
+  Kaynak: Anıtkabir Özel Defteri (basılı derleme, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı
+  heyet başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), ataturkarsivi.com üzerindeki sayfa
+  görüntüleri, ana ajan tarafından görüntü üzerinden okundu (4 Kasım 2026).
+verification_note: >-
+  Alıntı birebir aynı, 8 Ekim 2003 tarihli, Jan Peter Balkenende, Prime Minister of the Kingdom of the
+  Netherlands imzalı. Kutupluluk sorunu: aynı kayıt 'In memory of the great Turkish leader who said ...' diyor
+  ve basılı Türkçe metin ondan 'ulu onder' diye söz ediyor. Seçilen alıntı yalnızca AB hedefleri hakkındadır
+  ve bu yüzden araçsal gibi okunmaktadır, ancak kayıt açık bir hayranlık görüşü bildirmektedir (büyük lider,
+  onur duyma). Önerilen düzeltme: kutupluluk hayranlık, yoğunluk 1 (AB yönelimi noktasını çekince notunda
+  tutarak) ya da araçsal olarak bırakıp alıntıyı 'In memory of the great Turkish leader' ifadesini içerecek
+  şekilde genişletin. Mevcut kayıt (what_they_saw satırı 'Honours the great Turkish leader' diyor) araçsal
+  sınıflandırmasıyla kendi içinde tutarsızdır. Basılı Türkçe metin ayrıca Atatürk'ün 'bizzat cizdigi Avrupa
+  yonelimi'nden (Avrupa yönelimini bizzat çizdiğinden) söz etmektedir ki bu da çekince notunu destekler.
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe metin OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fe5105e8b374
+  role: f219ed17f0bf
+  quote: a7050ce49f8c
+  summary: 0e59a40b0d67
+  caveat: 51c0028b9ceb
+  verification_note: e31aca2bfc55
+  verification_method: "304538629105"

@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nakano-seigo-1923-03-20
+voice: Nakano Seigō
+voice_type: person
+role: Member of the House of Representatives, journalist, later Tōhōkai leader
+country: Japan
+country_now: Japan
+domain: politics
+date: "1923-03-20"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Hails 'a young man named Kemal Pasha' raising the crescent flag against Sèvres as a gratifying defiance by a
+  coloured nation.
+quote:
+  text: 彼の將に滅亡せんとする土耳古より「ケマルパシヤ」なる一靑年が弦月旗を提げて起つたるときに
+  language: ja
+caveat: >-
+  Diet speech on recognising Soviet Russia, 20 March 1923, stenographic record (Roshia shōnin ron). Quote read
+  on the page image (printed p. 19, NDL image 13). Translation of the gist is the vault's; quote is the
+  original Japanese. Kemal is used as an argument for Russo-Japanese rapprochement (instrumental element).
+  Check: quote on printed p. 19; his Sèvres and coloured-race remarks are on image 7.
+node: Japanese Statesmen on Kemal, 1923–1939 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/965639
+    archived: https://web.archive.org/web/20221231112751/https://dl.ndl.go.jp/pid/965639
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: NDL pid 965639 (Roshia shonin ron), image 13 = printed p. 19; fulltext p. 7 too
+  method: >-
+    NDL Digital Collections page image (dl.ndl.go.jp IIIF) + lab.ndl.go.jp fulltext-json; viewed image
+  note: >-
+    Quote verbatim on printed p. 19. The speech also has the Sevres/coloured-race passage (image 7, 'same
+    coloured race Turkey', Sevres treaty, Kemalbasha rose), which supports 'against Sevres' and 'coloured
+    nation' even though not on the quoted page; cite both. 'Gratifying' = tsukai. Speech is instrumental
+    (argument for Russo-Japanese rapprochement), polarity admiring is acceptable.
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (rounds 26–28)
+  checked_on: "2026-11-05"

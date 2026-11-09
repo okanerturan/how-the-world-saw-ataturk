@@ -1,0 +1,26 @@
+# Turkish for data/voices/1922/cai-hesen-1922-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cai-hesen-1922-12
+voice: Cai Hesen (蔡和森)
+role: Xiangdao'da yazan erken dönem Çinli komünist lider
+quote: >-
+  Kemal'in bu hareketi, yalnızca Komünist Partisi'ne karşı bir suç değil, ulusal harekete karşı da bir suçtur;
+  neredeyse bir intihar politikası haline geldi
+quote_kind: translated
+summary: >-
+  Kemal'in Fransızların teşvikiyle Türk komünistlerini tutuklamasının komünistlere ve ulusal harekete karşı
+  bir suç, burjuva bir hükümetin neredeyse intihar niteliğindeki politikası olduğunu söyledi.
+caveat: Sayı 14; aynı yazar üç ay önce sayı 3'te Kemal'i övmüştü (cai-hesen-1922-09).
+verification_note: >-
+  Tam eşleşme; metinde ayrıca sayı 3'teki makalenin yazarın daha önceki övgüsü olduğu belirtiliyor.
+verification_method: ms fetch ile Wikisource ayrıştırması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: dcda267362f7
+  role: e10dbf9f6bfc
+  quote: cebbae72573e
+  summary: 616eaea0d608
+  caveat: eb6ae89cfb28
+  verification_note: 452e8694c1ba
+  verification_method: 34e4baae05a2

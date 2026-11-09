@@ -1,0 +1,38 @@
+# Turkish for data/voices/2013/kerry-2013-03-02-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kerry-2013-03-02-book
+voice: John Kerry
+role: ABD Dışişleri Bakanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Eğitim ve bağımsızlığın öncüsü bir asker ve devlet adamı olan Mustafa Kemal Atatürk'e derin saygılarımla.
+  Türk halkına ve bu büyük lidere, Amerikan halkının bir temsilcisi olarak saygılarımı sunmaktan onur ve gurur
+  duyuyorum.
+quote_kind: original-turkish
+summary: >-
+  Eğitim ve bağımsızlığa öncülük etmiş bir asker ve devlet adamı olarak Atatürk'e derin saygılarını sunar.
+caveat: >-
+  İngilizce yazılmış bir metnin Türkçe çevirisi. Hürriyet (2 Mart 2013, AA kaynaklı), Akşam ve Cumhuriyet aynı
+  Türkçe metni yayımlar; üçü de muhtemelen aynı AA haberidir. Kerry ziyaretten sonra Ankara'dan uçakla
+  ayrılmıştır.
+mediated_by: Hürriyet (AA), Akşam ve Cumhuriyet, 2 Mart 2013 (kaydın Türkçe çevirisi)
+verification_note: >-
+  Türkçe alıntı her üçünde de birebir aynıdır, Özel Defter'e atfedilmiştir; 2 Mart 2013 tarihi doğrudur.
+  Hürriyet kaynak olarak AA'yı, Akşam ise DHA'yı gösterir, ancak Türkçe metin kelimesi kelimesine aynıdır;
+  dolayısıyla arka planda tek bir çeviri (muhtemelen büyükelçilik/havuz metni) vardır ve tek kaynak
+  sayılmalıdır. Özgün İngilizce metin bulunamadı. Tillerson 2017 ve Caine 2026 ile aynı kalıp ifadeler
+  ('Amerikan halkının bir temsilcisi olarak ... onur ve gurur duyuyorum') kullanılmıştır; basmakalıp bir metin
+  için hayranlık/2 cömerttir, 1 savunulabilir.
+verification_method: >-
+  Atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d5e75dc6abf4
+  role: 8472cad9609a
+  quote: b8468f31e146
+  summary: c90162d790c5
+  caveat: e609778a365a
+  mediated_by: 97462e604ab9
+  verification_note: 24536f50d3a5
+  verification_method: 8505ab605bfa

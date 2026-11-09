@@ -1,0 +1,30 @@
+# Turkish for data/voices/1921/husrev-bey-tbmm-1921-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: husrev-bey-tbmm-1921-10-31
+voice: Hüsrev Bey (Trabzon)
+role: Trabzon milletvekili, Savunma Encümeni'nin ordu odaklı üyesi
+quote: >-
+  Bir kere Mustafa Kemal Paşa’nın, bu şahsiyeti mübeccelenin büyük ve aynı zamanda mücerrep ve büyük bir
+  kumandan olması bu vaziyeti doğurmuştur.
+quote_kind: original-turkish
+summary: >-
+  Mustafa Kemal'i, şahsiyeti mevcut durumu doğurmuş saygın ve sınanmış büyük bir komutan olarak nitelendirdi
+  ve kanunun değiştirilmeden uzatılmasını destekledi.
+caveat: >-
+  Basılı metin s. 476. 'Bir asker olarak' (kendi ifadesi) konuşur ve askeri durumun ağustostakinden daha iyi
+  olmadığı uyarısında bulunur.
+verification_note: >-
+  Birebir, basılı metin s. 476. Ayrıca 'bir asker olarak' konuştuğunu ve durumun daha iyi olmadığını söylüyor
+  ve kanunun aynen uzatılmasını destekliyor. 'iyidir, fenadır münakaşa etmiyorum emrivakidir' diye eklediğine
+  dikkat edilmeli; dolayısıyla 'admiring' (hayranlık duyan) ılımlı bir okumadır.
+verification_method: bitstream PDF üzerinde pdftotext
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 19b3d06e9adf
+  role: 9c20a1ac76b2
+  quote: 2573a9c38686
+  summary: 648152ffeb41
+  caveat: 855c5cc22145
+  verification_note: 5dffc0f029ba
+  verification_method: 947fda15c51e

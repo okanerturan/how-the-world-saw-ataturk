@@ -1,0 +1,29 @@
+# Turkish for data/voices/1938/kristeligt-dagblad-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kristeligt-dagblad-1938
+voice: Kristeligt Dagblad
+role: Danimarka günlük gazetesi
+quote: Kılıcı kullanan kol asayı tutmaya layıktır; onun düsturu bozkurdun parolası oldu.
+quote_kind: translated
+summary: >-
+  Her komployu ezen, harikalar yaratan biri; kılıç kullanan kol asaya layıktır, onun düsturu bozkurdun
+  parolası oldu.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; kimlik tespitleri tahmine dayalıdır; yabancı
+  dildeki özgün metinler görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
+verification_note: >-
+  Alıntı Toksoy'un Türkçe çevirisinde bulundu. Pasaj tamamen övgü doludur; 'conflicted' kutupluluğu Toksoy'dan
+  anlaşılmamaktadır.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e89a34784df4
+  role: e08a7b3845d0
+  quote: 329d3dc6f14c
+  summary: 3caa785546e0
+  caveat: 1d0053d25711
+  mediated_by: 272e58105c39
+  verification_note: 2f8783cdd4d9
+  verification_method: 939bb46a04c3

@@ -1,0 +1,38 @@
+# Turkish for data/voices/2024/ilham-aliyev-2024-02-19-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ilham-aliyev-2024-02-19-book
+voice: Ilham Aliyev
+role: Azerbaycan Cumhurbaşkanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Türk dünyasının büyük evladı, yetenekli komutan ve dahi lider Gazi Mustafa Kemal Atatürk'ün aziz hatırasını
+  en içten saygı ve ihtiramla anıyorum.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ü Türk dünyasının büyük evladı, yetenekli bir komutan ve Cumhuriyeti dünya tarihine kazıyan dahi bir
+  lider olarak nitelendirir.
+caveat: >-
+  Muhtemelen Azerbaycan Türkçesiyle yazılmış bir metnin Türkçe çevirisi (AA); özgün metne ulaşılamamıştır. AA
+  ve Kıbrıs Gazetesi tek bir AA bülteni olarak metni yayımlamaktadır (ikincisinde 'ebedi' yerine 'edebi' dizgi
+  hatası vardır). Metnin devamında Atatürk'ün 'Azerbaycan'ın sevincini kendi sevinci, kederini kendi kederi
+  bildiği' ifade edilmektedir. Aliyev daha önceki ziyaretlerinde de defteri imzalamıştır (Türkçe Vikipedi
+  listesine göre 5 Kasım 2008, 12 Kasım 2013, 15 Ocak 2015, 25 Nisan 2018); bu metinler bulunamamıştır.
+mediated_by: AA ve Kıbrıs Gazetesi, 19 Şubat 2024 (yazının Türkçe çevirisi)
+verification_note: >-
+  Alıntı birebir aynı, uzun bir yazının ilk cümlesi; Kıbrıs Gazetesi, 'edebi' dizgi hatalı AA metnidir. Tek
+  kaynak. Tarih doğru. Yazının tamamı ('Ulu Önder', 'altın harflerle ebedi olarak kazımıştır', 'en muhteşem
+  eseri') alıntılanan cümleden çok daha güçlüdür; kayıt özeti yerinde, hayranlık/2 ihtiyatlı ama kabul
+  edilebilir.
+verification_method: >-
+  atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c00076d84e4f
+  role: 8fbf131c4915
+  quote: aacd1baab9f5
+  summary: 551737480cac
+  caveat: 434b001235c7
+  mediated_by: 4abd1274e2c8
+  verification_note: 4da7a8c4fc7d
+  verification_method: 8505ab605bfa

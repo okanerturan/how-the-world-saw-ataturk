@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: enver-pasha-1921-07-17
+voice: Enver Pasha
+voice_type: person
+role: Former Ottoman War Minister, in Moscow; letter to Mustafa Kemal
+country: Soviet Russia
+country_now: Russia
+domain: politics
+date: "1921-07-17"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: quote
+evidence: P
+summary: >-
+  Answers an article in Hâkimiyet-i Milliye by charging Kemal with treating him and his friends as obstacles
+  to personal ambition and lying about them.
+quote:
+  text: >-
+    Şimdi muvaffakiyet belirince tabi'i maksadınızı gösterdiniz. Beni ve arkadaşlarımı şahsi emellerinize
+    engel sayıyorsunuz.
+  language: tr
+caveat: >-
+  Turkish original; vault translation: 'Now that success is in sight you have naturally shown your aim. You
+  regard me and my friends as obstacles to your personal ambitions.' Letter No. 118, Enver (Moscow) to Mustafa
+  Kemal (Ankara), 17 July 1921, sent after Enver read Hâkimiyet-i Milliye's article against him in the
+  Istanbul papers (Yamauchi's archive ref: Klasör 7/Mustafa Kemal Dosyası). It ends: 'I regret to see that the
+  personal character I have known since Tripoli has not changed in the position you have reached ... I pity
+  you, beaten by your personal ambition and made so small.' Pages: OCR marker 233 falls inside the letter
+  (cited as pp. 233-234).
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://archive.org/details/masayuki-yamauchi-hosnut-olamams-adam-enver-pasa-0-baglam-libgen.li-1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org Yamauchi, letter No. 118 (PDF checked: folio 234 begins 'laşmış olduğumuz...', so 233 is the
+    foot of the page holding the quote)
+  method: archive.org djvu + PDF page check
+  note: >-
+    Verbatim: 'Şimdi muvaffakiyet belirince tabi'i maksadınızı gösterdiniz. Beni ve arkadaşlarımı şahsi
+    emellerinize engel sayıyorsunuz.' Letter signed 'Enver.', dated 17 Temmuz 1921, after the Hâkimiyet-i
+    Milliye article; ending lines ('Trablus'tan beri bildiğim ahlâk-ı şahsiyeniz', 'şahsi hırsınıza mağlüb
+    olarak bu kadar küçülmüş gördüğümden dolayı te'essüf ederim') are as in the caveat. The quote is on p.233
+    (letter runs 232/233-234). Hostile/2 fair.
+  checked_on: "2026-11-03"

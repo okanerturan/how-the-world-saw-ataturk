@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: modern-review-1924-07
+voice: The Modern Review
+voice_type: press
+role: Calcutta English monthly (editor Ramananda Chatterjee), editorial Notes
+country: British India
+country_now: India
+domain: press
+date: "1924-07"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: editorial
+evidence: P
+summary: >-
+  Made Kemal the test case for violence in a just war: he fought to keep his country free and was right to
+  fight, unlike assassins.
+quote:
+  text: Mustapha Kemal Pasha fought to make and keep his country free
+  language: en
+caveat: >-
+  Argued inside a rebuke of the Bengal conference's praise of Gopinath Saha; Kemal is the contrasting case.
+  Pages c. 115-116.
+node: The Modern Review on Kemal, 1923–1924
+sources:
+  - url: https://archive.org/details/dli.calcutta.09832
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA dli.calcutta.09832 (Modern Review July 1924) djvu, p. 116
+  method: djvu OCR text
+  note: >-
+    Verbatim 'Mustapha Kemal Pasha fought to make and keep his country free and fought successfully. Hence he
+    was right in fighting.' p. 116; context contrasts assassination.
+  checked_on: "2026-10-29"

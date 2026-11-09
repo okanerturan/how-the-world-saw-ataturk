@@ -1,0 +1,37 @@
+# Turkish for data/voices/1930/halide-edib-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: halide-edib-1930
+voice: Halide Edib
+role: Türk romancı ve milliyetçi, o sırada sürgünde
+quote: Ardından Mustafa Kemal Paşa mükemmel bir siyasi oyun oynadı.
+quote_kind: translated
+summary: >-
+  1925 Takrir-i Sükûn Kanunu için yaptığı hamleyi, bir demokrasiyi diktatörlüğe dönüştüren 'mükemmel bir
+  siyasi oyun' olarak nitelendirir.
+caveat: >-
+  Turkey Faces West: A Turkish View of Recent Changes and Their Origin (Yale University Press, 1930; iç kapak
+  karşısındaki sayfa Williamstown'daki Institute of Politics'e atıfta bulunur), böl. 'The Turkish Republic',
+  s. 220 (bir sonraki üst başlık 221'dir; tarama archive.org in.ernet.dli.2015.183553, Digital Library of
+  India nüshası). Bağlam, sonrasında 'the tribunals suppressed opposition and instituted a reign of terror
+  which lasted nearly two years' ve 'the moral responsibility ... rests on the majority in the National
+  Assembly' denilen Mart 1925 Takrir-i Sükûn Kanunu'dur. Ayrıca s. 222'de Mustafa Kemal'in kişiliğinin 'played
+  a great role' olduğunu ancak her 'Great man' gibi onun da bir dalga tarafından taşındığını ve s. 182'de
+  askeri ve dış politika çizgilerinde 'few men ... have shown better judgment and capacity than Mustafa Kemal
+  Pasha' ifadelerini ekler. Hassas konu (Kürt ayaklanması, İstiklal Mahkemeleri): görüş arşivin değil,
+  kendisinindir.
+verification_note: >-
+  Birebir: 'Then Mustafa Kemal Pasha played a superb political game. He proposed the Law of Maintenance of
+  Order...' 'The Turkish Republic 221' üst başlığının üzerinde yer almaktadır, dolayısıyla s. 220 doğrudur.
+  what_they_saw yerindedir (sonucu 'of a democratic state ... into a dictatorial one' yönünde bir değişim
+  olarak adlandırır). Çelişkili/2 yerindedir.
+verification_method: Açık djvu metninin curl ile çekimi, üst başlıklarla birlikte bağlam içinde okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d2fddab7a8a8
+  role: c32d864017fb
+  quote: 4db594171de1
+  summary: 25e2f187e585
+  caveat: c4c6e9039c07
+  verification_note: 87585bccf680
+  verification_method: 112fce30f9ce

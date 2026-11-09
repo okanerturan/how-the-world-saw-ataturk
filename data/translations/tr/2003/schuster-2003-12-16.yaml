@@ -1,0 +1,37 @@
+# Turkish for data/voices/2003/schuster-2003-12-16.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: schuster-2003-12-16
+voice: Rudolf Schuster
+role: Slovakya Cumhurbaşkanı
+quote: >-
+  gelecek kuşaklarınıza – devlet adamı aklınız ve vizyonunuz sayesinde – bizim için de ilham verici olan
+  olağanüstü bir bağımsızlık ve sağlam temelli, ulusal özgüven mirası bıraktınız.
+quote_kind: translated
+summary: >-
+  Atatürk'e hitaben: devlet adamı aklı ve vizyonu, 'bizim için de ilham verici olan' olağanüstü bir
+  bağımsızlık ve ulusal özgüven mirası bırakmıştır.
+caveat: >-
+  İngilizce el yazısıyla yazılmış, Ankara, 16 Aralık 2003, 'Mr. Statesman, Dear General Mustafa Kemal Atatürk'
+  hitabıyla; ayrıca şunlar yer alır: 'I agree with your conviction that politicians and statesmen must look
+  for sources of certainty in their people if they are to inspire and lead' ve 'I bow down before your
+  everlasting memorial.' Kaynak: Anıtkabir Özel Defteri (basılı derleme, '1953'ten günümüze Anıtkabir'i
+  ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk hakkındaki duygu ve düşünceleri'),
+  ataturkarsivi.com üzerindeki sayfa görüntüleri, ana ajan tarafından görüntü üzerinden okundu (4 Kasım 2026).
+verification_note: >-
+  Alıntı el yazısından birebir aynı (sayfa 1, 'you have left your descendants - thanks to your statesman's
+  mind and vision - an extraordinary heritage of independence and well-founded, national self-confidence which
+  is inspirational for us as well'). Ankara, 16 Aralık 2003 tarihli; Rudolf Schuster, President, Slovak
+  Republic imzalı. Çekince notundaki alıntılar ('I agree with your conviction ...', 'I bow down before your
+  everlasting memorial') birebir aynı. Güçlü bakış açısı; yoğunluk 2 savunulabilir ('admiration and respect'
+  göz önüne alındığında 3 de tartışılabilir).
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe metin OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ec723f5bb67d
+  role: a83c60b18be6
+  quote: 21739111aeb9
+  summary: e1702154f8b6
+  caveat: 331e35ca7393
+  verification_note: e7fb38e9adcd
+  verification_method: "304538629105"

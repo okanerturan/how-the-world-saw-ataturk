@@ -1,0 +1,27 @@
+# Turkish for data/voices/1920/seely-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: seely-1920
+voice: Tümgeneral Seely, Milletvekili
+role: Avam Kamarası, Donanma Bütçesi görüşmesi
+quote: >-
+  ki kendisinin, Dışişleri Bakanı'nın Lordlar Kamarası'ndaki konuşmasından, bütün sorunların kaynağı ve
+  muhtemelen katliamların çoğunun sorumlusu olduğunu artık biliyoruz
+quote_kind: translated
+summary: >-
+  Dışişleri Bakanı'nın sözlerine dayanarak Kemal'i sorunların ve muhtemelen katliamların çoğunun kaynağı
+  olarak nitelendirdi.
+caveat: >-
+  Alıntılanan metinde isim 'Mustapha Kcmil' (OCR) olarak basılmıştır; konuşmacı ilk adı olmaksızın
+  'Major-General SEELY' biçiminde yazılmıştır.
+verification_note: OCR kaynaklı 'Kcmil' dahil birebir aynı. Konuşmacı atfı, tarih ve görüşme doğrulandı.
+verification_method: Hansard API araması, konuşmanın tam metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 22a0ca04a3e6
+  role: 630ce2ec3d48
+  quote: 0ef1eac43822
+  summary: a66031656639
+  caveat: a0a7c670a21b
+  verification_note: de5e398ab7df
+  verification_method: 419e56aa2f6d

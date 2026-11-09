@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pepper-1947-04
+voice: Claude Pepper
+voice_type: person
+role: U.S. Senator from Florida (Democrat), opponent of the Greek-Turkish aid bill
+country: United States
+country_now: United States
+domain: politics
+date: "1947-04-17"
+era: posthumous
+polarity: instrumental
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Cites Atatürk's record to argue communism has no foothold in Turkey, and credits him with building a strong
+  army and government.
+quote:
+  text: >-
+    Anyone who has ever heard of Ataturk and his party and his government, which is now carried on by his
+    chosen successor, President Inonu, knows that there is not any likelihood of communism getting a foothold
+    in Turkey. … Finally Ataturk took advantage of the strife which existed in Europe and developed a strong
+    army and a strong government in Turkey
+  language: en
+caveat: >-
+  Truman Doctrine debate: Pepper argues against the bill, so Atatürk is used as evidence for his case (no
+  communist threat; the Dardanelles question). The OCR reads 'like·uhood' for 'likelihood' (corrected); the
+  second quote is rebuilt from the interleaved two-column text layer (the source reads 'de- veloped', 'gov-
+  ernment'). Cited as Senate, 17 April 1947, Congressional Record vol. 93 (bound), pp. ~3593-3596 (granule
+  CRECB-1947-pt3-13-1).
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1947-pt3/pdf/GPO-CRECB-1947-pt3-13-1.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: GovInfo Congressional Record bound-edition PDF GPO-CRECB-1947-pt3-13-1, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads
+  note: >-
+    Both fragments verbatim (two-column OCR; 'like-uhood' = likelihood), Senate, Thursday 17 April 1947, Mr.
+    PEPPER speaking throughout (he yields and resumes; no other speaker intervenes). First fragment on p.
+    3593, second on p. 3596. Ellipsis joins are acceptable. Instrumental/2 fair.
+  checked_on: "2026-11-03"

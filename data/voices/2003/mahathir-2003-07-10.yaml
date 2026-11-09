@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mahathir-2003-07-10
+voice: Mahathir Mohamad
+voice_type: person
+role: Prime Minister of Malaysia; speech to the World Ulama Conference, Putrajaya
+country: Malaysia
+country_now: Malaysia
+domain: politics
+date: "2003-07-10"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Credits Atatürk with saving Turkey from partition by Greece by leading a strong Muslim force, noting that he
+  himself claimed to be a secularist.
+quote:
+  text: >-
+    Turkey itself would have become a part of Greece had it not been for Kemal Ataturk who even though he
+    himself claimed to be a secularist, nevertheless lead a strong Muslim Turkish force to expel the Greeks
+    from Anatolia.
+  language: en
+caveat: >-
+  Paragraph 27 of the speech 'Islam in Era of Globalisation' (opening of the World Ulama Conference, Marriott
+  Hotel, Putrajaya, 10 Jul 2003), official text on mahathir.com; the speech has numbered paragraphs, no pages.
+  'lead' is the source's spelling. The remark serves the speech's argument that Muslims need modern knowledge
+  to defend themselves, and calls Atatürk's force 'Muslim'. 2019 wreath-laying at Anıtkabir (see Anıtkabir)
+  carries no sentence by him.
+node: Leaders and Thinkers of the Muslim World and Asia on Atatürk in Their Own Words
+sources:
+  - url: https://mahathir.com/malaysia/speeches/2003/2003-07-10.php
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://mahathir.com/malaysia/speeches/2003/2003-07-10.php (para 27; 'Islam in Era of Globalisation',
+    World Ulama Conference, Marriott Putrajaya, 10/07/2003)
+  method: fetch
+  note: Verbatim incl. 'lead' spelling; speaker, date and venue match the page header.
+  checked_on: "2026-11-03"

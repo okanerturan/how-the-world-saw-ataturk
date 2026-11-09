@@ -1,0 +1,32 @@
+# Turkish for data/voices/1980/schwaiger-1980-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: schwaiger-1980-12
+voice: Bundesrat Dr. Schwaiger
+role: Avusturya Federal Konseyi (Bundesrat) ÖVP üyesi
+quote: >-
+  Kemal Atatürk'ün Türkiye'yi modern bir devlet haline getirme girişimi yalnızca kısmen başarılı oldu.
+quote_kind: translated
+summary: >-
+  Türkiye'nin merkez bankasına verilecek 15 milyon dolarlık krediye karşı çıkarken, Atatürk'ün Türkiye'yi
+  modern bir devlet haline getirme girişiminin 'yalnızca kısmen başarılı olduğunu' söyler.
+caveat: >-
+  Ekonomik bir argümanın içindeki tek bir değerlendirme cümlesi (ÖVP krediye karşı çıkmıştır). Tutanakta ilk
+  adı verilmemiştir; sayfa numarası, '14729 Dr. Schwaiger' sayfa üstbilgisinden önceki oturum sayfasının
+  numarasıdır. Tanınmış bir isim değil. [Çeviri:] Kemal Atatürk'ün Türkiye'yi modern bir devlet haline getirme
+  girişimi yalnızca kısmen başarılı oldu. Kontrol: Konuşması s. 14728'de başlıyor.
+verification_note: >-
+  Birebir aynı; konuşmacı, parti, tarih doğru; çeviri sadık. Sayfa 14728 (çekince notundaki 14729 ifadesi kafa
+  karıştırıcı; 14729 bir sonraki sayfa üstbilgisidir). Bakış testini ucu ucuna geçiyor: Atatürk'ün kendi
+  girişimi hakkında belirtilmiş bir yargı ('Versuch Kemal Atatürks...'), kutupluluk ikircikli ve yoğunluk 1
+  yerinde.
+verification_method: yeni indirme üzerinde pdftotext
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c58f44691cb4
+  role: ea7ac03ef181
+  quote: 60f551a9926b
+  summary: 5db98e1c90a6
+  caveat: bec715618dd2
+  verification_note: a31faeed7276
+  verification_method: 161f19b346de

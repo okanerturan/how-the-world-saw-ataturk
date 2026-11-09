@@ -1,0 +1,21 @@
+# Turkish for data/voices/1938/le-peuple-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-peuple-1938
+voice: Le Peuple
+role: Belçika günlük gazetesi
+summary: >-
+  Sosyalist günlük gazete: yeni Türkiye'nin uluslararası konumunu güçlendiren ve Sovyet Rusya ile yakın
+  dostluk kuran ilk Türk devlet adamı.
+caveat: >-
+  Toksoy'daki gazete adları fonetik yazılmıştır ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 12 Kasım 1938 s. 2 / Ayın Tarihi Kasım 1938
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 22700cb4f911
+  role: 2267de4d9b70
+  summary: 708ea98794c6
+  caveat: ecc719a2a575
+  mediated_by: 781a20fcb527
+  verification_method: 939bb46a04c3

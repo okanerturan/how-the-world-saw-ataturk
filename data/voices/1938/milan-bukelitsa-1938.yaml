@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: milan-bukelitsa-1938
+voice: Milan Bukelitsa
+voice_type: person
+role: Merchant of Valjevo
+country: Yugoslavia
+country_now: Serbia
+domain: letters
+date: "1938-10"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: telegram
+evidence: S
+summary: Wrote wishing happiness for the Turkish and Balkan peoples during Atatürk's illness.
+mediated_by: Dağlı 2023 ← Presidential Archive (Cumhurbaşkanlığı Arşivi)
+caveat: Wording of the wish is quoted only in part in the note.
+node: Foreign Delegations at the Funeral, November 1938
+sources:
+  - url: https://doi.org/10.30794/pausbed.1170334
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    Dağlı 2023 pdf: Valjevo merchant Milan Bukelitsa letter, day after 25 Oct 1938, wishes "Türk ve Balkan
+    milletlerinin saadeti için ... iyi olmanızı" (CA 01019989-329)
+  method: local
+  checked_on: "2026-10-29"

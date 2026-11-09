@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-sumatra-post-1938
+voice: De Sumatra Post
+voice_type: press
+role: Medan daily
+country: Dutch East Indies
+country_now: Indonesia
+domain: press
+date: "1938-11-28"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Reprinted John Gunther's phrase that Atatürk was the roughneck among dictators, beside whom Hitler was a
+  milksop, plus a food-taster story.
+mediated_by: Gunther phrase borrowed via Bataviaasch Nieuwsblad
+caveat: Borrowed text; paper's own stance not stated.
+node: Dutch East Indies Press, November 1938
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010863962:mpeg21:a0260
+    label: Bataviaasch Nieuwsblad, 19 Nov
+  - url: https://resolver.kb.nl/resolve?urn=ddd:011122903:mpeg21:a0177
+    label: Bataviaasch Nieuwsblad, 21 Nov (Nypels)
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010382452:mpeg21:a0118
+    label: De Sumatra Post, 11 Nov
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010382459:mpeg21:a0143
+    label: De Sumatra Post, 19 Nov
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010382465:mpeg21:a0200
+    label: De Sumatra Post, 28 Nov
+verification:
+  verdict: confirmed
+  checked_against: https://resolver.kb.nl/resolve?urn=ddd:010382465:mpeg21:a0200:ocr
+  method: fetch
+  note: >-
+    Gunther 'roughneck' / Hitler 'melkmuil' and food-taster story present; the food-taster part is credited to
+    Bat. Nwsbld, the Gunther line directly to Gunther
+  checked_on: "2026-10-29"

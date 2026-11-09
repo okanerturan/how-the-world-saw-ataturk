@@ -1,0 +1,24 @@
+# Turkish for data/voices/1919/south-african-muslims-1919.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: south-african-muslims-1919
+voice: Güney Afrika Müslümanları (Transvaal Mohammedan Congress, Hamidia Islamic Society)
+role: Güney Afrika Birliği'ndeki Müslüman dernekleri
+summary: >-
+  1919'da protesto toplantıları düzenlediler ve 1919–23 yılları arasında Kemalizm'den ziyade hilafet
+  söylemiyle bağışta bulunarak Anadolu'ya 875 sterlin gönderdiler.
+caveat: >-
+  Not: araçsal-hayranlık içeren tutum; Orakçı'nın verdiği rakam ikinci bir UJ teziyle (17.634 lira)
+  karşılaştırılarak kontrol edilmemiştir.
+verification_note: >-
+  Kaynakta Atatürk/Kemalizm hakkında hiçbir şey söylenmiyor; bakış hilafet/Osmanlı davasına yönelik. 17.634
+  liraya ilişkin çekince burada kontrol edilemiyor.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6d3419e8cea2
+  role: 9235d73912ca
+  summary: 2bdb87030006
+  caveat: 4808d9e1fe4c
+  verification_note: 4ca76cb72df6
+  verification_method: ad8cee67138e

@@ -1,0 +1,30 @@
+# Turkish for data/voices/2003/mahathir-2003-07-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mahathir-2003-07-10
+voice: Mahathir Mohamad
+role: Malezya Başbakanı; Dünya Ulema Konferansı konuşması, Putrajaya
+quote: >-
+  Kendisi laik olduğunu iddia etse de Yunanlıları Anadolu'dan çıkarmak üzere güçlü bir Müslüman Türk kuvvetine
+  önderlik eden Kemal Atatürk olmasaydı, Türkiye'nin kendisi de Yunanistan'ın bir parçası haline gelirdi.
+quote_kind: translated
+summary: >-
+  Kendisinin laik olduğunu iddia ettiğine dikkat çekerek, güçlü bir Müslüman kuvvete önderlik edip Türkiye'yi
+  Yunanistan tarafından parçalanmaktan kurtarmasını Atatürk'e mal eder.
+caveat: >-
+  'Islam in Era of Globalisation' konuşmasının 27. paragrafı (Dünya Ulema Konferansı açılışı, Marriott Hotel,
+  Putrajaya, 10 Temmuz 2003), mahathir.com üzerindeki resmi metin; konuşmada sayfa numarası yoktur, numaralı
+  paragraflar vardır. 'lead' imlası kaynağa aittir. Bu ifade, konuşmanın Müslümanların kendilerini savunmak
+  için modern bilgiye ihtiyaç duyduğu yönündeki tezine hizmet eder ve Atatürk'ün kuvvetini 'Muslim' olarak
+  nitelendirir. 2019'da Anıtkabir'e çelenk koyma töreninde (bkz. Anıtkabir) kendisine ait bir cümle yer almaz.
+verification_note: "'lead' imlası dahil birebir aynı; konuşmacı, tarih ve mekân sayfa başlığıyla eşleşiyor."
+verification_method: veri çekme (fetch)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 95269d338558
+  role: 19de04bd3653
+  quote: 64998e2bd009
+  summary: 5f8de619c3b2
+  caveat: 2677dcc4c63a
+  verification_note: a284bfc014c9
+  verification_method: ad8cee67138e

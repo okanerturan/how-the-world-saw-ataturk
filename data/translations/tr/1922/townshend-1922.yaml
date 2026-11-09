@@ -1,0 +1,19 @@
+# Turkish for data/voices/1922/townshend-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: townshend-1922
+voice: Sir Charles Townshend (Milletvekili)
+role: Kutü'l-Amare'de teslim olan general, milletvekili, Yakın Doğu görüşmesi
+quote: Onu iyi tanırım ve kendisine saygı duyarım
+quote_kind: translated
+summary: >-
+  Kemal'i İtilaf Devletleri'nin hatalarının yarattığı bir vatansever olarak savundu, onu Washington'a benzetti
+  ve İzmit'e gidip itidal telkin etmek istedi.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 213f62057bcb
+  role: 39867c2a7f23
+  quote: 13acd462787b
+  summary: 2723dd8010f4
+  verification_method: a033a528b603

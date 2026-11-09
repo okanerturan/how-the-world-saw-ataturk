@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cew-bean-1921
+voice: C.E.W. Bean
+voice_type: person
+role: Australian war correspondent and official historian
+country: Australia
+country_now: Australia
+domain: letters
+date: "1921"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: book
+evidence: S
+summary: >-
+  Wrote of Kemal's swift determination and credited his actions as vital to Ottoman success, making the Anzac
+  defeat more honourable.
+quote:
+  text: a formidable force under a formidable leader
+  language: en
+mediated_by: Aktar 2017 (Honest History) ← Bean, Official History vol. 1
+caveat: Attitude to Atatürk as president (1948) not read.
+node: C.E.W. Bean
+sources:
+  - url: https://honesthistory.net.au/wp/rewriting-the-history-of-gallipoli-a-turkish-perspective
+    archived: https://web.archive.org/web/20260307193006/https://honesthistory.net.au/wp/rewriting-the-history-of-gallipoli-a-turkish-perspective
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://honesthistory.net.au/wp/rewriting-the-history-of-gallipoli-a-turkish-perspective (Aktar article
+    text)
+  method: fetch
+  note: >-
+    Quote appears as Aktar's quotation from Bean vol.1 (1921); Bean's original volume not seen.
+  checked_on: "2026-10-29"

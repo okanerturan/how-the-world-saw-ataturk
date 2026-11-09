@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ben-badis-1924
+voice: Abdelhamid Ben Badis
+voice_type: person
+role: Algerian reformist scholar; editor of al-Shihab
+country: French Algeria
+country_now: Algeria
+domain: religion
+date: "1924-03"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: S
+summary: >-
+  Charged the Kemalists with crimes against the caliphate, the caliph, the House of Osman and the faith
+  itself; admitted earlier praise.
+quote:
+  text: >-
+    we turned a blind eye to their evils to preserve Islamic unity — and never imagined they would abolish the
+    Caliphate.
+  language: en
+caveat: Primary not seen in facsimile; via Guenn and al-Sallabi.
+node: Abdelhamid Ben Badis
+sources:
+  - url: https://binbadis.net/archives/919
+    archived: https://web.archive.org/web/20251110233135/https://binbadis.net/archives/919
+  - url: http://www.alsalabi.com/article/141
+    archived: https://web.archive.org/web/20261109085805/http://www.alsalabi.com/article/141
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://binbadis.net/archives/919 (Arabic, Muhammad Qan) quoting Ben Badis "al-Fāji‘a al-kubrā": "ما كنا
+    نجهل عقائدهم... كنا نغض الطرف عن شرورهم... إبقاء على الوحدة الإسلامية... وما كنا نحسب أبدا أن يقدموا على
+    إبطال الخلافة"; four crimes (caliphate, caliph, House of Osman, religion) match
+  method: fetch
+  note: >-
+    Quote is English translation of Arabic, via secondary; month "1924-03" not in source (only "after the 1924
+    abolition"); primary not seen.
+  checked_on: "2026-10-29"

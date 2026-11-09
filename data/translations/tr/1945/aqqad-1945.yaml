@@ -1,0 +1,42 @@
+# Turkish for data/voices/1945/aqqad-1945.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: aqqad-1945
+voice: Abbas Mahmud al-Aqqad
+role: Mısırlı deneme yazarı, şair ve eleştirmen
+quote: ve buna rağmen, içinde Müttefik orduları varken İstanbul'u ikinci kez fethetmeyi başardı
+quote_kind: translated
+summary: >-
+  Mustafa Kemal'i Hitler'in karşısına koyar: Hitler'in silahlanma harcamalarının çok küçük bir kısmını
+  harcamış, yine de içinde Müttefik orduları varken İstanbul'u geri almıştır.
+caveat: >-
+  Kaynak olarak al-Risala sayı 619, 14 Mayıs 1945, Wikisource sayfası 'مجلة الرسالة/العدد 619/التربية
+  السياسية' gösterilmiştir. Al-Aqqad, 'Hitler in the Balance' (1940) adlı kitabındaki daha önceki kendi sözünü
+  alıntılar. Savı şudur: Kemal'in başarısı silah harcamalarına değil kıvrak zekâya dayanıyordu; ayrıca
+  Türklerin kaleleri geri almalarını ve kapitülasyonları kaldırmalarını sağladı. Sayı 629'daki (23 Temmuz
+  1945, 'Voice and Personality') bağlantılı bir ifadede Churchill ve Mustafa Kemal'in seslerinin kendisini
+  şaşırttığını söyler ve Kemal'i 'Türklerin kahramanı' olarak adlandırır; sayı 400'de (3 Mart 1941) 'Mustafa
+  Kemal'in Türkiye'deki deneyimi'ni devlet gücüne ihtiyaç duyan devrimler arasında sayar. Geçerken
+  değinilmiştir ancak kendi sözleriyle ifade edilmiştir. Wikisource transkripsiyonu.
+verification_note: >-
+  Arapça alıntı birebir aynıdır; parantez içi bir öz-alıntının içinde yer alır: 'كما قلنا في كتاب هتلر في
+  الميزان (لم ينفق جزءاً من ألف ربوات الملايين التي أنفقها هتلر على التسليح، واستطاع مع ذلك أن يفتح الآستانة
+  فتحاً ثانياً وفيها جيوش الحلفاء ...)'. Üstbilgi yazarı 'عباس العقاد' ve imza 'عباس محمود العقاد', tarih
+  14-05-1945. 'Çok küçük bir kısmı' ifadesi 'on binlerce milyonun binde birinin bir parçası' anlamını makul
+  biçimde karşılamaktadır; kitabın '1940' tarihi sayfada yer almamaktadır (dış bilgi). Sayı 629 (23-07-1945,
+  'الصوت والشخصية') Churchill ve Mustafa Kemal'in seslerinin kendisini şaşırttığını söyler ve ona 'بطل الترك'
+  der (örtüşüyor); sayı 400 (03-03-1941, Aqqad imzalı) devlet gücüne ihtiyaç duyan deneyimler arasında 'تجربة
+  مصطفى كمال في تركيا' ifadesini sıralar (örtüşüyor). Övgü Hitler'le karşıtlık kurmak için kullanılsa da
+  hayran / 1 yerinde; şema uygun.
+verification_method: >-
+  action=raw çekildi, Arapça alıntının harekeden arındırılmış alt dize eşleştirmesi yapıldı, ardından
+  çevreleyen pasaj, üstbilgi tarihi ve kapanış imzası okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e958e8168387
+  role: 1b8b2d3e75c0
+  quote: f833e11ecc87
+  summary: 4b3d8b5744d9
+  caveat: 1b8b377b6b56
+  verification_note: 2f2d6c049f80
+  verification_method: 0d2d412521a8

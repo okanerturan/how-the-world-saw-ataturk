@@ -1,0 +1,29 @@
+# Turkish for data/voices/1923/mackenzie-king-1923.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mackenzie-king-1923
+voice: Mackenzie King
+role: Kanada Başbakanı, Avam Kamarası'ndaki cevabi konuşması
+quote: Mustafa Kemal tarafından İstanbul'dan sürülmek
+quote_kind: translated
+summary: >-
+  İtilaf Devletleri'nin kendisi tarafından İstanbul'dan sürülmesine izin verilmemesi gereken tehdit olarak
+  Kemal'in adını veren İngiliz telgrafını aktardı.
+caveat: >-
+  King, 15 Eylül 1922 tarihli İngiliz telgrafının içeriğini aktarmaktadır; sözler King'in kendi Kemal görüşü
+  değil, telgrafın King tarafından dolaylı anlatımla aktarılmış ifadeleridir. OCR/baskı 'Mustapha / Kemal'
+  ifadesini satır sonundan bölmektedir.
+verification_note: >-
+  Kelimesi kelimesine: 'driven out of Constantinople by Mustapha / Kemal' (sağ sütunda satır bölünmesi).
+  Konuşmacı telgrafı aktaran Mackenzie King; tanık yönelimi doğru. Sayfa 31 üstbilgisinde FEBRUARY 1, 1923
+  yazıyor.
+verification_method: Sayfa görüntüsü okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5cc7fb7b5687
+  role: 8c7f46de362a
+  quote: c198858a29b6
+  summary: f4aae8abff83
+  caveat: f8a1ac48e210
+  verification_note: 12e4ce299648
+  verification_method: 1f2aa475abf2

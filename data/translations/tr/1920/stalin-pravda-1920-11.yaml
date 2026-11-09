@@ -1,0 +1,28 @@
+# Turkish for data/voices/1920/stalin-pravda-1920-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: stalin-pravda-1920-11
+voice: Joseph Stalin
+role: Bolşevik Milliyetler Komiseri
+quote: >-
+  bu mücadele, ezilen halkların kurtuluşu davasına ihanet etmezlerse Kemalistlerle birlikte, İtilaf kampına
+  düşerlerse onlara rağmen zafere ulaşacaktır.
+quote_kind: translated
+summary: >-
+  Kemalistlerin İtilaf Devletleri'yle savaştığını ve Rusya'nın onları destekleyeceğini söyledi; ancak sağa
+  olası bir kaymaya ve sömürgelerin kurtuluşu davasına ihanete dikkat çekti.
+caveat: >-
+  Kemal'in kendisini değil, 'the Kemalists'i anar; bir Pravda muhabiriyle söyleşi, Works c. 4.
+verification_note: >-
+  Alıntı birebir aynı (kayıt 'and that' ifadesinden sonra cümlenin ortasından başlıyor). 'Right swing' ve
+  'betray' ifadeleri örtüşüyor. Kayıtta belirtildiği gibi Kemal'i değil, Kemalistleri anıyor.
+verification_method: Serbest erişimle getirildi; cümle bulundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5d0cc0db01de
+  role: 2a27311a41f8
+  quote: 7f632afa24b6
+  summary: 2f1a364b13be
+  caveat: 667ca0dee4ac
+  verification_note: 27cf628d3662
+  verification_method: 170c7feca5ed

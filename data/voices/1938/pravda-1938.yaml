@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pravda-1938
+voice: Pravda
+voice_type: press
+role: Soviet party daily
+country: Soviet Union
+country_now: Russia
+domain: press
+date: "1938-11-10"
+era: funeral
+polarity: instrumental
+intensity: 2
+artifact: article
+evidence: S+J+T
+summary: >-
+  Per the NYT (13 Nov 1938) ran a long laudatory biography stressing his friendliness to the USSR, which may
+  signal Moscow's wish to improve relations with Ankara; the Turkish ministry's compilation prints from Pravda
+  of 10 Nov only a list of his reforms.
+quote:
+  text: >-
+    the creator and the pioneer of many reforms, such as the declaration of the Republic, establishment of the
+    national banks and national industry, construction of railroads
+  language: en
+mediated_by: >-
+  Turkish Ministry of Culture and Tourism compilation of foreign quotes (T); NYT 13 Nov 1938 (J)
+caveat: >-
+  Quote is the Turkish ministry compilation's English rendering; NYT not retrieved in the 2026-10-29 check.
+  Corrected: the 'independence movement ... all sincere friends feel sorrow' line is captioned Izvestia (11
+  Nov), see izvestia-1938. The compilation's first line is misattributed to Khrushchev; obituaries
+  deliberately skipped the late 1930s (Montreux strain).
+node: Moscow Mourns, November 1938
+sources:
+  - url: https://history.jes.su/s207987840033211-1-1
+    archived: https://web.archive.org/web/20260512190009/https://history.jes.su/s207987840033211-1-1
+  - url: https://nytimes.com/1938/11/13/archives/russians-hail-inounu-as-turkish-president-moscow-newspapers-stress.html
+  - url: https://ktb.gov.tr/EN-104224/russia.html
+    archived: https://web.archive.org/web/20250425024334/https://ktb.gov.tr/EN-104224/russia.html
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    https://ktb.gov.tr/EN-104224/russia.html (and https://history.jes.su/ abstract); NYT 403 unreachable
+  method: fetch
+  note: >-
+    On KTB page the quote 'independence movement ... all sincere friends feel sorrow' is labelled Izvestia 11
+    Nov 1938; the Pravda 10 Nov entry is a list of reforms (republic, banks, railways, Latin alphabet, women's
+    rights). Quote misattributed to Pravda; 'long laudatory biography' rests on NYT, not retrieved
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

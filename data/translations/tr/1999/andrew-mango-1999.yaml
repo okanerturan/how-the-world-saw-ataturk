@@ -1,0 +1,23 @@
+# Turkish for data/voices/1999/andrew-mango-1999.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: andrew-mango-1999
+voice: Andrew Mango
+role: Biyografi yazarı; eski BBC Türkçe servisi başkanı
+summary: >-
+  Kinross'unkinden daha serinkanlı ve daha derin, yine de saygılı olan standart modern İngilizce biyografiyi
+  yazdı.
+caveat: >-
+  LEDGER satırı bulunamadı; kademe, notun kaynak türlerinden (Wikipedia, vefat yazıları) alındı.
+verification_note: >-
+  Vefat yazısı: 'cooler, deeper, but still highly respectful view'. 'Standard' ve 'than Kinross' notun
+  eklemeleridir; her iki kaynak da kademe bakımından zayıftır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c0fa402e9b58
+  role: 1d3ab3cb537d
+  summary: 34fe98c9d897
+  caveat: e7a7175f1d5b
+  verification_note: d6934e9ccaf6
+  verification_method: ad8cee67138e

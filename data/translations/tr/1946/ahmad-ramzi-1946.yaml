@@ -1,0 +1,50 @@
+# Turkish for data/voices/1946/ahmad-ramzi-1946.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ahmad-ramzi-1946
+voice: Ahmad Ramzi
+role: al-Risala yazarı, Ahmad Ramzi Bey imzalı, Türkiye'de yedi yıl ikamet etmiş
+quote: >-
+  Zira o, Doğu'da uzun bir düşüncenin ardından harekete geçen ve eylemlerini ilk fikirlerine tabi kılan az
+  sayıdaki kişilerden biridir.
+quote_kind: translated
+summary: >-
+  Gazi'yi Doğu'da uzun uzadıya düşündükten sonra harekete geçen az sayıdaki kişiden biri olarak görür;
+  yazısını onun 'şaşkın ruhu'nun açıklığa kavuşacağı öngörüsüyle bitirir.
+caveat: >-
+  al-Risala sayı 698, 18 Kasım 1946, Wikisource sayfası 'مجلة الرسالة/العدد 698/الغازي مصطفى كمال' olarak
+  kaynak gösterilmiştir. Ahmad Ramzi Bey imzalı ('Bu sözleri Türkiye'de yedi yıl kaldıktan sonra yazıyorum'),
+  'Gazi Mustafa Kemal: onu liderliğe götüren psikolojik saiklerin incelenmesi ve tahlili' başlıklı yazının ilk
+  bölümü. Bölümün kapanış satırı, kelimesi kelimesine: 'Mustafa Kemal de yalnızca [iman yolundan ayrılıp ona
+  geri dönecek olan] bunlardan biridir; günler onun şaşkın ruhuna dair pek çok şeyi ortaya çıkaracaktır'.
+  Ramzi ayrıca Kont Sforza'nın 'Türk lideri Mustafa Kemal' başlıklı denemesini sayı 836-838'de (Temmuz 1949)
+  çevirmiştir — Khalil Mutran'ın yazdığından şüphelenilen metin; Sforza arşivde zaten ayrı bir sestir (1931).
+  'Ahmad Ramzi Bey'in kimliği metnin ötesinde tespit edilememiştir. Din: konuşmacının çerçevelemesi olarak
+  aktarılmıştır. Wikisource transkripsiyonu. Kontrol: ülke olarak Mısır, Kahire'de yayımlanmasından
+  çıkarılmıştır; sayfada kimlik tespit edilmemiştir.
+verification_note: >-
+  Arapça alıntı birebir aynı ve bu bir çeviri değil, Ramzi'nin kendi görüşüdür: makalenin başlığı 'بحث وتحليل
+  للدوافع النفسية ... للأستاذ أحمد رمزي بك' (imza 'أحمد رمزي'), tarih 18-11-1946; cümle 'وكلما مرت الأيام
+  تمثلت إلي شخصية الغازي كأنموذج لكلمة جوتة الخالدة: إذ هو من الأفراد القلائل في الشرق ...' şeklindedir, yani
+  Goethe epigrafını bizzat kendi uyarlamasıdır (dolayısıyla alıntı Goethe temelli bir yargıdır; çeviri
+  sadıktır). 'إنني أكتب هذه الكلمات بعد إقامة سبعة سنوات بتركيا' mevcut; kapanıştaki 'وما مصطفى كمال إلا واحد
+  من هؤلاء ستكشف الأيام الكثير عن روحه الحائرة' ifadesi örtüşüyor (what_they_saw alanındaki 'açıklığa
+  kavuşacağı' ifadesi, 'hakkında pek çok şeyi ortaya çıkaracaktır' ifadesinin serbest bir karşılığıdır).
+  Sforza çekincesi doğrulandı: sayı 836, 11-07-1949, 'بقلم الكونت سفورزا ... للأستاذ أحمد رمزي بك', Ramzi bunu
+  'بحث قديم عثرت عليه بين أوراقي' olarak sunar; Mutran şüphesi kontrol edilmedi. SORUN: 'Mısırlı yazar ve
+  tarihçi' rolü ve 'Mısır' ülkesi sayfa tarafından desteklenmemektedir (çekince notunun kendisi de kimliğin
+  tespit edilemediğini kabul ediyor). DÜZELTME: role -> 'al-Risala yazarı, Ahmad Ramzi Bey imzalı, Türkiye'de
+  yedi yıl ikamet etmiş' ve country/country_now -> 'Mısır (Kahire'de yayımlandığı için; uyruk belirtilmemiş)'
+  yapılmalı ya da çekince notunda çıkarım olduğu belirtilmeli. Çelişkili / 2 uygun; şema tamam.
+verification_method: >-
+  action=raw alındı, Arapça alıntının harekeleri normalleştirilmiş alt dize eşleşmesi yapıldı, ardından
+  çevreleyen pasaj, üstbilgi tarihi ve sondaki imza okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b87dbc5c261c
+  role: 6caf41d818a2
+  quote: c4a2f34716ca
+  summary: bcd9ca613483
+  caveat: 2962a73283e5
+  verification_note: b44db7037ed7
+  verification_method: 0d2d412521a8

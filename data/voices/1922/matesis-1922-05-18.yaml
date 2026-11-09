@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: matesis-1922-05-18
+voice: A. Matesis
+voice_type: person
+role: >-
+  Greek deputy and interpellator on the Christian massacres in Asia Minor (initial A. as printed)
+country: Greece
+country_now: Greece
+domain: politics
+date: "1922-05-18"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Says Kemal repaid Pontic Greeks' protection of Muslims with the horrific tragedy of Pontus, and called his
+  note to the High Commissioners ironic and insolent.
+quote:
+  text: >-
+    Τὴν ἀμοιβὴν διὰ τὰς ὑπηρεσίας ταύτας ἔδωκεν ὁ Κεμὰλ διὰ τῆς φρικιαστικῆς τραγῳδίας τοῦ πολυπαθοῦ Πόντου.
+  language: el
+mediated_by: >-
+  As summarised in the Πρακτικά (third-person report of the speech; the quoted sentence is the recorder's
+  wording)
+caveat: >-
+  Γ΄ Εθνοσυνέλευση, Πρακτικά Τόμος 4, session ΞΖ΄ of 18 May 1922 (heading read from a thumbnail of the page),
+  printed pp. 2621-2622 (PDF pages 144-145; page images read). Matesis interpellates, with Tsoukalas and
+  Sotiriadis, on the massacres of Christians by the 'Kemalists'; the summary has him blame Kemal personally
+  for Pontus and describe Kemal's letter of 15 Feb 1922 to the three High Commissioners as written 'with
+  excessive irony and insolence'. Greek war-time parliamentary rhetoric; the vault does not adopt its framing.
+node: Greek Deputies on Kemal, 1921–1932 — Hellenic Parliament Library
+sources:
+  - url: https://library.parliament.gr/Συλλογές/Κοινοβουλευτική-Συλλογή/Πρακτικά-Συνεδριάσεων/πρακτικά-βουλής-1910-1935
+    archived: https://web.archive.org/web/20260614102850/https://library.parliament.gr/%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AD%CF%82/%CE%9A%CE%BF%CE%B9%CE%BD%CE%BF%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AE-%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AE/%CE%A0%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AC-%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%B9%CE%AC%CF%83%CE%B5%CF%89%CE%BD/%CF%80%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AC-%CE%B2%CE%BF%CF%85%CE%BB%CE%AE%CF%82-1910-1935
+  - url: https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/ΠΡΒ_Γ.ΕΘΝΟΣΥΝΕΛΕΥΣΗ_Τ.4_1920-1922.pdf
+    archived: https://web.archive.org/web/20220420012641/https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/%CE%A0%CE%A1%CE%92_%CE%93.%CE%95%CE%98%CE%9D%CE%9F%CE%A3%CE%A5%CE%9D%CE%95%CE%9B%CE%95%CE%A5%CE%A3%CE%97_%CE%A4.4_1920-1922.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Γ΄ Εθνοσυνέλευση Πρακτικά Τ.4, PDF page 144, printed p. 2622 (running head 'Συνεδρία ΞΖ΄')
+  method: >-
+    rendered the page image at 230 dpi and READ the polytonic Greek (main agent, not the builder)
+  note: >-
+    Quote verbatim on the page image. Minor deputy; third-person Πρακτικά summary. Session date taken from the
+    heading of the sitting (builder read it at thumbnail resolution); running head ΞΖ΄ confirmed.
+  checked_on: "2026-11-05"

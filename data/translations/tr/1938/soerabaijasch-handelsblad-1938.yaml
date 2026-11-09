@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/soerabaijasch-handelsblad-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: soerabaijasch-handelsblad-1938
+voice: Soerabaijasch Handelsblad
+role: Surabaya günlük gazetesi
+quote: "Kemal Atatürk'ün en büyük yeteneği: doğru düşmanlar edinmek."
+quote_kind: translated
+summary: >-
+  Batı örneğine göre modern bir devlet inşa etmek için din adamlarının nüfuzunu elinden alması gerekiyordu; en
+  büyük yeteneği doğru düşmanlar edinmekti.
+verification_note: >-
+  Kaydın kaynak listesi boştur; iki makale 10 Kasım tarihi altında birleştirilmiştir (alıntı 11 Kasım tarihli
+  yazıya aittir); alıntı Felemenkçenin İngilizce çevirisidir, çeviri olduğu işaretlenmemiştir.
+verification_method: web erişimi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0eb8c78aa41d
+  role: 7bf2928cab04
+  quote: ebd03ee3607b
+  summary: 985fddac0eb8
+  verification_note: a73259c244e8
+  verification_method: ad8cee67138e

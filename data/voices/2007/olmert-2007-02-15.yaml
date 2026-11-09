@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: olmert-2007-02-15
+voice: Ehud Olmert
+voice_type: person
+role: Prime Minister of Israel
+country: Israel
+country_now: Israel
+domain: politics
+date: "2007-02-15"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: P
+summary: >-
+  'A Role Model of Courage, vision and Patriotism' who gave hope to his people and to others who followed his
+  example.
+quote:
+  text: >-
+    A Role Model of Courage vision and Patriotism – who helped create a new hope for his people and for many
+    others who took example from him.
+  language: en
+caveat: >-
+  Handwritten in English, 15 Feb 2007, headed 'In honor of the father of Modern Turkey Kamal Ata-Turk';
+  continues 'The People of Israel look at this great hero of the turkish people with admiration and respect.'
+  Signed 'Ehud Olmert, Prime Minister, the state of Israel'. Source: Anıtkabir Özel Defteri (printed
+  compilation, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk
+  hakkındaki duygu ve düşünceleri'), page images on ataturkarsivi.com, read on the image by the main agent (4
+  Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) 2_561c5c80 (handwriting only; both gallery entries are the same file)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Verbatim ('Courage vision and Patriotism' unpunctuated as written); dated 15 Feb. 2007; signed Ehud
+    Olmert, Prime-Minister, the state of Israel; 'admiration and respect' line present. No printed Turkish
+    page in the gallery for this entry.
+  checked_on: "2026-11-04"

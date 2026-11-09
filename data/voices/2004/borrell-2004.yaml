@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: borrell-2004
+voice: Josep Borrell Fontelles
+voice_type: person
+role: President of the European Parliament
+country: European Union
+country_now: European Union
+domain: diplomacy
+date: "2004-12-03"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: secular-rationalist-prophet
+artifact: speech
+evidence: P
+summary: >-
+  Says that although most Turks are Muslim, Atatürk founded the republic and built it on democratic and
+  secular principles.
+quote:
+  text: >-
+    Türkiye Cumhuriyeti Atatürk tarafından kurulmuş ve Atatürk tarafından, Türkiye, demokratik ve laik ilkeler
+    üzerine inşa edilmiştir.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 220 (printed p. 209). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "The Republic of Turkey was founded by Atatürk, and by Atatürk Turkey was built on
+  democratic and secular principles." Accession-talks context: the speech answers questions about religion and
+  EU membership. Heading: 'Avrupa Parlamentosu Başkanı Josep Borrell Fontelles', 3 Aralık 2004.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 220 (printed p. 209); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c220.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Avrupa Parlamentosu Başkanı Josep
+    Borrell Fontelles, 26. Birleşim, 3 Aralık 2004 (heading on PDF p. 218)'). Quote on PDF p. 220 (printed p.
+    209) as cited. Original-language text not fetched (Borrell is not on the required list).
+  checked_on: "2026-11-01"

@@ -1,0 +1,39 @@
+# Turkish for data/voices/1937/roosevelt-1937-04-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: roosevelt-1937-04-06
+voice: Franklin D. Roosevelt
+role: Amerika Birleşik Devletleri Başkanı
+quote: >-
+  Nispeten kısa bir zamanda meydan getirdiğiniz pek çok hayret verici hususları görünce, hissettiğim şevk ve
+  heyecanı size arz etmek istedim.
+quote_kind: original-turkish
+summary: >-
+  Beyaz Saray'da Julian Bryan'ın Türkiye filmini izledikten sonra, bu kadar kısa sürede gerçekleştirilen
+  şaşırtıcı değişimler karşısında duyduğu heyecanı Atatürk'e yazdı; tanışmayı umduğunu belirtti.
+caveat: >-
+  İngilizce bir mektubun Türkçe çevirisi; 'meydan' basıldığı gibidir ('meydana' olarak okunmalıdır). Çeviri:
+  'Seeing the many astonishing things you have brought about in a relatively short time, I wanted to tell you
+  of the enthusiasm I felt.' Ayrıca Atatürk'ün küçük kızıyla oynarken çekilmiş filminden ve Atatürk'ün
+  gönderdiği pullardan da keyif almıştır. Atatürk 25 Mayıs 1937'de yanıt vermiştir. Kontrol: Şimşir'deki
+  yanıtın İngilizce metni 6 Haziran 1937 tarihlidir.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri c. 29 (Kaynak 2011) s. 228 dn. 2 ← Şimşir, Atatürk ve Yabancı Devlet Başkanları c.
+  1 (1993) s. 259–260, 718–719 (İngilizce aslı, Türk Dışişleri Bakanlığı arşivi)
+verification_note: >-
+  Alıntı, 'meydan' ifadesi dahil birebirdir. Atatürk'ün küçük kızıyla çekilmiş filmi, tanışma umudu ve
+  pulların tamamı mektupta yer almaktadır. Küçük noktalar: Mektup pulların 'in 1935' gönderildiğini
+  söylememektedir, dolayısıyla bu tarih burada dayanaksızdır; ayrıca ABE dn. 1, Atatürk'ün yanıtının
+  Şimşir'deki İngilizce metninin 6 Haziran 1937 tarihli olduğunu belirtmektedir (ABE başlığında 25 Mayıs
+  yazar). Hayranlık kutupluluğu ve modernleşmenin örnek yüzü (modernization-poster-child) etiketi uygundur.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b3a5fb56eec0
+  role: e98cef73a6c9
+  quote: 55fa6789a7bf
+  summary: 2d5360edad64
+  caveat: 91011b453b0a
+  mediated_by: 06f2a6c9b89e
+  verification_note: d3525e121a88
+  verification_method: b152e9063489

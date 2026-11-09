@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bhulabhai-desai-1938-11
+voice: Bhulabhai Desai
+voice_type: person
+role: Leader of the Opposition (Congress), Central Legislative Assembly
+country: British India
+country_now: India
+domain: politics
+date: "1938-11-14"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Moves the House's condolence: Kemal swept away every convention in the way of progress and left a lesson for
+  India.
+quote:
+  text: >-
+    He was, according to our humble appreciation, one of the most courageous of world reformers. In a day he
+    abolished the purdah, in a day he established the equality of man and woman
+  language: en
+caveat: >-
+  Legislative Assembly Debates, vol. VII (Government of India Press, Delhi 1938), 14 Nov 1938, p. 2954.
+  Official report digitised by the Lok Sabha Secretariat / Government of India Press, via archive.org OCR.
+  Desai asks that sympathy be conveyed to Ismet Inonu; he calls Kemal's 'courage' a legacy 'particularly
+  applicable' to India. Text read from the OCR of the official report; obvious OCR slips are silently
+  corrected in the quote.
+node: >-
+  Indian Legislative Assembly Mourns Kemal, 14 November 1938 — Desai, Nairang, Aney, Aikman, Zafar Ali Khan
+  and Sir Abdur Rahim
+sources:
+  - url: https://archive.org/download/in.ernet.dli.2015.13994/2015.13994.The-Legislative-Assembly-Debates--vol-vii-Th-1938_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Legislative Assembly Debates vol. VII (in.ernet.dli.2015.13994), 14 Nov 1938, p. 2954 (page headers
+    2953/2955 bracket it); speaker header 'Mr. Bhulabhai J. Desai (Bombay Northern Division)'; Rahim calls him
+    Leader of the Opposition
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim after fixing OCR slips (jnirdaJi=purdah, a]>preciation=appreciation); record's
+    'OCR-corrected' statement is accurate. Gaze, era (funeral), date, polarity, schema all fine. Condolence
+    request to Ismet Pasha is on the same page.
+  checked_on: "2026-11-03"

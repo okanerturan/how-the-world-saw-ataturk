@@ -1,0 +1,28 @@
+# Turkish for data/voices/1932/la-gaceta-tampa-1932-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-gaceta-tampa-1932-05
+voice: La Gaceta (Tampa)
+role: İspanyolca günlük gazete, Tampa, Florida (puro işçisi okur kitlesi)
+quote: Sert elli diktatör
+quote_kind: translated
+summary: >-
+  Türkiye'nin hem Mussolini hem de Sovyet Rusya ile dostane ilişkileri üzerine köşe yazısı: Kemal, herkesle
+  dost olan ve Türkleri uygun gördüğü gibi yöneten sert elli bir diktatördür.
+caveat: >-
+  İmzasız. Aynı sayının s. 4'ünde Kemal'i soylu bir hasım olarak nitelendiren, Gelibolu tarihi konulu bir
+  İngiliz yazısı yer alır (gazetenin kendi sesi değildir).
+verification_note: >-
+  Türkiye'nin Mussolini İtalyası ve Sovyet Rusya ile ilişkileri hakkındaki bir köşe yazısında 'Dictador de
+  mano dura y caballero inteligente, Mustafa Kemal Pasha...'; 'Mussolini y Kemal son dos Dictadores'. Alıntı,
+  OCR'da satır sonundan bölünmüş bir ifadedir.
+verification_method: loc.gov JSON + tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1af7128c59ed
+  role: ec3228434984
+  quote: 234dc88302f0
+  summary: c88002c901d4
+  caveat: 5311aa50f73d
+  verification_note: c682f5e5f082
+  verification_method: 28ee7781d3b6

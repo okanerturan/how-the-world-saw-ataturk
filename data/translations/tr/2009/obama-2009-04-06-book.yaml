@@ -1,0 +1,45 @@
+# Turkish for data/voices/2009/obama-2009-04-06-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: obama-2009-04-06-book
+voice: Barack Obama
+role: Amerika Birleşik Devletleri Başkanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Vizyonu, azmi ve cesareti Türkiye Cumhuriyeti'ni demokrasi yoluna koyan Mustafa Kemal Atatürk'ü saygıyla
+  anmaktan onur duyuyorum
+quote_kind: translated
+summary: >-
+  'Vizyonu, azmi ve cesareti' Türkiye'yi demokrasi yoluna koyan ve mirası nesillere ilham veren Atatürk'ü
+  saygıyla anar.
+caveat: >-
+  İngilizce yazılmış bir metnin Türkçe çevirisi. Habertürk ve T24 aynı ifadeleri yayımlar; Dengegazetesi (6
+  Nisan 2009) daha serbest bir versiyon ('Vizyonu, ısrarı ve cesareti, ...') verir, dolayısıyla tam İngilizce
+  metin buradan sabitlenemez. Yazı, devamında 'Yurtta barış, dünyada barış' ilkesine atıfta bulunur ve
+  Atatürk'ün modern, müreffeh bir demokrasi olarak Türkiye vizyonuna destek sözü verir. Aynı günkü Meclis
+  konuşmasından (obama-2009 kaydı) ayrı bir belgedir. İngilizce özgün metin AP'den (San Diego Union-Tribune;
+  Hürriyet Daily News) alınmıştır.
+mediated_by: Habertürk, Dengegazetesi ve T24, 6 Nisan 2009 (kaydın Türkçe çevirileri)
+verification_note: >-
+  Türkçe alıntı Habertürk ve T24'te birebir aynı olup Anıtkabir Özel Defteri'ne atfedilmiştir; 6 Nisan 2009
+  tarihi doğrudur. Habertürk ve T24 birebir aynı metni yayımladığından birbirinden bağımsız değildir. ÖZGÜN
+  İNGİLİZCE METİN BULUNDU (AP, 'wrote'): 'I am honored to pay tribute to Mustafa Kemal Ataturk, a man whose
+  vision, tenacity and courage put the Republic of Turkey on the path of democracy and whose legacy continues
+  to inspire generations around the world.' İkinci paragraf: 'As the 44th President of the United States of
+  America, I look forward to strengthening relations between the U.S. and Turkey and supporting Ataturk's
+  vision of Turkey as a modern and prosperous democracy giving hope to its people and providing peace at home,
+  peace in the world.' [translation] alıntısını İngilizce metinle değiştirin; 'kararlılığı' ifadesinin
+  karşılığı ('resolve' değil) 'tenacity', diğer ifade ise ('turned toward' değil) 'put on the path of
+  democracy' şeklindedir. Yönelim hayranlık / yoğunluk 2 yerindedir.
+verification_method: >-
+  Atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı; İngilizce metin için bir ücretli arama yapıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: "215865868473"
+  role: 63b5ff51972f
+  quote: 1fc0cd49ab6a
+  summary: 80d968ee8e44
+  caveat: 6792ca69bbcb
+  mediated_by: e4261455a31c
+  verification_note: 33e94577f2f8
+  verification_method: d68d3c4a708a

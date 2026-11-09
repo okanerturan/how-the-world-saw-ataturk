@@ -1,0 +1,38 @@
+# Turkish for data/voices/1930/inoue-masaji-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: inoue-masaji-1930
+voice: Inoue Masaji
+role: Japon siyasetçi ve siyasi yazar, eski Dışişleri Bakanlığı mensubu ve dış göç teşvikçisi
+quote: >-
+  Türkiye onun sayesinde kurtarıldı. O olmasaydı Türkiye Avrupa topraklarından sürülecek, Asya'da da
+  Anadolu'nun bir köşesine sığınarak tükenmekte olan ömrünü sürdürmekten başka yolu olmayan bir kaderle karşı
+  karşıya kalacaktı.
+quote_kind: translated
+summary: >-
+  Kemal'in Türkiye'yi kurtardığını söyler: o olmasaydı Türkiye Avrupa'dan sürülecek, Anadolu'da can çekişen
+  bir kalıntı olarak kalacaktı.
+caveat: >-
+  Ijū to kaitaku (1930), basılı s. 107, NDL görüntü 63 (sayfa görüntüsü okundu). Bölüm Kemal'i 43 yaşında 'bir
+  kuşağın görkemli adamı' olarak tanıtır; dolayısıyla muhtemelen 1924 civarında yazılmış ve 1930'da kitapta
+  toplanmıştır; verilen tarih yayın tarihidir. Daha sonraki bir pasaj (s. 66 görüntüsü), Japonya'nın Kemal,
+  Lenin veya Gandhi'yi taklit etmemesi, görevini Japon ruhuyla başarması gerektiğini söyler.
+verification_note: >-
+  Alıntı basılı s. 107'de (sol sayfa, son sütunlar) birebir aynıdır. Söz konusu kişi Mustafa Kamil DEĞİL,
+  Kemal Paşa'dır (ケマル・パシャ, Anadolu, Spa, Sevr'in gözden geçirilmesi, 43 yaş -> yakl. 1924). s. 107 onu
+  '又一代の快男子' olarak nitelendirir. Sayfa görüntüsü 66 (basılı s. 112-113), Japonya'nın taklit etmemesi
+  gerekenler arasında 'Mussolini, Lenin, Gandhi, Kemal, Masaryk' isimlerini sıralar: çekince notu doğrudur.
+  Yakl. 1924'te yazılmış, 1930'da yayımlanmıştır: her iki durumda da çağdaş dönemdir, yayın tarihi olarak 1930
+  tarihi kabul edilebilir. Bakış testini geçer.
+verification_method: >-
+  IIIF sayfa görüntüsü indirildi ve üzerindeki Japonca OKUNDU; yazar/başlık/yıl için NDL öğe üstverisi kontrol
+  edildi; komşu sayfalar okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: dd47f49d741c
+  role: 4219f5db1910
+  quote: 51956dd88907
+  summary: 40d3c8b67c42
+  caveat: 90e8053d271b
+  verification_note: b900a0529315
+  verification_method: 0d2f079114e5

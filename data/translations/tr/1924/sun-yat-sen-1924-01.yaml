@@ -1,0 +1,30 @@
+# Turkish for data/voices/1924/sun-yat-sen-1924-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sun-yat-sen-1924-01
+voice: Sun Yat-sen
+role: Üç İlke üzerine konuşma yapan KMT lideri
+quote: >-
+  Daha sonra Rusya ortaya çıkıp haksızlığa karşı durdu, onun Yunanları kovmasına ve bütün eşitsiz antlaşmaları
+  değiştirmesine yardım etti
+quote_kind: translated
+summary: >-
+  Türkiye'nin parçalanmaktan kurtulması, Yunanların çıkarılması ve antlaşmaların yeniden düzenlenmesi
+  Rusya'nın yardımı sayesinde gerçekleşti; bu, ezilenlerin Rusya ile ittifak kuracağı yönündeki bir argümandı.
+caveat: >-
+  Kemal'in değil Türkiye'nin adını anar; metin, Nationalism 1. konuşmasının Çince Wikisource
+  transkripsiyonudur (sayfada baskı bilgisi belirtilmemiştir). Sun, Türkiye'yi bir model olarak değil,
+  Rusya'nın rolüne kanıt olarak kullanır.
+verification_note: >-
+  Alıntı birebir aynı. Metin Kemal'in değil Türkiye'nin adını anıyor (uyarı notunda belirtildiği gibi);
+  araçsal kutupluluk kaydın kendi okumasıdır. 27 Ocak 1924 konuşma tarihi sayfada belirtilmemiştir.
+verification_method: curl action=raw, grep
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 07f7e6a153f5
+  role: a108ccfc6bc6
+  quote: 92a4a71c90bd
+  summary: 051585ef806f
+  caveat: 741a6e382e6b
+  verification_note: 28665f51277b
+  verification_method: 015a345ebf04

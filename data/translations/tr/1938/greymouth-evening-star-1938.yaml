@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/greymouth-evening-star-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: greymouth-evening-star-1938
+voice: Greymouth Evening Star
+role: Yeni Zelanda Batı Kıyısı günlük gazetesi
+quote: >-
+  Bütün diktatörler Kemal gibi olsaydı, sayıları konusunda endişelenmeye daha az gerek olurdu.
+quote_kind: translated
+summary: >-
+  Başyazı: Hitler, Mussolini veya Stalin'e benzemeyen iyiliksever diktatör; Britanya bir zamanların mert
+  düşmanının ve sonraki dostunun yasını tutuyor.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 05e6d68d44aa
+  role: 06bfd1d14a34
+  quote: 2d6b94ed3621
+  summary: 0416b541bfd5
+  verification_method: ad8cee67138e

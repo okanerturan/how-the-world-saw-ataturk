@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: litvinov-1931-10-29
+voice: Maxim Litvinov
+voice_type: person
+role: Soviet People's Commissar for Foreign Affairs, guest at the Republic Day in Ankara
+country: Soviet Union
+country_now: Russia
+domain: diplomacy
+date: "1931-10-29"
+era: contemporary
+polarity: witness
+intensity: 2
+artifact: meeting
+evidence: S
+summary: >-
+  Reported to Moscow long talks with Kemal, who pressed him on Manchuria, feared Japan would turn on the USSR,
+  and explained Turkey's Balkan policy.
+quote:
+  text: Kemal Paşa'yla, daha da fazla İsmet Paşa'yla uzun görüşmeler yaptım.
+  language: tr
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri vol. 25 pp. 267–268 fn. ← M. Perinçek, Atatürk'ün Sovyetler'le Görüşmeleri (2007)
+  pp. 411–412 ← Litvinov's telegram to the NKID, 29 Oct 1931 (Dokumenty vneshnei politiki SSSR vol. 14 p. 622
+  ff.)
+caveat: >-
+  Turkish translation of a Russian telegram. Translation: 'I had long talks with Kemal Pasha, and even more
+  with İsmet Pasha.' He judged that Turkey valued Soviet friendship. Vakit (31 Oct 1931) adds that Kemal spoke
+  with him in French until morning at the ball.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2025%20%281931%20-%201932%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202009%20%281.%20Bas%C4%B1m%29%2C%20463%20sf.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org butuneserler, djvu text of ABE vol. 25, pp. 267–268 fn. (Litvinov to NKID, 29 Oct 1931 ←
+    Perinçek 2007 pp. 411–412 ← DVP SSSR vol. 14 p. 622 ff.; Vakit 31 Oct 1931)
+  method: archive.org open djvu text read
+  note: >-
+    Quote verbatim in the footnote spanning pp. 267–268. Manchuria, the fear that Japan would turn on the
+    USSR, and the Balkan briefing are all in the telegram, as is 'Türkiye bizimle dostluğa oldukça önem
+    veriyor'. Vakit adds the ball and the conversation in French until morning. Litvinov is a foreign
+    commissar, not a head of government, but he is world-famous and this is his own first-hand report of a
+    substantive exchange (he also notes Kemal and İsmet were 'çok telaşlandılar' over disarmament). It passes.
+    Witness is right.
+  checked_on: "2026-11-05"

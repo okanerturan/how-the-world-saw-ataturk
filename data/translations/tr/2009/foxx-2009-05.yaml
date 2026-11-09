@@ -1,0 +1,35 @@
+# Turkish for data/voices/2009/foxx-2009-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: foxx-2009-05
+voice: Virginia Foxx
+role: >-
+  ABD Kuzey Carolina Temsilciler Meclisi Üyesi (Cumhuriyetçi), Türkiye Çalışma Grubu eş başkanı
+quote: >-
+  Atatürk, Türkiye Cumhuriyeti'nin temelini atan eşsiz ve ilham verici bir şahsiyetti. … Hangi ölçütlerle
+  bakılırsa bakılsın, Atatürk tarihi bir reformcuydu.
+quote_kind: translated
+summary: >-
+  128. doğum gününde Atatürk'ü 'eşsiz ve ilham verici bir şahsiyet' ve sabırsız bir reformcu olarak
+  nitelendiriyor ve Müslüman liderleri onun devriminden ilham almaya çağırıyor.
+caveat: >-
+  Kendi açıklaması; takip ettiği Tom Lantos'un 2006 tarihli açıklamasıyla (aday kayıt) yapısal olarak
+  neredeyse birebir aynıdır. Ayrıca 15 Ekim 2007 ('the visionary leader of modern Turkey', Ermeni karar
+  tasarısı tartışması), 22 Nisan 2008 ve 28 Mayıs 2010'da da (16 yaşındaki bir gencin doğum günü partisi
+  konuşması, dahil edilmemiştir) konuşmuştur. Kaynak: Extensions of Remarks (Temsilciler Meclisi), 19 Mayıs
+  2009, '128th Anniversary of the Birth of Kemal Ataturk, Founder of Modern Turkey', Congressional Record c.
+  155, s. E1196 (granül CREC-2009-05-19-pt1-PgE1196-3).
+verification_note: >-
+  Her iki parça da ilk iki paragraftan birebir alıntıdır. 128. doğum günü (1881 + 128) doğrudur. 'impatient
+  reformer' ve 'wisely understood' ifadeleri hayranlık 2 derecesini destekler. Not kısmında bahsedilen 2007,
+  2008 ve 2010 tarihli açıklamaları kontrol edilmedi.
+verification_method: govinfo günlük baskı HTML'i
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5c77e2b924e7
+  role: 25f9a0a3fd5f
+  quote: b149aaf32290
+  summary: f1d6730a358f
+  caveat: c630c03bda5f
+  verification_note: 648d0ce319be
+  verification_method: de40218292ca

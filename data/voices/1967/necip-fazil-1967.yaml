@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: necip-fazil-1967
+voice: Necip Fazıl Kısakürek
+voice_type: person
+role: Poet and Islamist-conservative critic; defendant in the 1967 B.D. Fikir Kulübü case
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1967"
+era: posthumous
+polarity: conflicted
+intensity: 2
+artifact: speech
+evidence: S
+summary: >-
+  In court denies that his 'false heroes' lecture meant Atatürk, calling the charge as strained as reading a
+  hint into the colour black.
+quote:
+  text: >-
+    Atatürk'ü sahte kahraman olarak gösterdiğimiz iddiası, siyah renkten bahseden bir adamın, Atatürk İstiklal
+    Savaşında siyah astragan kalpak giydi
+  language: tr
+mediated_by: Gültekin 2025, pp. 349-350 ← Necip Fazıl, B.D. Fikir Kulübü Davası ve Müdafaalarım
+caveat: >-
+  Turkish original; the quotation ends mid-sentence at the edge of a footnote break (the sentence continues:
+  'diye ille onu ima ettiğimizi öne sürmekten veya beyaz kumaşı anlatırken kefen bezini telmih ettiğimize
+  kadar hayal makinesini işlemekten daha tuhaftır!'). The thesis says the lecture 'Tarihimizde Sahte
+  Kahramanlar' named Mustafa Reşid and Midhat Pasha as false heroes, and that the prosecution read it as a
+  veiled attack on Atatürk, a charge under Law 5816; the thesis author's own view is that the denial was made
+  to escape the penalty, which is his reading, not Necip Fazıl's. The vault records only that the defendant
+  denied the target. No direct statement of view of Atatürk by Necip Fazıl in this period is quoted. Known
+  only through the thesis (pp. 349-350, n. to Müdafaalarım 1998 p. 224).
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://archive.org/details/yakintarihhh2
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    archive.org yakintarihhh2 (Gültekin 2025 thesis), pp.349-350 and n.144/'Müdafaalarım, Büyük Doğu
+    Yayınları, 1998, s.224'
+  method: archive.org djvu download; DuckDuckGo search for the phrase returned nothing
+  note: >-
+    Verbatim in the thesis: quoted in full between folios 348-349 and 349-350, ending 'diye ille onu ima
+    ettiğimizi ... daha tuhaftır!' with the note to Müdafaalarım (1998) p.224. So it is Necip Fazıl's own
+    defence text, but known only through the thesis; the defence book was not seen and nothing else was found.
+    The thesis' framing (the denial was made 'to escape the penalty', 'üstü kapalı' attack on Atatürk) is the
+    author's reading, as the record says; conflicted/2 is arguable (a courtroom denial is closer to
+    instrumental) but not a schema error. The OCR shows the note number as '44'; it should be read as the
+    Müdafaalarım note on p.350.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

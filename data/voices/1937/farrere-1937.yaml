@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: farrere-1937
+voice: Claude Farrère
+voice_type: person
+role: French novelist and former naval officer
+country: France
+country_now: France
+domain: letters
+date: "1937"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: modernization-poster-child
+artifact: book
+evidence: S
+summary: >-
+  Approves Gazi Mustafa Kemal's modernizing and forgives his mistakes as the price of doing anything; faults
+  the republicans for scorning their Ottoman ancestors.
+quote:
+  text: Bu bakımdan Gazi Mustafa Kemal'i tasvip ediyor ve hatalarından ötürü onu suçlu bulmuyorum.
+  language: tr
+mediated_by: >-
+  Orhan Bahaeddin's Turkish translation (Tercüman '1001 Temel Eser', 1970s); the French original was not seen
+caveat: >-
+  TRANSLATION, quote is the Turkish text; in English: 'In this respect I approve of Gazi Mustafa Kemal, and I
+  do not hold him guilty for his mistakes.' From the second work in the volume, Türkiye'nin Manevi Kuvvetleri
+  ('The Moral Forces of Turkey'), which the Tercüman introduction says was first published in 1937; the page
+  is printed 212, in a passage where Farrère adds that Turkish women have nothing to complain of 'but that
+  does not mean there is nothing for them to complain of'. Same book, p. 209-210: he deplores that 'Gazi
+  Mustafa Kemal - let us call him Atatürk from now on - and the republican Turks began to despise their
+  forefathers' heritage' ('Buna hakları yok'), and mocks the change of the battleship Yavuz Sultan Selim to
+  plain Yavuz. Evidence S rather than P because it is a translation of a book whose French text was not read;
+  the dating to 1937 rests on the editor's note. Not yet found: the French title and edition (Farrère's 1937
+  volume).
+node: Famous Pens on Atatürk II — Farrère, Halide Edib, Toynbee, Pamuk, Nesin
+sources:
+  - url: https://archive.org/details/claude-farrere-turklerin-manevi-gucu
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Farrère, Türklerin Manevi Gücü, Tercüman 1001 Temel Eser (trans. Orhan Bahaeddin), archive.org
+    claude-farrere-turklerin-manevi-gucu djvu.txt
+  method: curl of the open djvu text
+  note: >-
+    Quote verbatim in the Turkish translation: 'Bu bakımdan Gazi Mustafa Kemal'i tasvip ediyor ve hatalarından
+    ötürü onu suçlu bulmuyorum.' The source is the Turkish translation by Orhan Bahaeddin (title page), second
+    work in the volume ('Türkiye'nin Manevi Kuvvetleri', which the Tercüman introduction says first appeared
+    in 1937); the French original and its date were not seen, so 1937 is second-hand. Page: the quote lies
+    between the OCR page numbers 212 and 213; the scan does not show whether numbers are head or foot, so cite
+    'p. 212-213'. Polarity conflicted is fair (he adds that the republicans scorn their ancestors).
+  checked_on: "2026-11-03"

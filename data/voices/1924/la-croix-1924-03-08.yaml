@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-croix-1924-03-08
+voice: La Croix
+voice_type: press
+role: Paris Catholic daily
+country: France
+country_now: France
+domain: press
+date: "1924-03-08"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Under 'Gazette', tied Angora's abolition of the caliphate to France's 'milliard des Congrégations', as if
+  Ankara had believed the French story of confiscated religious wealth.
+quote:
+  text: >-
+    Ceux qui leur ont parlé du fameux milliard des Congrégations de France ont sans doute omis de leur dire
+    comment le milliard s'est, évanoui
+  language: fr
+caveat: >-
+  Fragment-level (Gallica ContentSearch), cut with '(...)'; Gallica OCR. Hostile polarity is an inference from
+  the framing of a truncated paragraph. Page 1.
+node: Paris Press on the Caliphate, the Civil Code and the Decade, 1924–1933
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k261790c
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica ContentSearch bpt6k261790c PAG_1; OAI record La Croix 1924-03-08 no. 12571
+  method: fetch
+  note: Fragment-level only; hostile polarity remains inference (as the record says).
+  checked_on: "2026-10-29"

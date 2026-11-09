@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: titulescu-1933-10
+voice: Nicolae Titulescu
+voice_type: person
+role: Romanian Foreign Minister
+country: Romania
+country_now: Romania
+domain: diplomacy
+date: "1933-10"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: meeting
+evidence: P
+summary: >-
+  Received by the President during a three-day visit to Angora; two hours reviewing European politics, finding
+  Turkish and Romanian views in complete agreement.
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk vol. VIII (TTK 2006) No. 3, annual report on Turkey for 1933, para. 94
+  ← Morgan to Sir John Simon, Angora, 20 Jan 1934 (F.O. 371/17959/E.596)
+caveat: >-
+  Contact record (first-hand rule): the agreement is the British chargé's summary, not Titulescu's words.
+  Treaty of friendship signed 17 Oct 1933. The vault card's Titulescu quotes (Atatürk 'greatest statesman in
+  Europe', a 1938 eulogy) were not found. PDF file #8, p. 277.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%238.pdf
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk
+verification:
+  verdict: confirmed
+  checked_against: >-
+    archive.org ingiliz-belgelerinde-ataturk #8 PDF, file p. 277 (printed p. 24), para. 94–95; No. 3 heading
+    (djvu); end ref Vision-OCR file p. 314
+  method: rendered PDF page image; Vision OCR
+  note: >-
+    Para. 94: 'M. Titulescu's three days' visit to Angora in October. He was received by the President of the
+    Republic, with whom he remained for two hours, reviewing the hole range of European politics, and finding
+    that Turkish and Roumanian views were in complete agreement.' Para. 95: treaty 17 Oct. Heading: Mr. Morgan
+    to Sir John Simon, Angora, 20 Jan 1934. Correction: the report's file ref is F.O. 371/17959/E.596, not FO
+    371/17958. Meeting documented. Contact rule: Titulescu was a foreign minister (twice League Assembly
+    president), not head of state or government; he qualifies only on the Litvinov precedent from round 31a.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33b)
+  checked_on: "2026-11-06"

@@ -1,0 +1,34 @@
+# Turkish for data/voices/1933/titulescu-1933-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: titulescu-1933-10
+voice: Nicolae Titulescu
+role: Romanya Dışişleri Bakanı
+summary: >-
+  Ankara'ya yaptığı üç günlük ziyaret sırasında Cumhurbaşkanı tarafından kabul edildi; iki saat boyunca Avrupa
+  siyasetini gözden geçirerek Türk ve Rumen görüşlerinin tam bir mutabakat içinde olduğunu gördüler.
+caveat: >-
+  Temas kaydı (birinci el kuralı): mutabakat ifadesi Titulescu'nun sözleri değil, Britanya maslahatgüzarının
+  özetidir. Dostluk antlaşması 17 Ekim 1933'te imzalandı. Arşiv kartındaki Titulescu alıntıları (Atatürk'ün
+  'greatest statesman in Europe' olduğu, 1938 tarihli bir anma konuşması) bulunamadı. PDF dosyası #8, s. 277.
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk c. VIII (TTK 2006) No. 3, Türkiye üzerine 1933 yıllık raporu, par. 94 ←
+  Morgan'dan Sir John Simon'a, Ankara, 20 Ocak 1934 (F.O. 371/17959/E.596)
+verification_note: >-
+  Paragraf 94: 'M. Titulescu's three days' visit to Angora in October. He was received by the President of the
+  Republic, with whom he remained for two hours, reviewing the hole range of European politics, and finding
+  that Turkish and Roumanian views were in complete agreement.' Paragraf 95: antlaşma 17 Ekim. Başlık: Mr.
+  Morgan'dan Sir John Simon'a, Ankara, 20 Ocak 1934. Düzeltme: Raporun dosya referansı FO 371/17958 değil,
+  F.O. 371/17959/E.596'dır. Görüşme belgelenmiştir. Temas kuralı: Titulescu devlet veya hükümet başkanı değil,
+  bir dışişleri bakanıydı (iki kez Milletler Cemiyeti Genel Kurulu başkanı); yalnızca 31a turundaki Litvinov
+  emsaline dayanarak kapsama girmektedir.
+verification_method: işlenmiş PDF sayfa görüntüsü; Vision OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 423fb13e18ff
+  role: fa21edbda8d3
+  summary: fb046e380c69
+  caveat: bc14b121bf2c
+  mediated_by: b3f6b091ff4a
+  verification_note: ae1d03e49e7a
+  verification_method: 2d2265237fe5

@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: oeconomos-1922
+voice: Lysimachos Oeconomos
+voice_type: person
+role: Greek historian, lecturer at King's College, University of London
+country: Greece
+country_now: Greece
+domain: letters
+date: "1922"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Argues from cui bono that Kemal's troops and Angora's leaders had every interest in destroying Christian
+  Smyrna, which he compares to Carthage.
+quote:
+  text: >-
+    For Kemal Pasha's troops, Christian Smyrna, Giaour Izmis, was like another Carthage which they had to
+    destroy
+  language: en
+caveat: >-
+  Compiled-and-prefaced dossier written weeks after the catastrophe; his own view is the Preface (p. 14).
+  Country given as Greece for the author; he worked in London.
+node: Lysimachos Oeconomos
+sources:
+  - url: https://archive.org/details/martyrdomofsmyrn00oecoiala/page/n16/mode/2up?q=Carthage
+  - url: https://archive.org/download/martyrdomofsmyrn00oecoiala/martyrdomofsmyrn00oecoiala_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://archive.org/download/martyrdomofsmyrn00oecoiala/martyrdomofsmyrn00oecoiala_djvu.txt
+  method: fetch
+  checked_on: "2026-10-29"

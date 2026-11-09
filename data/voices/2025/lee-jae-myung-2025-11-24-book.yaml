@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lee-jae-myung-2025-11-24-book
+voice: Lee Jae-myung
+voice_type: person
+role: President of South Korea; entry in the Anıtkabir special book
+country: South Korea
+country_now: South Korea
+domain: politics
+date: "2025-11-24"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Commemorates Atatürk and pledges to advance together for the common prosperity of the two 'blood-brother'
+  nations.
+quote:
+  text: >-
+    Atatürk'ü anarak, kan bağıyla bağlı kardeş uluslarımızın ortak refahı için birlikte ilerleyeceğiz.
+  is_translation: true
+  language: tr
+mediated_by: AA, Hürriyet, Odatv and Haberler, 24 Nov 2025 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering (AA) of a Korean entry; the original is not located. AA, Hürriyet, Odatv, Haberler, Nefes
+  and A Haber print the same sentence, one AA wire. Courtesy line; no evaluation of Atatürk.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.aa.com.tr/tr/gundem/guney-kore-devlet-baskani-lee-anitkabiri-ziyaret-etti/3752554
+    archived: https://web.archive.org/web/20251124140724/https://www.aa.com.tr/tr/gundem/guney-kore-devlet-baskani-lee-anitkabiri-ziyaret-etti/3752554
+  - url: https://www.hurriyet.com.tr/dunya/guney-kore-devlet-baskani-lee-anitkabiri-ziyaret-etti-43030546
+  - url: https://www.odatv.com/dunya/guney-kore-lideri-lee-jae-myung-anitkabiri-ziyaret-etti-120124701
+    archived: https://web.archive.org/web/20251129201406/https://www.odatv.com/dunya/guney-kore-lideri-lee-jae-myung-anitkabiri-ziyaret-etti-120124701
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    AA 24 Nov 2025 15:10; Hürriyet (AA) 24 Nov 2025 15:16; Odatv 24 Nov 2025 16:10 (credits AA)
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used
+  note: >-
+    Quote verbatim; it is the entire reported entry (one sentence) in all three, one AA source; date 24 Nov
+    2025 correct. Lee Jae-myung is the sitting President of South Korea. The claim that the entry was written
+    in Korean is not stated in any article (unverified). Instrumental/1 fair.
+  checked_on: "2026-11-03"

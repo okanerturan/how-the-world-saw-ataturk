@@ -1,0 +1,16 @@
+# Turkish for data/voices/2008/can-dundar-2008.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: can-dundar-2008
+voice: Can Dündar
+role: Gazeteci ve belgeselci
+summary: >-
+  Mustafa belgeseli, Atatürk'ü depresyon, içki, yalnızlık ve kadınlarla bir insan olarak ele aldı; eleştirel
+  değil, sempatiyle yaklaşıyordu, ancak yine de ikonun protokolünü ihlal etti.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cd0f73386825
+  role: a7caff78e1c5
+  summary: 1f1ad68658f2
+  verification_method: ad8cee67138e

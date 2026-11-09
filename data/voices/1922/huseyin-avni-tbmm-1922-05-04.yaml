@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: huseyin-avni-tbmm-1922-05-04
+voice: Hüseyin Avni Ulaş
+voice_type: person
+role: Erzurum deputy, First Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1922-05-04"
+era: contemporary
+polarity: hostile
+intensity: 3
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Fought the clause giving the Commander-in-Chief the Assembly's legislative powers: no one should be handed a
+  thousand tasks, and the nation's right must be guarded.
+quote:
+  text: Bir adama bin iş verilmez efendiler, hakkınızı kıskanınız.
+  language: tr
+caveat: >-
+  Cite: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, Gizli celse, 4 Mayıs 1338
+  (1922), p. 372. Opposes the office's powers more than the man; two days later (see next record) he praised
+  Kemal personally.
+node: Hüseyin Avni Ulaş
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/5fe786e1-4f37-41d4-831c-1eaf46ca410d/content
+    archived: https://web.archive.org/web/20250519143323/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/5fe786e1-4f37-41d4-831c-1eaf46ca410d/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Gizli Celse Zabıtları cilt 3 PDF, 39th sitting 4 Mayıs 1338 session 2, printed p. 372
+  method: pdftotext of open PDF; page marker – 372 –
+  note: >-
+    Verbatim at p.372; speech opposes transferring Assembly's legislative/executive powers to one person
+    (Başkumandanlık law). Polarity hostile fits office-targeted objection as caveat says.
+  checked_on: "2026-10-29"

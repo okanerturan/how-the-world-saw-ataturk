@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-opinion-1926
+voice: La Opinión
+voice_type: press
+role: Spanish-language daily, Los Angeles (Mexican exile readership)
+country: United States
+country_now: United States
+domain: press
+date: "1926-10-27"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Column 'Paper-Card Napoleons': Kemal as a Dictator betraying the Revolution by proposing polygamy to the
+  Angora legislature, out of appetite for the harem.
+quote:
+  text: Los Napoleones de Papel Cartón
+  language: es
+caveat: >-
+  Unsigned. The claimed polygamy proposal is the paper's report and is not corroborated here; treat it as a
+  contemporary rumour, not fact.
+node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
+sources:
+  - url: https://www.loc.gov/resource/sn81004351/1926-10-27/ed-1/?sp=2
+    archived: https://web.archive.org/web/20250513153431/https://www.loc.gov/resource/sn81004351/1926-10-27/ed-1/?sp=2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn81004351 1926-10-27 p.2 (tile.loc.gov full_text)
+  method: >-
+    headline 'Los Napoleones de Papel Carton' present; column says Kemal proposes polygamy to Angora
+    legislature, 'suspirar por las orgias, el serrallo'; hostile polarity fits
+  checked_on: "2026-10-29"

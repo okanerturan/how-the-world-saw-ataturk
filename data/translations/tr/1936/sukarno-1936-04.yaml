@@ -1,0 +1,28 @@
+# Turkish for data/voices/1936/sukarno-1936-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sukarno-1936-04
+voice: Sukarno
+role: Ende'de sürgün; Persis öğretmeni A. Hassan'a yazıyor
+quote: >-
+  Kemal Atatürk veya Rıza Han Pehlevi veya Jozef Stalin tarafından konulan birtakım yeni kuralların geçerliliği
+quote_kind: translated
+summary: >-
+  Kemal Atatürk, Rıza Han Pehlevi veya Stalin'in yeni kurallarını anlayamayan pek çok Müslümanın durumundan
+  geri kalmış, cahil ortodoksiyi sorumlu tuttu.
+caveat: >-
+  Mektup sayı 9 (Ende, 22 Nisan 1936). Kemal'i, başvurdukları yöntemler hakkında yorum yapmaksızın Stalin'in
+  yanında sıralar. Archive.org yaprak n378.
+verification_note: >-
+  Birebir aynı. Hayranlık yönündeki kutupluluk bir çıkarımdır: Kemal'i Rıza Han ve Stalin ile birlikte
+  ortodoksinin anlayamadığı yeni kuralların koyucuları olarak sıralar; örtük onay.
+verification_method: archive.org Soekarno-DibawahBenderaRevolusi1_djvu.txt üzerinde grep
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 252b8547a012
+  role: 743ff22a0124
+  quote: 00bceeb3e3d2
+  summary: f0b475cd39ce
+  caveat: b7f09ce1ecf8
+  verification_note: 284c0affc4c2
+  verification_method: 617b74baa690

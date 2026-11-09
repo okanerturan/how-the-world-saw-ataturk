@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hook-1943
+voice: Sidney Hook
+voice_type: person
+role: American philosopher
+country: United States
+country_now: United States
+domain: letters
+date: "1943"
+era: posthumous
+polarity: hostile
+intensity: 1
+artifact: book
+evidence: S
+summary: >-
+  Lists Atatürk among the 'midget followers' of the dictators' pattern who buried their monarchs.
+quote:
+  text: >-
+    A century later, Lenin, Trotsky, Mussolini, Hitler, Ataturk, Metaxas, and other midget followers of the
+    pattern set by the dictators either buried their monarchs or converted the seed of “the most superior”
+    family in the world into paltry retainers.
+  language: en
+caveat: >-
+  The Hero in History (John Day, 1943), chapter 3, Wikisource transcription of the scanned book (Page:The Hero
+  in History.djvu/37). A one-clause mention inside a refutation of Wood's gametic theory of monarchy; 'midget'
+  (polarity hostile) is read as a dismissal of the dictators as a type, with Atatürk named among them. Hook
+  does not discuss Atatürk elsewhere in the chapter. Year 1943 from the work's first edition, from memory
+  (tier M); the Wikisource text carries no date. Scan not viewed. 1943 confirmed by the copyright line.
+node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
+sources:
+  - url: https://en.wikisource.org/wiki/The_Hero_in_History/Chapter_3
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    en.wikisource The Hero in History/Chapter 3 (render); main page header 'Copyright, 1943, by Sidney Hook'
+  method: fetched rendered pages, string match
+  note: >-
+    Verbatim (curly quotes). 1943 confirmed by the copyright line (the record said memory). Gaze borderline: a
+    single list mention in a refutation of Wood; 'midget followers of the pattern set by the dictators' is a
+    pejorative classification of the group including Ataturk, not a view developed about him. Keep at
+    intensity 1 only.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (rounds 21–22)
+  checked_on: "2026-11-03"

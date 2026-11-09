@@ -1,0 +1,35 @@
+# Turkish for data/voices/1975/sikes-1975-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sikes-1975-10
+voice: Robert L. F. Sikes
+role: ABD Temsilciler Meclisi Florida üyesi (Demokrat)
+quote: >-
+  Birinci Dünya Savaşı'nın ardından Türkler, Atatürk'ün —Mustafa Kemal'in— güçlü liderliği altında yeni bir
+  ulusal sorumluluk ve ilerleme anlayışı geliştirdiler.
+quote_kind: translated
+summary: >-
+  Türkiye'ye yönelik silah ambargosunun kaldırılmasını savunurken, Türklere yeni bir ulusal sorumluluk ve
+  ilerleme anlayışı kazandırmasını 'Atatürk'ün güçlü liderliğine' bağlar.
+caveat: >-
+  Kıbrıs silah ambargosu tartışmasında yer alan tek bir cümle, 'Terrible Turks' söylemine karşı Türkiye'nin
+  bir savunusu; övgü bu argümana hizmet ediyor. Eyalet bilgisi kendi meslektaşının atfından ('the
+  distinguished gentleman from Florida') ve standart sicil kaydından alınmıştır. Sayfa bilgisi akan
+  üstbilgidendir. Kaynak gösterimi: House of Representatives, 2 Ekim 1975, Congressional Record c. 121
+  (ciltli), s. ~31479 (granül CRECB-1975-pt24-5-2).
+verification_note: >-
+  Birebir aynı, Sikes'ın silah ambargosu yasa tasarısına ilişkin kendi konuşmasında. Sayfa ve tarih doğru.
+  Zayıf (tek bir ibare: 'strong leadership of Ataturk') ama açıkça ifade edilmiş hayranlık belirten bir görüş;
+  yoğunluk 1 uygun.
+verification_method: >-
+  yeni PDF indirmesi, pdftotext, üstbilgiler ve sütunlar okundu; 'Mr. SIKES. Mr. Chairman, I move to strike
+  the last word' ardından sağ sütun
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cfaa44a1f720
+  role: 43ce17444898
+  quote: b8ce688c2476
+  summary: c65995b3c135
+  caveat: c57513ce30a5
+  verification_note: 7ec8b3ffe48e
+  verification_method: 843952f37360

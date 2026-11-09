@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: eden-1941-08
+voice: Anthony Eden
+voice_type: person
+role: British Foreign Secretary
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1941-08-06"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Foreign Secretary tells the Commons the post-war world will have a noble part for 'the Turkey re-created by
+  the genius of Ataturk'.
+quote:
+  text: >-
+    In that world the Turkey re-created by the genius of Ataturk will have a noble part to play and, in doing
+    so, Turkey will decide her own course and she will choose her own collaborators.
+  language: en
+caveat: >-
+  Orders of the Day — War Situation, HC Deb 6 Aug 1941, c2039. Transcription at TheyWorkForYou of the official
+  Hansard. Speech reassuring Turkey that Britain would not trade her interests away; praise is of the state
+  Atatürk 're-created', in a diplomatic setting. Check: the quote falls at c2041 (historic-hansard); TWFY
+  gives the column where the speech starts.
+node: >-
+  Westminster on Atatürk, 1941–1957 — Eden, Selwyn Lloyd, Noel-Baker, Wigg, Davies and Hollis
+sources:
+  - url: https://www.theyworkforyou.com/debates/?id=1941-08-06a.1973.2#g2039.1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TheyWorkForYou debate page (fresh curl), speaker block at the anchor; column cross-checked on
+    api.parliament.uk/historic-hansard where available
+  method: >-
+    fetched page, normalised-text match of the quote inside the anchored speech block (speaker, date, id);
+    column located from historic-hansard column markers
+  note: >-
+    Verbatim, spoken by Eden (g2039.1, HC Deb 6 Aug 1941). Column correction: sentence is at c2041 (speech
+    starts c2039). Own view ('re-created by the genius of Ataturk'); admiring 2 fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

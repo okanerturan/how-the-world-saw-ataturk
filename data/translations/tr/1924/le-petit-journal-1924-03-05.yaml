@@ -1,0 +1,28 @@
+# Turkish for data/voices/1924/le-petit-journal-1924-03-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-petit-journal-1924-03-05
+voice: Le Petit Journal
+role: Paris popüler günlük gazetesi
+quote: Mustafa Kemal Paşa ve taraftarlarının akıl yürütmesi son derece basittir
+quote_kind: translated
+summary: >-
+  Kemal'in hilafet konusundaki akıl yürütmesini basit olarak açıkladı ve onunla Meclis'in bunu daha önce
+  devirmeye cesaret edemediğini belirtti.
+caveat: >-
+  Görünüm 1. İkinci cümlecik ('n'avaient pas osé bou[le]verser') OCR tarafından kesilmiştir; Kemal hakkında
+  bir yargı görülmemektedir. Gallica ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası
+  Gallica'ya aittir, basılı sayfa numarası olmayabilir.
+verification_note: >-
+  Alıntı birebir aynı; ikinci cümlecik parçası ('n'avaient pas osé bouleverser') OCR kopukluğuyla mevcut;
+  'daha önce' ifadesi parçada görünmüyor. Tarih doğrulanmadı.
+verification_method: ms fetch ContentSearch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 97765be6b8e5
+  role: cc6b65e8924d
+  quote: adb649151b0b
+  summary: db7fb067a2ef
+  caveat: 220ceb81f804
+  verification_note: 9c44f9913c10
+  verification_method: 20b5d45e7de4

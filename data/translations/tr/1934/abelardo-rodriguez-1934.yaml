@@ -1,0 +1,28 @@
+# Turkish for data/voices/1934/abelardo-rodriguez-1934.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abelardo-rodriguez-1934
+voice: Abelardo Rodríguez
+role: Meksika Devlet Başkanı
+quote: Gazi Mustafa Kemal Atatürk'e selam ve en iyi dilekler
+quote_kind: translated
+summary: >-
+  Chapultepec'te Türkiye'nin büyükelçisini kabul etti ve kendisinden Atatürk'e selam ve en iyi dileklerini
+  iletmesini istedi.
+caveat: Türk diplomatın Meksika nezaketine ilişkin aktarımı; diplomatik nezaket olarak okundu.
+mediated_by: >-
+  Sosyal ve Beşeri Bilimler Araştırmaları Dergisi 18/39 (2017) ← Türk diplomatik raporları (BCA) (Münir)
+verification_note: >-
+  Türkçe 'selam ve temenniyatını' ifadesi İngilizceye çevrilmiş; 12 Ekim 1934 güven mektubu tarihidir; alıntı,
+  büyükelçinin bu ricaya ilişkin raporudur.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 793bc6711f18
+  role: 1cdc9fd1a447
+  quote: 46c198e0e2c6
+  summary: 7841973d1706
+  caveat: 8d064a7aadf4
+  mediated_by: 5d6f417e6214
+  verification_note: d6c50a7fc1a6
+  verification_method: ad8cee67138e

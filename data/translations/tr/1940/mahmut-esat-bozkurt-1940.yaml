@@ -1,0 +1,42 @@
+# Turkish for data/voices/1940/mahmut-esat-bozkurt-1940.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mahmut-esat-bozkurt-1940
+voice: Mahmut Esat Bozkurt
+role: Eski Adalet Bakanı (1924-30), Türk İnkılâp Enstitüsü profesörü
+quote: >-
+  Bu Türk oğlu, bu sade vatandaş, yarınki hür ve müstakil Türk milletinin, Türk ulusunun kurtarıcısı olacaktı.
+  Ve oldu.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ü, Erzurum'a sade bir vatandaş olarak girmek üzere komutanlıktan istifa eden ve milletin kurtarıcısı
+  olan büyük bir feragat insanı olarak sunar.
+caveat: >-
+  ÇEVİRİ (bu kaydın): 'This son of the Turks, this plain citizen, was to become the saviour of the free and
+  independent Turkish nation of tomorrow. And so he did.' Atatürk İhtilali, I (İstanbul Üniversitesi
+  Yayınları, İnkılâp Enstitüsü dersleri; İstanbul: Burhaneddin Matbaası, 1940), s. 129 (archive.org OCR). Aynı
+  sayfa 'Atatürk büyük ferağet sahibi idi' diye başlar ve birinci elden şunu ekler: 'Atatürkten bir çok
+  defalar işittim'; sade bir vatandaş olduğunda kendisini en güçlü insan hissettiğine dair Kemal'in sözlerini
+  aktarır. Arşiv notundaki 'realities of life, not revelations from the sky' (Medeni Kanun) Kemal hakkında
+  değildir ve kontrol edilmemiştir.
+verification_note: >-
+  Alıntı birebir mevcuttur, ancak s. 130'da değil s. 129'dadır. OCR sayfa başlığı '— 129 —', 'Atatürk büyük
+  ferağet sahibi idi ... Bu Türk oğlu, bu sade vatandaş ... kurtarıcısı olacaktı. Ve oldu.' pasajından önce
+  gelir ve ardından '! Lârousse Üniversel' dipnotu yer alır. '— 130 —' ise 'Atatürkten bir çok defalar
+  işittim, diyordu ki: ...' ile açılır. Düzeltmeler: çekince notundaki 'p. 130' → 'p. 129'; 'The same page
+  begins ... and adds first-hand: Atatürkten bir çok defalar işittim' → 'p. 129 has the ferağet passage; p.
+  130 opens Atatürkten bir çok defalar işittim'. Sıkı ölçütü geçiyor: salt anlatı değil, kendi
+  değerlendirmesidir ('büyük ferağet sahibi idi'). Hayranlık duyan/ölümünden sonra etiketleri doğrudur. Şema
+  uygun.
+verification_method: >-
+  archive.org açık djvu metin okuması; sayfa, üst bilgi sayfa numaralarından tespit edildi (dipnot
+  konumlarıyla doğrulandı)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a42ceb6904e8
+  role: 02ba44764e53
+  quote: 72abea7cd4c4
+  summary: 585861c1215e
+  caveat: d7fed1b010fb
+  verification_note: 33ebf11b59a1
+  verification_method: d098fac14a68

@@ -1,0 +1,34 @@
+# Turkish for data/voices/1950/al-husri-1950.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-husri-1950
+voice: Sati' al-Husri
+role: Arap milliyetçisi kuramcı, eski Osmanlı eğitimcisi
+quote: >-
+  İşgalcileri Türk vilayetlerinden çıkardıktan sonra Arap vilayetlerini geri almaya tamah etmemekle bilgelik
+  ve incelik gösterdiğine şüphe yoktur.
+quote_kind: translated
+summary: >-
+  Hifni Mahmud Paşa'ya itirazla: Kemal etkin milliyetçilikle, dil ve tarihe dayalı bir Türk devletiyle ve Arap
+  vilayetlerinden bilgece vazgeçerek başarılı oldu.
+caveat: >-
+  Hifni Mahmud Paşa'nın al-Musawwar'daki yazısına (tarih OCR'da bozulmuş, yakl. Mart 1950) yanıt olan
+  'Al-istishhad bi-tarikh al-Atrak', Ara' wa ahadith fi al-qawmiyya al-'arabiyya (1951; 1985 yeniden basım)
+  içinde, s. 79–82, alıntı s. 81; Arapça OCR, noktalama işaretleri standartlaştırıldı. Arap birliğini savunmak
+  için Kemal'i örnek gösterir.
+verification_note: >-
+  Arapça alıntı birebir aynı. Sayfa işaretleri alıntıyı s. 81'e yerleştiriyor (makale s. 79'da başlıyor).
+  Al-Husri, Kemal'in edilgenlikle değil, olumlu eylemlerle (savaş, Ankara'ya geçiş, Misak-ı Millî, nüfus
+  mübadelesi) hareket ederek 'قطع على الاستعمار طريق الفتن والدسائس' dediğini ve homojen bir Türk devleti
+  istediğini belirtiyor. Dipnot al-Musawwar yazısını 1 Mart olarak tarihliyor (yıl OCR'da bozulmuş, '1460' ≈
+  1950). Hayranlık bildiren sınıflandırma destekleniyor.
+verification_method: DjVu metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 45dac6d1ac99
+  role: 39e3cffe7dae
+  quote: 299764b1a589
+  summary: 7c3ad1101974
+  caveat: a597292c1cae
+  verification_note: 5e87f6c39428
+  verification_method: 9d9cd164c6b0

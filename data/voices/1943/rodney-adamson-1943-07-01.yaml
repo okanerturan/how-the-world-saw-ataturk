@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rodney-adamson-1943-07-01
+voice: Rodney Adamson
+voice_type: person
+role: Progressive Conservative MP for York West, Canadian House of Commons
+country: Canada
+country_now: Canada
+domain: politics
+date: "1943-07-01"
+era: posthumous
+polarity: conflicted
+intensity: 2
+mirror: emancipator-patriarch
+artifact: speech
+evidence: P
+summary: >-
+  An absolute dictator like Hitler and Mussolini, yet unlike them an emancipator of women, which made Turkey
+  advancing and peaceable.
+quote:
+  text: >-
+    In every way he was an absolute dictator, just as much a dictator as the dictators of Germany and Italy.
+    But he had a different idea from them about the emancipation of women.
+  language: en
+caveat: >-
+  House of Commons Debates, 19th Parliament, 4th Session, 1 July 1943, p. 4245 (War Appropriation—Labour, on
+  wartime day nurseries); read on the page image at Canadiana (oop.debates_HOC1904_04, image 1129) by the main
+  agent, 4 Nov 2026. Continues: 'He did not believe that woman's part was kirchen, kuchen, kindern, as Hitler
+  did, and to-day we find as a consequence that Turkey is an advancing, go-ahead country that is capable of
+  living at peace with its neighbours.' Speaker identified as 'Mr. ADAMSON' by LiPaD (the speech runs on from
+  p. 4244). Found through LiPaD search results supplied by Okan (LiPaD sits behind an interactive Cloudflare
+  check). Other LiPaD hits (Stockwell Day 2004, Nicholls 2013, Assadourian 2001, Reed 1999, Genuis 2015) state
+  no view of Atatürk.
+node: Rodney Adamson
+sources:
+  - url: https://parl.canadiana.ca/view/oop.debates_HOC1904_04/1129
+  - url: https://www.lipad.ca/search/?q=ataturk
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: House of Commons Debates (Canada), 1 Jul 1943, p. 4245, Canadiana page image
+  method: page image read by the main agent; speaker from LiPaD header; not an independent checker
+  note: Quote verbatim; speech continues from p. 4244.
+  checked_on: "2026-11-04"

@@ -1,0 +1,43 @@
+# Turkish for data/voices/1937/farrere-1937.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: farrere-1937
+voice: Claude Farrère
+role: Fransız romancı ve eski deniz subayı
+quote: Bu bakımdan Gazi Mustafa Kemal'i tasvip ediyor ve hatalarından ötürü onu suçlu bulmuyorum.
+quote_kind: original-turkish
+summary: >-
+  Gazi Mustafa Kemal'in modernleştirme çabalarını onaylar ve hatalarını bir şeyler yapmanın bedeli olarak
+  bağışlar; cumhuriyetçileri ise Osmanlı atalarını hor gördükleri için eleştirir.
+caveat: >-
+  ÇEVİRİ, alıntı Türkçe metindir; İngilizcesi: 'In this respect I approve of Gazi Mustafa Kemal, and I do not
+  hold him guilty for his mistakes.' Ciltteki ikinci eser olan ve Tercüman önsözünde ilk kez 1937'de
+  yayımlandığı belirtilen Türkiye'nin Manevi Kuvvetleri'nden ('The Moral Forces of Turkey'); sayfa 212 olarak
+  basılmıştır ve Farrère'in Türk kadınlarının şikâyet edecek bir şeyleri olmadığını eklediği 'but that does
+  not mean there is nothing for them to complain of' pasajında yer alır. Aynı kitap, s. 209-210: 'Gazi Mustafa
+  Kemal - let us call him Atatürk from now on - and the republican Turks began to despise their forefathers'
+  heritage' ('Buna hakları yok') durumundan üzüntüyle yakınır ve Yavuz Sultan Selim zırhlısının adının sade
+  Yavuz olarak değiştirilmesiyle alay eder. Fransızca metni okunmamış bir kitabın çevirisi olduğu için kanıt
+  düzeyi P yerine S'dir; 1937 tarihlendirmesi editörün notuna dayanmaktadır. Henüz bulunamayan: Fransızca
+  başlık ve baskı (Farrère'in 1937 cildi).
+mediated_by: >-
+  Orhan Bahaeddin'in Türkçe çevirisi (Tercüman '1001 Temel Eser', 1970'ler); Fransızca aslı görülmedi
+verification_note: >-
+  Alıntı Türkçe çeviride birebir aynıdır: 'Bu bakımdan Gazi Mustafa Kemal'i tasvip ediyor ve hatalarından
+  ötürü onu suçlu bulmuyorum.' Kaynak, Orhan Bahaeddin'in (iç kapak) Türkçe çevirisidir, ciltteki ikinci
+  eserdir ('Türkiye'nin Manevi Kuvvetleri'; Tercüman önsözünde ilk kez 1937'de yayımlandığı belirtilir);
+  Fransızca özgün metin ve tarihi görülmemiştir, dolayısıyla 1937 tarihi ikinci eldendir. Sayfa: alıntı OCR
+  sayfa numaraları 212 ile 213 arasında yer almaktadır; tarama numaraların sayfa başında mı yoksa sonunda mı
+  olduğunu göstermediğinden 's. 212-213' olarak kaynak gösterin. Çelişkili kutupsallık yerindedir
+  (cumhuriyetçilerin atalarını hor gördüğünü ekler).
+verification_method: Açık djvu metninin curl ile çekimi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f8397e729157
+  role: 540814d23a0b
+  quote: e309c48db5bf
+  summary: 8dfa6e60ae0b
+  caveat: e1e8ea55947a
+  mediated_by: 521d5f6754a1
+  verification_note: 8cbeafb2b368
+  verification_method: 92b7fd9773b6

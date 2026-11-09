@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tantawi-1935
+voice: Ali al-Tantawi
+voice_type: person
+role: Syrian writer and jurist (writing from Mecca)
+country: Syria
+country_now: Syria
+domain: letters
+date: "1935-05-20"
+era: contemporary
+polarity: hostile
+intensity: 1
+mirror: apostate
+artifact: article
+evidence: S
+summary: >-
+  On Hagia Sophia: the page of Islam was closed there 'in the name of this ... Atatürk', as it opened in
+  Muhammad the Conqueror's name.
+quote:
+  text: >-
+    وشعروا أن أيا صوفيا قد ختمت فيها صفحة الإسلام، باسم هذا الـ. . (أتاتورك) كما فتحت باسم (محمد الفاتح)!
+  translation: >-
+    And they felt that in Hagia Sophia the page of Islam had been closed, in the name of this ... (Atatürk),
+    as it was opened in the name of (Muhammad the Conqueror)!
+  language: ar
+caveat: >-
+  Cited as al-Risala no. 98, 20 May 1935, Wikisource page 'مجلة الرسالة/العدد 98/أيا صوفيا'. Piece 'Aya Sufya'
+  signed Ali al-Tantawi, Mecca; the gap '. .' before '(Atatürk)' is in the transcription (an epithet left out
+  or lost). Same issue family as Amjad al-Tarabulsi's ode of no. 109, which is a separate record. Wikisource
+  transcription. Check: the subject of 'وشعروا' is 'المشركون': the idolaters felt the page of Islam closed in
+  this man's name (not a lost epithet).
+node: Egyptian Pens in al-Risala on Atatürk, 1935–1946
+sources:
+  - url: https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_98/%D8%A3%D9%8A%D8%A7_%D8%B5%D9%88%D9%81%D9%8A%D8%A7
+    archived: https://web.archive.org/web/20210211134316/https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_98/%D8%A3%D9%8A%D8%A7_%D8%B5%D9%88%D9%81%D9%8A%D8%A7
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Arabic Wikisource raw page 'مجلة الرسالة/العدد 98/أيا صوفيا'
+  method: >-
+    fetched action=raw, diacritic-normalised substring match of the Arabic quote, then read the surrounding
+    passage, header date and end signature
+  note: >-
+    Arabic quote verbatim, including the gap 'الـ. . (أتاتورك)'. Header date 20-05-1935; byline empty in
+    template but 'للأستاذ علي الطنطاوي' and signature 'علي الطنطاوي / مكة المكرمة'. Only one mention of
+    Atatürk in the piece, a scathing one aimed at 'الجمهورية التركية' as well. Nuance to add to the caveat:
+    the grammatical subject of 'وشعروا أن أيا صوفيا قد ختمت ...' is 'المشركون' ('وعز فيها المشركون، وشعروا
+    ...'), i.e. Tantawi says the idolaters felt the page of Islam closed in this man's name, with the epithet
+    dropped as contempt; the English 'And they felt' leaves 'they' unidentified. Also 'an epithet left out or
+    lost' is a guess; the dots are in the source, cause unknown. Hostile / 1 fair; the claim 'Syrian writer
+    ... from Mecca' rests on the signature only. Schema OK.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 19)
+  checked_on: "2026-11-03"

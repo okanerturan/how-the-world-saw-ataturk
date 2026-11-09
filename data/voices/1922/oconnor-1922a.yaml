@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: oconnor-1922a
+voice: T. P. O'Connor MP
+voice_type: person
+role: MP for Liverpool Scotland, foreign affairs debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1922-03-27"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Mocked the French view of Kemal's circle as enlightened statesmen, citing an accused massacre general who
+  escaped Malta and joined Kemal.
+quote:
+  text: >-
+    joined Moustapha Kemal at Angora as a general in his army. These are M. Bouillon's enlightened statesmen.
+  language: en
+node: Parliament on Kemal and the Greeks, 1921–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1922-03-27/debates/c899fde6-a1fd-475b-9f9a-a2756dd19631/ForeignAffairs
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard API contribution 5ff112e3-fe8b-4b66-820c-5c0d69e54347 (Mr T. P. O'Connor, 1922-03-27, Foreign
+    Affairs)
+  method: api
+  checked_on: "2026-10-29"

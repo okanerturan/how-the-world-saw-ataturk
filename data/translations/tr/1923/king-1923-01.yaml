@@ -1,0 +1,35 @@
+# Turkish for data/voices/1923/king-1923-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: king-1923-01
+voice: William H. King
+role: ABD Utah Senatörü (Demokrat)
+quote: >-
+  Senatörün atıfta bulunduğu Mustafa Kemal Paşa'nın çağrısı, son derece maharetli ve ilgi çekici bir belgedir.
+  … Kemalistler ve Türkler tarafından Hristiyan azınlıklara karşı işlenen barbarlıklar
+quote_kind: translated
+summary: >-
+  Owen'a yanıt verirken, Mustafa Kemal Paşa'nın Amerika'ya çağrısını Hristiyanlara yönelik Kemalist muameleye
+  dair eleştirileri yumuşatmayı amaçlayan 'son derece maharetli ve ilgi çekici bir belge' olarak
+  nitelendiriyor.
+caveat: >-
+  Owen'a yanıt olarak söylediği kendi sözleri; devamında Ermeni meselesini ele alır. Hassas konu (Ermeniler,
+  Rumlar): konuşmacının çerçevelemesi. İki sütunlu OCR; ikinci parça aynı konuşmanın sonraki satırlarından
+  alınmış ve üç noktayla birleştirilmiştir. Kaynak: Senato, 26 Ocak 1923, Congressional Record c. 64 (ciltli),
+  s. ~2488 (granül CRECB-1923-pt3-v64-4-1).
+verification_note: >-
+  Her iki parça da birebir, aynı konuşma ve sayfada (ikinci parça yaklaşık 30 satır sonra). Odak noktası
+  Kemal'in çağrısına yönelik yargıdır ('adroit and intriguing', demokrasi tedrisatından geçmiş pozu);
+  'barbarities' parçası şahsen Kemal'i değil, topluca 'the Kemalists and the Turks' ifadesini anar, bu nedenle
+  açıkça King'in çerçevelemesindeki bir suçlama olarak kalmalıdır (hassas konu, tarafsız üslup gerekli).
+  Düşmanca 2 uygun.
+verification_method: govinfo ciltli baskı granülünün pdftotext -layout çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b682bb51e8f1
+  role: e09c5eebab3c
+  quote: 12b74b92a705
+  summary: 8e8837b281e4
+  caveat: ade0f5613b6f
+  verification_note: c9d97824d592
+  verification_method: bcff62915140

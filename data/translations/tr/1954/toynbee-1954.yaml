@@ -1,0 +1,37 @@
+# Turkish for data/voices/1954/toynbee-1954.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: toynbee-1954
+voice: Arnold J. Toynbee
+role: Britanyalı tarihçi, A Study of History
+quote: >-
+  Gazi Mustafa Kemal Atatürk'ün siyasi dehasının en belirgin kanıtlarından biri, şunu açıkça kavramasıydı: bu
+  Yeni Turan serabının peşinde hayalperest bir arayış
+quote_kind: translated
+summary: >-
+  Rusya ile çarpışmaya giden hayalperest bir yürüyüş olan Pan-Turan serabını reddetmesini, Atatürk'ün siyasi
+  dehasının 'en belirgin kanıtlarından biri' olarak adlandırır.
+caveat: >-
+  A Study of History c. VIII (Oxford UP, 1954; archive.org taraması in.ernet.dli.2015.57280 katalogda 1939
+  olarak kayıtlıdır ancak 1954 metnini içerir), 'Encounters between Contemporaries', s. 191. Cümle şöyle devam
+  eder: '... beyond the eastern limits of an Ottoman Turkish national home in Anatolia was bound to bring
+  Turkey into a disastrous headlong collision with a Russia ...'. Aynı cilt, s. 192'de Toynbee bir Türk-Yunan
+  pasajını 'the statesmanship of Eleftherios Venizelos and Mustafa Kemal Atatürk' ifadesiyle bitirir ve s. 262
+  vd.'de bir bölüm 'The Success of Mustafa Kemal Atatürk in Creating a Turkish National State' başlığını taşır
+  (burada okunmadı). c. VIII'de de Atatürk'ü Mehmed Ali, II. Mahmud ve Rıza Şah ile birlikte 'Herodian'
+  figürler arasında sıralar.
+verification_note: >-
+  s. 191'de birebir (cümlenin ardından '192 ENCOUNTERS BETWEEN CONTEMPORARIES' üst başlığı gelir): 'One of the
+  most signal evidences of Ghazi Mustafa Kemal Ataturk's political genius was his clear recognition that a
+  visionary pursuit of this mirage of a Yeni Turan...'. Pasaj için hayranlık ifadeli değerlendirmesi
+  yerindedir.
+verification_method: Açık djvu metninin curl ile çekimi, bağlam içinde okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9d504ed5aa33
+  role: 818e7d4dfab4
+  quote: 322987674f9a
+  summary: de910adf250e
+  caveat: d60d389af7aa
+  verification_note: 7361fa0f48be
+  verification_method: fc5e0bd9a728

@@ -1,0 +1,35 @@
+# Turkish for data/voices/1938/abdur-rahim-1938-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abdur-rahim-1938-11
+voice: Sir Abdur Rahim
+role: Merkezi Yasama Meclisi Başkanı
+quote: >-
+  Kemal Atatürk, askeri dehasıyla Türkiye'yi siyasi yok oluştan kurtarmakla kalmamış, aynı zamanda ileri
+  görüşlü bir devlet adamı olarak halkının ulusal yaşamı için yeni bir temel, çok güçlü bir temel atmıştır
+quote_kind: translated
+summary: >-
+  Başkan olarak yabancı bir devlet yöneticisi için alışılmadık taziye görüşmesine izin verir: Kemal'in Asya
+  üzerindeki etkisinin 'modern zamanlar tarihinde eşi benzeri yoktur'.
+caveat: >-
+  Legislative Assembly Debates, c. VII (Government of India Press, Delhi 1938), 14 Kasım 1938, s. 2957. Lok
+  Sabha Secretariat / Government of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR
+  aracılığıyla. Nripendra Sircar ve Desai mutabık kaldıktan sonra saygı nişanesi olarak Meclis oturumunu tatil
+  etmiş ve İsmet İnönü'ye taziye iletme sözü vermiştir. Metin resmi tutanağın OCR çıktısından okunmuştur;
+  bariz OCR hataları alıntıda sessizce düzeltilmiştir.
+verification_note: >-
+  Alıntı birebir (OCR 'horn' = from). 'No parallel in the history of modern times' mevcut. Sircar ve Desai'nin
+  mutabakatından sonra oturumun tatil edilmesi ve İsmet İnönü'ye taziye iletme sözü doğrulandı. Başkanlık
+  kürsüsünden konuşan Başkan olarak yine de kendi beyan ettiği görüşüdür; yerinde.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden çekildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa başlıkları ile konuşma metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3afb7597daf1
+  role: 830126ac0092
+  quote: b19cd6a3af84
+  summary: 0f5a0f3cfbb9
+  caveat: 80e9214c40c7
+  verification_note: 5b8bd5bb149f
+  verification_method: 634050edd257

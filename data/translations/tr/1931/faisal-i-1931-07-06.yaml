@@ -1,0 +1,40 @@
+# Turkish for data/voices/1931/faisal-i-1931-07-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: faisal-i-1931-07-06
+voice: I. Faisal (Irak)
+role: Irak Kralı, Ankara'ya devlet ziyaretinde
+quote: >-
+  Fakat buna karşılık bütün Irak'ı kazandınız. Bugün Bağdat caddelerini hep Gazi'nin hayranları ve sevenleri
+  dolduruyorlar!
+quote_kind: original-turkish
+summary: >-
+  Ankara'ya yaptığı devlet ziyaretinde, Kemal terk edilen Musul'dan söz edince, karşılığında Türkiye'nin bütün
+  Irak'ı kazandığını ve Bağdat caddelerinin Gazi'nin hayranlarıyla dolu olduğunu söyledi.
+caveat: >-
+  Çeviri: 'But in return you have won all of Iraq. Today Baghdad's streets are filled with admirers and lovers
+  of the Gazi!' Ankara Palas'taki bir baloda geçen sohbete dair basın haberi; ev sahipleri arasında nezaket
+  sözleri. Ayrılırken (14–15 Temmuz) gazetecilere Türkiye'nin Atatürk'ün dehasına borçlu olduğu ilerlemesinin
+  bir örnek olduğunu söylemiştir (Saygı 2017 s. 218–219).
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri c. 25 (Kaynak 2009) s. 188 ← Vakit 8 Temmuz 1931 s. 1, Cumhuriyet 9 Temmuz 1931;
+  Clerk'ten Henderson'a İngiliz raporu, Temmuz 1931 (Şimşir, İngiliz Belgelerinde Atatürk c. VII)
+verification_note: >-
+  Alıntı s. 188'de birebir yer almaktadır. İki küçük nokta var. Birincisi, metin görüşmenin Ankara Palas'ta
+  onuruna verilen baloda ('evvelki gece', 7 Temmuz tarihli bir telgrafta) gerçekleştiğini söylemektedir;
+  dolayısıyla çekince notundaki 'banquet' ifadesi gevşektir ve gece 6 Temmuz yerine 5 Temmuz olabilir (ABE 6
+  Temmuz olarak tarihlendirir). İkincisi, Faisal izlenimlerinin 'not be taken as flattery' (gönül alma) olarak
+  görülmemesini rica etmiştir ki bunu çekince notundaki 'flattery between hosts' ifadesinin yanında tutmakta
+  fayda vardır. Ziyarete ilişkin İngiliz yazışmaları belirtildiği gibi c. VII'dedir. Saygı s. 218'de ayrılış
+  beyanatı yer almaktadır (çekince notu s. 218–219 demektedir).
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2bc6c18159fa
+  role: f5847c3b6724
+  quote: 596c65ae4332
+  summary: 904a2e7977af
+  caveat: 72a027b395f7
+  mediated_by: 345d09a3becb
+  verification_note: 25760161b169
+  verification_method: b152e9063489

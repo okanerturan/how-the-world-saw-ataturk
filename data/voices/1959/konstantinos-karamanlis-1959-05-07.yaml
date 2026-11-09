@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: konstantinos-karamanlis-1959-05-07
+voice: Konstantinos Karamanlis
+voice_type: person
+role: >-
+  Prime Minister of Greece; statement on arrival at Esenboğa airport, Ankara, three months after the
+  Zurich–London agreements on Cyprus
+country: Greece
+country_now: Greece
+domain: politics
+date: "1959-05-07"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  'The great Atatürk', who with Venizelos laid the foundations of a Turkish–Greek friendship that served both
+  countries; invoked to cast renewed cooperation as a historic necessity.
+quote:
+  text: >-
+    Büyük Atatürk ve Elefterios Venizelos, Türk-Yunan dostluğunun temellerini attıkları zaman bu dostluk her
+    iki memleket için faydalı olmuştur. Bugün ise Türk-Yunan müşterek çalışmaları bir tarihi zaruret halini
+    almıştır.
+  translation: >-
+    When the great Atatürk and Eleftherios Venizelos laid the foundations of Turkish–Greek friendship, this
+    friendship was beneficial to both countries. Today Turkish–Greek joint work has become a historic
+    necessity.
+  language: tr
+mediated_by: >-
+  Milliyet, 8 May 1959, p. 5 (continuation of 'Karamanlis Ankara'da', section 'Karamanlisin beyanatı'): the
+  paper's Turkish rendering of his airport statement
+caveat: >-
+  Arrival statement to the press, 7 May 1959; he visited Anıtkabir the same afternoon (narration only). A
+  political invocation rather than a personal portrait. The census already holds his nephew Kostas Karamanlis
+  (PM 2004–09); this is the elder Konstantinos (1907–1998). Greek original not seen. Read on the page image
+  (Okan's Milliyet archive login) by a reader agent and re-checked on the crop by the main agent.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1959.05.08
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 8 May 1959 p. 5, page image crop
+  method: page image
+  note: >-
+    Transcription checked on the enlarged crop: 'Büyük Atatürk ve Elefterios Venizelos' legible. Instrumental
+    (invokes the founders to support present cooperation).
+  checked_on: "2026-11-06"

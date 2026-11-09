@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: venizelos-1921-07-08
+voice: Eleftherios Venizelos
+voice_type: person
+role: Former Greek prime minister, in exile after the 1920 election
+country: Greece
+country_now: Greece
+domain: politics
+date: "1921-07-08"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Kemal as a military and Bolshevik-backed threat to the Straits; argues Britain must not desert Greece.
+quote:
+  text: >-
+    For if Kemal reaches Constantinople the freedom of the sea is involved, and your supremacy in the
+    Mediterranean.
+  language: en
+mediated_by: Harold Spender's notes ← The Times 8 Jul 1921 p.10 ← BRIQ 2021 reprint
+caveat: >-
+  Spender's interview notes, not a verbatim record; advocacy to a British audience; read in a 2021 reprint
+  (OCR typos), not the Times scan; reprint wrongly calls him sitting prime minister.
+node: Venizelos Warns Britain of Kemal, The Times 8 July 1921
+sources:
+  - url: https://briqjournal.com/sites/default/files/yazi-ici-dosyalar/2021-03/A%20Historical%20Interview%20With%20Greek%20Prime%20Minister%20Venizelos.pdf
+    archived: https://web.archive.org/web/20240616182537/https://briqjournal.com/sites/default/files/yazi-ici-dosyalar/2021-03/A%20Historical%20Interview%20With%20Greek%20Prime%20Minister%20Venizelos.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    BRIQ 2021 reprint of The Times, Friday 8 Jul 1921 p. 10, 'Why Greece is Fighting: Interview with M.
+    Venizelos' (Spender's notes)
+  method: >-
+    Free fetch of the BRIQ PDF; passage found with the Times heading, date and page printed in the reprint
+  note: >-
+    Quote verbatim (line-break hyphen only): 'For if Kemal reaches Constantinople the freedom of the sea is
+    involved, and your supremacy in the Mediterranean.' Bolshevik backing and 'Allies would soon find their
+    interest were involved' also present. Source is a full-text reprint, not the Times scan; a stricter
+    reading could class it secondary-only, as the record's own caveat states. Role 'in exile' is the record's
+    gloss; the Times text calls him 'Greek Prime Minister' only in the reprint's title.
+  checked_on: "2026-11-01"

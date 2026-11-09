@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: muhammad-asad-1954
+voice: Muhammad Asad (Leopold Weiss)
+voice_type: person
+role: Austrian-born Muslim scholar and writer; memoir The Road to Mecca (1954)
+country: Pakistan/Saudi Arabia (memoir 1954)
+country_now: Pakistan
+domain: religion
+date: "1954"
+era: posthumous
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: memoir
+evidence: P
+summary: >-
+  Says the Turkish struggle first stood 'in the sign of Islam', then that Atatürk forsook religion and
+  rejected Islamic values in his reforms.
+quote:
+  text: >-
+    Instead of basing his social revolution on a revived and reinvigorated Islam, Ataturk forsook the
+    spiritual force of religion (which alone had brought him to victory) and made, quite unnecessarily, a
+    rejection of all Islamic values the basis of his reforms.
+  language: en
+caveat: >-
+  Passage is in the Sanusi chapter ('Jihad'), p. 319 (text between the page headers 'JIHAD 319' and '320'),
+  and describes Sayyid Ahmad al-Sanusi's disappointment; the judgement of Atatürk is the narrator's own. Read
+  from the Islamic Book Service (New Delhi, 2004) reprint titled The Road to Makkah as scanned on archive.org;
+  page numbers are that reprint's printed headers. Asad writes in 1954 about events of the 1920s-30s. Further
+  passages: p. 297 (a dialogue set in Iran in the 1930s, Asad asks 'How is it that Ataturk, that petty
+  masquerader who denies all value to Islam, has become to you Muslims a symbol of Muslim revival?'), p. 268
+  (Reza Khan's 'obvious admiration of Kemal Ataturk' and Iranians' 'fear of losing their religion as the Turks
+  had lost theirs'), p. 272 (Reza Shah seeking 'to emulate Kemal Ataturk in building a vainglorious Western
+  facade'). Same voice and date, so merged into one record; polarity 'hostile' (he credits only the Islamic
+  character of the war of independence, and calls Atatürk 'that petty masquerader', p. 297). Asad's Islam at
+  the Crossroads (1934) and The Principles of State and Government in Islam were grepped and do not name
+  Atatürk.
+node: Leaders and Thinkers of the Muslim World and Asia on Atatürk in Their Own Words
+sources:
+  - url: https://archive.org/details/road-to-mecca_202409
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org/download/road-to-mecca_202409/Road-to-Mecca_djvu.txt (Islamic Book Service reprint, printed
+    headers)
+  method: curl djvu text
+  note: >-
+    Sanusi-chapter quote verbatim on p.319 (between headers 'JIHAD 319' and '320 THE ROAD TO MECCA'),
+    narrator's own judgement. 'petty masquerader' line verbatim on p.297 (under header 'DAJJAL 297'), spoken
+    by Asad in the Iranian dialogue and explicitly about Ataturk ('How is it that Ataturk, that petty
+    masquerader who denies all value to Islam...'). Pages are the reprint's, not the 1954 first edition's.
+    Note: tone is predominantly hostile; 'conflicted' rests on his crediting the religious character of the
+    war, defensible but generous.
+  checked_on: "2026-11-03"

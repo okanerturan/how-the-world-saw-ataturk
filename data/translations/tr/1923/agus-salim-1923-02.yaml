@@ -1,0 +1,29 @@
+# Turkish for data/voices/1923/agus-salim-1923-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: agus-salim-1923-02
+voice: H. Agus Salim
+role: Sarekat Islam lideri
+summary: >-
+  Sarekat Islam kongresine Cheribon Al-Islam Kongresi hakkında rapor sundu, Mustafa Kemal Paşa'yı yüceltti ve
+  hilafetin tanınması için ısrar etti.
+caveat: >-
+  Ana cümleciğin OCR metni bozuktur ('verheerlijkt[e] Moestafa Kemal Pasha en drong aan op [e]rkenning van het
+  Kalifaat'), bu yüzden alıntı yer almamaktadır. Tarih, 17 Şubat açılışından sonraki pazar oturumudur
+  ('Zaterdagavond, 17 Febr.' ifadesinden çıkarılmıştır).
+mediated_by: Nieuwe Rotterdamsche Courant 22 Mart 1923, özel muhabir
+verification_note: >-
+  Kayıtlı alıntı yok. OCR: 'Hadji Salim bracht rapport uit van het Al-Islam congres te Cheribon en
+  verheerlijkte Moestafa Kemal Pasha en drong aan op erkenning van het Kalifaat'; Saterdagavond 17 Febr
+  açılışından sonraki Zondagavond oturumu, dolayısıyla 18 Şubat çıkarımı uygun. Gazete tarihi yeniden
+  doğrulanmadı.
+verification_method: resolver.kb.nl OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b0832c6a4ae6
+  role: 8d3f46098df6
+  summary: c817fc96735f
+  caveat: 540331fdc80f
+  mediated_by: 878d8e6061eb
+  verification_note: 14be08190ea7
+  verification_method: 146dcbd4dc70

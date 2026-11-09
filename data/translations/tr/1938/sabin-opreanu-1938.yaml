@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/sabin-opreanu-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sabin-opreanu-1938
+voice: Sabin Opreanu
+role: 1938'de Türkiye'yi ziyaret eden Rumen profesör
+summary: Onu ulusu Batı emperyalizminden kurtaran ön cephe generali olarak betimledi.
+caveat: Yazının türü ve tarihi notta belirtilmemiştir.
+mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
+verification_note: >-
+  Destekleniyor: Opreanu Atatürk hakkında yazmış; ön cephede zeki ve cesur komutan, ulusu emperyalistlerden
+  kurtarmış. Yazının türü/tarihi Toksoy tarafından belirtilmemiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: "31158e436872"
+  role: 4d82ff407c75
+  summary: d19f065bc451
+  caveat: dda7278b1629
+  mediated_by: 374a97c5054a
+  verification_note: e9a839b5caa7
+  verification_method: 939bb46a04c3

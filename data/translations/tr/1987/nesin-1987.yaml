@@ -1,0 +1,40 @@
+# Turkish for data/voices/1987/nesin-1987.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nesin-1987
+voice: Aziz Nesin
+role: Türk mizahçı ve yazar
+quote: Ben en çok Mustafa Kemal'e şaşarım
+quote_kind: original-turkish
+summary: >-
+  Özel bir mektubunda, 'bütün insansal eksikliklerine karşın' bir deha olan Mustafa Kemal'i Türkiye'nin
+  harikaları arasında ve kendisini en çok şaşırtan kişi olarak sayar.
+caveat: >-
+  Yalnızca açıklamanın ÇEVİRİSİ; alıntı Türkçedir. 'Ben en çok Mustafa Kemal'e şaşarım, öyle bir deha o
+  çürümüş bataklıktan nasıl çıkabilmiş ... bütün insansal eksikliklerine karşın.' Eleştirmen Tahsin Saraç'a
+  9/10 Mayıs 1987 tarihli mektup, Aziz Nesin - Tahsin Saraç Mektuplaşmaları (Düşün Yayıncılık, 1995) içinde,
+  s. 131-132 (archive.org aziz-nesin-kac-aptaliz, OCR). Nesin şunu ekler: 'Biz küçümencik, adını anmaya değmez
+  işleri kotaramazken - hem de ondan altmış yıl sonra - nasıl yaratmış o mucizeyi' (altmış yıl sonra biz
+  küçücük işleri bile beceremezken o bu mucizeyi nasıl yaratmış). Mektubun bağlamı, İbn Sina ve Mimar Sinan'ın
+  Türk olarak sahiplenilmesi etrafındaki tartışmadır; Nesin günün birinde 'Boşnak asıllı Mustafa Kemal'i de
+  alacakları şakasını yapar. Aynı kitaptaki Atatürk'e 'gerçekten dahi' diyen başka bir mektup (7 Aralık 1988)
+  Nesin'e değil Saraç'a aittir ve kullanılmamıştır. Yıllarca hapis yatmış ve başka zamanlarda Atatürk
+  tapınmacılığı konusunda keskin bir dil kullanmış bir mizahçı olan Nesin, burada ikircikli içeriden sestir.
+verification_note: >-
+  Yazar Nesin'dir: mektup '9/10 Mayıs 1987 / Can dostum Tahsin' başlığını taşır ve 'Nesin Vakfı'ndan, yeni
+  kitabı 'Maçinli Kız İçin Ev'den söz eder (Saraç'ın 21 Mayıs tarihli yanıtı bunun için kendisine teşekkür
+  eder). Birebir metin: 'İyi ki bir Nasrettin Hoca, bir Yunus, bir Sinan, bir Nâzım ve bir de Mustafa Kemal
+  var. Ben en çok Mustafa Kemal'e şaşarım, o pis [OCR bozuk: '«okuşmuş'] bataklıktan nasıl çikabilmiş öyle bir
+  deha... Bütün insansal eksikliklerine karşın.' (bataklık sıfatının bir kelimesi OCR'da bozulmuştur;
+  'şaşarım' kelimesinde duran kayıttaki alıntı bundan etkilenmemiştir). s. 131-132'de basılıdır. Sonraki sayfa
+  sonu 'Biz küçümencik ... kota-/ramazken' ifadesini böler. Uygun.
+verification_method: açık djvu metninin curl ile çekilmesi; mektubun tamamı ve komşu mektuplar okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2d160d129c28
+  role: b76b5b69adf3
+  quote: 0325096a5b96
+  summary: 96020ac85587
+  caveat: 300b4a5d0efb
+  verification_note: 960c6a6975ee
+  verification_method: f7546c85de9b

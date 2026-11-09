@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: l-action-francaise-1933-10-31
+voice: L'Action française
+voice_type: press
+role: Royalist-nationalist daily
+country: France
+country_now: France
+domain: press
+date: "1933-10-31"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Recalled that Mustapha Kemal's victory in 1922 caused the 'catastrophic failure' of Greek megalomania, as
+  background to Greek-Turkish friendship.
+quote:
+  text: la victoire de Mustapha Kemal provo qua la faillite catastrophique
+  language: fr
+caveat: >-
+  Fragment-level, page 1, cut after 'mèga' (presumably 'mégalomanie'); OCR splits 'provo qua'.
+  Neutral-to-approving reading is not shown, so recorded as witness.
+node: Paris Press on the Caliphate, the Civil Code and the Decade, 1924–1933
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k765409w
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    gallica.bnf.fr ark bpt6k765409w ContentSearch page 1 + OAIRecord (31 octobre 1933, no. 304)
+  method: fetch
+  note: OCR splits 'provo qua'; fragment only
+  checked_on: "2026-10-29"

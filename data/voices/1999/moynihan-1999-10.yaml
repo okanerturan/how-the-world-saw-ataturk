@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: moynihan-1999-10
+voice: Daniel Patrick Moynihan
+voice_type: person
+role: U.S. Senator from New York (Democrat)
+country: United States
+country_now: United States
+domain: politics
+date: "1999-10-18"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Opens a Turkey free-trade bill with Atatürk as 'legendary': he built a western-oriented, secular state from
+  the ruins of the Ottoman Empire.
+quote:
+  text: >-
+    Turkey has played a singular role at the crossroads of East and West since 1923, when the legendary
+    Mustafa Kemal "Ataturk" built a western-oriented, secular state out of the ashes of the collapsed 600-year
+    old Ottoman Empire.
+  language: en
+caveat: >-
+  Introductory framing of a trade bill (the bill's purpose was to open talks on a Turkey FTA), so the praise
+  sets the case for the bill. Cited as Senate, 18 October 1999, introduction of S. 1746 (U.S.-Turkey Free
+  Trade Agreement Act of 1999), Congressional Record vol. 145, no. 141, p. S12786 (granule
+  CREC-1999-10-18-pt1-PgS12786).
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/CREC-1999-10-18/html/CREC-1999-10-18-pt1-PgS12786.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    GovInfo Congressional Record daily-edition HTML CREC-1999-10-18-pt1-PgS12786.htm, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads
+  note: >-
+    Verbatim in Moynihan's opening remarks introducing S. 1746, Senate, Monday 18 October 1999, p. S12786
+    (S12787 marker comes later). Speaker 'Mr. MOYNIHAN'. Admiring/1 with trade-bill context is fair.
+  checked_on: "2026-11-03"

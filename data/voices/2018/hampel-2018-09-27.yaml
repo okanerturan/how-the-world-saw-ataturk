@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hampel-2018-09-27
+voice: Armin-Paulus Hampel
+voice_type: person
+role: AfD member of the Bundestag, foreign-policy speaker
+country: Germany
+country_now: Germany
+domain: politics
+date: "2018-09-27"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Calls Atatürk the state founder under whom Turkey was NATO's and Europe's cornerstone toward the Orient;
+  today's Turkey, he says, would answer differently.
+quote:
+  text: >-
+    Die Türkei war einmal im Sinne des Staatsgründers Kemal Atatürk der Eckpfeiler der NATO, der Eckpfeiler
+    Europas hin zum Orient.
+  translation: >-
+    Turkey once was, in the spirit of the state founder Kemal Atatürk, the cornerstone of NATO, the
+    cornerstone of Europe towards the Orient.
+  language: de
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
+  documentation page; printed page checked in the dserver PDF. AfD foreign-policy speech in the debate on the
+  EU-Turkey refugee agreement; Hampel then quotes 'there are many cultures but only one civilisation: the
+  European' as Atatürk's answer and adds that 'if you say that today in Ankara or Istanbul you will get other
+  answers'. The identical quotation is repeated in his speech of 30 Sept 2020 (19/179, p. 22564), a second
+  record is not made. The quotation's attribution to Atatürk is the speaker's, not verified here. Cited as
+  Deutscher Bundestag, Plenarprotokoll 19/52, session of 2018-09-27, S. 5420.
+node: German Parliaments on Atatürk — Hitler's Reichstag 1941 and the Bundestag 1983–2025
+sources:
+  - url: https://dserver.bundestag.de/btp/19/19052.pdf
+    archived: https://web.archive.org/web/20260710065848/https://dserver.bundestag.de/btp/19/19052.pdf
+  - url: https://dip.bundestag.de/
+    archived: https://web.archive.org/web/20261020200949/https://dip.bundestag.de/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Bundestag plenary-protocol PDF 19/19052.pdf (WP19 sitting 52) from dserver.bundestag.de, fetched fresh
+  method: >-
+    downloaded the dserver PDF, pdftotext, whitespace/hyphenation-normalised match of the quote, speaker
+    header and running-head page number read from the printed protocol; German read against the stored
+    translation
+  note: >-
+    Verbatim on printed p. 5420 under 'Armin-Paulus Hampel (AfD)'. Translation faithful. what_they_saw is
+    fair; the 'only one civilisation' saying is Hampel's attribution to Ataturk and he adds that today's
+    Ankara would answer otherwise (as the caveat says). Neutral framing.
+  checked_on: "2026-11-03"

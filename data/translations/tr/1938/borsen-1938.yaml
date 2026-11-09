@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/borsen-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: borsen-1938
+voice: Børsen
+role: Danimarka günlük gazetesi
+summary: Sevr'i yırtıp atan ve on sekiz yılda vatanını yeniden inşa eden adam.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; teşhisler varsayıma dayalıdır; yabancı dildeki
+  asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ece852d6be81
+  role: e08a7b3845d0
+  summary: 729cb653baec
+  caveat: 1d0053d25711
+  mediated_by: 272e58105c39
+  verification_method: 939bb46a04c3

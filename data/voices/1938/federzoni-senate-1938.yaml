@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: federzoni-senate-1938
+voice: Luigi Federzoni (President of the Italian Senate)
+voice_type: person
+role: President of the Senate of the Kingdom of Italy
+country: Italy
+country_now: Italy
+domain: politics
+date: "1938-11-12"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: telegram
+evidence: P
+summary: Called him the architect of the renewal of the nation.
+quote:
+  text: artefice del rinnovamento della nazione
+  language: it
+caveat: >-
+  TBMM vol. 1 (c1) PDF p. 7, cover note p. 6. Quote in Italian; translation: 'architect of the renewal of the
+  nation'. Fascist-era formula with a characterising noun; date is the embassy's transmission, 12 Nov.
+node: Heads of State Write to the Assembly, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Taziyetname 1938, c1.pdf p. 7 (telegram) and p. 6 (embassy cover note)
+  method: >-
+    Own render of the PDF page (PDFKit PNG, read by eye); no OCR relied on; telegraph text is unaccented
+    capitals/lowercase typescript
+  note: >-
+    Typed Italian: 'ARTEFICE DEL RINNOVAMENTO DELLA NAZIONE', signed 'PRESIDENTE SENATO FEDERZONI'. Cover note
+    p. 6 dated 'Ankara, 12 Novembre 1938 - XVII' and says the two telegrams were signed by the Presidents of
+    the Italian Senate and Chamber. Pages are rotated 90 degrees in the PDF. Role (Senate President) is not on
+    the sheet beyond 'Presidente Senato'. Quote lower-cased, otherwise verbatim.
+  checked_on: "2026-11-01"

@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/nya-dagligt-allehanda-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nya-dagligt-allehanda-1938
+voice: Nya Dagligt Allehanda
+role: İsveç günlük gazetesi
+summary: On dört yılda eserinin dünya tarihinde derin izler bıraktığını söyledi.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Cumhuriyet (İsveç gazeteleri bölümü)
+verification_note: >-
+  Toksoy tarafından mediated_by alanının belirttiği gibi Cumhuriyet'e değil, 15 Kasım tarihli Ulus / Ayın
+  Tarihi'ne atfedilmiştir (küçük bir fark).
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a81f7339c528
+  role: 64409c633f80
+  summary: 81f7690440d0
+  caveat: ecc719a2a575
+  mediated_by: 8bd77e33cab2
+  verification_note: 4067ea7501de
+  verification_method: 939bb46a04c3

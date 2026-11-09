@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: townshend-1922
+voice: Sir Charles Townshend MP
+voice_type: person
+role: General who surrendered at Kut, MP, Near East debate
+country: United Kingdom
+country_now: United Kingdom
+domain: military
+date: "1922-05-30"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  Defended Kemal as a patriot created by Allied blunders, compared him to Washington, and wanted to go to
+  Ismid and urge moderation.
+quote:
+  text: I know him well and respect him
+  language: en
+node: Parliament on Kemal and the Greeks, 1921–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1922-05-30/debates/1aafc6d6-0a0f-432e-9b1e-9466569af14e/NearEast
+    archived: https://web.archive.org/web/20250830135312/https://hansard.parliament.uk/commons/1922-05-30/debates/1aafc6d6-0a0f-432e-9b1e-9466569af14e/NearEast
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard-api.parliament.uk/search/contributions/Spoken.json (contribution
+    958cc9b6-6de9-4fa7-8d5d-0d1597d7ada0), Commons 1922-05-30 Near East, Sir CHARLES TOWNSHEND; Washington as
+    'revolting general', Ismid conference
+  method: api
+  checked_on: "2026-10-29"

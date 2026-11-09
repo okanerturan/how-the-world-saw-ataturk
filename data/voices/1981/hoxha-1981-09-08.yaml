@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hoxha-1981-09-08
+voice: Enver Hoxha
+voice_type: person
+role: First Secretary of the PLA; letter to the mayor and council of Gölcük
+country: Albania
+country_now: Albania
+domain: politics
+date: "1981-09-08"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: quote
+evidence: P
+summary: >-
+  Thanking Gölcük for a bronze portrait of Atatürk, calls him a great statesman and outstanding political
+  personality who led Turks toward modernization.
+quote:
+  text: >-
+    Mustafa Kemal Ataturku ka qenë një udhëheqës i madh shtetëror e personalitet i shquar politik
+  language: sq
+caveat: >-
+  Translation (the vault's): 'Mustafa Kemal Atatürk was a great statesman-leader and an outstanding political
+  personality.' Albanian original in Enver Hoxha, Letra të zgjedhura, vol. 2 (Tiranë: 8 Nëntori, 1986), letter
+  to the mayor of Gölcük, 8 Sept 1981, pp. 375–376 (sentence on p. 375); the portrait came through the
+  'Rozafa' ensemble. Corrected at check: the builder had attached it to a 30 Apr 1973 letter to a Pakistani
+  namesake, Mustafa Kemal Pasha, which does not mention Atatürk. The passage praises his democratic thought,
+  'progress and modernization', trust in youth and goodwill toward Albanians.
+node: Hoxha, Beneš, Brezhnev and the Soviet Presidium on Atatürk, 1939–1982
+sources:
+  - url: https://archive.org/details/vellimi-1
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Hoxha, Letra te zgjedhura vol. 2 (Tirane: 8 Nentori 1986), archive.org vellimi-1, 'Vellimi 2_djvu.txt' and
+    djvu.xml leaves
+  method: curl of the open djvu text; djvu.xml leaf endings show the folios are at page foot
+  note: >-
+    WRONG LETTER. The Albanian sentence is verbatim ('Mustafa Kemal Ataturku ka qene nje udhe-heqes i madh
+    shteteror e personalitet i shquar politik'), but it is NOT in the 30 April 1973 letter to Mustafa Kemal
+    Pasha, chairman of the Pakistan-Albania Friendship Association (pp. 265-266). That letter never mentions
+    Ataturk: it thanks a Pakistani namesake and speaks of anti-imperialist friendship with Pakistan. The
+    sentence is in 'Leter drejtuar kryetarit te bashkise se Golxhykut' (Letter to the mayor of Golcuek), dated
+    8 September 1981, vol. 2 pp. 375-376 (the sentence is on p. 375; footer 375 falls after 'demokra-'). Hoxha
+    thanks the Golcuek municipality for a bronze portrait of 'udheheqesit tuaj te dashur, Mustafa Kemal
+    Ataturkut', sent by the 'Rozafa' song and dance ensemble; the letter continues: Ataturk known for
+    democratic thoughts and a bold work 'qe kishin per synim ta conin popullin turk ne rrugen e perparimit e
+    te modernizimit', for trust in the young generation, and goodwill 'edhe ndaj popullit shqiptar'. 'Botohet
+    per here te pare sipas origjinalit' (first published from the Central Party Archive). CORRECTIONS: id
+    hoxha-1981-09-08; date 1981-09-08; role 'letter to the mayor and municipal council of Golcuek';
+    what_they_saw 'Thanking the Golcuek municipality for a bronze portrait ...'; artifact letter, not
+    telegram; page pp. 375-376; remove 'Pakistan-Albania Friendship Association' and the Mr Mustafa Kemal
+    Pasha explanation; check the vault note for the same error. Era posthumous unchanged; mirror, polarity
+    (admiring) and intensity 2 stand. This record is distinct from the 1 Nov 1981 Congress report
+    (hoxha-1981-11-01).
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

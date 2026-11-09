@@ -1,0 +1,38 @@
+# Turkish for data/voices/1947/nihal-atsiz-1947-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nihal-atsiz-1947-11
+voice: Nihal Atsız
+role: Pantürkist yazar, Kür Şad editörü, 1944 Irkçılık-Turancılık davasında yargılandı
+quote: O, Atatürk'e hayransa, ben de değilsem, bu, beni yarı yolda bırakmayı mazur gösterir mi?
+quote_kind: original-turkish
+summary: >-
+  Falih Rıfkı kendisini Atatürk düşmanı diye nitelendirince bir avukatın 1944'teki savunmasını bıraktığını
+  söyler ve Atatürk hayranı olmadığını ima eder.
+caveat: >-
+  ÇEVİRİ (bu kaydın): 'If he admires Atatürk and I do not, does that excuse leaving me halfway?' Hasan Âli
+  Yücel'e yanıtında ('Sıfır') 'ATSIZ' imzasıyla, Kür Şad sayı 4-5 (1947; sayı Gökalp'in ölümünün 23. yıldönümü
+  vesilesiyle çıkarılmıştır ve 3 Kasım 1947 tarihini taşır), archive.org OCR ('ben de de- gilsem'
+  birleştirilerek düzeltildi). Avukat Hâmit Şevket İnce'dir. Cümle şart kipindedir: Atatürk'ün onun kahramanı
+  olmadığını ima eder ama açıkça söylemez. Kür Şad ayrıca Atatürk Bulvarı'nda 'Atatürk poses' takınan
+  yetkililerle alay eder. Arşiv notundaki iddialar (kan milliyetçiliği, 'Peace at home' ilkesine saldırılar,
+  Nazi sempatisi) Kemal değil devlet hakkındadır ve burada kontrol edilmemiştir.
+verification_note: >-
+  Alıntı birebir mevcuttur (OCR 'de- gilsem'): 'O, Atatürk'e hayransa, ben de değilsem, bu, beni yarı yolda
+  bırakmayı mazur gösterir mi?' Bağlam: avukat Hâmit Şevket İnce, Falih Rıfkı'nın kendisini 'benim Atatürk
+  düşmanı olduğumu' ileri sürerek uyarmasının ardından Mayıs 1944'teki savunmasını bırakmıştır. 'Sıfır'a
+  (Yücel) verilen yanıt 'ATSIZ' imzalı ve '22 Ekim 1947, Çarşamba — Maltepe' tarihlidir. 1947-11 (sayı tarihi
+  3 Kasım 1947) uygundur. 'Atatürk pozu vermeğe özenerek Atatürk bulvarında' ifadesi mevcuttur. Çeviri sadık.
+  Küçük not: what_they_saw alanındaki 'declines to call himself an admirer' şart cümlesi için biraz güçlüdür;
+  'implies he is no admirer' daha yakındır. İkircikli etiketi savunulabilir (hayran değil ama kendisine karşı
+  kullanılan 'enemy' yaftasına içerliyor); yoğunluk 1 doğrudur. Şema uygun.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8a1673fdf84e
+  role: 8f4ff9d308a2
+  quote: 0fa0431549ba
+  summary: c96fbd4b7fcc
+  caveat: 40c69e9acf81
+  verification_note: 0ae427d3c02e
+  verification_method: b152e9063489

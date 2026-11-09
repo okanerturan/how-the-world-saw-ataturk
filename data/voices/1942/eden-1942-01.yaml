@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: eden-1942-01
+voice: Anthony Eden
+voice_type: person
+role: British Foreign Secretary (report on his Moscow visit)
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1942-01-08"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Calls Atatürk 'the great leader of modern Turkey' and cites his principle of Russo-Turkish understanding as
+  policy whose wisdom grows in war.
+quote:
+  text: >-
+    It was a cardinal principle of the policy of modern Turkey, as laid down by Ataturk, the great leader of
+    modern Turkey, that there should be close understanding between Russia and Turkey. The wisdom of that
+    policy becomes daily more apparent amid the vicissitudes of war.
+  language: en
+caveat: >-
+  War Situation, HC Deb 8 Jan 1942, c171. Transcription at TheyWorkForYou of the official Hansard. Used to
+  reassure Turkey after Anglo-Soviet talks; Atatürk is invoked for the Russian policy, not assessed as a
+  whole. Check: the quote falls at c174 (historic-hansard); TWFY gives the column where the speech starts.
+node: >-
+  Westminster on Atatürk, 1941–1957 — Eden, Selwyn Lloyd, Noel-Baker, Wigg, Davies and Hollis
+sources:
+  - url: https://www.theyworkforyou.com/debates/?id=1942-01-08a.43.15#g171.1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TheyWorkForYou debate page (fresh curl), speaker block at the anchor; column cross-checked on
+    api.parliament.uk/historic-hansard where available
+  method: >-
+    fetched page, normalised-text match of the quote inside the anchored speech block (speaker, date, id);
+    column located from historic-hansard column markers
+  note: >-
+    Verbatim, spoken by Eden (g171.1, HC Deb 8 Jan 1942). Column correction: sentence at c174 (speech starts
+    c171). 'the great leader of modern Turkey' is an own, explicit tribute; instrumental 1 is defensible
+    though admiring 1 would also be fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

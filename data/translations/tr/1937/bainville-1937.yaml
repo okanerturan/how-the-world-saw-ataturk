@@ -1,0 +1,23 @@
+# Turkish for data/voices/1937/bainville-1937.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bainville-1937
+voice: Jacques Bainville
+role: Fransız tarihçi; J. Lewis May'in İngilizce çevirisiyle Dictators
+quote: Reformları sanki bir film makarasından akıyormuş gibi çıkarıyor.
+quote_kind: translated
+summary: >-
+  Kemal'i diktatörler arasında en ilginç ve özgün olanı sayar; değişimin ölçeğine hayranlık duyar ama hızıyla
+  ve onun gösterişçiliğiyle alay eder.
+caveat: >-
+  İngilizce metin çevirmene aittir (Cape, 1937); Fransızca özgün metnin tarihi kontrol edilmedi; tarama OCR'ı
+  yer yer zayıf. Bölüm s. 196-205, alıntı s. 201.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 66d1d6ace86f
+  role: 3b683f100687
+  quote: ed55c2d40fe9
+  summary: 4b88461563d7
+  caveat: 120623f987f6
+  verification_method: ad8cee67138e

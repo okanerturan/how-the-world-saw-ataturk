@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: fevzi-cakmak-tbmm-1921-09-19
+voice: Fevzi Çakmak
+voice_type: person
+role: Chief of General Staff and Kozan deputy
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-09-19"
+era: contemporary
+polarity: admiring
+intensity: 3
+mirror: internal-mirror
+artifact: policy
+evidence: P
+summary: >-
+  With İsmet, proposed in the open Assembly the rank of Marshal and title Gazi for Mustafa Kemal, crediting
+  his battlefield measures with victory.
+quote:
+  text: >-
+    Bizzat muharebe meydanındaki tedabir ile muzafferiyetin âmil ve müessiri olmuş olan Başkumandan Mustafa
+    Kemal Paşa Hazretlerine müşirlik rütbesi ve gazilik unvanı tevcihini teklif ve istirham ederiz.
+  language: tr
+caveat: >-
+  Joint telegram-motion of Fevzi and İsmet (West Front, 14/15 September), read to the Assembly; one text, two
+  signatories, so the sibling record for İsmet shares the quote. Printed p. 263.
+node: Gazi and Marshal — The Assembly's Vote of 19 September 1921
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012079.pdf
+    archived: https://web.archive.org/web/20240917105714/https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012079.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: tbmm01012079.pdf (d01 c012, 79th sitting 19.9.1337), p.263
+  method: pdftotext
+  note: Verbatim; joint takrir of Fevzi and İsmet dated 14/15 Eylül, read in open session.
+  checked_on: "2026-10-30"

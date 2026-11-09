@@ -1,0 +1,42 @@
+# Turkish for data/voices/1957/powell-1957-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: powell-1957-08
+voice: Adam Clayton Powell Jr.
+role: ABD Temsilciler Meclisi New York (Harlem) üyesi
+quote: >-
+  Bu ülkenin devasa görevlerinin üstesinden gelirken gösterdiği cesarete hayran kalmamak elde değildir.
+  Türkiye, Mustafa Kemal Atatürk yönetiminde modern bir ulus olmak üzere yola çıktı ve şaşırtıcı bir canlılığa
+  sahip sağlıklı bir cumhuriyet haline geldi.
+quote_kind: translated
+summary: >-
+  Cumhuriyet Bayramı kutlama mesajı gönderir ve Atatürk devriminin ana hatlarını çizerek, Türkiye'nin 1919'dan
+  bu yana geçirdiği dönüşümü hayranlık uyandırıcı ve modernleşmesini 'Kemal Atatürk'ün hedefi' olarak
+  nitelendirir.
+caveat: >-
+  Bandung Konferansı devletlerinin yıldönümlerinde sunduğu kutlama mesajlarından biri olarak verilmiştir ('I
+  announced that I would address the United States Congress each time there was an anniversary'); reformlara
+  ilişkin anlatım büyükelçilik tarafından sağlanmış bir materyal gibi okunmaktadır, dolayısıyla bir görüş
+  olduğu kadar bir nezaket metnidir. Sayfa numaraları akan üstbilgilerden (OCR) alınmıştır. Kaynak gösterimi:
+  Extensions of Remarks (House), 27 Ağustos 1957, Congressional Record c. 103 (ciltli), s. ~16181-16182
+  (granül CRECB-1957-pt12-4-3). Kontrol: gövde metni büyükelçilik bilgi notu metni gibi okunuyor; Record
+  kaynak belirtmiyor. Kontrol (24. tur): aynı cümleler onun 1956 tarihli ek konuşmasında ve 16 Mayıs 1956'da
+  Appendix'te basılan imzasız bir dergi makalesinde de (s. A4001) yer alıyor; muhtemelen büyükelçilik
+  tarafından sağlanmış metin.
+verification_note: >-
+  Her iki alıntı cümlesi de s. 16181'de Powell'ın kendi ek konuşmasında birebir aynı; ekleme veya oybirliğiyle
+  izin işareti yok. Gövde metni, büyükelçilik veya bilgi notu metni gibi okunan bir Cumhuriyet Bayramı özeti
+  niteliğinde, ancak Record herhangi bir kaynak belirtmiyor; dolayısıyla kendi adı altında kendisine aittir.
+  Nezaket metni; yoğunluk 2 ve what_they_saw uygun. Şema tamam.
+verification_method: >-
+  yeni PDF indirmesi, pdftotext, sütun bağlam içinde okundu; konuşmacı başlığı 'Mr. POWELL. Mr. Speaker, when
+  I came back from Bandung...'
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f7f858b36e20
+  role: e5d9d427bcea
+  quote: d3a5e096adfa
+  summary: 6e79faf14eed
+  caveat: d73e22200b28
+  verification_note: 5dc076a18ce8
+  verification_method: 761a78b30858

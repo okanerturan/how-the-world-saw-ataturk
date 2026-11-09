@@ -1,0 +1,34 @@
+# Turkish for data/voices/2019/lugar-2019-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lugar-2019-05
+voice: Robert Lugar
+role: Avusturya Ulusal Konseyi (Nationalrat) FPÖ üyesi
+quote: >-
+  O bir Müslüman düşmanı değildi ve bir sağcı da değildi. Türkiye'nin kurucusu başörtüsünü yasakladı, çünkü bu
+  tam da kadının baskı altına alınmasıyla bağlantılıdır.
+quote_kind: translated
+summary: >-
+  Başörtüsü yasağı tartışmasında Atatürk'ü bir Müslüman düşmanı ya da sağcı olarak değil, kadınların baskı
+  altına alınmasına son vermek için başörtüsünü yasaklayan bir kurucu olarak sunar.
+caveat: >-
+  İlkokullarda 2019 başörtüsü yasağını savunan argüman; Atatürk bir otorite olarak yardıma çağrıldığından
+  kayıt hayranlık bildirdiği kadar araçsaldır. Tarihsel iddia (başörtüsü yasağı) arşive değil konuşmacıya
+  aittir. Konuşmacı satırı: 'Abgeordneter Ing. Robert Lugar (FPÖ)'. [Çeviri:] O bir Müslüman düşmanı değildi
+  ve bir sağcı da değildi. Türkiye'nin kurucusu başörtüsünü tam da kadının baskı altına alınmasıyla bağlantılı
+  olduğu için yasakladı.
+verification_note: >-
+  Birebir aynı, birbirini izleyen iki cümle, tutanakta öncesinde 'Atatürk, ein Gründer der Türkei, hat das
+  Kopftuch verboten.' cümlesi yer alıyor; konuşmacı, parti, tarih doğru; çeviri sadık. Kişiyi nitelendirdiği
+  için ('kein Muslimhasser, kein Rechter') bakış testini geçiyor; 'instrumental' doğru. Çekince notunda
+  belirtildiği gibi başörtüsü yasağı iddiası konuşmacıya aittir.
+verification_method: parlament.gv.at HTML sayfasının yeni çekimi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fca43fe083f7
+  role: a6ae06098602
+  quote: c245525dddda
+  summary: 193828ef41b4
+  caveat: c804cd12772e
+  verification_note: 77e9ba40fd1d
+  verification_method: f4548f3ae88d

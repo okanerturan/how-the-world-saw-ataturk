@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jettou-2004-04-20
+voice: Driss Jettou
+voice_type: person
+role: Prime Minister of Morocco
+country: Morocco
+country_now: Morocco
+domain: politics
+date: "2004-04-20"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: P
+summary: >-
+  A great statesman, 'one of the greatest people of our time', who built a country with universal radiance
+  today.
+quote:
+  text: >-
+    Allah, bu büyük devlet adamına mağfiret etsin. Zamanımızın en büyük insanlarından biriydi ve günümüzde
+    evrensel ışıltısı olan bir ülke kurdu.
+  is_translation: true
+  language: tr
+caveat: >-
+  Handwritten in Arabic, 20.04.2004; the quote is the compilation's Turkish ('May God forgive this great
+  statesman. He was one of the greatest people of our time and built a country with universal radiance
+  today'). 'Great statesman' is the compilation's rendering of 'rajul' (a man), and 'forgive' renders
+  'enveloped in His mercy'. Reading of the Arabic (last word of line 3 unclear): 'رجل تغمده الله برحمته كان من
+  أعظم رجال هذا العصر وبنى بلدا له إشعاع …'. Source: Anıtkabir Özel Defteri (printed compilation, '1953'ten
+  günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk hakkındaki duygu ve
+  düşünceleri'), page images on ataturkarsivi.com, read on the image by the main agent (4 Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) driss1 (Arabic handwriting), driss2 (printed Turkish, dated 20.04.2004)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Printed Turkish quote verbatim; date 20.04.2004 and role (Fas Krallıgı Basbakani) printed. Arabic reading
+    checked: line 1 'رجل تغمده الله برحمته', line 2 'كان من أعظم رجال هذا العصر', line 3 'وبنى بلدا له إشعاع
+    ...' (last word unclear, consistent with 'عالمي'): the main agent's reading is right. Translation caveat:
+    the Arabic opens with 'rajul' (a man) and says God envelop him in His mercy; the printed Turkish renders
+    these as 'bu buyuk devlet adamina magfiret etsin' (this great statesman; forgive). So 'great statesman' is
+    the compilation's rendering of 'man'; the substance (greatest of men of this age, built a country of
+    radiance) holds. what_they_saw 'great statesman' rests on the Turkish; consider hedging in the caveat.
+    Arabic does not name Ataturk but sits on his page. Gaze passes.
+  resolution: corrected/hedged 2026-11-04 — see LEDGER § Source-check corrections (round 25)
+  checked_on: "2026-11-04"

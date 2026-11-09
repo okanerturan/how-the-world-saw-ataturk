@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: adams-1939
+voice: Mr Adams MP
+voice_type: person
+role: Member of the Commons, Spain debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1939-02-28"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Cited Turkey under Atatürk as an excellent example of a totalitarian state respecting its international
+  obligations, in an argument about Franco.
+quote:
+  text: >-
+    Turkey under Kemal Ataturk was a brilliant and excellent example of how a totalitarian State can respect
+    its international obligations.
+  language: en
+caveat: Speaker's first name not given in the search result.
+node: Hansard After Atatürk, 1938–1939
+sources:
+  - url: https://hansard.parliament.uk/Commons/1939-02-28/debates/ca678499-3544-43c1-8331-81f0cfcb4e46/Spain
+    archived: https://web.archive.org/web/20240902052120/https://hansard.parliament.uk/commons/1939-02-28/debates/ca678499-3544-43c1-8331-81f0cfcb4e46/Spain
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API 28 Feb 1939, Mr Adams, Spain debate (Motion of Censure)
+  method: fetch
+  checked_on: "2026-10-29"

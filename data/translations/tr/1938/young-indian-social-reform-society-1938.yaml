@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/young-indian-social-reform-society-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: young-indian-social-reform-society-1938
+voice: Güney Afrika Genç Hint Toplumsal Reform Derneği
+role: Cape Hint reform derneği
+quote: >-
+  çağımızın en önde gelen toplumsal reformcularından biri … geleneklere saplanmış, çürümekte olan Osmanlı
+  İmparatorluğu'nun küllerinden modern Türkiye'yi inşa etti
+quote_kind: translated
+summary: >-
+  Onu, çürümekte olan Osmanlı İmparatorluğu'nun yıkıntılarından modern Türkiye'yi inşa eden önde gelen bir
+  toplumsal reformcu olarak gördü.
+caveat: Ayna, 'social reformer' ifadesinden bir çıkarımdır.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 148dc1ec42b4
+  role: 9d5ac6e5a40e
+  quote: d6d9dc4dff56
+  summary: 25b761651bcd
+  caveat: bb3bda0308a7
+  verification_method: 939bb46a04c3

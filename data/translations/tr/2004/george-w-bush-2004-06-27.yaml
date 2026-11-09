@@ -1,0 +1,43 @@
+# Turkish for data/voices/2004/george-w-bush-2004-06-27.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: george-w-bush-2004-06-27
+voice: George W. Bush
+role: Amerika Birleşik Devletleri Başkanı; Anıtkabir özel defterindeki yazısı
+quote: >-
+  Türk insanının Atatürk'e gösterdiği saygı ve hayranlığını paylaşıyoruz. Atatürk, reformculuğa önderlik
+  ederek eşit haklara dayalı demokrasiye sahip Türkiye'yi parlayan bir örnek olarak kurdu.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ün reformlara öncülük ederek eşit haklara dayalı bir demokrasiye sahip Türkiye'yi parlayan bir örnek
+  olarak kurduğunu, Amerikalıların Türklerin hayranlığını paylaştığını söylüyor.
+caveat: >-
+  Hürriyet ('Çok duygulandım') Türkçe metnin tamamını yayımlıyor; 28.06.2004 tarihli Yeni Mesaj (muhtemelen
+  aynı ajans haberinden) yalnızca açımlama veriyor ('eşit haklar ve laik bir demokrasiye dayalı parlayan bir
+  örnek'). İngilizce özgün metne ulaşılamadı; Türkçe Wikipedia'nın ziyaretçi listesi ziyareti 27 Haziran'a
+  tarihliyor, basın ise Bush'un Ankara'ya varışının ertesi sabahı olduğunu söylüyor (ardından İstanbul NATO
+  zirvesi geldi). İstanbul NATO zirvesi arifesinde yazılmış nezaket metni. Tarih denetim sırasında düzeltildi:
+  Hürriyet haberi 28 Haziran saat 01:50'de geçilmiş ve 28 Haziran tarihli bir basın özeti ziyaretin
+  'yesterday' olduğunu söylüyor. Yeni Mesaj aynı ajans haberini açımlıyor (bağımsız değil).
+mediated_by: Hürriyet (kaydın Türkçe çevirisi); Yeni Mesaj mealen aktarımı
+verification_note: >-
+  Alıntı Hürriyet'te birebir aynı. TARİH YANLIŞ: Hürriyet haberi ziyaretin tamamlandığını bildirerek 28
+  Haziran 01:50'de geçilmiş ve 28 Haziran tarihli İngilizce basın özeti Bush çiftinin 'yesterday' ziyaret
+  ettiğini söylüyor; dolayısıyla kayıt 06-28 değil, 2004-06-27 tarihlidir. Yeni Mesaj yalnızca aynı ajans
+  haberinin bir açımlamasıdır (bağımsız değil). Bir Türk basın özetinde basıldığı şekliyle İngilizcesi
+  (kendisi de bir çeviridir): 'I am proud to be here. We share the Turkish people's respect and admiration for
+  Ataturk. Ataturk established Turkey as a shining example with its democracy based on equal rights through
+  pioneering...'. Düzeltme: tarih -> 2004-06-27.
+verification_method: >-
+  Alıntılanan sayfanın tools/ms ile (ücretsiz) yeni çekimi, 3 Kasım 2026; bağımsız denetleyici; İngilizce
+  metin için 1 ücretli arama
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e828a7de57e7
+  role: 63b5ff51972f
+  quote: df372f1fa1ae
+  summary: 864e2110187a
+  caveat: 7a80b6c13f28
+  mediated_by: b678e14ce7c6
+  verification_note: cd01dc28fc56
+  verification_method: 39d3964d4a62

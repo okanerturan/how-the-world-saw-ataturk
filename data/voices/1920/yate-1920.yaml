@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: yate-1920
+voice: Colonel Yate MP
+voice_type: person
+role: Member of the Commons, foreign affairs debate (speaking for Indian Muslims)
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-03-25"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Lumped Kemal with Enver and the Young Turks as the ruin of Turkey and allied with agitators among Indian
+  Muslims.
+quote:
+  text: >-
+    in league with Enver Pasha, Mustapha Kemal, and other Young Turk leaders who have brought so much ruin on
+    Turkey
+  language: en
+node: Parliament Meets Kemal, February–March 1920
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-03-25/debates/2e5028ef-3013-4fec-927b-043d7f107190/ForeignAffairs
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard-api.parliament.uk/search/contributions/Spoken.json (contribution
+    b774b49b-ed48-450c-aa91-e4d6eb29ebc7), Commons 1920-03-25 Foreign Affairs, Colonel YATE
+  method: api
+  checked_on: "2026-10-29"

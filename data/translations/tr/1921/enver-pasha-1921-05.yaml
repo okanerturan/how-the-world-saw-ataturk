@@ -1,0 +1,46 @@
+# Turkish for data/voices/1921/enver-pasha-1921-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: enver-pasha-1921-05
+voice: Enver Paşa
+role: Eski Osmanlı Harbiye Nazırı, Moskova'da; Mustafa Kemal'e mektup
+quote: >-
+  Şimdi muvaffakiyetinize bakarak, size iğvâ edenlere uyup memlekette bir şahsın veyâ yalnız bir kısmının
+  tahakkümüne doğru gitmeyiniz.
+quote_kind: original-turkish
+summary: >-
+  Kemal'e bir kardeş olarak yazar; yeteneğini över ancak başarısını tek bir kişinin yönetimine dönüştürmemesi
+  için ona yalvarır.
+caveat: >-
+  Türkçe özgün metin (Yamauchi tarafından yapılan Osmanlıca tarzı çeviri yazı); arşivin çevirisi: 'Now that
+  you are succeeding, do not follow those who lead you astray towards the domination of the country by one
+  person or one group.' 97 sayılı mektup, tarihsiz (Mayıs 1921), Moskova'dan Ankara'ya, Yamauchi'nin belgeler
+  bölümünde basılmıştır; OCR sayfa işaretleri 205-207 mektubu çevreler, cümle 207 işaretinin hemen sonrasına
+  düşer (s. 205-208 olarak atıf yapılmıştır). Yamauchi'nin verdiği Enver arşivi referansı: Klasör 7/Mustafa
+  Kemal Dosyası. Hemen öncesinde Enver, kendi Harbiye Nazırlığı döneminden beri Kemal'in yeteneğine değer
+  verdiğini yazar ('İktidârınızı ... takdir ettim'). Mektup ayrıca Kemal'in çevresinin onu bir 'Ankara
+  Komünist Partisi'nin diktatörü yaptığı yönündeki iddiasını da aktarır. Rakip olarak gördüğü bir adama
+  yazılmış, Enver'in kendi tutumuna dair kendi anlatımıdır. Yazarlık editörün çıkarımıdır: Yamauchi'nin (1)
+  numaralı notu 97 sayılı mektubu 'anonim' (imzasız) olarak nitelendirir ve içeriğinden hareketle Enver'e
+  atfeder.
+verification_note: >-
+  Alıntı birebir aynı, OCR s. 208 (mektup s. 205-208 arasındadır; başlık 'No. 97, Enver Paşa'dan (Moskova)
+  Mustafa Kemal Paşa'ya (Ankara), Târihsiz (Mayıs 1921)'). ANCAK mektubun kendi (1) numaralı notu şöyle der:
+  'Bu mektup Büyük Ermenistan Teşkili Meselesi başlığındaki ANONİM bir mektuptur. Ancak yazar, metnin
+  içindekileri gözönünde bulundurarak, Enver Paşa'ya ait olduğunu zanneder.' Dolayısıyla bu, Yamauchi'nin
+  içeriğinden hareketle Enver'e ATFETTİĞİ imzasız bir mektuptur ('Enver.' imzalı 118 sayılı mektubun aksine
+  imzası da yoktur). İçerik Enver'e uymaktadır (Radek ile Berlin hapishanesi, uçuşlar, Halil, Cemal), ancak
+  atıf editörün çıkarımıdır. Uyarı notunu bunu belirtecek şekilde düzeltin, metin için kanıt düzeyini P olarak
+  koruyun ama mediated_by/caveat alanına 'yazarlık editör tarafından atfedilmiştir, mektup imzasızdır' notunu
+  kaydedin. Kutupluluk/yoğunluk yerinde.
+verification_method: >-
+  archive.org djvu indirmesi; sayfa folyoları PDF ile karşılaştırılarak test edildi (folyolar sayfa altındadır)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fea41fea54fd
+  role: d2f1f4a0c4a1
+  quote: cced2aef0ce3
+  summary: 5913af6f76e2
+  caveat: f8d4b8eadd6f
+  verification_note: af0be710574f
+  verification_method: 890ba3dc1664

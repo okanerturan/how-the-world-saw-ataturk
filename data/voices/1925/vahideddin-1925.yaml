@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: vahideddin-1925
+voice: Mehmed VI Vahideddin
+voice_type: person
+role: Last Ottoman Sultan, in exile at San Remo; memoir dictated to his chief aide Avni Paşa
+country: Italy
+country_now: Italy
+domain: politics
+date: "1925"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: memoir
+evidence: S
+summary: >-
+  In his dictated memoir recalls that when Kemal's attacks on him and his dynasty appeared in the papers, his
+  time to decide had come.
+quote:
+  text: >-
+    Ertesi gün Mustafa Kemal'in şahsımız ve hanedanımız aleyhinde tefevvühâtını gazetelerde görünce, benim de
+    karar verecek zamanım geldi.
+  language: tr
+mediated_by: Bardakçı 2006, Belge 1 (facsimile in the Sultan's and Avni Paşa's hand)
+caveat: >-
+  Turkish original (Ottoman style). Belge 1, 'Sultan Vahideddin'in Hatıraları (1925)', dictated at San Remo to
+  Avni Paşa and left unfinished; the first four paragraphs are the Sultan's own hand, the rest Avni's.
+  Bardakçı removed some phrases (marked with dots), for example the sentence on Kemal as the aide he sent to
+  Anatolia ('...Mustafa Kemal'in ..... karşısında kalmıştım'). The passage describes the day after a meeting
+  in which a visitor offered him a reduced caliphate if he would recognise Ankara; the sequence places it
+  shortly before his departure in November 1922 (the OCR is garbled there). The page number of Belge 1 is not
+  legible in the OCR.
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://archive.org/details/sahbaba-murat-bardakci
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org Şahbaba djvu text, Belge 1 'Sultan Vahideddin'in Hatıraları (1925)'
+  method: archive.org djvu download
+  note: >-
+    Verbatim: 'Ertesi gün Mustafa Kemal'in şahsımız ve hanedanımız aleyhinde tefevvühâtını gazetelerde
+    görünce, benim de karar verecek zamanım geldi.' Belge 1 intro: memoir dictated at San Remo to Avni Paşa,
+    unfinished; first four paragraphs in the Sultan's hand, the rest in Avni's; some phrases omitted by
+    Bardakçı (the sentence with 'Mustafa Kemal'in ..... karşısında kalmıştım' is present). The quote is in the
+    section in Avni's hand, i.e. dictated, as the record says. The OCR gives no clear page for Belge 1
+    (unresolved). Transcription by Bardakçı of a facsimile; evidence S right.
+  checked_on: "2026-11-03"

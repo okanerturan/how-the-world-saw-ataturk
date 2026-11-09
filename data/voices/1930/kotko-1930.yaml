@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kotko-1930
+voice: Kost Kotko
+voice_type: person
+role: Soviet Ukrainian journalist and travel writer
+country: Soviet Union (Ukrainian SSR)
+country_now: Ukraine
+domain: letters
+date: "1930"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: bourgeois-revolutionary
+artifact: book
+evidence: S
+summary: >-
+  Sees a national revolution made by peasants who got little, and asks whether Kemal will put a capitalist
+  'hat' on his constitution.
+quote:
+  text: >-
+    Молодотурки, завівши конституцію, нап'яли на неї, за одним фігуральним виразом, чалму. Чи напне на власну
+    конституцію Кемаль капелюха всеевропейського капіталістичного зразка?
+  translation: >-
+    The Young Turks, having introduced a constitution, put a turban on it, in one figurative expression. Will
+    Kemal put on his own constitution a hat of the all-European capitalist pattern?
+  language: uk
+caveat: >-
+  Кость Котко, Щоденник кількох міст (Kharkiv: Knyhospilka, 1930), chapter 'Через Анатолію'; Wikisource
+  transcription of the scanned book. The same chapter says the Turkish peasant made the national revolution
+  and 'received nothing for it' apart from the abolition of the ashar, a verdict on Kemalism rather than on
+  the man; in the chapter 'В історичні дні Туреччини' he reports Kemal's order to halve the time for the new
+  alphabet. Soviet-line travel journalism of 1930. Translation is the vault's own. Scan not viewed.
+node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
+sources:
+  - url: https://uk.wikisource.org/wiki/%D0%A9%D0%BE%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA_%D0%BA%D1%96%D0%BB%D1%8C%D0%BA%D0%BE%D1%85_%D0%BC%D1%96%D1%81%D1%82/%D0%A7%D0%B5%D1%80%D0%B5%D0%B7_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%96%D1%8E
+    archived: https://web.archive.org/web/20230205145155/https://uk.wikisource.org/wiki/%D0%A9%D0%BE%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA_%D0%BA%D1%96%D0%BB%D1%8C%D0%BA%D0%BE%D1%85_%D0%BC%D1%96%D1%81%D1%82/%D0%A7%D0%B5%D1%80%D0%B5%D0%B7_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%96%D1%8E
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: uk.wikisource Щоденник кількох міст/Через Анатолію (render; scan page 62)
+  method: fetched rendered page, string match, read context
+  note: >-
+    Verbatim; translation faithful. what_they_saw supported by the preceding text ('Національну революцію
+    зробив турецький селянин. Крім скасування ашару, він нічого за це не одержав.'). Own view; gaze OK;
+    conflicted fair.
+  checked_on: "2026-11-03"

@@ -1,0 +1,25 @@
+# Turkish for data/voices/1928/jednosc-polek-1928-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jednosc-polek-1928-10
+voice: Jedność Polek (Cleveland)
+role: Lehçe haftalık kadın gazetesi, Cleveland
+quote: Bu, şüphesiz Mustafa Kemal Paşa'nın başarısıdır.
+quote_kind: translated
+summary: >-
+  Türkiye Avrupalılaşıyor ve modernleşiyor; bu şüphesiz Kemal'in başarısı: İsviçre hukuku, Latin alfabesi,
+  okuryazarlığın yaygınlaşması.
+caveat: İmzasız haber ve yorum köşesi.
+verification_note: >-
+  Birebir aynı; aynı makale okumayı yaygınlaştırmak için İsviçre hukukunu ve Latin alfabesini anıyor (OCR
+  sütun sırası birbirine karışmış).
+verification_method: tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a4de90df8c5a
+  role: f069f2cdbd4d
+  quote: a72eaff9438d
+  summary: 3d7697a77355
+  caveat: 55c7719b1a1f
+  verification_note: b0cd0a3ab1ab
+  verification_method: 0e07f3903a84

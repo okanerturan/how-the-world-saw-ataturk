@@ -1,0 +1,33 @@
+# Turkish for data/voices/2001/wexler-2001-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: wexler-2001-10
+voice: Robert Wexler
+role: ABD Florida Temsilciler Meclisi Üyesi (Demokrat)
+quote: >-
+  Geçtiğimiz yetmiş sekiz yıl içinde Türkiye, Kemal Atatürk'ün 1923'te tasavvur ettiği laik ve modern
+  demokrasi olarak ortaya çıkmıştır. … yirminci yüzyılın en büyük liderlerinden biri olan Mustafa Kemal
+  Atatürk
+quote_kind: translated
+summary: >-
+  Cumhuriyet Bayramı vesilesiyle, Türkiye'nin Atatürk'ün tasavvur ettiği laik, modern demokrasi haline
+  geldiğini söylüyor ve onu yirminci yüzyılın en büyük liderlerinden biri olarak nitelendiriyor.
+caveat: >-
+  Türkiye'nin desteğini övmek amacıyla 11 Eylül'den yedi hafta sonra kaleme alınmış kendi Cumhuriyet Bayramı
+  kutlama mesajı. Bir görüş olmasının yanı sıra Ankara dostu bir nezaket metnidir. Kaynak: Extensions of
+  Remarks (Temsilciler Meclisi), 31 Ekim 2001, 'Tribute to the Government of the Republic of Turkey',
+  Congressional Record c. 147, s. E1969-E1970 (granül CREC-2001-10-31-pt1-PgE1969-3).
+verification_note: >-
+  Üç noktalı birebir alıntı; Wexler'ın kendi sözleri (ortadaki Cumhurbaşkanı Sezer alıntısı ayrıdır ve
+  kullanılmamıştır). Atatürk'ü 'one of the twentieth century's greatest leaders' olarak değerlendirir. Not
+  kısmında belirtildiği üzere nezaket metnidir. Hayranlık 2 uygun.
+verification_method: govinfo günlük baskı HTML'i
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 627a448fb4fa
+  role: 43ce17444898
+  quote: e03e80de3f46
+  summary: 3e5d0295da8c
+  caveat: 981d365bb322
+  verification_note: e68266d2485a
+  verification_method: de40218292ca

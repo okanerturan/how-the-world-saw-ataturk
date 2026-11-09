@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: illustrowany-kuryer-codzienny-1938
+voice: Illustrowany Kuryer Codzienny
+voice_type: press
+role: Polish daily (presumed)
+country: Poland
+country_now: Poland
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: editorial
+evidence: S
+summary: >-
+  Said he saved Turkey by arms and created the new Turkey as Washington created the United States.
+quote:
+  text: >-
+    Atatürk saved Turkey by force of arms and created the new Turkey as Washington created the United States;
+    his work has shown its effect even in great international affairs
+  language: en
+mediated_by: Toksoy 2006 ← Turkish press digests (Ayın Tarihi Nov 1938, Ulus, Akşam)
+caveat: >-
+  Paper titles in Toksoy are phonetic; identification is the note's own and marked 'presumably'.
+node: Warsaw Compares Him to Washington, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt (Polish section: İllustrovvany Kurjer Codzienny,
+    Washington comparison)
+  method: local
+  checked_on: "2026-10-29"

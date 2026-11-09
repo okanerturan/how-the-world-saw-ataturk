@@ -1,0 +1,45 @@
+# Turkish for data/voices/1938/reuter-1938-11-22.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: reuter-1938-11-22
+voice: Ernst Reuter
+role: >-
+  Ankara'da ders veren sürgündeki Alman Sosyal Demokrat; daha sonra Batı Berlin Belediye Başkanı
+quote: >-
+  Büyük ve genel bir yas var ve herkes kaybın büyüklüğünü muhakkak hissediyor; bu da halefiyet meselesinin
+  gayet pürüzsüz ve olağan bir biçimde çözülmüş olmasıyla hafifliyor…
+quote_kind: translated
+summary: >-
+  Definden sonra annesine yazdığı mektupta, okulunun öğretim kadrosuyla birlikte Atatürk'ün tabutunun önünden
+  saygı geçişinde bulunduğunu belirtti; herkes kaybın büyüklüğünü hissediyordu.
+caveat: >-
+  Yalnızca ödünç alınabilen tarama (schriftenreden0000reut_d8g2, 1972 takımı olarak kataloglanmış); sayfa
+  gösterilmiyor. Mektup başlığı ile Atatürk pasajı ('Gestern haben wir Atatürk beerdigt, und vorgestern bin
+  ich im Lehrkörper meiner Schule an dem Sarg vorbeidefiliert') ayrı kesitlerden gelmektedir, dolayısıyla aynı
+  mektupta yer aldıkları metnin devamlılığından çıkarsanmıştır. Tarih, editörlerin köşeli parantez içinde
+  verdiği tarihtir ve 21 Kasım 1938'deki Ankara töreniyle örtüşmektedir. Kısa bir özel nottur: görüş Kemal'in
+  eserine dair bir yargı değil, ortak bir kayıp duygusunun ifadesidir. Kontrol: s. 497; birbiriyle örtüşen
+  kesitler başlık ile Atatürk pasajının tek bir mektup olduğunu göstermektedir.
+mediated_by: >-
+  Reuter, Schriften – Reden, Bd. 2 (mektuplar 1922–1946, ed. Hirschfeld), 106 no'lu mektup 'An die Mutter,
+  Ankara, den [22. November 1938]', archive.org kitap içi arama kesitlerinden okundu
+verification_note: >-
+  Kesitler artık boşluksuz biçimde birbirine bağlanmaktadır: '[106] AN DIE MUTTER Ankara, den [22. November
+  1938] Liebe Mutter, nach langen trüben und unfreundlichen Tagen bricht die Sonne wie-|497|der durch, die
+  sich hier niemals unterkriegen läßt, und wir hoffen, die nächsten Tage ... Feiertage sind, schönes Wetter zu
+  haben. Gestern haben wir Atatürk beerdigt, und vorgestern bin ich im Lehrkörper meiner Schule an dem Sarg
+  vorbeidefiliert. Es ist eine große und allgemeine Trauer ...' Dolayısıyla tek bir mektuptur (çıkarım
+  doğrulandı) ve pasaj s. 497'dedir. Alıntı birebir mevcuttur. 'admiring' yönelimi zayıftır: cümle genel yası
+  betimler ('jeder fühlt wohl'). 'Funeral Voices — Round 32' düğümü henüz arşivde değildir (b39_sweeps.py
+  tarafından oluşturulmuştur).
+verification_method: archive.org tam metin araması (örtüşen kesitler)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5fe405013119
+  role: 29aeb5cab50c
+  quote: 07a5b6a9a647
+  summary: 6ecc5861bf89
+  caveat: 76c1caaa4b81
+  mediated_by: d1e29254c548
+  verification_note: 797660710c3e
+  verification_method: ff2ece6da75f

@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: john-paul-ii-1979-11-28
+voice: Pope John Paul II
+voice_type: person
+role: Head of the Catholic Church and of Vatican City; entry in the Anıtkabir special book
+country: Vatican City
+country_now: Vatican City
+domain: religion
+date: "1979-11-28"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: visit
+evidence: J
+summary: >-
+  Tells President Korutürk that his admiration for Atatürk and the Turkish state rests on its equal treatment
+  of minorities.
+quote:
+  text: Atatürk'e ve Türk Devleti'ne hayranlığımın temelinde bu gerçekler yatmaktadır
+  is_translation: true
+  language: tr
+mediated_by: Milliyet, 29 Nov 1979, p. 12, as reproduced in Belenli & Birbudak 2021 (Belgi 22), p. 598
+caveat: >-
+  The quote is the French original reconstructed from the Vatican's Spanish text (vatican.va
+  libro-oro-ataturk, 28 Nov 1979); the vault has seen only the Spanish ('El gobierno de los pueblos está en
+  las manos del Señor. Él suscita en el momento oportuno los jefes que les conviene...') and the Turkish of
+  Belenli & Birbudak, so the French is a back-translation: treat the quote as a translation of the entry.
+  Turkish press (Milliyet 30 Nov 1979 p. 10) separately reports his words to President Korutürk that bowing at
+  Anıtkabir 'before the saviour of Turkey and founder of its democratic republic' he was the first pope to do
+  so, and that 'admiration for Atatürk and the Turkish State' rests on its treatment of minorities (Turkish
+  text; the same sentences printed in Belenli & Birbudak 2021). The entry does not name Atatürk. Check: the
+  book entry itself does not name Atatürk; the quote is his spoken remark to Korutürk (Turkish of the press
+  report: 'these facts lie at the basis of my admiration for Atatürk and the Turkish State').
+node: Pope John Paul II at Anıtkabir, 28 November 1979
+sources:
+  - url: https://www.vatican.va/content/john-paul-ii/es/speeches/1979/november/documents/hf_jp-ii_spe_19791128_libro-oro-ataturk.html
+    archived: https://web.archive.org/web/20250827131745/https://www.vatican.va/content/john-paul-ii/es/speeches/1979/november/documents/hf_jp-ii_spe_19791128_libro-oro-ataturk.html
+  - url: https://www.gastearsivi.com/gazete/milliyet2/1979-11-30/10
+  - url: https://dergipark.org.tr/en/download/article-file/1692331
+    archived: https://web.archive.org/web/20240906013646/https://dergipark.org.tr/en/download/article-file/1692331
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    vatican.va ES libro-oro-ataturk page; Belenli & Birbudak 2021 (dergipark 1692331) p. 598 of Belgi 22;
+    Milliyet page not retrievable (gastearsivi Cloudflare block)
+  method: fetched vatican.va HTML and DergiPark PDF text
+  note: >-
+    The guestbook entry is real ('El gobierno de los pueblos esta en las manos del Senor. El suscita en el
+    momento oportuno los jefes que les conviene, porque el amor a la libertad y el respeto del derecho hacen
+    grande a una nacion, pero es Dios quien garantiza el porvenir'), but it does not name Ataturk and says
+    nothing about him: it fails the strict gaze test, and the record's quote is Spanish with an ellipsis-free
+    truncation and an added accent. The Pope's real gaze is the spoken remark to President Korutürk reproduced
+    by Belenli & Birbudak 2021 (printed p. 598): 'Ataturk'e ve Turk Devleti'ne hayranligimin temelinde bu
+    gercekler yatmaktadir' (admiration grounded in the Turkish state's equal treatment of minorities), plus
+    'Anitkabir'de Turkiye'nin kurtaricisi ve demokratik cumhuriyetinin kurucusu onunde saygiyla egilen ilk
+    Papa'. That article cites Milliyet 29 Nov 1979 p. 12 ('Papa Ankara'da torenle karsilandi'), NOT 30 Nov p.
+    10 as recorded; reception at the Presidency was 28/29 Nov. FIX: replace the quote with the Turkish
+    sentence (translation, secondary: artifact visit/speech, evidence J, mediated_by the article <- Milliyet
+    29 Nov 1979 p. 12, original Italian/French not seen); keep the guestbook entry only as caveat. As written:
+    not a valid quote for a gaze.
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (rounds 26–28)
+  checked_on: "2026-11-05"

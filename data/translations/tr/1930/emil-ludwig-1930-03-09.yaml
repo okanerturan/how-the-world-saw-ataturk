@@ -1,0 +1,42 @@
+# Turkish for data/voices/1930/emil-ludwig-1930-03-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: emil-ludwig-1930-03-09
+voice: Emil Ludwig
+role: Alman biyografi yazarı, dönemin diktatörleriyle söyleşi yapan yazar
+quote: >-
+  Yanında Napolyon'un yarı hayalperest gibi göründüğü bir adam, milliyetçi, diğer bütün halklara karşı
+  güvensiz, tek bir fikre tutulmuş, aynı anda hem onun hizmetkârı hem de efendisi olan Gazi, sayılarla ifade
+  edilemeyen bütün güdüleri hor görür
+quote_kind: translated
+summary: >-
+  Yanında Napolyon'un yarı hayalperest gibi göründüğü soğuk bir akılcı; içtenlikle demokrat olmak ister, 'ama
+  yine de diktatördür'.
+caveat: >-
+  [çeviri] 'Yanında Napolyon'un yarı hayalperest gibi göründüğü bir adam, milliyetçi, diğer bütün halklara
+  karşı güvensiz, tek bir fikre tutulmuş, aynı anda hem onun hizmetkârı hem de efendisi olan Gazi, sayılarla
+  ifade edilemeyen bütün güdüleri hor görür.' 'Besuch bei Mustafa Kemal', Neue Freie Presse (Viyana), 9 Mart
+  1930, s. 2 ve 4 (4 Kasım 2026'da ANNO'nun otomatik denetimini geçen görünür pencereli bir tarayıcı
+  aracılığıyla s. 2'nin ANNO sayfa görüntüsünden okundu). Aynı sayfa, 'Der Diktator als Vollstrecker des
+  Volkswillens' bölümü: 'Ja, Kemal hat zum Demokraten das Streben und die Ueberzeugung, es zu sein. … Und doch
+  ist er Diktator.' Ayrıca: 'der Gasi ist der Mann ohne Phantasie, das stilisiert er, darauf ist er stolz'
+  (1991 yeniden basımı üzerinden, Für die Weimarer Republik und Europa, s. 181–187). Ludwig'in 1942 tarihli
+  portresindeki 'a touch of the poet' taşıyan 'blue, dreamy gaze' tasviriyle karşılaştırınız.
+verification_note: >-
+  Alıntı parçacıkta birebir mevcut ('der Gasi ist der Mann ohne Phantasie, das stilisiert er, darauf ist er
+  stolz'); içindekiler satırı 'Besuch bei Mustafa Kemal — Die neue Türkei, Neue Freie Presse, 9. März 1930'
+  bilgisini veriyor. Yalnızca parçacık: çevreleyen bağlam okunmadı; NFP orijinali açılmadı. GÜNCELLEME
+  2026-11-04 (ana ajan): NFP orijinali ANNO sayfa görüntüsünden (s. 2) okundu; alıntı Napolyon cümlesiyle
+  değiştirildi, kanıt P, kutupluluk tanık → çelişkili olarak güncellendi.
+verification_method: >-
+  archive.org tam metin arama parçacıkları (fts page_production uç noktası), 3 Kasım 2026'da ana ajan
+  tarafından sorgulandı; bağımsız bir denetleyici değil
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8351430af6cd
+  role: 67d5bdca5d5d
+  quote: a723baf0cde0
+  summary: 08d2292eae49
+  caveat: 164ebaddc510
+  verification_note: b2577adfc397
+  verification_method: 32a97361e33a

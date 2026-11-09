@@ -1,0 +1,29 @@
+# Turkish for data/voices/1924/educated-malays-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: educated-malays-1924
+voice: Eğitimli Malaylar
+role: Malay aydın kesimi
+quote: eğitimli Malayların Türk milliyetçiliğine karşı olumsuz bir tutum almasına yol açtı
+quote_kind: translated
+summary: >-
+  İlgadan sonra, İslam hukukuna aykırı görerek Türk milliyetçiliğine karşı olumsuz bir tutum aldı; yine de
+  bazı unsurlarına olumlu karşılık verdi.
+caveat: >-
+  İkincil kaynak üzerinden ikincil aktarım; iddia ders kitabına aittir. metin kontrol edilmedi (kaynağa 29
+  Ekim 2026'da ulaşılamadı)
+mediated_by: Al-Shajarah ders kitabı makalesi
+verification_note: >-
+  Alıntı, 1924 tarihli bir Malay kaynağı değil, Malay tepkisinin 1989-2022 ders kitabı-makale özetidir; odak
+  ismen Atatürk'te değil, Türk milliyetçiliği/hilafetin kaldırılması üzerindedir. Tam metne ulaşılamadı.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a048ab19cae4
+  role: a7bc169df4a4
+  quote: b70f73c84a76
+  summary: ca055a112170
+  caveat: 8446bfbe0b24
+  mediated_by: 70347ffeb2bb
+  verification_note: d9b5c5da630e
+  verification_method: ad8cee67138e

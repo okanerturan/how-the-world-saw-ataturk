@@ -1,0 +1,50 @@
+# Turkish for data/voices/1940/harington-1940.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: harington-1940
+voice: Charles Harington
+role: >-
+  Britanyalı general, 1920-23'te İstanbul'daki İtilaf kuvvetleri komutanı; anı kitabı Tim Harington Looks Back
+quote: >-
+  Bu durum, onları Sakarya Nehri'nde kesin bir biçimde durduran gerçek bir asker olan Mustafa Kemal'in
+  yüreğini sevindirmiş olmalıdır.
+quote_kind: translated
+summary: >-
+  Kemal'i, Yunanları Sakarya'da durduran ve Afyon'da 'fırsatını gören' 'gerçek bir asker' olarak nitelendirir;
+  İtilaf silah depolarının onun ordusunu beslediğini söyler.
+caveat: >-
+  Tim Harington Looks Back (John Murray, 1940), s. 108 (sayfa alt bilgileri; Afyon satırı s. 110'dadır); açık
+  DLI taraması in.ernet.dli.2015.176573. s. 110: 'With the Greeks weakened by their detachment in Eastern
+  Thrace, Mustapha Kemal saw his chance and seized it. He struck a bit of the line near Afium Karahissar'.
+  Kitabın başka bir yerinde Çanakkale komutanı, İtilaf Devletleri'nin 1918'den sonra depoladığı silahların
+  Türklere bırakıldığını ve bunların 'formed the nucleus of the army which Mustapha Kemal built up' işlevi
+  gördüğünü, ayrıca Kemal'in 'sent some very difficult men to Constantinople' hamlesini yaptığını söyler.
+  Mudanya Anlaşması'ndan sonra Kemal ve İsmet'in mektuplarını yayımlar (yak. s. 150). Hayranlıktan ziyade
+  ikircikli: Çanakkale komutanının yakınmasıyla karışık mesleki saygı. Çanakkale konusunda tarafsız üslup.
+  'difficult men … lessening the authority of the Allied Forces' cümlesi s. 224'tedir.
+verification_note: >-
+  Alıntı birebir aynı: 'This must have rejoiced the heart of Mustapha Kemal, a real soldier, who held them up
+  quite definitely on the River Sakaria.' SAYFA DÜZELTMESİ: folyolar sayfa altındadır, dolayısıyla burası 107
+  değil, s. 108'dir (dizin Kemal'i 108, 110'da listeler); 'saw his chance and seized it. He struck a bit of
+  the line near Afium Karahissar' ise 109 değil, s. 110'dur. 'late President ... whose gallantry in the
+  Gallipoli Campaign will ever be remembered' ifadesi de s. 108'dedir. 'Mustapha Kemal then sent some very
+  difficult men to Constantinople ... with the idea of gaining power and lessening the authority of the Allied
+  Forces of Occupation' ile silahların 'formed the nucleus of the army which Mustapha Kemal built up' olduğu
+  ifadeleri s. 224'tedir (dizinde listelenmemiştir). Harington, Kemal ile hiç karşılaşmadığını söyler.
+  KUTUPLULUK: 'conflicted' savunulabilir (hayranlık duyan bir askerin yargısına ek olarak yakınma ve
+  'collecting arms ... some quite wrongly' ifadesi), ancak kayıtlı alıntı ve what_they_saw yalnızca hayranlık
+  kutbunu taşımaktadır; ya uyarı notuna/nota ikinci kutup olarak s. 224'teki 'difficult men' cümlesini ekleyin
+  ya da hayranlık belirten, yoğunluk 1-2 olarak yeniden etiketleyin. Ölüm sonrası dönem doğrudur (1940,
+  kendisinden 'the late President' diye söz eder).
+verification_method: >-
+  açık djvu metninin ve djvu.xml dosyasının curl ile çekilmesi; sayfa numaraları sayfa altı folyolarıdır
+  (yaprak 121 '110' ile biter); kitap dizini kontrol edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7de5a017071c
+  role: 788dfa0b4a39
+  quote: d9bd0688d606
+  summary: 63573d8a82d7
+  caveat: c579c7ae09b3
+  verification_note: 4dfe3fe5c24f
+  verification_method: f503236d36ce

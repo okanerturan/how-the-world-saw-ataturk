@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-matin-1920-02-13
+voice: Le Matin
+voice_type: press
+role: Paris mass-circulation daily
+country: France
+country_now: France
+domain: press
+date: "1920-02-13"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Tied Kemal to the wartime Young Turk chiefs Enver and Talaat while Marash was being evacuated.
+quote:
+  text: i'hornme des Enver îocha et des ïalaat
+  language: fr
+caveat: >-
+  View 3. The OCR does not show whether the closing 'il dicte ses volontés à tous les gouvernements' is Kemal
+  or an associate; the Enver-Talaat label attaches to Kemal either way. Gallica ContentSearch fragment, OCR
+  copied as given; view number is Gallica's, not necessarily the printed page.
+node: Paris Press and the Cilicia War, February 1920
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k5731487
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica ContentSearch ark bpt6k5731487, PAG_3 fragment
+  method: >-
+    ms fetch ContentSearch (OAI metadata bot_blocked, so paper and date not independently confirmed)
+  note: >-
+    Fragment 'Mustapha Kemal, i'hornme des Enver îocha et des ïalaat, il dicte ses vülontés à eus les
+    gouvernements' matches the quote verbatim (OCR). Issue date not independently verified.
+  checked_on: "2026-10-30"

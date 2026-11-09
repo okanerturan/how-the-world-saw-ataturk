@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-sentinella-bridgeport-1934
+voice: La Sentinella (Bridgeport)
+voice_type: press
+role: Italian-language weekly, Bridgeport, Connecticut
+country: United States
+country_now: United States
+domain: press
+date: "1934-09-13"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: editorial
+evidence: P
+summary: >-
+  On a Stamford 'strong mayor' charter: hopes for results like those of Mussolini, Stalin, Kemal, Piłsudski
+  and other 'reformist dictators'.
+quote:
+  text: risultati come quelli di Mussolini, Stalin, Kemal, Piluski e di altri dittatori riformisti
+  language: it
+caveat: >-
+  Local-politics argument; Kemal used as one example of a reformist dictator; OCR 'Piluski', 'Tesperimento' in
+  the sentence's opening.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn84020351/1934-09-13/ed-1/?sp=4
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn84020351 1934-09-13 ed-1 seq 4 OCR
+  method: loc.gov JSON + tile.loc.gov full_text
+  note: Verbatim incl. OCR 'Piluski'; Stamford 'Strong Mayor' context confirmed.
+  checked_on: "2026-10-30"

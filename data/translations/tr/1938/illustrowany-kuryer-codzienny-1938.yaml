@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/illustrowany-kuryer-codzienny-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: illustrowany-kuryer-codzienny-1938
+voice: Illustrowany Kuryer Codzienny
+role: Günlük Polonya gazetesi (tahminen)
+quote: >-
+  Atatürk, Türkiye'yi silah gücüyle kurtardı ve Washington'ın Amerika Birleşik Devletleri'ni yarattığı gibi
+  yeni Türkiye'yi yarattı; eseri büyük uluslararası meselelerde bile etkisini göstermiştir
+quote_kind: translated
+summary: >-
+  Türkiye'yi silahla kurtardığını ve Washington'ın Amerika Birleşik Devletleri'ni yarattığı gibi yeni
+  Türkiye'yi yarattığını söyledi.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir; tespit notun kendisine aittir ve 'presumably' olarak işaretlenmiştir.
+mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6671c1696d85
+  role: c04b0118726f
+  quote: 562fb2863b2c
+  summary: cfdcb76fc194
+  caveat: 6b72326fd98c
+  mediated_by: aa5a462e96c0
+  verification_method: 939bb46a04c3

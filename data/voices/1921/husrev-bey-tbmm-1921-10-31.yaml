@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: husrev-bey-tbmm-1921-10-31
+voice: Hüsrev Bey (Trabzon)
+voice_type: person
+role: Trabzon deputy, army-minded member of the Defence Committee
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-10-31"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Called Mustafa Kemal a celebrated and tested great commander whose person had produced the present
+  situation, and backed extending the law unchanged.
+quote:
+  text: >-
+    Bir kere Mustafa Kemal Paşa’nın, bu şahsiyeti mübeccelenin büyük ve aynı zamanda mücerrep ve büyük bir
+    kumandan olması bu vaziyeti doğurmuştur.
+  language: tr
+caveat: >-
+  Printed p. 476. Speaks 'as a soldier' (his phrase) and warns that the military position is no better than in
+  August.
+node: TBMM Closed Session of 31 October 1921 — Renewing the Commander-in-Chief
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+    archived: https://web.archive.org/web/20250915054819/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Gizli Celse Zabıtları, 102nd içtima, 31 Teşrinievvel 1337, Hüsrev Bey (Trabzon); between feet 475 and
+    476
+  method: pdftotext on bitstream PDF
+  note: >-
+    Verbatim, printed p.476. He also says 'as a soldier' and that the position is no better, and backs
+    extending the law aynen. Note he adds 'iyidir, fenadır münakaşa etmiyorum emrivakidir', so 'admiring' is a
+    mild reading.
+  checked_on: "2026-10-30"

@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: genaro-estrada-1933
+voice: Genaro Estrada
+voice_type: person
+role: Mexican poet-diplomat
+country: Mexico
+country_now: Mexico
+domain: diplomacy
+date: "1933-10-17"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: visit
+evidence: S
+summary: Presented credentials to Atatürk, the two speaking French; no view recorded.
+mediated_by: Orgaz Martinez 2021 (prologue by Martinez Assad)
+caveat: >-
+  Date (17 Oct 1933) and the French conversation are from Orgaz Martinez 2021 via the inep.org review page;
+  they are not in the Temel 2017 article, which the checker read in full.
+node: Mexico Sends Its Greetings to Ankara, 1927–1935
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/453769
+  - url: https://dergipark.org.tr/tr/pub/sobbiad/article/413104
+    archived: https://web.archive.org/web/20261028235723/https://dergipark.org.tr/tr/pub/sobbiad/article/413104
+  - url: https://inep.org/?catid=44&id=3686:2021-calles-y-atatuerk-revolucion-en-mexico-y-turquia-andres-orgaz-martinez&view=article
+    archived: https://web.archive.org/web/20261029010147/https://inep.org/?catid=44&id=3686:2021-calles-y-atatuerk-revolucion-en-mexico-y-turquia-andres-orgaz-martinez&view=article
+verification:
+  verdict: not-found
+  checked_against: >-
+    dergipark article-file/453769 and sobbiad/413104 (Temel 2017, Türkiye-Meksika İlişkileri) full text: no
+    mention of Estrada, 17 Oct 1933 or French; es.wikipedia says only "En 1933 fue nombrado embajador en
+    Turquía"
+  method: fetch
+  note: Date 1933-10-17 credentials and French conversation unsupported by cited sources.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

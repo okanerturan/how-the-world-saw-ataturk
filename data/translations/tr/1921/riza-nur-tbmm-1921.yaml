@@ -1,0 +1,28 @@
+# Turkish for data/voices/1921/riza-nur-tbmm-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: riza-nur-tbmm-1921
+voice: Rıza Nur
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Sinop milletvekili
+quote: Bence manası düşünülürse biz adeta bir Padişah intihap ediyoruz.
+quote_kind: original-turkish
+summary: >-
+  Gizli celsede yasama yetkilerinin Başkumandan'a devredilmesinin adeta bir padişah seçmek anlamına geldiğini
+  söyledi; bununla birlikte savaş zamanı askeri yetkilerinin Kemal'e verilmesini kabul etti.
+caveat: >-
+  Kaynak: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 2, 62. birleşim, 1. celse,
+  5 Ağustos 1337 (1921), s. 205. 'Paşa'nın' teklifinden, yani Başkumandanlık kanun teklifinden söz eder;
+  askeri yetkileri kabul eder, yasama yetkisine dokunulmasına itiraz eder.
+verification_note: >-
+  Bağlamda iddia edildiği gibi olağanüstü askeri yetkileri kabul ettiği kısım da (Evet, bu hususta salâhiyeti
+  fevkalâde verilsin) yer almaktadır.
+verification_method: pdftotext grep; birebir aynı; sayfa altbilgisi kontrolü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: eaee1832b3bb
+  role: 529b43541ca6
+  quote: 3af65a1534b0
+  summary: 2d4c0d1cd2fe
+  caveat: 3bfa2fd7d2ce
+  verification_note: 3537dd3776e8
+  verification_method: 712390cd7c60

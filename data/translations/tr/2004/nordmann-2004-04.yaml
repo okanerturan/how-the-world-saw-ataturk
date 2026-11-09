@@ -1,0 +1,32 @@
+# Turkish for data/voices/2004/nordmann-2004-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nordmann-2004-04
+voice: Jean-Thomas Nordmann
+role: Avrupa Parlamentosu Üyesi (ELDR, Fransa)
+quote: >-
+  Raporunuzun 32. paragrafı bana göre, Kemal Atatürk'ün mirasının belki de en değerli parçası olan laikliğe
+  biraz önyargılı bir bakış açısından hareket ediyor gibi görünüyor.
+quote_kind: translated
+summary: >-
+  Raportöre karşı Türk laikliğini savunarak, onu Kemal Atatürk'ün mirasının belki de en değerli parçası ve
+  Birliğin geleceği için bir reçete olarak nitelendiriyor.
+caveat: >-
+  Oostlander raporu üzerine yapılan kısa bir konuşmadan tek bir cümle. Tutanakta yalnızca 'Nordmann (ELDR)'
+  yazılıdır; ön adı standart kayıttan alınmıştır (M-kademesi).
+verification_note: >-
+  AP'nin birebir İngilizce metni (Fransızcadan simültane çeviri). Jean-Thomas ön adı doğrulandı: 5. dönemdeki
+  Nordmann soyadlı tek AP üyesi (Fransa, UDF-Radical, ELDR, 3 Temmuz 2002 – 19 Temmuz 2004, Dışişleri
+  Komitesi). ALAN DÜZELTMESİ: country ve country_now 'European Union' değil, 'France' olmalıdır. Odak testi
+  ucu ucuna geçiyor (Kemal Atatürk'ün mirasına açık övgü var, ancak esas olarak laikliğin savunusudur).
+verification_method: >-
+  tools/ms render; ön adı ve uyruğu AP üye sayfası ve Wikidata üzerinden arama yapılarak kontrol edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ef46cff17498
+  role: 087aa3e035a3
+  quote: 1850dd374f9f
+  summary: 193332077f5a
+  caveat: 2968c6cf03db
+  verification_note: f7bb197823ee
+  verification_method: 06574c99bb1c

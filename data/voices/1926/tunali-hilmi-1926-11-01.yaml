@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tunali-hilmi-1926-11-01
+voice: Tunalı Hilmi (Bolu)
+voice_type: person
+role: Bolu deputy (1921–23), Zonguldak deputy (1923–27)
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1926-11-01"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Interrupted the Gazi's opening speech with 'Long live the Republic' and 'Long live the Gazi'.
+quote:
+  text: Yaşasın Cumhuriyet... Yaşa Gazi...
+  language: tr
+caveat: >-
+  Floor interjections printed in the minutes; the quote joins two separate utterances at different points in
+  the speech (p. 2 and p. 5). OCR gives 'Cumıhuriyet'. Printed as 'Tunalı Hilmi Bey (Zonguldak)'; the voice
+  string follows the earlier records.
+node: The Assembly Congratulates the Gazi after the İzmir Plot, 1 and 3 November 1926
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c027/tbmm02027001.pdf
+    archived: https://web.archive.org/web/20260216114413/https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c027/tbmm02027001.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Zabıt Ceridesi PDF, Dönem 2, cilt 27, 1 Kasım 1926, printed pp. 2 and 5
+  method: pdftotext; verbatim after de-hyphenation and OCR normalisation
+  note: Two separate floor interjections (pp. 2 and 5) joined in one quote; OCR 'Cumıhuriyet'.
+  checked_on: "2026-10-31"

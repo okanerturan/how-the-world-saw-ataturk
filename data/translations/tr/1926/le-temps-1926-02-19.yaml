@@ -1,0 +1,28 @@
+# Turkish for data/voices/1926/le-temps-1926-02-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-temps-1926-02-19
+voice: Le Temps
+role: Paris yarı resmi günlük gazetesi
+quote: Bu oylama, medeni statü ile dini geleneklerin ayrılığını tescil etmektedir
+quote_kind: translated
+summary: >-
+  Türk meclisinin İsviçre Medeni Kanunu'nu oybirliğiyle kabul ettiğini bildirdi ve bu oylamanın medeni
+  statünün dini gelenekten ayrılışını tescil ettiğini belirtti.
+caveat: >-
+  Parça düzeyinde, sayfa 6; parçada Kemal'in adı geçmiyor, bakış reformun üzerinde. Yorumu gazeteye ya da
+  telgrafa ait olabilecek ajans tarzı haber; kontrol sonrasında tanıklık yeniden kodlandı: Kemal'in adı
+  geçmiyor, yorum nötr
+verification_note: >-
+  Alıntı birebir aynı; Kemal'in adı geçmiyor ve 'admiring' kutupluluğu nötr bir telgraf yorumundan
+  çıkarımlanmış.
+verification_method: kaynak getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d5ca4c141833
+  role: e6898d5c7551
+  quote: "462863969367"
+  summary: fc7146498ace
+  caveat: 9f64031a48a7
+  verification_note: 9a6751b40c32
+  verification_method: ad8cee67138e

@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tunali-hilmi-tbmm-1921-09-19
+voice: Tunalı Hilmi (Bolu)
+voice_type: person
+role: Bolu deputy, First Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-09-19"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Greeted Kemal after his thanks for the Gazi title by reciting a verse, 'You made a ghaza that pleased the
+  Prophet'.
+quote:
+  text: Bir gaza ettin ki hoşnudeyledin peygamberi.
+  language: tr
+caveat: >-
+  Printed p. 264. 'hoşnudeyledin' is printed as one word (probably hoşnûd eyledin). He introduces it as a
+  saying 'spoken in the past' and now applied under the roof. Intensity 1: a single line.
+node: Gazi and Marshal — The Assembly's Vote of 19 September 1921
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012079.pdf
+    archived: https://web.archive.org/web/20240917105714/https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012079.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM d01 c012 tbmm01012079.pdf, p.264, 19 Sept 1921
+  method: pdftotext column crop
+  note: >-
+    Quote verbatim ('hoşnudeyledin' one word as printed), directly follows Kemal's thanks; p.264.
+  checked_on: "2026-10-30"

@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: clare-sheridan-1925
+voice: Clare Sheridan
+voice_type: person
+role: >-
+  British sculptor and writer; A Turkish Kaleidoscope, written at the end of a stay in Turkey in 1925
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1925"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Says the Turks owe their existence as a nation to the Ghazi, but reports terror and an arbitrary tribunal,
+  and repeats a drinking slur.
+quote:
+  text: >-
+    Nor had he anything with which to reproach her, except that she hampered his orgies of drunkenness
+  language: en
+caveat: >-
+  Clare Sheridan, A Turkish Kaleidoscope (London: Duckworth, 1926), chapter 'Civilisation Revealed', p. 215,
+  about Mustafa Kemal's divorce of Latife Hanım (January 1925; Sheridan's text says the divorce had 'just'
+  happened). Same chapter, p. 214: 'The Turkish people are easily led; and they owe to their Ghazi the fact of
+  their existence to-day as a nation.' and 'Terror reigns, and the Tribunal of Independence is as arbitrary as
+  the Cheka.' The chapter reproduces the hat speech of Inebolu (24 Aug 1925) from the French edition of
+  Cumhuriyet of 29 Aug 1925 and calls its reasoning ('we will, if necessary, sacrifice human lives') one that
+  'no one is able to explain'. The date is that of the chapter, written on the eve of her departure; the book
+  appeared in 1926. The 'orgies of drunkenness' line is her unsourced gossip, kept as a record of the Western
+  tabloid view and not as fact. Also p. 133: 'During the life of Mustapha Kemal Pasha, yes' (Ankara will stay
+  the capital).
+node: Western Women Commentators on Atatürk, 1922–1936 — Sheridan, Mills, Woodsmall
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.175300
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org in.ernet.dli.2015.175300 (A Turkish Kaleidoscope, Duckworth 1926), djvu text
+  method: fresh archive.org djvu full text download (banked round17 file not used)
+  note: >-
+    Quote verbatim on p.215 (running text 'Nor had he anything with which to reproach her, except that she
+    hampered his orgies of drunkenness'); 'owe to their Ghazi the fact of their existence to-day as a nation'
+    and 'Terror reigns, and the Tribunal of Independence is as arbitrary as the Cheka' are on p.214. Chapter
+    'Civilisation Revealed' as cited. The drinking line is her unsourced gossip (record already says so).
+    Conflicted/2 fair. p.133 'During the life of Mustapha Kemal Pasha' not re-found in OCR (not needed for the
+    record).
+  checked_on: "2026-11-03"

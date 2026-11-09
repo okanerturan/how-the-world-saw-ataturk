@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-gaceta-tampa-1932-05
+voice: La Gaceta (Tampa)
+voice_type: press
+role: Spanish-language daily, Tampa, Florida (cigar-worker readership)
+country: United States
+country_now: United States
+domain: press
+date: "1932-05-28"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Column on Turkey's friendly ties with both Mussolini and Soviet Russia: Kemal a hard-handed Dictator who
+  befriends all and rules Turks as he sees fit.
+quote:
+  text: Dictador de mano dura
+  language: es
+caveat: >-
+  Unsigned. Same issue's p. 4 carries a British Gallipoli-history item calling Kemal a noble adversary (not a
+  voice of the paper).
+node: Tampa's La Gaceta Calls Kemal a Dictator, 1930–1935
+sources:
+  - url: https://www.loc.gov/resource/sn86002403/1932-05-28/ed-1/?sp=1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn86002403 1932-05-28 ed-1 seq 1 OCR
+  method: loc.gov JSON + tile.loc.gov full_text
+  note: >-
+    'Dictador de mano dura y caballero inteligente, Mustafa Kemal Pasha...' in a column on Turkey's ties with
+    Mussolini's Italy and Soviet Russia; 'Mussolini y Kemal son dos Dictadores'. Quote is a line-broken phrase
+    in the OCR.
+  checked_on: "2026-10-30"

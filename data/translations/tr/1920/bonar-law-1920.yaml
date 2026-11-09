@@ -1,0 +1,21 @@
+# Turkish for data/voices/1920/bonar-law-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bonar-law-1920
+voice: Andrew Bonar Law
+role: Özel Mühür Lordu ve Avam Kamarası Lideri
+quote: >-
+  Mustafa Kemal gibi biri İstanbul'dan gelen talimatları tamamen göz ardı edebilir ve katliamlar meydana
+  gelebilir
+quote_kind: translated
+summary: >-
+  Türk hükümetini İstanbul'da tutmaya yönelik bir argüman olarak, Kemal'i İstanbul'a başkaldırabilecek ve
+  katliamların olmasına izin verebilecek türden bir adam olarak andı.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: dfff56a007e3
+  role: 50dfaf531f18
+  quote: 0ef384d36db6
+  summary: 604ff834069c
+  verification_method: a033a528b603

@@ -1,0 +1,36 @@
+# Turkish for data/voices/1931/litvinov-1931-10-29.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: litvinov-1931-10-29
+voice: Maxim Litvinov
+role: Sovyet Dışişleri Halk Komiseri, Ankara'daki Cumhuriyet Bayramı konuğu
+quote: Kemal Paşa'yla, daha da fazla İsmet Paşa'yla uzun görüşmeler yaptım.
+quote_kind: original-turkish
+summary: >-
+  Moskova'ya Kemal ile uzun görüşmeler yaptığını bildirdi; Kemal kendisini Mançurya konusunda sıkıştırmış,
+  Japonya'nın SSCB'ye yöneleceğinden endişe etmiş ve Türkiye'nin Balkan politikasını açıklamıştı.
+caveat: >-
+  Rusça bir telgrafın Türkçe çevirisi. Çeviri: 'I had long talks with Kemal Pasha, and even more with İsmet
+  Pasha.' Türkiye'nin Sovyet dostluğuna değer verdiği yargısına varmıştır. Vakit (31 Ekim 1931), Kemal'in
+  baloda kendisiyle sabaha kadar Fransızca konuştuğunu eklemektedir.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri c. 25 s. 267–268 dn. ← M. Perinçek, Atatürk'ün Sovyetler'le Görüşmeleri (2007) s.
+  411–412 ← Litvinov'un NKID'ye telgrafı, 29 Ekim 1931 (Dokumenty vneshnei politiki SSSR c. 14 s. 622 vd.)
+verification_note: >-
+  Alıntı s. 267–268'e yayılan dipnotta birebir yer almaktadır. Mançurya, Japonya'nın SSCB'ye yöneleceği
+  korkusu ve Balkan bilgilendirmesi ile 'Türkiye bizimle dostluğa oldukça önem veriyor' ifadesinin tamamı
+  telgrafta mevcuttur. Vakit, baloyu ve sabaha kadar Fransızca yapılan sohbeti eklemektedir. Litvinov hükümet
+  başkanı değil dışişleri komiseridir, ancak dünyaca ünlüdür ve bu, özlü bir görüşmeye dair kendi birinci
+  elden raporudur (ayrıca silahsızlanma konusunda Kemal ve İsmet'in 'çok telaşlandılar' olduğunu kaydeder).
+  Kayıt geçer. Tanıklık (witness) sınıflandırması doğrudur.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 338d24d06dc4
+  role: 770ec72aa7d6
+  quote: 11aa1e0cc1b1
+  summary: 40520766d03c
+  caveat: f76207b1dc83
+  mediated_by: 30baad1b3f08
+  verification_note: a3114a9011b7
+  verification_method: b152e9063489

@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lantos-2005-09
+voice: Tom Lantos
+voice_type: person
+role: >-
+  U.S. Representative from California (Democrat), ranking member of the House International Relations Committee
+country: United States
+country_now: United States
+domain: politics
+date: "2005-09-27"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Says he urged Musharraf to follow 'the great modernizer' Atatürk, and that Atatürk would admire Musharraf's
+  path.
+quote:
+  text: >-
+    I urged him to follow the example of the great modernizer Mustafa Kemal Ataturk, the founder of the
+    modern, secular Republic of Turkey, a nation with which President Musharraf is intimately familiar. He
+    has, in fact, blazed a trail that I believe Ataturk himself would admire.
+  language: en
+caveat: >-
+  Lantos's own introduction to Musharraf's speech to the American Jewish Congress; Atatürk is the standard he
+  held up to a Muslim head of state, which makes the praise partly diplomatic. Party, committee role and state
+  are from the standard record, not from the passage. Cited as Extensions of Remarks, 27 September 2005,
+  'Speech of Pakistani President Pervez Musharraf...', Congressional Record vol. 151, p. E1958 (granule
+  CREC-2005-09-27-pt1-PgE1958).
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/CREC-2005-09-27/html/CREC-2005-09-27-pt1-PgE1958.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    GovInfo Congressional Record daily-edition HTML CREC-2005-09-27-pt1-PgE1958.htm, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads
+  note: >-
+    Quote verbatim (spliced across two sentences with 'When we met in Washington three years ago,' elided
+    before 'I urged him'), Extensions of Remarks, Tuesday 27 September 2005, Mr. LANTOS, p. E1958 (E1959
+    marker comes later). Instrumental/1 fair.
+  checked_on: "2026-11-03"

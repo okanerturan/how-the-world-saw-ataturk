@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/universul-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: universul-1938
+voice: Universul
+role: Bükreş günlük gazetesi
+quote: zamanın en büyük adamlarından biri
+quote_kind: translated
+summary: >-
+  Onu Romanya'nın sadık bir dostu olarak nitelendirdi; eski bir Osmanlı bakanına ait ikinci bir yazı ise onu
+  Balkan Antantı'nın kurucularından biri olarak andı.
+caveat: Rumence asılları görülmedi; Toksoy'un Türkçesinden çevrildi.
+mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
+verification_note: >-
+  Alıntı Toksoy'un Türkçesinden çevrilmiştir; gazete Toksoy'da 'Universal' olarak geçmektedir, Universul ile
+  özdeşleştirme nota aittir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b5bea80dba9a
+  role: f208d42b916b
+  quote: 5c10352ed23b
+  summary: bafe05e0c03f
+  caveat: b97d8599df31
+  mediated_by: 374a97c5054a
+  verification_note: 38545913216a
+  verification_method: 939bb46a04c3

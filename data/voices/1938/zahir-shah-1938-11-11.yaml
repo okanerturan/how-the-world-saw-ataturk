@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zahir-shah-1938-11-11
+voice: Mohammed Zahir Shah
+voice_type: person
+role: >-
+  King of Afghanistan; telegram to Abdülhalik Renda, President of the Grand National Assembly
+country: Afghanistan
+country_now: Afghanistan
+domain: diplomacy
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: >-
+  Beyond the condolence formula: Atatürk's distinguished services to the noble Turkish nation will never be
+  forgotten, and his foundations of progress endure.
+quote:
+  text: >-
+    the distinguished services which he rendered to the noble Turkish nation will, God willing, never be
+    forgotten by young and old of that brotherly nation
+  is_translation: true
+  language: en
+caveat: >-
+  Persian typed in Latin letters, Kabul 11/11/38 16:30 via radio, received Ankara; TBMM condolence volume II
+  (handle 11543/2467), PDF p. 39 (stamped 36). Telegraphic transliteration as typed (words run together):
+  'khedamatebarguzida hamelatenajibe turkiakardast inshallahaz nazarekhord wabuzurgeanmelate beradarfaramosh
+  nashudaniast' (= khedamat-e barguzida … ba millat-e najib-e Turkia karda ast, inshallah az nazar-e khord wa
+  buzurg-e an millat-e baradar faramush-nashudani ast). Also: 'mutainetaraqi wataali' (solid foundations of
+  progress and elevation) left by the late Atatürk, and 'we count the grief of our Turkish brothers as our
+  own'. Signed 'mohdzahidshah padshahe afghanistan'. Read from the page image by the main agent (3 Nov 2026);
+  the transliteration is uncertain in places, the quoted clause is clear.
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM condolence vol. II (11543/2467), PDF p. 39, page image
+  method: >-
+    page rendered with PDFKit and read by the main agent (Persian in Latin transliteration); not an
+    independent checker
+  note: >-
+    Clause on his services 'faramosh nashudani ast' clear; other words of the transliteration uncertain.
+  checked_on: "2026-11-03"

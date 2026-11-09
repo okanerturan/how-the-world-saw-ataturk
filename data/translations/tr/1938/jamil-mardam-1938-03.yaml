@@ -1,0 +1,37 @@
+# Turkish for data/voices/1938/jamil-mardam-1938-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jamil-mardam-1938-03
+voice: Jamil Mardam Bey
+role: Suriye Başbakanı
+quote: Kahraman Atatürk yalnızca Türklerin değildir; o aynı zamanda Doğu'nun da babasıdır.
+quote_kind: translated
+summary: >-
+  Bir Cumhuriyet muhabirine, Atatürk'ün yalnızca Türklerin kahramanı değil, tüm Doğu uluslarının izinden
+  gittiği Doğu'nun babası olduğunu söyledi.
+caveat: >-
+  İskenderun meselesi üzerinden Mardam'ı vatana ihanetle suçlamak amacıyla hasmane bir kaynak (Saadeh'nin
+  parti yayın organı) tarafından aktarılmıştır; Türkçe aslı görülmemiştir. Çeviri bu taramaya aittir. Kontrol:
+  Tarih, an-Nahar'ın çeviri tarihidir; mülakat 12 Mart 1938'de veya daha önce yapılmıştır.
+mediated_by: >-
+  al-Zawba'a no. 48 (imzasız SSNP makalesi, Saadeh'nin Complete Works c. 6 içinde) ← an-Nahar ← Cumhuriyet
+  söyleşisi
+verification_note: >-
+  Arapça metin birebir aynı: 'إنّ البطل أتاتورك ليس للترك فحسب بل هو أبو الشرق أيضاً'; Doğu Paktı ile Arap
+  Birliği üzerine 'محمد خليل باشاران مراسل جريدة جمهوريت' sorusuna verilen yanıt olup '(الترجمة لجريدة النهار
+  البيروتية في عددها الصادر في 12 مارس/أذار 1938)' notunu taşımaktadır. Konuşmacı doğrudur (Başbakan sıfatıyla
+  Mardam). Aktarım zinciri ilk halkası dışında dürüsttür: makale imzasızdır ve Saadeh'nin Complete Works
+  külliyatında basılmıştır; dolayısıyla 'Saadeh' ifadesi 'al-Zawba'a (unsigned SSNP article, in Saadeh's
+  Complete Works vol. 6)' olarak düzeltilmelidir. Cumhuriyet ve an-Nahar görülmemiştir. Tarih çeviriye aittir;
+  mülakat 12 Mart 1938'de veya daha önce gerçekleşmiştir.
+verification_method: web sayfası çekimi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f7eb8cf9d0ad
+  role: fc311d0349f9
+  quote: 81245c17d9c0
+  summary: e8ae734daf8b
+  caveat: 11e8a2faee83
+  mediated_by: 72ec78ca4219
+  verification_note: c14aa461a4b7
+  verification_method: ad8cee67138e

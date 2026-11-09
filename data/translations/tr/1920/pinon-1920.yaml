@@ -1,0 +1,33 @@
+# Turkish for data/voices/1920/pinon-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pinon-1920
+voice: René Pinon
+role: Fransız tarihçi ve Revue des Deux Mondes dış politika yazarı
+quote: Mustafa Kemal, Enverlerin, Talatların ve Cemallerin devamcısı ve suç ortağıdır.
+quote_kind: translated
+summary: >-
+  Kemal'i Enver, Talat ve Cemal'in devamcısı ve suç ortağı, üç merkezli bir komploda 'hükümetin gerçek başı'
+  olarak ele alır.
+caveat: >-
+  Pinon, 'L'Offensive de l'Asie', Revue des Deux Mondes, 6. dönem, c. 56 (1920), s. 799–815 olarak kaynak
+  gösterilmiştir; alıntı s. 808'dedir ('masque d'un insurgé' satırı s. 813'te). Wikisource transkripsiyonu;
+  yazı cilt üzerinden tarihlendirilmiştir (Mart–Nisan 1920, dolayısıyla 1920), tam sayı basılı değildir.
+  Ankara Meclisinin zaferlerinden önce yazılmıştır; Pinon'un okuması, 1920 İtilaf basınının olgu olarak
+  sunduğu 'kılık değiştirmiş İttihatçılar' tezidir.
+verification_note: >-
+  Alıntı birebir aynı. what_they_saw biraz abartıyor: Pinon komplonun üç merkezi (Moskova, İstanbul, Berlin)
+  olduğunu ve 'sous le masque d'un insurgé, Mustapha Kemal est le véritable chef du gouvernement'
+  (İstanbul'daki Jön Türk hükümeti) olduğunu söylüyor, Kemal'in bütün komplonun başında olduğunu değil. Öneri:
+  'Moskova-İstanbul-Berlin komplosunun arkasındaki Jön Türk hükümetinin gerçek başı'. Tarih yalnızca 1920
+  (sayı basılı değil).
+verification_method: işlenmiş sayfa çekildi, dizge eşleştirildi, bağlam okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 17205622a6ad
+  role: ec6982b754ab
+  quote: 305b863f551a
+  summary: 6b67762f8c52
+  caveat: 27d0aa19a3a9
+  verification_note: 7056130f98b9
+  verification_method: a5d07852e96e

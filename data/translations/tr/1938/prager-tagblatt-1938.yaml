@@ -1,0 +1,21 @@
+# Turkish for data/voices/1938/prager-tagblatt-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: prager-tagblatt-1938
+voice: Prager Tagblatt
+role: Almanca yayımlanan Prag günlük gazetesi
+summary: >-
+  Onun liderliğinde bütünüyle yenilenmiş bir Türkiye'nin dünya siyasetinde önemli bir rol oynayacağını söyledi.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir; tespiti 'presumably' kaydıyladır; yabancı dildeki asılları
+  görülmemiştir.
+mediated_by: Toksoy 2006 ← Cumhuriyet 14 ve 16 Kasım 1938, Ulus 15 Kasım, Ayın Tarihi Kasım 1938
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 24a40e4acf37
+  role: 6f86db4cefb4
+  summary: 023434d25cf4
+  caveat: 01e06cd8e0c3
+  mediated_by: a785c4953be0
+  verification_method: 939bb46a04c3

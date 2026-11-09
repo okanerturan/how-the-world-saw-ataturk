@@ -1,0 +1,27 @@
+# Turkish for data/voices/1926/la-opinion-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-opinion-1926
+voice: La Opinión
+role: İspanyolca günlük gazete, Los Angeles (Meksikalı sürgün okur kitlesi)
+quote: Mukavvadan Napolyonlar
+quote_kind: translated
+summary: >-
+  'Mukavvadan Napolyonlar' başlıklı köşe yazısı: Harem iştahıyla Ankara meclisine çok eşliliği önererek
+  Devrim'e ihanet eden bir Diktatör olarak Kemal.
+caveat: >-
+  İmzasız. İddia edilen çok eşlilik önerisi gazetenin haberidir ve burada doğrulanmamıştır; olgu olarak değil,
+  dönemin bir söylentisi olarak değerlendirilmelidir.
+verification_note: ""
+verification_method: >-
+  'Los Napoleones de Papel Carton' başlığı mevcut; köşe yazısında Kemal'in Ankara meclisine çok eşliliği
+  önerdiği, 'suspirar por las orgias, el serrallo' denildiği belirtiliyor; hasmane kutupluluk uygun
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: aa204ec9f170
+  role: c99ff950fdf4
+  quote: 9c0b8cb66c2b
+  summary: 3d2595d1b6e7
+  caveat: f7328072f6b9
+  verification_note: da39a3ee5e6b
+  verification_method: 0165a6af7ec2

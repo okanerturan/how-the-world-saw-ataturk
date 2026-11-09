@@ -1,0 +1,26 @@
+# Turkish for data/voices/1935/la-gaceta-tampa-1935-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-gaceta-tampa-1935-11
+voice: La Gaceta (Tampa)
+role: İspanyolca günlük gazete, Tampa, Florida (puro işçisi okur kitlesi)
+quote: Türk diktatör adaları istiyor
+quote_kind: translated
+summary: >-
+  Etiyopya krizi üzerine: 'Türk diktatör' İtalya'ya karşı Britanya'ya yardım teklif ediyor ve On İki Ada'yı
+  istiyor; Kemal'in 'fazla nüfusu' konusunda alaycı.
+caveat: >-
+  Ada adının OCR metni bozuk ('Ad Dodecaneso'); yalnızca temiz cümlecik alıntılandı. İmzasız.
+verification_note: >-
+  Tam eşleşme (satır sonu birleştirildi): 'El dictador turco pide las islas Ad Dodecaneso'; Türkiye Akdeniz'de
+  Britanya'ya yardım teklif ediyor; 'exceso de poblacion' alayı mevcut.
+verification_method: loc.gov JSON + karo OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1af7128c59ed
+  role: ec3228434984
+  quote: d660c26ffd10
+  summary: e0b116e3d456
+  caveat: 561c4ec37e7c
+  verification_note: ff3ef9f58f89
+  verification_method: 363638f20035

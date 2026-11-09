@@ -1,0 +1,36 @@
+# Turkish for data/voices/1935/trotsky-1935-06-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: trotsky-1935-06-10
+voice: Leon Trotsky
+role: Sürgündeki Bolşevik lider; 1929–33 yıllarında Ankara'nın izniyle Büyükada'da yaşadı
+quote: >-
+  Türkiye'de, Büyükada'da, Mustafa Kemal Paşa'nın polisinin gözetimi altında yaşadığım zamankinden daha fazla
+  dış dünyadan koparılmıştım.
+quote_kind: translated
+summary: >-
+  Fransa'daki alıkonuluşunun Mustafa Kemal Paşa'nın polisi altındaki Büyükada günlerinden daha sert olduğunu
+  söyleyerek Türkiye'nin daha yumuşak tutumunu dolaylı olarak teslim eder.
+caveat: >-
+  Kemal hakkında değil, Fransız muamelesi hakkında açık bir mektup; görüş bildiren tek ifade bu
+  karşılaştırmadır. Ayrıca okundu: 12 Şubat 1929'da Trotsky, Büyükdere'deki Türk polisine 'the President of
+  the Turkish Republic, Kemal Pasha' hitaplı bir not vererek buraya 'not of my own choice' geldiğini ve sınırı
+  yalnızca 'by submitting to force' geçtiğini belirtmiştir (My Life, 44. bölüm). Ayrı olarak kaydedilmedi:
+  Sovyet sürgününü protesto etmektedir ve Kemal hakkında bir görüş bildirmez. Bu turda bizzat Kemalizm üzerine
+  herhangi bir Trotsky metnine ulaşılamadı.
+verification_note: >-
+  Kelimesi kelimesine: 'Thus, during my last year’s sojourn in France I was cut off from the outside world
+  more than when I lived on the island of Prinkipo, in Turkey, under the surveillance of the police of Kemal
+  Pasha.' 'Written: 10 June 1935' tarihi eşleşiyor. what_they_saw ('Türkiye'nin daha yumuşak tutumunu dolaylı
+  olarak teslim eder') bir çıkarımdır, ancak çekince notu bunu zaten görüş bildiren tek ifade olarak
+  işaretliyor. Çekince notunda değinilen My Life 44. bölüm satırı yeniden kontrol edilmedi. Düzeltme gerekmez.
+verification_method: marxists.org sayfasının tools/ms ile ücretsiz çekimi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e6333302e5d4
+  role: b63697109558
+  quote: ade943c4c327
+  summary: 5dda7b11e962
+  caveat: 25326c878cf1
+  verification_note: 483e4a4ef9a8
+  verification_method: 1501e9d3568f

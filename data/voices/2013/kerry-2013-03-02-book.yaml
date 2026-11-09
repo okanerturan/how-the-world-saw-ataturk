@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kerry-2013-03-02-book
+voice: John Kerry
+voice_type: person
+role: US Secretary of State; entry in the Anıtkabir special book
+country: United States
+country_now: United States
+domain: diplomacy
+date: "2013-03-02"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: quote
+evidence: J
+summary: >-
+  Pays deep respect to Atatürk as a soldier and statesman who pioneered education and independence.
+quote:
+  text: >-
+    Eğitim ve bağımsızlığın öncüsü bir asker ve devlet adamı olan Mustafa Kemal Atatürk'e derin saygılarımla.
+    Türk halkına ve bu büyük lidere, Amerikan halkının bir temsilcisi olarak saygılarımı sunmaktan onur ve
+    gurur duyuyorum.
+  is_translation: true
+  language: tr
+mediated_by: Hürriyet (AA), Akşam and Cumhuriyet, 2 Mar 2013 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of an entry written in English. Hürriyet (2 Mar 2013, credited AA), Akşam and Cumhuriyet
+  print the same Turkish text; all three are probably the same AA wire. Kerry flew out of Ankara after the
+  visit.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.hurriyet.com.tr/gundem/anitkabir-ozel-defterine-ne-yazdi-22723059
+  - url: https://www.aksam.com.tr/siyaset/kerry-anitkabir-ozel-defterine-ne-yazdi/haber-173622
+    archived: https://web.archive.org/web/20250716091216/https://www.aksam.com.tr/siyaset/kerry-anitkabir-ozel-defterine-ne-yazdi/haber-173622
+  - url: https://www.cumhuriyet.com.tr/haber/kerry-anitkabiri-ziyaret-etti-406944
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hürriyet (AA) 2 Mar 2013 11:45; Akşam (DHA tag) 2 Mar 2013; Cumhuriyet 2 Mar 2013
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used
+  note: >-
+    Turkish quote verbatim in all three, attributed to the Özel Defter, date 2 Mar 2013 correct. Hürriyet
+    credits AA, Akşam credits DHA, yet the Turkish is word-for-word identical, so one underlying translation
+    (likely embassy/pool text); count as one source. No original English found. Same template phrasing as
+    Tillerson 2017 and Caine 2026 ('Amerikan halkının bir temsilcisi olarak ... onur ve gurur duyuyorum');
+    admiring/2 is generous for a formula, 1 defensible.
+  checked_on: "2026-11-03"

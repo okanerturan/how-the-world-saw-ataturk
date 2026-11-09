@@ -1,0 +1,36 @@
+# Turkish for data/voices/1947/radhakrishnan-1947-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: radhakrishnan-1947-01
+voice: S. Radhakrishnan
+role: Filozof; Kurucu Meclis üyesi (Birleşik Eyaletler), daha sonra Hindistan Cumhurbaşkanı
+quote: >-
+  Allenby'nin Mısır'daki kurtarıcı seferleri, Lawrence'ın Arabistan'daki serüvenleri, Mustafa Kemal Paşa'nın
+  meydan okurcasına laik bir Türkiye yaratması, din devletleri günlerinin sona erdiğine işaret etmektedir.
+quote_kind: translated
+summary: >-
+  Bölünmeye karşı çıkarken, Mustafa Kemal Paşa'nın 'meydan okurcasına laik bir Türkiye yaratmasını' din
+  devletleri günlerinin sona erdiğinin kanıtı olarak anar.
+caveat: >-
+  Constituent Assembly of India Debates, c. II, 20 Ocak 1947 (Objectives Resolution), s. 272. Lok Sabha
+  Secretariat / Government of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR
+  üzerinden. Konuşmacı kendisinden önceki en yakın konuşmacı satırından ('Sir S. Radhakrishnan (United
+  Provinces: General)') tespit edilmiştir; pasajdan önce 272 sayfa üstbilgisi yer alır. Metin resmi tutanağın
+  OCR çıktısından okunmuştur; bariz OCR hataları alıntıda sessizce düzeltilmiştir.
+verification_note: >-
+  Alıntı birebir aynı (kıvrık kesme işareti). Konuşmacı, tarih, sayfa ve dönem doğrulandı; OCR düzeltmesine
+  gerek yok. Bakış tek yan cümlelik bir örnek, yoğunluk 1; kutupluluk olarak admiring savunulabilir,
+  instrumental da tartışılabilir. Kapak sayfasının 20-25 Ocak 1947 cildini 'Volume I' olarak listelediğine
+  dikkat edilmeli (basım hatası); kitap içinde kayıtta olduğu gibi Vol. II olarak etiketlenmiştir.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden indirildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa üstbilgileri ve konuşma okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9cbe9867dbb1
+  role: d548e8b476ea
+  quote: fe2f7859ca35
+  summary: 1a9a89209d53
+  caveat: 42b413dd7ce5
+  verification_note: 034c02046210
+  verification_method: 634050edd257

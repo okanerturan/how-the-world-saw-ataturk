@@ -1,0 +1,27 @@
+# Turkish for data/voices/1921/husrev-bey-tbmm-1921-08-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: husrev-bey-tbmm-1921-08-08
+voice: Hüsrev Bey (Trabzon)
+role: Savunma Encümeni adına rapor sunan Trabzon milletvekili
+quote: >-
+  Başkumandanlığın Paşa Hazretlerine tevcihi üzerine bu propagandaların yavaş yavaş kökü sarsılmakta olduğu
+  anlaşılmıştır.
+quote_kind: original-turkish
+summary: >-
+  Meclis'in Mustafa Kemal'i Başkumandan yapmasından bu yana, artık kimsenin ona güvenmediğini iddia eden
+  Avrupa propagandasının sarsılmakta olduğunu bildirdi.
+caveat: >-
+  Bilgilendirme yapan encümen mazbata muharriri (raportörü); görüş, onun tarafından dile getirilen encümen
+  raporudur. Basılı metin s. 214 (8 Ağustos 1921 tarihli 3. celse, 63. in-ikat).
+verification_note: Birebir aynı; askeri durum hakkındaki raporunda yer alıyor; bağlam uyuşuyor.
+verification_method: bitstream PDF üzerinde pdftotext; sayfa altındaki '– 214 –' alıntıyı izliyor
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 19b3d06e9adf
+  role: e159212a40b8
+  quote: f0dbc571f199
+  summary: 032502f62415
+  caveat: b99310dc12ce
+  verification_note: 8653dbd23d82
+  verification_method: 5ff0f8f3095e

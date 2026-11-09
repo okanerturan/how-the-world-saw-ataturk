@@ -1,0 +1,37 @@
+# Turkish for data/voices/1956/saylor-1956-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: saylor-1956-05
+voice: John P. Saylor
+role: ABD Pennsylvania Temsilciler Meclisi Üyesi (kömür bölgesi)
+quote: >-
+  O, gençliğinde siyasi görüşlerinin işbaşındaki hükümet liderleri için kabul edilebilir olmadığını öğrenmiş
+  ateşli bir vatanseverdi; nitekim bir dönem, görüşlerini açıkça dile getirdiği için Şam'a sürgün edilmişti.
+quote_kind: translated
+summary: >-
+  Mustafa Kemal'i kömür eyaleti Kongre üyeleri için bir model olarak sunar: görüşleri yüzünden sürgün edilen
+  ve daha sonra Atatürk ve Cumhurbaşkanı olan 'ateşli bir vatansever'.
+caveat: >-
+  Extensions of Remarks bölümünde basılan, American Mining Congress'te (Cincinnati) yaptığı bir konuşmadan;
+  kömür endüstrisinin lobiciliği için bir benzetme ('we took somewhat the same course of action that Mustafa
+  Kemal followed'), dolayısıyla Atatürk konuşmacının savı için bir araç konumunda. İki sütunlu OCR; alıntı iç
+  içe geçmiş satırlardan yeniden oluşturuldu. Kaynak gösterimi: Extensions of Remarks, 7 Mayıs 1956,
+  Congressional Record c. 102 (ciltli), s. ~7669 (granül CRECB-1956-pt6-6-3). Sayfa 7679; American Mining
+  Congress'te yaptığı ve tutanağa kendisi tarafından eklenen kendi konuşması.
+verification_note: >-
+  Alıntı birebir aynı, Temsilciler Meclisi Extensions of Remarks, 7 Mayıs 1956 Pazartesi. Kendi sözleridir:
+  'Mr. SAYLOR ... I include the following address which I gave this morning before the American Mining
+  Congress at Cincinnati'. Ayrıca 'as the famous Ataturk, he became President' der. DÜZELTME: pasaj 's.
+  ~7669'da değil, s. 7679'dadır. Araçsal/2 yerinde.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizleme uygulandı, alıntının normalleştirilmiş eşleştirmesi
+  yapıldı; konuşmacı, tarih ve sayfa Record'un kendi başlıklarından ve üst bilgilerinden okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 32c2a0bdb818
+  role: f6207ad67959
+  quote: cdd5f3c10a90
+  summary: 3984cc54d4e7
+  caveat: c4e9f1a8b63f
+  verification_note: 8bc5a40bf8bd
+  verification_method: 5594abd6cdd0

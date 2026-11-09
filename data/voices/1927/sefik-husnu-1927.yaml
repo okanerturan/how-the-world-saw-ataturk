@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sefik-husnu-1927
+voice: Şefik Hüsnü ('Bekar Ferdi')
+voice_type: person
+role: Founder of the Communist Party of Turkey
+country: Turkey (in Soviet exile)
+country_now: Turkey
+domain: politics
+date: "1927"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Said the Kemalists brought the national bourgeoisie to power by forced measures and trusted the West toward
+  a capitalist path; hoped repression would radicalise workers.
+quote:
+  text: capitalist path
+  language: en
+mediated_by: Ter-Matevosyan via blog extracts <- Comintern press 1927
+caveat: Pseudonym 'Bekar Ferdi' per Ter-Matevosyan; relayed through blog extracts.
+node: The Comintern's Verdict on Kemal, 1922–1928
+sources:
+  - url: https://democracyandclasstruggle.blogspot.com/2015/12/kemalism-and-communism-1920-30s-prelude.html
+    archived: https://web.archive.org/web/20260426205124/https://democracyandclasstruggle.blogspot.com/2015/12/kemalism-and-communism-1920-30s-prelude.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://democracyandclasstruggle.blogspot.com/2015/12/kemalism-and-communism-1920-30s-prelude.html
+  method: fetch
+  note: >-
+    'capitalist path' appears in quotation marks; blog relays Ter-Matevosyan, pseudonym Bekar Ferdi as stated.
+  checked_on: "2026-10-29"

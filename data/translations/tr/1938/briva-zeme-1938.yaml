@@ -1,0 +1,29 @@
+# Turkish for data/voices/1938/briva-zeme-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: briva-zeme-1938
+voice: Brīvā Zeme
+role: Letonya yarı resmî günlük gazetesi (Ulmanis hükûmetinin yayın organı)
+quote: >-
+  Atatürk, çağımızın devlet adamlarının en büyüğü ve modern liderlik ilkesinin en dikkate değer temsilcisiydi.
+quote_kind: translated
+summary: >-
+  'Yüzyılları Aşan Adam'a tam sayfalar ayırdı: çağımızın en büyük devlet adamı, liderlik ilkesinin timsali,
+  evrimden ziyade bir sıçrama.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir; yabancı dildeki asılları görülmemiştir; Türk basın özetlerince
+  özetlenmiştir. Gazetenin yarı resmî statüsü ve alıntılar Toksoy'un/Türk basınının aktarımıdır.
+mediated_by: >-
+  Toksoy 2006 ← Akşam ve Kurun 16 Kasım, Ulus 15 Kasım, Cumhuriyet 15–16 Kasım, Tan 16 Kasım 1938, Ayın Tarihi
+verification_note: Letoncadan Türkçe çeviri; yarı resmî statüsü Toksoy tarafından belirtilmiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4a505cd3dccd
+  role: a3c33f9f1ef9
+  quote: 1c4fa2aa14ae
+  summary: 191049bd27ef
+  caveat: 6187d5dc36c7
+  mediated_by: 64e36ae2f40c
+  verification_note: e903c3e59db5
+  verification_method: 939bb46a04c3

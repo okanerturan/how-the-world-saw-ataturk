@@ -1,0 +1,25 @@
+# Turkish for data/voices/1934/la-gaceta-tampa-1934-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-gaceta-tampa-1934-12
+voice: La Gaceta (Tampa)
+role: İspanyolca günlük gazete, Tampa, Florida (puro işçisi okur kitlesi)
+quote: Mustafa Kemal Paşa'nın önlemi Kuzey Amerika âdetlerinden esinlenmektedir.
+quote_kind: translated
+summary: >-
+  Tüm inançlara uygulanan, din adamlarının sokak kıyafeti yasağı üzerine köşe yazısı: Kemal'in önlemi Amerikan
+  âdetini izliyor; 'Türkiye ilerliyor', Müslüman rahipler 'ehlileştirildi'.
+caveat: İmzasız köşe yazısı maddesi; tonu hafifçe onaylayıcı ve ironik ('amansados').
+verification_note: >-
+  Alıntı birebir aynı; 'Turquía progresa', 'amansados' mevcut; önlem Hristiyanlara, Müslümanlara,
+  Protestanlara, İbranilere uygulanmış.
+verification_method: loc.gov JSON -> tile.loc.gov full_text OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1af7128c59ed
+  role: ec3228434984
+  quote: 7c75655dfcf8
+  summary: 2fbd6a251381
+  caveat: 0e89fcfcbf7e
+  verification_note: 8cf57db7edcc
+  verification_method: 3285e0490d8a

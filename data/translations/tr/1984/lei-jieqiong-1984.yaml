@@ -1,0 +1,37 @@
+# Turkish for data/voices/1984/lei-jieqiong-1984.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lei-jieqiong-1984
+voice: Lei Jieqiong
+role: Çin Ulusal Halk Kongresi Daimi Komitesi Üyesi
+quote: >-
+  Türk kadınına siyasî haklar tanınmasında silinmez katkılar yapan Yüce Atatürk’e derin saygılar duyuyor
+quote_kind: original-turkish
+summary: >-
+  Türk kadınlarına oy hakkı tanınmasını Atatürk'ün girişimine bağlar ve ona derin saygı duyduğunu söyler.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 50 (basılı s. 39). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe basılmıştır. Çeviri: "[Biz] Türk kadınlarına siyasi hakların tanınmasına silinmez katkılarda
+  bulunan Yüce Atatürk'e derin saygı duyuyoruz." Konuşma, Türk kadınlarına oy hakkı tanınmasının (1934) 50.
+  yıl dönümü dolayısıyla yapılmıştır. Başlık: 'Çin Halk Cumhuriyeti Ulusal Halk Kongresi Sürekli Komite Üyesi
+  Lei Jieqiong', 5 Aralık 1984.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Çin Halk Cumhuriyeti Ulusal Halk
+  Kongresi Sürekli Komite Üyesi Lei Jieqiong, 34. Birleşim, 5 Aralık 1984'). Başlık ve alıntı aynı sayfadadır.
+  Özet ifade ('Atatürk'ün girişimi'), 'büyük millî kahraman Kemal Atatürk'ün teşebbüsü ve desteği ile'
+  ifadesiyle örtüşmektedir. Konuşma, kadınlara oy hakkı tanınmasının 50. yıl dönümü vesilesiyle yapılmıştır.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracıyla PNG'ye dönüştürülerek (check_png/c50.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı, görsel üzerinde ve kendi bağımsız metin katmanı çıkarımıyla
+  kelime kelime karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c941babc388b
+  role: 37ee68807bbd
+  quote: 9e3c6a99c6b0
+  summary: ca451db2e3b8
+  caveat: 861414d7d88d
+  mediated_by: 8e2cc528453b
+  verification_note: 17eabc4e205d
+  verification_method: 0433a8861210

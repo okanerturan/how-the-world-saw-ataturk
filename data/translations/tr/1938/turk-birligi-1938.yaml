@@ -1,0 +1,25 @@
+# Turkish for data/voices/1938/turk-birligi-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: turk-birligi-1938
+voice: Türk Birliği
+role: Romanya Türk azınlığı gazetesi
+quote: Türklük var oldukça sen ölmeyeceksin, Atatürk
+quote_kind: translated
+summary: Ardından yas tutan şiirler ve ağıtlar yayımladı (6 Aralık 1938 sayısı).
+caveat: >-
+  Rumence özgün metinler görülmedi; Toksoy'un Türkçesinden çevrildi. Toksoy ayrıca Romanya Türk toplumunun onu
+  kendi lideri olarak gördüğünü belirtir (1939 maddesi), ancak bunu özellikle bu gazete için söylemez.
+mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
+verification_note: "\"The minority treated him as its own leader\" ifadesi Toksoy'da yok; Türkçeden çevrildi."
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 644beb21dd73
+  role: 85ec4a685473
+  quote: 798c68ad244a
+  summary: 972ae7fdb5ed
+  caveat: e91ca1339081
+  mediated_by: 374a97c5054a
+  verification_note: 1d7cfa651946
+  verification_method: 939bb46a04c3

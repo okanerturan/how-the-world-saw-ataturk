@@ -1,0 +1,41 @@
+# Turkish for data/voices/2014/gohmert-2014-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: gohmert-2014-01
+voice: Louie Gohmert
+role: Teksas'tan ABD Temsilciler Meclisi Üyesi (Cumhuriyetçi)
+quote: >-
+  bu, Atatürk'ün nice on yıllar önce Türkiye'de mücadele ettiği ve üstesinden gelebildiği bir şeydir. Ve
+  Türkiye'de radikal İslam'ın üstesinden gelip onu alt edebildiği için Türkiye, geçtiğimiz on yıllar boyunca
+  her türlü alanda ön saflara yükselmiştir.
+quote_kind: translated
+summary: >-
+  Mısır anayasası üzerine konuşurken, Atatürk'ün Türkiye'de radikal İslam'ı mağlup ettiğini ve Türkiye'nin bu
+  sayede yükseldiğini savunuyor.
+caveat: >-
+  Mısır referandumu hakkındaki özel gündem konuşmasında genel kurulda yapılan bir ara değinme; Atatürk,
+  Gohmert'in Müslüman Kardeşler ve Mısır anayasası hakkındaki argümanına kanıt olarak kullanılmaktadır. 7
+  Ocak'ta (s. H9) Atatürk'ün 'overran radical Islam' yaptığını ve Türkiye'nin 'bloomed' olduğunu söyler. Şöyle
+  kaynak gösterilmiştir: House of Representatives, 15 Ocak 2014, 'Conflict in the Middle East', Congressional
+  Record c. 160, s. H468 (granül CREC-2014-01-15-pt1-PgH468); aynı tema 7 Ocak 2014 tarihli genel kurul
+  konuşmasında da yer alır (s. H9). Pasaj s. H469'dadır.
+verification_note: >-
+  Alıntı birebir, House, 15 Ocak 2014 Çarşamba, Mr. GOHMERT ('Conflict in the Middle East' başlığı altında 30
+  dakika söz verilmiş). DÜZELTME: pasaj [[Page H469]] işaretinden sonra yer alıyor, dolayısıyla s. H469 olarak
+  kaynak gösterilmeli (H468 yalnızca granül başlangıcıdır). 7 Ocak 2014 tarihli ifade ('overran radical Islam
+  and Turkey bloomed') CREC-2014-01-07 içinde mevcuttur (granül PgH9). 'Radical Islam' Gohmert'in kendi
+  ifadesidir ve kayıt bunu onun çerçevelemesi olarak korur; aynı konuşmada 'this great leader Ataturk' de
+  dediği için hayranlık sınıflandırması desteklenmektedir.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizliği yapıldı, alıntının normalleştirilmiş eşleşmesi
+  doğrulandı; konuşmacı, tarih ve sayfa bilgileri Record'un kendi başlıklarından ve sayfa üstbilgilerinden
+  okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 781296ea74cb
+  role: 155de6b2a85b
+  quote: 45fa987e10a9
+  summary: 51bf82fac5e7
+  caveat: abbe6b774903
+  verification_note: 29733dba7bfb
+  verification_method: 5594abd6cdd0

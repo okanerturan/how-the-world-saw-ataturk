@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bombay-muslim-traders-1938
+voice: Bombay Muslim shopkeepers
+voice_type: collective
+role: Muslim businesses of Bombay
+country: British India
+country_now: India
+domain: religion
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: ceremony
+evidence: P
+summary: Muslim shops and warehouses in Bombay closed as a tribute on the day of the news.
+quote:
+  text: Muslim shops and warehouses closed as a tribute to Kamal Ataturk
+  language: en
+mediated_by: Cable of 11 Nov 1938 via NZ Press Association, printed in Evening Post 12 Nov 1938
+caveat: Wire copy; the closure is reported, no motive stated beyond 'tribute'
+node: India in the Wires and the Malayan Press, November 1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/EP19381112.2.47.2
+    archived: https://web.archive.org/web/20261029000916/https://paperspast.natlib.govt.nz/newspapers/EP19381112.2.47.2
+  - url: https://paperspast.natlib.govt.nz/newspapers/CHP19381114.2.69
+    archived: https://web.archive.org/web/20261029001108/https://paperspast.natlib.govt.nz/newspapers/CHP19381114.2.69
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://paperspast.natlib.govt.nz/newspapers/EP19381112.2.47.2
+  method: fetch
+  checked_on: "2026-10-29"

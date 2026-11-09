@@ -1,0 +1,31 @@
+# Turkish for data/voices/1937/nzhdeh-1937.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nzhdeh-1937
+voice: Garegin Nzhdeh
+role: Ermeni askeri komutan (Zengezur 1921), siyasi düşünür, Bulgaristan'da sürgün
+quote: Türkiye'yi Bolşevizm kurtardı, şanslı Kemal değil.
+quote_kind: translated
+summary: >-
+  Türkiye'yi Kemal'in değil Bolşeviklerin kurtardığını savunur; Türk-Sovyet ittifakının 'bozkurt'un galip
+  gelmesini sağladığını söyler ve ona 'şanslı' der.
+caveat: >-
+  'Իմ պատասխանը' ('Yanıtım'), alt başlığı 'Türk-Bolşevik belgeleri ışığında Ermenistan'ın trajedisi';
+  Wikisource üstbilgisi ve dipnotu eserin 1937'de Sofya'da basıldığını belirtir. Hassas konu (Ermeni soykırımı
+  hafızası, Zengezur/Sovyet politikası): Nzhdeh'in kendi polemiği. Deneme ayrıca Zinoviev'den ('Sovyet
+  hükümeti Kemal'e yardım ediyor') ve Lenin-Kemal ittifakının Sovyet tanıklarından alıntı yapar. Çeviri arşive
+  aittir. Tarama incelenmedi.
+verification_note: >-
+  Ermenice metin birebir aynı: 'Բոլշեւի՚զմը փրկեց Թուրքիան եւ ո՛չ թէ բախտահաս Քեմալը.' Samsun'a çıkış ve
+  Türk-Sovyet ittifakı hakkındaki 'գորշ գայլ' (bozkurt) pasajı mevcut. Çeviri sadık. Yıl yalnızca Wikisource
+  üstbilgisinden.
+verification_method: ham sayfa çekildi, dizge eşleştirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6c06b65bd663
+  role: 2928ed513974
+  quote: 962aec7149d9
+  summary: 49409090757c
+  caveat: 4bc409e9b46e
+  verification_note: 5765770549b8
+  verification_method: 9bf4016ec18f

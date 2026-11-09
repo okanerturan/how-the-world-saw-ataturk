@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-nation-belge-1938
+voice: La Nation belge
+voice_type: press
+role: Belgian daily
+country: Belgium
+country_now: Belgium
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: article
+evidence: S
+summary: Called him a great statesman who saved his nation in every respect.
+mediated_by: Toksoy 2006 ← Akşam 12 Nov 1938 p. 2 / Ayın Tarihi Nov 1938
+caveat: Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen.
+node: Brussels Stands, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt §Belçika: Nation Belge "milletini her bakımdan
+    kurtaran çok büyük bir devlet adamı"
+  method: local
+  checked_on: "2026-10-29"

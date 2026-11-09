@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: herriot-1934
+voice: Édouard Herriot
+voice_type: person
+role: French Radical leader, former Prime Minister and mayor of Lyon
+country: France
+country_now: France
+domain: politics
+date: "1934"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: secular-rationalist-prophet
+artifact: speech
+evidence: S
+summary: >-
+  After a 1933 visit, calls Kemal a remarkable statesman who believes in science and reason, a disciple
+  perhaps unconscious of Comte and Descartes.
+quote:
+  text: >-
+    Le Ghazi croit à la science, à la raison. Je vous l'ai dit : je me le représente comme un disciple,
+    inconscient peut-être, d'Auguste Comte et de Descartes.
+  translation: >-
+    The Ghazi believes in science, in reason. I told you: I picture him as a disciple, unconscious perhaps, of
+    Auguste Comte and of Descartes.
+  language: fr
+caveat: >-
+  Cited as Herriot, 'De la vieille à la nouvelle Turquie', La Turquie kémaliste no. 1 (1934), pp. 15–28, quote
+  on p. 27 (a lecture to an audience, 'Mesdames et Messieurs'). Published in the Turkish Press Directorate's
+  own French-language propaganda review, so the venue is Kemalist; the text is Herriot's lecture, signed.
+  Issue date not printed in the OCR (the review began in 1934), hence year-only. Herriot also calls him 'ce
+  remarquable homme d'État' (p. 27) and says he ruled 'non par des gestes de dictature'. OCR reads 'lai' for
+  'l'ai' (corrected in the quote). The no. 1 translation files are labelled HAZ1934 (June 1934).
+node: >-
+  French Pens on Kemal, 1920–1944 — Herriot, Pernot, Pinon, Delarue-Mardrus and Franklin-Bouillon
+sources:
+  - url: https://archive.org/download/la_turquie_kemaliste/La%20Turquie%20Kemaliste/1_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org la_turquie_kemaliste, La Turquie Kemaliste/1_djvu.txt (no. 1), Herriot 'De la vieille à la
+    nouvelle Turquie', page 27 footer follows
+  method: fetched djvu text, string match
+  note: >-
+    Verbatim ('lai' = OCR for 'l'ai'); 'ce remarquable homme d'État' and 'non par des gestes de dictature'
+    also present. Issue no. 1 prints no date; the archive's Turkish-translation files for no. 1 are labelled
+    'HAZ1934' (Haziran = June) and no. 2 'AGU1934', so the issue is most likely June 1934: date could be
+    refined to 1934-06 (publication; the lecture itself is earlier, after his autumn 1933 visit, date not
+    found). Year-only 1934 is safe.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (rounds 21–22)
+  checked_on: "2026-11-03"

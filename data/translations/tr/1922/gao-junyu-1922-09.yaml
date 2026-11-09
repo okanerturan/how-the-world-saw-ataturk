@@ -1,0 +1,29 @@
+# Turkish for data/voices/1922/gao-junyu-1922-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: gao-junyu-1922-09
+voice: 君宇 (takma ad, yaygın olarak Gao Junyu)
+role: Xiangdao'da yazar
+quote: >-
+  Herkes bilir ki Kemal'in böylesine bir başarı elde edebilmesi, yarı yarıya Sovyet Rusya'nın yardımı
+  sayesindedir
+quote_kind: translated
+summary: >-
+  Ankara zaferini Müslümanların Hristiyanlara karşı zaferi olarak değil, ezilen bir ulusun emperyalizmi
+  yenilgiye uğratması olarak okudu; Kemal'in başarısını yarı yarıya Sovyet yardımına borçlu olduğunu söyledi.
+caveat: >-
+  Takma ad aidiyeti M-kademesindedir; sayı 3, ay bilgisi haftalık yayının yayın akışından çıkarılmıştır (sayı
+  3 = 27 Eylül 1922).
+verification_note: >-
+  Birebir aynı. Metin ayrıca zaferin Müslümanların Hristiyanlara karşı zaferi olmadığını söylüyor. Ay bilgisi
+  çıkarımdır (sayfada ay yok); takma ad aidiyeti buradan doğrulanamıyor.
+verification_method: ms fetch üzerinden Wikisource action=parse
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4d88d10d7f26
+  role: d99c56e64725
+  quote: 48066fdc00fd
+  summary: 9fb6522a15d3
+  caveat: 1a1b27f09853
+  verification_note: 71dabc0e8fb6
+  verification_method: 4c2a76f7d40e

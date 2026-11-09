@@ -1,0 +1,30 @@
+# Turkish for data/voices/1919/kocgiri-leader-1919.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kocgiri-leader-1919
+voice: Koçgiri lideri (Alişan Bey)
+role: Koçgiri Kürt aşiret lideri, Koçgirili Mustafa Paşa'nın oğlu
+quote: Başkan Wilson'ın On Dört İlkesi'nde ilan edildiği üzere
+quote_kind: translated
+summary: >-
+  Mustafa Kemal'e Kürtlerin özerk Kürdistan için çalıştığını söyledi; Kemal, Wilson ilkelerinin Doğu halkları
+  için değersiz olduğu yanıtını verdi.
+caveat: >-
+  Okunan kesitte isim kısmen kesilmiş (Wikipedia Alişan Bey olarak veriyor); tarih yaklaşık olarak Erzurum
+  Kongresi sonrasına, Ağustos 1919'a denk geliyor. Metin kontrol edilmedi (29 Ekim 2026'da kaynağa
+  ulaşılamadı)
+mediated_by: Olson 1989 <- Dersimi, Kürdistan
+verification_note: >-
+  Yalnızca bibliyografik sayfaya ulaşıldı; Wilson/On Dört İlke diyaloğu, Alişan Bey atfı ve tarih kontrol
+  edilemiyor; Dersimi'nin özgün metni görülmedi
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 42d3808d3944
+  role: 9148e9db24da
+  quote: c51c144a4cd3
+  summary: f264afa87c80
+  caveat: 69abf718df74
+  mediated_by: 7b491312e1ef
+  verification_note: 592a86c18485
+  verification_method: ad8cee67138e

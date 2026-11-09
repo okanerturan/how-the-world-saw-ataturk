@@ -1,0 +1,28 @@
+# Turkish for data/voices/1927/al-fath-1927.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-fath-1927
+voice: Al-Fath
+role: Kahire Selefi haftalık dergisi (Muhibb al-Din al-Khatib)
+quote: Ankara'daki Kemalistler 'fikir özgürlüğü' iddialarında yalancıdırlar
+quote_kind: translated
+summary: >-
+  Kemal'in uzun konuşmasının ardından al-Siyasa'ya yanıt verirken: Ankara'daki Kemalistler yalan yere fikir
+  özgürlüğü iddiasında bulunuyor ve Mısır'a da vicdan işkencesi çektireceklerdir.
+caveat: >-
+  Konuşmanın Nutuk olarak tanımlanması not yazarının tespitidir. Alıntı, notta basılı olan Arapça özgün metnin
+  not yazarı tarafından yapılmış İngilizce çevirisidir.
+verification_note: >-
+  Arapça 'الكماليين في أنقرة كاذبون في دعوى الحرية الفكرية' ifadesi mevcut; al-Siyasa'ya yanıt veriyor,
+  vicdanlara yapılan işkenceden söz ediyor. 27 Ekim 1927 sayı tarihi künyeden yeniden okunmadı (bu sayfada
+  yok).
+verification_method: PDF indirildi, sayfa görüntüsü oluşturuldu ve Arapça metin okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7411ffc047d5
+  role: be8e56dfc3d1
+  quote: cf7ad6473eb4
+  summary: 844310db0a1d
+  caveat: 8859722864f6
+  verification_note: 236f3d2c4ffb
+  verification_method: 53856b150f76

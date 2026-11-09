@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/independenta-romana-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: independenta-romana-1938
+voice: Independența Română
+role: Rumen gazetesi
+quote: tarihte teşkilatçı bir deha, bir milletin lideri ve kurtarıcısı
+quote_kind: translated
+summary: Tarihte teşkilatçı bir deha, bir milletin lideri ve kurtarıcısı olarak kalacağını söyledi.
+caveat: Rumence asılları görülmemiştir; Toksoy'un Türkçesinden çevrilmiştir.
+mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
+verification_note: Türkçeden çevrilmiştir; aslına sadık
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5c248c9b8874
+  role: 0afc8d6e7c93
+  quote: eb233a5f864f
+  summary: 931a69880a5c
+  caveat: b97d8599df31
+  mediated_by: 374a97c5054a
+  verification_note: a6fd3b9a18a3
+  verification_method: 939bb46a04c3

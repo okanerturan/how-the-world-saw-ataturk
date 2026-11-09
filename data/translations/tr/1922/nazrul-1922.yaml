@@ -1,0 +1,46 @@
+# Turkish for data/voices/1922/nazrul-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nazrul-1922
+voice: Kazi Nazrul Islam
+role: Bengalli şair (daha sonra Bangladeş'in ulusal şairi)
+quote: Kemal, sen bir mucize yarattın kardeşim
+quote_kind: translated
+summary: >-
+  Kemal'i, bilenmiş kılıcıyla düşmanı Hades'e gönderen savaşçı olarak 'Kemal, bir mucize yarattın kardeşim'
+  nakaratıyla selamlar.
+caveat: >-
+  Bengal alfabesiyle yazılmış metne ulaşılamadı (bn.wikisource'ta Agni-Veena'nın 'Kamal Pasha' şiiri yer
+  almıyor); nakarat, hakemli BRIQ makalesinde (s. 74) Latin harfli transliterasyonla ve '(Kamal, you have
+  achieved unbelievable success, brother!)' çevirisiyle (makaleye ait ÇEVİRİ) aktarılmıştır. Agni-Veena
+  (Calcutta, Kartik 1329 = Ekim 1922; BRIQ'e göre 'as far as it is known' yaklaşık Ağustos-Eylül 1921'de
+  yazılmıştır) içindeki 'Kamal Pasha' şiiri. Tam İngilizce çevirisi ('Brother Kemal, the desperate son of a
+  frenzied mother ... Bravo to your sharpened sword ... Tell me now, who is there on earth not afraid of
+  Turkish sword?') bir forumda (defencehub, çevirmen belirtilmemiş) yer almaktadır; şiirin (Nurul Huda'nın
+  1997/1999 tarihli İngilizce çevirisinden yapılan) Türkçe çevirisi, Kemal Özcan Davaz, 'Atatürk, Bangladeş,
+  Kazi Nazrul İslam' (Atatürk Araştırma Merkezi, 2000, s. 79-97) atfıyla 'Dünya Şairlerinden Atatürk Şiirleri'
+  içinde basılmıştır. Şiirde Anwar Pasha'nın (Enver) adı da geçer, dolayısıyla saf Kemalist bir metin
+  değildir; BRIQ, Nazrul'u Kemal'i pan-İslamcı 'Ummah' bağlılığı içine dahil eden biri olarak okur. Şiirin
+  konusu Kemal olduğu için kapsama alınmıştır. Kontrol: nakarat, Agni-Veena'daki (Ekim 1922) 'Kamal Pasha'
+  şiirinin Bengalce metninde (bangla-kobita.com ve diğer transkripsiyonlar) askerlerin koro halinde söylediği
+  bölümdür; BRIQ bunu 1988 tarihli bir hatıradan almaktadır.
+verification_note: >-
+  Nakarat şiirin Bengalce metninde bulundu ('কামাল! তু নে কামাল কিয়া ভাই!'), dolayısıyla Agni-Veena'nın (Ekim
+  1922) altıncı şiiri olan 'Kamal Pasha'nın nakaratı GERÇEKTEN budur. Şiirde bu dize, yürüyüş halindeki
+  askerlerin söylediği korodur (bir havildar-major içeren sahne tarzı şiir) ve 'Bravo to your sword / sent the
+  enemy to Hades / who does not fear the Turkish sword' dizeleri orada mevcuttur. BRIQ s. 74 Latin harfli
+  nakaratı açıklamasıyla birlikte basar, ancak bunu şiirden değil 'Odud 1988' tarihli bir hatıradan alır;
+  '(Kamal, you have achieved unbelievable success, brother!)' ifadesi bir açımlamadır. Tarih: 1922, Agni-Veena
+  basım tarihidir; daha erken yayımlanmış olması (Moslem Bharat, BRIQ'e göre yazılışı Ağustos-Eylül 1921)
+  muhtemeldir ama kesinleştirilmemiştir; her iki durumda da 1921-22 dönemi çağdaştır. İhtirazi kayıttaki
+  'Bengali text not retrieved' ifadesi artık geçerliliğini yitirmiştir: Bengalce metne atıf yapılabilir.
+verification_method: Bengalce metinlere açık erişim + BRIQ PDF indirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e8b126a20e20
+  role: bc3155052b5c
+  quote: 32915ca7095e
+  summary: e0025746033a
+  caveat: 6297028458fe
+  verification_note: 72125b0e0e3d
+  verification_method: a8134c30b522

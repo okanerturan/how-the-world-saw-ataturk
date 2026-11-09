@@ -1,0 +1,30 @@
+# Turkish for data/voices/1923/mustafa-bey-karahisar-i-sarki-tbmm-1923-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mustafa-bey-karahisar-i-sarki-tbmm-1923-03
+voice: Mustafa Bey (Karahisar-ı Şarki)
+role: Karahisar-ı Şarki milletvekili, Birinci Türkiye Büyük Millet Meclisi (TBMM)
+quote: >-
+  Reisi Hükûmet Gazi Mustafa Kemal Paşa Hazretleri mi, yoksa Halife Abdülmecit Hazretleri midir?
+quote_kind: original-turkish
+summary: >-
+  Lozan krizi sırasındaki bir önergede Kemal'i milletin kurtarıcısı olarak nitelendirdi, ancak Meclis'teki
+  anlaşmazlığı Kemal ile Halife Abdülmecid arasındaki bir karşıtlık olarak çerçeveledi ve hükümetin düşmesini
+  talep etti.
+caveat: >-
+  6 Mart tarihli önerge 5 Mart 1339 birleşiminde (4. celse) okunmuştur; s. 168'in altında başlar, alıntılanan
+  cümle s. 169'da, üç madde ve imza ise s. 170'tedir. Aynı önergenin daha önceki kısmında (s. 169): 'Gazi âli
+  şânımız ve sebebi necatımız Mustafa Kemal Paşa Hazretleri'. İmza 'Karahisarışarki Mebusu Mustafa'
+  şeklindedir. Aynı adlı mebuslar bulunduğundan seçim bölgesine göre ayırt edilmelidir.
+verification_note: >-
+  Ayrıca s. 168/169'da 'Gazi ali sanimiz ve sebebi necatimiz' ve hükümetin düşmesi talebi (Madde 3) yer alıyor.
+verification_method: Cilt 4'ün pdftotext çıktısı; birebir aynı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f637b8d78037
+  role: 34b6b68d0987
+  quote: a7e665f608d5
+  summary: afd4802c6883
+  caveat: 44b8af63d9c9
+  verification_note: 1c646213885a
+  verification_method: fd3710424966

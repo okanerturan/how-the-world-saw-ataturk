@@ -1,0 +1,40 @@
+# Turkish for data/voices/2003/spidla-2003.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: spidla-2003
+voice: Vladimír Špidla
+role: Çek Cumhuriyeti Başbakanı
+quote: >-
+  80 sene önce, Türkiye Cumhuriyetini kendi liderliğinde Türk halkıyla birlikte kuran Kemal Atatürk'ün
+  anısının önünde saygıyla eğiliyorum.
+quote_kind: original-turkish
+summary: >-
+  Cumhuriyet'in kurucusunun anısı önünde eğiliyor; onun 'yurtta barış' düşüncesi ve modernleştirme hamlesi
+  hâlâ meyve veriyor.
+caveat: >-
+  Çekçe el yazısı (transkripsiyonu yapılmamış); alıntı derlemenin Türkçesidir ('80 yıl önce kendi liderliğinde
+  Türk halkıyla birlikte Türkiye Cumhuriyeti'ni kuran Kemal Atatürk'ün anısının önünde saygıyla eğiliyorum').
+  Sayfada tarih yoktur; '80 yıl önce' ifadesi ve başbakanlık dönemi (2002–04) 2003 yılını verir. Şöyle devam
+  eder: 'yurtta barış, dünyada barış' sözünde ifade edilen fikirler ve bağımsız, demokratik bir ülkenin
+  modernleşmesi 'meyve vermeye devam etmektedir'. Kaynak: Anıtkabir Özel Defteri (basılı derleme, '1953'ten
+  günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk hakkındaki duygu ve
+  düşünceleri'), ataturkarsivi.com adresindeki sayfa görüntüleri, ana ajan tarafından görüntü üzerinden okundu
+  (4 Kasım 2026).
+verification_note: >-
+  Basılı Türkçe alıntı birebir aynı ('80 sene once, Turkiye Cumhuriyetini kendi liderliginde Turk halkiyla
+  birlikte kuran Kemal Ataturk'un anisinin onunde saygiyla egiliyorum'); Çekçe el yazısı bununla uyuşuyor
+  ('pred 80 lety'). İmzalayan Spidla, Cek Cumhuriyeti Basbakani doğru. Tarih: her iki sayfada da hiçbir yerde
+  tarih yok, dolayısıyla 2003 yalnızca bir çıkarımdır ('80 yıl' ~ 1923+80; başbakanlığı 12 Temmuz 2002 - 26
+  Temmuz 2004, dolayısıyla 2003 veya 2004 başı/ortası mümkün; web aramasında ziyaret haberi bulunamadı).
+  Çekince notu bunun çıkarım olduğunu belirtmeye devam ettiği sürece (ediyor) '2003' tarihini koruyun; iddia
+  bunun dışında desteklenmektedir. Karar, yalnızca doğrulanmamış tarih nedeniyle kısmi.
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b60c1e5f5ee7
+  role: 5eb7e5573147
+  quote: b911da179f74
+  summary: 95ba72b66200
+  caveat: cdd8eff4e437
+  verification_note: 3df802bdaaeb
+  verification_method: "304538629105"

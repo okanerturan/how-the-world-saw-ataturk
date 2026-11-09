@@ -1,0 +1,42 @@
+# Turkish for data/voices/2007/charles-2007-11-30.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: charles-2007-11-30
+voice: Charles, Galler Prensi (sonradan Kral III. Charles)
+role: Britanya tahtının varisi; Anıtkabir özel defterindeki yazısı
+quote: Burada, mezarı başında Mustafa Kemal Atatürk'e saygılarımı sunmaktan memnuniyet duyuyorum.
+quote_kind: translated
+summary: >-
+  Mezarı başında Atatürk'e saygılarını sunuyor ve barış ile dostluk için Türk-Britanya çalışmalarının süreceği
+  sözünü veriyor.
+caveat: >-
+  2007'de henüz devlet başkanı değildi. İngilizce kaydın iki Türkçe çevirisi birbirinden farklıdır
+  (alıntılanan İHA; Milliyet: 'Mustafa Kemal'in mezarında ona saygılarımı sunmaktan mutluluk duyuyorum');
+  İngilizce özgün metne ulaşılamadı. Nezaket cümlesinin ötesinde Atatürk hakkında bir değerlendirme yok. Tarih
+  Türkçe Wikipedia'nın ziyaretçi listesinden; basın haberlerinde gün belirtilmiyor. İngilizce özgün metin
+  yalnızca bir LondonNet kesiti olarak görüldü ('Turkey and Great Britain will continue to' ifadesinden
+  sonrası kesik); İHA ve Milliyet iki farklı Türkçe çeviri veriyor. 30 Kasım tarihi muhtemeldir (ayrılış
+  günü); bir Getty resim altı yazısı 28 Kasım diyor.
+mediated_by: İHA ve Milliyet (iki farklı Türkçe çeviri)
+verification_note: >-
+  Türkçe metin İHA'da birebir aynı, ancak bir çeviridir: LondonNet tarafından basıldığı şekliyle İngilizce
+  özgün metin 'I am pleased to pay homage to Mustafa Kemal Ataturk here by his tomb. Turkey and Great Britain
+  will continue to...' şeklindedir (devamı kesik). Türkçedeki 'büyük mutluluk' ve 'huzurunda' ifadeleri
+  çevirmene aittir. Milliyet farklı bir Türkçe versiyon veriyor; dolayısıyla ikisi bağımsız çevirilerdir,
+  ifadeler için ikinci bir kaynak değildir. Tarih: İHA 'bugün' ayrılacağını söylüyor, LondonNet (30 Kasım)
+  ayrılmadan önce imzaladığını belirtiyor, bu nedenle 30 Kasım makul; bir Getty resim altı yazısı 28 Kasım
+  diyor (muhtemelen yanlış, Eyüp Camii ziyaretini de aynı güne koyuyor). Düzeltme: alıntıyı İngilizce metinle
+  değiştir; 2007-11-30 tarihini muhtemel olarak işaretle.
+verification_method: >-
+  Alıntılanan sayfanın tools/ms ile (ücretsiz) yeni çekimi, 3 Kasım 2026; bağımsız denetleyici; İngilizce
+  metin için 1 ücretli arama
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fddd4e116bc8
+  role: 43ec9d861c59
+  quote: 568e0bed3a34
+  summary: 7bb7e47c5215
+  caveat: d4d7faa5f725
+  mediated_by: 1a812b5217f4
+  verification_note: 34ced7f6ce3e
+  verification_method: 39d3964d4a62

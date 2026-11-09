@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-corbusier-1925
+voice: Le Corbusier
+voice_type: person
+role: Swiss-French architect and writer
+country: France
+country_now: France
+domain: arts
+date: "1925"
+era: contemporary
+polarity: conflicted
+intensity: 1
+mirror: modernization-poster-child
+artifact: book
+evidence: P
+summary: >-
+  Saw Ankara and the Mustapha-Kemal monument as the West's triumph: one more centuries-old civilisation going
+  to ruin, no more whitewash in Turkey.
+quote:
+  text: >-
+    And already today we have Ankara, and the monument to Mustapha-Kemal! Events move fast. The die is cast:
+    one more centuries-old civilisation goes to ruin.
+  translation: "James Dunnett, The Decorative Art of Today, London: Architectural Press 1987"
+  language: en
+mediated_by: >-
+  Dunnett's English translation (1987) of L'Art décoratif d'aujourd'hui (Paris: Crès 1925), read as
+  archive.org search-inside snippets
+caveat: >-
+  Snippet only (archive.org decorativeartoft0000leco, lending-only; page not shown; the sentence is ); the
+  French original was not reached. Context in the snippet: the Young Turks had come, the Bazaar was changing
+  its signs, 'the West was triumphing'. His tone mixes nostalgia for the folk Orient with acceptance. The 1933
+  letter applying for the Istanbul plan is known only from his 1948 remark to Şemsa Demiren and is not staged.
+  The passage reads as a lament for the passing of the old culture; 'conflicted' rests on that reading. French
+  original and page not reached.
+node: Writers, Scientists and Artists in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/decorativeartoft0000leco
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    archive.org decorativeartoft0000leco (The Decorative Art of Today, London: Architectural Press 1987,
+    lending-only) via full-text search snippets; French original not reached (no French edition on
+    archive.org; Gallica SRU 403 Cloudflare to curl; ms fetch refused: INFLOW STOPPED by another process's
+    AEP_INTERNAL_ERROR at 22:38Z)
+  method: archive.org FTS snippets (4 queries); search-inside page API 403 (lending-only)
+  note: >-
+    Text verbatim across overlapping snippets: '...the Bazaar was changing its signs, and that the West was
+    triumphing. And already today we have Ankara, and the monument to Mustapha-Kemal! Events move fast. The
+    die is cast: one more centuries-old civilisation goes to ruin. No more whitewash in Turkey for a long time
+    to come!' Corrections: (1) the sentence is not cut off after 'goes'; the quote should end 'goes to ruin.';
+    (2) the passage is a lament (the whitewash theme of 'A coat of whitewash: the law of Ripolin'), so
+    what_they_saw 'one more ... civilisation passing' understates it; (3) the archived edition is London:
+    Architectural Press 1987, not 'MIT 1987' (MIT Press published the US edition; the translator is not named
+    in the IA metadata). Page still unknown, French original unseen. Conflicted is defensible only with the
+    lament stated; gaze test is borderline (Kemal appears only as the monument, as a sign of the loss),
+    intensity 1 correct. P is earned for his own book, read as snippets.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31b)
+  checked_on: "2026-11-05"

@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: western-mail-perth-1938
+voice: Western Mail (Perth)
+voice_type: press
+role: Perth weekly
+country: Australia
+country_now: Australia
+domain: press
+date: "1938-11-17"
+era: funeral
+polarity: instrumental
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Leading article treats Atatürk's death as a British strategic question; praises continuity under Inönü,
+  notes ruthless suppression of opposition in 1926-27.
+quote:
+  text: the first and not the least successful of the post-war Dictators
+  language: en
+caveat: Trove page rendered and read; OCR text, uncorrected
+node: Perth Western Mail on Turkey After Atatürk, 17 November 1938
+sources:
+  - url: https://trove.nla.gov.au/newspaper/article/37857887
+    archived: https://web.archive.org/web/20261029002819/https://trove.nla.gov.au/newspaper/article/37857887
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://trove.nla.gov.au/newspaper/article/37857887 (cached tr_37857887.json, Western Mail 17 Nov 1938 p.6
+    'Turkey after Ataturk')
+  method: local
+  note: >-
+    Quote ends the leader: 'now succeeds, the first and not the least successful of the post-war Dictators'
+    (object of 'succeeds' is Atatürk). 1926-27 suppression and Inönü continuity present.
+  checked_on: "2026-10-29"

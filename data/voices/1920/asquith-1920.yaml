@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: asquith-1920
+voice: H. H. Asquith
+voice_type: person
+role: Former Prime Minister, Commons foreign affairs debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-03-25"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Argued that while Kemal's forces were at large the Armenians faced massacre again, and urged European
+  officers to train an Armenian defence.
+quote:
+  text: so long as Mustapha Kemal and his forces are at large
+  language: en
+node: Parliament Meets Kemal, February–March 1920
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-03-25/debates/2e5028ef-3013-4fec-927b-043d7f107190/ForeignAffairs
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API 1920-03-25 Foreign Affairs, debate 2e5028ef, Mr. ASQUITH
+  method: api
+  checked_on: "2026-10-29"

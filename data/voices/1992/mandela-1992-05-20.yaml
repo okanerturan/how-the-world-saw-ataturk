@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mandela-1992-05-20
+voice: Nelson Mandela
+voice_type: person
+role: President of the African National Congress
+country: South Africa
+country_now: South Africa
+domain: politics
+date: "1992-05-20"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Sorry not to accept the Atatürk Peace Prize, states great respect for Atatürk and the Turks and says he is
+  guided by the masses.
+quote:
+  text: I have a great deal of respect for Ataturk and for the Turkish people themselves.
+  language: en
+mediated_by: >-
+  Associated Press, Stockholm, 20 May 1992 ('Mandela Sorry He's Unable to Accept Honor') ← Mandela's news
+  conference
+caveat: >-
+  AP, 20 May 1992: said at a news conference while declining the Atatürk International Peace Prize; AP reports
+  no reason given. The ANC said the refusal implied no negative view of Atatürk (as quoted by Anadolu Agency,
+  2014). The Kurdish-rights reason appears only in later and advocacy sources. A respectful view of Atatürk
+  alongside a refusal of the Turkish state's prize.
+node: Nelson Mandela
+sources:
+  - url: https://apnews.com/738ba1ee41d70993bc0cfc4bda177eca
+    archived: https://web.archive.org/web/20220818025648/https://apnews.com/738ba1ee41d70993bc0cfc4bda177eca
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    AP wire, Stockholm, 20 May 1992, apnews.com/738ba1ee41d70993bc0cfc4bda177eca (full wire text returned by a
+    tools/ms search, published_at 1992-05-20T16:30Z; direct fetch bot_blocked)
+  method: one tools/ms search returned the whole AP story text; no UPI/newspaper copy found
+  note: >-
+    The AP text is short and returned in full: 'STOCKHOLM, Sweden (AP) _ South African black leader Nelson
+    Mandela said Wednesday he was sorry he had to refuse the Ataturk Prize ... "I was very sorry it was not
+    possible for me to accept this award," Mandela said at a news conference. "I have a great deal of respect
+    for Ataturk and for the Turkish people themselves." "We are guided by the views of the masses of the
+    people and if, on any issue, they take a position, I cannot ignore it."' Verbatim; Wednesday = 20 May
+    1992; the $9,500 prize, the ANC giving no reason, human-rights link and Kurdish MPs' praise all match the
+    caveat. The 'Single source' warning can be softened: this is the AP text itself, not just a snippet of it,
+    though no second outlet (UPI, newspaper) was found. 'President of the ANC' is not in the AP text (it says
+    'South African black leader'); role is outside knowledge. Polarity conflicted is a stretch: nothing in the
+    AP text criticises Atatürk, so 'admiring' or 'witness' at intensity 1-2 would be closer; the 'conflicted'
+    label rests on the refusal, which AP says was linked to human-rights questions and not to Atatürk. Suggest
+    polarity 'witness' or keep conflicted with the existing caveat.
+  checked_on: "2026-11-01"

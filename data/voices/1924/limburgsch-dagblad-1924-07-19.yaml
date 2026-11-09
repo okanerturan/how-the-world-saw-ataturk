@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: limburgsch-dagblad-1924-07-19
+voice: Limburgsch Dagblad
+voice_type: press
+role: Catholic daily of Limburg
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1924-07-19"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Expected Angora's break with Islamic tradition to raise fanaticism and feared 'modern heathendom' joining
+  the old, making the hope of converting Muslims more desperate.
+quote:
+  text: Dat is zeker, dat het fanatisme zal toenemen
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. Long piece headed 'De Islam', apparently a missionary
+  reflection; author unidentified and it may be a reprint. Catholic identity from general knowledge.
+node: Dutch Confessional Press and the Fall of the Caliphate, March 1924
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010933072:mpeg21:a0157
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Delpher ddd:010933072:mpeg21:a0157:ocr; metadata Limburgsch dagblad 1924-07-19, 'De Islam'
+  method: fetch
+  checked_on: "2026-10-29"

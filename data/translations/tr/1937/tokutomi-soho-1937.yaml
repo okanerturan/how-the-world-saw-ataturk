@@ -1,0 +1,32 @@
+# Turkish for data/voices/1937/tokutomi-soho-1937.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tokutomi-soho-1937
+voice: Tokutomi Sohō
+role: Japon gazeteci-tarihçi, Kokumin Shimbun yayıncısı
+quote: >-
+  Yani Kemal Atatürk denen kişi, Türkiye'ye yalnızca birlik vermekle kalmadı, Türkiye'ye yeni bir ruh da verdi.
+quote_kind: translated
+summary: >-
+  Atatürk'ün Türkiye'ye yalnızca birlik değil yeni bir ruh da verdiğini, yozlaşmış bir devleti Kemalizm ile
+  canlandırdığını ve dinî liderini devirdiğini söyler.
+caveat: >-
+  Sensō gaigen (1937), basılı s. 103, NDL görüntü 60 (sayfa görüntüsü okundu). 1936 kaydından (Kemal 'learned
+  from Japan') farklıdır: burada ülküsü olan ve olmayan uluslar üzerine bir konferansta Kemal'in eserine dair
+  doğrudan bir hüküm yer alır. Sōhō'nun 1929 ve 1931 ifadeleri veri kümesinde zaten mevcuttur.
+verification_note: >-
+  Alıntı basılı s. 103'te birebir aynı (çift sayfa normal sırada: 103 solda, 102 sağda). Sayfa şöyle devam
+  ediyor: Türkiye yozlaşmıştı, Kemal Atatürk onu birleştirdi ve yeni bir ruh verdi, İslam dininin başını aşağı
+  indirdi. what_they_saw eşleşiyor. Yazarın Kemal hakkındaki kendi hükmü: geçer.
+verification_method: >-
+  IIIF sayfa görüntüsü indirildi ve üzerindeki Japonca OKUNDU; yazar/başlık/yıl için NDL öğe üstverisi kontrol
+  edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a8ba0257d66e
+  role: 34de7c9e0bec
+  quote: f727b501884e
+  summary: bb3ca8803202
+  caveat: 943a2b318174
+  verification_note: a284150d3256
+  verification_method: 25d671ee4bfd

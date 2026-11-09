@@ -1,0 +1,23 @@
+# Turkish for data/voices/1922/oconnor-1922b.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: oconnor-1922b
+voice: T. P. O'Connor (Milletvekili)
+role: Liverpool Scotland milletvekili, özel bildirimli soru önergesi
+quote: >-
+  İngiliz Hükümeti'nin Türkiye'ye yönelik politikasına sert bir itham olup Türklerin Rumlara karşı işlediği
+  mezalimi askeri zorunluluk gerekçesiyle haklı gösterdi
+quote_kind: translated
+summary: >-
+  Rumlara yönelik mezalimi haklı gösterdiğini ve soruşturmayı reddettiğini söylediği Kemal'in İzmit konuşması
+  hakkında Hükümet'in ne yapacağını sordu.
+caveat: Hükümet'e yöneltilen soru; Kemal'in 20 Haziran tarihli konuşmasını nitelendirmektedir.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: da34cd5cb9b9
+  role: 52d2ad6e23da
+  quote: d57f42464dad
+  summary: 14b91f02a36f
+  caveat: 6b42a37d1a1d
+  verification_method: a033a528b603

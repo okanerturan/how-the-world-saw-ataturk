@@ -1,0 +1,25 @@
+# Turkish for data/voices/1928/halide-edib-1928.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: halide-edib-1928
+voice: Halide Edib Adıvar
+role: O sırada sürgünde olan Türk romancı ve milliyetçi; anı yazarı
+quote: olağanüstü bir zekâ ve kurnazlığın yanı sıra anormal bir hırsa sahip bir adam
+quote_kind: translated
+summary: >-
+  1919'daki Kemal'i parlak zekâlı, kurnaz ve anormal derecede hırslı biri olarak hatırlıyor; Nisan 1920'ye
+  gelindiğinde onun 'bizim George Washington'ımız' olacağını hissetmeye başlamıştı.
+caveat: >-
+  GÜNCELLEME: mevcut not doğrulanmış bir not değildir; The Turkish Ordeal (1928), s. 13, 141, 281-282'den yeni
+  birincil kanıt. 1926 sürgününden sonra yazılmıştır.
+verification_note: Washington ifadesinin Nisan 1920 tarihlendirmesi bağımsız olarak kontrol edilmedi
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ab2a15262ec0
+  role: d1c91791c116
+  quote: 16803041320e
+  summary: 67ba395e297d
+  caveat: b4a32e8fa565
+  verification_note: 98bafdda1fe7
+  verification_method: ad8cee67138e

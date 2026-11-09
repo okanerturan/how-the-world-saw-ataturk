@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: giner-de-los-rios-1938
+voice: Bernardo Giner de los Ríos
+voice_type: person
+role: Spanish Republican minister, delegate to funeral
+country: Spanish Republic
+country_now: Spain
+domain: politics
+date: "1938-11-18"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: visit
+evidence: S+T
+summary: Named to a commission sent to Ankara to represent the Spanish Republic at the funeral.
+mediated_by: Tüylü Turan 2019 (Spanish press)
+caveat: >-
+  Whether Franco's Burgos sent anyone is not established. text unchecked (source unreachable 2026-10-29)
+node: Bernardo Giner de los Ríos
+sources:
+  - url: https://doi.org/10.14225/JOH1567
+verification:
+  verdict: unreachable
+  checked_against: https://doi.org/10.14225/JOH1567 (target_unreachable)
+  method: fetch
+  note: Tuyluy Turan 2019 not retrievable; commission to Ankara funeral unchecked
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

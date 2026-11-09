@@ -1,0 +1,39 @@
+# Turkish for data/voices/2007/peters-2007.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: peters-2007
+voice: Winston Peters
+role: Yeni Zelanda Dışişleri Bakanı (2005–2008; daha sonra Başbakan Yardımcısı)
+quote: >-
+  uzlaşmanın önünü açan kişi, Gelibolu'da bir tümen komutanı ve daha sonra Türkiye Cumhuriyeti'nin kurucusu
+  olan Mustafa Kemal Atatürk'tü.
+quote_kind: translated
+summary: >-
+  Gelibolu'da bir tümen komutanı ve daha sonra Cumhuriyet'in kurucusu olan Atatürk'ün cömert sözlerle
+  uzlaşmanın önünü açtığını söyler.
+caveat: >-
+  O sırada başbakan değildi (hükümetin konuşmasını yapan Dışişleri Bakanıydı). Neredeyse birebir aynı bir
+  pasaj Nathan Guy'ın 2012 Gelibolu konuşmasında da yer alır, yani bakanlığın hazır standart metnidir. Anzak
+  konuşmacılarının Atatürk'e atfettiği 'Johnnies and Mehmets' / 'your sons are now lying in our bosom'
+  metninin kendisi tartışmalıdır: 1934 tarihli bir orijinal bulunamamıştır, metin ilk kez 1953'te İçişleri
+  Bakanı Şükrü Kaya'nın hatırası aracılığıyla basılı olarak ortaya çıkmıştır ve 'Johnnies and Mehmets' ibaresi
+  1978 tarihli bir Avustralya eklemesidir (bkz. [[Johnnies and Mehmets]]). Dolayısıyla bu, övgüyü ödüllendiren
+  bir anma töreni veya diplomatik vesileyle dile getirilmiş, konuşmacının Anzak efsanesindeki Atatürk'e dair
+  görüşüdür. Kaynak gösterimi: Anzac Day Dawn Service address, Gallipoli, 25 April 2007.
+verification_note: >-
+  25 Nisan 2007 tarihli, imza satırında Winston Peters, Foreign Affairs yazan 'ANZAC Day Dawn Service Address,
+  Gallipoli' başlıklı Beehive sayfasında birebir aynı. Kendi sözleri ('paved the way for reconciliation',
+  'generous words ... will never be forgotten'). Görevi Başbakan değil, Yeni Zelanda Dışişleri Bakanı olarak
+  doğru. 'Nathan Guy 2012' hazır metin notu kontrol edilmedi.
+verification_method: >-
+  kaynak yeniden çekildi, alıntının normalleştirilmiş metin eşleşmesi yapıldı; konuşmacı, tarih ve başlık
+  üstveriden/imza satırından okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f2eb8a356e19
+  role: d84fda79d09b
+  quote: 6a4639924969
+  summary: 9a5084adf834
+  caveat: a4001aab66e7
+  verification_note: c7c35c04b89d
+  verification_method: 02ed4e837c0d

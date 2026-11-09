@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: vahideddin-1921-03-23
+voice: Mehmed VI Vahideddin
+voice_type: person
+role: Last Ottoman Sultan; talking to the British High Commissioner Rumbold
+country: Ottoman Empire
+country_now: Turkey
+domain: politics
+date: "1921-03-23"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: quote
+evidence: S
+summary: >-
+  Tells Rumbold that Kemal is a revolutionary, whom twenty years in London would turn back to his old self.
+quote:
+  text: >-
+    Londra'da yirmi veya otuz sene oturtsanız ve sonra 24 saatliğine dağın tepesine götürseniz derhal eski
+    halini alır
+  language: tr
+mediated_by: Rumbold to Curzon, 23 Mar 1921 (Şimşir, İngiliz Belgelerinde...) ← Bardakçı 1998/2006
+caveat: >-
+  Bardakçı's Turkish rendering of Vahideddin's words as reported in Sir Horace Rumbold's English dispatch; the
+  sentence is a back-translation, not the Sultan's own Turkish. Vahideddin also said Kemal 'is a
+  revolutionary' and that Bekir Sami was 'a Circassian, all the same', and that a forced caliph would be 'an
+  instrument in the hands of wolves who like foggy weather' (same page). The date 23 March 1921 is taken from
+  Bardakçı's chapter note for this chapter ('a two-and-a-half-hour private interview'), which the OCR does not
+  attach by number to this passage; treat the day as inferred, the year as safe. Cited from the 2006 İnkılâp
+  edition, p. 215 (OCR folio). Check: 23 March is the dispatch date, not necessarily the interview day;
+  Rumbold's English not seen.
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://archive.org/details/sahbaba-murat-bardakci
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    archive.org sahbaba-murat-bardakci (Şahbaba, İnkılâp 2006), djvu text, p.215 and ch.14 note 1
+  method: archive.org djvu download
+  note: >-
+    Verbatim in Şahbaba p.215 as direct quotation ('Londra'da yirmi veya otuz sene oturtsanız ve sonra 24
+    saatliğine dağın tepesine götürseniz derhal eski halini alır'), followed by 'Zorla bir halife ilan
+    edebilirler...'. Ch.14 note 1 says it is from Rumbold's dispatch to Curzon of 23 Mart 1921 on a 2.5-hour
+    private interview, with 'some phrases removed' and the full text in Şimşir, British Documents III/262. So
+    the sentence is Bardakçı's Turkish of a British report of the Sultan's speech, the English was not seen,
+    and 23 March is the DISPATCH date, not necessarily the interview date. Evidence S is correct (not P); keep
+    the hedge and add 'date = dispatch date'.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

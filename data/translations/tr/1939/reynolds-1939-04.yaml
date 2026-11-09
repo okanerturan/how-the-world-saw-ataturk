@@ -1,0 +1,36 @@
+# Turkish for data/voices/1939/reynolds-1939-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: reynolds-1939-04
+voice: Robert R. Reynolds
+role: ABD North Carolina Senatörü
+quote: >-
+  Türkiye bir ulus olarak kurulduğundan beri Türkiye için başka herkesten daha fazlasını yapmış olan o büyük
+  insan Atatürk, tesadüfen Selanik'te doğmuştu.
+quote_kind: translated
+summary: >-
+  Mussolini'nin Arnavutluk'u ele geçirmesi üzerine bir ara sözde, Atatürk'ü kuruluşundan bu yana Türkiye için
+  herkesten daha fazlasını yapmış 'o büyük insan' olarak nitelendirir.
+caveat: >-
+  Konuşmacı tutanak akışından belirlendi ('Mr. REYNOLDS obtained the floor'); iki sütunlu tarama OCR'ı diğer
+  konuşmacıların satırlarıyla iç içe geçiyor ve OCR 'since' kelimesini 'sin~e' olarak okuyor (düzeltildi).
+  Konuşmanın ana konusu değil (Arnavutluk, Selanik, Avrupa krizi), bir ara söz. Kaynak gösterimi: Senato, 13
+  Nisan 1939, Congressional Record c. 84 (ciltli), s. ~4219-4222 (granül CRECB-1939-pt4-v84-12-1). Sayfa 4219.
+verification_note: >-
+  Alıntı birebir aynı (OCR 'sin~e' = 'since'), Senato, 13 Nisan 1939 Perşembe, konuşmacı North Carolina'dan
+  Mr. REYNOLDS, sayfa 4219 (üst bilgi 4220 bir sonraki sayfada başlıyor). Açık görüş ('that great man', 'did
+  more for Turkey than any other man'); hayran/1 yerinde. DÜZELTMELER: dönem 'contemporary' değil 'posthumous'
+  olmalı (13 Nisan 1939, 9 Kasım 1938'den sonradır); 's. ~4219-4222' yerine s. 4219 olarak kaynak
+  gösterilmeli.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizleme uygulandı, alıntının normalleştirilmiş eşleştirmesi
+  yapıldı; konuşmacı, tarih ve sayfa Record'un kendi başlıklarından ve üst bilgilerinden okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 99273cc08e0f
+  role: e21c680345d2
+  quote: 58251a440887
+  summary: c5043e3ae032
+  caveat: 9f0736c65dd0
+  verification_note: f586aef7e4cd
+  verification_method: 5594abd6cdd0

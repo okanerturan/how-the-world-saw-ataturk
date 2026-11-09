@@ -1,0 +1,17 @@
+# Turkish for data/voices/1938/transvaal-muslim-association-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: transvaal-muslim-association-1938
+voice: Transvaal Müslüman Birliği
+role: Johannesburg Müslüman kuruluşu
+quote: Kemal Atatürk Gazi, İslam ve Müslüman onurunun kurtarıcısı
+quote_kind: translated
+summary: Onu Gazi, İslam ve Müslüman onurunun kurtarıcısı olarak adlandırdı.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5add8197402c
+  role: 1d49ad85663c
+  quote: 29985e0a5975
+  summary: ba61b8953206
+  verification_method: 939bb46a04c3

@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/svenska-dagbladet-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: svenska-dagbladet-1938
+voice: Svenska Dagbladet
+role: İsveç günlük gazetesi
+summary: >-
+  Vatanı parçalanmaktan kurtardığını ve artık devletlerin Türkiye ile ilişki kurmak istediğini söyledi.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Cumhuriyet (İsveç gazeteleri bölümü)
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5588b3c0a28d
+  role: 64409c633f80
+  summary: a47943b62122
+  caveat: ecc719a2a575
+  mediated_by: 8bd77e33cab2
+  verification_method: 939bb46a04c3

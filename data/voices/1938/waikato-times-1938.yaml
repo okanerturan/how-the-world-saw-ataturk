@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: waikato-times-1938
+voice: Waikato Times
+voice_type: press
+role: New Zealand regional daily
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1938-11-12"
+era: funeral
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Dictatorship at its extreme yet more rational than other dictators; credits westernisation, Chanak and
+  Lausanne but alleges he hanged opponents and hated Britain.
+quote:
+  text: the blonde, blue-eyed combination of patriot and psychopath
+  language: en
+caveat: >-
+  Mixes real events with period errors (Kamal spelling, hated-Britain claim); note treats it as reception data.
+node: New Zealand Press, November 1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/WT19381112.2.87
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://paperspast.natlib.govt.nz/newspapers/WT19381112.2.87: "blonde, blue-eyed combination of patriot
+    and psychopath"; "more rational than other European dictators"; "hanged all members of the opposition";
+    "Ataturk hated Great Britain"
+  method: fetch
+  checked_on: "2026-10-29"

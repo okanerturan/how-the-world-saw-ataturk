@@ -1,0 +1,41 @@
+# Turkish for data/voices/1925/gonatas-1925-02-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: gonatas-1925-02-17
+voice: Stylianos Gonatas
+role: Yunan general ve milletvekili, 1922 Devrimi lideri ve eski Başbakan
+quote: >-
+  Buna paralel olarak ise Kemal, Ordusunu yoğun biçimde yeniden örgütlüyordu. […] Ayrıca Kemal tarafından
+  diktatörce yönetiliyordu
+quote_kind: translated
+summary: >-
+  Kemal'in ordusunu yorulmak bilmeden fanatik ve iyi ikmal edilmiş bir güce dönüştürerek yeniden kurduğunu,
+  Türkiye'yi diktatörce yönettiğini ve Yunan cephesine saldırmak için fırsat beklediğini söyler.
+caveat: >-
+  Δ΄ Εθνοσυνέλευση, Πρακτικά Τόμος 4, 17 Şubat 1925 tarihli ΡΝ΄ birleşimi, basılı s. 382-384 (PDF sayfaları
+  193-194; sayfa görüntüleri okundu). 1922 geri çekilmesinin sorumluluğunu araştırmak üzere önerilen
+  soruşturma komisyonu hakkındaki konuşma, ordunun çöküşünü açıklamak ve savaşta diktatörlüğü, barışta ise
+  demokrasiyi savunmak için Kemal'in gücünü kullanır; Kemal, konuşmacının argümanı için bir araçtır. Birleşim
+  tarihi s. 371'deki başlıktan okundu; konuşma aynı oturumdadır (s. 371 ile 395 arasında yeni başlık yoktur).
+  'Δ΄ Συντακτική 1924-25' altındaki Kemal dizin maddeleri (s. 387, 393, 395) kontrol edildi: Τ.4'teki bu
+  sayfalar aynı tartışmadaki diğer konuşmacılara aittir ve onun adını anmaz.
+mediated_by: >-
+  Πρακτικά'da özetlendiği şekliyle (konuşmanın üçüncü şahıs aktarımı; alıntılanan cümle tutanakçının
+  ifadesidir)
+verification_note: >-
+  Alıntı birebir aynı, s. 383'ün sağ sütunu, Gonatas'ın 17 Şubat 1925 tarihli konuşmasında (Πρακτικά'da üçüncü
+  şahıs özeti). Alıntı, derleyicinin ordu cümlesinden bizzat Kemal'in adını anan cümleye ve buna ek olarak
+  'run dictatorially by Kemal' yan cümlesine geçirildi. Bir hasmın askeri-analitik değerlendirmesi; araçsal,
+  yoğunluk 1.
+verification_method: >-
+  sayfa görüntüsü 260 dpi çözünürlükte işlendi ve politonik Yunanca OKUNDU (derleyici değil, ana ajan)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ec04f6efc6fd
+  role: 14f4014955d9
+  quote: 33accf04ba70
+  summary: aa7e78852f92
+  caveat: bac544200284
+  mediated_by: bed8f4edd5eb
+  verification_note: 2348cf040084
+  verification_method: ca987e2e04f9

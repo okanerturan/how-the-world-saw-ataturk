@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kamath-1949-05
+voice: Hari Vishnu Kamath
+voice_type: person
+role: Member of the Constituent Assembly, later Lok Sabha member (Praja Socialist)
+country: India
+country_now: India
+domain: politics
+date: "1949-05-16"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Opposing the Commonwealth decision, holds up Kemal and his 'ragged army' as proof that small nations can
+  stand alone against the Powers.
+quote:
+  text: >-
+    At the close of World War I, Kemal Ataturk with his ragged army stood alone against many of the powerful
+    countries of Europe and beat them back.
+  language: en
+caveat: >-
+  Constituent Assembly of India Debates, vol. VIII, 16 May 1949, p. 23. Official report digitised by the Lok
+  Sabha Secretariat / Government of India Press, via archive.org OCR. Speaker taken from the running header
+  '[Shri H. V. Kamath]' on the preceding page; he returns to Kemal on 7 Sept 1949 (the Roman-script reform, as
+  an argument against prejudice towards English). Text read from the OCR of the official report; obvious OCR
+  slips are silently corrected in the quote.
+node: >-
+  Constituent Assembly and Lok Sabha on Atatürk, 1946–1966 — Radhakrishnan, Gour, Kamath, Anthony and
+  Brajeshwar Prasad
+sources:
+  - url: https://archive.org/download/eparlib.nic.in.760459/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Constituent Assembly Debates Book 3 (eparlib.nic.in.760459), vol. VIII, 16 May 1949, p. 23 (header
+    'RATIFICATION OF COMMONWEALTH DECISION 23'); speaker inferred from running headers '[Shri H. V. Kamath]'
+    on pp. 20 and 22 and from 'Shri H. V. Kamath:' resuming after the Pandit Balkrishna Sharma interjection;
+    no other speaker intervenes between that and the quote
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim across a line break ('ragged / army'). Speaker inference is sound: same unbroken speech
+    opened on p. 19-20 and continues past the quote. The 7 Sept 1949 Roman-script follow-up mentioned in the
+    caveat is in a later volume and was not checked. Gaze: states Kemal's feat as proof; instrumental
+    (admiring is lenient). Intensity 1 fair.
+  checked_on: "2026-11-03"

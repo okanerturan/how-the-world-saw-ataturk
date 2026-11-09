@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abdulmecid-ii-1924
+voice: Abdülmecid II
+voice_type: person
+role: Last Ottoman Caliph, deposed and expelled in March 1924
+country: Turkey (in exile, Switzerland)
+country_now: Turkey
+domain: religion
+date: "1924"
+era: contemporary
+polarity: hostile
+intensity: 1
+mirror: apostate
+artifact: quote
+evidence: P
+summary: >-
+  In exile at Territet, rebuts Kemal's insinuation that Islam bars progress: those who fight faith are not
+  servants of progress.
+quote:
+  text: Those who combat its influence cannot be numbered among the servants of progress.
+  language: en
+mediated_by: Ferdinand Tuohy, The Cockpit of Peace (1926), pp. 314-315
+caveat: >-
+  Interview by the British journalist Ferdinand Tuohy at the ex-Caliph's hotel in Territet, c. June 1924 (his
+  wives had not left their rooms 'for three months'). Kemal is named in Tuohy's framing ('Kemal's insinuations
+  that the Moslem religion was a bar to progress, seemed mostly to pre-occupy Abdul'), not in the quoted
+  words, which defend Islam ('The spirit of Islam not only doesn't hinder real progress, but ... demands it').
+  Tuohy also reports him saying Kemal had given him £1,200 and a ticket to the frontier. English as printed
+  (Abdülmecid probably spoke French). His formal 1924 protest declaration and his diaries were not found in
+  free sources.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/cockpit-of-peace
+  - url: https://archive.org/download/cockpit-of-peace/CockpitOfPeace_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org cockpit-of-peace, CockpitOfPeace_djvu.txt (Tuohy, The Cockpit of Peace 1919-1925, 1926),
+    printed pp. 314-315
+  method: archive.org open djvu text read
+  note: >-
+    Quote verbatim: '“Religious faith,” declared the deposed Commander of the Faithful, “develops the noblest
+    faculties of the human soul. Those who combat its influence cannot be numbered among the servants of
+    progress. The spirit of Islam not only doesn't hinder real progress, but ... demands it and stimulates
+    it.”' Framing ('Kemal's insinuations that the Moslem religion was a bar to progress, seemed mostly to
+    pre-occupy Abdul'), '£1,200 and a ticket to the frontier' and 'had not ... left their rooms for three
+    months' all present; Territet named. Gaze test: Kemal is named only in Tuohy's framing, so hostile is an
+    inference from context, as the caveat says. Acceptable at intensity 1 for a major religious figure.
+    Possible date refinement: c. June 1924 (three months after the March arrival), still tier inference.
+    Schema ok.
+  checked_on: "2026-11-06"

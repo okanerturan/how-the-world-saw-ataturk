@@ -1,0 +1,29 @@
+# Turkish for data/voices/1925/armenian-observers-1925.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: armenian-observers-1925
+voice: Ermeni diasporası ve Sovyet-Ermeni gözlemciler
+role: Kemalizmi okuyan Ermeni aydınlar ve süreli yayınlar
+quote: ulusal felaketin, umutsuzluğun ve bölünmenin izini taşıyordu
+quote_kind: translated
+summary: >-
+  Kemalizm ve Kemalokrasi terimlerini erken dönemde kullanarak Kemalist reformları yakından takip ettiler;
+  okumaları Soykırım tarafından şekillendi ve Sovyet ile Diaspora görüşleri arasında bölündü.
+caveat: >-
+  Yalnızca özet ve basın bülteni; tekil bir Ermeni yazardan alıntı yapılmamıştır; 1925, atıf yapılan tek
+  Hairenik yazısının tarihidir; gerçek zaman aralığı 1920'li yıllardır.
+mediated_by: Ter-Matevosyan, Turkish Studies 26/1 (2025) çalışmasını özetleyen AUA bülteni
+verification_note: >-
+  Alıntı ve iddialar AUA bülteninde yer alıyor; tandfonline makalesi engellendi (bot_blocked). Hairenik 1925
+  yazısı görülmedi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4e1eb9061225
+  role: b4e88bb3bc3d
+  quote: 0a9696f2ba5e
+  summary: 099dfc6d4a94
+  caveat: adf1b26667e9
+  mediated_by: 16b9346ea7ab
+  verification_note: a306d93b0324
+  verification_method: ad8cee67138e

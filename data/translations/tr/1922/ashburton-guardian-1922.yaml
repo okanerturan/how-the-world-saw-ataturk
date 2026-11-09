@@ -1,0 +1,19 @@
+# Turkish for data/voices/1922/ashburton-guardian-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ashburton-guardian-1922
+voice: Ashburton Guardian
+role: Yeni Zelanda taşra günlük gazetesi
+quote: Tüm kariyeri boyunca gözleri Britanya'ya yönelmiştir
+quote_kind: translated
+summary: >-
+  Portre başyazısı: Kemal, Türk Milliyetçiliğinin ana itici gücü ve Suvla'da Yeni Zelanda birliklerine karşı
+  Gelibolu galibidir, yine de gözleri her zaman Britanya'ya yönelmiştir.
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 22750987d900
+  role: 0265c2328272
+  quote: 29deb8b17892
+  summary: ab591477b893
+  verification_method: ad8cee67138e

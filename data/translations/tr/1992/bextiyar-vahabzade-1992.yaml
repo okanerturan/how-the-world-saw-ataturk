@@ -1,0 +1,18 @@
+# Turkish for data/voices/1992/bextiyar-vahabzade-1992.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bextiyar-vahabzade-1992
+voice: Bəxtiyar Vahabzadə
+role: Azerbaycanlı şair
+summary: >-
+  'Atatürk'ün Babası'nda Tanrı'dan kendilerini birleştirecek bir lider isteyen bir halkı resmetti; not, onu
+  Azerbaycan'ın arzuladığı devlet kurucusu olarak okur.
+verification_note: İkincil okuma; "note reads him as state-builder" notun yorumudur.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f9296e74836f
+  role: f868954cc744
+  summary: d6163caf817c
+  verification_note: 1ca9f7b0a098
+  verification_method: ad8cee67138e

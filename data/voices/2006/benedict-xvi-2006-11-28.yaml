@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: benedict-xvi-2006-11-28
+voice: Pope Benedict XVI
+voice_type: person
+role: Pope; visit to Anıtkabir on his apostolic journey to Turkey
+country: Vatican City
+country_now: Vatican City
+domain: religion
+date: "2006-11-28"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  In the Anıtkabir book, adopts the founder's 'peace at home, peace in the world' as his own wish for a bridge
+  between religions.
+quote:
+  text: >-
+    I gladly make my own the words of the founder of the Turkish Republic: I wish 'peace at home, peace in the
+    world'
+  language: en
+mediated_by: AsiaNews and Deutsche Welle reports of the Anıtkabir book entry, 28 Nov 2006
+caveat: >-
+  Courtesy text on a visit that followed the Regensburg speech controversy. Wording varies between reports:
+  AsiaNews 'In this land, meeting place and crossroads of different religions and cultures, hinge between Asia
+  and Europe, I gladly make my own the words of the founder of the Turkish Republic'; DW 'I am pleased to
+  adopt the words of the founder of the Turkish republic as my own'; Zenit (relayed) says he wrote in English.
+  Atatürk is not named, only 'the founder'. Pope Francis (2014) and Pope Leo XIV (2025) signed the same book
+  without mentioning Atatürk.
+node: Pope Benedict XVI
+sources:
+  - url: https://asianews.it/news-en/Dialogue-between-Christians-and-Muslims-is-a-vital-necessity,-says-Pope-7875.html
+    archived: https://web.archive.org/web/20250714152949/https://www.asianews.it/news-en/Dialogue-between-Christians-and-Muslims-is-a-vital-necessity,-says-Pope-7875.html
+  - url: https://dw.com/en/popes-trip-to-turkey-starts-on-conciliatory-note/a-2251303
+    archived: https://web.archive.org/web/20250124113110/https://www.dw.com/en/popes-trip-to-turkey-starts-on-conciliatory-note/a-2251303
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: AsiaNews art. 7875 and DW a-2251303, both 28 Nov 2006
+  method: tools/ms fetch of both pages by the main agent
+  note: >-
+    AsiaNews wording verbatim; DW gives a different translation of the same entry. Two independent press
+    reports (J tier); original-language text of the book entry not seen.
+  checked_on: "2026-11-03"

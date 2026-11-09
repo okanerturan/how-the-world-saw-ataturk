@@ -1,0 +1,39 @@
+# Turkish for data/voices/1922/billy-hughes-1922-09-29.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: billy-hughes-1922-09-29
+voice: Billy Hughes
+role: Avustralya Başbakanı
+quote: >-
+  Biz barıştan yanayız ve Türklere adil davranılmasını istiyoruz; ancak savaş çıkacaksa Mustafa Kemal,
+  Avustralya'nın savaşa girmesinin ne anlama geldiğini unutmamalıdır.
+quote_kind: translated
+summary: >-
+  Çanakkale Krizi sırasında, Türklere 'adil davranılmasını' isterken Mustafa Kemal'i Avustralya'nın savaşa
+  girmesinin ne anlama geldiğini unutmaması konusunda uyarır.
+caveat: >-
+  Temsilciler Meclisi oturumu kapandıktan sonra gazetecilere söylenmiş olup o gün Meclis'te yaptığı açıklamayı
+  açımlamaktadır; bir önceki cümle: 'We shall do so again, if necessity arises, and it will be well if
+  Mustapha Kemal remembers this.' Meclis'te ayrıca 'Australia had no bias against Kemal' ve Müttefiklerin
+  'could yield nothing to force, but everything to reason' dediğini ifade etmiştir (The Register haberi). 4
+  Kasım 2026'da arayüzlü bir tarayıcı aracılığıyla Trove üzerinden okundu. Bir hasma yönelik caydırıcı bir
+  uyarı olduğundan kutupluluk yoğunluk 1 düzeyinde düşmanca; 29 Eylül 1922 tarihli Commonwealth Hansard
+  okunmadı.
+mediated_by: >-
+  Avustralya basın telgrafı, Melbourne 29 Eylül 1922: 'Menace to Kemal', Kalgoorlie Miner 30 Eylül 1922, s. 5
+  (Trove 93229155); aynı açıklamanın özeti The Register'da (Adelaide) 30 Eylül 1922, s. 11, 'Kemal Must Look
+  Out' (Trove 64124806)
+verification_note: >-
+  Kalgoorlie Miner ajans metninde alıntı birebir aynı; dolaylı/basın aktarımı, Hansard okunmadı.
+verification_method: >-
+  Trove makale metni ana etmen tarafından arayüzlü bir tarayıcıda okundu; bağımsız bir denetleyici değil
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: "705865560463"
+  role: 64be377190a2
+  quote: 482be7e62ca5
+  summary: 91629ee95182
+  caveat: e6314914055a
+  mediated_by: ad09466e414c
+  verification_note: b75552f568d2
+  verification_method: fd8e34b64aeb

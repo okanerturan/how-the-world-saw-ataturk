@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dagens-nyheter-1938
+voice: Dagens Nyheter
+voice_type: press
+role: Swedish daily
+country: Sweden
+country_now: Sweden
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: editorial
+evidence: S
+summary: >-
+  Said he first saved Turkey then created a new state with new constitution, culture and ideal; most
+  remarkable post-war head of state.
+mediated_by: Toksoy 2006 ← Cumhuriyet (Swedish papers section)
+caveat: Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen.
+node: Helsinki and Stockholm, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt §İsveç: "Social Demokraten ve Dagens Nyheter ...
+    devlet başkanları arasında en dikkate değer kişi ... önce Türkiye'yi kurtarıp daha sonra yeni bir Türk
+    devleti yarattığını, ... yeni bir anayasa, yeni bir kültür, yeni bir ülkü"
+  method: local
+  note: Toksoy attributes this jointly to Social Demokraten and Dagens Nyheter.
+  checked_on: "2026-10-29"

@@ -1,0 +1,29 @@
+# Turkish for data/voices/1929/risorgimento-italiano-1929.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: risorgimento-italiano-1929
+voice: Il Risorgimento Italiano nel Maryland
+role: İtalyanca haftalık gazete, Baltimore
+quote: >-
+  her şeyden önce Mustafa Kemal Paşa'nın enerjisine, sezgisine, iradesine borçlu olunan yeniden doğuş ve
+  canlılık
+quote_kind: translated
+summary: >-
+  İtalyan-Türk paktını memnuniyetle karşılıyor: Türkiye'nin yeniden doğuşu ve Avrupa tarihine dönüşü her
+  şeyden önce Kemal'in enerjisine, sezgisine ve iradesine borçluydu.
+caveat: >-
+  Övgü, İtalya'nın pakt politikasını (Faşist dönem İtalyan diplomasisi) kutlamak üzere çerçevelenmiştir,
+  dolayısıyla araçsaldır; imzasızdır.
+verification_note: >-
+  Alıntı birebir aynı ('Politica Italiana e Nuova Turchia' başlıklı); OCR dosya numarası 0213 ile sp=4
+  bağımsız olarak eşleştirilmemiştir.
+verification_method: loc.gov JSON -> tile.loc.gov full_text OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e426d9eba3ed
+  role: 85cf22ec4b91
+  quote: f041947db7fe
+  summary: e22cf5142709
+  caveat: e4d9c68cda81
+  verification_note: a7a0c9409440
+  verification_method: 3285e0490d8a

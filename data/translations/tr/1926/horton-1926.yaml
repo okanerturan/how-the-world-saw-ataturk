@@ -1,0 +1,27 @@
+# Turkish for data/voices/1926/horton-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: horton-1926
+voice: George Horton
+role: Yakın Doğu'da ABD konsolosu ve başkonsolosu; 13 Eylül 1922'ye kadar İzmir'de bulundu
+quote: Mustafa Kemal, İzmir'i yakıp sakinlerine kötü muamele ettiğinde muazzam bir hata yaptı.
+quote_kind: translated
+summary: >-
+  Kemal'in askerlerinin Hristiyanlığı yok etmek için İzmir'i yaktığını, onun bunu yaparak büyük bir hata
+  işlediğini ve onu Hristiyan güçlerin büyüttüğünü savunur.
+caveat: >-
+  İzmir yangınını kimin çıkardığı tarihçiler arasında tartışmalıdır; bu kayıt Horton'ın Kemal hakkındaki kendi
+  beyanıdır. Kitap s. 167 (1926 taraması yaprak n189).
+verification_note: >-
+  Alıntı 'Added Details 167' üst başlığı altında yer alıyor; dolayısıyla kitap sayfası 163 değil 167 gibi
+  görünüyor (n189 yaprağı doğru).
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: aef23a637650
+  role: 8d58d5d2f328
+  quote: ec6d4044691c
+  summary: fd9db6fee10a
+  caveat: db4f00c3e1f3
+  verification_note: 4393ccd3b1e6
+  verification_method: ad8cee67138e

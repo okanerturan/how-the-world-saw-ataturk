@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pietro-canonica-1926
+voice: Pietro Canonica
+voice_type: person
+role: Italian sculptor
+country: Italy
+country_now: Italy
+domain: arts
+date: "1926"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: artwork
+evidence: S
+summary: >-
+  Found at Ankara a simple, distinguished man of few words and penetrating eye, like an old-style Piedmontese
+  soldier; sketched the bust within an hour and finished it on the fourth day.
+quote:
+  text: >-
+    Egli era un uomo semplice, molto distinto nei modi al pari dei nostri soldati lombardi e piemontesi
+    d’antico stampo.
+  language: it
+mediated_by: >-
+  Scicchitano 2025 (IIC Istanbul) ← Canonica, Ricordi della mia vita (typescript, c. 1945–50)
+caveat: >-
+  The sittings were in 1926 but the words are a late memoir (c. 1945–50) seen only via a secondary article
+  quoting an archive typescript; memoir itself not seen.
+node: Pietro Canonica
+sources:
+  - url: https://iicistanbul.esteri.it/wp-content/uploads/2025/05/PIETROCANONICAdigital_compressed.pdf
+    archived: https://web.archive.org/web/20250613202130/https://iicistanbul.esteri.it/wp-content/uploads/2025/05/PIETROCANONICAdigital_compressed.pdf
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: >-
+    iicistanbul PIETROCANONICAdigital_compressed.pdf (quote in Canonica memoir excerpt and in his report to
+    Mussolini)
+  method: fetch
+  note: >-
+    Quote exact (secondary article quoting typescript, as flagged). 'Modelled bust in an hour' overstates:
+    memoir says bust was sketched/posed after an hour, finished on 4th day.
+  resolution: fixed before merge
+  checked_on: "2026-10-29"

@@ -1,0 +1,33 @@
+# Turkish for data/voices/2007/olmert-2007-02-15.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: olmert-2007-02-15
+voice: Ehud Olmert
+role: İsrail Başbakanı
+quote: >-
+  Halkı ve kendisini örnek alan diğer pek çok kişi için yeni bir umut yaratılmasına yardımcı olan bir Cesaret,
+  vizyon ve Yurtseverlik Rol Modeli.
+quote_kind: translated
+summary: >-
+  Halkına ve onun örneğini izleyen başkalarına umut veren 'bir Cesaret, vizyon ve Yurtseverlik Rol Modeli'.
+caveat: >-
+  İngilizce el yazısıyla yazılmış, 15 Şubat 2007, başlığı 'In honor of the father of Modern Turkey Kamal
+  Ata-Turk'; şöyle devam eder: 'The People of Israel look at this great hero of the turkish people with
+  admiration and respect.' 'Ehud Olmert, Prime Minister, the state of Israel' imzalı. Kaynak: Anıtkabir Özel
+  Defteri (basılı derleme, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının
+  Atatürk hakkındaki duygu ve düşünceleri'), ataturkarsivi.com üzerindeki sayfa görüntüleri, ana ajan
+  tarafından görüntü üzerinden okundu (4 Kasım 2026).
+verification_note: >-
+  Birebir aynı ('Courage vision and Patriotism' yazıldığı şekliyle noktalama işaretsizdir); 15 Şubat 2007
+  tarihli; Ehud Olmert, Prime-Minister, the state of Israel imzalı; 'admiration and respect' satırı mevcut.
+  Galeride bu kayıt için basılı Türkçe sayfası bulunmamaktadır.
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe metin OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 807d9448f292
+  role: ac2c59b51db4
+  quote: 529c4119372c
+  summary: 4233ad67de94
+  caveat: 5ff8855ab55e
+  verification_note: b5814ed5c70e
+  verification_method: "304538629105"

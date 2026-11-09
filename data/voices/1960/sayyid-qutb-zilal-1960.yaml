@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sayyid-qutb-zilal-1960
+voice: Sayyid Qutb
+voice_type: person
+role: Muslim Brotherhood ideologue; Qur'an commentator
+country: Egypt
+country_now: Egypt
+domain: religion
+date: "1960"
+era: posthumous
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: book
+evidence: S
+summary: >-
+  Describes Atatürk's movement as uncompromising in its enmity to everything Islamic and as the removal of the
+  last unifying Muslim institution, the Caliphate.
+quote:
+  text: >-
+    The clearest example of these was in the case of Ataturk and his movement in Turkey which was
+    uncompromising in its enmity to everything Islamic.
+  language: en
+mediated_by: >-
+  English translation of Fi Zilal al-Qur'an (In the Shade of the Qur'an, Islamic Foundation trans.) as scanned
+  on archive.org (Volume1Surah12); Arabic original not read
+caveat: >-
+  Translation. Commentary on Surah 9 (al-Tawbah), section 'Relations with Other Religions', scan p. 118
+  (further remark on p. 120 about Wilfred Cantwell Smith's reading of Atatürk). Zilal was written 1952–65 and
+  the surah volumes are undated, so '1960' is an approximate midpoint. Two other passages name him: Surah 6
+  (al-An'am) commentary, scan p. 118, 'Kemal Ataturk, the hero of Turkey', and p. 289, 'the false hero they
+  created'. In these passages Qutb ascribes the secularising project to Jewish, Christian and Zionist forces;
+  that is his attribution and is not endorsed here. Milestones (archive.org MILESTONES_201903,
+  milestones-syed-qutb) was searched and does not name Atatürk. Page numbers come from the scan's printed page
+  footers.
+node: Islamic Thinkers on Atatürk in Their Own Words
+sources:
+  - url: https://archive.org/details/Volume1Surah12
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org item Volume1Surah12, 'In the Shade of the Qur'an' vol. 8 (surah 9) and vol. 5 (surah 6)
+    djvu.txt (Islamic Foundation translation, uploader JpnMuslim)
+  method: curl of the archive.org djvu texts; located the lines and their printed page footers
+  note: >-
+    Verbatim in vol. 8 (surah 9, 'Relations with Other Religions'), p. 118 footer: 'The clearest example of
+    these was in the case of Ataturk and his movement in Turkey which was uncompromising in its enmity to
+    everything Islamic. They needed to reveal its reality because of the urgency they felt to bury the
+    Caliphate system which was the last aspect of Muslim unity.' (a line break falls after 'case'). p. 120:
+    Wilfred Cantwell Smith, Islam in Modern History, passage verified. Vol. 5 (surah 6): 'Kemal Ataturk, the
+    hero of Turkey' (p. 118 footer) and 'the false hero they created' (p. 289 footer) verified. Date '1960' is
+    an approximate midpoint, as stored. Hostile polarity and what_they_saw fair; Qutb's attribution of the
+    project to outside forces is his own. No correction.
+  checked_on: "2026-11-01"

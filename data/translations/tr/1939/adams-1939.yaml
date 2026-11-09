@@ -1,0 +1,23 @@
+# Turkish for data/voices/1939/adams-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: adams-1939
+voice: Milletvekili Bay Adams
+role: Avam Kamarası üyesi, İspanya görüşmesi
+quote: >-
+  Kemal Atatürk yönetimindeki Türkiye, totaliter bir devletin uluslararası yükümlülüklerine nasıl saygı
+  gösterebileceğinin parlak ve mükemmel bir örneğiydi.
+quote_kind: translated
+summary: >-
+  Franco hakkındaki bir tartışmada, Atatürk yönetimindeki Türkiye'yi uluslararası yükümlülüklerine saygı
+  gösteren totaliter bir devletin mükemmel bir örneği olarak gösterdi.
+caveat: Arama sonucunda konuşmacının ilk adı verilmemiş.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ca64d00c3bf8
+  role: 6441ed366f04
+  quote: 4ef6e24fdfde
+  summary: 0dc18f8c4b34
+  caveat: ff7a2fb11e7f
+  verification_method: ad8cee67138e

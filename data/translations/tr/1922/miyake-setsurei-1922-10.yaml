@@ -1,0 +1,39 @@
+# Turkish for data/voices/1922/miyake-setsurei-1922-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: miyake-setsurei-1922-10
+voice: Miyake Setsurei
+role: Filozof-eleştirmen, Nihon oyobi Nihonjin editörü
+quote: >-
+  Son zamanlarda Türkiye'deki Kemal'in Yunanistan ile savaşıp İngiltere, Fransa ve İtalya gibi güçlü
+  devletlerle müzakere etmesi, yerleşik diplomasi çevrelerinde beklenmedik bir şaşkınlık uyandırmaktadır.
+  Türkiye uzun süredir ölüm döşeğindeki ülke diye adlandırılmış ve barış konferansında ölü muamelesi
+  görmüşken, şimdi bu ölü dirilmiş ve yeniden güçlü devletlere karşı koyacak noktaya ulaşmıştır.
+quote_kind: translated
+summary: >-
+  Yunanistan ile savaşan ve büyük güçlerle pazarlık eden Kemal'in, 'ölü bir adam' olan Türkiye'yi yeniden
+  ayağa kaldırmasına ve diplomasiyi şaşkına çevirmesine hayret eder.
+caveat: >-
+  'Taishō 11, Ekim' tarihli deneme (Nihon oyobi Nihonjin), Eiyūron (1939) içinde yeniden basılmıştır, basılı
+  s. 10, NDL görüntü 13 (sayfa görüntüsü okundu). İlk cümlecik daha uzun bir cümlenin son kısmıdır; alıntı
+  cümle ortasından başlar. 1939 yayın tarihi altında denemenin kendisi 1922 tarihlidir. Setsurei, Miyake
+  Yūjirō olarak da anılır (pids 1268197, 1267866: yalnızca liste türü değinmeler).
+verification_note: >-
+  Alıntı basılı s. 10'da birebir aynıdır (近頃 ifadesiyle cümle ortasından başlar). Denemenin altında
+  '大正十一年十月「日本及日本人」' = Ekim 1922 imzası vardır; 1939 tarihi yalnızca kitabın basım yılıdır. 1922-10 ve çağdaş
+  dönem doğrudur. Yunanistan ve İtilaf Devletleri karşısında Kemal Paşa (Mustafa Kamil değil). Kendi hükmü:
+  'ölü adamın' dirilmesine duyulan hayret; sayfanın devamında Yunanistan'ı yenmesine rağmen yalnızca adalet
+  istediği belirtilir ki bu da hayranlık yönünü destekler. Çeviri sadıktır. Bakış testini geçer (Kemal
+  hakkındaki kendi yargısı).
+verification_method: >-
+  IIIF sayfa görüntüsü indirildi ve üzerindeki Japonca OKUNDU; yazar/başlık/yıl için NDL öğe üstverisi kontrol
+  edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b5856ac80c07
+  role: e4ca47813312
+  quote: f8fb8fbca698
+  summary: 4914ce202805
+  caveat: 7872b73a477b
+  verification_note: c8c719a9e836
+  verification_method: 25d671ee4bfd

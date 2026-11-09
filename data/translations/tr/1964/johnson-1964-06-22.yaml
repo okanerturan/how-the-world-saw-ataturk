@@ -1,0 +1,32 @@
+# Turkish for data/voices/1964/johnson-1964-06-22.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: johnson-1964-06-22
+voice: Lyndon B. Johnson
+role: >-
+  Amerika Birleşik Devletleri Başkanı; Başbakan İnönü onuruna verilen öğle yemeğinde kadeh kaldırma konuşması
+quote: Modern Türkiye'nin ölümsüz kurucusu Kemal Atatürk'ü anıyoruz.
+quote_kind: translated
+summary: >-
+  Atatürk'ü, yanında İnönü ile birlikte büyük ve modern bir devlet kuran 'modern Türkiye'nin ölümsüz kurucusu'
+  olarak adlandırır.
+caveat: >-
+  Atatürk'ün eski yardımcısı İnönü'yü onurlandırma çerçevesinde kurgulanmış kadeh kaldırma konuşması. Aynı gün
+  South Lawn'daki karşılama konuşması
+  (https://presidency.ucsb.edu/documents/remarks-welcome-the-white-house-prime-minister-inonu-turkey) 'the
+  dreams of the great Ataturk, at whose side you once worked' ifadesine yer verir. Tarih, Proje sayfasının
+  üstbilgisinden alınmıştır.
+verification_note: >-
+  Birebir aynı: 'We remember the immortal founder of modern Turkey, Kemal Ataturk.' Eşlik eden 'dreams of the
+  great Ataturk, at whose side you once worked' satırı da South Lawn karşılama konuşmasında mevcut. Tarih,
+  konuşmacı ve araçsal/1 değerlendirmesi yerinde.
+verification_method: UCSB sayfalarının fetch + curl ile çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 36f119b4dd28
+  role: bdbc3403a3a2
+  quote: b9bbe95a6fe6
+  summary: 0e9eb8662aad
+  caveat: 4c2d8304c579
+  verification_note: ff1e66b0d97d
+  verification_method: 4a6b19422edd

@@ -1,0 +1,35 @@
+# Turkish for data/voices/2016/weber-2016-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: weber-2016-11
+voice: Manfred Weber
+role: Avrupa Parlamentosu Üyesi (CSU), EPP Grubu adına konuşuyor
+quote: >-
+  Bugün konuşmamda büyük bir Türk'ü, yani Atatürk'ü hatırlatmak istiyorum. Yurtta barış – dünyada barış, onun
+  ortaya koyduğu sözlerden biriydi.
+quote_kind: translated
+summary: >-
+  Darbe girişiminin ardından 'büyük bir Türk' olan Atatürk'ü hatırlatır; barış ve korkudan uzak egemenlik
+  üzerine sözlerini Türkiye'nin kendi geleneği olarak aktarır.
+caveat: >-
+  Özgün Almanca metin birebir tutanaktaki gibidir ('erinneren' tutanağın yazım hatasıdır). Devamında
+  Atatürk'ün yalnızca korku ve silah üzerine kurulu egemenliğin ayakta kalamayacağı yönündeki sözünü aktarır
+  ve Ankara'ya 'bizim Avrupa değerlerimiz' yerine Türkiye'nin kendi geleneğinden hareketle tartışmasını
+  söyler; övgü Erdoğan hükümetine verdiği mesaja hizmet ettiğinden araçsaldır. Görev: Tutanak kendisini 'im
+  Namen der PPE-Fraktion' olarak adlandırır; CSU üyeliği standart kayıttan alınmıştır. [Çeviri:] Bugün
+  konuşmamda büyük bir Türk'ü, yani Atatürk'ü hatırlatmak istiyorum. 'Yurtta barış - dünyada barış', onun
+  ortaya koyduğu sözlerden biriydi.
+verification_note: >-
+  Birebir aynı ('erinneren' basıldığı şekliyle); konuşmacı, grup, tarih doğru; çeviri sadık. Kendi görüşü
+  ('einen großen Türken'), bakış testini geçiyor. 'instrumental' savunulabilir (övgü Ankara'ya yönelik bir
+  mesaj taşıyor); hayranlık bildiren (admiring) de yerinde olurdu. CSU üyeliği tutanakta yer almıyor.
+verification_method: tools/ms render
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9ac88b666bda
+  role: 5a88b298db08
+  quote: 725e3966d7db
+  summary: 880244040d84
+  caveat: 2215964b5d74
+  verification_note: 271dfa8e8a79
+  verification_method: 203765cabfb6

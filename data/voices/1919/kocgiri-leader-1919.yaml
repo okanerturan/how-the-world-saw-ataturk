@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kocgiri-leader-1919
+voice: Koçgiri leader (Alişan Bey)
+voice_type: person
+role: Koçgiri Kurdish tribal leader, son of Koçgirili Mustafa Paşa
+country: Ottoman Empire / Turkish nationalist Anatolia
+country_now: Turkey
+domain: politics
+date: "1919"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: quote
+evidence: S
+summary: >-
+  Told Mustafa Kemal the Kurds were working for autonomous Kurdistan; Kemal answered Wilson's principles were
+  worthless for the peoples of the east.
+quote:
+  text: as proclaimed in President Wilson's Fourteen Points
+  language: en
+mediated_by: Olson 1989 <- Dersimi, Kürdistan
+caveat: >-
+  Name partly cut off in the excerpt read (Wikipedia gives Alişan Bey); date approximates after the Erzurum
+  Congress, Aug 1919. text unchecked (source unreachable 2026-10-29)
+node: Koçgiri Leaders Write to Ankara, 1920
+sources:
+  - url: https://doi.org/10.1163/22138617-0690106006
+verification:
+  verdict: secondary-only
+  checked_against: >-
+    https://brill.com/view/journals/ormo/69/1-6/article-p41_6.xml (Olson 1989 abstract page only, paywalled)
+  method: fetch
+  note: >-
+    Only bibliographic page reached; Wilson/Fourteen Points exchange, Alisan Bey attribution and date not
+    checkable; Dersimi original not seen
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

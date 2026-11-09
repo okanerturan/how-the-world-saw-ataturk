@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ben-badis-1938
+voice: Abdelhamid Ben Badis
+voice_type: person
+role: Algerian reformist scholar; editor of al-Shihab
+country: French Algeria
+country_now: Algeria
+domain: religion
+date: "1938-12"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Called him the greatest man of modern history, a genius, saviour of Turkey; said he rebelled against
+  self-styled Muslims not Islam, spreading blame to clerics.
+quote:
+  text: greatest man humanity has known in modern history
+  language: en
+caveat: >-
+  Original read (r7): al-Shihab 14/9, 'مصطفى كمال رحمه الله', signed Ben Badis, pp. 131–134 (title page p. 130
+  inferred); cover month Nov 1938, contents page dates publication 30 Dec 1938. Hedges: his stance toward
+  Islam 'made the Muslim's heart contract'.
+node: Abdelhamid Ben Badis
+sources:
+  - url: https://archive.org/details/Alshehab-mag
+  - url: https://binbadis.net/archives/919
+    archived: https://web.archive.org/web/20251110233135/https://binbadis.net/archives/919
+  - url: http://www.alsalabi.com/article/141
+    archived: https://web.archive.org/web/20261109085805/http://www.alsalabi.com/article/141
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    http://www.alsalabi.com/article/141 and https://binbadis.net/archives/919 (Arabic text of Ben Badis
+    article)
+  method: fetch
+  note: >-
+    Quote is English translation of Arabic 'a'zam rajul 'arafathu al-bashariyya fi al-tarikh al-hadith';
+    'heart contracts' hedge present in alsalabi text.
+  checked_on: "2026-10-29"

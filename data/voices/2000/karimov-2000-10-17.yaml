@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: karimov-2000-10-17
+voice: Islam Karimov
+voice_type: person
+role: President of Uzbekistan
+country: Uzbekistan
+country_now: Uzbekistan
+domain: politics
+date: "2000-10-17"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: quote
+evidence: J+J
+summary: >-
+  Tells Turkish journalists his path is Atatürk's, that he took Atatürk as his model, and that Atatürk's
+  enemies in Turkey are his enemies.
+quote:
+  text: >-
+    Kim ki Türkiye'de Atatürk'ün düşmanıdır; o kişi benim de düşmanımdır. Kim ki Atatürk'ü sever; o benim de
+    dostumdur. Benim yolum Atatürk'ün yoludur. Kendime Atatürk'ü model aldım.
+  translation: >-
+    Whoever is Atatürk's enemy in Turkey is my enemy too. Whoever loves Atatürk is my friend. My path is
+    Atatürk's path. I took Atatürk as my model.
+  language: tr
+mediated_by: Hürriyet, 18 Oct 2000, and Cumhuriyet, 18 Oct 2000 p. 10 (Turkish press renderings)
+caveat: >-
+  Said in Tashkent during President Sezer's visit, at the Timurid History Museum, the day Sezer left for
+  Turkmenistan. Cumhuriyet's wording differs: 'Büyük Kemal Atatürk'ün yolu bizim için makbul yol... Türkiye'de
+  kim ki Kemal Atatürk'e karşı çıkarsa, o bana karşı çıkmış demektir.' In the same remarks he praises the
+  Turkish General Staff's fight against 'irtica' and complains of Uzbek Islamist exiles in Istanbul; his
+  secular authoritarianism frames the praise. A 1998 statement ('follows Ataturk's precepts', Jamestown
+  Monitor 14 Apr 1998, agencies) is single-source and not staged.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.hurriyet.com.tr/gundem/ataturk-un-dostu-dostum-dusmani-dusmanim-39190439
+  - url: https://egazete.cumhuriyet.com.tr/en/catalog/192/2000/10/18/10
+  - url: https://jamestown.org/karimov-says-he-follows-ataturks-model/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.hurriyet.com.tr/gundem/ataturk-un-dostu-dostum-dusmani-dusmanim-39190439 (Hürriyet 18 Oct
+    2000); https://egazete.cumhuriyet.com.tr/en/catalog/192/2000/10/18/10 (Cumhuriyet 18 Oct 2000 p. 10, OCR)
+  method: curl
+  note: >-
+    Turkish quote verbatim in Hürriyet; Cumhuriyet body: 'Büyük Kemal Atatürk'ün yolu bizim için makbul yol
+    ... kim ki Kemal Atatürk'e karşı çıkarsa, o bana karşı çıkmış demektir' (the headline deck has 'Büyük
+    Atatürk'ün'). Both papers place the remarks at the Timurid museum before Sezer left for Turkmenistan on 17
+    Oct. Both are Turkish renderings of remarks made in another language; J+J honest. The Jamestown page
+    fetched as a 5 KB stub without the text.
+  checked_on: "2026-11-05"

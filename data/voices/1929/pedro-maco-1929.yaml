@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pedro-maco-1929
+voice: Pedro Maco
+voice_type: person
+role: Special correspondent of La Opinión
+country: United States
+country_now: United States
+domain: press
+date: "1929-05-16"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  'Crónica de Turquía': beyond the tourist surface, Kemal is a fighter of iron will, the hero who saved the
+  country, with a symbol's force.
+quote:
+  text: el héroe que salvó al país, posee la fuerza de un símbolo
+  language: es
+caveat: >-
+  Printed 'Especial para La Opinión'; the byline is read from the OCR. Maco also notes a reactionary force and
+  that the Turk 'imitates European civilisation only partially'.
+node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
+sources:
+  - url: https://www.loc.gov/resource/sn81004351/1929-05-16/ed-1/?sp=3
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: tile.loc.gov OCR sn81004351 1929-05-16 (curiv twinberry 1929051601/0163) full_text
+  method: loc.gov ALTO full_text via curl
+  note: >-
+    'CRÓNICA DE TURQUÍA Por PEDRO MACO (Especial para LA OPINIÓN)'; 'el héroe que salvó al país, posee la
+    fuerza de un símbolo' verbatim; 'voluntad de hierro' and reactionary force present. Sheet seq 3 not
+    independently confirmed from the loc.gov page viewer.
+  checked_on: "2026-10-29"

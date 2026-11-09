@@ -1,0 +1,30 @@
+# Turkish for data/voices/1922/mn-roy-inprecor-1922-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mn-roy-inprecor-1922-10
+voice: M. N. Roy
+role: Inprecor'da yazan Hintli Komintern lideri
+quote: >-
+  her türlü devrimci ilhamdan veya bakış açısından yoksun bir askeri diktatör gibi, kendini İngiliz
+  emperyalizmine karşı entrika çeviren Fransız emperyalizminin boyunduruğuna koştu.
+quote_kind: translated
+summary: >-
+  Türk zaferini bir Doğu ulusunun Avrupa emperyalizmini yenebileceğinin kanıtı olarak selamladı, ancak Kemal'i
+  kendini Fransız emperyalizminin boyunduruğuna koşan bir askeri diktatör olarak nitelendirdi.
+caveat: >-
+  Bozuk bir PDF metin katmanından alıntılanmıştır; ifadeler OCR'dan yeniden oluşturulmuştur; s. 671.
+verification_note: >-
+  Alıntı bozuk metin katmanında bile birebir aynı ('devoid of any revolutionary inspiration or outlook, he
+  hitched himself to the yoke of French Imperialism intriguing against British Imperialism'). Makale ayrıca
+  zaferi 'a great inspiration to all the subject peoples' olarak nitelendiriyor, dolayısıyla 'conflicted'
+  değerlendirmesi yerinde. Sayfa 671 içindekiler listesiyle doğrulanıyor; devamı s. 672'de.
+verification_method: PDF metni serbest erişimle getirildi; cümle bulundu ve makale bağlamında okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: aab90192777c
+  role: ac3fab6c4b62
+  quote: 61dc12e41bec
+  summary: 368c10bfe825
+  caveat: 5f3acdf79a7f
+  verification_note: c209289c2447
+  verification_method: 09c7fa8ed911

@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ishiwara-kanji-1941
+voice: Ishiwara Kanji (石原莞爾)
+voice_type: person
+role: Imperial Japanese Army officer, strategist
+country: Japan
+country_now: Japan
+domain: military
+date: "1941-04"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: book
+evidence: P
+summary: >-
+  Named Kemal Pasha, with Chiang and Franco, as a recent ruler who roughly united political and strategic
+  command in one person.
+quote:
+  text: 最近に於てはケマル・パシャとか蒋介石、フランコ将軍等は大体それであり
+  language: ja
+caveat: >-
+  1929 lecture revised 1938 and 1940, published 8 Apr 1941; the sentence mentions the Second European War so
+  cannot be from 1929.
+node: Ishiwara Kanji
+sources:
+  - url: https://www.aozora.gr.jp/cards/000230/files/55635_49037.html
+    archived: https://web.archive.org/web/20260102231255/https://www.aozora.gr.jp/cards/000230/files/55635_49037.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Aozora Bunko 55635_49037 (戦争史大観, preface dated 昭和16年4月8日)
+  method: curl, Shift-JIS decode, ruby stripped
+  note: >-
+    Quote verbatim. Passage presents the sovereign-commander as the 'ideal' and lists Kemal/Chiang/Franco as
+    roughly that; 'admiring' polarity is a mild read (descriptive, not warm praise).
+  checked_on: "2026-10-30"

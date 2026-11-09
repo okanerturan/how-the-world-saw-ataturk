@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mitsukawa-kametaro-1927
+voice: Mitsukawa Kametarō
+voice_type: person
+role: Pan-Asianist activist and writer, Yūzonsha / Kokuryūkai circle
+country: Japan
+country_now: Japan
+domain: politics
+date: "1927"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: book
+evidence: P
+summary: >-
+  Reports Kemal hailed with Lenin and Gandhi as the 'three great revolutionaries'; calls his revolution
+  patriotic throughout, unlike Lenin's materialism.
+quote:
+  text: ケマル・パシヤはトルコの愛國者であります。それ故彼の行つたトルコ革命は徹頭徹尾愛國の精神が流れて居ります。
+  language: ja
+caveat: >-
+  Sekai ishin ni menseru Nihon (1927), printed p. 32, NDL image 26 (page image read; the scan's spread order
+  is reversed). The 'three great revolutionaries' phrase is reported as what people call him ('稱せられて居ります'),
+  the patriot verdict is Mitsukawa's own. Other Mitsukawa books (1925–1932) mention Kemal only as a movement
+  name or in narration.
+node: Japanese Writers and Activists on Kemal, 1922–1947 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1277856
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: NDL pid 1277856 (Sekai ishin ni menseru Nihon, Isshinsha, 1927), image 26
+  method: >-
+    downloaded IIIF page image and READ the Japanese on it; checked NDL item metadata for author/title/year
+  note: >-
+    Quote verbatim on printed p.32 (scan spread reversed: 33 left, 32 right). Page has ケマル・パシャ with small-kana
+    variant of ヤ. Verdict 'patriot, revolution imbued with patriotism throughout' is his own; 'three great
+    revolutionaries' (Lenin, Gandhi, Kemal) is reported as '稱せられて居ります' (what is said), so what_they_saw 'Ranks
+    Kemal with...' slightly overstates; caveat already hedges it. Lenin contrast (materialist, non-patriot)
+    correct. Gaze test passes.
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (round 29)
+  checked_on: "2026-11-05"

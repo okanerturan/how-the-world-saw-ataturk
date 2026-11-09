@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rahmonov-2006-01-19
+voice: Emomali Rahmonov
+voice_type: person
+role: President of Tajikistan
+country: Tajikistan
+country_now: Tajikistan
+domain: politics
+date: "2006-01-19"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  Pledges to honour the memory of the Republic's founder, 'the great son of the Turkish people', Mustafa Kemal
+  Pasha Atatürk.
+quote:
+  text: >-
+    Мо хотираи асосгузори Ҷумҳурии Туркия, фарзанди бузурги халқи турк Мустафо Камол пошшо Отатуркро пос хоҳем
+    дошт
+  language: tg
+caveat: >-
+  [translation] 'We shall honour the memory of the founder of the Republic of Turkey, the great son of the
+  Turkish people, Mustafa Kemal Pasha Atatürk.' Handwritten in Tajik, 19.01.06, signed 'Э. Раҳмонов,
+  Президенти Ҷумҳурии Тоҷикистон'; transcribed from handwriting (Tajik-specific letters normalized). Source:
+  Anıtkabir Özel Defteri (printed compilation, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı
+  heyet başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), page images on ataturkarsivi.com, read on the
+  image by the main agent (4 Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) 2_3d328dd1 (Tajik handwriting; the other file, 1_b4e6b837, is a photo; no
+    printed text in the gallery)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Handwriting read at 3x: 'Мо хотираи асосгузори Ҷумҳурии Туркия, фарзанди бузурги халқи турк Мустафо Камол
+    пошшо Отатуркро пос хоҳем дошт' — matches the record. Dated 19.01.06; role line 'Президенти Ҷумҳурии
+    Тоҷикистон'. Two residual uncertainties, not corrections: (a) signature reads 'Э. Рах..мон(ов)', last
+    letters illegible, so 'Раҳмонов' is plausible but not certain; (b) 'пошшо' as written is literally 'king'
+    (Tajik for 'pasha' is normally 'пошо'); the record's '[translation] Pasha' is a fair reading of the title
+    in the name 'Mustafa Kamal Pasha' but not provable from the page. Translation otherwise fair; no printed
+    Turkish exists here to cross-check.
+  checked_on: "2026-11-04"

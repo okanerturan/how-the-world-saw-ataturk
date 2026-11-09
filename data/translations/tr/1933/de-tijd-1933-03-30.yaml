@@ -1,0 +1,28 @@
+# Turkish for data/voices/1933/de-tijd-1933-03-30.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-tijd-1933-03-30
+voice: De Tijd
+role: Katolik 'godsdienstig-staatkundig dagblad'
+quote: Türkiye'de Kemal'in Cumhuriyet Partisi'ne dayanan diktatörlüğü
+quote_kind: translated
+summary: >-
+  Faşizmi belirleyen özellikler üzerine bir makalede, Kemal'in Cumhuriyet Partisi'ne dayanan diktatörlüğünü
+  Moskova ve Roma'nın parti devletlerinin yanında sıraladı.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Faşizm karşıtı bir yazıdaki sınıflandırıcı ifade;
+  düşmanca yönelim bağlamdan çıkarılmıştır; kontrol sonrasında tanık olarak yeniden kodlandı: tek parti
+  rejimlerinin tarafsız sıralaması, belirtilmiş bir görüş yok
+verification_note: >-
+  Alıntı ve iddia birebir doğru, ancak kaynakta 'hostile' yönelimi ifade edilmemiştir; tek parti rejimlerinin
+  tarafsız bir sınıflandırmasıdır (kayıt çekince notu çıkarım yapıldığını kabul eder).
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e5221f936cf6
+  role: 0567a42963b6
+  quote: c9ae5ee2dc9c
+  summary: 0c242b9eb706
+  caveat: 89cd89b150ed
+  verification_note: eb5a188ad8c4
+  verification_method: ad8cee67138e

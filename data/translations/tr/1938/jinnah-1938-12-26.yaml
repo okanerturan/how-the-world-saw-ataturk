@@ -1,0 +1,40 @@
+# Turkish for data/voices/1938/jinnah-1938-12-26.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jinnah-1938-12-26
+voice: Muhammad Ali Jinnah
+role: Tüm Hindistan Müslüman Birliği Başkanı
+quote: Kemal Atatürk'ün şahsında İslam dünyası büyük bir kahramanı kaybetmiştir.
+quote_kind: translated
+summary: >-
+  Atatürk'ü Müslüman Doğu'nun en önde gelen şahsiyeti ve yitirilmiş büyük bir kahraman olarak nitelendirir ve
+  Hindistan Müslümanlarının batağın içinde kalmaya devam edip etmeyeceğini sorar.
+caveat: >-
+  26-29 Aralık 1938'de Patna'da irticalen yapılan başkanlık konuşması; Jamiluddin Ahmad, Some Recent Speeches
+  and Writings of Mr. Jinnah, s. 66'da basılan metin (Internet Archive DLI taraması, OCR okuması; 'batak'
+  cümlesi: 'With the example of this great man in front of them as an inspiration, will the Muslims of India
+  still remain in quagmire?'). Geniş çapta dolaşımda olan Kasım 1938 tarihli 'greatest Musalman in the modern
+  Islamic world' basın mülakatı bu metinde YOKTUR ve birincil kaynağı bulunamamıştır (yalnızca Dawn 2020 ve
+  'Quaid-e-Azam and the Islamic World', 1981'e atıf yapan bir Wikipedia tartışma sayfası vardır): adaylar
+  dosyasına bakınız.
+verification_note: >-
+  s. 66'da kelimesi kelimesine (üstbilgi 'RECENT SPEECHES AND' / '66'; Patna konuşması s. 65'te başlar):
+  'Another great figure, a world figure, that has passed away is Mustafa Kemal Ataturk. His death has come as
+  the greatest blow to the Muslim world. He was the foremost figure in the Muslim East. … In Kemal Ataturk the
+  Islamic world has lost a great hero. With the example of this great man in front of them as an inspiration,
+  will the Muslims of India still remain in quagmire ? (Cries of no, no.)' s. 65'teki başlık: 'Full text of
+  the Presidential Address delivered extempore at the annual session of the All-India Muslim League held at
+  Patna, 26th-29th December, 1938.' Çekince: kitap bu pasaj için tek bir gün değil oturum tarih aralığını
+  veriyor; 26 Aralık dış bilgiden hareketle açılış ve başkanlık konuşması günüdür (kitapta
+  gösterilmemektedir), dolayısıyla tarih alanı sağlamdır ancak '1938-12 (Patna oturumu 26-29 Aralık)' şeklinde
+  de yazılabilir. what_they_saw yerinde. Başka düzeltme yok.
+verification_method: archive.org djvu metni doğrudan curl ile çekildi; pasaj ve sayfa üstbilgisi tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b31c700153a1
+  role: 8d237f124ffb
+  quote: c20bace6f8cd
+  summary: 84f208dcac81
+  caveat: ceae69f39b01
+  verification_note: e62397bad827
+  verification_method: cb9a19df2126

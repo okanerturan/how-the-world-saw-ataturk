@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-croix-1924-03-07
+voice: La Croix
+voice_type: press
+role: Paris Catholic daily
+country: France
+country_now: France
+domain: press
+date: "1924-03-07"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Rejected the claim that Kemal spares Christian schools, attacked Turkish nationalist sectarian policy and Le
+  Temps for applauding its secularism.
+quote:
+  text: Et, puisque Mustapha Kemal prétend inaugurer
+  language: fr
+caveat: >-
+  View 1. Replaces the withdrawn 9 March record (quote was in this 7 March issue, not 9 March). Fragment cut
+  with '(...)' after 'inaugurer'. Same view also has 'cette intolérance jeune-turque' and the reproach to 'des
+  journaux comme le Temps'. Gallica ContentSearch fragment, OCR copied as given; view number is Gallica's, not
+  necessarily the printed page.
+node: Paris Dailies and the Abolition of the Caliphate, March 1924
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k261789f
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica bpt6k261789f ContentSearch; PAG_3 header LA CROIX VENDREDI 7 MARS 1924
+  method: Gallica ContentSearch fragment via ms fetch
+  note: >-
+    Verbatim 'Et, puisque Mustapha Kemal prétend inaugurer(...)' in PAG_1; also 'cette intolérance
+    jeune-turque' and reproach to 'journaux comme le Temps'. Fragment-only, so hostility is read from
+    neighbouring fragments.
+  checked_on: "2026-10-30"

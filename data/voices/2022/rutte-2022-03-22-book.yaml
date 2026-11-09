@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rutte-2022-03-22-book
+voice: Mark Rutte
+voice_type: person
+role: Prime Minister of the Netherlands; entry in the Anıtkabir special book
+country: Netherlands
+country_now: Netherlands
+domain: politics
+date: "2022-03-22"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Feels privileged to return to Anıtkabir to honour Atatürk's memory; the rest of the entry is about
+  Dutch-Turkish ties.
+quote:
+  text: >-
+    Mustafa Kemal Atatürk'ün hatırasını onurlandırmak için yeni bir fırsatla Anıtkabir'e geri geldiğim için
+    ayrıcalıklı hissediyorum.
+  is_translation: true
+  language: tr
+mediated_by: TürkInfo.nl and İktibas Dergisi (AA), 22 Mar 2022 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of an entry written in English (English). TürkInfo.nl and İktibas Dergisi print the same
+  AA text. 'Geri geldiğim' means he had been there before. As NATO Secretary-General Rutte visited Anıtkabir
+  again on 25 Nov 2024 (Akşam, AA), but no entry text was found.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.turkinfo.nl/hollanda-basbakani-rutte-anitkabir-i-ziyaret-etti/32026
+    archived: https://web.archive.org/web/20220325174249/https://www.turkinfo.nl/hollanda-basbakani-rutte-anitkabir-i-ziyaret-etti/32026/
+  - url: https://iktibasdergisi.com/2022/03/22/hollanda-basbakani-rutte-anitkabirde/
+    archived: https://web.archive.org/web/20250216182428/https://iktibasdergisi.com/2022/03/22/hollanda-basbakani-rutte-anitkabirde/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TürkInfo.nl (AA) 22 Mar 2022 15:10; İktibas Dergisi 22 Mar 2022
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used
+  note: >-
+    Quote verbatim, first sentence of two; date correct. TürkInfo credits AA; İktibas same text without
+    credit: one source. Instrumental/1 fair.
+  checked_on: "2026-11-03"

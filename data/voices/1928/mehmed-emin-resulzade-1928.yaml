@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mehmed-emin-resulzade-1928
+voice: Mehmed Emin Resulzade
+voice_type: person
+role: Founder of the 1918 Azerbaijani Republic; émigré publicist
+country: Azerbaijan (in exile)
+country_now: Azerbaijan
+domain: politics
+date: "1928"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: article
+evidence: S
+summary: >-
+  Called Gazi Pasha the symbol of the liberated East: independence-fighter of Washington's stature and
+  revolutionary on the scale of the French Revolution's heroes.
+caveat: 1928 journal not identified.
+node: Mehmed Emin Resulzade
+sources:
+  - url: https://edebiyyatqazeti.az/news/sience/11325-qardas-turkiye-basin-sag-olsun
+    archived: https://web.archive.org/web/20240914202550/https://edebiyyatqazeti.az/news/sience/11325-qardas-turkiye-basin-sag-olsun
+verification:
+  verdict: confirmed
+  checked_against: >-
+    https://edebiyyatqazeti.az/news/sience/11325-qardas-turkiye-basin-sag-olsun (Resulzade 1938 Qurtulus
+    article quoting his 1928 piece)
+  method: fetch
+  note: >-
+    Resulzade 'Qurtulan Sherqin simvolu' and 'Washington-calibre istiqlalchi / French Revolution heroes'
+    confirmed; the 1928 piece was a chapter-article in a book on Gazi Pasha, not a journal (caveat
+    consistent); 1928 text itself seen only as self-quotation
+  checked_on: "2026-10-29"

@@ -1,0 +1,35 @@
+# Turkish for data/voices/1961/mohammad-reza-pahlavi-1961.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mohammad-reza-pahlavi-1961
+voice: Mohammad Reza Pahlavi
+role: İran Şahı; Mission for My Country (1961) adlı anı kitabı
+quote: >-
+  Türkler arkaik hilafetlerini kaldırmışlardı; bundan kısa bir süre sonra da Kemal Atatürk'ün dinamik
+  liderliği altında bir cumhuriyet kurdular.
+quote_kind: translated
+summary: >-
+  Türkiye Cumhuriyeti'nin 'arkaik bir hilafetin' kaldırılmasının ardından Atatürk'ün 'dinamik liderliği'
+  altında kurulduğunu anlatır ve Türkiye'nin İran karşısında daha erken yola çıkmış olmasını karşılaştırır.
+caveat: >-
+  Kısa ve geçerken değinildiği için yoğunluk 1. Sayfa 39 bilgisi kitabın kendi dizininden ('Ataturk, Kemal,
+  39') alınmıştır; archive.org OCR metninde sayfa işaretleri yoktur. Bir sonraki paragraf 1920'lerdeki İran'ı
+  'neighbouring Turkey, which my father visited in 1934 to observe the remarkable progress made' ile
+  karşılaştırır (yaklaşık s. 39-40). Şah, bir hükümdar olarak babasının cumhuriyet ya da monarşi tercihi
+  hakkında yazmaktadır; bu cümle o tercihin bağlamını oluşturur.
+verification_note: >-
+  Satır sonlarına bölünmüş olarak birebir aynı ('...abolished their archaic caliphate; and soon afterwards
+  they established a republic under the dynamic leadership of Kemal Ataturk'). OCR metninde sayfa işareti yok;
+  s. 39 bilgisi kitabın yalnızca 39'u listeleyen kendi dizinine dayanıyor. Türkiye ve 1934 ziyareti hakkındaki
+  izleyen paragraf mevcut. 'dynamic leadership' / 'archaic caliphate' ifadeleri, hayran/1 değerlendirmesini
+  savunulabilir kılacak ölçüde değer yargısı içeriyor.
+verification_method: djvu metninin curl ile çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 91a551cdec9c
+  role: 20cb69e4cc48
+  quote: 1b7169433485
+  summary: 95ff76bcc5ca
+  caveat: 474665711d0c
+  verification_note: b1b5ecebb261
+  verification_method: bac8b144a275

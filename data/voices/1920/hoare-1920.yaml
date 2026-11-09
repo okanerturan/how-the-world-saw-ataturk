@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hoare-1920
+voice: Sir Samuel Hoare MP
+voice_type: person
+role: Commons, Turks and Constantinople debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-02-26"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Paired Kemal with Enver at Sivas as the real power, arguing that threatening the Sultan achieved nothing.
+quote:
+  text: >-
+    what is the good of pointing your guns at the Sultan when Enver and Mustapha Kliamil are at Sivas?
+  language: en
+caveat: >-
+  Speaker printed 'Sir S. HOARE'; spelling 'Kliamil' as in the Hansard text. Hostile reading is inferred from
+  the pairing with Enver.
+node: Kemal in the Commons, Variant Spellings, 1920–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-02-26/debates/7dd9498b-3e40-4d22-a1d1-b06729365496/TurksAndConstantinople
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard API contribution full text, Commons 26 Feb 1920 Turks And Constantinople, attributed 'Sir S. HOARE'
+  method: Hansard API Spoken search
+  note: >-
+    Verbatim incl. 'Kliamil'. Hostile polarity is inferred from the pairing with Enver and his 'effete
+    tyranny' remarks; 'threatening the Sultan achieved nothing' is a fair gloss of the shadow-sovereignty
+    alternative.
+  checked_on: "2026-10-30"

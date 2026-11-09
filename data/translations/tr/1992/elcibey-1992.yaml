@@ -1,0 +1,36 @@
+# Turkish for data/voices/1992/elcibey-1992.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: elcibey-1992
+voice: Ebülfeyz Elçibey
+role: Azerbaycan Cumhurbaşkanı
+quote: hele ilkin yolumuz Mustafa Kemal’in yoludur, sonra da devletimizi kuracağız.
+quote_kind: original-turkish
+summary: >-
+  Azerbaycan'ın ilk adımının Mustafa Kemal'in yolu, sonraki adımının ise bir devlet olduğunu söyler; Mustafa
+  Kemal önderliğindeki cumhuriyeti yükselen bir ses olarak nitelendirir.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 83 (basılı s. 72). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe basılmıştır. Çeviri: "İlk yolumuz Mustafa Kemal'in yoludur; ondan sonra devletimizi
+  kuracağız." Ayrıca modern bir cumhuriyet kurma konusunda 'Büyük Mustafa Kemal'den alıntı yapar. Başlık:
+  'Azerbaycan Cumhurbaşkanı Ebulfez Elçibey', 26 Haziran 1992; isim kitapta 'Ebulfez Elçibey' şeklinde
+  yazılmıştır. Konuşmanın yapıldığı dil kitapta belirtilmemiştir.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Azerbaycan Cumhurbaşkanı Ebulfez
+  Elçibey, 89. Birleşim, 26 Haziran 1992' (başlık PDF s. 82'de)). Alıntı, atıfta bulunulduğu üzere PDF s.
+  83'tedir (basılı s. 72). Bağlam: Azerbaycan'ın ne yapacağı sorulduğunda verdiği cevabın bu olduğunu söyler.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracıyla PNG'ye dönüştürülerek (check_png/c83.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı, görsel üzerinde ve kendi bağımsız metin katmanı çıkarımıyla
+  kelime kelime karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7ff1f35c0f21
+  role: 09529b17aace
+  quote: f7aeb1a31947
+  summary: 2fbef0aab5a7
+  caveat: 7184308ddaf5
+  mediated_by: 8e2cc528453b
+  verification_note: faeed0152bce
+  verification_method: f5605afba367

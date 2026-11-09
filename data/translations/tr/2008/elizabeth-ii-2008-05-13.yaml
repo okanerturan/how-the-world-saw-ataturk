@@ -1,0 +1,41 @@
+# Turkish for data/voices/2008/elizabeth-ii-2008-05-13.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: elizabeth-ii-2008-05-13
+voice: II. Elizabeth
+role: Birleşik Krallık Kraliçesi; Anıtkabir özel defterindeki yazısı
+quote: Birleşik Krallık'ın çok değerli bir dostu ve modern tarihin büyük şahsiyetlerinden biri
+quote_kind: translated
+summary: >-
+  Atatürk'ü Birleşik Krallık'ın çok değerli bir dostu ve modern tarihin büyük şahsiyetlerinden biri olarak
+  onurlandırıyor.
+caveat: >-
+  İngilizce el yazısıyla yazılmıştır; Hürriyet ('Dünyanın gözü bu yemekteydi') ve Haberler üzerinden AA, küçük
+  hal eki farklarıyla ('Atatürk'ün' / 'Atatürk'e') aynı Türkçe çeviriyi yayımlıyor. İngilizce özgün metne
+  ulaşılamadı. Meşruti bir hükümdarın metni olup uygulamada Dışişleri Bakanlığı (Foreign Office) ile birlikte
+  kaleme alınmıştır. 37 yıl aradan sonra ilk devlet ziyareti (1971 ziyareti de çelenk sunumunu ve defteri
+  içeriyordu). İngilizce ifadeler Trend, Turkish Press Review ve Dünya'dan (Hürriyet Daily News 'much beloved'
+  olarak basıyor). AA ve Hürriyet tek bir Türkçe çeviriyi paylaşıyor; buradaki 'en büyük' ifadesi 'great'
+  kelimesini abartıyor.
+mediated_by: Hürriyet ve AA/Haberler (kaydın Türkçe çevirisi)
+verification_note: >-
+  Türkçe metin AA ve Hürriyet'te birebir aynı (aynı çeviri, AA ve Hürriyet bağımsız değil). 13 Mayıs tarihi
+  doğrulandı (AA zaman damgası 13 Mayıs 18:08). İngilizce metin çeşitli yayın organlarında bulundu: 'It is an
+  honor to pay my respects to Mustafa Kemal Ataturk, a much valued friend of the United Kingdom and one of the
+  great figures of modern history' (Hürriyet Daily News 'much beloved' olarak basıyor). Türkçedeki 'en büyük
+  şahsiyetlerinden' (en büyüklerinden biri) ifadesi 'one of the great figures' ifadesini abartıyor. Düzeltme:
+  what_they_saw alanında 'greatest' değil 'one of the great figures of modern history' denmeli; quote alanı
+  İngilizce metin olmalı.
+verification_method: >-
+  Alıntılanan sayfanın tools/ms ile (ücretsiz) yeni çekimi, 3 Kasım 2026; bağımsız denetleyici; İngilizce
+  metin için 1 ücretli arama
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 90ddd9dc9497
+  role: 3ccdcc7a55c4
+  quote: b74ce3ba029e
+  summary: 8dd079db11aa
+  caveat: d1f4a7731002
+  mediated_by: 9323ff893fb0
+  verification_note: 89fdad3e7bcb
+  verification_method: 39d3964d4a62

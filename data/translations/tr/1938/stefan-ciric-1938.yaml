@@ -1,0 +1,35 @@
+# Turkish for data/voices/1938/stefan-ciric-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: stefan-ciric-1938
+voice: Stefan Ćirić (Yugoslavya Temsilciler Meclisi Başkanı)
+role: Yugoslavya Temsilciler Meclisi Başkanı
+quote: >-
+  dünya tarihinin en büyük adamlarından biri, yalnızca yenileyici ve yaratıcı en büyük devlet adamlarından
+  biri değil
+quote_kind: translated
+summary: >-
+  Dünya tarihinin ve devlet adamlarının en büyüklerinden birinin, yenileyici ve yaratıcının ve Kral Alexander
+  ile birlikte çalışmış büyük bir dostun yasını tuttu.
+caveat: >-
+  TBMM c. 2 (c2) PDF s. 12. Alıntı Fransızcadır (telgraf dili; tanımlıklar düşürülmüştür); çevirisi: 'dünya
+  tarihinin en büyük adamlarından biri ... en büyük devlet adamlarından biri, yenileyici ve yaratıcı'. 'stefan
+  ciric' imzalıdır.
+verification_note: >-
+  Metin iki yaprağa yayılmıştır: 'non seulement un des plus grands hommes histoire mondiale non seulement un
+  des plus grands hommes de etat regenerateur et createur mais en plus grand ami qui collabora fidelement avec
+  roi martyr alexandre l unificateur'; 'stefan ciric president de la chambre des deputes yougoslave'
+  imzalıdır. Kayıttaki alıntı ilk 'non seulement' ifadesinden sonra başlar ve aslına sadıktır; kayıtta olduğu
+  gibi kaynakta da tanımlıklar eksiktir; aksanlar tamamlanmıştır.
+verification_method: >-
+  PDF sayfasının kendi görüntü çıktısı (PDFKit PNG, gözle okundu); OCR'a dayanılmadı; telgraf metni aksansız
+  büyük/küçük harf daktilo yazısıdır
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7331dce08c98
+  role: b32294afa220
+  quote: d5f53d5b7b79
+  summary: f08d6d9f3224
+  caveat: 23bee30cf542
+  verification_note: 67f57a614a8a
+  verification_method: 7c3ad23fb937

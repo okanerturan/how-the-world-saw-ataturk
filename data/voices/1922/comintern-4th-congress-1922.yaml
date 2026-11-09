@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: comintern-4th-congress-1922
+voice: Communist International (Fourth Congress)
+voice_type: institution
+role: Third International
+country: Soviet Russia
+country_now: Russia
+domain: politics
+date: "1922-11"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: report
+evidence: J
+summary: >-
+  Praised Turkey's independence movement but accused Ankara of preparing a deal with imperialism at Lausanne
+  and persecuting communists; offered support to any anti-imperialist government.
+quote:
+  text: >-
+    ready to come to terms with the imperialists for the sake of certain concessions in favour of the Turkish
+    big bourgeoisie
+  language: en
+mediated_by: WSWS series quoting the Open Letter; Akbulut & Tunçay (2020)
+caveat: >-
+  Partisan relay of Comintern protocols; gaze is on the Ankara government, not Atatürk by name.
+node: The Comintern's Verdict on Kemal, 1922–1928
+sources:
+  - url: https://wsws.org/en/special/library/foundations-turkey/03.html
+    archived: https://web.archive.org/web/20260416034536/https://wsws.org/en/special/library/foundations-turkey/03.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://wsws.org/en/special/library/foundations-turkey/03.html (Open Letter para 23)
+  method: fetch
+  note: >-
+    Quote verbatim in WSWS; partisan relay, gaze on Ankara govt not Ataturk by name (as caveat says)
+  checked_on: "2026-10-29"

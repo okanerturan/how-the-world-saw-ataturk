@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en" style="background:#f7f5f0;color-scheme:only light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- never let an app's built-in browser auto-darken the paper -->
+    <meta name="color-scheme" content="only light" />
+    <title>The Thread · 1919–2026</title>
+    <meta name="description" content="Every voice that spoke about Atatürk, 1919 to today, set as one line of text spiralling into his portrait. Each with its source and an independent check." />
+    <meta property="og:title" content="The Thread · How the world saw Atatürk" />
+    <meta property="og:description" content="Every voice that spoke about Atatürk, 1919 to today, set as one line of text spiralling into his portrait." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+  </head>
+  <body data-mode="intro">
+    <div id="app"></div>
+    <div id="boot" data-t="boot">Setting every voice in type…</div>
+    <div id="fail" hidden></div>
+    <script>
+      // if the drawing never starts (no WebGL in an app's built-in browser, a script error, a stall), say so plainly
+      (function () {
+        var shown = false, tr = false;
+        try {
+          var q = new URLSearchParams(location.search).get('lang'), m = q || localStorage.getItem('thread-lang');
+          tr = m ? m === 'tr' : (navigator.languages || [navigator.language]).some(function (l) { return /^tr\b/i.test(l || ''); });
+        } catch (e) {}
+        var S = tr ? {"head": "İplik burada çizilemedi.", "inapp": "Bu, bir uygulamanın yerleşik tarayıcısına benziyor; bu tür tarayıcılar sayfanın ihtiyaç duyduğu grafikleri genellikle kapatır.", "other": "Bu tarayıcı, bu sayfanın ihtiyaç duyduğu grafikleri başlatamadı.", "chrome": "Chrome’da açın", "open": "Tarayıcınızda açın", "retry": "tekrar deneyin"} : {
+          head: 'The thread could not be drawn here.', inapp: 'This looks like an app’s built-in browser, which often switches off the graphics this page needs.',
+          other: 'This browser could not start the graphics this page needs.', chrome: 'Open it in Chrome', open: 'Open it in your browser', retry: 'try again' };
+        if (tr) { var bt = document.getElementById('boot'); if (bt) bt.textContent = "Her ses dizgiye alınıyor…"; }
+        function show(detail) {
+          var f = document.getElementById('fail');
+          if (shown || !f || document.body.classList.contains('ready')) return;
+          shown = true;
+          var ua = navigator.userAgent, inApp = /WhatsApp|FBAN|FBAV|Instagram|Line\/|; wv\)|Telegram/i.test(ua), android = /Android/i.test(ua);
+          var here = location.href.replace(/^https?:\/\//, '');
+          var open = android ? 'intent://' + here + '#Intent;scheme=https;package=com.android.chrome;end' : location.href;
+          f.innerHTML = '<p class="h">' + S.head + '</p>' + '<p>' + (inApp ? S.inapp : S.other) + '</p>' +
+            '<p><a href="' + open + '">' + (android ? S.chrome : S.open) + '</a> &nbsp;·&nbsp; <a href="#" onclick="location.reload();return false">' + S.retry + '</a></p>' +
+            (detail ? '<p class="d">' + String(detail).replace(/[<>&]/g, '') + '</p>' : '');
+          f.hidden = false;
+          var b = document.getElementById('boot'); if (b) b.hidden = true;
+        }
+        window.__threadFail = show;
+        addEventListener('error', function (e) { show(e.message); });
+        addEventListener('unhandledrejection', function (e) { show(e.reason && e.reason.message); });
+        setTimeout(function () { show('It took too long to start.'); }, 30000);
+      })();
+    </script>
+
+    <aside id="index">
+      <div class="mast">
+        <div class="sc">1919 – 2026</div>
+        <h1 data-t="mast_title">The Thread</h1>
+        <div id="count" class="sub"></div>
+        <a href="#" id="lang" class="lang">Türkçe</a>
+      </div>
+      <section id="about">
+        <p data-t="about">Every voice in this archive, in the order they spoke, set as one line of text that winds out from 1919 at
+          the centre to today at the rim. Each letter is cut heavier where his photograph is dark: step back for his
+          face, come close to read every word. Click any voice and it unwinds off the spiral to be read straight.</p>
+        <p class="mtn" data-t="about_tr_note"></p>
+        <div class="go"><a href="#" id="read" data-t="begin">Begin with the prologue</a> <a href="#" id="explore" data-t="wander">or wander</a></div>
+      </section>
+
+      <label class="search"><span class="sc" data-t="find">Find</span><input id="q" data-tp="find_placeholder" placeholder="a name, a country, a year…" autocomplete="off" spellcheck="false" /></label>
+      <ol id="results"></ol>
+
+      <details open><summary data-t="threads">Threads to follow</summary><ol id="routes"></ol></details>
+      <details><summary data-t="light_up">Light up</summary><div id="cats"></div></details>
+      <details><summary data-t="names">Names</summary><ol id="names"></ol></details>
+      <nav class="rooms"><span class="sc" data-t="archive_head">The archive</span>
+        <a href="https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml" target="_blank" rel="noopener" data-t="suggest_voice">A voice missing? Suggest it</a><br>
+        <a href="https://github.com/okanerturan/how-the-world-saw-ataturk" target="_blank" rel="noopener" data-t="data_on_github">Every record, its sources and checks, on GitHub</a></nav>
+    </aside>
+    <button id="menu" aria-label="Index" data-t="index">Index</button>
+
+    <section id="cap" hidden></section>
+    <div id="lit" hidden></div>
+    <aside id="faces"></aside>
+    <div id="year"></div>
+    <div id="tip" hidden></div>
+    <div id="stylus" hidden></div>
+    <aside id="sheet" hidden></aside>
+    <script type="module" src="/src/thread.js"></script>
+  </body>
+</html>

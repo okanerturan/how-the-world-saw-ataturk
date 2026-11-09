@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jeffery-2006-04-26
+voice: Michael Jeffery
+voice_type: person
+role: Governor-General of Australia
+country: Australia
+country_now: Australia
+domain: politics
+date: "2006-04-26"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: P
+summary: >-
+  From Gallipoli 'emerged the great military commander' who founded modern Turkey; Australia will never forget
+  his postwar friendship and words to the mothers.
+quote:
+  text: >-
+    Australia will never forget Atatürk's symbol of friendship in the years following the war, and to this day
+    his words to the mothers of those who died continue to resonate amongst the Australian people.
+  language: en
+caveat: >-
+  Handwritten in English, 26 April 2006; earlier: 'for Turkey it was a place where national honour was
+  restored and from which emerged the great military commander, Mustafa Kemal Atatürk, founder and leader of
+  the modern Turkish Republic.' The 'words to the mothers' are the contested 'Johnnies and Mehmets' text (see
+  [[Johnnies and Mehmets]]). Source: Anıtkabir Özel Defteri (printed compilation, '1953'ten günümüze
+  Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk hakkındaki duygu ve düşünceleri'),
+  page images on ataturkarsivi.com, read on the image by the main agent (4 Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) 2_83c4944f (English handwriting; 1_78dfd509 is a photo)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Verbatim ('...Atatürk's symbol of friendship in the years following the war, and to this day his words to
+    the mothers of those who died continue to resonate amongst the Australian people'); dated 26 April 2006;
+    signed Major General Michael Jeffery AC CVO MC (Retd), Governor General of the Commonwealth of Australia.
+    'great military commander ... founder and leader of the modern Turkish Republic' present. Gallery label
+    spells 'JEFFORY'; page spells Jeffery. Gaze passes (view of Ataturk's friendship gesture and generalship),
+    though the entry is largely about Gallipoli.
+  checked_on: "2026-11-04"

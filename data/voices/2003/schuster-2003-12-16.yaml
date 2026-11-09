@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: schuster-2003-12-16
+voice: Rudolf Schuster
+voice_type: person
+role: President of Slovakia
+country: Slovakia
+country_now: Slovakia
+domain: politics
+date: "2003-12-16"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: P
+summary: >-
+  Addressing Atatürk: his statesman's mind and vision left an extraordinary heritage of independence and
+  national self-confidence, 'inspirational for us as well'.
+quote:
+  text: >-
+    you have left your descendants – thanks to your statesman's mind and vision – an extraordinary heritage of
+    independence and well-founded, national self-confidence which is inspirational for us as well.
+  language: en
+caveat: >-
+  Handwritten in English, Ankara, 16 Dec 2003, addressed 'Mr. Statesman, Dear General Mustafa Kemal Atatürk';
+  also: 'I agree with your conviction that politicians and statesmen must look for sources of certainty in
+  their people if they are to inspire and lead' and 'I bow down before your everlasting memorial.' Source:
+  Anıtkabir Özel Defteri (printed compilation, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı
+  heyet başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), page images on ataturkarsivi.com, read on the
+  image by the main agent (4 Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) schuster1-2 (handwriting), schuster4 (printed Turkish)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Quote verbatim from handwriting (page 1, 'you have left your descendants - thanks to your statesman's mind
+    and vision - an extraordinary heritage of independence and well-founded, national self-confidence which is
+    inspirational for us as well'). Dated Ankara, December 16, 2003; signed Rudolf Schuster, President, Slovak
+    Republic. Caveat quotes ('I agree with your conviction ...', 'I bow down before your everlasting
+    memorial') verbatim. Strong gaze; intensity 2 defensible (3 would also be arguable given 'admiration and
+    respect').
+  checked_on: "2026-11-04"

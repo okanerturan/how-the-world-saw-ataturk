@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: inoue-masaji-1930
+voice: Inoue Masaji
+voice_type: person
+role: Japanese politician-publicist, former Foreign Ministry man and emigration promoter
+country: Japan
+country_now: Japan
+domain: politics
+date: "1930"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: book
+evidence: P
+summary: >-
+  Says Kemal saved Turkey: without him it would have been driven out of Europe, left a dying remnant in
+  Anatolia.
+quote:
+  text: 土耳古は彼に依りて救はれた。彼なくば土耳古は歐洲の地より驅逐せられ、亞細亞に於てもアナトリヤの一角に、衰殘の命を寄するの外なき運命に在つた。
+  language: ja
+caveat: >-
+  Ijū to kaitaku (1930), printed p. 107, NDL image 63 (page image read). Chapter profiles Kemal as 'one
+  generation's splendid fellow' aged 43, so it was probably written about 1924 and collected in 1930; the date
+  given is the publication date. A later passage (p. 66 image) says Japan should not imitate Kemal, Lenin or
+  Gandhi but achieve its task by Japanese spirit.
+node: Japanese Writers and Activists on Kemal, 1922–1947 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1278778
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    NDL pid 1278778 (Ijuu to kaitaku, Nihon Shokumin Tsushinsha, 1930, author Inoue Masaji), image 63
+  method: >-
+    downloaded IIIF page image and READ the Japanese on it; checked NDL item metadata for author/title/year;
+    read neighbouring pages
+  note: >-
+    Quote verbatim on printed p.107 (left page, last columns). It is Kemal Pasha (ケマル・パシャ, Anatolia, Spa,
+    Sevres revision, age 43 -> c.1924), NOT Mustafa Kamil. p.107 calls him '又一代の快男子'. Page image 66 (printed
+    pp.112-113) lists 'Mussolini, Lenin, Gandhi, Kemal, Masaryk' among those Japan should not imitate: caveat
+    correct. Written c.1924, published 1930: contemporary either way, date 1930 acceptable as publication
+    date. Gaze test passes.
+  checked_on: "2026-11-05"

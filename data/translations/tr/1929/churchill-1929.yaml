@@ -1,0 +1,37 @@
+# Turkish for data/voices/1929/churchill-1929.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: churchill-1929
+voice: Winston Churchill
+role: Eski Savaş Bakanı; The World Crisis kitabının yazarı
+quote: Harekâtları karmaşık ve ustacaydı.
+quote_kind: translated
+summary: >-
+  Kemal'i bir 'Savaşçı Prens'in niteliklerine sahip 'Kaderin Adamı' ve 1922 taarruzunu 'ustaca' diye
+  nitelendirir; ancak ordusunu İzmir'in yakılmasıyla ilişkilendirir.
+caveat: >-
+  Aynı ciltteki ikinci alıntı, s. 367-368: 'Mustapha Kemal, the Man of Destiny whom we have met in these
+  volumes on the Gallipoli Peninsula ... was furnished with the power, as he already possessed the qualities,
+  of a Warrior Prince.' s. 419'da aynı yazar, Kemal'in ordusu hakkında 'celebrated their triumph by the
+  burning of Smyrna to ashes and by a vast massacre of its Christian population' diye yazar; dolayısıyla kitap
+  generale karşı hem hayranlık duymakta hem de sonuca karşı düşmanca bir tutum sergilemektedir. Sayfa
+  numaraları 1929 Thornton Butterworth baskısının djvu metnindeki (OCR) üst başlıklardan alınmıştır;
+  alıntılanan satır için s. 418. Mevcut churchill-1920 kaydı Avam Kamarası'ndaki farklı ve düşmanca bir
+  beyandır.
+verification_note: >-
+  s. 418'de birebir aynıdır ('His operations were complicated and masterly.'). Uyarı notundaki alıntılar da
+  birebir aynıdır: 'Mustapha Kemal, the Man of Destiny ... was furnished with the power, as he already
+  possessed the qualities, of a Warrior Prince' (s. 367-368) ve 'celebrated their triumph by the burning of
+  Smyrna to ashes and by a vast massacre of its Christian population' (s. 419). Önsöz 1 Ocak 1929 tarihlidir.
+  Çelişkili kutupluluk ve what_they_saw yerindedir. Düzeltme gerekmez.
+verification_method: >-
+  archive.org djvu metninin curl ile çekilmesi; grep ile arama ve üst başlıklarla birlikte bağlamın okunması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 12253b5990a1
+  role: 5c5f352854ad
+  quote: 83304191cf4d
+  summary: 6ad8f4dbeb2f
+  caveat: bf1a25d768dc
+  verification_note: 6d183f61e9c7
+  verification_method: 3b8ff42f3c8a

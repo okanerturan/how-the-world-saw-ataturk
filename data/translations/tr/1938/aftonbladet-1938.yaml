@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/aftonbladet-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: aftonbladet-1938
+voice: Aftonbladet
+role: İsveç günlük gazetesi
+summary: >-
+  Türkiye'nin yeniden inşasını şaşırtıcı ve eksiksiz bir devrim olarak nitelendirdi; kararları, uygulanma
+  hızıyla dünyayı hayrete düşürdü.
+caveat: >-
+  Toksoy'daki gazete adları fonetik olarak yazılmış ve bazen bozulmuştur; yabancı dildeki asılları
+  görülmemiştir.
+mediated_by: Toksoy 2006 ← Cumhuriyet (İsveç gazeteleri bölümü)
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f75653dccaed
+  role: 64409c633f80
+  summary: 00de28ed403d
+  caveat: ecc719a2a575
+  mediated_by: 8bd77e33cab2
+  verification_method: 939bb46a04c3

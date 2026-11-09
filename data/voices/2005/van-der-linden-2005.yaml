@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: van-der-linden-2005
+voice: René van der Linden
+voice_type: person
+role: President of the Parliamentary Assembly of the Council of Europe
+country: Council of Europe
+country_now: Council of Europe
+domain: politics
+date: "2005-11-09"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: emancipator-patriarch
+artifact: speech
+evidence: P
+summary: >-
+  After visiting Anıtkabir, says Atatürk carried out legal, social and cultural reforms and laid Turkey's
+  foundations; quotes him on women.
+quote:
+  text: >-
+    Kendisi bir hukuk ve sosyal politik ve kültürel reformları gerçekleştirmiş, bugünkü Türkiye’nin
+    temellerini atmıştır ve eminim ki, siz de O’nun yolundan gidecek bir parlamentosunuz.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 229 (printed p. 218). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "He carried out legal, socio-political and cultural reforms and laid the foundations
+  of today's Turkey, and I am sure that you will be a parliament that follows his path." He also notes that 9
+  November was the eve of the anniversary of Atatürk's death and calls the name 'Atatürk' the 'father of the
+  Turks'; urges more women MPs. Heading: 'Avrupa Konseyi Parlamenter Meclisi Başkanı Rene Van Der Linden', 9
+  Kasım 2005.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 229 (printed p. 218); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c229.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Avrupa Konseyi Parlamenter Meclisi
+    Başkanı Rene Van Der Linden, 16. Birleşim, 9 Kasım 2005 (heading on PDF p. 224)'). Quote on PDF p. 229
+    (printed p. 218) as cited; also checked the 'Türklerin babası' and the Atatürk quotation on women on that
+    page. Original not fetched.
+  checked_on: "2026-11-01"

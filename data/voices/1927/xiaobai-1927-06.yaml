@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: xiaobai-1927-06
+voice: 小白 (pseudonym)
+voice_type: person
+role: Anti-Chiang pamphleteer, June 1927
+country: China
+country_now: China
+domain: press
+date: "1927-06"
+era: contemporary
+polarity: hostile
+intensity: 1
+mirror: internal-mirror
+artifact: article
+evidence: P
+summary: >-
+  Said Chiang's April speech plainly meant he wanted to be Turkey's Kemal and Italy's Mussolini, a personal
+  military dictatorship.
+quote:
+  text: 豈非明明欲做土耳其之基瑪爾。意大利之蒙梭利尼。爲個人軍事獨裁之專制政體乎
+  language: zh
+caveat: >-
+  The target is Chiang; Kemal is the label for a one-man military dictator, hence hostile type-use.
+node: Kemal in the Kuomintang's Quarrels, 1924–1928
+sources:
+  - url: https://zh.wikisource.org/wiki/敬告國人莫被蔣介石所惑
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource 敬告國人莫被蔣介石所惑 (小白, 1927年6月)
+  method: Wikisource parse text
+  note: Quote verbatim; context is Chiang's 18 April banquet speech.
+  checked_on: "2026-10-30"

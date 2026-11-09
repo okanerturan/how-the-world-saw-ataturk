@@ -1,0 +1,37 @@
+# Turkish for data/voices/1926/zogu-1926-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zogu-1926-02
+voice: Ahmet Zogu (Kral I. Zog)
+role: Arnavutluk Cumhurbaşkanı (1928'den itibaren Kral)
+summary: >-
+  Türkiye'nin ilk elçisine, Türkiye'nin reformlarının başta Arnavutluk olmak üzere Müslüman ülkeler için bir
+  örnek olduğunu söyledi ve Mustafa Kemal'e duyduğu özel sempatiyi dile getirdi.
+caveat: >-
+  Elçi Tahir Lütfi'nin Kaceli aracılığıyla Şimşir'den aktarılan raporu; Zogu'nun birebir sözleri yoktur ve
+  'Müslüman ülkeler için örnek' ifadesinin Zogu'ya mı yoksa elçinin yorumuna mı ait olduğu bilinememektedir.
+  Şimşir sayfa numarası verilmemiştir. Zogu, rejimi zayıfken Ankara'nın yakınlığını kazanmaya çalışıyordu.
+mediated_by: >-
+  Kaceli 2021 ← Şimşir, Atatürk ve Yabancı Devlet Başkanları (1993; Arnavutluk c. I'de yer alır, sayfa
+  belirtilmemiş) ← elçi Tahir Lütfi'nin raporu
+verification_note: >-
+  Boş (null) alıntı doğrudur. Makale, güven mektubunun sunulmasının ardından Zog'un 'admitted the importance
+  of the reforms ... becoming an example for all Muslim countries, especially for Albania' ve 'stated his
+  special sympathy for Mustafa Kemal' ifadelerine yer verir. Bu tamamen Türk elçisi Tahir Lütfi'nin Ankara'ya
+  gönderdiği kendi raporuna (Kaceli aracılığıyla Şimşir'den) dayanmaktadır; Arnavutça bir kaynak ve birebir
+  sözler yoktur. 'example for Muslim countries' ifadesinin Zogu'ya mı yoksa elçinin yorumuna mı ait olduğu
+  bilinememektedir. En iyi ihtimalle yalnızca ikincil kaynaktır. DÜZELTME: alıntıyı null olarak tutun; çekince
+  notuna 'Zog'un söylediklerine dair elçi raporu, iki kademe dolaylı' yazın; Şimşir sayfası hâlâ
+  bilinmemektedir (c. I); Şimşir metni görülmedikçe kutupluluğu (polarity) araçsal/tanık düzeyine
+  (instrumental/witness-level) değiştirmeyi değerlendirin.
+verification_method: >-
+  Açık erişimli PDF'in tools/ms ile doğrudan indirilmesi; 17 Şubat 1926 kabulüne ilişkin pasaj okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b572a14c2de6
+  role: 8ad0a4ab0273
+  summary: 2fad43339a33
+  caveat: 64e5d637069f
+  mediated_by: 7f7cf30264c6
+  verification_note: 2e606a951915
+  verification_method: 4a18c3f1253b

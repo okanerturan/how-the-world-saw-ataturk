@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: correa-2012-03-15
+voice: Rafael Correa
+voice_type: person
+role: President of Ecuador
+country: Ecuador
+country_now: Ecuador
+domain: politics
+date: "2012-03-15"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: quote
+evidence: J+J
+summary: >-
+  Says the Arab Spring countries would not be in their present plight had they had an Atatürk and made their
+  political transformation in time.
+quote:
+  text: >-
+    Turkey has become a model country in the Arab Spring. If those countries had had an Atatürk and
+    accomplished their political transformations at the time, they would not have fallen into their current
+    situation.
+  language: en
+mediated_by: >-
+  Hürriyet Daily News, 15 Mar 2012 (English rendering of remarks made through an interpreter); Turkish agency
+  text reproduced on gzpolat2.blogspot.com
+caveat: >-
+  Joint press conference with President Abdullah Gül, Çankaya, 15 March 2012. The Spanish original was not
+  found; the official Gül archive (abdullahgul.gen.tr, 82370) prints only Gül's own words. Turkish wording:
+  'Eminim ki bu ülkelerin de zamanında bir Atatürk'ü olmuş olsaydı ve siyasi değişimlerini o zaman
+  yapabilselerdi, şu anda yaşadıkları durumlara düşmezlerdi.' Two renderings of one interpreted remark, so
+  independent only as reports. Check: the quote is the interpreter's English as printed by Hürriyet Daily
+  News; no Spanish original found.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.hurriyetdailynews.com/turkey-owes-progress-to-ataturk-ecuador-16143
+    archived: https://web.archive.org/web/20260714131641/https://www.hurriyetdailynews.com/turkey-owes-progress-to-ataturk-ecuador-16143
+  - url: https://gzpolat2.blogspot.com/2013/10/araplarin-ataturku-olsa-boyle-olmazdi.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.hurriyetdailynews.com/turkey-owes-progress-to-ataturk-ecuador-16143 (HDN, 15 Mar 2012 18:33);
+    https://gzpolat2.blogspot.com/2013/10/araplarin-ataturku-olsa-boyle-olmazdi.html (blog repost of an agency
+    text dated 16 Mart 2012 00:01)
+  method: curl
+  note: >-
+    English sentence verbatim in HDN; Turkish wording verbatim in the blog repost. Spanish original NOT found:
+    the abdullahgul.gen.tr archive (82370) did not respond to curl, and no Ecuadorian presidency text was
+    reachable without paid search. The quote is the interpreter's English as HDN printed it, so it must be
+    marked as a rendering. Date: HDN's 'said yesterday' is next-day print phrasing; the agency text posted
+    00:01 on 16 Mar fits a 15 Mar press conference. The second J is a blog copy of an unnamed agency, so it is
+    weak as independent support.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 30)
+  checked_on: "2026-11-05"

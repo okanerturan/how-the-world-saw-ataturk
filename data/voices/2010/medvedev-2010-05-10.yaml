@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: medvedev-2010-05-10
+voice: Dmitry Medvedev
+voice_type: person
+role: President of Russia
+country: Russia
+country_now: Russia
+domain: politics
+date: "2010-05-10"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: article
+evidence: P+J
+summary: >-
+  Writing for Turkish readers before his visit, says he deeply respects Atatürk as an outstanding reformer
+  whose contribution to new Turkey cannot be overestimated.
+quote:
+  text: >-
+    У меня вызывает глубокое уважение личность Мустафы Кемаля Ататюрка – выдающегося реформатора, вклад
+    которого в создание новой Турции трудно переоценить. [English translation (Kremlin): I feel great respect
+    for Mustafa Kemal Ataturk, an outstanding reformer whose contribution to building modern Turkey cannot be
+    overestimated.]
+  needs_split: true
+  language: ru
+caveat: >-
+  Article 'Россия – Турция: не останавливаясь на достигнутом' for the Turkish daily Zaman, published on
+  kremlin.ru on 10 May 2010 (English version dated 9 May). The next sentence turns to Russia as the first
+  country to recognise the young Republic and its aid in the independence war. His Anıtkabir book entry on 12
+  May (kremlin.ru news 7720) adds that Atatürk 'helped to develop all-round relations with Russia'.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: http://kremlin.ru/events/president/transcripts/7693
+    archived: https://web.archive.org/web/20260710213547/http://www.kremlin.ru/events/president/transcripts/7693
+  - url: http://en.kremlin.ru/events/president/transcripts/7693
+    archived: https://web.archive.org/web/20260612090634/http://en.kremlin.ru/events/president/transcripts/7693
+  - url: http://en.kremlin.ru/events/president/news/7720
+    archived: https://web.archive.org/web/20260517152928/http://en.kremlin.ru/events/president/news/7720
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    http://kremlin.ru/events/president/transcripts/7693 (10 мая 2010, article for Zaman);
+    en.kremlin.ru/.../7693 (May 9, 2010 23:00); en.kremlin.ru/events/president/news/7720 (guestbook)
+  method: curl
+  note: >-
+    Russian and the Kremlin English verbatim; the next sentence about Russia first recognising the Republic is
+    present; the 12 May guestbook text is present. P honest.
+  checked_on: "2026-11-05"

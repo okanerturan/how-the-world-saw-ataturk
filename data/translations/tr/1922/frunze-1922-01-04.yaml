@@ -1,0 +1,40 @@
+# Turkish for data/voices/1922/frunze-1922-01-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: frunze-1922-01-04
+voice: Mikhail Frunze
+role: Ukrayna SSC'nin Ankara olağanüstü temsilcisi, Kızıl Ordu komutanı
+quote: Mustafa Kemal'i desteklemek ve onun daima bizim etkimiz altında kalmasına çalışmak
+quote_kind: original-turkish
+summary: >-
+  Veda görüşmesinden önce izlenecek çizgide mutabık kaldı: Kemal'i desteklemek, onu Sovyet etkisi altında
+  tutmak, kişisel diktatörlüğünü parti diktatörlüğüne yönlendirmek, reklamını yapmak.
+caveat: >-
+  Çeviri: 'to support Mustafa Kemal and work to keep him always under our influence'. Bu çizgi Abilov, Frunze
+  ve Mikhailov tarafından ortaklaşa kararlaştırılmış ve Abilov tarafından kaydedilmiştir; dolayısıyla Frunze
+  üç sesten biridir. Görüşmede Kemal, Meclis'teki grupları ve ordu üzerindeki denetimini anlatmıştır.
+  frunze-1921-12-25 kaydından (ilk görüşme) ayrıdır.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri c. 12 (Kaynak 2005) s. 203–206 ← Mustafa Kemal ile ikinci Abilov–Frunze
+  görüşmesinin Abilov'a ait Rusça kaydı, 4 Ocak 1922 (Azerbaijan State Archive of Recent History, f. 28, op.
+  1, d. 68, ll. 1–7) ← Y. Aslan (2002) s. 46–56
+verification_note: >-
+  s. 203'te, görüşmeden önce üçünün kararlaştırdığı çizgide ('ben, Frunze ve Mihayilov yoldaşlar bizde küçük
+  bir toplantı yaptık') alıntı kelimesi kelimesine aynı. what_they_saw alanında belirtildiği gibi 'onun
+  kişisel diktatörlüğünden parti diktatörlüğüne ... geçmek' ve 'onun reklamını yapmak' ifadelerini içeriyor.
+  Tarih, belge (satır 1–7 ile 10–16) ve içerik bakımından frunze-1921-12-25 kaydından açıkça farklıdır: orada
+  Frunze'nin Kemal'e kendi söyledikleri; burada ise ortak bir Sovyet politika çizgisi yer alır. Alıntılanan
+  bakış toplantıda söylenen bir şey değil, Abilov'un kaydındaki toplantı öncesi iç çizgi olduğundan, belge
+  türü olarak 'meeting' yerine 'report' önerilir. Frunze'nin üç sesten biri olduğu çekince notunda
+  belirtilmiştir.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d2a0d592c1da
+  role: 64c6dc799aa6
+  quote: 14947a1e6248
+  summary: e8ed5aa72a6f
+  caveat: 4da092126cca
+  mediated_by: 2773d3c2da8a
+  verification_note: 05ed09bd94a0
+  verification_method: b152e9063489

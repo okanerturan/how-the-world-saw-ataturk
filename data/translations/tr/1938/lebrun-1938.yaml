@@ -1,0 +1,33 @@
+# Turkish for data/voices/1938/lebrun-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lebrun-1938
+voice: Albert Lebrun
+role: Fransa Cumhuriyeti Cumhurbaşkanı
+quote: hayatını vatanının şanlı dirilişine adamış ateşli vatansever ve büyük devlet adamı
+quote_kind: translated
+summary: >-
+  Vatanının sağlam ve barışçıl yöntemlerle dirilişine hayatını adamış ateşli bir vatansever ve büyük devlet
+  adamını övdü.
+caveat: >-
+  TBMM c. 2 (c2) PDF s. 49. Alıntı Fransızcadır; çevirisi: 'hayatını vatanının şanlı dirilişine adamış ateşli
+  vatansever ve büyük devlet adamı'. Ayrıca eserinin 'réalisée par de saines et pacifiques méthodes' olduğunu
+  belirtir.
+verification_note: >-
+  Paris'ten telsiz yoluyla gönderilen, 'albert lebrun' imzalı telgraf: "l ardent patriote et le grand homme d
+  etat qui avait consacre sa vie a la glorieuse resurrection de sa patrie"; ayrıca 'saines et pacifiques
+  methodes'. Kayıttaki alıntı yalnızca sonradan eklenen kesme işaretleri ve aksanlarla farklılık gösteriyor
+  (telgrafta bunlar yok). Sayfadaki tarih okunamıyor; '1938-11' tarihi Ankara alındı damgasına (1938) ve
+  koleksiyona dayanıyor.
+verification_method: >-
+  PDF sayfasının kendi görüntü çıktısı (PDFKit PNG, gözle okundu); OCR'a dayanılmadı; telgraf metni aksansız
+  büyük/küçük harf daktilo yazısıdır
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3766428f98ad
+  role: ab5234877280
+  quote: 8a638792320a
+  summary: 28dbace4af88
+  caveat: b7e5aeefa175
+  verification_note: a82f5b2b2c00
+  verification_method: 7c3ad23fb937

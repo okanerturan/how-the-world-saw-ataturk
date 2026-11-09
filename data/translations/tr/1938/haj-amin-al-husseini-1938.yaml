@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/haj-amin-al-husseini-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: haj-amin-al-husseini-1938
+voice: Haj Amin al-Husseini
+role: Filistinli Arap lider (Beyrut'tan telgraf çekti)
+quote: >-
+  Filistin Arap milleti, telafisi imkânsız kayıp … büyük Atatürk için aracılığınızla asil Türk halkına duygulu
+  taziyelerini sunar
+quote_kind: translated
+summary: >-
+  Büyük Atatürk'ün telafisi imkânsız kaybı dolayısıyla Filistin Arap milletinin taziyelerini iletti.
+verification_note: Fransızca özgün metin kayıtta çevrilmiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7e856308e4e6
+  role: d114bc022820
+  quote: 0a64535b02a7
+  summary: ee46cdc42c80
+  verification_note: 5759ff45e918
+  verification_method: 939bb46a04c3

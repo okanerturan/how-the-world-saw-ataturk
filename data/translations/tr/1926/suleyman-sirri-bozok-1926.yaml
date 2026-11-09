@@ -1,0 +1,18 @@
+# Turkish for data/voices/1926/suleyman-sirri-bozok-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: suleyman-sirri-bozok-1926
+voice: Süleyman Sırrı Bey (Bozok)
+role: Bozok milletvekili
+quote: Gazi Paşa Hazretleri Çankaya'dadır. Kafile kafile gider, arzı tebrikât eyleriz.
+quote_kind: original-turkish
+summary: >-
+  Milletvekillerinin Gazi'yi bizzat tebrik etmek üzere gruplar halinde Çankaya'ya gitmesini önerdi.
+verification_method: pdftotext -layout; birebir
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c84b73fca4b3
+  role: a6596c404278
+  quote: 5214a879192b
+  summary: a91e2bf77561
+  verification_method: d7ae59395bff

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-temps-1938
+voice: Le Temps
+voice_type: press
+role: Paris semi-official daily
+country: France
+country_now: France
+domain: press
+date: "1938-11-11"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Retrospective obituary on page 2 placing Turkey as leader of the Balkan Entente and sponsor of the eastern
+  pact.
+caveat: >-
+  Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. Fragment-level only.
+node: Paris Reads the Death, 11–12 November 1938
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k263753p
+verification:
+  verdict: unreachable
+  checked_against: https://gallica.bnf.fr/ark:/12148/bpt6k263753p (bot_blocked)
+  method: fetch
+  note: >-
+    Could not open Gallica; page-2 retrospective and Balkan Entente / eastern pact content unchecked
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

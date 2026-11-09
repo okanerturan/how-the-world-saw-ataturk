@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jamil-mardam-1938-03
+voice: Jamil Mardam Bey
+voice_type: person
+role: Prime Minister of Syria
+country: Syria (French Mandate)
+country_now: Syria
+domain: politics
+date: "1938-03"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: quote
+evidence: S
+summary: >-
+  Told a Cumhuriyet correspondent that Atatürk was not only the Turks' hero but father of the East, whose path
+  all Eastern nations follow.
+quote:
+  text: إنّ البطل أتاتورك ليس للترك فحسب بل هو أبو الشرق أيضاً.
+  translation: The hero Atatürk belongs not only to the Turks; he is the father of the East as well.
+  language: ar
+mediated_by: >-
+  al-Zawba'a no. 48 (unsigned SSNP article, in Saadeh's Complete Works vol. 6) ← an-Nahar ← Cumhuriyet
+  interview
+caveat: >-
+  Quoted by a hostile source (Saadeh's party organ) to accuse Mardam of treason over Alexandretta; Turkish
+  original not seen. Translation is the census's. Check: the date is an-Nahar's translation date; the
+  interview was on or before 12 Mar 1938.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://www.antoun-saadeh.com/works/book/book6/1032
+    archived: https://web.archive.org/web/20250713224937/https://antoun-saadeh.com/works/book/book6/1032
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: https://www.antoun-saadeh.com/works/book/book6/1032 (al-Zawba'a no. 48, 15/7/1942)
+  method: fetch
+  note: >-
+    Arabic verbatim: 'إنّ البطل أتاتورك ليس للترك فحسب بل هو أبو الشرق أيضاً', answer to 'محمد خليل باشاران
+    مراسل جريدة جمهوريت' on Eastern Pact vs Arab League, with '(الترجمة لجريدة النهار البيروتية في عددها
+    الصادر في 12 مارس/أذار 1938)'. Speaker is right (Mardam, as PM). The chain is honest except its first
+    link: the article is unsigned and is printed in Saadeh's Complete Works, so 'Saadeh' should read
+    'al-Zawba'a (unsigned SSNP article, in Saadeh's Complete Works vol. 6)'. Cumhuriyet and an-Nahar were not
+    seen. The date is the translation's; the interview took place on or before 12 Mar 1938.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33b)
+  checked_on: "2026-11-06"

@@ -1,0 +1,34 @@
+# Turkish for data/voices/1943/orwell-1943-10-22.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: orwell-1943-10-22
+voice: George Orwell
+role: İngiliz yazar ve Tribune köşe yazarı
+quote: >-
+  Faşizme karşı neredeyse her müttefikin kabul edilebilir göründüğü 1935-9 yıllarında solcular, kendilerini
+  önce Mustafa Kemal'i överken, ardından da Romanyalı Carol'a karşı bir şefkat geliştirirken buldular.
+quote_kind: translated
+summary: >-
+  Sol'un 1935–39 yıllarında Mustafa Kemal'i övmesini, Faşizme karşı 'son derece şüpheli müttefikleri' kabul
+  etmeye hazır oluşunun bir örneği olarak gösterir.
+caveat: >-
+  'Who Are the War Criminals?', 'Cassius'un (Michael Foot) The Trial of Mussolini adlı eserinin incelemesi,
+  Tribune, 22 Ekim 1943; Collected Essays, Journalism and Letters c. 2, madde 54 (archive.org açık metni).
+  Yargı örtüktür: cümle, 'the Left has also been willing to shut its eyes to a great deal and to accept some
+  very doubtful allies' ifadesinin ardından gelir. İpucunun 'Notes on Nationalism'e (1945) yaptığı atıf
+  yanlıştır; o denemede Kemal'den söz edilmez.
+verification_note: >-
+  Cümle birebir aynıdır; öncesinde 'the Left has also been willing to shut its eyes to a great deal and to
+  accept some very doubtful allies' yer alır. Madde numarası, başlık ve tarih doğrulandı; ölüm sonrası dönemi
+  doğrudur. Bakış testi: Kemal'in (Chiang ve Carol'ın yanı sıra) 'very doubtful allies' arasında anılmasıyla
+  sınırda geçer. Görüş örtüktür ve çekince notu da bunu belirtir; yoğunluk 1 doğrudur.
+verification_method: archive.org açık OCR metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8100db50a4e4
+  role: 5f0c403b5dd6
+  quote: 46e18ce7a893
+  summary: 777864581a55
+  caveat: b76058148d33
+  verification_note: 2d41ad67d12b
+  verification_method: 5564a28f2471

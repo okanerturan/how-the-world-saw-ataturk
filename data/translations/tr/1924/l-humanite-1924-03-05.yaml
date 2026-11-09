@@ -1,0 +1,27 @@
+# Turkish for data/voices/1924/l-humanite-1924-03-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: l-humanite-1924-03-05
+voice: L'Humanité
+role: Paris komünist günlük gazetesi
+quote: Türk Millet Meclisi'nin yeni kabul ettiği önemli kararların yalnızca başlangıcıydı
+quote_kind: translated
+summary: >-
+  Kemal'in cumartesi günkü konuşmasını, Meclis'in ilga kararlarının yalnızca bir başlangıcı olarak aktardı.
+caveat: >-
+  Görünüm 3, 'Après la suppression' başlığı altında. Haber aktarımı; belirtilmiş bir görüş yok. Gallica
+  ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya aittir, basılı sayfa
+  numarası olmayabilir.
+verification_note: >-
+  PAG_3'te 'Après la suppression' başlığı altında birebir aynı (iki nokta üst üste OCR gürültüsüdür). Tarafsız
+  haber aktarımı.
+verification_method: ms fetch aracılığıyla Gallica ContentSearch parçası
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1dc1e2aacc89
+  role: eeeadc09fd53
+  quote: 79f163a60e14
+  summary: acade4685548
+  caveat: 322666c1fcf3
+  verification_note: 21b2a9ef6a3f
+  verification_method: 25cd88e6eafd

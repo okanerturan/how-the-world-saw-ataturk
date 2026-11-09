@@ -1,0 +1,35 @@
+# Turkish for data/voices/1942/emil-ludwig-1942.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: emil-ludwig-1942
+voice: Emil Ludwig
+role: Alman biyografi yazarı, dönemin diktatörleriyle söyleşi yapan yazar
+quote: >-
+  Birinci Dünya Savaşı'nın hemen ardından hiçbir yeni hükümet, günümüz diktatörlerinin üzerinde yükselen
+  Mustafa Kemal Paşa yönetimindeki Türkiye kadar dünyanın hayranlığını çekmedi.
+quote_kind: translated
+summary: >-
+  Kemal 'günümüz diktatörlerinin üzerinde yükselir': Sevr'i parçaladı, kadınları haremden kurtardı ve kendisi
+  onun yerine geçmeksizin halifeyi makamından indirdi.
+caveat: >-
+  Emil Ludwig, The Mediterranean: Saga of a Sea (Whittlesey House/McGraw-Hill, 1942), s. 548–549, açık
+  archive.org taraması mediterraneansag027841mbp (sayfa başlığı '548 ] KEMAL PASHA'). Aynı pasajda: Kemal'i
+  'from personal acquaintance' olarak, 'a blue, dreamy gaze that betrayed a touch of the poet' ile betimler;
+  kadınları özgürleştirmesinin 'would be enough in itself to immortalize him' olduğunu söyler; onu 'the new,
+  enlightened despot and lawgiver' diye anar; ve 'the thing that proved his courageous genius above all was
+  the fact that he deposed the caliph without putting himself in his place' der. Ayrıca 1923 Türk-Yunan nüfus
+  mübadelesini, 'painful though it be', bir başarı olarak nitelendirir — bu, taramanın değil kendisinin
+  çerçevelemesidir.
+verification_note: S. 548'de birebir mevcut.
+verification_method: >-
+  açık djvu metninin curl ile çekilmesi; ana ajan tarafından sayfa başlıklarıyla birlikte okundu (DLI taraması
+  in.ernet.dli.2015.88345 içinde de mevcut)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8351430af6cd
+  role: 67d5bdca5d5d
+  quote: 3168fde5b160
+  summary: adf530686546
+  caveat: 02173ca0901d
+  verification_note: f9fb8abd0129
+  verification_method: 77f3cce985aa

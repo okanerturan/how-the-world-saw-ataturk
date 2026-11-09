@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: davis-1933-01
+voice: James J. Davis
+voice_type: person
+role: U.S. Senator from Pennsylvania (Republican), former Secretary of Labor
+country: United States
+country_now: United States
+domain: politics
+date: "1933-01-03"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Hails Kemal's Christmas Day 1932 narcotics ban as a 'magnificent Christmas gift' making Turkey's President
+  an outstanding anti-narcotics leader.
+quote:
+  text: >-
+    The world, and especially America, received this magnificent Christmas gift in the form of a ban on that
+    day on the narcotic trade by President Mustapha Kemal, of Turkey. … This makes the President of Turkey one
+    of the outstanding leaders in the international antinarcotic war.
+  language: en
+caveat: >-
+  Davis's own paragraph beside the Washington Star and Washington Herald cuttings that he has printed (not
+  counted: 'Kemal places ban on narcotic trade'). In the 24 March 1934 sitting he introduces Ambassador
+  Sherrill's radio address on Kemal's narcotics crusade, saying 'the gigantic strides Mustafa Kemal has made'
+  in transforming his nation; that sentence is a second statement of the same view. A second Davis record
+  already exists (22 April 1943). Two-column OCR. Cited as Senate, 3 January 1933, Congressional Record vol.
+  76 (bound), p. ~1195 (granule CRECB-1933-pt2-v76-1-1); the same words are quoted as his in Sherrill's
+  address printed by him on 24 March 1934 (vol. 78, p. ~5299).
+node: >-
+  Congressional Record Closing Pass — King, Owen, Davis, Sirovich, Pepper, Knowland and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1933-pt2-v76/pdf/GPO-CRECB-1933-pt2-v76-1-1.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.govinfo.gov/content/pkg/GPO-CRECB-1933-pt2-v76/pdf/GPO-CRECB-1933-pt2-v76-1-1.pdf - Senate, 3
+    Jan 1933, p. 1195
+  method: pdftotext -layout of the govinfo bound-edition granule
+  note: >-
+    Verbatim; Davis's own paragraph (he speaks as 'Mr. DAVIS', hopes 'my voice will be heard'), placed before
+    the Washington Star and Herald cuttings which are separate. Last sentence ('one of the outstanding leaders
+    in the international antinarcotic war') is in his paragraph; the Star's similar sentence is a cutting.
+    Admiring 1 fair. The 1934 Sherrill address claim was not checked.
+  checked_on: "2026-11-04"

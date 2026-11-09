@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: noel-fiessinger-1938
+voice: Noël Fiessinger
+voice_type: person
+role: Paris professor of medicine; Atatürk's consultant
+country: France
+country_now: France
+domain: science
+date: "1938-06"
+era: contemporary
+polarity: witness
+intensity: 2
+artifact: quote
+evidence: S
+summary: >-
+  Examined Atatürk repeatedly in 1938, co-diagnosed (with Neşet Ömer İrdelp) 'hepatite sclérocongestive
+  éthylique', and warned privately he could live two more years or be found dead any night.
+quote:
+  text: >-
+    With medicine's help and nature's, Atatürk could live two more years. But tonight we go to bed and might
+    find him dead of an intestinal or brain haemorrhage.
+  language: en
+mediated_by: Şehsuvaroğlu 1981:77 via Dağlı 2023
+node: Noël Fiessinger
+sources:
+  - url: https://doi.org/10.30794/pausbed.1170334
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    sources/yabanci-ulkeler-hastalik-vefat.pdf (Dağlı 2023) (Fiessinger 8-10 Jun 1938; Şehsuvaroğlu 1981:77)
+  method: local
+  note: >-
+    Quote (Turkish original, English translation faithful), June 1938, repeated exams all supported.
+    'Diagnosed alcoholic cirrhosis' is not stated by Dağlı for Fiessinger (siroz and alcohol advice are
+    separate).
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

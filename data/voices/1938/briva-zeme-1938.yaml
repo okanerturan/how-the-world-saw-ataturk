@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: briva-zeme-1938
+voice: Brīvā Zeme
+voice_type: press
+role: Latvian semi-official daily (Ulmanis government organ)
+country: Latvia
+country_now: Latvia
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 3
+mirror: nation-forge-template
+artifact: editorial
+evidence: S
+summary: >-
+  Gave whole pages to 'The Man Who Transcended the Centuries': greatest statesman of our time, exemplar of the
+  leadership principle, a leap rather than evolution.
+quote:
+  text: >-
+    Atatürk was the greatest of the statesmen of our time and the most remarkable representative of the modern
+    principle of leadership.
+  language: en
+mediated_by: >-
+  Toksoy 2006 ← Akşam and Kurun 16 Nov, Ulus 15 Nov, Cumhuriyet 15–16 Nov, Tan 16 Nov 1938, Ayın Tarihi
+caveat: >-
+  Paper titles in Toksoy are phonetic; foreign originals not seen; summarised by Turkish digests.
+  Semi-official status of the paper and quotes are Toksoy's/Turkish press's rendering.
+node: Riga, Tallinn and Kaunas, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt sec. K (Letonya), Briva Zeme 'Asirlari Asan Adam'
+  method: local
+  note: Turkish translation of Latvian; semi-official status stated by Toksoy.
+  checked_on: "2026-10-29"

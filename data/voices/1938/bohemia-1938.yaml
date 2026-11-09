@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bohemia-1938
+voice: Bohemia
+voice_type: press
+role: Prague daily
+country: Czechoslovakia
+country_now: Czech Republic
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: editorial
+evidence: S
+summary: Said he left behind a national state that does not fear the future.
+quote:
+  text: a national state that does not fear the future
+  language: en
+mediated_by: Toksoy 2006 ← Cumhuriyet 14 and 16 Nov 1938, Ulus 15 Nov, Ayın Tarihi Nov 1938
+caveat: >-
+  Paper titles in Toksoy are phonetic; identification 'presumably'; foreign originals not seen.
+node: Prague Reads Its Own Mirror, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt (CTAD 2006 Avrupa gazeteleri) §Çekoslovakya: Bohemia
+    "arkasında gelecekten korkmayan bir milli devlet bırakan adam" (Cumhuriyet 14 Nov, Ayın Tarihi s.180)
+  method: local
+  note: Translated from Toksoy Turkish; Bohemia identification presumed.
+  checked_on: "2026-10-29"

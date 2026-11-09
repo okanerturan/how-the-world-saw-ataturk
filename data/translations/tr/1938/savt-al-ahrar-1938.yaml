@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/savt-al-ahrar-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: savt-al-ahrar-1938
+voice: Savt al-Ahrar
+role: Beyrut günlük gazetesi
+quote: bütün Doğu milletleri için en büyük kayıp
+quote_kind: translated
+summary: >-
+  Ölüme sayfalar ayırdı ve bunu bütün Doğu milletleri için büyük bir kayıp olarak nitelendirdi.
+caveat: >-
+  Alıntılar bize günlük Türk gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının
+  transliterasyonları tahminîdir.
+mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
+verification_note: Günlük Türk gazeteleri aracılığıyla çevrilmiştir
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b5bf3ba7eed4
+  role: 31398ab9f0c2
+  quote: 8a2d1f571ff1
+  summary: 8de630a65c06
+  caveat: f8ae166de916
+  mediated_by: 0d9b58c49a68
+  verification_note: 100ceb7cee88
+  verification_method: 939bb46a04c3

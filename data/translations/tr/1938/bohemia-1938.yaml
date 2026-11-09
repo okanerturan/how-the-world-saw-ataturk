@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/bohemia-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bohemia-1938
+voice: Bohemia
+role: Prag günlük gazetesi
+quote: gelecekten korkmayan ulusal bir devlet
+quote_kind: translated
+summary: Ardında gelecekten korkmayan ulusal bir devlet bıraktığını söyledi.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir; teşhis 'presumably'; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Cumhuriyet 14 ve 16 Kasım 1938, Ulus 15 Kasım, Ayın Tarihi Kasım 1938
+verification_note: Toksoy'un Türkçesinden çevrilmiştir; Bohemia teşhisi varsayıma dayalıdır.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0484e12ad193
+  role: 3e4b4000e61a
+  quote: df4a48837903
+  summary: b0a671df642e
+  caveat: 01e06cd8e0c3
+  mediated_by: a785c4953be0
+  verification_note: 05b7bc3731d2
+  verification_method: 939bb46a04c3

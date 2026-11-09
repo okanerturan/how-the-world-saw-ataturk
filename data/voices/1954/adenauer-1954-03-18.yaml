@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: adenauer-1954-03-18
+voice: Konrad Adenauer
+voice_type: person
+role: >-
+  Chancellor of West Germany; reply to Prime Minister Menderes's dinner speech, Ankara Palas, on his official
+  visit
+country: Germany
+country_now: Germany
+domain: politics
+date: "1954-03-18"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: speech
+evidence: J
+summary: >-
+  The 'genius leader, the unforgettable Atatürk', who with the noble Turkish nation worked wonders out of a
+  state sunk in endless difficulties and political hopelessness; the German nation's deep admiration.
+quote:
+  text: >-
+    Müsaade buyurursanız, ben de Alman milletinin asil Türk milleti ve onun dahi önderi unutulmaz Atatürk'ün
+    nice sonsuz zorluklar ve siyasi ümitsizlikler içinde bulunan bir devletten ne gibi harikalar yaratmağa
+    muktedir olduğunu görmekle duyduğu derin hayranlığı ifade etmek isterim.
+  translation: >-
+    If you will allow me, I too would like to express the deep admiration the German nation feels at seeing
+    what wonders the noble Turkish nation and its genius leader, the unforgettable Atatürk, were able to
+    create out of a state caught in endless difficulties and political hopelessness.
+  language: tr
+mediated_by: >-
+  Milliyet, 19 Mar 1954, p. 7 ('Almanya Başvekili dün Ankaraya geldi', section 'Adenauer şerefine verilen
+  ziyafet'): the paper's Turkish rendering of a speech given in German
+caveat: >-
+  Opening of his reply to Menderes at the dinner on his arrival day; he goes on to Turkey as a factor of
+  stability in the Near East and its place in the Western alliance. Earlier that day he laid a wreath at
+  Anıtkabir and stood in silence (Milliyet p. 1, reporter's narration). The German original (Bulletin des
+  Presse- und Informationsamtes der Bundesregierung, March 1954) was not seen. Read on the page image (Okan's
+  Milliyet archive login).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1954.03.19
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 19 Mar 1954 p. 7, page image, read enlarged
+  method: page image
+  note: >-
+    Quote transcribed from the enlarged image; the sentence runs over the column break ('is-/terim'). Dinner
+    dated by the Ankara 18 Mar dateline. Read by the main agent; no separate checker agent.
+  checked_on: "2026-11-06"

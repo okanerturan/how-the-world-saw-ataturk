@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: obama-2009
+voice: Barack Obama
+voice_type: person
+role: President of the United States
+country: United States
+country_now: United States
+domain: politics
+date: "2009-04-06"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  After visiting the mausoleum, calls Atatürk a leader who changed history's shape whose greatest legacy is
+  Turkey's living secular democracy.
+quote:
+  text: >-
+    I was deeply impressed by this beautiful memorial to a man who did so much to shape the course of history.
+    But it is also clear that the greatest monument to Ataturk's life is not something that can be cast in
+    stone and marble. His greatest legacy is Turkey's strong, vibrant, secular democracy, and that is the work
+    that this assembly carries on today.
+  language: en
+caveat: >-
+  Original-language text
+  (https://obamawhitehouse.archives.gov/the-press-office/remarks-president-obama-turkish-parliament); the TBMM
+  minutes (Tarihe Düşülen Notlar-2, 2012) print a Turkish version: "kendisi tarihin şeklini değiştiren bir
+  liderdir. Ama Atatürk’ün yaşamına ait en büyük anıt hiçbir şekilde taştan ya da mermerden inşa edilemez,
+  kendisinin bırakmış olduğu en büyük miras Türkiye’nin canlı laik demokrasisidir". TBMM book PDF p. 254
+  (printed p. 243).
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://obamawhitehouse.archives.gov/the-press-office/remarks-president-obama-turkish-parliament
+    archived: https://web.archive.org/web/20260906172108/https://obamawhitehouse.archives.gov/the-press-office/remarks-president-obama-turkish-parliament
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 254 (printed p. 243); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c254.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Amerika Birleşik Devletleri Başkanı
+    Barack Hussein Obama, 72. Birleşim, 6 Nisan 2009'). Heading and quote on same page. ORIGINAL: 'This
+    morning I had the great privilege of visiting the tomb of your extraordinary founder of your republic. And
+    I was deeply impressed by this beautiful memorial to a man who did so much to shape the course of history.
+    But it is also clear that the greatest monument to Ataturk's life is not something that can be cast in
+    stone and marble. His greatest legacy is Turkey's strong, vibrant, secular democracy, and that is the work
+    that this assembly carries on today.' (obamawhitehouse.archives.gov, Remarks By President Obama To The
+    Turkish Parliament, 6 Apr 2009). The minutes' 'tarihin şeklini değiştiren bir lider' renders 'did so much
+    to shape the course of history' loosely and drops 'strong'; not material.
+  checked_on: "2026-11-01"

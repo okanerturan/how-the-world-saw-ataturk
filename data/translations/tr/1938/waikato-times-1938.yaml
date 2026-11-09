@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/waikato-times-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: waikato-times-1938
+voice: Waikato Times
+role: Yeni Zelanda bölgesel günlük gazetesi
+quote: sarışın, mavi gözlü vatansever ve psikopat bileşimi
+quote_kind: translated
+summary: >-
+  En uç noktada bir diktatörlük, yine de diğer diktatörlerden daha akılcı; Batılılaşmayı, Çanakkale'yi ve
+  Lozan'ı takdir ediyor ancak muhaliflerini astığını ve Britanya'dan nefret ettiğini ileri sürüyor.
+caveat: >-
+  Gerçek olayları dönemin hatalarıyla (Kamal yazımı, Britanya'dan nefret ettiği iddiası) karıştırıyor; not
+  bunu alımlama verisi olarak ele alıyor.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a4fad67fedc3
+  role: 9c75124c0db1
+  quote: 81913cd3485a
+  summary: 71b864b64cce
+  caveat: e3ff0fed6d53
+  verification_method: ad8cee67138e

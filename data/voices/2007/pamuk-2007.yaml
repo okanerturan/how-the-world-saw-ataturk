@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pamuk-2007
+voice: Orhan Pamuk
+voice_type: person
+role: Turkish novelist, Nobel laureate 2006
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "2007"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: article
+evidence: S
+summary: >-
+  Reads Atatürk's Westernizing reforms as a way of confronting the shame felt by Westernized Turks before
+  European eyes.
+quote:
+  text: Ataturk found a way of confronting the shame suffered by all
+  language: en
+caveat: >-
+  Other Colors: Essays and a Story (Knopf, 2007), the essay 'Andre Gide' (index p. 204; the hat and dress
+  passage falls c. pp. 205-209; the printed page of the sentence is not shown by the snippet). The text is
+  read only as archive.org full-text snippets of a lending item (othercolorsessay00pamu), so the sentence is
+  cut off after 'by all'. Other snippets from the same essay: 'Both Gide and Ataturk see the ugly clothing
+  worn by the Turks'; 'But Ataturk believed that Turkish apparel misrepresented the nation'; the Hat Law is
+  'in a sense, a way of striking at the heart of shame'; 'Ataturk draws a line between the costume that he
+  rejects ...'. His long Istanbul memoir (2005) gives a more hostile mood (the 'staunch disciples of Ataturk
+  who dominated the press', 'the prohibitions of the Ataturk era') but a snippet was too short to quote as a
+  view of the man. Polarity 'admiring' is the nearest enum for a sympathetic explanation of the reform; it
+  rests on a short excerpt, so treat it as provisional until the printed essay is read. Snippet-only fragment,
+  cut mid-sentence; page unknown (lending copy).
+node: Famous Pens on Atatürk II — Farrère, Halide Edib, Toynbee, Pamuk, Nesin
+sources:
+  - url: https://archive.org/details/othercolorsessay00pamu
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: Pamuk, Other Colors (Knopf 2007), archive.org othercolorsessay00pamu, fts snippet
+  method: >-
+    tools/fts.py snippet (lending copy, no page numbers; the in-book search endpoint is login-walled, not
+    circumvented)
+  note: >-
+    Snippet: '...enveloping the Turkish people, Ataturk found a way of confronting the shame suffered by all
+    Westernized...' so the quote is a verbatim fragment, but it is cut mid-sentence ('all Westernized' is what
+    follows) and no page is obtainable. Attribution to Pamuk's essay 'André Gide' and the Hat Law reading rest
+    on other snippets of the same item. Needs a human with the book: page and full sentence. Admiring/2 is
+    plausible but unconfirmed.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 15)
+  checked_on: "2026-11-03"

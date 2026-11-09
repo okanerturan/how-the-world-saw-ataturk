@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: reagan-1981-04-02
+voice: Ronald Reagan
+voice_type: person
+role: President of the United States; White House statement on the Atatürk centennial
+country: United States
+country_now: United States
+domain: politics
+date: "1981-04-02"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: P
+summary: >-
+  Calls Atatürk a great national leader in war and peace, first in his countrymen's hearts, and cites his
+  'Peace at Home, Peace Abroad'.
+quote:
+  text: Ataturk was a great national leader in times of war and peace.
+  language: en
+mediated_by: White House Press Secretary
+caveat: >-
+  Issued under Reagan's name as the Project lists it, on the eve of the 1981 centennial year (it ties the
+  praise to Turkish-American alliance and to backing Turkey's post-coup government). Staff-drafted text; date
+  from the Project page header. UCSB files the text under 'Statements by the Press Secretary': a White House
+  statement in Reagan's name, not his spoken words.
+node: American, French and Russian Leaders on Atatürk in Their Own Words
+sources:
+  - url: https://presidency.ucsb.edu/documents/white-house-statement-concerning-the-centennial-anniversary-the-birth-mustafa-kemal
+    archived: https://web.archive.org/web/20251110040045/https://www.presidency.ucsb.edu/documents/white-house-statement-concerning-the-centennial-anniversary-the-birth-mustafa-kemal
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    https://presidency.ucsb.edu/documents/white-house-statement-concerning-the-centennial-anniversary-the-birth-mustafa-kemal
+    (April 02, 1981; category 'Press Office / Statements by the Press Secretary')
+  method: curl of UCSB page
+  note: >-
+    Quote verbatim and date right, but the document is a White House press-office statement (UCSB files it
+    under 'Statements by the Press Secretary'), not a speech or text of Reagan himself. Record voices it as
+    person Reagan and the caveat says only 'issued under Reagan's name'. FIX: state in caveat that it is a
+    Press Secretary statement (staff text, not Reagan's own words) or recast voice as 'White House (Reagan
+    administration)' institution; artifact 'statement' not 'speech'; admiring/2 is fine for the text.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 14)
+  checked_on: "2026-11-03"

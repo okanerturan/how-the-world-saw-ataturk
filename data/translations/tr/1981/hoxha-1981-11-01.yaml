@@ -1,0 +1,41 @@
+# Turkish for data/voices/1981/hoxha-1981-11-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hoxha-1981-11-01
+voice: Enver Hoxha
+role: AEP Birinci Sekreteri; Parti'nin 8. Kongresi'ne sunulan rapor
+quote: >-
+  Arnavut halkı, o seçkin şahsiyet ve devlet adamı Mustafa Kemal Atatürk'e özel bir hayranlık ve saygı duyar,
+quote_kind: translated
+summary: >-
+  Arnavutların, Türkiye'yi sultanların emperyal kompleksinden kurtaran ve onu demokrasi ve ilerleme yoluna
+  sokan Atatürk'e özel bir hayranlık beslediğini söyler.
+caveat: >-
+  Enver Hoxha, Selected Works, c. VI (Tiran: 8 Nentori, İngilizce), 'Report to the 8th Congress of the PLA', 1
+  Kasım 1981, s. 417 (üst başlık 'REPORT TO THE 8TH CONGRESS OF THE PLA 417'). OCR 'Atattirk' olarak basar.
+  Şöyle devam eder: o, 'liberated Turkey and its valiant people', 'consolidated the unity and genuine
+  independence of the Turkish nation'; Hoxha, Atatürk'ün Arnavutluk'a karşı iyi niyetli olduğunu ve Kral Zog'a
+  karşı çıktığını, ayrıca Türkiye'nin yüz binlerce Kosovalı mülteciye sığınak sağladığını (kendi sözleri)
+  ekler. İspanyolca, Portekizce, İtalyanca ve Almanca baskılarda da aynı pasaj yer alır (fts). Zog hakkındaki
+  ifade Hoxha'ya aittir; arşivde bağımsız bir doğrulama kayıtlı değildir.
+verification_note: >-
+  s. 417 birebir aynı (üst başlık 'REPORT TO THE 8th CONGRESS OF THE PLA 417'): 'The Albanian people have
+  special admiration and respect for Mustafa Kemal Atattirk [OCR], that outstanding personality and statesman,
+  who, with great courage and inspired by democratic progressive ideas, liberated Turkey and its valiant
+  people from the complex of enslaving other peoples, which characterized the Sultans' empire, consolidated
+  the unity and genuine independence of the Turkish nation and set Turkey on the course of democracy and
+  progress.' Ciltte raporun tarihi 1 Kasım 1981'dir. Uyarı notu hatası: Hoxha Türkiye'nin ('hundreds of
+  Albanian exiles' değil) 'hundreds of thousands of our brothers from Kosova'ya sığınak sağladığını söyler;
+  Zog değerlendirmesi kaydın belirttiği gibi Hoxha'nın kendisine aittir. Kaydın alıntısı cümlenin devam ettiği
+  yerde virgülle bitiyor; sorun yok. Kutupluluk hayranlık belirten, yoğunluk 2 uygun; ölüm sonrası dönem
+  doğrudur.
+verification_method: açık djvu metninin curl ile çekilmesi; sayfa numaralı üst başlık yerinde okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e81e77196f81
+  role: b51fc34833d9
+  quote: d6bcc3113f65
+  summary: 35bb411c1c4c
+  caveat: a399a6ca9b90
+  verification_note: e49f120bd3d5
+  verification_method: 4e86d39488e4

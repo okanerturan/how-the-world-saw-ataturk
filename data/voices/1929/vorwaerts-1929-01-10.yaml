@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: vorwaerts-1929-01-10
+voice: Vorwärts
+voice_type: press
+role: Berlin daily, central organ of the SPD
+country: Germany
+country_now: Germany
+domain: press
+date: "1929-01-10"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Cast Kemal as the Near East's lead 'enlightened absolutist': a 'typical dictator' and radical Europeanizer;
+  such rulers suppress press and civil freedoms.
+quote:
+  text: >-
+    Unterdrückung der Presse und der bürgerlichen Freiheiten ist eine der schneidigsten Waffen in ihrer Hand.
+  language: de
+caveat: >-
+  Unsigned feature 'Europa revolutioniert Vorderasien', p. 5. The piece compares Kemal with Peter and
+  Frederick the Great; polarity is the note's reading of both strands. Single OCR; 'Presie' normalised to
+  'Presse'.
+node: Vorwärts and the Arbeiter-Zeitung on the Dictator, 1924–1930
+sources:
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/FVBL7RQAXCYGG25XHRW7YH5B7ZNCGEBY?issuepage=5
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: "DDB: Vorwaerts 10 Jan 1929 (issue p. 5), 'Europa revolutioniert Vorderasien'"
+  method: >-
+    Deutsche Digitale Bibliothek newspaper Solr (plainpagefulltext), full page OCR, fetched directly; read the
+    article text
+  note: >-
+    Quote found ('Unterdrueckung der Presie [OCR] und der buergerlichen Freiheiten ist eine der schneidigsten
+    Waffen in ihrer Hand'), and Kemal is 'ein typischer Diktator' and 'Alleinherrscher'. But 'ihrer' refers to
+    the whole group of Oriental reforming rulers (Amanullah, Reza Shah, Ibn Saud, Kemal), not Kemal alone, and
+    the article is unsigned. CORRECTION: what_they_saw should say the rulers collectively, or the quote should
+    be switched to 'Kemal doch ihr Praesident, ein typischer Diktator' (already the builder's alternate
+    quote). Also notes 'als lebenslaenglicher Diktator'. Polarity conflicted is fair.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 10)
+  checked_on: "2026-11-01"

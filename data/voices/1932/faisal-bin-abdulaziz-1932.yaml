@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: faisal-bin-abdulaziz-1932
+voice: Prince Faisal bin Abdulaziz
+voice_type: person
+role: Saudi foreign minister, later King Faisal
+country: Saudi Arabia
+country_now: Saudi Arabia
+domain: diplomacy
+date: "1932-06"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: visit
+evidence: S+J
+summary: >-
+  Received by Atatürk in Ankara on a 15-day tour; spoke of brotherhood between the two peoples. Özoğlu reads
+  Turkey's warmth as preferring Saudis to Hashemites.
+quote:
+  text: Our two peoples are brothers and will remain so.
+  language: en
+caveat: Özoğlu's reading of motives is interpretation.
+node: Prince Faisal in Ankara, June 1932
+sources:
+  - url: https://mei.edu/wp-content/uploads/2020/02/Aspiring-Powers-Regional-Rivals_Feb.11-2020.pdf
+    archived: https://web.archive.org/web/20261009155554/https://mei.edu/wp-content/uploads/2020/02/Aspiring-Powers-Regional-Rivals_Feb.11-2020.pdf
+  - url: https://gulfif.org/the-emergence-of-saudi-turkish-relations-ataturk-and-ibn-sauds-pragmatism/
+    archived: https://web.archive.org/web/20251215143355/https://gulfif.org/the-emergence-of-saudi-turkish-relations-ataturk-and-ibn-sauds-pragmatism/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://mei.edu/.../Aspiring-Powers-Regional-Rivals_Feb.11-2020.pdf (Özoğlu ch.) + gulfif.org article
+  method: fetch
+  checked_on: "2026-10-29"

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: inc-gaya-1922-12
+voice: Indian National Congress, Gaya session
+voice_type: institution
+role: Congress resolution moved by Sarojini Naidu
+country: British India
+country_now: India
+domain: politics
+date: "1922-12"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Congratulated Ghazi Kemal Pasha and the Turkish nation on their successes and pledged India to the struggle
+  for Turkey's free status and a Muslim-controlled Arabia.
+quote:
+  text: >-
+    This Congress congratulates Ghazi Kemal Pasha and the Turkish nation on their recent successes
+  language: en
+mediated_by: Modern Review, Jan 1923, Congress proceedings
+caveat: >-
+  Page read from OCR running heads (c. pp. 129-130). Carried 'by a large majority'; an amendment replacing
+  'non-Muslim control' with 'foreign control' was defeated.
+node: Gaya to Angora — Indian Voices on Kemal, 1922–1924
+sources:
+  - url: https://archive.org/details/dli.calcutta.09830
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA dli.calcutta.09830 (Modern Review Jan 1923) djvu, p. 130
+  method: djvu OCR text
+  note: >-
+    'CONGRATULATION TO KEMAL PASHA' — Mrs Sarojini Naidu moved the resolution, text matches; carried by large
+    majority after Gupta's amendment defeated; p. 130 by running page numbers.
+  checked_on: "2026-10-29"

@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ortega-munilla-1922
+voice: José Ortega Munilla
+voice_type: person
+role: Spanish novelist, academician and veteran newspaper editor (columnist of ABC)
+country: Spain
+country_now: Spain
+domain: letters
+date: "1922-09-16"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Calls Kemal the awaited war-leader risen from the tombs of the dervishes; the 'dead people' revived, though
+  Turkey's faith is 'mistaken'.
+quote:
+  text: >-
+    Y el caudillo esperado surge en Turquía, entre las tumbas de los derviches, bajo la sombra de los cipreses
+    de Stambul. Ese héroe vencedor se llama Mustafá Kemal.
+  translation: >-
+    And the awaited leader rises in Turkey, among the tombs of the dervishes, under the shadow of the
+    cypresses of Stambul. That victorious hero is called Mustafá Kemal.
+  language: es
+caveat: >-
+  Column 'El triunfo de Turquía', ABC, Saturday 16 September 1922 (dated at its end), collected posthumously
+  in J. Ortega Munilla, Chispas del yunque (Madrid: Prensa Gráfica, 1923) from the open UNC scan; page not
+  shown in the OCR. Written days after the Smyrna fire: it speaks of Greek 'catastrophe' and does not mention
+  the burning. He also calls Turkey's 'power of faith' 'absolutely mistaken, but permanent', and later says
+  the victory leaves Kemal, 'a Turk perhaps devoid of military science', disturbing the world's would-be
+  masters; the praise is for the Turkish revival and its war leader, not for any programme. Ortega Munilla
+  (1856-1922) was the father of Ortega y Gasset; he died 1922 (the book is posthumous).
+node: Latin Pens on Mustafa Kemal — Ortega Munilla, Ortega y Gasset, Gramsci and Ledesma Ramos
+sources:
+  - url: https://archive.org/details/chispasdelyunque00orte
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org chispasdelyunque00orte_djvu.txt, column 'El triunfo de Turquía', dated 'Sábado 16 de
+    Septiembre de 1922'
+  method: fetched djvu text, string match, read context
+  note: >-
+    Spanish verbatim (hyphen-wrapped 'cau-dillo', 'Ke-mal'); translation faithful. 'Turquía ... poder de fe
+    equivocado, absolutamente equivocado, pero permanente' and 'un turco desprovisto acaso de ciencia militar'
+    both present. Date is the column's own dateline; book page not shown in OCR (as stated). Gaze OK (own
+    view).
+  checked_on: "2026-11-03"

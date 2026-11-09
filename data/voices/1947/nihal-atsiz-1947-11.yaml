@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nihal-atsiz-1947-11
+voice: Nihal Atsız
+voice_type: person
+role: Pan-Turkist writer, editor of Kür Şad, tried in the 1944 racism-Turanism case
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1947-11"
+era: posthumous
+polarity: conflicted
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Says a lawyer dropped his 1944 defence when Falih Rıfkı called him an enemy of Atatürk, and implies he is no
+  admirer.
+quote:
+  text: O, Atatürk'e hayransa, ben de değilsem, bu, beni yarı yolda bırakmayı mazur gösterir mi?
+  language: tr
+caveat: >-
+  TRANSLATION (this record's): 'If he admires Atatürk and I do not, does that excuse leaving me halfway?'
+  Signed 'ATSIZ', in his reply to Hasan Âli Yücel ('Sıfır'), Kür Şad no. 4-5 (1947; the issue marks the 23rd
+  anniversary of Gökalp's death and carries the date 3 Kasım 1947), archive.org OCR ('ben de de- gilsem'
+  normalised). The lawyer is Hâmit Şevket İnce. The sentence is conditional: it implies but does not state
+  that Atatürk is not his hero. Kür Şad also mocks officials who strike 'Atatürk poses' on Atatürk Boulevard.
+  The vault note's claims (blood nationalism, attacks on 'Peace at home', Nazi sympathies) are about the
+  state, not Kemal, and were not checked here.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/kur-sad-dergs
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org kur-sad-dergs, 'Kür Şad, Sayı 4-5_djvu.txt' (cover: 'GÖKALP'IN ÖLÜMÜNÜN 23 ÜNCÜ ...', '3 KASIM
+    1947')
+  method: archive.org open djvu text read
+  note: >-
+    Quote verbatim (OCR 'de- gilsem'): 'O, Atatürk'e hayransa, ben de değilsem, bu, beni yarı yolda bırakmayı
+    mazur gösterir mi?' Context: the lawyer Hâmit Şevket İnce dropped his May 1944 defence after Falih Rıfkı
+    warned him, citing 'benim Atatürk düşmanı olduğumu'. The reply to 'Sıfır' (Yücel) is signed 'ATSIZ' and
+    dated '22 Ekim 1947, Çarşamba — Maltepe'. 1947-11 (issue date 3 Nov 1947) is fine. 'Atatürk pozu vermeğe
+    özenerek Atatürk bulvarında' present. Translation faithful. Minor: what_they_saw 'declines to call himself
+    an admirer' is a little strong for a conditional; 'implies he is no admirer' is closer. Conflicted is
+    defensible (no admirer, but he resents the 'enemy' label used against him); intensity 1 is right. Schema
+    ok.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33)
+  checked_on: "2026-11-06"

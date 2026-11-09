@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lyautey-1922
+voice: Hubert Lyautey
+voice_type: person
+role: Marshal of France, Resident-General in Morocco
+country: France
+country_now: France
+domain: military
+date: "1922-09"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: letter
+evidence: S
+summary: >-
+  Corresponded with Kemal (his letter of 20 March 1922 answered Kemal's of December 1921) and congratulated
+  him on the September 1922 victories.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri vol. 12 pp. 157, 375 and vol. 13 (Kaynak 2004) p. 325 ← Şimşir, Atatürk ile
+  Yazışmalar I (1981) pp. 205, 291 ← Turkish Foreign Ministry archive; Kemal's Dec 1921 letter ← F. Pekin,
+  Belleten 20 (1956) pp. 654–655
+caveat: >-
+  Lyautey's own wording is not printed in the volumes read; the congratulations are known from Kemal's reply
+  of 25 Sept 1922 (via Ferid Bey in Paris), which calls him 'the dearest friend of the Islamic and Turkish
+  world'. Polarity rests on the act of congratulating on the victories.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2012%20%281921%20-%201922%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202005%20%282.%20Bas%C4%B1m%29%2C%20424%20sf.pdf
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2013%20%281922%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202004%20%281.%20Bas%C4%B1m%29%2C%20476%20sf.pdf
+verification:
+  verdict: confirmed
+  checked_against: >-
+    archive.org butuneserler, djvu text of ABE vol. 12, pp. 157 and 375 (Kemal to Lyautey 23 Dec 1921; Kemal
+    to the Foreign Ministry 10 Apr 1922, forwarding Lyautey's letter of 20 Mar 1922); ABE vol. 13 p. 325
+    (reply to Lyautey's congratulations, İzmir 25 Sept 1922)
+  method: archive.org open djvu text read
+  note: >-
+    All three items are where cited. On p. 375 Kemal calls Lyautey's letter 'a reply to the letter we sent
+    through Madame Gaulis' (Şimşir's note gives its date, 20 Mar 1922). On p. 325 Kemal thanks 'one of the
+    most renowned commanders of our age, the dearest friend of the Islamic and Turkish world' for his
+    congratulations on the victories. Lyautey's own words are not printed. Admiring rests on the act of
+    congratulating, which is fair, and the caveat says so. Lyautey is a major figure and there was a two-way
+    exchange, so the record passes the contact rule.
+  checked_on: "2026-11-05"

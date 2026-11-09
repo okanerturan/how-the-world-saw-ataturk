@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: milutin-nedic-1938
+voice: Milutin Nedić
+voice_type: person
+role: Yugoslav Minister of the Army and Navy
+country: Yugoslavia
+country_now: Serbia
+domain: military
+date: "1938-11"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: visit
+evidence: P+S+T
+summary: >-
+  Represented Yugoslavia at the funeral as War Minister Nedić, with military detachments; the vault corrects
+  the common confusion with Milan Nedić.
+mediated_by: Havas 17 Nov 1938; Boran 2011 via Tüylü Turan 2019
+caveat: >-
+  First name Milutin is inferred from the minister list (T); Havas and Tüylü Turan give only 'Nedić'/'minister
+  of war', and Havas speaks of military detachments, not a guard of honour. Turan's text also says PM
+  Stojadinović would attend.
+node: Foreign Delegations at the Funeral, November 1938
+sources:
+  - url: http://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr
+    archived: https://web.archive.org/web/20261029000114/https://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr
+  - url: https://doi.org/10.14225/JOH1567
+verification:
+  verdict: partial
+  checked_against: >-
+    Havas ddd:011154698:mpeg21:a0014 ("Joego-Slavië door den minister van oorlog"; Yugoslav military
+    detachments in Ankara); Tüylü 2019 fn37 "Savunma Bakanı Nedic"
+  method: fetch
+  note: >-
+    Sources give only surname/"minister of war"; first name Milutin and "guard of honour" not in them (note
+    admits ID rests on minister list). Turan text also says PM Stoyadinovitch would attend.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: herbert-melzig-1937
+voice: Herbert Melzig
+voice_type: person
+role: German biographer
+country: Germany
+country_now: Germany
+domain: letters
+date: "1937"
+era: contemporary
+polarity: admiring
+intensity: 3
+mirror: nation-forge-template
+artifact: book
+evidence: P
+summary: >-
+  Defended his 'dictatorship' as the republic's hard school, teaching a people toward freedom; he was nation's
+  first teacher and Vater der Türken.
+quote:
+  text: >-
+    Seine ‚Diktatur‘ ist nichts anderes als die harte Schule der Republik, die zur Freiheit erziehen will.
+  language: de
+caveat: >-
+  Written under National Socialism; the book repeats the national-movement line on Armenian deportations (not
+  part of this record).
+node: Herbert Melzig
+sources:
+  - url: https://archive.org/details/pbc.gda.pl.Kamal_Ataturk_Melzig_H
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org pbc.gda.pl.Kamal_Ataturk_Melzig_H djvu.txt line ~9522; 'Vater der Türken' in footnote
+  method: fetch
+  checked_on: "2026-10-29"

@@ -1,0 +1,27 @@
+# Turkish for data/voices/1923/yun-daiying-1923-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: yun-daiying-1923-11
+voice: Yun Daiying (惲代英)
+role: Dongfang zazhi'de yazan komünist kuramcı
+quote: Çin'in de bir General Kemal'e ihtiyacı var, bir General Kemal ordusuna da ihtiyacı var
+quote_kind: translated
+summary: >-
+  Kemal'i ordusuyla Britanya ve Fransa'yı boyun eğmeye zorlayan general olarak örnek gösterdi ve Çin'in bir
+  Kemal'e ve bir Kemal ordusuna ihtiyacı olduğunu söyledi.
+caveat: >-
+  Wikisource özel adlardan önce boşluk ekliyor ('一個 凱末爾將軍'); alıntıdaki boşluklar normalleştirildi. Dongfang
+  zazhi c. 20 sayı 22.
+verification_note: >-
+  Alıntı birebir aynı; önceki paragrafta Kemal'in çağrısının Britanya ve Fransa'ya boyun eğdirip İstanbul'u
+  geri verdirdiği belirtiliyor, dolayısıyla iddia destekleniyor.
+verification_method: Wikisource ayrıştırılmış metni, boşlukları normalleştirilmiş
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f2cd9ab5e94f
+  role: d625766c6890
+  quote: 82010679a2de
+  summary: ce0d05c15b2f
+  caveat: a718b4aac8ab
+  verification_note: 8322f5e97015
+  verification_method: 88ffbb48a805

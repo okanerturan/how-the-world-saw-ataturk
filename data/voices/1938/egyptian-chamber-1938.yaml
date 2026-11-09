@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: egyptian-chamber-1938
+voice: Egyptian Chamber of Deputies (Barakat)
+voice_type: institution
+role: Egyptian lower house, president Baha ed-Din Barakat
+country: Egypt
+country_now: Egypt
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Called him a glorious hero, renovator and creator of greater Turkey.
+quote:
+  text: glorious hero, renovator and creator of greater Turkey
+  language: en
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    a local working file telegram Cairo 11/11/38, president of Egyptian Chamber Baheddine Barakat: "son
+    glorieux heros son renovateur et createur de la grande turquie"
+  method: local
+  note: French original, English translation unflagged in record.
+  checked_on: "2026-10-29"

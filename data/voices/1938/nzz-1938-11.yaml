@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nzz-1938-11
+voice: Neue Zürcher Zeitung
+voice_type: press
+role: Swiss daily, Zurich
+country: Switzerland
+country_now: Switzerland
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  The funeral as Atatürk's 'last victory': Hitler's and Stalin's envoys side by side, fascists, democrats and
+  communists bowing at his coffin.
+quote:
+  text: >-
+    Atatürk'ün cenaze töreni, onun son zaferi oldu. … Tabutunun önünde Faşistler, Demokratlar ve Komünistler
+    eğildiler.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Orhan Koloğlu, Mazlum Milletler Devrimleri ve Türk Devrimi (Kaynak, 2004), p. 81, as quoted in Boran 2011
+  (thesis, ch. on the funeral, n. 250)
+caveat: >-
+  Turkish rendering of the NZZ report on the 21 Nov 1938 funeral ('Atatürk's funeral was his last victory.
+  Before his coffin all his opponents fell silent. Turkish and German soldiers marched in one line behind it;
+  in another, the representatives of Stalin and Hitler side by side; both Valencia and General Franco sent
+  flowers. Fascists, Democrats and Communists bowed before his coffin.'). The German original and exact date
+  not seen (NZZ archive is subscription-only). A major paper's striking stance, kept under the notable-voices
+  rule.
+node: Death and State Funeral of Atatürk
+sources:
+  - url: https://archive.org/details/gelisiguzelkitapo2
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: Tunç Boran, Anıtkabir (1938-1973), PhD thesis 2011, archive.org gelisiguzelkitapo2
+  method: >-
+    thesis full text read by the main agent; original newspaper not seen; not an independent checker
+  note: >-
+    Quote verbatim in the thesis; original (Milliyet 1962 / NZZ 1938 via Koloğlu 2004) not seen.
+  resolution: corrected/hedged 2026-11-04 — see LEDGER § Source-check corrections (round 25)
+  checked_on: "2026-11-04"

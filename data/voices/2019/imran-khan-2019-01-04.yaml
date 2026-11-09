@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: imran-khan-2019-01-04
+voice: Imran Khan
+voice_type: person
+role: Prime Minister of Pakistan; entry in the Anıtkabir special book
+country: Pakistan
+country_now: Pakistan
+domain: politics
+date: "2019-01-04"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: quote
+evidence: J
+summary: >-
+  Calls Atatürk one of the 20th century's greatest statesmen, an inspiration to anti-colonial struggles, and
+  cites Jinnah's praise.
+quote:
+  text: >-
+    led the Turkish people in one of the most difficult times, and changed the history of Turks as well as the
+    world, and has been a source of inspiration for those struggling against colonialism throughout the world.
+  language: en
+mediated_by: Daily Sabah and Anadolu Ajansı 4 Jan 2019
+caveat: >-
+  English as printed by Daily Sabah (4 Jan 2019, 'he wrote in the book'; whether this is Khan's own English or
+  Sabah's back-translation of AA's Turkish is not established; AA's Turkish text is the second source). The
+  entry also quotes Jinnah calling Atatürk 'one of the greatest people who has ever lived' (the Jinnah line is
+  unsourced in the vault, see round 12) and ends 'His glorious struggle for the independence and unity of the
+  Turkish nation will forever remain a golden chapter in the annals of history.'
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.dailysabah.com/diplomacy/2019/01/04/pakistani-pm-imran-khan-pays-visit-to-anitkabir-mausoleum-of-turkeys-founder-ataturk
+    archived: https://web.archive.org/web/20240522114026/https://www.dailysabah.com/diplomacy/2019/01/04/pakistani-pm-imran-khan-pays-visit-to-anitkabir-mausoleum-of-turkeys-founder-ataturk
+  - url: https://www.aa.com.tr/tr/turkiye/pakistan-basbakani-han-anitkabirde/1355808
+    archived: https://web.archive.org/web/20190204000855/https://www.aa.com.tr/tr/turkiye/pakistan-basbakani-han-anitkabirde/1355808
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Daily Sabah 4 Jan 2019; AA Turkish 4 Jan 2019
+    (aa.com.tr/tr/turkiye/pakistan-basbakani-han-anitkabirde/1355808)
+  method: tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker
+  note: >-
+    English verbatim in Daily Sabah ('led the Turkish people in one of the most difficult times, and changed
+    the history of Turks as well as the world, and has been a source of inspiration for those struggling
+    against colonialism throughout the world'; the '[Atatürk]' bracket is Sabah's). AA Turkish agrees in sense
+    but is worded differently (AA's Turkish, 'en parlak bölümlerden biri', vs Sabah's 'golden chapter'), so
+    one of the two is a back-translation; Sabah is itself 'with AA', so both are the same wire. Visit on
+    Friday 4 Jan 2019 confirmed. Jinnah line is Khan quoting Jinnah, unverified here.
+  checked_on: "2026-11-03"

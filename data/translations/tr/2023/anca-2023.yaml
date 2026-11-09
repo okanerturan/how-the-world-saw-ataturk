@@ -1,0 +1,18 @@
+# Turkish for data/voices/2023/anca-2023.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: anca-2023
+voice: Amerika Ermeni Ulusal Komitesi
+role: ABD Ermeni savunuculuk grubu
+summary: >-
+  Disney+ Atatürk dizisine karşı, Ermeni soykırımı hafızasıyla bağlantılı olarak bir faili yücelttiği
+  gerekçesiyle kampanya yürüttü.
+verification_note: ANCA çağrısı Haziran 2023'teydi; Disney iptali Ağustos 2023'te bildirildi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e0966411ba51
+  role: bc06b5d5b4a3
+  summary: a63dab80cfdb
+  verification_note: a1f48c1f5607
+  verification_method: ad8cee67138e

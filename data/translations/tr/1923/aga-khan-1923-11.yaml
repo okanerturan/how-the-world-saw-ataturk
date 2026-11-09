@@ -1,0 +1,45 @@
+# Turkish for data/voices/1923/aga-khan-1923-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: aga-khan-1923-11
+voice: Aga Khan III
+role: Nizarî İsmailîlerin imamı (Syed Ameer Ali ile birlikte imzalanan mektup)
+quote: >-
+  emin olduğumuz üzere, ne Büyük Millet Meclisi'nin ne de Ekselansları Cumhurbaşkanı Gazi Mustafa Kemal
+  Paşa'nın sükûnetle karşılayabileceği bir ihtimal
+quote_kind: translated
+summary: >-
+  Başbakan İsmet'e 'yeni Türkiye'nin istikrarlı dostları' sıfatıyla yazarak, Cumhurbaşkanı Mustafa Kemal'in
+  İslam'ın parçalanmasını sükûnetle kabul edemeyeceğinden emin olduklarını belirtip hilafetin korunması
+  çağrısında bulundu.
+caveat: >-
+  Kemal'e değil Başbakan İsmet'e hitaben yazılmıştır; mektup tarihi yeniden basımda yer almaz (gönderildikten
+  bir hafta sonra İstanbul gazetelerinde yayımlanmıştır). Kayıt, İsmet'in bir mülakatçıya mektubun
+  yayımlanmasına itiraz eden sözlerini aktarır; ardından mektubu basan editörlerin İstiklal Mahkemesi'nde
+  yargılanması süreci gelmiştir. Mektubu basan İstanbul editörleri kısa süre sonra beraat etmiştir.
+mediated_by: >-
+  Indian Quarterly Register 1924 c. I (Calcutta, H. N. Mitra), 'The Khilafat Movement', s. 85–86, mektubun
+  yeniden basımı
+verification_note: >-
+  Alıntı, Ameer Ali ve Aga Khan tarafından imzalanmış, 'To His Excellency Ghazi Ismet Pasha, Prime Minister of
+  Turkey' başlıklı mektupta (3. paragraf) birebir yer alıyor; 7. paragraf da 'the Grand National Assembly and
+  its great and far-sighted leaders' için çağrıda bulunuyor. Düzeltmeler: (1) what_they_saw biraz hatalı:
+  mektup Kemal'in 'could not see [the Caliphate] diminished' durumunda olduğunu değil, hilafet zayıflatılır
+  veya kaldırılırsa İslam'ın parçalanmasını sükûnetle karşılayamayacağını söylüyor; (2) kayıt 'İsmet's reply'
+  metnini yeniden basmıyor, yayımlanmaya itiraz ederek 'to an interviewer' söylediği sözleri aktarıyor; (3)
+  'early Dec 1923' sayfada yok, sayfada yalnızca gizli gönderimden bir hafta sonra kopyaların İstanbul
+  gazetelerine gittiği yazıyor; (4) İstiklal Mahkemesi üç editörü vatana ihanet suçlamasıyla tutukladı ve kısa
+  sürede beraat ettirdi ('soon acquitted'), uyarı notu bunu eklemeli. İkircikli (conflicted) nitelemesi
+  yerinde; P doğru. Bakış testi: Kemal'e değil İsmet'e yazılmış ama Kemal'i adıyla anıyor. Ana ajanın tutma
+  kararı geçerli.
+verification_method: archive.org açık OCR metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f94e5368078f
+  role: d749d6319033
+  quote: 69849945db1c
+  summary: e27074a4d121
+  caveat: 989bfb715064
+  mediated_by: 25ac0e4fcead
+  verification_note: 6aa05fa48f01
+  verification_method: 5564a28f2471

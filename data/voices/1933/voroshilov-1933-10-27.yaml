@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: voroshilov-1933-10-27
+voice: Kliment Voroshilov
+voice_type: person
+role: >-
+  Soviet People's Commissar for Military and Naval Affairs, head of the delegation to the Republic's 10th
+  anniversary
+country: Soviet Union
+country_now: Russia
+domain: politics
+date: "1933-10-27"
+era: contemporary
+polarity: instrumental
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Closing his reply to Ismet Pasha in Ankara, salutes Kemal as leader of the national-liberation struggle,
+  tied to both victory and cultural revival.
+quote:
+  text: >-
+    Заканчивая свою речь, я выражаю глубокое уважение народов СССР к вождю национально-освободительной борьбы
+    турецкого народа — президенту Турецкой республики Гази Мустафа Кемаль-паше, со славным именем которого
+    связаны как победоносная борьба новой Турции за свою независимость, так и упорная созидательная работа над
+    ее культурным и экономическим возрождением.
+  translation: >-
+    Concluding my speech, I express the deep respect of the peoples of the USSR for the leader of the Turkish
+    people's national-liberation struggle, President of the Turkish Republic Gazi Mustafa Kemal Pasha, whose
+    glorious name is linked both with the new Turkey's victorious struggle for independence and with the
+    persistent creative work of its cultural and economic revival.
+  language: ru
+caveat: >-
+  Правда no. 299 (5825), 29 Oct 1933, p. 2, 'Ответная речь тов. Ворошилова' (TASS dispatch from Ankara dated
+  27 Oct; reply to Ismet Pasha at the dinner on arrival; the sentence closes the speech, before the toast 'за
+  здоровье президента республики'). Read on the page image (300 dpi crop of the archive.org scan; the
+  archive's own OCR is garbage). Official toast at a state visit, so polarity 'instrumental'; text as
+  published by Pravda from TASS, not a stenogram. Page and issue date as printed in the header.
+node: Soviet Marshals Greet the Ghazi — Voroshilov in Ankara 1933 and Frunze 1922
+sources:
+  - url: https://archive.org/details/1933299_3244
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Pravda no. 299 (5825), 29 Oct 1933, p. 2, archive.org 1933299_3244
+  method: rendered PDF page at 250 dpi and READ Russian on the image
+  note: >-
+    Quote verbatim ('Zakanchivaya svoyu rech ... k vozhdyu natsionalno-osvoboditelnoi borby turetskogo naroda
+    ... Gazi Mustafa Kemal-pashe, so slavnym imenem kotorogo svyazany ... vozrozhdeniem'); header, headline
+    'Otvetnaya rech tov. Voroshilova' and page confirmed; translation faithful. Official toast: instrumental
+    is right.
+  checked_on: "2026-11-05"

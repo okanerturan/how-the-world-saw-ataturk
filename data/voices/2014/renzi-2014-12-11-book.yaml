@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: renzi-2014-12-11-book
+voice: Matteo Renzi
+voice_type: person
+role: Prime Minister of Italy; entry in the Anıtkabir special book
+country: Italy
+country_now: Italy
+domain: politics
+date: "2014-12-11"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Pays deep respect to Atatürk as founder of modern Turkey and promises support for Turkey's path toward the
+  European Union.
+quote:
+  text: Modern Türkiye'nin kurucusu Mustafa Kemal Atatürk'e derin saygılarımı sunuyorum.
+  is_translation: true
+  language: tr
+mediated_by: Haberler (AA) and Haber7, 11 Dec 2014 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of an entry written in English (Italian). Haberler (AA) and Haber7 print the same text,
+  one AA wire. The sentences that follow concern Italian-Turkish relations and EU accession.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.haberler.com/guncel/italya-basbakani-renzi-ankara-da-6766237-haberi/
+  - url: https://www.haber7.com/dis-politika/haber/1245290-italya-basbakani-renzi-ankarada
+    archived: https://web.archive.org/web/20170613003300/http://www.haber7.com:80/dis-politika/haber/1245290-italya-basbakani-renzi-ankarada
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Haberler (AA) 11 Dec 2014 16:35; Haber7 11 Dec 2014 16:37
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used
+  note: >-
+    Quote is the verbatim first sentence; later sentences on relations and EU path match caveat. Haberler
+    credits AA and Haber7 is the same text: one source. Date correct. Instrumental/1 fair (courtesy plus EU
+    pledge).
+  checked_on: "2026-11-03"

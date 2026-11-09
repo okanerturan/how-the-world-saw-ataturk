@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ruth-woodsmall-1936
+voice: Ruth Frances Woodsmall
+voice_type: person
+role: >-
+  American YWCA leader and Near East specialist; author of Moslem Women Enter a New World (1936)
+country: United States
+country_now: United States
+domain: letters
+date: "1936"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: emancipator-patriarch
+artifact: book
+evidence: P
+summary: >-
+  Calls him, for the Moslem East as a whole, the leading feminist, whose fearless leadership raised the status
+  of Moslem women.
+quote:
+  text: >-
+    For the Moslem East as a whole Kamal Ataturk may be rightly considered the leading feminist.
+  language: en
+caveat: >-
+  Ruth Frances Woodsmall, Moslem Women Enter a New World (1936), p. 69 (index: 'Ataturk, Kamal, 69, 405');
+  text read in the Bimla reprint, Women in the Changing Islamic System (Delhi), which keeps the original
+  running heads. The next sentence (p. 70): 'Through his fearless leadership he has not only attained his
+  primary objective of social reforms for Turkey, but has also affected the social thought of the entire
+  Moslem world and contributed greatly to the elevation of the status of Moslem women.' Elsewhere (p. 399 of
+  the reprint) she calls him 'the saviour of the new Turkey' whose 'virile and commanding leadership' enabled
+  drastic religious reform. Her observation that the Turkish Women's Union (Kadin Birligi) was dissolved right
+  after the 1935 Istanbul congress is neutral reporting. Woodsmall is a lesser-known name; she is stored for
+  the mid-1930s women's-movement angle, not for fame.
+node: Western Women Commentators on Atatürk, 1922–1936 — Sheridan, Mills, Woodsmall
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.506177
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org in.ernet.dli.2015.506177 (Women in the Changing Islamic System, reprint of Moslem Women Enter
+    a New World), djvu text; index entry 'Ataturk, Kamal, President of Turkey, 69, 405'
+  method: fresh archive.org djvu full text download (banked round17 file not used)
+  note: >-
+    Quote verbatim at foot of p.69 ('For the Moslem East as a whole Kamal Ataturk may be rightly considered
+    the leading feminist'); next sentence 'Through his fearless leadership...' is on p.70 (running head
+    'MOSLEM WOMEN ENTER A NEW WORLD'); 'saviour of the new Turkey ... virile and commanding leadership' also
+    present later in the reprint. Admiring/2 fair. Text seen in the reprint, not the 1936 original.
+  checked_on: "2026-11-03"

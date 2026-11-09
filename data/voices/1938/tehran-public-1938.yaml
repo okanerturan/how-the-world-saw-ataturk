@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tehran-public-1938
+voice: Tehran public
+voice_type: collective
+role: Residents of Tehran
+country: Iran
+country_now: Iran
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: ceremony
+evidence: S
+summary: >-
+  On the news the whole city fell silent and motionless in deep mourning, saying Atatürk does not die.
+quote:
+  text: Atatürk ölmez
+  language: tr
+mediated_by: Toksoy 2010 §C İran Basını
+caveat: Iranian-side primary (Ettela'at) not seen.
+node: Tehran Falls Silent, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt §C İran Basını (Atatürk ölmez ... Tahran sesiz ve hareketsiz)
+  method: local
+  note: "'Atatürk ölmez' is Toksoy's Turkish; the Iranian primary is not seen (as caveat says)."
+  checked_on: "2026-10-29"

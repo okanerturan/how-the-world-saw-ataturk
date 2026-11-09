@@ -1,0 +1,42 @@
+# Turkish for data/voices/1966/lototsky-1966.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lototsky-1966
+voice: Oleksandr Lototsky
+role: Ukrayna Halk Cumhuriyeti'nin İstanbul elçisi (1919), bakan, anı yazarı
+quote: >-
+  Kurtuluş hareketinin başına geçerek Türk halkının ulusal duygusunu en yüksek dereceye çıkarmayı başardı. …
+  Kemal'in eserinin bu niteliği, o güne kadarki siyasi ve kültürel koşullar altında uyuşuk düşmüş halkın ruh
+  yapısını yeniledi ve o halkı büyük, özbilinçli bir eyleme sevk etti.
+quote_kind: translated
+summary: >-
+  'Asi general' Mustafa Kemal'i askerî, siyasi, toplumsal ve kültürel alanlarda yetenekli, Türk ulusal
+  duygusunu yükselten ve halkın ruh yapısını yenileyen biri olarak nitelendirir.
+caveat: >-
+  O. Lototsky, Сторінки минулого, 4. Kısım 'В Царгороді' (1966), 'Внутрішнє положення в Туреччині по
+  замиренні' bölümünün Wikisource transkripsiyonu (tashih düzeyi 3), bağlantılı djvu dosyasının 24-27. tarama
+  sayfaları; sayfada yazılış tarihi verilmemektedir. Parçada 'Ататюрк' adı kullanıldığından 1934'ten sonra
+  yazılmıştır ve yazar 1939'da ölmüştür (ölüm tarihi hafızadandır, kademe M): metin muhtemelen 1934-39
+  yıllarında yazılmış ve ölümünden sonra 1966'da yayımlanmıştır. 'По війні та мировій конференції' bölümündeki
+  ikinci bir parça, Kemal'in Türkiye'nin 'mağluplar arasındaki tek galip' hâline geldiğine dair Ankara
+  konuşmasını alıntılar. Tarama incelenmedi. Çeviri arşive aittir. Kontrol: 1966 yayın tarihidir (ABD Ortodoks
+  Kilisesi baskısı); Lototsky 1939'da öldü ve metinde 'Ататюрк' geçiyor, dolayısıyla yakl. 1934–39'da
+  yazılmıştır.
+verification_note: >-
+  Her iki Ukraynaca parça da birebir aynı; çeviri sadık; bakış uygun. TARİH: Wikisource sürümü 1966 ABD
+  Ortodoks Kilisesi yayınıdır (bir yeniden basım notu dizinin 1932 Varşova baskısına atıfta bulunur). Lototsky
+  1939'da öldü; metin 'Ататюрк' adını kullandığından 1934'ten sonra yazılmıştır; Ukrayna Bilim Enstitüsünün
+  bir Polonya kütüphane listesi İstanbul kısmını yalnızca 'basıma hazır' olarak gösteriyor ki bu da ilk
+  yayının 1966'da olmasıyla tutarlıdır. Dolayısıyla 1966 yayın tarihidir, sözün yazılış tarihi 1934-39'dur
+  (bilinmiyor); 'posthumous' dönemi yalnızca yayın tarihini esas alır. Tarihi 1966 olarak koruyun ancak
+  çekince notunda 'yakl. 1934-39'da yazıldı' deyin ve çağdaş tanıklık muamelesi yapmayın.
+verification_method: işlenmiş sayfa çekildi, dizge eşleştirildi, baskı üstbilgisi okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 52427a0ddd9b
+  role: 66ffba37756a
+  quote: 6d42f27ff119
+  summary: 989ad6784594
+  caveat: afdcded2f73d
+  verification_note: e3f790f5cfa0
+  verification_method: 06cf72347010

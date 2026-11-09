@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: evening-post-wellington-1938
+voice: Evening Post (Wellington)
+voice_type: press
+role: Wellington daily
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1938-11-12"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: editorial
+evidence: P
+summary: >-
+  Editorial calling Kamal a good dictator who made a garden of a small field, coveted no neighbour's land, and
+  beat the Anzacs at Gallipoli.
+quote:
+  text: If there are any good dictators, Kamal was one of the best.
+  language: en
+node: New Zealand Leaders on Kemal, November 1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/EP19381112.2.31
+    archived: https://web.archive.org/web/20261029002433/https://paperspast.natlib.govt.nz/newspapers/EP19381112.2.31
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://paperspast.natlib.govt.nz/newspapers/EP19381112.2.31 "A GOOD DICTATOR": quote, garden, neighbour's
+    vineyard, Anzacs/Gallipoli all present
+  method: fetch
+  checked_on: "2026-10-29"

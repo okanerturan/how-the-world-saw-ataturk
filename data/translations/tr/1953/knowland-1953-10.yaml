@@ -1,0 +1,36 @@
+# Turkish for data/voices/1953/knowland-1953-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: knowland-1953-10
+voice: William F. Knowland
+role: ABD California Senatörü, Çoğunluk Lideri (Cumhuriyetçi)
+quote: >-
+  Bence onlarda, Kemal Atatürk'ün Türkiye'yi modernleştirmeye ve oradaki durumu temizlemeye çalışırken sahip
+  olduğu şevkten biraz var. … Bu insanların, Kemal Atatürk'ün Türkiye'yi modernleştirmekte ve bugün bulunduğu
+  çok güçlü konuma getirmekte gösterdiği başarının aynısına sahip olup olmadıklarını ya da bu başarıyı
+  geliştirip geliştiremeyeceklerini söylemek için henüz çok erken
+quote_kind: translated
+summary: >-
+  Bir Asya gezisinin ardından Mısır lideri Necib'i değerlendirirken, onda Türkiye'yi modernleştirirken 'Kemal
+  Atatürk'ün sahip olduğu şevkten biraz' bulunduğunu söyler.
+caveat: >-
+  Bir dergi mülakatında verdiği ve tutanağa (Record) bastırdığı kendi yanıtları (sorular ve editör notu dahil
+  edilmemiştir); Atatürk, Necib için bir ölçü birimi olarak kullanılmaktadır, yani araçsaldır. OCR hatası olan
+  'moderniz.e' düzeltildi. Kaynak gösterimi: 30 Ekim 1953 tarihli U.S. News & World Report mülakatı, kendi
+  talebi üzerine 7 Ocak 1954'te Senate Appendix'te basılmıştır, Congressional Record c. 100 (ciltli), granül
+  CRECB-1954-pt15-1.
+verification_note: >-
+  Birebir aynı; basılı U.S. News and World Report mülakatında Knowland'ın kendi yanıtları (sorular ayrıdır).
+  Yanıtlar, araç Necib ile yapılan bir karşılaştırma olsa da kişinin elde ettiği sonuçlara dair bir yargı
+  bildirmektedir ('the same success that Kemal Ataturk had in modernizing and bringing Turkey up to the very
+  strong position she is in today'). Araçsal 1 uygundur; sınırda ama korunsun.
+verification_method: archive.org ciltli nüsha OCR'ı, bağlam içinde okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 68eccc667d6b
+  role: 6397873e4b5d
+  quote: e4024be1ab99
+  summary: 96622427f97b
+  caveat: 3348c54f19fb
+  verification_note: 9e89b0694632
+  verification_method: bbe4f8461dd8

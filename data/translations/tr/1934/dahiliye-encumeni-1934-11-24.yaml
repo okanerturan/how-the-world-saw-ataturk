@@ -1,0 +1,30 @@
+# Turkish for data/voices/1934/dahiliye-encumeni-1934-11-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dahiliye-encumeni-1934-11-24
+voice: Dahiliye Encümeni (İçişleri Komisyonu)
+role: Türkiye Büyük Millet Meclisi (TBMM) komisyonu
+quote: >-
+  Türk ulusuna tam istiklâlini kazandıran ve ulusa gerçek tarihinin ve öz dilinin yolunu gösteren Ulu Cumhur
+  Reisimize (Atatürk) soy adının verilmesi çok yerinde görülmüş
+quote_kind: original-turkish
+summary: >-
+  Ulusa tam bağımsızlığını kazandıran ve ona gerçek tarihini ve öz dilini gösteren Cumhurbaşkanı için Atatürk
+  adının son derece yerinde olduğunu bildirdi.
+caveat: >-
+  İsmet İnönü ve arkadaşlarının kanun teklifi hakkındaki komisyon metni; teklifin kendisi 'Kemal Öz adlı
+  Cumhur reisimize' ifadesini kullanır. Komisyon, Reis'in havale cümlesinden ('Dahiliye encümenine havale
+  ediyoruz') tespit edilmiştir. Basılı metin s. 35.
+verification_note: >-
+  Alıntı, İsmet Paşa ve arkadaşlarının kanun teklifi hakkındaki 24-XI-1934 tarihli komisyon raporunda birebir
+  aynıdır; gündemde Dahiliye encümeni mazbatası olarak yer alır; s. 35.
+verification_method: pdftotext sütun kırpma
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fcfac726ad6c
+  role: 9841254ee622
+  quote: a634f8d4babd
+  summary: 6182d55918cb
+  caveat: fca047dfefef
+  verification_note: ed583d7b0a25
+  verification_method: ec6fb6f23aef

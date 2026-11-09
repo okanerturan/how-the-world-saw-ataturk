@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/ahmad-shawqi-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ahmad-shawqi-1922
+voice: Ahmad Shawqi
+role: Mısırlı 'Şairler Prensi'
+quote: >-
+  Allahu ekber, fetihte nice harikalar var - Ey Türklerin Halid'i, Arapların Halid'ini yenile
+quote_kind: translated
+summary: >-
+  Yunan savaşı ve Lozan galibini, Araplar için Halid bin Velid'i yenileyen 'Türklerin Halid'i' olarak gördü.
+caveat: >-
+  Tarih, şiirdeki Lozan atfından alınmıştır (konferans 20 Kasım 1922'de açıldı); taramada tarih yoktur.
+  Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılan İngilizce çevirisidir.
+verification_note: >-
+  'Intisar al-Atrak fi'l-harb wa'l-siyasa' şiirinin Arapça 1. dizesi tam olarak 'الله أكبر، كم في الفتح من عجب
+  / يا خالد الترك جدد خالد العرب' şeklindedir; 1. dipnot Khalid al-Turk'ü al-Ghazi Mustafa Pasha Kemal olarak
+  tanımlar; çeviri sadıktır. Uyarı notunda belirtildiği üzere 1922 tarihi çıkarımdır (Lozan atfı).
+verification_method: işlenmiş PDF sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 21df07376994
+  role: 1ae8aee12900
+  quote: aefb1a976ad5
+  summary: eb4d70a101d1
+  caveat: 40256f9c8f3e
+  verification_note: af5686eb74b6
+  verification_method: 2cf07304cb13

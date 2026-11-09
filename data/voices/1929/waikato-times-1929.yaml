@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: waikato-times-1929
+voice: Waikato Times
+voice_type: press
+role: Hamilton daily, leader 'The New Turkey'
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1929-01-08"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Credited the westernisation under Kemal as efficient but said it was ruthless, tolerated no opposition and
+  hanged dissenting politicians.
+quote:
+  text: The terror was as inhuman as any in modern times
+  language: en
+node: New Zealand Editors on the Dictator, 1929–1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/WT19290108.2.22
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: paperspast WT19290108.2.22 via wrapper fetch ('The New Turkey')
+  method: fetch
+  checked_on: "2026-10-29"

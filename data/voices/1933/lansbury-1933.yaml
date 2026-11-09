@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lansbury-1933
+voice: Mr Lansbury MP
+voice_type: person
+role: Member of the Commons, Disarmament debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1933-07-11"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Used the Turks retaking Constantinople by force, with the Powers leaving treaties in the lurch, as proof
+  that treaty-breaking pays.
+quote:
+  text: Kemal Pasha was practically able to dictate his own terms
+  language: en
+node: Westminster on the Turkish Dictator, 1924–1938
+sources:
+  - url: https://hansard.parliament.uk/Commons/1933-07-11/debates/abc8d665-f23b-4d6b-8b35-7dccd7ad3e9e/Disarmament
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard API contribution f3af869c-aeba-41a2-b5f2-74e8a45b7ae3 (Mr Lansbury, 1933-07-11, Disarmament)
+  method: api
+  checked_on: "2026-10-29"

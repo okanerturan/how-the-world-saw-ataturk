@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mohammad-reza-pahlavi-1980
+voice: Mohammad Reza Pahlavi
+voice_type: person
+role: Shah of Iran (in exile); Answer to History (1980)
+country: Iran
+country_now: Iran
+domain: politics
+date: "1980"
+era: posthumous
+polarity: witness
+intensity: 1
+artifact: memoir
+evidence: P
+summary: >-
+  Says his father was greatly influenced by Atatürk's reforms and for a time hoped to emulate his neighbour,
+  and that Atatürk admired his father's efforts.
+quote:
+  text: >-
+    Reza Khan had been greatly influenced by the reforms Kemal Ataturk had introduced in Turkey and for a time
+    he hoped to emulate his neighbor's achievements
+  language: en
+caveat: >-
+  The object is Reza Shah's modelling on Atatürk; the Shah states no personal verdict, only calls Atatürk 'the
+  man he had sought to emulate' and recounts the 1934 State visit when the honor guard's standard bearer knelt
+  before Reza Shah (p. 52). Polarity 'admiring' is therefore weak; it could be read as witness. The sentence
+  goes on to say the republic plan failed because 'Persia, unlike Turkey, was an empire'. Page 51 per the
+  book's index; the passage runs onto p. 52 (OCR page header '52 ANSWER TO HISTORY').
+node: Leaders and Thinkers of the Muslim World and Asia on Atatürk in Their Own Words
+sources:
+  - url: https://archive.org/details/Pahlavi-Answer-To-History
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    archive.org/download/Pahlavi-Answer-To-History/pahlavi2_djvu.txt (index 'Ataturk, Kemal, 51'; OCR running
+    head '52 ANSWER TO HISTORY' follows the sentence)
+  method: curl djvu text
+  note: >-
+    Quote verbatim and page right (sentence on p.51, State-visit passage 'how much admiration his efforts
+    garnered from the man he had sought to emulate, Ataturk' on p.52). But the Shah states no view of Ataturk;
+    he reports his father's modelling on him and Ataturk's admiration for Reza. 'Admiring' is not supported.
+    FIX: polarity -> 'witness' (keep intensity 1).
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 14)
+  checked_on: "2026-11-03"

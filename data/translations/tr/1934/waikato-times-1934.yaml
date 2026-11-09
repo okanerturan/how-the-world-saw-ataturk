@@ -1,0 +1,22 @@
+# Turkish for data/voices/1934/waikato-times-1934.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: waikato-times-1934
+voice: Waikato Times
+role: Hamilton günlük gazetesi, 'A Turkish Anniversary' başyazısı
+quote: Mustafa Kemal Paşa'nın parçaladığı şey, Doğu'nun Orta Çağı'dır.
+quote_kind: translated
+summary: >-
+  Kemal'i ülkenin ilk ve tek diktatörü olarak nitelendirdi; bir ulusu şefkatle ikna edişini, denk bütçeleri ve
+  reformları övdü; bu sözcük Türkiye'de hiç duyulmaz.
+caveat: >-
+  Aynı gazetenin 1929 tarihli başyazısından beş yıl sonra; tutumu ikircikliden hayranlığa dönüşmüştür.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a4fad67fedc3
+  role: 28e9f2e756da
+  quote: 3231685b50ca
+  summary: f95a1451ab90
+  caveat: 6bc98e724f02
+  verification_method: ad8cee67138e

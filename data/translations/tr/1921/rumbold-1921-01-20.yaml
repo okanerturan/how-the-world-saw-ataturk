@@ -1,0 +1,33 @@
+# Turkish for data/voices/1921/rumbold-1921-01-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rumbold-1921-01-20
+voice: Horace Rumbold
+role: İstanbul'daki İngiliz Yüksek Komiseri (daha sonra Berlin Büyükelçisi)
+quote: Mustafa Kemal'i artık bir eşkıya reisi olarak görmek boşunadır.
+quote_kind: translated
+summary: >-
+  Curzon'a Kemal'in artık bir eşkıya reisi olmadığını söyledi: Ankara, yerli Hristiyanları kıskıvrak baskı
+  altında tutarak, ortalama bir verimlilik ve Müslüman desteğiyle Anadolu'yu yönetiyordu.
+caveat: >-
+  Övgüden ziyade gerçekçi bir yeniden değerlendirme: aynı telgraf halkı 'sheep-like' olarak nitelendiriyor ve
+  Ankara'nın 'strangle hold on native Christians' durumuna dikkat çekiyor.
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk c. III No. 15, s. 59–60 ← Rumbold'dan Curzon'a, tel. No. 43, İstanbul,
+  20 Ocak 1921
+verification_note: >-
+  s. 59'da kelimesi kelimesine aynı. 'Average efficiency as efficiency goes in Turkey', 'sheep-like as
+  always', 'majority of Moslem element support it strongly' ve 'strangle hold on native Christians'
+  ifadelerinin hepsi mevcut. what_they_saw adildir. Çelişkili sınıflandırması kabul edilebilir: isteksiz,
+  gerçekçi bir yeniden değerlendirme. Açık bir görüş belirten ikincil bir isim, dolayısıyla kabul edilir.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b410944c5a48
+  role: 2e8169e009c9
+  quote: e513372adf1b
+  summary: 55524c7d03f2
+  caveat: a513046e7c5c
+  mediated_by: c528ecc84674
+  verification_note: 1478c14d6359
+  verification_method: b152e9063489

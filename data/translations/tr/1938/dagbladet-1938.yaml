@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/dagbladet-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dagbladet-1938
+voice: Dagbladet
+role: Norveç günlük gazetesi
+summary: Türkiye 'hasta adam' etiketini tamamen gömmüştür ve bu Atatürk'ün başarısıdır.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; kimlik tespitleri varsayıma dayalıdır; yabancı
+  dildeki özgün nüshalar görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ad2f5a58c048
+  role: ac2e273306cb
+  summary: d0a66910f72b
+  caveat: 1d0053d25711
+  mediated_by: 272e58105c39
+  verification_method: 939bb46a04c3

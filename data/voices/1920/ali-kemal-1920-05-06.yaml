@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ali-kemal-1920-05-06
+voice: Ali Kemal
+voice_type: person
+role: Journalist, editor of Peyam-ı Sabah, former Interior Minister
+country: Ottoman Empire
+country_now: Turkey
+domain: press
+date: "1920-05-06"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  Calls Kemal a false partisan who dresses in hypocrisy, has declared a crescent-against-the-cross jihad and
+  deceives the naive believers.
+quote:
+  text: >-
+    sahte bir taraftar, bir riya kisvesine bürünerek, haça karşı hilal cihadını açmış, ehli imanın
+    safdillerini aldatan
+  language: tr
+mediated_by: Çakmak 2019, p. 416 ← Peyam-ı Sabah, 6 May 1920
+caveat: >-
+  Turkish original as quoted by Fevzi Çakmak (historian, not the marshal), 'Milli Mücadele Dönemi Türk
+  Mizahında Muhalif Bir Kimlik: Ali Kemal', Tarih İncelemeleri Dergisi 34/2 (2019), 413-441, DOI
+  10.18513/egetid.661569, citing note 15 'Peyam-ı Sabah, 6 Mayıs 1920'. Vault translation: 'a false partisan,
+  who, wrapped in the cloak of hypocrisy, has opened a crescent jihad against the cross, deceiving the
+  simple-hearted of the faithful'. Çakmak places the phrase in his own sentence about Kemal in Havza, so it is
+  a quotation of the editorial, not a full text of it. The same article says Ali Kemal called the Ankara
+  deputies 'small fellows' (23 Apr 1920) and named Kemal among the 'bloody and cruel' members of the Union and
+  Progress circle (7 May 1920). Ali Kemal was lynched on 6 Nov 1922. Check: p. 415; the phrase sits inside
+  Çakmak's own sentence with a footnote to Peyam-ı Sabah, so it may be clipped or modernised; original not
+  seen.
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://dergipark.org.tr/tr/download/article-file/892240
+    archived: https://web.archive.org/web/20250813144941/https://dergipark.org.tr/tr/download/article-file/892240
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    DergiPark article-file 892240 (Çakmak, Tarih İncelemeleri Dergisi 34/2, 2019, DOI 10.18513/egetid.661569),
+    PDF pages and notes 13-17
+  method: DergiPark PDF download
+  note: >-
+    Phrase verbatim in Çakmak's text, but on p.415 (running folio 415 heads the page; 416 begins after note
+    19), not p.416. Çakmak writes 'Ali Kemal'in gözünde Mustafa Kemal ... Havza'dan başlayarak yayınladığı
+    beyannameleriyle, "sahte bir taraftar ... aldatan" biriydi' with n.15 'Peyam-ı Sabah, 6 Mayıs 1920': the
+    quoted words are worked into his own sentence (no verb, 'biriydi'), so they may be a clipped or modernised
+    quotation rather than the editorial's text. The Peyam-ı Sabah original was not reached and no second
+    source quotes the phrase (searched). Correct the page to 415 and say the phrase is Çakmak's quotation, not
+    seen in the newspaper. Other items (23 Apr 'küçük herifler', 7 May 'kanlı katil') are in the same
+    paragraph, notes 13 and 17.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

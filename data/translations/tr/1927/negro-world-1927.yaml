@@ -1,0 +1,33 @@
+# Turkish for data/voices/1927/negro-world-1927.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: negro-world-1927
+voice: The Negro World
+role: Haftalık UNIA gazetesi, New York (Garvey'nin yayın organı)
+quote: cesaret ve vizyon sahibi liderler, tavizsiz, onurlu adamlar, gerçek vatanseverler
+quote_kind: translated
+summary: >-
+  Ön sayfadaki başyazı, Kemal Paşa'yı Gandhi, Zaghlul, Sun Yat-sen ve Chen ile birlikte Afrikalıların yoksun
+  olduğu 'cesaret ve vizyon sahibi liderler' arasında sayar.
+caveat: >-
+  The Negro World'ün ön sayfası, 7 Mayıs 1927 (OCR'da tarih '1827' olarak okunuyor), Garvey hapisteyken
+  yazılmış 'What of Marcus Garvey, Negroes!' başlıklı başyazı; Kemal bir listedeki isimlerden biridir ('Turkey
+  its Kemal Pasha') ve başyazının konusu Garvey'dir. Aynı sayıdaki bir birinci sayfa sloganı 'Turkey her Kemal
+  Pasha' ifadesini tekrarlar. Dangerous Press OCR.
+verification_note: >-
+  Alıntı birebir mevcut, künyeden sonraki ilk metin: 'WHAT OF MARCUS GARVEY, NEGROES!' ('Turkey its Kemal
+  Pasha. ... leaders of courage and vision, uncompromising, upstanding men, real patriots'). Kemal; Chen, Sun
+  Yat-sen, Gandhi ve Zaghlul ile birlikte bir listede yer alan bir isimdir ve daha ilerideki bir ilan sloganı
+  'Turkey her Kemal Pasha' ifadesini tekrarlar. İmzasızdır; 'editorial' olması makuldür ancak
+  belirtilmemiştir. Tarih 7 Mayıs 1927 (OCR künyesinde 1827 yazıyor); Garvey Atlanta hapishanesindedir.
+  Hayranlık/1 değerlendirmesi yerinde.
+verification_method: ücretsiz erişim
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 940056125af2
+  role: 29de7e227864
+  quote: 362638830d5b
+  summary: 50748b0a4edc
+  caveat: 7dd58a9a0120
+  verification_note: e918203d96da
+  verification_method: 2d3844762b8f

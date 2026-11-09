@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-opinion-marco-polo-1928
+voice: Marco Polo (La Opinión)
+voice_type: person
+role: Pseudonymous columnist, Los Angeles Spanish-language daily
+country: United States
+country_now: United States
+domain: press
+date: "1928-07-26"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Called Kemal a dictator beside whom Mussolini, Pilsudski or Primo de Rivera were still 'children of
+  Democracy', then cited Le Temps on a one-party state.
+quote:
+  text: Mustaphá Kemal es un dictador ante quien
+  language: es
+caveat: >-
+  Column signed 'Por MARCO POLO' on page 3; OCR of the quoted sentence has artefacts ('MussolinL, Pllsudski'),
+  so only the clean clause is quoted. The Le Temps passage is quoted by the columnist.; text unchecked by
+  independent check (InFlow stopped 2026-10-29)
+node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
+sources:
+  - url: https://www.loc.gov/resource/sn81004351/1928-07-26/ed-1/?sp=3
+verification:
+  verdict: unreachable
+  checked_against: loc.gov sn81004351 1928-07-26 p.3
+  method: >-
+    ms wrapper returned INFLOW STOPPED (stop rule); direct curl to loc.gov/chroniclingamerica Cloudflare 403
+  note: Not checked.
+  checked_on: "2026-10-29"
+  quote_found: false

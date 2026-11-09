@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: husrev-bey-tbmm-1921-08-08
+voice: Hüsrev Bey (Trabzon)
+voice_type: person
+role: Trabzon deputy, reporting for the Defence Committee
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-08-08"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: report
+evidence: P
+summary: >-
+  Reported that European propaganda claiming no one trusted Mustafa Kemal any longer was being undermined
+  since the Assembly made him Commander-in-Chief.
+quote:
+  text: >-
+    Başkumandanlığın Paşa Hazretlerine tevcihi üzerine bu propagandaların yavaş yavaş kökü sarsılmakta olduğu
+    anlaşılmıştır.
+  language: tr
+caveat: >-
+  Committee rapporteur giving a briefing; the view is the committee's report as voiced by him. Printed p. 214
+  (3rd sitting of 8 Aug 1921, 63rd in-ikat).
+node: TBMM Closed Sessions, August 1921 — Three More Voices
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+    archived: https://web.archive.org/web/20250915054819/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Gizli Celse Zabıtları (acikerisim bitstream), 63rd in'ikat, 8 Aug 1921, 3rd celse, Hüsrev Bey
+    (Trabzon)
+  method: pdftotext on bitstream PDF; page foot '– 214 –' follows the quote
+  note: Verbatim; sits in his report on the military situation; context matches.
+  checked_on: "2026-10-30"

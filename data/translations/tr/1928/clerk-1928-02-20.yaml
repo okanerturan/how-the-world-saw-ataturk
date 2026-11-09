@@ -1,0 +1,34 @@
+# Turkish for data/voices/1928/clerk-1928-02-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: clerk-1928-02-20
+voice: George Clerk
+role: İngiltere'nin Türkiye Büyükelçisi
+summary: >-
+  Dışişleri Bakanı'nın verdiği bir baloda Gazi kendisine yarım saat boyunca dost olan onurlu düşmanlar üzerine
+  hitap etti; Clerk konuşmayı beylik ama içtenlikle dostane buldu.
+caveat: >-
+  OCR bozuk olduğundan kelimesi kelimesine alıntı yoktur. Clerk konuşmanın 'admirably phrased' olduğunu ancak
+  'somewhat platitudinous generalities' içerdiğini ve Kemal'in Fransız ataşesine kendi 'lying papers' basınına
+  ölmekte olmadığını yazmaları gerektiğini söylediğini aktarır. Clerk'in cenaze dönemindeki görüşü halihazırda
+  verilerde mevcuttur.
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk c. VI No. 7 ← Clerk'ten Austen Chamberlain'e, Ankara, 21 Şubat 1928
+  (F.O. 424/268)
+verification_note: >-
+  Açıklandığı gibi: 'long and admirably phrased speech', 'honourable enemies and were now honourable friends',
+  'over half an hour's discourse', 'somewhat platitudinous generalities' ama aynı zamanda 'the sincerely
+  friendly tone of the Ghazi's references to England' ve Fransız askeri ataşesi Sarrou'ya söylenen 'lying
+  papers' sözü mevcut. Yakınında basılı olan F.O. 424/268 referansı bir önceki belgeye (sayı 6) aittir; sayı
+  7'nin referansı okunamamıştır. İkincil bir isim, ancak bir yargı belirtiyor (belagatli, beylik, içtenlikle
+  dostane), bu nedenle tanık olarak sınırda kabul edilir.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bd69de9ae6f6
+  role: c5b9e2421091
+  summary: 61bc9b370179
+  caveat: 80ac75dacb07
+  mediated_by: d9245bdb08e8
+  verification_note: 24f75c6dcd68
+  verification_method: b152e9063489

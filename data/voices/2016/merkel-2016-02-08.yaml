@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: merkel-2016-02-08
+voice: Angela Merkel
+voice_type: person
+role: Chancellor of Germany; entry in the Anıtkabir special book
+country: Germany
+country_now: Germany
+domain: politics
+date: "2016-02-08"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: quote
+evidence: P+J
+summary: >-
+  Honours Atatürk as father of the modern Turkish Republic and a pioneer of the way to Europe.
+quote:
+  text: >-
+    In Gedenken an den Vater der modernen Republik Türkei, Mustafa Kemal Atatürk, und Wegbereiter nach Europa.
+    Im Geiste der besonderen Freundschaft zwischen dem deutschen und dem türkischen Volk.
+  language: de
+mediated_by: Deutsche Botschaft Ankara, official post of the entry (German and Turkish), 8 Feb 2016
+caveat: >-
+  German original from the German Embassy Ankara's own post of the entry (Facebook, 'Gedenkbucheintrag von
+  Bundeskanzlerin Merkel in Anıtkabir', 8 Feb 2016, 5:17 AM; German and Turkish texts with a photo of the
+  page; read via Monid render, 5 Nov 2026). Turkish outlets (Yeni Asır, Ensonhaber) print the embassy's
+  Turkish version, which renders 'Wegbereiter' (pathfinder) as 'mimarı' (architect) and 'Vater' as 'Ata'.
+  Written on the day of the refugee-deal visit to Davutoğlu.
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.facebook.com/almanyabe/photos/a.10150589796897810/10153454159857810/
+  - url: https://www.yeniasir.com.tr/gundem/2016/02/08/turkiye-cumhuriyetinin-atasi
+    archived: https://web.archive.org/web/20160513053655/http://www.yeniasir.com.tr:80/gundem/2016/02/08/turkiye-cumhuriyetinin-atasi
+  - url: https://www.ensonhaber.com/merkel-anitkabiri-ziyaret-etti-2016-02-08-h10640632
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Yeni Asır 8 Feb 2016; Ensonhaber 8 Feb 2016; German Embassy Ankara Facebook post (search snippet only,
+    login wall)
+  method: >-
+    tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker; 1 paid search for the
+    German
+  note: >-
+    Turkish verbatim in both outlets (same wording, same wire). But a snippet of the German Embassy's Facebook
+    post titled 'Gedenkbucheintrag' gives the German original: 'In Gedenken an den Vater der modernen Republik
+    Türkei, Mustafa Kemal Atatürk, und Wegbereiter nach Europa.' So 'Ata'sı' = 'Vater', and 'mimarı'
+    (architect) is the translators' word for 'Wegbereiter' (pioneer/path-opener). The record's what_they_saw
+    'architect of the road to Europe' follows the translation; and its caveat that 'Ata' is the translator's
+    word is only half right (it is a rendering of 'Vater'). Correction: quote the German (full wording still
+    to be read from the post), what_they_saw 'father of the modern Republic of Turkey and a pioneer of the way
+    to Europe'. Date 8 Feb 2016 confirmed.
+  resolution: >-
+    upgraded 2026-11-05: German original from the German Embassy Ankara's post of the entry (Facebook, 8 Feb
+    2016), read via Monid render
+  checked_on: "2026-11-03"

@@ -1,0 +1,31 @@
+# Turkish for data/voices/1938/muhammadiyah-meeting-surabaya-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: muhammadiyah-meeting-surabaya-1938
+voice: Muhammadiyah toplantısı, Surabaya
+role: Surabaya şubesi halka açık toplantısı
+quote: bu büyük İslam mensubu
+quote_kind: translated
+summary: >-
+  Atatürk'ü bir dakikalık sessizlikle andı; başkan bu büyük İslam mensubu için sessizlik istedi; bir Kur'an
+  duası okundu.
+caveat: >-
+  İfade, muhabirin Malayca veya Felemenkçe konuşmayı aktarımıdır; bir bütün olarak Muhammadiyah değil, tek bir
+  şehirdeki tek bir şubedir.
+mediated_by: >-
+  Soerabaijasch Handelsblad 16 Kasım 1938 ve De Indische Courant 16 Kasım 1938 (Malayca konuşmaya ilişkin
+  Felemenkçe haberler)
+verification_note: >-
+  'dezen grooten Islamiet' (bu büyük İslam mensubu), bir dakikalık sessizlik, Kur'an duası hepsi mevcut;
+  Malayca konuşmanın Felemenkçe aktarımı. Kayıttaki kaynak listesi boş
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8fd61c4fbdef
+  role: 738aace14d20
+  quote: 51e61386d0d8
+  summary: a0da1722b9ef
+  caveat: 31d77d542c8f
+  mediated_by: 6c8ca6b8c692
+  verification_note: dc39b87cbbdf
+  verification_method: ad8cee67138e

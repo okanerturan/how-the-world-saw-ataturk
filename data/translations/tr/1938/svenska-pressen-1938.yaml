@@ -1,0 +1,21 @@
+# Turkish for data/voices/1938/svenska-pressen-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: svenska-pressen-1938
+voice: Svenska Pressen
+role: Finlandiya'da yayımlanan İsveççe günlük gazete
+summary: >-
+  Başyazısı, gerçekleştirdiği devrimin büyüklüğü bakımından Atatürk'ün liderler arasında çok önemli bir yer
+  tuttuğunu söyledi.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Kurun 14 Kasım, Ulus 15 Kasım, Cumhuriyet 16 Kasım 1938
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: feb360195d44
+  role: 68f517a64e7d
+  summary: 8330e7133d02
+  caveat: ecc719a2a575
+  mediated_by: c3d11a07ec69
+  verification_method: 939bb46a04c3

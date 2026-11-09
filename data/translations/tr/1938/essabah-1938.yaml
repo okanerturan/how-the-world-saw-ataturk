@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/essabah-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: essabah-1938
+voice: Essabah
+role: Halep gazetesi
+summary: Onun gibilere çok ihtiyaç duyan tüm Doğu halkları için bir kayıp.
+caveat: >-
+  Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının
+  transliterasyonları tahminidir.
+mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
+verification_note: Kaydın içinde alıntı yok; iddia Toksoy'da kelimesi kelimesine yer alıyor.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b01a3149ad2d
+  role: 991aa3182fb9
+  summary: b9afb177c271
+  caveat: f8ae166de916
+  mediated_by: 0d9b58c49a68
+  verification_note: 173a329ce3de
+  verification_method: 939bb46a04c3

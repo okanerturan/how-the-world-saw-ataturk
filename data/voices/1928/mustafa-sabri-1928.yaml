@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mustafa-sabri-1928
+voice: Mustafa Sabri Efendi
+voice_type: person
+role: Former Shaykh al-Islam; writer for the newspaper Yarın (İskeçe, Western Thrace)
+country: Greece
+country_now: Greece
+domain: religion
+date: "1928-06-23"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: S
+summary: >-
+  Calls Kemal a rebel against Sultan Vahideddin and judges his separation of state from religion to be
+  irreligion.
+quote:
+  text: Merhum Sultan Vahidüddin'e ve hükümetine Anadolu'da Mustafa Kemal asi geldiği zaman
+  language: tr
+mediated_by: Albayrak 1992 ← Yarın, no. 23, 23 Jun 1928, pp. 2-4
+caveat: >-
+  Article 'Sıyrılan İkinci Maske (Abdülmecid Komedisi)', aimed at the Cairo paper Müsavat and at Abdülmecid
+  II; the print's citation 'Yarı[n], sayı: 23, 23 Haziran 1928, sh: 2-4' closes it. The sentence runs on: 'it
+  is unnecessary to repeat here how far Abdülmecid secretly and openly backed this rebellion'. Quoted in
+  Bardakçı's Şahbaba (p. 276 in the 1998 edition, with 'âsi'), via Albayrak. In the same article Sabri writes
+  that Kemal's act, 'dinden devleti ayırması', is 'dinsizlik' (irreligion) while a religionless government can
+  be imagined outside Islam but a religionless caliphate cannot (OCR slightly garbled, so paraphrased). Pages
+  172-173 of the 1992 print. Sabri's own judgment; the vault does not endorse it.
+node: Sabri Efendi and Mehmed Âkif on Mustafa Kemal, 1924–1935
+sources:
+  - url: https://archive.org/details/mustafa-sabri-efendi-hilafet-ve-kemalizm-arastirma-yayinlari-415-sayfa-1992
+  - url: https://archive.org/details/sahbaba-murat-bardakci
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Mustafa Sabri Efendi, Hilafet ve Kemalizm (Arastirma Yayinlari, 1992), 'Siyrilan Ikinci Maske (Abdulmecid
+    Komedisi)': archive.org djvu text and PDF (PDF p. 174 = printed p. 172); Bardakci, Sahbaba djvu
+  method: >-
+    fresh free download of the djvu text and PDF; read the passage and the closing source note; grepped
+    Sahbaba for the Bardakci citation; banked src files not used
+  note: >-
+    Quote verbatim (Merhum Sultan Vahiduddin'e ve hukumetine Anadolu'da Mustafa Kemal asi geldigi zaman),
+    printed p. 172; the same page has 'dinden devleti ayirmasi dinsizlik'. Article runs pp. 169-175 and closes
+    '(Yarin, sayi: 23, 23 Haziran 1928, sh: 2-4)' as stated; date 1928-06-23 correct. Bardakci's Sahbaba
+    prints 'Mustafa Kemal asi geldigi zaman' (djvu line 14402; page not confirmed). The quote is a clause
+    ending mid-sentence ('zaman'), fine as a fragment. Schema OK.
+  checked_on: "2026-11-03"

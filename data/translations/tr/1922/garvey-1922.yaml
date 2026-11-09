@@ -1,0 +1,43 @@
+# Turkish for data/voices/1922/garvey-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: garvey-1922
+voice: Marcus Garvey
+role: UNIA başkanı ve Pan-Afrikacı lider
+quote: Mustafa Kemal, tıpkı 1914'te Kayzer'in olduğu gibi günün adamı haline gelmiştir.
+quote_kind: translated
+summary: >-
+  Kemal'i değişmiş bir dünyanın temelini atacak 'günün adamı' olarak nitelendirir ve 'barbar' suçlamasını
+  İngiliz ikiyüzlülüğü diyerek reddeder.
+caveat: >-
+  The Negro World'ün ön sayfası, c. XIII sayı 6, 23 Eylül 1922 ('Marcus Garvey sends message to Negro peoples
+  of the world on war crisis'), 'Some Reflections on the Eastern Situation' bölümü (sayının Dangerous Press
+  OCR metni, OCR'da sayfa numarası görünmüyor; ön sayfa manşet yazısıdır). 'Kemal is going to lay the
+  foundation for a changed world' diye ekler ve İzmir konusunda 'They tell us that Kemal is a barbarian ...
+  because they burned Smyrna and killed so many people in Smyrna' diyerek İngilizlerin Afrika'da yerlileri
+  bombaladığı yanıtını verir. İzmir tartışmalı bir başlıktır: bu arşivin değil, Garvey'nin çerçevelemesidir.
+  Amacı, Zencilerin Britanya'nın Türklere karşı savaşına katılmayacağı uyarısında bulunmaktır (hayranlık kadar
+  araçsal bir tutum). Aynı konuşma: 'Kemal's teacher was one of the men who fought in the German war as a
+  German general'. Kontrol: alıntı, 23 Eylül sayısında basılan 'The Negro Attitude in the Next War' başlıklı
+  Liberty Hall konuşmasındandır (12 Eylül'den sonra, muhtemelen 17 Eylül'de yapılmıştır); 'front page' iddiası
+  dayanaksızdır (OCR sayfa numarası vermemektedir).
+verification_note: >-
+  Alıntı birebir mevcut: 'Mustapha Kemal has become the man to the hour, even as the Kaiser was in 1914.'
+  Ayrıca 'Kemal is going to lay the foundation for a changed world', 'barbarian ... burned Smyrna' pasajı ve
+  'Kemal's teacher...' kısmı yer alıyor. İhtirazi kayda düzeltme: alıntı, 23 Eylül sayısında basılan 'The
+  Negro Attitude in the Next War' başlıklı Liberty Hall konuşmasındadır ('Some Reflections on the Eastern
+  Situation' bölümü, Garvey birinci tekil şahısla konuşuyor, 'my subject for tonight', alkışlar işaretlenmiş);
+  ön sayfadaki 'Message to Negro peoples' yazısında değildir ve OCR sayfa numarası vermemektedir, dolayısıyla
+  'front-page lead' ifadesi dayanaksızdır. Konuşma yayın tarihinden önce yapılmıştır (delegelerin Cenevre'de
+  'on the 12th of this month' konuştuğunu söyler), muhtemelen 17 Eylül Pazar günü; 23 Eylül basım tarihidir.
+  Dönem bundan etkilenmez.
+verification_method: ücretsiz erişim
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0e6a0f657db3
+  role: c985ad403985
+  quote: bba4641c3334
+  summary: 87d52ebf5b01
+  caveat: e847a74d9bd5
+  verification_note: fc0bfc20bb61
+  verification_method: 2d3844762b8f

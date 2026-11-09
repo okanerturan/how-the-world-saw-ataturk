@@ -1,0 +1,28 @@
+# Turkish for data/voices/1961/falih-rifki-atay-cankaya-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: falih-rifki-atay-cankaya-1924
+voice: Falih Rıfkı Atay
+role: Gazeteci, milletvekili, Kemal'in yakın arkadaşı
+quote: Bir askerî isyan da olsa, hiç tereddütsüz karşılıyacağı belli idi.
+quote_kind: original-turkish
+summary: >-
+  Karabekir ve Ali Fuat'ın Kasım 1924'teki istifalarının Çankaya'daki gecesini anımsar: Kemal silahlı bir
+  isyanı bile tereddütsüz karşılayacaktı.
+caveat: >-
+  Kaynak: Atay, Çankaya (Cumhuriyet yay., 1999 yeniden basım; IA taraması 'Falih Rıfkı Atay - Çankaya.pdf'),
+  PDF s. 292 / 386 ('İç Didişme' bölümü); taramada basılı sayfa numarası yoktur. Aynı bölüm Terakkiperver
+  Cumhuriyet Fırkası kurucularını yalnızca kıskanç değil, ciddi kimseler olarak savunur; geriye dönük anlatım
+  (1952/1961).
+verification_note: ""
+verification_method: >-
+  pdftotext; alıntı birebir; bağlam Kasım 1924'te Çankaya'da Karabekir/Ali Fuat istifalarıdır
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fc949027b2dc
+  role: 8e731a40c059
+  quote: 7e1948b8058a
+  summary: 418b18e4646e
+  caveat: 1c0abbb3c479
+  verification_note: da39a3ee5e6b
+  verification_method: 07ed4b27abf1

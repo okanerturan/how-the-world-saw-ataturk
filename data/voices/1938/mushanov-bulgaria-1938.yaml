@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mushanov-bulgaria-1938
+voice: Bulgarian parliament (Speaker Stoycho Moshanov)
+voice_type: institution
+role: Bulgarian parliament
+country: Bulgaria
+country_now: Bulgaria
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Mourned the death of its renovator and great head of state.
+quote:
+  text: the death of its renovator and great head of state
+  language: en
+caveat: >-
+  Corrected 2026-10-29: the sender is the Speaker of the Sobranie, Stoitcho Mochanov (Moshanov), not Nikola
+  Mushanov; the id keeps the old spelling. Quote is our English rendering of the French telegram ('de son
+  renovateur et grand chef d'etat').
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    a local working file telegram Sofia 10/11: "stoitcho mochanov president sobranie bulgare ... la mort de
+    son renovateur et grand chef d etat"
+  method: local
+  note: >-
+    Sender is Stoitcho Mochanov (Moshanov), Speaker of Sobranie, not Mushanov (name/ID in record likely
+    conflates with Nikola Mushanov). Quote is English translation of French.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

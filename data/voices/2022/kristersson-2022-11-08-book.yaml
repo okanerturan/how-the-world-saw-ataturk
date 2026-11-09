@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kristersson-2022-11-08-book
+voice: Ulf Kristersson
+voice_type: person
+role: Prime Minister of Sweden; entry in the Anıtkabir special book
+country: Sweden
+country_now: Sweden
+domain: politics
+date: "2022-11-08"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Honoured to visit the Republic founded by Atatürk nearly a century ago; recalls photographs of Atatürk with
+  the Swedish crown prince in 1934.
+quote:
+  text: >-
+    It is a great honour for me to visit the Republic of Turkiye, which was founded by Ataturk nearly 100
+    years ago
+  language: en
+mediated_by: Middle East Monitor (English) and Odatv (Turkish), 8 Nov 2022
+caveat: >-
+  English as printed by Middle East Monitor (an Anadolu Agency photo); Odatv prints the Turkish rendering
+  ('Yaklaşık 100 yıl önce tarafınızca kurulan Türkiye Cumhuriyeti'ni ziyaret etmek benim için büyük bir
+  onurdur'), where the entry addresses Atatürk directly ('founded by you'). Whether the English is the
+  original or an AA translation back from Turkish is not established. Written during the NATO accession row;
+  the entry goes on to mention photographs of Atatürk with Crown Prince Gustaf Adolf at the 1934 opening of
+  the Swedish Embassy. Check: the wording is an AA/MEM English rendering; Odatv's Turkish has 'tarafınızca
+  kurulan' ('founded by you') and MEM's next sentence is second person, so the entry addresses Atatürk
+  directly.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.middleeastmonitor.com/20221108-turkiye-swedish-pm-visits-ataturk-mausoleum/
+    archived: https://web.archive.org/web/20260521111401/https://www.middleeastmonitor.com/20221108-turkiye-swedish-pm-visits-ataturk-mausoleum/
+  - url: https://www.odatv.com/guncel/isvec-basbakani-kristersson-anitkabiri-ziyaret-etti-257560
+    archived: https://web.archive.org/web/20250123112236/https://www.odatv.com/guncel/isvec-basbakani-kristersson-anitkabiri-ziyaret-etti-257560
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: Middle East Monitor 8 Nov 2022 12:04 (English, AA photo); Odatv 8 Nov 2022 10:59 (Turkish)
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used
+  note: >-
+    English quote is verbatim in MEM and the date is right, but the two outlets disagree: MEM 'founded by
+    Ataturk nearly 100 years ago' vs Odatv 'tarafınızca kurulan' (founded by you). MEM's own next sentence
+    ('Your photos ...') is second person, so the entry addresses Atatürk and the MEM English is a third-person
+    rewrite of the opening clause; the true wording is not established and the record does not flag the
+    English as a translation. Correction: label the quote as an AA/MEM English rendering, or give the Turkish
+    with [translation] and note the address ('founded by you'). Full MEM sentence 2: 'Your photos taken with
+    then Crown Prince Gustav Adolf at the opening of the Swedish Embassy in Ankara in 1934 remind me of how
+    far back our close ties date.' MEM and Odatv both derive from AA coverage, not independent. Instrumental/1
+    fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

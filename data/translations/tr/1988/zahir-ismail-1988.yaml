@@ -1,0 +1,40 @@
+# Turkish for data/voices/1988/zahir-ismail-1988.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zahir-ismail-1988
+voice: Tan Sri Dato Mohd Zahir Hacı İsmail
+role: Malezya Temsilciler Meclisi Başkanı
+quote: >-
+  Ben kendim, gençliğimde, ateşli bir Atatürk hayranı idim. Atatürk bir dahi ve en çok muhtaç olduğu anda Türk
+  Milletine Tanrı’nın bir ihsanıdır.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ün yaptıklarına dair haberlerin sömürge yönetimi altındaki Malaya'ya ulaştığını, evlerde
+  resimlerinin asılı olduğunu ve kendisinin de gençliğinde ateşli bir hayranı olduğunu söyler.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 61 (basılı s. 50). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe basılmıştır. Çeviri: "Ben bizzat gençliğimde ateşli bir Atatürk hayranıydım. Atatürk bir
+  dahi ve en çok ihtiyaç duyduğu anda Türk milletine Tanrı'nın bir armağanıdır." Aynı konuşmada: 'O bizi özgür
+  olmağa cesaretlendirdi' (bizi özgür olmaya cesaretlendirdi); tutanaklarda sömürge yönetiminden kurtuluş yılı
+  1947 olarak basılmıştır; Malaya'nın bağımsızlığı 1957'dir. Başlık: 'Malezya Millet Meclisi Başkanı Tan Sri
+  Dato Mohd Zahir Hacı İsmail', 23 Nisan 1988.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Malezya Millet Meclisi Başkanı
+  Tan Sri Dato Mohd Zahir Hacı İsmail, 62. Birleşim, 23 Nisan 1988' (başlık PDF s. 60'ta)). Aynı sayfada 'biz
+  de mücadele ettik ve 1947'de sömürge olmaktan kurtulduk' denmektedir (Malaya'nın bağımsızlığı 1957'dir):
+  tutanaklarda bir sürçme söz konusudur, dolayısıyla yılı tekrarlamayın.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracıyla PNG'ye dönüştürülerek (check_png/c61.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı, görsel üzerinde ve kendi bağımsız metin katmanı çıkarımıyla
+  kelime kelime karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cce8bfa465da
+  role: fafe48006183
+  quote: 780743cce910
+  summary: cfda671d3b68
+  caveat: 115e6b298640
+  mediated_by: 8e2cc528453b
+  verification_note: d19caa6a6670
+  verification_method: 2fafe79cd342

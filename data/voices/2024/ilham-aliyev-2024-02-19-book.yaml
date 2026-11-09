@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ilham-aliyev-2024-02-19-book
+voice: Ilham Aliyev
+voice_type: person
+role: President of Azerbaijan; entry in the Anıtkabir special book
+country: Azerbaijan
+country_now: Azerbaijan
+domain: politics
+date: "2024-02-19"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  Calls Atatürk the great son of the Turkic world, a gifted commander and a genius leader who inscribed the
+  Republic in world history.
+quote:
+  text: >-
+    Türk dünyasının büyük evladı, yetenekli komutan ve dahi lider Gazi Mustafa Kemal Atatürk'ün aziz
+    hatırasını en içten saygı ve ihtiramla anıyorum.
+  is_translation: true
+  language: tr
+mediated_by: AA and Kıbrıs Gazetesi, 19 Feb 2024 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering (AA) of an entry probably written in Azerbaijani; the original is not located. AA and
+  Kıbrıs Gazetesi print it, one AA wire (the second has a typo, 'edebi' for 'ebedi'). The entry goes on to say
+  that Atatürk 'knew Azerbaijan's joy as his own joy and its grief as his own grief'. Aliyev signed the book
+  on earlier visits (5 Nov 2008, 12 Nov 2013, 15 Jan 2015, 25 Apr 2018 per the Turkish Wikipedia list); those
+  entries were not found.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.aa.com.tr/tr/gundem/azerbaycan-cumhurbaskani-aliyev-anitkabiri-ziyaret-etti/3141615
+    archived: https://web.archive.org/web/20240220182722/https://www.aa.com.tr/tr/gundem/azerbaycan-cumhurbaskani-aliyev-anitkabiri-ziyaret-etti/3141615
+  - url: https://kibrisgazetesi.com/aliyev-anitkabiri-ziyaret-etti/
+    archived: https://web.archive.org/web/20250118125231/https://kibrisgazetesi.com/aliyev-anitkabiri-ziyaret-etti/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: AA 19 Feb 2024 (full text); Kıbrıs Gazetesi 19 Feb 2024
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used
+  note: >-
+    Quote verbatim, first sentence of a long entry; Kıbrıs Gazetesi is the AA text with the 'edebi' typo. One
+    source. Date correct. The full entry ('Ulu Önder', 'altın harflerle ebedi olarak kazımıştır', 'en muhteşem
+    eseri') is much stronger than the quoted sentence; the record summary is fair, admiring/2 conservative but
+    acceptable.
+  checked_on: "2026-11-03"

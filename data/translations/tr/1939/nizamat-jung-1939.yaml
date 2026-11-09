@@ -1,0 +1,40 @@
+# Turkish for data/voices/1939/nizamat-jung-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nizamat-jung-1939
+voice: Nawab Sir Nizamat Jung
+role: Haydarabad (Dekkan) yargıcı, âlim ve şair; Islamic Culture dergisi yazarı
+quote: Amansız, kalpsiz — güçlü olmak için, Fırtınalı bir iradeyle uzun adımlarla ilerledi
+quote_kind: translated
+summary: >-
+  Mersiye: düşmüş bir milleti yücelten bir kanun kaçağı, 'amansız, kalpsiz', Avrupa'ya meydan okuyan bir
+  kahraman; en karanlık eylemleri Tanrı'nın merhametine bırakılmıştır.
+caveat: >-
+  Özgün İngilizce manzume; içindekiler sayfasına göre (madde VIII) Islamic Culture (Haydarabad), c. XIII sayı
+  1, Ocak 1939, s. 98'de yer alan ve '[Died on the 10th of November 1938] May he rest in peace!' başlığını
+  taşıyan beş dörtlük. Kasım 1938 - Ocak 1939 aralığındaki yazılış tarihi başlıktan çıkarılmıştır; dolayısıyla
+  yalnızca yayım tarihine göre 'ölüm sonrası' olarak sınıflandırılmıştır. Son kıta: 'A bearer of the Prophet's
+  name! His darkest deeds God's mercy claim, Who gave him power - to save once more A Moslem nation's honour,
+  fame.' Nizamat Jung (1871-1955) bilgisi hafızadan yerleştirilmiştir (kademe M); ciltte yalnızca adı ve
+  unvanı verilmektedir. Metin açık archive.org OCR kaydından okunmuştur (tanımlayıcı:
+  in.ernet.dli.2015.92011).
+verification_note: >-
+  Alıntı birebir aynıdır ('Relentless, heartless - to be strong, / With stormy will he strode along'); başlık
+  '[Died on the 10th of November 1938] May he rest in peace!', beş dörtlük, 'Nizamat Jung' imzalı; içindekiler
+  listesinde madde VIII s. 98'dedir ve şiir s. 97 metninin alt kısmının ardından gelir, dolayısıyla s. 98
+  doğrudur. Son kıta uyarı notundaki gibidir. DÖNEM: şiirin yazılış tarihi yoktur; sayı Ocak 1939'da
+  derlenmiştir (Aralık 1938 sonundaki olayları bildirir), dolayısıyla cenaze aralığı (10 Kasım-31 Aralık 1938)
+  kanıtlanamaz. Yayım tarihi kuralına göre 1939-01 tarihini / ölüm sonrası dönemini korumak doğrudur ve uyarı
+  notu da bunu zaten belirtmektedir; cenaze dönemi dayanaksız bir tahmin olurdu. 'Yargıç, âlim' rolü ve
+  1871-1955 tarihleri ciltte yer almamaktadır (kaydın belirttiği gibi kademe M). Şema uygun.
+verification_method: >-
+  djvu metninin yeni ücretsiz indirilmesi; içindekiler sayfası, şiir ve sayının diğer tarihli içerikleri okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d861aefb2686
+  role: b1d8472f994b
+  quote: c39ea6ecb74a
+  summary: 6d1176fdcc23
+  caveat: 0429e39b5d55
+  verification_note: 77b19d751fbc
+  verification_method: 6d234af47974

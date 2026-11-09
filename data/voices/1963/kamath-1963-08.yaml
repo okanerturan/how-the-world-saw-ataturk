@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kamath-1963-08
+voice: Hari Vishnu Kamath
+voice_type: person
+role: Lok Sabha member (Praja Socialist), Hoshangabad
+country: India
+country_now: India
+domain: politics
+date: "1963-08-22"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  In the no-confidence debate on corruption, says Kemal prescribed flogging for spitting and ended the habit
+  by making an example of six people.
+quote:
+  text: >-
+    Remember that Kemal Ataturk of Turkey as soon as he came to power, for a small reform like stopping
+    spitting in the streets prescribed flogging
+  language: en
+caveat: >-
+  Lok Sabha Debates, 22 Aug 1963 (no-confidence motion), cols. c. 2174-75 (OCR 2175). Official report
+  digitised by the Lok Sabha Secretariat / Government of India Press, via archive.org OCR. Kamath repeats the
+  story on 17 Apr 1963 and 25 Aug 1966 (flogging bill debates), always as a model of drastic penalty. Column
+  from OCR page header '2175 Motion'. Text read from the OCR of the official report; obvious OCR slips are
+  silently corrected in the quote.
+node: >-
+  Constituent Assembly and Lok Sabha on Atatürk, 1946–1966 — Radhakrishnan, Gour, Kamath, Anthony and
+  Brajeshwar Prasad
+sources:
+  - url: https://archive.org/download/eparlib.nic.in.2906/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Lok Sabha Debates third series vol. XIX (eparlib.nic.in.2906, lsd_03_05_22-08-1963), 22 Aug 1963,
+    no-confidence motion, col. 2174 (header AUGUST 22, 1963 ... 2174) running into col. 2175 ('2175 Motion');
+    speaker 'Shri Hari Vishnu Kamath' (header at start of speech, interjections do not displace him)
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim across hyphenated line breaks ('spit-/ting'). The 'made an example of six people ... habit
+    vanished' sentence is on col. 2175, so the record's 'cols. 2174-75' is right; the quoted clause itself is
+    on 2174. 'Praja Socialist, Hoshangabad' and the 17 Apr 1963 / 25 Aug 1966 repeats in the record are not
+    shown in the checked page and are unverified here. Gaze: states a model for punishing corruption;
+    marginal, intensity 1, instrumental fair.
+  checked_on: "2026-11-03"

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dudley-pound-1938
+voice: Dudley Pound
+voice_type: person
+role: British admiral, delegate
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1938-11-21"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: visit
+evidence: T+P
+summary: Named among the foreign special missions sent to the funeral; no view stated.
+mediated_by: Havas/Reuter wires (Delpher), 17 Nov 1938
+node: Death and State Funeral of Atatürk
+sources:
+  - url: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mustafa_Kemal_Atat%C3%BCrk
+    archived: https://web.archive.org/web/20260926071813/https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mustafa_Kemal_Atat%C3%BCrk
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    a local working file ('admiraal Pound');
+    https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mustafa_Kemal_Atat%C3%BCrk ('United Kingdom:
+    Dudley Pound and William Birdwood')
+  method: local
+  note: Funeral was 21 Nov 1938; wire dated 17-18 Nov.
+  checked_on: "2026-10-29"

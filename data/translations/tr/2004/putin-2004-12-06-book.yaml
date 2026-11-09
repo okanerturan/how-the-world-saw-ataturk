@@ -1,0 +1,38 @@
+# Turkish for data/voices/2004/putin-2004-12-06-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: putin-2004-12-06-book
+voice: Vladimir Putin
+role: Rusya Devlet Başkanı; Anıtkabir özel defterindeki yazısı
+quote: >-
+  Rusya'da Türk halkının büyük oğlu Atatürk'ün hatırasına büyük değer veriliyor. Türk devletinin yeniden
+  doğuşu, O'nun adıyla ilişkilendirilir.
+quote_kind: original-turkish
+summary: >-
+  Bir devlet olarak Türkiye'nin yeniden doğuşunun Atatürk'ün adıyla bağlantılı olduğunu ve her iki ulusun
+  görevinin onun eserini sürdürmek olduğunu söylüyor.
+caveat: >-
+  Mevcut putin-2004-12-06 kaydının (yalnızca Kremlin açımlaması) YÜKSELTMESİ: defter kaydının Türkçe metni.
+  Hürriyet 6 Aralık 2004 metnin tamamını yayımlıyor; RTİB yazısı (rtib.org) aynı Türkçe metni tekrarlıyor. Her
+  ikisi de Rusça bir kaydın Türkçe çevirisidir; Rusça özgün metne ulaşılamadı. Tam metin şöyle devam ediyor:
+  'Ülkelerimiz arasındaki dostluğun gelişiminin başlangıcında da O'nun adı vardır. Bizim görevimiz O'nun
+  hatırasına layık olmak ve O'nun yaptıklarını devam ettirmektir.' Diplomatik vesile; Putin'in 2005 Samsun
+  konuşması sayılmadı (görüş belirtilmiyor).
+mediated_by: Hürriyet 6 Aralık 2004 (kaydın Türkçe çevirisi); RTİB bunu tekrarlar
+verification_note: >-
+  Alıntılanan her iki cümle de birebir aynı; Hürriyet sayfası 6 Aralık 2004 tarih damgalı olup Anıtkabir
+  ziyaretini ve özel defter kaydını bildiriyor. RTİB sayfası aynı Türkçe metni kopyalayan daha sonraki (2023)
+  bir derleme olduğundan bağımsız ikinci bir kaynak değildir. Rusça özgün metin görülmedi; yalnızca Türkçe
+  çevirisi mevcut (zaten işaretlendi).
+verification_method: >-
+  Alıntılanan sayfanın tools/ms ile (ücretsiz) yeni çekimi, 3 Kasım 2026; bağımsız denetleyici
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 36834274f24a
+  role: 53026b96f361
+  quote: "631081655717"
+  summary: a272539b7d69
+  caveat: 6c6c3c2ffcee
+  mediated_by: 1ba93923ef60
+  verification_note: 9e97dc8ce0e7
+  verification_method: 7b5332a2caf8

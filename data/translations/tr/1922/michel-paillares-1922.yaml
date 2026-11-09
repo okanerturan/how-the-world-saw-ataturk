@@ -1,0 +1,27 @@
+# Turkish for data/voices/1922/michel-paillares-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: michel-paillares-1922
+voice: Michel Paillarès
+role: İstanbul'da Fransız gazeteci, Le Bosphore'un yayıncısı
+quote: Mustafa Kemal'in eğilimleri açıkça yabancı düşmanıdır.
+quote_kind: translated
+summary: >-
+  Kemal'in programını yabancı düşmanı ('Türkiye Türklerindir') ve Arap toprakları konusundaki sessizliğini
+  İtilaf Devletleri'ni uyutmak için bir hile olarak nitelendirdi.
+caveat: >-
+  Kitap, tarihli kronik ve basın alıntılarından oluşan bir derlemedir; pasaj yazarın anlatısında yer alır ve
+  yalnızca kitaptaki konumuna göre 1920'ye tarihlenmiştir. Sayfa numarası bozuk üstbilgilerden okunmuştur.
+verification_note: >-
+  Pasaj konumuna göre 1920'ye tarihlenmiştir; kayıt tarihi olan 1922 basım yılıdır (uyarı notunda
+  belirtilmiştir).
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fe2041f34321
+  role: e4668c39a107
+  quote: 36f183902ad2
+  summary: 889be9b29472
+  caveat: 0dbbc0e23f49
+  verification_note: 755afdfe1275
+  verification_method: ad8cee67138e

@@ -1,0 +1,23 @@
+# Turkish for data/voices/1924/het-centrum-1924-03-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: het-centrum-1924-03-10
+voice: Het Centrum
+role: Utrecht Katolik günlük gazetesi
+quote: pek çok Doğuluyu kendileri için çok değerli olan noktadan yaraladı
+quote_kind: translated
+summary: >-
+  Kemal'in 'ne yazık ki' din karşıtı fikirlerle bir tutulan modernizminin, Doğuluları en değer verdikleri
+  şeyde, yani inançlarında yaraladığını söyledi.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Çevreleyen cümlecik ('wat helaas gelijk staat met
+  anti-religieuse begrippen') OCR nedeniyle bozulmuştur ve alıntılanmamıştır.
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e7358114ba70
+  role: 464ddf04b1ce
+  quote: 13f41d03366d
+  summary: ce93348e7a07
+  caveat: 8904bb9aff12
+  verification_method: ad8cee67138e

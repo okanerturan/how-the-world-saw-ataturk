@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/le-temps-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-temps-1938
+voice: Le Temps
+role: Paris yarı resmî günlük gazetesi
+summary: >-
+  2. sayfada Türkiye'yi Balkan Antantı'nın lideri ve doğu paktının öncüsü konumuna yerleştiren geçmişe dönük
+  vefat yazısı.
+caveat: >-
+  Alıntı Gallica OCR metninden kopyalandı; makalenin tamamı olarak değil, arama sonucu parçaları olarak
+  okundu. Yalnızca parça düzeyinde.
+verification_note: >-
+  Gallica açılamadı; 2. sayfadaki geçmişe dönük yazı ile Balkan Antantı / doğu paktı içeriği kontrol edilmedi
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d5ca4c141833
+  role: e6898d5c7551
+  summary: 191d3dca9902
+  caveat: 4bbdcbf3bd09
+  verification_note: 5450297d0e33
+  verification_method: ad8cee67138e

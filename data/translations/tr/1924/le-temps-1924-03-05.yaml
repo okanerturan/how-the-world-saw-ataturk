@@ -1,0 +1,29 @@
+# Turkish for data/voices/1924/le-temps-1924-03-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-temps-1924-03-05
+voice: Le Temps
+role: Paris yarı resmî günlük gazetesi
+quote: bu ilkeler Mustafa Kemal Paşa tarafından anlaşılmakta ve korunmaktadır
+quote_kind: translated
+summary: >-
+  Yeni politikayı laik ve millî olarak nitelendirdi ve Halife'nin protestosuna karşı bu politikanın
+  ilkelerinin Kemal tarafından anlaşılıp korunduğunu belirtti.
+caveat: >-
+  Görünüm 1. Başmakaledeki 'principes' parçalarda tanımlanmamıştır; aynı görünüm ayrıca Hint Müslümanlarının
+  infialini ve 'on va trop loin' dendiğini (kimin söylediği görünmüyor) aktarmaktadır. Tonun onaylayıcı olduğu
+  çıkarımına varılmıştır. Gallica ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası
+  Gallica'ya aittir, basılı sayfa numarası olmayabilir.
+verification_note: >-
+  Birebir aynı; PAG_1'deki 'politique laique et nationale' ve PAG_2'deki Kemal'in konuşmasının ardından
+  halifenin protestosu iddiayı desteklemektedir. ark'tan alınan sayı tarihi bağımsız olarak doğrulanmadı.
+verification_method: "ms fetch ContentSearch (sorgular: principes, laique, protesté)"
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d5ca4c141833
+  role: e6898d5c7551
+  quote: 206f0c8055a9
+  summary: "568846562691"
+  caveat: dcdd34c36304
+  verification_note: c5d80c4b35a0
+  verification_method: 1e3fdac55743

@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: grace-ellison-1923
+voice: Grace Ellison
+voice_type: person
+role: English journalist and author, in Angora winter 1922–23
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1923"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Met and lunched with Mustapha Kemal in Angora as Lausanne opened; called him the greatest man in Turkey,
+  past-master as statesman, soldier and orator.
+quote:
+  text: >-
+    It is not necessary to see M. Kemal Pasha to realise that he is the greatest man in Turkey to-day, quite
+    apart from his actual achievements.
+  language: en
+caveat: >-
+  An Englishwoman in Angora (London: Hutchinson, 1923), ch. XVIII 'The Ghazi Mustapha Kemal Pasha — The
+  Greatest Man in Turkey To-day', p. 159 (OCR 'necessarv' corrected); a separate interview chapter follows (p.
+  174). The vault card's claims that she defied her government and shifted British opinion are not tested
+  here.
+node: Writers, Scientists and Artists in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/englishwomaninan00elli
+  - url: https://archive.org/download/englishwomaninan00elli/englishwomaninan00elli_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org englishwomaninan00elli djvu, ch. XVIII p. 159; ch. XIX p. 174
+  method: djvu text
+  note: >-
+    Verbatim (OCR 'necessarv'). Ch. XVIII starts after p. 158; TOC gives ch. XIX 'An Interview with the Ghazi'
+    at p. 174. Same page: 'my host's regard for me was definitely increased when I had had lunch with Mustapha
+    Kemal' and 'past-master in all three aspects' (statesman, soldier, orator). Fethi Bey invites her to meet
+    the President at the Assembly as 'The Lausanne Conference is beginning'.
+  checked_on: "2026-11-06"

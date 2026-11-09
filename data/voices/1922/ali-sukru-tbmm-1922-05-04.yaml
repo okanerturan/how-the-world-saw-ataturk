@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ali-sukru-tbmm-1922-05-04
+voice: Ali Şükrü Bey
+voice_type: person
+role: Trabzon deputy; First Assembly opposition
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1922-05-04"
+era: contemporary
+polarity: conflicted
+intensity: 3
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Held that Kemal should remain Commander-in-Chief to the end, but argued the emergency justifying the lent
+  legislative powers had passed.
+quote:
+  text: >-
+    Şahıs ile kaim değildir ki bendenizce Reis Paşa Hazretlerinin de Başkumandanlıkta kalması lâzımdır.
+  language: tr
+caveat: >-
+  Cite: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, Gizli celse, 4 Mayıs 1338
+  (1922), p. 375. Killed in Ankara on 27 March 1923; the affair is not argued here.
+node: Ali Şükrü Bey
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/5fe786e1-4f37-41d4-831c-1eaf46ca410d/content
+    archived: https://web.archive.org/web/20250519143323/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/5fe786e1-4f37-41d4-831c-1eaf46ca410d/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Gizli Celse Zabitlari cilt 3 PDF (bitstream 5fe786e1), 39th sitting 4 May 1338, printed p.375
+  method: >-
+    pdftotext; quote verbatim at top of p.375 (373/374 marker precedes); he says command still needed to the
+    end and that the emergency behind the lent powers has passed
+  checked_on: "2026-10-29"

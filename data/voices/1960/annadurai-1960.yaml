@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: annadurai-1960
+voice: C. N. Annadurai
+voice_type: person
+role: Dravidian movement leader, later Chief Minister of Madras State (1967-69)
+country: India
+country_now: India
+domain: politics
+date: "1960"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: article
+evidence: S
+summary: >-
+  Writing on Menderes's fall, calls Mustafa Kemal 'praised by the world' and the creator of a new Turkey of
+  renaissance and freedom.
+quote:
+  text: >-
+    குவலயம் புகழப் பணியாற்றிய முஸ்தபா கமால், சமைத்தளித்த புதிய துருக்கியில் எழுச்சி, மறுமலர்ச்சி, விடுதலை
+    உணர்ச்சி பூத்திடச் செய்திடும் ஆற்றலையும் பெற்றிருந்தவர்தான், மெண்டாரிஸ்.
+  translation: >-
+    Menderes was one who also had the power to make revival, renaissance and the feeling of freedom bloom in
+    the new Turkey that Mustafa Kamal, who had served to the praise of the whole world, had prepared and
+    handed over.
+  language: ta
+caveat: >-
+  Letter 105 ('பெரிய புள்ளிகள்') of 'தம்பிக்கு அண்ணாவின் கடிதங்கள்' vol. 4 (Tamil Arasi Pathippagam, 2003
+  edition, as transcribed on ta.wikisource). The page gives no date: the letter discusses the army's seizure
+  of Menderes (the Turkish coup of 27 May 1960), so it dates from mid-1960 (an inference). Passing praise
+  inside an essay about Menderes; letter 106 (page /003) calls Menderes's rise a 'holy war' under 'Kamal
+  Pasha'. Translation is the vault's own. Scan not viewed.
+node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
+sources:
+  - url: https://ta.wikisource.org/wiki/%E0%AE%A4%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%85%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AE%9F%E0%AE%BF%E0%AE%A4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D_04,_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D_%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AE%AE%E0%AF%8D,_2003/002
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: "ta.wikisource தம்பிக்கு அண்ணாவின் கடிதங்கள் 04 .../002 (render), letter 'கடிதம்: 105'"
+  method: fetched rendered page, string match
+  note: >-
+    Tamil verbatim; translation faithful. The page gives no date; the letter says Nehru visited Ankara 'two
+    weeks ago' and describes the army seizing Menderes (27 May 1960), so mid-1960, month unverified; year 1960
+    fine. Gaze weak but valid: a one-clause evaluative epithet ('praised by the world') in an essay about
+    Menderes; intensity 1 is the ceiling. The essay also puts an imagined Menderes speech invoking 'Kamal's
+    path', not quoted.
+  checked_on: "2026-11-03"

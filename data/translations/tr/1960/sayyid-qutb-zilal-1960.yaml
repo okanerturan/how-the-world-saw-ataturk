@@ -1,0 +1,46 @@
+# Turkish for data/voices/1960/sayyid-qutb-zilal-1960.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sayyid-qutb-zilal-1960
+voice: Sayyid Qutb
+role: Müslüman Kardeşler ideoloğu; Kur'an müfessiri
+quote: >-
+  Bunların en açık örneği, İslami olan her şeye düşmanlığında tavizsiz olan Atatürk ve Türkiye'deki hareketi
+  durumundaydı.
+quote_kind: translated
+summary: >-
+  Atatürk'ün hareketini İslami olan her şeye düşmanlığında tavizsiz ve Müslümanları birleştiren son kurum olan
+  hilafetin ortadan kaldırılması olarak tanımlar.
+caveat: >-
+  Çeviri. 9. Sure (Tevbe) tefsiri, 'Relations with Other Religions' bölümü, tarama s. 118 (s. 120'de Wilfred
+  Cantwell Smith'in Atatürk okuması hakkında ek değerlendirme). Zilal 1952–65 yıllarında yazılmıştır ve sure
+  ciltleri tarihsizdir, bu nedenle '1960' yaklaşık bir orta noktadır. Onu anan iki pasaj daha vardır: 6. Sure
+  (En'am) tefsiri, tarama s. 118, 'Kemal Ataturk, the hero of Turkey' ve s. 289, 'the false hero they
+  created'. Bu pasajlarda Qutb laikleştirme projesini Yahudi, Hristiyan ve Siyonist güçlere atfeder; bu
+  kendisinin atfıdır ve burada onaylanmamaktadır. Milestones (archive.org MILESTONES_201903,
+  milestones-syed-qutb) tarandı ve Atatürk'ün adını anmıyor. Sayfa numaraları taramanın basılı sayfa
+  altbilgilerinden alınmıştır.
+mediated_by: >-
+  Fi Zilal al-Qur'an'ın İngilizce çevirisi (In the Shade of the Qur'an, Islamic Foundation çev.),
+  archive.org'da taranmış haliyle (Volume1Surah12); Arapça aslı okunmadı
+verification_note: >-
+  c. 8'de (9. sure, 'Relations with Other Religions'), s. 118 altbilgisinde birebir aynı: 'The clearest
+  example of these was in the case of Ataturk and his movement in Turkey which was uncompromising in its
+  enmity to everything Islamic. They needed to reveal its reality because of the urgency they felt to bury the
+  Caliphate system which was the last aspect of Muslim unity.' ('case' kelimesinden sonra satır sonu var). s.
+  120: Wilfred Cantwell Smith, Islam in Modern History, pasaj doğrulandı. c. 5 (6. sure): 'Kemal Ataturk, the
+  hero of Turkey' (s. 118 altbilgisi) ve 'the false hero they created' (s. 289 altbilgisi) doğrulandı. '1960'
+  tarihi kaydedildiği şekliyle yaklaşık bir orta noktadır. Düşmanca (hostile) kutupluluk ve what_they_saw
+  yerinde; Qutb'un projeyi dış güçlere atfetmesi kendi görüşüdür. Düzeltme yok.
+verification_method: >-
+  archive.org djvu metinlerinin curl ile çekimi; satırlar ve basılı sayfa altbilgileri tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 954f444eecfa
+  role: 6fa07f90817c
+  quote: 3032ada89b94
+  summary: ef3d8c72160f
+  caveat: 9fc8992e5e50
+  mediated_by: 35cb1b968eee
+  verification_note: d79d1d9e7da7
+  verification_method: a17de0421b1c

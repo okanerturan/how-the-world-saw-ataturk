@@ -1,0 +1,25 @@
+# Turkish for data/voices/1931/de-telegraaf-1931-07-18.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-telegraaf-1931-07-18
+voice: De Telegraaf
+role: Amsterdam günlük gazetesi
+quote: Savaş sonrası diktatörlerden YALNIZCA biri, Mustafa Kemal, başarılı görünüyor
+quote_kind: translated
+summary: >-
+  Kont Sforza'nın, özdenetim gösterdiği ve hilafet iddialarından vazgeçtiği için Kemal'i başarılı görünen tek
+  savaş sonrası diktatör olarak nitelendiren denemesini yayımladı.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Görüş gazetenin yayın çizgisi değil, Sforza'ya
+  aittir; Sforza altında da kayıtlıdır ('Carlo Sforza' düğümü).
+mediated_by: Carlo Sforza (yazar imzası) De Telegraaf 18 Temmuz 1931 üzerinden
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: "608862e94813"
+  role: e803937a1224
+  quote: ac832a32729c
+  summary: 82be5c55548d
+  caveat: 67b8163a60ad
+  mediated_by: 18e3fd6756d3
+  verification_method: ad8cee67138e

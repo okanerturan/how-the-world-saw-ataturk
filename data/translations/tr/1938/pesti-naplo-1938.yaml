@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/pesti-naplo-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pesti-naplo-1938
+voice: Pesti Napló
+role: Macar günlük gazetesi
+quote: >-
+  bütün evren bu büyük mateme katılıyor… Atatürk sayesinde Türkiye'nin dış ve ekonomik konumu şimdi mükemmeldir
+quote_kind: translated
+summary: >-
+  Bütün evrenin bu mateme katıldığını ve Atatürk sayesinde Türkiye'nin dış ve ekonomik konumunun şimdi
+  mükemmel olduğunu söyledi.
+mediated_by: Toksoy 2010
+verification_note: Çevrildi.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c73460274dbe
+  role: cc27e87ef177
+  quote: 6ecba11d485e
+  summary: c105dc4d4d44
+  mediated_by: 8e937858d7c4
+  verification_note: 154a7f79ffc7
+  verification_method: 939bb46a04c3

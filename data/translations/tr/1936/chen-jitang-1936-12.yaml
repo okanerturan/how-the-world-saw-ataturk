@@ -1,0 +1,29 @@
+# Turkish for data/voices/1936/chen-jitang-1936-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: chen-jitang-1936-12
+voice: Chen Jitang (陳濟棠)
+role: Guangdong'un güçlü adamı, Avrupa gezisinde
+quote: >-
+  Ancak Kemal devrimi gerçekleştirdikten sonra her şeyde reform ve ilerleme oldu. Halkın başörtüsü kullanması
+  yasaklanmış, uymayanlar gözaltına alınıyor; hükümet emirlerinin ne kadar sıkı olduğu buradan görülebilir
+quote_kind: translated
+summary: >-
+  Kemal'in devriminden bu yana Türkiye'de, tutuklamayla uygulanan başörtüsü yasaklarıyla birlikte reform ve
+  ilerleme, fakat az sanayi, işsizlik ve dilenciler gördü.
+caveat: >-
+  Anılar çok sonra yazılmıştır (sayfa yılı 1974); ziyaret, anıların kendi sıralamasına göre 12 Aralık 1936
+  Xi'an Olayı sonrasına yerleştirilmiştir.
+verification_note: >-
+  Birebir aynı (kaynak sayfadaki gibi basitleştirilmiş karakterlerle). Türkiye ayağı Xi'an Olayı pasajını
+  izliyor; ayrıca az sanayi, işsizlik ve dilencilerden söz ediyor. Ay çıkarımla belirlenmiştir.
+verification_method: ms fetch üzerinden Wikisource ayrıştırması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e3a9f9672d4e
+  role: 3dfc8e8cb77b
+  quote: aeb7a09c1949
+  summary: 8d20d2dc7872
+  caveat: 6702838850a1
+  verification_note: b5d2c06a9b34
+  verification_method: 1680f6b23b3d

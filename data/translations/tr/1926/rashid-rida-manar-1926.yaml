@@ -1,0 +1,32 @@
+# Turkish for data/voices/1926/rashid-rida-manar-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rashid-rida-manar-1926
+voice: Rashid Rida
+role: Selefi ilahiyatçı; al-Manar editörü
+quote: >-
+  dünya, Mustafa Kemal'in tuttuğu bu yollarla Türkleri yeni bir yaratılış haline getirme girişiminden
+  Türklerin akıbetini öğrenecektir
+quote_kind: translated
+summary: >-
+  Şapka fetvası: başlı başına caiz ama laikleştirici bir araç; dünya, Kemal'in yöntemleriyle yeniden
+  biçimlendirilen Türklerin akıbetini görecektir.
+caveat: >-
+  İmzasız fetva sütunu, editör sıfatıyla Rida'ya atfedilmiştir. Alıntı, notta basılı olan Arapça özgün metnin
+  not yazarı tarafından yapılan İngilizce çevirisidir.
+verification_note: >-
+  s. 498'deki Arapça metin birebir aynı; Fatawa al-Manar sütunu, 'Takmilat fatwa al-libas wa al-zayy', imzasız
+  (Rida'nın sütunu); atıf yapılan yazının yazarı Alman bir yazardır (bir okur değil) ancak alıntı editörün
+  kendi yorumudur; hasmane tutum geçerlidir.
+verification_method: >-
+  curl ile tam IA PDF'si indirildi; pdftoppm ile sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih
+  için künyeler/kapaklar görüntülendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8500544dcf5c
+  role: bb8d03d914df
+  quote: 154b118dcd4f
+  summary: 3325cefcfb6a
+  caveat: ce283d064a60
+  verification_note: cd61e63d164d
+  verification_method: 6190bebdb3a6

@@ -1,0 +1,32 @@
+# Turkish for data/voices/2014/renzi-2014-12-11-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: renzi-2014-12-11-book
+voice: Matteo Renzi
+role: İtalya Başbakanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: Modern Türkiye'nin kurucusu Mustafa Kemal Atatürk'e derin saygılarımı sunuyorum.
+quote_kind: original-turkish
+summary: >-
+  Modern Türkiye'nin kurucusu olarak Atatürk'e derin saygılarını sunar ve Türkiye'nin Avrupa Birliği yoluna
+  destek sözü verir.
+caveat: >-
+  İngilizce (İtalyanca) yazılmış bir metnin Türkçe çevirisi. Haberler (AA) ve Haber7 aynı metni yayımlar; tek
+  bir AA haberidir. Devamındaki cümleler İtalya-Türkiye ilişkileri ve AB üyelik süreciyle ilgilidir.
+mediated_by: Haberler (AA) ve Haber7, 11 Aralık 2014 (kaydın Türkçe çevirisi)
+verification_note: >-
+  Alıntı, birebir ilk cümledir; ilişkiler ve AB yolu hakkındaki sonraki cümleler şerhle uyumludur. Haberler
+  kaynak olarak AA'yı gösterir, Haber7 de aynı metindir: tek kaynak. Tarih doğrudur. Araçsal/1 yerindedir
+  (nezaket cümlesi artı AB taahhüdü).
+verification_method: >-
+  Atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a7b4d278033f
+  role: b899b8866f6a
+  quote: c53e14637203
+  summary: 710a71db7fa0
+  caveat: 72f244583046
+  mediated_by: 553604f6886e
+  verification_note: b2b4152f6187
+  verification_method: 8505ab605bfa

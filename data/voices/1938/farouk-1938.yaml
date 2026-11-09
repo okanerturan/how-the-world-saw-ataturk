@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: farouk-1938
+voice: King Farouk
+voice_type: person
+role: King of Egypt
+country: Egypt
+country_now: Egypt
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Called him an illustrious patriot and regenerator of the new Turkey.
+quote:
+  text: illustrious patriot, regenerator of the new Turkey
+  language: en
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    a local working file (TBMM condolence OCR) (French: 'l'illustre patriote régénérateur de la Turquie
+    nouvelle', Alexandria 11/11/38)
+  method: local
+  note: >-
+    Quote is an English translation of French original; vault note states telegrams are translated.
+  checked_on: "2026-10-29"

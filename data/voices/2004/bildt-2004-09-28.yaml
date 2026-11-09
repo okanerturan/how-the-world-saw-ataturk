@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bildt-2004-09-28
+voice: Carl Bildt
+voice_type: person
+role: Former Prime Minister of Sweden (later Foreign Minister)
+country: Sweden
+country_now: Sweden
+domain: politics
+date: "2004-09-28"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P+J
+summary: >-
+  Calls Kemal Atatürk undoubtedly the most significant European revolutionary of the last century, who swept
+  the old order away, sometimes by rather authoritarian methods.
+quote:
+  text: >-
+    Kemal Ataturk is undoubtedly the most significant European revolutionary of the last century.
+  language: en
+caveat: >-
+  Speech 'The Turks – and a New Europe – are coming!', SEB conference, Istanbul, 28 Sep 2004, text on Bildt's
+  own site (bildt.net cb000089.pdf), read in full. Next lines: 'The old order was swept away – sometimes with
+  rather authoritarian methods.' He casts Atatürk, Özal and Erdoğan as three phases of reform in an argument
+  for Turkey's EU accession. Quoted by the International Herald Tribune (11 Dec 2006) when he became foreign
+  minister.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: http://www.bildt.net/dbdocuments/cb000089.pdf
+    archived: https://web.archive.org/web/20240531065417/http://www.bildt.net/dbdocuments/cb000089.pdf
+  - url: https://www.nytimes.com/2006/12/11/world/europe/11iht-sweden.3860723.html
+    archived: https://web.archive.org/web/20231005152350/https://www.nytimes.com/2006/12/11/world/europe/11iht-sweden.3860723.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    http://www.bildt.net/dbdocuments/cb000089.pdf ('The Turks – and a New Europe – are coming!', SEB
+    Conference, Istanbul, September 28, 2004; pdftotext)
+  method: curl + pdftotext
+  note: >-
+    Quote and the next sentence ('sometimes with rather authoritarian methods') verbatim; the
+    Atatürk–Özal–Erdoğan three-phase passage is present. P honest; the IHT 2006 corroboration was not
+    re-opened.
+  checked_on: "2026-11-05"

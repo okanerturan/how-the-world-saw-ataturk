@@ -1,0 +1,32 @@
+# Turkish for data/voices/1921/mustafa-durak-tbmm-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mustafa-durak-tbmm-1921
+voice: Mustafa Durak (Erzurum)
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Erzurum milletvekili
+quote: >-
+  Bunu Paşa Hazretleri deruhte ettikleri vakit zaten erkânı askeriyemiz içinde kendileri en yüksek
+  kumandanlarımızdan olduğu için milletin ve askerin itimadı artacaktır.
+quote_kind: original-turkish
+summary: >-
+  Kemal'i komutan olarak kabul etti ve ordunun ve milletin ona olan güveninin artacağını bekledi, ancak
+  Meclis'in yürütme yetkilerini koruyan değişiklik önergeleri için ısrar etti.
+caveat: >-
+  Kaynak: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 2, 62. birleşim, 1. celse,
+  5 Ağustos 1337 (1921), s. 203. Ayrıca 'Millet Başkumandanı' unvanını önerdi (edisyonda editör işaretli
+  ekleme).
+verification_note: >-
+  Alıntı Durak tarafından söylenmiştir (paragraf MUSTAFA DURAK BEY (Erzurum) ile başlar); 'icraî' değişiklik
+  önergesi de mevcuttur.
+verification_method: >-
+  pdftotext grep; birebir aynı; konuşmacı başlığı MUSTAFA DURAK BEY (Erzurum); Millet Başkumandanı önerisi
+  mevcut
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 79f0c943d0b6
+  role: aafe3f6d49de
+  quote: ea7a1f24b14e
+  summary: 5d7ad92cc366
+  caveat: 8051b40ed544
+  verification_note: a420f66a2325
+  verification_method: 8985e793f61d

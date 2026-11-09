@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: corbyn-1988-03
+voice: Jeremy Corbyn
+voice_type: person
+role: Labour MP (later Leader of the Opposition)
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1988-03-25"
+era: posthumous
+polarity: witness
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Says the Sèvres promise of Kurdish recognition was never carried out because 'the rise of Kemal Ataturk'
+  ensured it never came to fruition.
+quote:
+  text: >-
+    It was not until 1920 and the treaty of Sevres that the Kurdish nation was recognised, but the treaty was
+    never fully carried out or established because of the rise of Kemal Ataturk in Turkey, who ensured that it
+    was never brought to fruition.
+  language: en
+caveat: >-
+  Adjournment (Easter and Monday 2nd May), HC Deb 25 Mar 1988, c653. Transcription at TheyWorkForYou of the
+  official Hansard. Sensitive thread (Kurds): Corbyn's framing, in an adjournment speech on the Halabja-era
+  Kurdish plight; the vault does not adopt it. Hostility is mild and implicit (Kemal as the obstacle to
+  Kurdish independence). He repeats it on 6 Jun 1991 (Kurdish People debate, c487: 'Mustafa Kemal led the
+  development of the modern state of Turkey, and the British Government decided to back modern Turkey rather
+  than the aspirations of the Kurdish people'), recorded here once. Check: the quote falls at c655
+  (historic-hansard); TWFY gives the column where the speech starts. Check: a factual claim with no evaluative
+  word; polarity hostile → witness.
+node: Westminster on Atatürk, 1988–2004 — Corbyn, MacShane and Patten
+sources:
+  - url: https://www.theyworkforyou.com/debates/?id=1988-03-25a.632.0#g653.0
+    archived: https://web.archive.org/web/20210625102759/https://www.theyworkforyou.com/debates/?id=1988-03-25a.632.0
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    TheyWorkForYou debate page (fresh curl), speaker block at the anchor; column cross-checked on
+    api.parliament.uk/historic-hansard where available
+  method: >-
+    fetched page, normalised-text match of the quote inside the anchored speech block (speaker, date, id);
+    column located from historic-hansard column markers
+  note: >-
+    Verbatim, spoken by Jeremy Corbyn (g653.0, HC Deb 25 Mar 1988). Column correction: sentence at c655
+    (speech starts c653). He attributes the failure of Sevres to 'the rise of Kemal Ataturk ... who ensured it
+    was never brought to fruition': a historical claim about Kemal's role, with no evaluative word. Hostile 1
+    is inferred. Fix: polarity witness, intensity 1, neutral wording 'Names the rise of Kemal Ataturk as the
+    reason the Sevres provision for Kurdish recognition was never carried out'.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

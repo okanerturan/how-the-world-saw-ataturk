@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: morgen-zhurnal-1934
+voice: Der Morgen Zhurnal (Jewish Morning Journal)
+voice_type: press
+role: Yiddish-language daily, New York
+country: United States
+country_now: United States
+domain: press
+date: "1934-07-25"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Editorial on 1934 Thracian pogroms: Turkey made Jews second-class citizens; Jewish bodies must investigate
+  'sufferings of our brothers' under Kemal Pasha's dictatorship.
+quote:
+  text: ליידען פון אונזערע ברידער אונטער דער טערקישער דיקטאטור
+  language: yi
+caveat: >-
+  Yiddish OCR is poor ('דו' for 'די'); the quote is exactly as OCR renders it. Page layout suggests the
+  editorial page but no byline appears.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn83045838/1934-07-25/ed-1/?sp=7
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn83045838 1934-07-25 sp=7 page OCR
+  method: loc.gov JSON + tile OCR; quote matches after joining line-break hyphen (אונ/זערע)
+  note: >-
+    Passage: Turkey made Jews second-class citizens, urges American Jewish Congress/Committee to investigate;
+    Kemal Pasha's regime named.
+  checked_on: "2026-10-30"

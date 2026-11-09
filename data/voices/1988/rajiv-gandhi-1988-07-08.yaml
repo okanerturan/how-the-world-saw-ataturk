@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rajiv-gandhi-1988-07-08
+voice: Rajiv Gandhi
+voice_type: person
+role: Prime Minister of India
+country: India
+country_now: India
+domain: politics
+date: "1988-07-08"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: quote
+evidence: P
+summary: >-
+  Asked his view, says India greatly admires Atatürk as a great nationalist who laid modern Turkey's
+  foundations, esteemed for democracy, secularism and modernisation.
+quote:
+  text: >-
+    We have great admiration for Kemal Ataturk. Ataturk was a great nationalist who laid the foundations of
+    modern Turkey.
+  language: en
+caveat: >-
+  Joint interview with İlnur Çevik (Turkish Daily News) and Hasan Cemal (Cumhuriyet), New Delhi, 8 July 1988,
+  before his Turkey visit; printed in Rajiv Gandhi: Selected Speeches and Writings, vol. 4 (1988), pp. 490–491
+  (Publications Division; archive.org open text). The question cites Nehru's admiration for Atatürk.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/selectedspeeches04gand
+  - url: https://archive.org/download/selectedspeeches04gand/selectedspeeches04gand_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Rajiv Gandhi: Selected Speeches and Writings vol. 4, archive.org selectedspeeches04gand djvu.txt, pp.
+    490–491 (interview begins p. 487)
+  method: archive.org open OCR text read
+  note: >-
+    Answer verbatim at the p. 490/491 break, replying to a question citing Nehru. The same interview (p. 487)
+    also says 'Mahatma Gandhi and Jawaharlal Nehru had great admiration for Kemal Ataturk'. P honest (official
+    Publications Division collection).
+  checked_on: "2026-11-05"

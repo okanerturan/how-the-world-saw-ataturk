@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: wairarapa-times-age-1938
+voice: Wairarapa Times-Age
+voice_type: press
+role: New Zealand regional daily
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1938-11-12"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: report
+evidence: P
+summary: >-
+  Carried the Press Association wire: Parliamentarians backing Inonu as successor, burial in a magnificent
+  mausoleum, crepe-draped photographs in shop windows.
+mediated_by: Press Association wire of 11 Nov 1938
+node: New Zealand Press, November 1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/WAITA19381112.2.50
+    archived: https://web.archive.org/web/20261029002717/https://paperspast.natlib.govt.nz/newspapers/WAITA19381112.2.50
+verification:
+  verdict: confirmed
+  checked_against: https://paperspast.natlib.govt.nz/newspapers/WAITA19381112.2.50
+  method: fetch
+  checked_on: "2026-10-29"

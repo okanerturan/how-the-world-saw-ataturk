@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: elizabeth-ii-2008-05-13
+voice: Elizabeth II
+voice_type: person
+role: Queen of the United Kingdom; entry in the Anıtkabir special book
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "2008-05-13"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Honours Atatürk as a much valued friend of the United Kingdom and one of the great figures of modern history.
+quote:
+  text: a much valued friend of the United Kingdom and one of the great figures of modern history
+  language: en
+mediated_by: Hürriyet and AA/Haberler (Turkish translation of the entry)
+caveat: >-
+  Handwritten in English; Hürriyet ('Dünyanın gözü bu yemekteydi') and AA via Haberler print the same Turkish
+  rendering with slightly different case endings ('Atatürk'ün' / 'Atatürk'e'). English original not located. A
+  constitutional monarch's text, in practice drafted with the Foreign Office. Her first state visit in 37
+  years (the 1971 visit also included a wreath and the book). English wording from Trend, Turkish Press Review
+  and Dünya (Hürriyet Daily News prints 'much beloved'). AA and Hürriyet share one Turkish rendering, whose
+  'en büyük' overstates 'great'.
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.haberler.com/guncel/ingiltere-kralicesi-elizabeth-anitkabir-de-2-haberi/
+  - url: https://www.hurriyet.com.tr/gundem/dunyanin-gozu-bu-yemekteydi-8935699
+    archived: https://web.archive.org/web/20210330143842/http://www.hurriyet.com.tr/gundem/dunyanin-gozu-bu-yemekteydi-8935699
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Haberler/AA 13 May 2008; Hürriyet 15 May 2008; English: trend.az/1198484, turkishpress.com/231445, hri.org
+    Turkish Press Review 08-05-14
+  method: >-
+    tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker; 1 paid search for the
+    English
+  note: >-
+    Turkish verbatim in AA and Hürriyet (same rendering, AA and Hürriyet are not independent). Date 13 May
+    confirmed (AA stamp 13 May 18:08). English found in several outlets: 'It is an honor to pay my respects to
+    Mustafa Kemal Ataturk, a much valued friend of the United Kingdom and one of the great figures of modern
+    history' (Hürriyet Daily News prints 'much beloved'). The Turkish 'en büyük şahsiyetlerinden' (one of the
+    greatest) overstates 'one of the great figures'. Correction: what_they_saw should say 'one of the great
+    figures of modern history', not 'greatest'; quote should be the English wording.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 15)
+  checked_on: "2026-11-03"

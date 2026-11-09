@@ -1,0 +1,38 @@
+# Turkish for data/voices/1938/zafar-ali-khan-1938-11-poem.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zafar-ali-khan-1938-11-poem
+voice: Zafar Ali Khan
+role: Urdu şairi ve Zamindar'ın editörü
+quote: >-
+  Dünyadan o en büyük mücahit göçüp gitti ... Ey gönül sahipleri, bu keder Mustafa Kemal'in kederidir
+quote_kind: translated
+summary: >-
+  Topluluğun sıkıntılarını hafifleten, haçlılara karşı Türklerin onurunu yeniden kazandıran ve Kabil'den
+  Ankara'ya dek ayakta duran 'en büyük mücahid'in yasını tutan bir mersiye.
+caveat: >-
+  Alıntı iki mısradan oluşmaktadır, çevirisi: 'O en büyük mücahit dünyadan göçüp gitti ... Ey gönül sahipleri,
+  bu keder Mustafa Kemal'in kederidir.' 'Ataturk Mustafa Kemal, nawwara llahu marqadahu' başlıklı şiir, Delhi,
+  12 Kasım 1938 tarihli. Kaynak: Diwan-e Zafar Ali Khan, haz. Tanvir Ahmad (Ali Hujwiri Publishers, Lahore,
+  1995 bas.), s. 210 (archive.org taramasının 210. PDF sayfası; OCR kullanılamaz durumda, sayfa görüntü
+  üzerinden okundu), görüntü üzerinden okundu (4 Kasım 2026). 14 Kasım tarihli Meclis konuşmasından ayrıdır.
+  Eşlik eden bir diğer şiir 'Congressi ulama' (s. 211, Delhi 13 Kasım 1938) Tanrı'dan bir başka Mustafa Kemal
+  göndermesini dileyerek biter; ayrı olarak kaydedilmemiştir. Kontrol: mısralar sayfadaki sırayı izleyecek
+  şekilde yeniden sıralanmalı (keder mısrası 'mujāhid-i aʿẓam' mısrasından önce gelir).
+verification_note: >-
+  Başlık, 'Delhi 12 Kasım 1938' ve her iki mısra birebir aynı; çeviri sadık. Düzeltmeler: (1) alıntı şiirin
+  sırasını tersine çeviriyor: 'sahib-e-dil o ye gham hai gham-e Mustafa Kamal' 3. satır, 'dunya se woh
+  mujahid-e-azam guzar gaya' 4. satır, dolayısıyla üç nokta ardışık olmayan mısraları ters sırayla
+  birleştiriyor; yeniden sıralayın ya da iki ayrı mısra olarak işaretleyin. (2) what_they_saw 26 kelime (sınır
+  25). 'İslam için Kabil'den Ankara'ya', İslam'ın güzelliğinin göze geri dönmesi hakkındaki Kabil'den
+  Angora'ya dizesinin serbest bir okumasıdır.
+verification_method: PDF sayfası işlendi ve görüntü üzerinden Urduca OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7d9ce798586c
+  role: 905963d10e79
+  quote: e9b893a780e5
+  summary: 82dd777a9b6d
+  caveat: 22532f7e3570
+  verification_note: c678c52d5646
+  verification_method: 6fea72a6f09d

@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: vahideddin-1924-03-11
+voice: Mehmed VI Vahideddin
+voice_type: person
+role: Last Ottoman Sultan, in exile at San Remo; letter to the head of the Egyptian ulema
+country: Italy
+country_now: Italy
+domain: religion
+date: "1924-03-11"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: quote
+evidence: S
+summary: >-
+  After the abolition of the caliphate, says Kemal and his comrades won against the Greeks by Muslim love,
+  then turned on the sharia.
+quote:
+  text: >-
+    Mustafa Kemal ve hempaları Müslümanlar'ın sevgisi, Osmanlılar'ın şehameti ve Allah'ın inayetiyle
+    Yunanlılara galip geldi
+  language: tr
+mediated_by: Vahideddin letter of 11 Mar 1924 ← Bardakçı 2006
+caveat: >-
+  Turkish rendering by Bardakçı of a letter (presumably Arabic) to Sheikh Muhammad Farraj al-Minyawi, head of
+  the Egyptian Ulema Union. The sentence goes on (marked '(...ama)'): 'but they at once turned against the
+  sharia that was its source'. The following lines, partly garbled in the OCR, list the veil lifted, women in
+  bars and cafés, Muslim-Christian marriage allowed, polygamy abolished, hajj made 'a pretext', and that Kemal
+  'humiliated the caliphate and the House of Osman'. Vahideddin's own list of grievances; the vault does not
+  endorse it. Cited p. 377 (OCR folio).
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://archive.org/details/sahbaba-murat-bardakci
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org Şahbaba djvu text, p.376-377
+  method: archive.org djvu download
+  note: >-
+    Verbatim on p.377: 'Mustafa Kemal ve hempaları Müslümanlar'ın sevgisi, Osmanlılar'ın şehameti ve Allah'ın
+    inayetiyle Yunanlılara galip geldi (...ama) bunun kaynağı olan şeriata hemen karşı çıktılar.' Introduced
+    as a letter sent from San Remo on 11 Mart 1924 to Şeyh Muhammed Farrac el-Minyevi, head of the Egyptian
+    Ulema Union; the list (veil lifted, women in bars and cafés, mixed marriage, polygamy) follows. Bardakçı
+    does not state the original language or give the original; the Turkish is his. Evidence S, not P: right.
+    Hostile/2 fair.
+  checked_on: "2026-11-03"

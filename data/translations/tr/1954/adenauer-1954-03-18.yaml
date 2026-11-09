@@ -1,0 +1,39 @@
+# Turkish for data/voices/1954/adenauer-1954-03-18.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: adenauer-1954-03-18
+voice: Konrad Adenauer
+role: >-
+  Batı Almanya Şansölyesi; resmî ziyareti sırasında Başbakan Menderes'in akşam yemeği konuşmasına cevabı,
+  Ankara Palas
+quote: >-
+  Müsaade buyurursanız, ben de Alman milletinin asil Türk milleti ve onun dahi önderi unutulmaz Atatürk'ün
+  nice sonsuz zorluklar ve siyasi ümitsizlikler içinde bulunan bir devletten ne gibi harikalar yaratmağa
+  muktedir olduğunu görmekle duyduğu derin hayranlığı ifade etmek isterim.
+quote_kind: original-turkish
+summary: >-
+  Asil Türk milletiyle birlikte, sonsuz zorluklar ve siyasi ümitsizlikler içine gömülmüş bir devletten
+  harikalar yaratan 'dahi önder, unutulmaz Atatürk'; Alman milletinin derin hayranlığı.
+caveat: >-
+  Varış günündeki akşam yemeğinde Menderes'e verdiği cevabın açılışı; devamında Yakın Doğu'da bir istikrar
+  unsuru olarak Türkiye'ye ve Batı ittifakındaki yerine geçer. O gün daha erken saatlerde Anıtkabir'e çelenk
+  koydu ve saygı duruşunda bulundu (Milliyet s. 1, muhabirin anlatımı). Almanca özgün metin (Bulletin des
+  Presse- und Informationsamtes der Bundesregierung, Mart 1954) görülmedi. Sayfa görüntüsünden okundu (Okan'ın
+  Milliyet arşivi girişi).
+mediated_by: >-
+  Milliyet, 19 Mart 1954, s. 7 ('Almanya Başvekili dün Ankaraya geldi', 'Adenauer şerefine verilen ziyafet'
+  bölümü): Almanca yapılan bir konuşmanın gazetedeki Türkçe aktarımı
+verification_note: >-
+  Alıntı büyütülmüş görüntüden yazıya geçirildi; cümle sütun geçişine taşıyor ('is-/terim'). Akşam yemeği
+  Ankara 18 Mart mahreç satırıyla tarihlendirildi. Ana ajan tarafından okundu; ayrı bir kontrol ajanı yok.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f72bb7ebe24a
+  role: 295667cf3790
+  quote: 50a6f0cd7351
+  summary: c0db88a86daa
+  caveat: d8d492d1f57b
+  mediated_by: a670e25f871d
+  verification_note: e2bfa8f325eb
+  verification_method: 1c3478366c90

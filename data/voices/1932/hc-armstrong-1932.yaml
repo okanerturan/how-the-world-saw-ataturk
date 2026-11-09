@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hc-armstrong-1932
+voice: H.C. Armstrong
+voice_type: person
+role: British officer and author
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1932"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P+S
+summary: >-
+  Wrote Grey Wolf, an unauthorised 'intimate study of a dictator' dwelling on drinking, gambling and women
+  (per publisher blurbs; text unread).
+caveat: >-
+  Book read in full (Oct 2026): racial register (p. 254) alongside 'benevolent, educating, guiding
+  dictatorship' (chs. LXXIV–LXXV).
+node: H.C. Armstrong
+sources:
+  - url: https://archive.org/details/dli.ernet.524437
+  - url: https://archive.org/details/GreyWolf-MustafaKemal--AnIntimateStudyOfADictatorByH.c.Armstrong
+  - url: https://www.routledge.com/Grey-Wolf---Mustafa-Kemal-An-Intimate-Study-of-a-Dictator/Armstrong/p/book/9781138999565
+    archived: https://web.archive.org/web/20221129183354/https://www.routledge.com/Grey-Wolf---Mustafa-Kemal-An-Intimate-Study-of-a-Dictator/Armstrong/p/book/9781138999565
+verification:
+  verdict: partial
+  checked_against: >-
+    https://www.routledge.com/Grey-Wolf---Mustafa-Kemal-An-Intimate-Study-of-a-Dictator/Armstrong/p/book/9781138999565
+    ; archive.org item blurb (full text login-walled)
+  method: fetch
+  note: >-
+    Blurb supports 'intimate study', 'love of women, drinking and gambling', 'vicious dictator and iron-willed
+    creator'. Polarity 'hostile' and 'gives the career its due' not checkable from book text (archive.org
+    login-walled); archive blurb credits him with making a nation, so 'hostile' looks over-strong.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

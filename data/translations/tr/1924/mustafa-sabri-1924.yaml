@@ -1,0 +1,54 @@
+# Turkish for data/voices/1924/mustafa-sabri-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mustafa-sabri-1924
+voice: Mustafa Sabri Efendi
+role: Son Osmanlı Şeyhülislamı, Beyrut ve Kahire'de sürgünde
+quote: >-
+  Çünkü Mustafa Kemal hilafet-saltanat ayrılığını Türk idaresini ıslah etmek için ortaya atmış değildir.
+quote_kind: original-turkish
+summary: >-
+  Kemal'in hilafeti saltanattan Türk yönetimini ıslah etmek için değil, iktidarı kendi eline almak için
+  ayırdığını ileri sürer.
+caveat: >-
+  Cildin çevirmeninin yaptığı Türkçe çeviriden alıntılanmıştır (Arapça özgün metin okunmamıştır); OCR'da
+  'aynlığmı' olarak geçen kelime 'ayrılığını' şeklinde okunmuştur. Bir sonraki paragraf Kemalistlerin 'only
+  two aims' olduğunu söyler: birincisi, saltanatı Osmanlı hanedanından zorla alıp Mustafa Kemal'e devretmek ve
+  hilafeti ondan ayırmak; Meclis'e devir ise 'nothing other than hiding the real intent' idi. Kara kitabı
+  1923'e tarihlendirir; ilk olarak 1 Receb 1342 / 7 Şubat 1924'te tamamlanmış, hilafetin kaldırılmasının
+  ardından 20 Mart 1924 tarihli 15 sayfalık bir ek konulmuştur. Sabri'nin kendi yargısıdır; arşiv bunu
+  onaylamaz. Editörün sayfa numaralandırmasına göre cildin s. 405'inde listelenen risale 59 ('Hilafetin
+  Saltanattan Tefriki') olarak atıf yapılmıştır; basılı yaprak numarası OCR'da okunamamaktadır (archive.org
+  taraması, PDF s. 403-405). Kontrol: risale 59 PDF s. 395'te başlar; alıntı PDF s. 405'tedir. Sabri, daha
+  önce al-Mukattam ve al-Ahram'da yazdıklarını tekrarladığını söyler.
+mediated_by: İsmail Kara (ed.), Hilafet Risaleleri 6 (2014) içinde Özgür Kavak'ın Türkçe çevirisi
+verification_note: >-
+  Alıntı birebir mevcut (djvu satır 17995; PDF s. 405, PDF s. 404'te başlayan bölümde): 'Cunku Mustafa Kemal
+  hilafet-saltanat ayriligini Turk idaresini islah etmek icin ortaya atmis degildir.' Bir sonraki paragraftaki
+  'two aims' (Kemal'in saltanatı zorla alması; gerçek niyeti gizlemek) ihtirazi kayıtla örtüşüyor. Tarih: Kara
+  dipnot 39 Beyrut, Matbaatu'l-Abbasiye, 1342 h. (1924) bilgisini verir; Arapça kapakta 1342 yazar (Türkçe iç
+  kapakta H. 1343 basılıdır); büyük kısmı 1923'te yazılmış, ilk olarak 7 Şubat 1924'te tamamlanmış, 15
+  sayfalık ek 20 Mart 1924 tarihlidir - 1924 ve 'contemporary' uygundur. DÜZELTMELER: (1) çevirmen Kara değil
+  Dr. Özgür Kavak'tır (Kara dizi editörüdür): mediated_by alanı 'Turkish translation by Ozgur Kavak in Kara
+  (ed.), Hilafet Risaleleri 6, 2014' olmalıdır; ihtirazi kayıttaki 'translator of the volume' ifadesi ancak bu
+  isimle doğru kalır. (2) Konum: risale 59 PDF s. 395'te başlar (iç kapak; cildin içindekiler tablosu bunu s.
+  405'te gösterir ki bu alıntının değil, başlangıç sayfasının numarasıdır); alıntı PDF s. 405'tedir, basılı
+  yaprak numarası okunamamaktadır (içindekiler tablosundaki 10 sayfalık fark geçerliyse yaklaşık 415 olduğu
+  çıkarılabilir), 'PDF pp. 403-405' değildir. (3) Pasaj, Sabri'nin daha önce al-Mukattam ve al-Ahram'da
+  yazdıklarını tekrarladığını belirterek sunduğu bir blokta yer alır (yine de kendi sözleridir). (4) Yoğunluk
+  3 ('life- or state-shaping'), bir kitaptaki tek bir polemik paragrafıyla desteklenmemektedir; 2 değeri
+  1927/1928 kayıtlarıyla tutarlıdır. Şema, enum değerleri ve 18 kelimelik what_they_saw uygun.
+verification_method: >-
+  archive.org djvu metninin ve PDF dosyasının yeni ücretsiz indirmesi; cümle metin katmanında bulundu, sayfa
+  görüntüsü oluşturuldu, Kara'nın girişi (dipnot 39 ve tarihlendirme paragrafı) okundu; arşivlenmiş kaynak
+  dosyalar kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c2b2bf1324d9
+  role: 75b688a6bf42
+  quote: eea9157ec2f8
+  summary: d5c7a58c031d
+  caveat: cf33369254d1
+  mediated_by: b8c32282426b
+  verification_note: d172919125a0
+  verification_method: dadf21ba93c0

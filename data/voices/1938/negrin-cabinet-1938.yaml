@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: negrin-cabinet-1938
+voice: Negrín cabinet
+voice_type: institution
+role: Spanish Republican government
+country: Spain
+country_now: Spain
+domain: diplomacy
+date: "1938-11-18"
+era: funeral
+polarity: witness
+intensity: 2
+artifact: visit
+evidence: S
+summary: >-
+  Decided to send a mission under Communications Minister Giner de los Ríos to the funeral, mid-civil-war;
+  treated it as head-of-state funeral.
+mediated_by: >-
+  Tüylü Turan 2019 ← Diario de Burgos, El Diario Palentino, CNT, Solidaridad Obrera, La Vanguardia, Diario de
+  la Marina
+caveat: No stated view; the head-of-state reading is the note's.
+node: Two Spains Mourn, November 1938
+sources:
+  - url: https://doi.org/10.14225/JOH1567
+  - url: https://academia.edu/41493219/%C4%B0SPANYOLLARIN_G%C3%96Z%C3%9CNDEN_ATAT%C3%9CRK%C3%9CN_VEFATI_VE_CENAZE_MERAS%C4%B0M%C4%B0
+    archived: https://web.archive.org/web/20261029002228/https://www.academia.edu/41493219/%C4%B0SPANYOLLARIN_G%C3%96Z%C3%9CNDEN_ATAT%C3%9CRK%C3%9CN_VEFATI_VE_CENAZE_MERAS%C4%B0M%C4%B0
+verification:
+  verdict: confirmed
+  checked_against: >-
+    Tüylü 2019 (academia.edu copy): cabinet met 18 Nov under Dr Negrin, decided to send commission to funeral;
+    Giner de los Ríos, Riquelme etc. attended
+  method: fetch
+  checked_on: "2026-10-29"

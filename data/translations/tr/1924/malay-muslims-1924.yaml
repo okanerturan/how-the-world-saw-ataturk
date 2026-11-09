@@ -1,0 +1,25 @@
+# Turkish for data/voices/1924/malay-muslims-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: malay-muslims-1924
+voice: Malay Müslümanlar
+role: Malay sarayları ve Britanyalıların idaresindeki Malaya Müslümanları
+quote: pek az ilgi gösterdi
+quote_kind: translated
+summary: >-
+  Arap ve Hint Müslümanlarının aksine hilafetin düşüşüne pek az ilgi gösterdi; Atatürk döneminde Türkiye'ye
+  duyulan ilgi sürdü.
+caveat: Tez yazarı/başlık sayfası çıkarılmadı; yalnızca özet.
+mediated_by: IIUM tezi (özeti arama üzerinden okundu)
+verification_note: Yalnızca özet; 'showed little interest' ifadesi özette yer alıyor; tez metni okunmadı.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b39016280c68
+  role: 2935baec9ef1
+  quote: 069f46c04798
+  summary: c72219ce1459
+  caveat: fae259f5c940
+  mediated_by: cbf35cb97853
+  verification_note: 1c529faeecc6
+  verification_method: 939bb46a04c3

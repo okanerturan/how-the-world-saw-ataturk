@@ -1,0 +1,31 @@
+# Turkish for data/voices/1926/tunali-hilmi-izmir-plot-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tunali-hilmi-izmir-plot-1926
+voice: Tunalı Hilmi (Bolu)
+role: Bolu milletvekili (1921–23), Zonguldak milletvekili (1923–27)
+quote: >-
+  Türk'ün tarihi bir sözü vardır: Ölümlerden ölüm beğen. Ben yerlerinde olsa idim idamı tercih ederdim. Yani
+  terakkiperverler namı altında yaşamış olanlar Gazi'nin huzuruna çıkmak için bilmem bu ölümü tercih
+  edebilirler mi?
+quote_kind: original-turkish
+summary: >-
+  Komployu bir sadakat sınavına dönüştürdü: yasaklı Terakkiperverler, Gazi'nin karşısına çıkmaktansa ölmeyi
+  tercih ederdi.
+caveat: >-
+  Metin katmanı OCR bozulmalı ('Gazi' nirı'); alıntı normalleştirilmiştir. İğneleme Atatürk'ü değil,
+  Terakkiperver Cumhuriyet Fırkası'nı hedef alır; bir sadakat aracı olarak kaydedilmiştir. 'Tunalı Hilmi Bey
+  (Zonguldak)' olarak basılıdır; konuşmacı dizgesi önceki kayıtları izler.
+verification_note: >-
+  Ham OCR: 'Gazi' nirı' (Gazi'nin), 'tercih • edebilirler'. Atatürk'ü değil, yasaklı Terakkiperver partisini
+  hedef alır; kayıt doğrudan bir değerlendirme değil, bir sadakat aracıdır.
+verification_method: pdftotext -layout; birebir
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 40e9ad23b11d
+  role: 3f9108a0b5fe
+  quote: 2a0cea9d5433
+  summary: 932f3c7e22f1
+  caveat: ad1d8e6a1ea0
+  verification_note: b11b8237079a
+  verification_method: d7ae59395bff

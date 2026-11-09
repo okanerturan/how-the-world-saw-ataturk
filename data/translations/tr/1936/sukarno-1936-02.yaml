@@ -1,0 +1,26 @@
+# Turkish for data/voices/1936/sukarno-1936-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sukarno-1936-02
+voice: Sukarno
+role: Ende'de sürgün; Persis öğretmeni A. Hassan'a yazıyor
+quote: >-
+  İslam insanlara her gün camide dalgın dalgın oturup tespih çekmeyi emretmez, ama İslam mücadeledir
+quote_kind: translated
+summary: >-
+  İslam'ın ortodoksiyle mücadele anlamına geldiğini savunmak için Kemal'in İslam'ın camide oturup tespih
+  çekmek değil, mücadele olduğu yönündeki sözünü aktardı.
+caveat: >-
+  'Surat-surat Islam dari Endeh' içinde mektup sayı 8 (Ende, 22 Şubat 1936). Söz kaynak gösterilmeden,
+  hafızadan/okumalardan aktarılmıştır. Archive.org yaprak n375.
+verification_note: ""
+verification_method: alıntı birebir aynı, Sukarno tarafından Kemal Atatürk'e atfedilmiş
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 252b8547a012
+  role: 743ff22a0124
+  quote: 09eb08d0c3e7
+  summary: f9159f76be51
+  caveat: fc0b8ea911a9
+  verification_note: da39a3ee5e6b
+  verification_method: a6a87de99004

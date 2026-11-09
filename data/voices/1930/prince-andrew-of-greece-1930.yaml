@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: prince-andrew-of-greece-1930
+voice: Prince Andrew of Greece
+voice_type: person
+role: Greek Army corps commander in Asia Minor 1921; author of Towards Disaster
+country: Greece
+country_now: Greece
+domain: military
+date: "1930"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: chivalrous-enemy
+artifact: memoir
+evidence: P
+summary: >-
+  Reads a manoeuvre open to the Greek army in 1921 as nearly fatal to the Turks, had they not had leaders of
+  'great military capacity', Kemal and Ismet.
+quote:
+  text: >-
+    if it had not been commanded by leaders of great military capacity as Mustapha Kemal Pasha and Ismet Pasha.
+  language: en
+caveat: >-
+  Towards Disaster: The Greek Army in Asia Minor in 1921 (John Murray, 1930), p. 33 (running head 'A NATURALLY
+  STRONG LINE 33'); open scan towardsdisastergreekarmy1921. The quote ends the sentence; the complete clause
+  is 'might almost have caused the destruction of the Turkish Army, if it had not been commanded by leaders of
+  great military capacity as Mustapha Kemal Pasha and Ismet Pasha'. On p. 173 he reports that Turkish officers
+  said Kemal had been 'in the lines' two days earlier 'encouraging and urging his men to a last desperate
+  fight' (a report, no judgement). The book argues the Greek disaster was caused by the Greek command's own
+  decisions, not by the enemy; the voice here is that of a defeated officer on his opponents. Used with
+  neutral voice; Sakarya and Asia Minor are sensitive ground.
+node: Soldiers on Mustafa Kemal in Their Own Words, 1915–1940
+sources:
+  - url: https://archive.org/details/towardsdisastergreekarmy1921
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Prince Andrew of Greece, Towards Disaster (John Murray 1930), archive.org towardsdisastergreekarmy1921,
+    'TowardsDisaster GreekArmy1921_djvu.txt'
+  method: curl of the open djvu text, read in context; page from the running head
+  note: >-
+    Verbatim, p. 33 (head 'A NATURALLY STRONG LINE 33'): '...might almost have caused the destruction of the
+    Turkish Army, if it had not been commanded by leaders of great military capacity as Mustapha Kemal Pasha
+    and Ismet Pasha.' The 'might have destroyed' is Andrew's own reading of a manoeuvre open to the Greek
+    army, so what_they_saw is fair but should say 'a manoeuvre open to the Greeks'. P. 173 report (captured
+    Turkish officers said Kemal had been in the lines two days earlier 'encouraging and urging his men to a
+    last desperate fight') confirmed, a report not a judgement. Intensity 1 fair (brief, backhanded). ERA FIX:
+    'contemporary' (1930, Kemal alive), not 'posthumous'.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: brzezinski-2012
+voice: Zbigniew Brzezinski
+voice_type: person
+role: US National Security Adviser 1977-81; Strategic Vision (2012)
+country: United States
+country_now: United States
+domain: politics
+date: "2012"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: book
+evidence: J
+summary: >-
+  Calls Atatürk Turkey's 'successful' modernizer, guided by a historic vision, whose secularization from above
+  set the model that failed in China and elsewhere.
+quote:
+  text: Because Ataturk imposed secularization from above in 1924,
+  language: en
+caveat: >-
+  Search-inside snippets only (archive.org strategicvisiona0000brze; pages not shown), so the evidence is J
+  rather than P. Other snippets: 'The ambitious nationalist mystique of Ataturk was contagious among fervent
+  younger Turks'; 'In firmly promoting it, Ataturk was guided by a historic vision'; a contrast with 'China's
+  failed equivalents of Turkey's successful Ataturk. Mao Zedong was a self-destructive equivalent'. The quote
+  is a fragment because the snippet stops there (the sentence goes on about Europeans' view of Turkish
+  democracy). Also The Grand Chessboard (1997): 'No Russian Ataturk is now in sight' (restricted copy
+  grandchessboarda00brze_0). Snippet-only fragment; page unknown (lending copy).
+node: Statesmen on Atatürk in Their Own Words, Memoirs and Speeches
+sources:
+  - url: https://archive.org/details/strategicvisiona0000brze
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Brzezinski, Strategic Vision (Basic Books 2012), archive.org strategicvisiona0000brze, fts snippet
+  method: tools/fts.py snippet (lending copy, no page numbers)
+  note: >-
+    Snippet: 'democratic progress. Because Ataturk imposed secularization from above in 1924, many Europeans
+    and...' The record's quote is a verbatim fragment that stops where the snippet stops, so the thought is
+    incomplete, and no page is obtainable. The 'successful modernizer / historic vision / China's failed
+    equivalents' claims rest on other snippets not re-checked in this pass. Needs a human with the book for
+    page and full sentence.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 15)
+  checked_on: "2026-11-03"

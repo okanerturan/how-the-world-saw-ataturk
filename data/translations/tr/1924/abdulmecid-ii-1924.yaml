@@ -1,0 +1,41 @@
+# Turkish for data/voices/1924/abdulmecid-ii-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abdulmecid-ii-1924
+voice: II. Abdülmecid
+role: Son Osmanlı Halifesi, Mart 1924'te makamından indirildi ve sürgün edildi
+quote: Onun etkisiyle mücadele edenler, ilerlemenin hizmetkârları arasında sayılamazlar.
+quote_kind: translated
+summary: >-
+  Territet'deki sürgününde, Kemal'in İslam'ın ilerlemeye engel olduğu yönündeki imasına karşı çıkar: inançla
+  savaşanlar ilerlemenin hizmetkârları değildir.
+caveat: >-
+  İngiliz gazeteci Ferdinand Tuohy'nin eski Halife'nin Territet'deki otelinde yaptığı mülakat, yakl. Haziran
+  1924 (eşleri 'for three months' odalarından çıkmamıştı). Kemal'in adı alıntılanan ve İslam'ı savunan
+  sözlerde ('The spirit of Islam not only doesn't hinder real progress, but ... demands it') değil, Tuohy'nin
+  çerçevelemesinde ('Kemal's insinuations that the Moslem religion was a bar to progress, seemed mostly to
+  pre-occupy Abdul') geçer. Tuohy ayrıca onun, Kemal'in kendisine 1.200 sterlin ve sınıra kadar bir bilet
+  verdiğini söylediğini aktarır. Basıldığı şekliyle İngilizcedir (Abdülmecid muhtemelen Fransızca
+  konuşmuştur). 1924 tarihli resmi protesto bildirisi ve günlükleri açık kaynaklarda bulunamamıştır.
+mediated_by: Ferdinand Tuohy, The Cockpit of Peace (1926), s. 314-315
+verification_note: >-
+  Alıntı birebir mevcuttur: '“Religious faith,” declared the deposed Commander of the Faithful, “develops the
+  noblest faculties of the human soul. Those who combat its influence cannot be numbered among the servants of
+  progress. The spirit of Islam not only doesn't hinder real progress, but ... demands it and stimulates it.”'
+  Çerçeveleme ('Kemal's insinuations that the Moslem religion was a bar to progress, seemed mostly to
+  pre-occupy Abdul'), '£1,200 and a ticket to the frontier' ve 'had not ... left their rooms for three months'
+  ifadelerinin tümü mevcuttur; Territet adı geçmektedir. Bakış testi: Kemal yalnızca Tuohy'nin
+  çerçevelemesinde anılmaktadır, dolayısıyla çekince notunun belirttiği üzere hasmane etiketi bağlamdan
+  yapılan bir çıkarımdır. Önemli bir dini şahsiyet için yoğunluk 1 düzeyinde kabul edilebilir. Olası tarih
+  daraltması: yakl. Haziran 1924 (Mart'taki varıştan üç ay sonra), yine çıkarım kademesindedir. Şema uygun.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: adc9681ff2aa
+  role: 630e910ed64d
+  quote: 896eea8ceb92
+  summary: ecf3ae9e1832
+  caveat: 7fbb0e2e3f6a
+  mediated_by: ba79b6ea47c7
+  verification_note: 5832727fcef8
+  verification_method: b152e9063489

@@ -1,0 +1,30 @@
+# Turkish for data/voices/1926/kemal-izmir-plot-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kemal-izmir-plot-1926
+voice: Mustafa Kemal (Atatürk)
+role: Cumhurbaşkanı, Meclis'in dördüncü oturumunu açarken
+quote: >-
+  Bu teşebbüsatın son tezahürü olarak meydana çıkan suikast hâdisesi, naçiz şahsımıza taallûku itibariyle
+  değil, fakat Türk Milletinin merdane evsafına yaraşmayan ve Millet Vekâleti gibi yüksek bir mertebei itibarı
+  vasıtai tecavüz kılmağı düşünecek kadar tereddi eden irticaî bir zihniyet göstermek itibariyle mucibi
+  teessür olmuştur.
+quote_kind: original-turkish
+summary: >-
+  Kendisini milletin hizmetkârı olarak görür: komplo onun şahsını değil, milleti ve Meclis'i vurmuştur.
+caveat: >-
+  Öz bakış: konuşmacı Atatürk'tür. Metin katmanı OCR bozulmalı ('Mileltinİn', 'mertelbei', 'zihnayet'); ham
+  baskıdaki virgüller alıntıda çıkarılmıştır. Normalleştirildi.
+verification_note: >-
+  Öz bakış: konuşmacı Atatürk'tür, dolayısıyla 'what they saw' üçüncü taraf görüşü değil, kendi
+  çerçevelemesidir. Ham OCR: 'Mileltinİn', 'mertelbei', 'zihnayet'; ham virgüller alıntıda çıkarılmıştır.
+verification_method: pdftotext; tire birleştirme ve OCR normalleştirmesi sonrasında birebir
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ddfb6e5d2c85
+  role: b3a96d210b3e
+  quote: 90960fb2d2ef
+  summary: cce95aeead09
+  caveat: 639e9f240e44
+  verification_note: ac7293f5f695
+  verification_method: 66771a4fad3c

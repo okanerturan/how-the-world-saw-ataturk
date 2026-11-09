@@ -1,0 +1,33 @@
+# Turkish for data/voices/1943/coudenhove-kalergi-1943-sevres.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: coudenhove-kalergi-1943-sevres
+voice: Richard Coudenhove-Kalergi
+role: Pan-Avrupa hareketinin kurucusu
+quote: >-
+  askeri güç ve kahramanca bir zihin, her türlü diplomatik eylemden daha güçlü olduğunu kanıtlamıştı.
+quote_kind: translated
+summary: >-
+  Kemal'in Sevr'i reddini Paris antlaşmalarına karşı ilk büyük karşı-devrim, kahramanca bir zihnin diplomasiyi
+  yendiğinin kanıtı ve revizyonistler için bir şablon olarak okur.
+caveat: >-
+  Crusade for Pan-Europe (Putnam, 1943), böl. VIII 'Dismembered Europe', s. 67-68 (DLI taramasında öncesinde
+  66, sonrasında 70 sayfa başlığı yer alır). Aynı sayfa: 'this victory of Kemal inspired the nationalists in
+  Germany, Hungary, and Bulgaria with new hope ... it would be enforced sooner or later a la Kemal.' Üslup,
+  Kemal'in başarısının revizyonizmi moda haline getirmesinden yakınan bir Avrupa federalistinin ağıtı
+  niteliğindedir; 1943'te, 1920'lere geriye dönüp bakarak yazılmıştır.
+verification_note: >-
+  Alıntı birebir aynı ('military power and a heroic mind had proved to be stronger than all diplomatic
+  action'); ayrıca 'this victory of Kemal inspired the nationalists in Germany, Hungary, and Bulgaria' ve
+  'enforced ... a la Kemal' ifadeleri de mevcut. Dizin Atatürk'ten söz edilen yeri s. 68 olarak gösteriyor
+  (kayıtta s. 67-68 denmiş; uygun, s. 68 olarak atıf verin). Çelişkili/2 yerinde bir okuma.
+verification_method: djvu metnini curl ile çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8b3f530d3c86
+  role: e6cc82651c1b
+  quote: 61355aa42bef
+  summary: a29cc91addda
+  caveat: 07801875d193
+  verification_note: ffd282c55806
+  verification_method: bac8b144a275

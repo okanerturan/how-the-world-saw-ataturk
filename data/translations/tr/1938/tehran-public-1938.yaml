@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/tehran-public-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tehran-public-1938
+voice: Tahran halkı
+role: Tahran sakinleri
+quote: Atatürk ölmez
+quote_kind: original-turkish
+summary: >-
+  Haber üzerine bütün şehir, Atatürk ölmez diyerek derin bir yas içinde sessiz ve hareketsiz kaldı.
+caveat: İran tarafındaki birincil kaynak (Ettela'at) görülmemiştir.
+mediated_by: Toksoy 2010 §C İran Basını
+verification_note: >-
+  'Atatürk ölmez' Toksoy'un Türkçesidir; İran birincil kaynağı görülmemiştir (çekince notunda belirtildiği
+  gibi).
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c65ec87d16a5
+  role: 34587941bbf1
+  quote: 458d70815aef
+  summary: 069f69c54a0a
+  caveat: 43420a6b0b45
+  mediated_by: 4a29cf48e8f3
+  verification_note: eaad82431ca8
+  verification_method: 939bb46a04c3

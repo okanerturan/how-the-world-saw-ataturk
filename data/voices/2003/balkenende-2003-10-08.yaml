@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: balkenende-2003-10-08
+voice: Jan Peter Balkenende
+voice_type: person
+role: Prime Minister of the Netherlands
+country: Netherlands
+country_now: Netherlands
+domain: politics
+date: "2003-10-08"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  Honours 'the great Turkish leader' who articulated the young republic's European aspirations, quoting his
+  words on progress toward civilization.
+quote:
+  text: >-
+    I am delighted and honoured to be here, at this historic moment in Turkey's European aspirations, as
+    articulated for the Young Republic by its Founder, Kemal Atatürk.
+  language: en
+caveat: >-
+  Handwritten in English, 8 October 2003; continues 'In memory of the great Turkish leader who said, "The
+  Turkish people have both the ability and the determination to progress, without hesitation or
+  disenchantment, along the path of civilization."' Atatürk as the author of Turkey's EU vocation. Source:
+  Anıtkabir Özel Defteri (printed compilation, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı
+  heyet başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), page images on ataturkarsivi.com, read on the
+  image by the main agent (4 Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) balkenende2 (English handwriting), balkenende3 (printed Turkish)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Quote verbatim, dated 8 October 2003, signed Jan Peter Balkenende, Prime Minister of the Kingdom of the
+    Netherlands. Polarity problem: the same entry says 'In memory of the great Turkish leader who said ...',
+    and the printed Turkish calls him 'ulu onder'. The chosen quote is about EU aspirations only, which is why
+    it reads instrumental, but the entry states an explicit admiring view (great leader, honoured). Suggested
+    fix: polarity admiring, intensity 1 (keeping the EU-vocation point in the caveat), or keep instrumental
+    but extend the quote to include 'In memory of the great Turkish leader'. Current record (what_they_saw
+    says 'Honours the great Turkish leader') is internally inconsistent with instrumental. Printed Turkish
+    also says Ataturk 'bizzat cizdigi Avrupa yonelimi' (personally drew the European orientation), which
+    supports the caveat.
+  resolution: corrected/hedged 2026-11-04 — see LEDGER § Source-check corrections (round 25)
+  checked_on: "2026-11-04"

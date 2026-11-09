@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nizamat-jung-1939
+voice: Nawab Sir Nizamat Jung
+voice_type: person
+role: Hyderabad (Deccan) judge, scholar and poet; contributor to Islamic Culture
+country: British India (Hyderabad State)
+country_now: India
+domain: letters
+date: "1939-01"
+era: posthumous
+polarity: conflicted
+intensity: 2
+artifact: poem
+evidence: P
+summary: >-
+  Elegy: an outlaw who made a fallen nation great, 'relentless, heartless', a hero who defied Europe, his
+  darkest deeds left to God's mercy.
+quote:
+  text: Relentless, heartless — to be strong, With stormy will he strode along
+  language: en
+caveat: >-
+  Original English verse, five quatrains headed '[Died on the 10th of November 1938] May he rest in peace!',
+  in Islamic Culture (Hyderabad), vol. XIII no. 1, January 1939, p. 98 per the contents page (item VIII).
+  Composition date within Nov 1938 - Jan 1939 inferred from the heading, so 'posthumous' by publication date
+  only. Last stanza: 'A bearer of the Prophet's name! His darkest deeds God's mercy claim, Who gave him power
+  - to save once more A Moslem nation's honour, fame.' Nizamat Jung (1871-1955) is placed from memory (tier
+  M); the volume gives only his name and title. Text read from the open archive.org OCR (identifier
+  in.ernet.dli.2015.92011).
+node: Four Poems on Atatürk — Melbourne, Damascus, Cairo and Hyderabad, 1933–1939
+sources:
+  - url: https://archive.org/stream/in.ernet.dli.2015.92011/2015.92011.Islamic-Culturevol13january1939_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Islamic Culture vol. XIII no. 1 (Jan 1939), archive.org in.ernet.dli.2015.92011 djvu text: contents page
+    item VIII and the poem 'Ghazi Mustapha Kamal Pasha'
+  method: >-
+    fresh free download of the djvu text; read the contents page, the poem and the issue's other dated content
+  note: >-
+    Quote verbatim ('Relentless, heartless - to be strong, / With stormy will he strode along'); heading
+    '[Died on the 10th of November 1938] May he rest in peace!', five quatrains, signed 'Nizamat Jung';
+    contents list item VIII at p. 98 and the poem follows the foot of p. 97 text, so p. 98 is right. Last
+    stanza as in the caveat. ERA: the poem has no composition date; the issue was assembled in January 1939
+    (it reports events of late December 1938), so the funeral window (10 Nov-31 Dec 1938) cannot be shown.
+    Keeping date 1939-01 / era posthumous is correct by the publication-date rule, and the caveat already says
+    so; funeral would be an unsupported guess. 'Judge, scholar' role and 1871-1955 dates are not in the volume
+    (tier M, as the record says). Schema OK.
+  checked_on: "2026-11-03"

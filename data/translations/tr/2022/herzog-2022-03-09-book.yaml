@@ -1,0 +1,40 @@
+# Turkish for data/voices/2022/herzog-2022-03-09-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: herzog-2022-03-09-book
+voice: Isaac Herzog
+role: İsrail Cumhurbaşkanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Büyük vizyoner Mustafa Kemal Atatürk`ü ebedileştiren bu tarihi mekânı ziyaret etmek farklı bir ayrıcalık.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ü büyük bir vizyoner olarak nitelendirir; ilerleme ve barış mirasının bilgeliğinden söz eder.
+caveat: >-
+  Kısmen İngilizce, kısmen İbranice yazılmış bir metnin Türkçe çevirisi (AA); İbranice satır Mezmurlar'dan bir
+  ayettir ('Depart from evil and do good; seek peace and pursue it') ve Cumhuriyet tarafından bu şekilde
+  aktarılmıştır. Yazı şöyle devam eder: bu büyük liderin ilerleme ve barış mirasının bilgeliğini izleyerek,
+  'let us sincerely embrace the many truths of the promise of a safer, more stable world'. Cumhuriyet 10 Mart
+  2022 tarihlidir; 9 Mart 2022 ziyaret tarihi Türkçe Vikipedi ziyaretçi listesinden alınmıştır, bu nedenle bir
+  ajans zaman damgasıyla karşılaştırılarak kontrol edilmelidir. Cumhuriyet ve Yurt Gazetesi aynı AA metnidir.
+mediated_by: Cumhuriyet ve Yurt Gazetesi, 10 Mart 2022 (AA; kaydın Türkçe çevirisi)
+verification_note: >-
+  Alıntı, yazının ilk cümlesi olarak birebir aynıdır (Yurt nüshasında mekan/iş birliği gibi imla farkları
+  vardır, yani tek bir AA metninin hafifçe düzeltilmiş kopyalarıdır). TARİH: 9 Mart 2022 doğrudur; Getty/AA
+  fotoğraf altı yazıları 'Ankara, Turkiye on March 09, 2022' şeklindedir ve ToI/GPO fotoğraf altı yazısı 9
+  Mart tarihini verir. Haberler 10 Mart damgalıdır ve ziyaret tarihi vermez, dolayısıyla 9 Mart tarihi
+  fotoğraf altı yazılarına dayanmaktadır. İbranice satır aktarıldığı üzere Mezmurlar 34:14'tür. what_they_saw
+  alanındaki 'progress and peace' ifadesi alıntılanan cümleden değil, bir sonraki cümleden gelmektedir. ToI
+  sayfasını çekemedim (bot engeli), bu nedenle özgün İngilizce metin yok. Hayranlık/2 yerindedir.
+verification_method: >-
+  Atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı; DuckDuckGo üzerinden tarih kontrolü yapıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0dc6ceb97b9d
+  role: 367838606ce3
+  quote: c7af060633ed
+  summary: 080f125956e2
+  caveat: 208eeebd342b
+  mediated_by: 0ac68ea415b5
+  verification_note: 542f78c5e9f3
+  verification_method: e5ce34764bfc

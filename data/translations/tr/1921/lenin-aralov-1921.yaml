@@ -1,0 +1,41 @@
+# Turkish for data/voices/1921/lenin-aralov-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lenin-aralov-1921
+voice: Vladimir Lenin
+role: Sovyet Rusya Halk Komiserleri Konseyi Başkanı
+quote: >-
+  Elbette, Mustafa Kemal Paşa sosyalist değil, diyordu Vladimir İlyiç, ama görünüşe göre iyi bir örgütçü,
+  yetenekli bir komutan, burjuva-ulusal bir devrim yürütüyor, ilerici düşünceli bir insan, akıllı bir devlet
+  adamı.
+quote_kind: translated
+summary: >-
+  Elçisini bilgilendirirken Mustafa Kemal'in sosyalist olmadığını, ancak burjuva-ulusal bir devrim yürüten iyi
+  bir örgütçü, yetenekli bir komutan ve akıllı bir devlet adamı olduğunu söyler.
+caveat: >-
+  Yaklaşık 38 yıl sonra Sovyet dönemi bir anı kitabında hatırlanmıştır; Lenin'in sözleri Aralov'un yeniden
+  kurgusudur. Görüşme Moskova'da, Aralov'un Kasım 1921 başlarında geri çağrılması ile Aralık 1921 sonunda
+  Ankara'ya hareket etmesi arasında gerçekleşmiştir (s. 23, 33–36). Taramada 'не социалист' ifadesi '—: е
+  социалист' (OCR) olarak görünmektedir. Lenin devamında Kemal'in 'emperyalistlerin kibrini kıracağından' emin
+  olduğunu ve Rusya'nın Türk halkına yardım etmesi gerektiğini söyler. archive.org açık metninden okundu.
+mediated_by: >-
+  S. I. Aralov, Vospominaniya sovetskogo diplomata 1922–1923 (Moskova: IMO, 1960), s. 34–35, Lenin'in
+  kendisini bilgilendirmesini anımsarken
+verification_note: >-
+  OCR hatası olan '—: е социалист' (= 'не социалист') dışında Rusça metin kelimesi kelimesine aynı. Baskı ve
+  sayfalar uyuşuyor (s. 34 'кни-' ile bitiyor, s. 35 alıntıyı içeriyor). Bağlam: Chicherin, ayrılışından önce
+  Aralov'u Lenin'e götürür; Kasım 1921 başında geri çağrılmıştır (OCR satırı 'В начале ноября 1921 года'),
+  Aralık 1921 sonunda ayrılmıştır ('В конце декабря 1921 года'). Kademe: P, Lenin'in kendi metni değil
+  Aralov'un anılarıdır; yalnızca mediated_by ve araştırma notu bu yeniden kurguyu belirttiği için kabul
+  edilebilirdir (krş. bir büyükelçinin anıları üzerinden reza-shah-1933). Dönemin çağdaş olması doğrudur.
+verification_method: archive.org açık OCR metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 721a8a326e62
+  role: a8f54d050e75
+  quote: be018336786f
+  summary: 41cabc160b36
+  caveat: 2fb0877e4a55
+  mediated_by: 097a8ad1e5e6
+  verification_note: bbf902de585d
+  verification_method: 5564a28f2471

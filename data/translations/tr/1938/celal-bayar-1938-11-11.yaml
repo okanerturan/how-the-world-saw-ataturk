@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/celal-bayar-1938-11-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: celal-bayar-1938-11-11
+voice: Celâl Bayar
+role: Başbakan, İzmir milletvekili
+quote: terki hayat ettiklerini onulmaz acı ve teessürlerle arzederim.
+quote_kind: original-turkish
+summary: >-
+  Meclis'e sunduğu yazılı bildiriminde, Cumhurbaşkanı'nın 10 Kasım saat 9:05'teki vefatını 'onulmaz acı ve
+  teessürlerle' bildirdi.
+caveat: Basılı s. 16. Tezkere 'Başvekil C. Bayar' imzalıdır ve 11-XI-1938 tarihlidir.
+verification_note: Basılı sayfa numarası dizinden çıkarılmıştır (16).
+verification_method: pdftotext; birebir; Basvekil C. Bayar imzalı, 11-XI-1938, 10 Teşrin saat 9:05
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 23f60243fd96
+  role: 794d9f573ca9
+  quote: eb7a7b7b98c3
+  summary: a4023b8cecdb
+  caveat: e1b980825cb8
+  verification_note: bda85e9ec73d
+  verification_method: fbd2325e09b5

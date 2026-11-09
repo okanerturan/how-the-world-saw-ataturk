@@ -1,0 +1,28 @@
+# Turkish for data/voices/1934/ismet-inonu-surname-1934-11-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ismet-inonu-surname-1934-11-24
+voice: İsmet İnönü
+role: Başbakan, Malatya milletvekili
+quote: >-
+  İnanıyoruz ki (Atatürk) adı ile Büyük Türk ulusu en büyük oğluna en büyük, en saygılı hitabını yapmış
+  olacaktır
+quote_kind: original-turkish
+summary: >-
+  Atatürk soyadını teklif etti; Meclis'e, ulusun bu adı kullanarak en büyük oğluna en büyük ve en saygılı
+  hitabını yapmış olacağını söyledi.
+caveat: >-
+  Aynı oturumda 'ittifakla' (oybirliğiyle) kabul edildi. Basılı metin s. 35 (komşu 34 ve 36. yapraklardan
+  çıkarılmıştır; rakamlar taramanın OCR'ında kaybolmuştur).
+verification_note: >-
+  Birebir aynı; önceki sayfanın alt kısmında '34 —' yazdığından alıntı s. 35'tedir; aynı oturumda kabul edildi.
+verification_method: pdftotext iki sütun kırpma
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 56fa742095a3
+  role: 5713faec4799
+  quote: 969f2e157910
+  summary: 1c8dbfa2290d
+  caveat: d172a457cb0e
+  verification_note: b754aeceee77
+  verification_method: ad080eb77ab4

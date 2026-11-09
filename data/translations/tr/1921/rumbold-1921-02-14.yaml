@@ -1,0 +1,41 @@
+# Turkish for data/voices/1921/rumbold-1921-02-14.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rumbold-1921-02-14
+voice: Horace Rumbold
+role: İstanbul'daki İngiliz Yüksek Komiseri
+quote: >-
+  Aynı zamanda, Mustafa Kemal Paşa'nın Hristiyanların katledilmesini bizzat teşvik etmediği veya buna göz
+  yummadığı, aksine, bunu arzu etse bile askeri harekâtların sürdüğü bölgelerdeki Hristiyan nüfusu katliamdan
+  korumakta aciz kaldığı kanaatindeyim
+quote_kind: translated
+summary: >-
+  Haçin katliamına ilişkin misyoner raporlarını iletirken, Kemal'in Hristiyan katliamlarını bizzat teşvik
+  etmediği, ancak aşırılık yanlılarını durdurmakta aciz kaldığı yargısına vardı.
+caveat: >-
+  Hassas konu (Haçin, 1920): Rumbold'un kişisel sorumluluğa dair yargısı yalnızca kendi görüşü olarak
+  kaydedilmiştir; katliam anlatımının kendisi ilettiği misyoner kaynaklarından gelmektedir. 'encourge'
+  basıldığı gibidir. Rumbold, misyoner muhtırası hakkında kendisi için 'no reason to doubt' olduğunu
+  yazmıştır.
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk c. III No. 58, s. 134 ← Rumbold'dan Curzon'a, yazı No. 173, İstanbul,
+  14 Şubat 1921
+verification_note: >-
+  s. 134'te alıntı kelimesi kelimesine aynı, 'encourge' basıldığı gibi. Cümle şöyle devam ediyor: 'the
+  unfortunate Christians in the interior of Asia Minor are practically hostages in the hands of the extremists
+  over whom the central authority has little or no control'. Tarafsızlık konusunda: kayıt, katliam anlatımını
+  misyoner kaynaklarına atfedilmiş halde ve Rumbold'un yargısını kendi görüşü olarak tutuyor ki bu doğrudur.
+  Denge açısından çekince notuna, kaydın Rumbold bundan şüphe ediyormuş gibi okunmaması için muhtıranın
+  doğruluğu konusunda kendisi açısından 'no reason to doubt' olduğunu yazdığı eklenebilir. Çelişkili
+  sınıflandırması kabul edilebilir.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b410944c5a48
+  role: 2f2e1def76bf
+  quote: 89dc14e3d717
+  summary: 2cbe325c6fad
+  caveat: 6b3de249ef1c
+  mediated_by: e6df7aef5820
+  verification_note: 2615d52f263b
+  verification_method: b152e9063489

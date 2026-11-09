@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: loraine-1938-11-25
+voice: Sir Percy Loraine
+voice_type: person
+role: British Ambassador to Turkey (1933–1939)
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1938-11-25"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: report
+evidence: P
+summary: >-
+  Obituary despatch: Atatürk treated him as a personal friend; a duality of character; a very great leader in
+  war and peace, but no true dictator.
+quote:
+  text: >-
+    I am persuaded that this is a misnomer. A very great leader, yes, both in war and in peace: but a true
+    dictator, no.
+  language: en
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk vol. VIII (TTK 2006) No. 273, pp. 559–562 (quote p. 561) ← Loraine to
+  Halifax, despatch No. 608, Angora, 25 Nov 1938 (FO 424/282)
+caveat: >-
+  Quote from fresh OCR of the scan (PDF file #8, pp. 814–817); archive.org djvu text is garbled here. 'This'
+  refers to the label dictator. Confirms the vault's friendship claim in Loraine's words; poker and weeping at
+  the funeral are not in this text.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%238.pdf
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org ingiliz-belgelerinde-ataturk #8 PDF, file pp. 814 and 816 (printed pp. 559, 561), page images
+  method: rendered PDF page image
+  note: >-
+    No. 273, Sir P. Loraine to Viscount Halifax, No. 608, ANGORA, November 25, 1938 (received 8 Dec), p. 559.
+    Para. 3: 'Atatürk regarded me as a personal friend'; para. 6: 'a duality of character'. Para. 10 on p.
+    561: 'I am persuaded that this is a misnomer. A very great leader, yes, both in war and in peace: but a
+    true dictator, no.' Verbatim. FO 424/282 not re-seen on the image; the djvu index shows FO 424/282 refs in
+    this period.
+  checked_on: "2026-11-06"

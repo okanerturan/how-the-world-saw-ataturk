@@ -1,0 +1,27 @@
+# Turkish for data/voices/1923/tbmm-assembly-1923-10-29.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tbmm-assembly-1923-10-29
+voice: Türkiye Büyük Millet Meclisi (oy kullanan 158 üye)
+role: Türk devletinin parlamentosu
+quote: >-
+  Yüz elli sekiz âza müttefikan Ankara Mebusu Gazi Mustafa Kemal Paşa Hazretlerini Cumhuriyet Riyasetine
+  intihabetmişlerdir.
+quote_kind: original-turkish
+summary: >-
+  Cumhuriyetin ilan edildiği gün, hiçbir karşı oy olmaksızın 158 oyla Mustafa Kemal'i ilk Cumhurbaşkanı seçti.
+caveat: >-
+  Birleşimin Reisi tarafından açıklandı; gizli oylama ad okunarak yapıldı. İkinci dönem c. 3, s. 99'da
+  basılıdır (cilt 3, 43. birleşim).
+verification_note: >-
+  Birebir aynı; Reis 158 oy kullananı ve oybirliğini açıklıyor. Sayfa altbilgisi 99 devamında yer alıyor.
+verification_method: pdftotext
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4d791dc4b556
+  role: ce2691370c15
+  quote: fa7ddc752374
+  summary: 4014d331aa87
+  caveat: 0c9ff127ef93
+  verification_note: 593f3dedd8b0
+  verification_method: 42174f90770e

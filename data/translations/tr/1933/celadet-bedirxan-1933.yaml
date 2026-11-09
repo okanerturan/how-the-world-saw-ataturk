@@ -1,0 +1,35 @@
+# Turkish for data/voices/1933/celadet-bedirxan-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: celadet-bedirxan-1933
+voice: Celadet Bedir Khan
+role: Kürt aydın, Xoybûn kurucularından, Şam'da sürgün
+quote: >-
+  Paşa Hazretleri, maruf olan şahsi ve medeni cesaretinize rağmen, bilmem ki neden şimdiye kadar Türkiye'de
+  bir Kürdistan meselesinin mevcudiyetini sarahaten itiraf edemediniz
+quote_kind: original-turkish
+summary: >-
+  Mustafa Kemal'e şahsi cesaret tanır ancak onu bir Kürdistan meselesini kabul etmeyi reddedip hükümetini
+  yarım tedbirler içinde bırakmakla suçlar.
+caveat: >-
+  Mektubun kendisi görülmedi; alıntı ve sayfa bilgisi, 2010 basımı transkripsiyona atıf yapan bir inceleme
+  yazısından alındı; tam cümle alıntının ötesinde devam etmektedir; Türkçe özgün metin, yalnızca İngilizce
+  açımlama.
+mediated_by: Serbestiyet incelemesi 2022 ← Doz Yayınları 2010 ed. s.39 ← Hawar Library no.6, Şam 1933
+verification_note: >-
+  Alıntı inceleme yazısında birebir aynıdır (inceleme cümleyi 'bu cesareti bulamadiniz ...' şeklinde bitirerek
+  tam olarak verir; kayıttaki alıntı bunun ilk yan cümlesidir), ancak mektubun kendisi veya 2010 baskısı
+  görülmemiştir. 1000kitap yalnızca farklı bir pasajı içerir (s. 116). Mektubun 1933 tarihi inceleme
+  yazısından gelmektedir. 'First president of Xoybun' ifadesi incelemede yer almaz (yalnızca kuruluşunda
+  önemli bir rol oynadığı belirtilir). 'conflicted' kutupluluğu makuldür.
+verification_method: Ücretsiz çekme; alıntı inceleme yazısında '(s.39)' ibaresiyle blok alıntı olarak bulundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 15f3b6fa6158
+  role: cf0fe92c1aca
+  quote: 5c818bef75fd
+  summary: 378efa35fb83
+  caveat: 8226e5e21d8e
+  mediated_by: 31e9385467b2
+  verification_note: 3c5b599cf055
+  verification_method: ed23f598a4ae

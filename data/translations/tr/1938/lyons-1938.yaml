@@ -1,0 +1,17 @@
+# Turkish for data/voices/1938/lyons-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lyons-1938
+voice: Joseph Lyons
+role: Avustralya Başbakanı
+quote: seçkin devlet adamı ve Türkiye Cumhuriyeti'nin kurucusu
+quote_kind: translated
+summary: Onu seçkin bir devlet adamı ve Türkiye Cumhuriyeti'nin kurucusu olarak nitelendirdi.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f0332291decc
+  role: 5a4ffa8829df
+  quote: 2f8cd4000747
+  summary: e8980fbed9b9
+  verification_method: 939bb46a04c3

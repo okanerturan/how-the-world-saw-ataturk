@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: falih-rifki-atay-1961
+voice: Falih Rıfkı Atay
+voice_type: person
+role: Journalist and MP; Atatürk's insider chronicler
+country: Turkey
+country_now: Turkey
+domain: press
+date: "1961"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: memoir
+evidence: T
+summary: >-
+  His memoir Çankaya (1961) narrates Atatürk's life devotedly; whether it also keeps the drinking, tempers and
+  loneliness beside the genius is not shown by the cited pages.
+caveat: >-
+  Note cites only a biography page and edition listings; the 'drinking, tempers, loneliness' reading is
+  unchecked against the text.
+node: Falih Rıfkı Atay
+sources:
+  - url: https://www.biyografya.com/en/biographies/falih-rifki-atay-85663a45
+    archived: https://web.archive.org/web/20261029003235/https://www.biyografya.com/en/biographies/falih-rifki-atay-85663a45
+  - url: https://www.kitapyurdu.com/kitap/cankaya/62340.html
+    archived: https://web.archive.org/web/20241014151953/https://www.kitapyurdu.com/kitap/cankaya/62340.html
+verification:
+  verdict: partial
+  checked_against: https://www.biyografya.com/en/biographies/falih-rifki-atay-85663a45; kitapyurdu blocked
+  method: fetch
+  note: >-
+    Çankaya (1961) with emphasis on Mustafa Kemal and lifelong Kemalism supported. Drinking, tempers and
+    loneliness alongside genius not supported by the cited pages.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

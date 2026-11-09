@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: wang-jingwei-1927-09
+voice: Wang Jingwei (汪精衛)
+voice_type: person
+role: KMT left-wing leader
+country: China
+country_now: China
+domain: politics
+date: "1927-09-22"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Cited Kemal's expulsion of Communists, after the Assembly rescued Turkey, in listing why communism fails
+  abroad.
+quote:
+  text: 其在土耳其，何以經國會拯之於垂危，而基瑪爾仍然驅逐共產黨
+  language: zh
+caveat: Speech to the Wuhan Political Branch, 22 Sep 1927.
+node: Wang Jingwei
+sources:
+  - url: https://zh.wikisource.org/wiki/寧漢合作之經過
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource.org 寧漢合作之經過 (speech 22 Sep 1927, Wuhan Political Branch)
+  method: Wikisource parse via ms fetch
+  note: Verbatim; context lists why communism fails abroad.
+  checked_on: "2026-10-30"

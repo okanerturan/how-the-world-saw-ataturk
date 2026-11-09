@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: el-orden-santa-fe-1933
+voice: El Orden (Santa Fe)
+voice_type: press
+role: Santa Fe daily, Argentina
+country: Argentina
+country_now: Argentina
+domain: press
+date: "1933-11-20"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: article
+evidence: P
+summary: >-
+  Page-three feature ahead of the Republic's tenth anniversary: Kemal the true creator of the new Turkey,
+  secularising, unveiling women, importing Western codes.
+quote:
+  text: verdadero creador de la nueva Turquía
+  language: es
+caveat: >-
+  Unsigned, photo-caption plus feature; OCR heavily garbled (three-page issue digitised by a volunteer
+  archive). The Argentine daily may be running agency copy.
+node: Valencia and Santa Fe Read Kemal, 1924–1933
+sources:
+  - url: https://archive.org/details/DiarioElOrden19331120
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA DiarioElOrden19331120 djvu text, p.3 (Pagina Tres)
+  method: >-
+    caption 'La figura de Mustafa Kemal, verdadero creador de la nueva Turquia' verbatim; feature on veil,
+    caliphate abolition, laicism, 10th anniversary 29 Oct
+  checked_on: "2026-10-29"

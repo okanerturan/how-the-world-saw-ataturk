@@ -1,0 +1,34 @@
+# Turkish for data/voices/1980/mohammad-reza-pahlavi-1980.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mohammad-reza-pahlavi-1980
+voice: Mohammad Reza Pahlavi
+role: İran Şahı (sürgünde); Answer to History (1980)
+quote: >-
+  Rıza Han, Kemal Atatürk'ün Türkiye'de uygulamaya koyduğu reformlardan büyük ölçüde etkilenmişti ve bir süre
+  komşusunun başarılarını örnek almayı ummuştu
+quote_kind: translated
+summary: >-
+  Babasının Atatürk'ün reformlarından büyük ölçüde etkilendiğini ve bir süre komşusunu örnek almayı umduğunu;
+  Atatürk'ün de babasının çabalarına hayranlık duyduğunu söyler.
+caveat: >-
+  Konu, Rıza Şah'ın Atatürk'ü model almasıdır; Şah kişisel bir yargı belirtmez, Atatürk'ten yalnızca 'the man
+  he had sought to emulate' diye söz eder ve 1934 resmî ziyaretinde tören kıtası sancaktarının Rıza Şah'ın
+  önünde diz çöküşünü anlatır (s. 52). Bu nedenle 'admiring' yönelimi zayıftır; tanık olarak okunabilir.
+  Cümle, cumhuriyet planının başarısız olduğunu çünkü 'Persia, unlike Turkey, was an empire' diyerek sürdürür.
+  Kitabın dizinine göre sayfa 51'dir; pasaj s. 52'ye taşar (OCR sayfa üstbilgisi '52 ANSWER TO HISTORY').
+verification_note: >-
+  Alıntı birebir aynı ve sayfa doğru (cümle s. 51'de, resmî ziyaret pasajı 'how much admiration his efforts
+  garnered from the man he had sought to emulate, Ataturk' s. 52'de). Ancak Şah, Atatürk hakkında kendi
+  görüşünü belirtmiyor; babasının onu model alışını ve Atatürk'ün Rıza'ya duyduğu hayranlığı aktarıyor.
+  'Admiring' desteklenmiyor. DÜZELTME: yönelim -> 'witness' (yoğunluk 1 kalsın).
+verification_method: djvu metninin curl ile çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 91a551cdec9c
+  role: d3ae10f07ad7
+  quote: 094a76a5e319
+  summary: a2e511ad25b8
+  caveat: bab76040cd3b
+  verification_note: 312944a0ead6
+  verification_method: bac8b144a275

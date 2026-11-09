@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: emmerlich-1983-09-08
+voice: Alfred Emmerlich
+voice_type: person
+role: >-
+  SPD member of the Bundestag (as printed in the protocol; first name not given in the DIP text)
+country: West Germany
+country_now: Germany
+domain: politics
+date: "1983-09-08"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Remembers 'Kemal Atatürk's Turkey' as a safe refuge for many Nazi victims, Ernst Reuter among them, an
+  obligation for German extradition policy.
+quote:
+  text: >-
+    daß die Türkei Kemal Atatürks für viele Nazi-Verfolgte — z. B. Ernst Reuter — eine Zufluchtsstätte war, in
+    der sie vor einer Auslieferung sicher sein konnten
+  translation: >-
+    that Kemal Atatürk's Turkey was a place of refuge for many victims of Nazi persecution, for example Ernst
+    Reuter, where they were safe from extradition
+  language: de
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
+  documentation page; printed page checked in the dserver PDF. Used in a 1983 debate on extradition of Turkish
+  asylum-seekers, to argue a German duty from history; the praise is of the Republic's asylum role, and the
+  speaker's name is printed without a first name. Cited as Deutscher Bundestag, Plenarprotokoll 10/19, session
+  of 1983-09-08, S. 1313. First name from de.wikipedia. Polarity admiring → instrumental (praise of the
+  Republic's asylum role used to argue a German duty).
+node: German Parliaments on Atatürk — Hitler's Reichstag 1941 and the Bundestag 1983–2025
+sources:
+  - url: https://dserver.bundestag.de/btp/10/10019.pdf
+    archived: https://web.archive.org/web/20250716183229/https://dserver.bundestag.de/btp/10/10019.pdf
+  - url: https://dip.bundestag.de/
+    archived: https://web.archive.org/web/20261020200949/https://dip.bundestag.de/
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Bundestag plenary-protocol PDF 10/10019.pdf (WP10 sitting 19) from dserver.bundestag.de, fetched fresh;
+    de.wikipedia 'Alfred Emmerlich' for the first name
+  method: >-
+    downloaded the dserver PDF, pdftotext, whitespace/hyphenation-normalised match of the quote, speaker
+    header and running-head page number read from the printed protocol; German read against the stored
+    translation; first name from de.wikipedia (SPD, Bundestag 1972-1990, Rechtsausschuss, deputy SPD group
+    chair from 1983)
+  note: >-
+    Quote verbatim, printed p. 1313, speaker 'Dr. Emmerlich (SPD)'; translation faithful. CORRECTION: voice
+    should be 'Alfred Emmerlich' (SPD, jurist, deputy chair of the SPD group from 1983), same sourcing caveat
+    as Althammer (first name not in the protocol). Gaze note: the praise is of the Turkey of Kemal Ataturk as
+    a refuge for Nazi victims, used to argue a German duty in the Altun extradition case; admiring/1 is
+    defensible but 'instrumental' would match the caveat and the schema definition better.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22c)
+  checked_on: "2026-11-03"

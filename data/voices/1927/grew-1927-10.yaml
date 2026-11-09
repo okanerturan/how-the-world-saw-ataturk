@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: grew-1927-10
+voice: Joseph C. Grew
+voice_type: person
+role: US Ambassador to Turkey (1927–1932)
+country: United States
+country_now: United States
+domain: diplomacy
+date: "1927-10"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: memoir
+evidence: P
+summary: >-
+  After presenting credentials, told the Foreign Minister the Gazi had made a profound impression, struck by
+  the strength and determination of his face.
+quote:
+  text: He had the face of a man who could overcome all difficulties in reaching his goal.
+  language: en
+caveat: >-
+  Turbulent Era: A Diplomatic Record of Forty Years, 1904–1945 (Boston: Houghton Mifflin, 1952), vol. II,
+  chapter 'Arrival in Turkey' (from p. 729; exact page not seen); read only as archive.org search-inside
+  snippets of a lending copy, which also give 'I said to the Minister that the President had made a profound
+  impression on me'. The vault card's all-night dinners and 'terrifyingly intelligent' line are not found.
+  Page unknown (chapter 'Arrival in Turkey').
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/turbulenteradipl00grew
+  - url: https://archive.org/details/turbulenteradipl02grew
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org FTS snippets: turbulenteradipl02grew and turbulenteradipl00grew (both lending, 1952)
+  method: archive.org full-text search (overlapping snippets)
+  note: >-
+    Chain verbatim in both copies: '...especially by my speech, and the Gazi was not easy to please. I said to
+    the Minister that the President had made a profound im-pression on me and that I was particularly
+    impressed with the strength and determination of his face. He had the face of a man who could overcome all
+    difficulties in reaching his goal.' Page not shown; the chapter's running head 'ARRIVAL IN TURKEY 729'
+    appears in an 'Angora, Saturday, October 8 [1927]' snippet, and 'Angora, Thursday, October 27 [1927]' is
+    another entry, so Oct 1927 fits but the exact day is not pinned. Correction: the book is 'Turbulent Era: A
+    Diplomatic Record of Forty Years, 1904–1945', not 'Diary in Turbulent Era'.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33b)
+  checked_on: "2026-11-06"

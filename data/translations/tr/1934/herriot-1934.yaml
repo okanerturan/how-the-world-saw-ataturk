@@ -1,0 +1,37 @@
+# Turkish for data/voices/1934/herriot-1934.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: herriot-1934
+voice: Édouard Herriot
+role: Fransız Radikal Parti lideri, eski Başbakan ve Lyon belediye başkanı
+quote: >-
+  Gazi bilime, akla inanır. Size söyledim: Onu Auguste Comte ile Descartes'ın, belki de bilinçsiz bir
+  takipçisi olarak tasavvur ediyorum.
+quote_kind: translated
+summary: >-
+  1933'teki bir ziyaretin ardından Kemal'i bilime ve akla inanan dikkate değer bir devlet adamı, Comte ve
+  Descartes'ın belki de bilinçsiz bir takipçisi olarak nitelendirir.
+caveat: >-
+  Herriot, 'De la vieille à la nouvelle Turquie', La Turquie kémaliste sayı 1 (1934), s. 15–28 olarak kaynak
+  gösterilmiştir; alıntı s. 27'dedir (bir dinleyici kitlesine verilen konferans, 'Mesdames et Messieurs').
+  Türk Matbuat Umum Müdürlüğünün kendi Fransızca propaganda dergisinde yayımlandığından mecra Kemalisttir;
+  metin Herriot'nun imzalı konferansıdır. OCR'da sayı tarihi basılı değildir (dergi 1934'te yayına
+  başlamıştır), bu yüzden yalnızca yıl verilmiştir. Herriot ayrıca ondan 'ce remarquable homme d'État' (s. 27)
+  diye söz eder ve 'non par des gestes de dictature' ile hüküm sürdüğünü söyler. OCR 'l'ai' yerine 'lai' okur
+  (alıntıda düzeltilmiştir). 1. sayının çeviri dosyaları HAZ1934 (Haziran 1934) olarak etiketlenmiştir.
+verification_note: >-
+  Birebir aynı ('lai' = 'l'ai' için OCR okuması); 'ce remarquable homme d'État' ve 'non par des gestes de
+  dictature' ifadeleri de mevcut. 1. sayıda tarih basılı değil; arşivdeki 1. sayı Türkçe çeviri dosyaları
+  'HAZ1934' (Haziran), 2. sayı dosyaları ise 'AGU1934' olarak etiketli olduğundan sayı büyük olasılıkla
+  Haziran 1934 tarihlidir: tarih 1934-06 olarak daraltılabilir (yayın tarihi; konferansın kendisi daha
+  erkendir, 1933 sonbaharındaki ziyaretinden sonra, tarihi bulunamadı). Yalnızca yıl olarak 1934 güvenlidir.
+verification_method: djvu metni çekildi, dizge eşleştirildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cd23833543a6
+  role: dccf3249fc71
+  quote: 24f63f6d258f
+  summary: 1d3a2117b754
+  caveat: d08fdf67001e
+  verification_note: 2c444d56d6f5
+  verification_method: 8d8522007a86

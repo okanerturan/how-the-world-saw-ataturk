@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rashid-rida-manar-1928-01
+voice: Rashid Rida
+voice_type: person
+role: Salafi theologian; editor of al-Manar
+country: Egypt
+country_now: Egypt
+domain: religion
+date: "1928-01-23"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: P
+summary: >-
+  Sociologists judge Kemal's leap more dangerous to his people; an old state flares up before dying.
+quote:
+  text: >-
+    Sociologists of judgement and insight reckon that Mustafa Kemal's leap will be more dangerous to his people
+  language: en
+caveat: >-
+  Unsigned; attributed to Rida as editor. Quote is the note author's English translation of the Arabic
+  original, which the note prints.
+node: Al-Manar 26–29 (1926–1928) — Rida on Kemal's Reforms
+sources:
+  - url: https://archive.org/details/Almanar
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: "IA Almanar almanar28.pdf, pdf 567 (p.785; cover pdf 528: 30 Rajab 1346 / 23 Jan 1928)"
+  method: >-
+    curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
+  note: >-
+    Arabic on p.785 in section on Afghan king's hat; unsigned editorial; translation faithful; old-state-flare
+    passage present; hostile holds.
+  checked_on: "2026-10-30"

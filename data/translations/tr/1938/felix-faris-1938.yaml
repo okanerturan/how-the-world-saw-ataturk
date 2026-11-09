@@ -1,0 +1,42 @@
+# Turkish for data/voices/1938/felix-faris-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: felix-faris-1938
+voice: Felix Faris
+role: Lübnanlı-Mısırlı deneme yazarı ve polemikçi
+quote: >-
+  Bunlar, keskin zekâlı Atatürk'ten gizli kalmamış gerçeklerdir; zira o, Türk halkının fıtratının ne olduğunu
+  ve hangi toplumsal durumun onun güdülerinde saklı olanla uyuştuğunu biliyordu.
+quote_kind: translated
+summary: >-
+  Atatürk'ü Türk halkının doğasını bilen 'keskin zekâlı' biri ve Türkiye'nin ruhuyla uyuşmayan her unsuru
+  zayıflatan bir reformcu olarak nitelendirir.
+caveat: >-
+  al-Risala sayı 257, 6 Haziran 1938, Wikisource sayfası 'مجلة الرسالة/العدد 257/بين الشرق والغرب' olarak
+  kaynak gösterilmiştir. Felix Faris imzalı, Batılılaşmayı ve Osmanlı yönetiminin sona erişini öven bir
+  muhataba ('al-munazir') yanıt veren 'Doğu ile Batı Arasında' yazısının ilk bölümünden (devamı sonraki
+  sayıda); Faris, Osmanlıların Arap kültürünü yaymadığını ve Atatürk'ün bunu anladığını savunur. Sonraki
+  cümle: 'Düşünürler, devletinin bu reformcusunun neyi hedeflediğini, devletin ruhuna ayak uydurmayan her
+  unsuru zayıflattığını ve bu yüzden Arap harflerini ve kelimelerini kendine düşman edindiğini bilirler.' Arap
+  harfleri noktasında nötrdür; konuşmacının çerçevelemesi olarak aktarılmıştır. Wikisource transkripsiyonu.
+verification_note: >-
+  Arapça alıntı birebir aynı. Şablonda yazar alanı boş; yazar satırı 'للأستاذ فليكس فارس' ve kapanış imzası
+  'فليكس فارس' ('البقية في العدد القادم'); epigraf Tawfiq al-Hakim'e aittir ve muhatabın görüşü olarak
+  alıntılanmıştır, ardından Faris 'ونحن نجيب على هذا موافقين المناظر ...' diyerek yanıt verir. Dolayısıyla
+  alıntı Faris'in kendi sözüdür. Tarih 06-06-1938. Sonraki cümle ('ويعلم المفكرون ما رمى إليه هذا المصلح
+  لدولته من إضعاف كل عنصر لا يجاري روحها حتى أنه ناصب العداء الحروف والألفاظ العربية') çekince notuyla ve 'her
+  unsuru zayıflatan' ifadesiyle örtüşüyor. 'الداهية' karşılığı olarak 'keskin zekâlı' kabul edilebilir
+  ('kurnaz' anlamına da gelir). Çelişkili / 2 uygun. 'Lübnanlı-Mısırlı' bilgisi sayfada yer almıyor (dış
+  bilgi). Şema tamam.
+verification_method: >-
+  action=raw alındı, Arapça alıntının harekeleri normalleştirilmiş alt dize eşleşmesi yapıldı, ardından
+  çevreleyen pasaj, üstbilgi tarihi ve sondaki imza okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: efc48f7f63a1
+  role: b00dfc7f10e1
+  quote: 7084ff7e2daf
+  summary: 318382d04ddb
+  caveat: 84f7666a2251
+  verification_note: 9af3d951426b
+  verification_method: 0d2d412521a8

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-rothschild-1938
+voice: Mr de Rothschild MP
+voice_type: person
+role: Member of the Commons, Colonial Office estimates
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1938-06-14"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Pointed to Ataturk's revision of Turkey's old land laws as the reform Cyprus should now copy.
+quote:
+  text: before Ataturk revised the laws of Turkey
+  language: en
+caveat: Member identified from the API name 'Mr. de Rothschild' only.
+node: Westminster on the Turkish Dictator, 1924–1938
+sources:
+  - url: https://hansard.parliament.uk/Commons/1938-06-14/debates/b7f7c4cd-a57e-42f0-a01e-c128545a6bd1/ColonialOffice
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard-api.parliament.uk/search/contributions/Spoken.json (contribution
+    84d3903b-51c4-4e1e-a47a-8a6065152704), Commons 1938-06-14 Colonial Office, Mr. de Rothschild
+  method: api
+  note: Member identity (which de Rothschild) unresolved by API; record caveat already says so.
+  checked_on: "2026-10-29"

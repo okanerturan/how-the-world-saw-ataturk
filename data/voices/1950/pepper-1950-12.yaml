@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pepper-1950-12
+voice: Claude Pepper
+voice_type: person
+role: U.S. Senator from Florida (Democrat), reporting on a trip abroad
+country: United States
+country_now: United States
+domain: politics
+date: "1950-12-22"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Reporting on a trip, says the 'new Turkey oriented to the West' rests on the 'splendid edifice' Kemal Pasha
+  built after the First World War.
+quote:
+  text: >-
+    There is a new Turkey oriented to the West which has risen upon the splendid edifice established by Kemal
+    Pasha after World War I.
+  language: en
+caveat: >-
+  A one-sentence aside in a long report on Greece, Turkey and Israel; page from the OCR running heads (the
+  scan interleaves columns). The speaker is read from the transcript sequence (Pepper in colloquy with
+  Brewster). Cited as Senate, 22 December 1950, Congressional Record vol. 96 (bound), p. ~16974 (granule
+  CRECB-1950-pt12-20-1). Page 16992.
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1950-pt12/pdf/GPO-CRECB-1950-pt12-20-1.pdf
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: GovInfo Congressional Record bound-edition PDF GPO-CRECB-1950-pt12-20-1, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads
+  note: >-
+    Quote verbatim, Senate, Friday 22 December 1950, Mr. PEPPER's report on his trip (speech begins at his
+    'Senators will recall the famous words' paragraph). CORRECTION: the sentence is on p. 16992 (running head
+    16992), not 'p. ~16974'. Admiring/1 fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22c)
+  checked_on: "2026-11-03"

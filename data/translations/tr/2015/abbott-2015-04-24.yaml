@@ -1,0 +1,39 @@
+# Turkish for data/voices/2015/abbott-2015-04-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abbott-2015-04-24
+voice: Tony Abbott
+role: Avustralya Başbakanı (2013–2015)
+quote: >-
+  İşte bu yüzdendir ki Türkiye, büyük ölçüde Atatürk mirası sayesinde, bu kadar uzun süredir İslam Dünyası
+  için böylesine yol gösterici bir ışık olmuştur.
+quote_kind: translated
+summary: >-
+  Barışçıl, müreffeh ve makul ölçüde çoğulcu Türkiye'yi İslam dünyası için yol gösterici bir ışık haline
+  getirmesini Atatürk mirasına bağlar.
+caveat: >-
+  Burada Abbott, Anzak sözlerinden değil, devlet kurucusu olarak Atatürk'ten söz eder; ayaküstü yapılmış
+  doğaçlama bir basın açıklamasıdır. Aynı hafta (PM Transcripts 24391, İstanbul 23 Nisan 2015) Mustafa Kemal
+  Atatürk'ü 'a worthy and resourceful leader, who embraced his fallen enemies as sons of Turkey' olarak
+  nitelendirmiştir. Anzak konuşmacılarının Atatürk'e atfettiği 'Johnnies and Mehmets' / 'your sons are now
+  lying in our bosom' metninin kendisi tartışmalıdır: 1934 tarihli bir orijinal bulunamamıştır, metin ilk kez
+  1953'te İçişleri Bakanı Şükrü Kaya'nın hatırası aracılığıyla basılı olarak ortaya çıkmıştır ve 'Johnnies and
+  Mehmets' ibaresi 1978 tarihli bir Avustralya eklemesidir (bkz. [[Johnnies and Mehmets]]). Dolayısıyla bu,
+  övgüyü ödüllendiren bir anma töreni veya diplomatik vesileyle dile getirilmiş, konuşmacının Anzak
+  efsanesindeki Atatürk'e dair görüşüdür. Kaynak gösterimi: Doorstop interview, HMAS Anzac, Anzac Cove, 24
+  April 2015.
+verification_note: >-
+  24393 sayılı tutanakta (Abbott, ayaküstü demeç, HMAS Anzac, Anzak Koyu, 24 Nisan 2015) birebir aynı.
+  Müreffeh, çoğulcu bir Türkiye için 'the Ataturk legacy' ifadesine kendi takdiri; hayran 1 makul.
+verification_method: >-
+  kaynak yeniden çekildi, alıntının normalleştirilmiş metin eşleşmesi yapıldı; konuşmacı, tarih ve başlık
+  üstveriden/imza satırından okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f26d83d53c4b
+  role: e2b4f88241fa
+  quote: f3c8e0878b87
+  summary: 8cd52925daf2
+  caveat: 21668bb8f13a
+  verification_note: "447e58431451"
+  verification_method: 02ed4e837c0d

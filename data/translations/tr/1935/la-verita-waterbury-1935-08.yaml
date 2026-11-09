@@ -1,0 +1,26 @@
+# Turkish for data/voices/1935/la-verita-waterbury-1935-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-verita-waterbury-1935-08
+voice: La Verità (Waterbury)
+role: İtalyanca haftalık gazete, Waterbury, Connecticut
+quote: eğer Kemal'in Türkiye'sinde giyinme ve yazma biçimini düzenleyen yasa bile varsa
+quote_kind: translated
+summary: >-
+  İtalya'yı diktatörlük suçlamalarına karşı savunuyor: Rusya, Almanya ve giyim ile yazıyı düzenleyen Kemal'in
+  Türkiye'si daha kötüdür; İtalya'da ırk mücadelesi yoktur.
+caveat: >-
+  Kemal değerlendirmesi değil, faşizm savunucusu bir karşılaştırma; Kemal, İtalya'dan daha sert bir
+  diktatörlük olarak anılıyor.
+verification_note: >-
+  Tam eşleşme; Rusya ve Almanya ile karşılaştırma ve İtalya'da ırk mücadelesi olmadığı ifadesi mevcut.
+verification_method: loc.gov JSON + karo OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 56a4a962f5bd
+  role: f79c789fafaa
+  quote: 1ec3f50c4ae5
+  summary: d14083d59c8c
+  caveat: 0d641b13fefe
+  verification_note: d5d8b822ed62
+  verification_method: 363638f20035

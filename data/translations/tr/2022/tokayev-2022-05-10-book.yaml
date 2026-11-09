@@ -1,0 +1,35 @@
+# Turkish for data/voices/2022/tokayev-2022-05-10-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tokayev-2022-05-10-book
+voice: Kassym-Jomart Tokayev
+role: Kazakistan Cumhurbaşkanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Türkiye Cumhuriyeti kurucusu Mustafa Kemal Atatürk'ü rahmetle anıyor, köklerimiz bir Türk halkına
+  saygılarımı iletiyorum.
+quote_kind: original-turkish
+summary: >-
+  Türkiye Cumhuriyeti'nin kurucusu Atatürk'ü rahmetle anar ve 'kökleri bizimle bir olan' Türk halkına
+  saygılarını iletir.
+caveat: >-
+  Muhtemelen Kazakça veya Rusça yazılmış bir metnin Türkçe çevirisi (AA); özgün metne ulaşılamamıştır.
+  Haberler (AA) ve TRT Haber aynı metni, tek bir AA bültenini yayımlamaktadır. Metnin geri kalanında kalıcı
+  dostluk ve iş birliği temenni edilmektedir.
+mediated_by: Haberler (AA) ve TRT Haber, 10 Mayıs 2022 (kaydın Türkçe çevirisi)
+verification_note: >-
+  Alıntı birebir aynı (Türkçe dilbilgisi basıldığı şekliyle, 'köklerimiz bir Türk halkına'); Haberler'de AA
+  mahreci var; TRT galerisi birebir aynı: tek kaynak. Tarih doğru. 'rahmetle anıyor' anma kalıbı için
+  hayranlık/1 kabul edilebilir; araçsal da savunulabilir. Özgün dildeki metne ulaşılamadı.
+verification_method: >-
+  atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a1946624e137
+  role: 6280f67e481f
+  quote: 6e069725dd79
+  summary: 287e824d5182
+  caveat: 3bd1bc292520
+  mediated_by: b9e5923cbe7c
+  verification_note: ff9d77c608b1
+  verification_method: 8505ab605bfa

@@ -1,0 +1,48 @@
+# Turkish for data/voices/1997/castro-1997-03-13.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: castro-1997-03-13
+voice: Fidel Castro
+role: Küba Devlet Başkanı; Türk sağlık bakanının heyetini kabulü, Devrim Sarayı, Havana
+quote: >-
+  "Atatürk büyük insan, büyük asker İngilizleri nasıl yendi?" durakladı... tekrar; "onları nasıl yendi?" dedi.
+  "Asker ve fikir adamı Atatürk önemli insan olarak tarihe geçti."
+quote_kind: original-turkish
+summary: >-
+  İngilizleri bir şekilde yenmiş büyük bir insan ve büyük bir asker, tarihe geçmiş bir asker ve düşünür;
+  Atatürk'ün Türk yazısını değiştirdiği söylendiğinde Castro, kendisinin böyle bir düzen değişikliği
+  yapamayacağını söyledi.
+caveat: >-
+  Cumhurbaşkanı Demirel'den bir mektup sunan Sağlık Bakanı Yıldırım Aktuna'nın heyetinin 13 Mart 1997,
+  22:00–23:50 tarihli kabulü. Harf devrimi konusunda Domaç yalnızca şunu kaydeder: 'Ben [böyle bir] düzen
+  değişikliği yapamazdım'. Daha geniş kapsamlı olan 'Bu kadar büyük bir devrim yaptım ama Atatürk'ün
+  başardığını başaramadım' sözü, Domaç'ın notlarına değil, Aktuna'nın görüşme sonrasında basına yaptığı
+  açıklamaya dayanır (Sabah, 15 Mart 1997; aynı gün Milliyet, s. 19, Havana'dan Hülya Aydoğan imzalı 'Castro,
+  irticayı sordu' haberi; burada Castro'nun Atatürk'ün bütün öyküsünü bildiğini ve iki kitabını okuduğunu
+  söylediği de eklenir: 'Atatürk, iyi bir komutan ve liderdi. Büyük bir devrim yaptım, ama ben bile Atatürk'ün
+  yaptığını yapamazdım'). TBMM tutanaklarında basılan resmî heyet raporu (Dönem 20, c. 35, 10. birleşim, 5
+  Kasım 1997, s. 89), Atatürk'ün kişiliği, Kurtuluş Savaşı ve devrimler hakkındaki soru ve
+  değerlendirmelerinin 'Türk heyetini çok etkilediğini' doğrular. Daha sonraki ifadeler ('ülkenize düşen bir
+  yıldız', 'ölümünden sonra bile ülkesini yöneten tek lider') Vecdet Öz'ün 2020–2023 yıllarındaki sosyal medya
+  paylaşımlarından gelmektedir ve 1997 tarihli hiçbir kayıtta yer almaz. Her üç kaynak da Türkçedir; çeviri
+  derlemeye aittir.
+mediated_by: >-
+  Mehmet Domaç (Türk Eczacıları Birliği başkanı), İspanyolca tercüman Mehmet Necati Kutlu'nun aktarımlarından,
+  Castro'nun imzaladığı bir deftere kabul sırasında alınan notlar; TEB Haberler, Mayıs–Haziran 1997, s. 8'de
+  basılmıştır
+verification_note: >-
+  Alıntı Domaç'ın basılı notlarından birebir alınmıştır (sayfa üzerinden OCR okuması). Kabulün tarihi ve saati
+  her üç kaynakta da uyuşmaktadır (13 Mart 1997, 22:00, 1 sa. 40–50 dk.). Aktuna'nın daha kapsamlı 'Atatürk'ün
+  başardığını başaramadım' sözü Sabah'ta Castro'nun sözlerini aktarımı olarak yer almaktadır; alıntıda değil,
+  ihtiyat notunda tutulmuştur. Ana ajan tarafından okundu; ayrı bir kontrol ajanı yok.
+verification_method: bülten sayfasının OCR okuması; HTML metni; pdftotext
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0cf856771338
+  role: 7add6fa798ca
+  quote: 2ae1c00c6413
+  summary: 991d306b3b24
+  caveat: dd3a95a88deb
+  mediated_by: e11d095ff3e1
+  verification_note: 77b6f84914fb
+  verification_method: 974c3bf2b018

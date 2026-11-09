@@ -1,0 +1,45 @@
+# Turkish for data/voices/1954/muhammad-asad-1954.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: muhammad-asad-1954
+voice: Muhammad Asad (Leopold Weiss)
+role: Avusturya doğumlu Müslüman âlim ve yazar; The Road to Mecca (1954) adlı anı kitabı
+quote: >-
+  Toplumsal devrimini yeniden canlandırılmış ve güçlendirilmiş bir İslam temeline oturtmak yerine Atatürk,
+  (kendisini tek başına zafere ulaştırmış olan) dinin manevi gücünü terk etti ve hiç gereksiz yere bütün
+  İslami değerlerin reddini reformlarının temeli yaptı.
+quote_kind: translated
+summary: >-
+  Türk mücadelesinin başlangıçta 'İslam'ın işareti altında' durduğunu, ardından Atatürk'ün dini terk edip
+  reformlarında İslami değerleri reddettiğini söyler.
+caveat: >-
+  Pasaj Senusi bölümünde ('Jihad'), s. 319'da ('JIHAD 319' ve '320' sayfa başlıkları arasındaki metin) yer
+  alır ve Seyyid Ahmed es-Senusi'nin hayal kırıklığını anlatır; Atatürk hakkındaki hüküm anlatıcının
+  kendisinindir. archive.org'da taranmış olan The Road to Makkah başlıklı Islamic Book Service (Yeni Delhi,
+  2004) tıpkıbasımından okunmuştur; sayfa numaraları bu yeniden basımın basılı sayfa başlıklarıdır. Asad
+  1954'te 1920'ler ve 30'ların olayları hakkında yazmaktadır. Diğer pasajlar: s. 297 (1930'larda İran'da geçen
+  bir diyalogda Asad şöyle sorar: 'How is it that Ataturk, that petty masquerader who denies all value to
+  Islam, has become to you Muslims a symbol of Muslim revival?'), s. 268 (Rıza Han'ın 'obvious admiration of
+  Kemal Ataturk' tutumu ve İranlıların 'fear of losing their religion as the Turks had lost theirs' korkusu),
+  s. 272 (Rıza Şah'ın 'to emulate Kemal Ataturk in building a vainglorious Western facade' arayışı). Aynı ses
+  ve tarih olduğu için tek kayıtta birleştirilmiştir; kutupluluk 'düşmanca' (yalnızca Kurtuluş Savaşı'nın
+  İslami niteliğine pay verir ve Atatürk'e 'that petty masquerader' der, s. 297). Asad'ın Islam at the
+  Crossroads (1934) ve The Principles of State and Government in Islam adlı eserleri grep ile tarandı;
+  Atatürk'ün adı geçmemektedir.
+verification_note: >-
+  Senusi bölümündeki alıntı s. 319'da ('JIHAD 319' ve '320 THE ROAD TO MECCA' başlıkları arasında) birebir
+  mevcut, anlatıcının kendi hükmü. 'petty masquerader' satırı s. 297'de ('DAJJAL 297' başlığı altında) birebir
+  mevcut; İran diyaloğunda Asad tarafından söyleniyor ve açıkça Atatürk hakkında ('How is it that Ataturk,
+  that petty masquerader who denies all value to Islam...'). Sayfalar 1954 ilk baskısına değil, yeniden basıma
+  aittir. Not: üslup ağırlıklı olarak düşmanca; 'çelişkili' ('conflicted') değerlendirmesi savaşın dini
+  niteliğine pay vermesine dayanıyor, savunulabilir ama cömert bir yorum.
+verification_method: djvu metnini curl ile çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e8bfb9df8e86
+  role: e1f578e50e63
+  quote: f27fa8e39e5e
+  summary: f2ecc7407fb5
+  caveat: 7ee4fbf7ab8b
+  verification_note: c886e81c10a8
+  verification_method: bac8b144a275

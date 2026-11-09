@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: santiniketan-1938
+voice: Santiniketan (Tagore's school)
+voice_type: institution
+role: Bengali school founded by Tagore
+country: British India
+country_now: India
+domain: letters
+date: "1938-11-18"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: ceremony
+evidence: S
+summary: >-
+  Suspended classes and activities on 18 November 1938, marking the death of 'the great Pasha'.
+mediated_by: Bhattacharya, Frontier 51(45)
+node: India Mourns, November 1938
+sources:
+  - url: https://frontierweekly.com/articles/vol-51/51-45/51-45-Tagore%20and%20his%20Nationalism.html
+    archived: https://web.archive.org/web/20191114201919/https://frontierweekly.com/articles/vol-51/51-45/51-45-Tagore%20and%20his%20Nationalism.html
+verification:
+  verdict: confirmed
+  checked_against: >-
+    https://frontierweekly.com/articles/vol-51/51-45/51-45-Tagore%20and%20his%20Nationalism.html
+  method: fetch
+  note: "'The great Pasha' is Bhattacharya's wording, citing Bandyopadhyaya 3:143."
+  checked_on: "2026-10-29"

@@ -1,0 +1,36 @@
+# Turkish for data/voices/1970/izetbegovic-1970.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: izetbegovic-1970
+voice: Alija Izetbegović
+role: Bosnalı Müslüman aktivist, daha sonra Bosna-Hersek Başkanlık Konseyi'nin ilk Başkanı
+quote: >-
+  Böylece örneğin, açıkça bir kültür reformcusundan daha büyük bir askeri komutan olan ve Türkiye'ye
+  hizmetlerinin gerçek ölçüsüne indirilmesi gereken Mustafa Kemal, reformlarından biriyle fes giyilmesini
+  yasaklar.
+quote_kind: translated
+summary: >-
+  Kemal'in bir kültür reformcusundan ziyade komutan olduğunu, hizmetlerinin aşağı çekilmesi gerektiğini ve
+  reformlarının Türkiye'yi üçüncü sınıf bir Avrupa kopyası yaptığını söyler.
+caveat: >-
+  Islamska deklaracija, 1970'te yazıldı, samizdat olarak elden ele dolaştı ve 1990'da Saraybosna'da
+  yayımlandı; 1983 Saraybosna davasındaki başlıca delildi. Yazarına düşman bir sitenin (n-um.com) barındırdığı
+  eserin tam metin PDF'sinden okundu, s. 5; aynı cümleler DEPO Portal/Prometej.ba (2017) ve Preporod yıllığı
+  tarafından da alıntılanmaktadır. Metin ayrıca Türkiye'yi 'bir Avrupa intihali olarak' üçüncü sınıf bir ülke
+  diye nitelendirir ve Arap alfabesinin kaldırılmasının Türkiye'yi 'barbarlığın sınırlarına' sürüklediğini
+  söyler. Daha sonraki bir SDA ifadesi ('Atatürk was mostly a great military commander', Google Books kesiti)
+  seçkiye alınmamıştır.
+verification_note: >-
+  Boşnakça cümle PDF s. 5'te kelimesi kelimesine mevcut; çeviri sadık. 'srozala do granica barbarstva' ve
+  'Danas je Turska trećerazredna zemlja' ifadeleri de mevcut. depo.ba aynı pasajları alıntılıyor. Barındıran
+  site yazara düşmandır, ancak metin depo.ba alıntılarıyla uyuşmaktadır.
+verification_method: curl + pdftotext; ms fetch (ücretsiz)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 85dc6cdc1c4f
+  role: 40dc65ae9459
+  quote: 6447d6614a1b
+  summary: afa63d13f288
+  caveat: d756edc9e1e9
+  verification_note: 9ec83f164c6a
+  verification_method: a618ab358c71

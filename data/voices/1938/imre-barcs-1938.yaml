@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: imre-barcs-1938
+voice: İmre Barcs
+voice_type: person
+role: Hungarian writer
+country: Hungary
+country_now: Hungary
+domain: letters
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: S
+summary: >-
+  Wrote an essay on the 'Bozkurt General' who rose from the Central Powers' 1918 collapse, a fellow
+  loser-state returning.
+mediated_by: Toksoy 2010
+caveat: Note marks Barcs's identity as an open thread.
+node: Hungary's Parliament Rises, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: paraphrase-ok
+  checked_against: sources/toksoy-2010-balkan-mideast-press.txt sec. B Macaristan Basini (fn.42)
+  method: local
+  note: >-
+    Toksoy attributes it to a Hungarian writer 'Imre Barcs'; quoted passage about 'Bozkurt General' matches.
+  checked_on: "2026-10-29"

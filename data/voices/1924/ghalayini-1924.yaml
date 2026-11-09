@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ghalayini-1924
+voice: Mustafa al-Ghalayini
+voice_type: person
+role: Lebanese scholar, grammarian and poet
+country: Lebanon (French mandate)
+country_now: Lebanon
+domain: letters
+date: "1924"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: poem
+evidence: S
+summary: >-
+  Holds up Mustafa Kemal and his comrades as the model the Arabs lack, a commander who gathered a broken
+  nation and broke its chains.
+quote:
+  text: Ey Araplar! İçinizde mücadele ateşini tutuşturacak bir Mustafa Kemal yok mu?
+  language: tr
+caveat: >-
+  TRANSLATION ONLY, and a translation of a translation: the quoted line is Ali Benli's Turkish rendering
+  (darulfunun ilahiyat 32/1, 2021, p. 29; Divan n. 74, p. 83) of al-Ghalayini's Arabic; the Arabic verse was
+  not retrieved. Rendered: 'O Arabs! Is there not among you a Mustafa Kemal to kindle the fire of struggle?'
+  Poem in Dîvânu'l-Galâyînî (Haifa: al-Matba'a al-'Abbasiyya, 1924/1925; Benli gives both years), pp. 80-83,
+  written after his imprisonment by the French. Date 1924 is the Diwan's latest possible date, so the poem was
+  written at the latest by then; the exact year was not established. Check: the line is Benli's Turkish
+  rendering, not the Arabic; 1924 is an upper bound; the 'after his imprisonment' context is not in Benli.
+node: Poets, Reformers and the Black Press on Atatürk, 1921–1935
+sources:
+  - url: https://dergipark.org.tr/tr/download/article-file/1525913
+    archived: https://web.archive.org/web/20210717122842/https://dergipark.org.tr/tr/download/article-file/1525913
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    DergiPark article-file 1525913 (Benli, darulfunun ilahiyat 32/1, 2021), Turkish rendering and notes 71-74;
+    Arabic original not seen
+  method: DergiPark PDF download
+  note: >-
+    Turkish line 'Ey Araplar! İçinizde mücadele ateşini tutuşturacak bir Mustafa Kemal yok mu?' is verbatim on
+    article p.29 (between folios 28 and 29), as a translation by Benli; the Arabic was not retrieved, so it is
+    the translator's words, not the poet's. n.74 'Dîvân, 83' follows the preceding stanza ('Vatanımın
+    evlatları...'); the 'Ey Araplar' couplet carries no note of its own, so Diwan p.83 is approximate. Benli
+    does not date the poem; the Diwan is dated 21 July 1924 at Haifa (1924/1925 editions) so 1924 is only an
+    upper bound. The caveat statement 'written after his imprisonment by the French' is not in Benli's text as
+    read (it is inferred from the order in the Diwan, pp.72-83). Keep secondary-only; do not present the line
+    as his Arabic wording.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

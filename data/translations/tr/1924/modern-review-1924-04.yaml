@@ -1,0 +1,29 @@
+# Turkish for data/voices/1924/modern-review-1924-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: modern-review-1924-04
+voice: The Modern Review
+role: >-
+  Kalküta'da yayımlanan İngilizce aylık dergi (editör Ramananda Chatterjee), editoryal Notlar
+quote: O, Batılı tipte tepeden tırnağa bir milliyetçidir.
+quote_kind: translated
+summary: >-
+  Hilafetin kaldırılmasını tutarlı bir Batı tarzı milliyetçilik olarak okudu: Hint Müslümanları incinmiş olsa
+  da Türkiye bu makamı reddetme hakkına sahipti.
+caveat: >-
+  İmzasız Notlar; gayrimüslim bir editör ('If a non-Muslim may venture to express any opinion'). OCR
+  başlıklarına göre yaklaşık s. 508-510; iki OCR kopyası arasında bir sayfalık fark vardır.
+verification_note: >-
+  'He is a thorough-going nationalist of the Western type.' mevcut; 'If a non-Moslem may venture to express
+  any opinion' mevcut; hilafetin kaldırılmasına dair okuma destekleniyor. Not: IA kaydının üstverisi cilt
+  numarasını yanlış etiketlemiştir.
+verification_method: archive.org djvu metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 84251b4a21a5
+  role: 817d0e761017
+  quote: 8dc31aed2312
+  summary: 35533cc6acb4
+  caveat: 1b9ddaed53ca
+  verification_note: 138c6cdb80fe
+  verification_method: d18ffac52866

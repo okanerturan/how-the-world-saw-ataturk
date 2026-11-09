@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pilcher-1926
+voice: Mr Pilcher MP
+voice_type: person
+role: MP, Anglo-Iraq Treaty debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1926-02-18"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: speech
+evidence: P
+summary: >-
+  Argued Indian Muslims now knew Kemal's regime persecuted fez-wearers and Moslem prayer forms and that its
+  rulers were 'definitely librepenseurs and anti-Moslem'.
+quote:
+  text: >-
+    The Indian Moslem has discovered exactly the true nature of the Kemal Pasha régime in Angora.
+  language: en
+caveat: >-
+  First name and party not given in the Hansard text; identified from the API member name 'Mr. PILCHER' only.
+node: Westminster on the Turkish Dictator, 1924–1938
+sources:
+  - url: https://hansard.parliament.uk/Commons/1926-02-18/debates/0295f9ae-d72c-4f6c-a64a-9d801a389759/AngloIraqTreaty
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard.parliament.uk/Commons/1926-02-18/debates/0295f9ae-d72c-4f6c-a64a-9d801a389759
+    (contribution 731bf6a4-6bee-496f-91e9-c26f9059f6b0, Mr. PILCHER; 'librepenseurs' same speech)
+  method: api
+  checked_on: "2026-10-29"

@@ -1,0 +1,101 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+#
+# Template for a new voice record / Yeni ses kaydı için şablon
+#
+# Save it as data/voices/<YYYY>/<id>.yaml: <YYYY> is the year in `date`, <id> is the `id` below.
+# data/voices/<YYYY>/<id>.yaml olarak kaydedin: <YYYY> `date` alanındaki yıl, <id> aşağıdaki `id` değeridir.
+#
+# - Write only what the source says. / Yalnızca kaynağın söylediğini yazın.
+# - Text after # is a comment. To use an optional field, delete the "# " in front of each of its lines.
+#   # işaretinden sonrası açıklamadır. İsteğe bağlı bir alanı kullanmak için her satırının önündeki "# " işaretini silin.
+# - Long text goes on the lines under ">-", indented by two more spaces than the field name.
+#   Uzun metni ">-" işaretinin altındaki satırlara, alan adından iki boşluk daha içeriden yazın.
+# - Replace every <placeholder in angle brackets>. / Açılı ayraç içindeki her <yer tutucuyu> değiştirin.
+# - Keep the double quotes around dates. / Tarihlerin çevresindeki çift tırnakları silmeyin.
+# - Do not add a `verification` block. A maintainer adds it after someone else has re-opened the source.
+#   `verification` bloğu eklemeyin. Kaynağı başka biri yeniden açıp kontrol ettikten sonra bakımcı ekler.
+# - Every field is explained in data/README.md. / Her alan data/README.md dosyasında açıklanmıştır.
+# - Before a pull request / Çekme isteğinden önce: npm run validate
+
+# ---- Required / Zorunlu ----
+
+# file name without .yaml; lowercase letters, digits and hyphens; usually <name>-<year>
+# .yaml olmadan dosya adı; küçük harf, rakam ve tire; genellikle <ad>-<yıl>
+id:                # e.g. / örnek: lebrun-1938
+
+voice:             # as the source names them / kaynakta geçtiği gibi: "Albert Lebrun", "Aftonbladet"
+
+# person (kişi) | press (gazete, dergi) | institution (kurum: meclis, parti, bakanlık) | collective (adı olmayan topluluk)
+voice_type:
+
+role:              # short role / kısa görevi: "Hungarian PM", "Swedish daily"
+
+country:           # country at the time / o zamanki ülke: "British India"
+country_now:       # country today, same if unchanged / bugünkü ülke, değişmediyse aynısı: "India"
+
+# politics (siyaset) | letters (edebiyat) | arts (sanat) | military (askerlik) | religion (din)
+# science (bilim) | press (basın) | sport (spor) | diplomacy (diplomasi)
+domain:
+
+date: ""           # "YYYY", "YYYY-MM", "YYYY-MM-DD" or a decade / ya da on yıl: "1980s"
+
+# admiring (hayran) | hostile (düşmanca) | conflicted (çelişkili, ikisi birden)
+# instrumental (kendi amacına hizmet eden övgü) | witness (tanık: aktarıyor ya da katılıyor, görüş belirtmiyor)
+polarity:
+
+# Our neutral paraphrase of what they saw in him, in English, at most 25 words. Not their words.
+# Replace the line in < > with it, keeping the two spaces in front.
+# Onda ne gördüklerinin bizim yaptığımız tarafsız özeti, İngilizce, en çok 25 kelime. Onların sözleri değil.
+# < > içindeki satırı bununla değiştirin; baştaki iki boşluğu koruyun.
+summary: >-
+  <summary in English / İngilizce özet>
+
+# At least one. Each needs a url or a citation. / En az bir tane. Her birinde url ya da citation olmalı.
+sources:
+  - url:           # the page you read / okuduğunuz sayfa
+    # citation: "" # full citation when there is no link / bağlantı yoksa tam künye: "S. I. Aralov, Vospominaniya sovetskogo diplomata 1922–1923 (Moscow, 1960)"
+    # page: ""     # page(s) / sayfa: "34-35"
+    # archived:    # Wayback Machine copy / Wayback Machine kopyası: https://web.archive.org/web/...
+    # label: ""    # short name of the source / kaynağın kısa adı
+    # accessed: "" # the day you read it / okuduğunuz gün: "2026-11-10"
+
+# ---- Optional / İsteğe bağlı ----
+
+# Their own words, exactly as printed, in the original language. Mark left-out words with …
+# Kendi sözleri, basıldığı gibi, özgün dilinde. Atlanan kelimeleri … ile gösterin.
+# quote:
+#   text: >-
+#     <their words, exactly as printed / basıldığı gibi kendi sözleri>
+#   language:      # ISO 639-1 code / kodu: en, fr, de, tr, ar, ru …; "ota" = Ottoman Turkish in Arabic script / Arap harfli Osmanlıca
+#   translation: >- # English translation, if the text is not English / metin İngilizce değilse İngilizce çevirisi
+#     <English translation / İngilizce çeviri>
+#   note: ""       # editorial note on the passage / pasajla ilgili editoryal not
+#   is_translation: false # true only if the text is itself a translation and the original is not available / yalnızca metnin kendisi bir çeviriyse ve aslına ulaşılamıyorsa true
+
+# contemporary (to 9 Nov 1938 / 9 Kasım 1938'e kadar) | funeral (10 Nov - 31 Dec 1938 / 10 Kasım - 31 Aralık 1938) | posthumous (1939 -)
+# era:             # must agree with the date / tarihle uyuşmalı
+
+# 1 passing mention (geçerken anma) | 2 sustained: an article, a speech (bir makale, bir konuşma) | 3 life- or state-shaping (bir hayatı ya da devleti biçimlendiren)
+# intensity:       # a number, no quotes / sayı, tırnaksız: 2
+
+# what kind of document / belgenin türü:
+# quote | editorial | article | poem | book | speech | policy | visit | telegram | memoir | artwork | monument
+# ceremony | nomination | broadcast | report | letter | meeting
+# artifact:
+
+# kinds of source, joined with + / kaynak türleri, + ile birleştirilir:
+# P primary (birincil: kendi metni, dönemin basını) | S scholarship (akademik çalışma) | J journalism (gazetecilik)
+# F the figure's own later account (kişinin sonraki kendi anlatımı) | T reference work (başvuru eseri)
+# evidence:        # e.g. / örnek: P+S
+
+# what the speaker saw in him; leave it out if none fits / konuşanın onda gördüğü; hiçbiri uymuyorsa yazmayın
+# anti-colonial-liberator | secular-rationalist-prophet | volkisch-purifier | bourgeois-revolutionary
+# nation-forge-template | apostate | emancipator-patriarch | chivalrous-enemy | internal-mirror
+# modernization-poster-child   (meanings / anlamları: data/README.md)
+# mirror:
+
+# mediated_by: ""  # the chain, if second-hand / ikinci elden ise aktarım zinciri: "Toksoy 2006 ← Cumhuriyet 14 Nov 1938"
+
+# caveat: ""       # doubts: single source, inference, unclear attribution / çekinceler: tek kaynak, çıkarım, belirsiz atıf
+
+# node: ""         # title of the related note in vault/, if there is one / vault/ içindeki ilgili notun başlığı, varsa

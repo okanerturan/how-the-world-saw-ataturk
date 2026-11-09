@@ -1,0 +1,20 @@
+# Turkish for data/voices/1929/wedgwood-1929.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: wedgwood-1929
+voice: Milletvekili Albay Wedgwood
+role: Avam Kamarası üyesi, Filistinli kadınlar üzerine soru
+quote: Mustafa Kemal'in bunları Türkiye'ye getirmesi arzu edilir
+quote_kind: translated
+summary: >-
+  Kemal'in Batılı fikirleri Türkiye'ye getirmesini, bunların Filistin'e getirilmesi için model olarak gösterdi.
+caveat: Tek satırlık ek soru.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ef4a0cad9381
+  role: 8f3aff50338e
+  quote: 15a4476d775e
+  summary: ec8b4d40986b
+  caveat: 726715fc1a98
+  verification_method: a033a528b603

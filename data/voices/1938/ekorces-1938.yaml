@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ekorces-1938
+voice: Ekorces
+voice_type: press
+role: Korçë newspaper
+country: Albania
+country_now: Albania
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: S
+summary: >-
+  Ran his portrait on page one and a long life-and-work essay comparing Mustafa Kemal to Peter the Great;
+  Turkey a symbol of progress.
+quote:
+  text: >-
+    Turkey's name will remain in history as the symbol of progress, with its national hero's radiance; Albania
+    feels the grief of the Turkish nation.
+  language: en
+mediated_by: Toksoy 2010 ← Akşam 14 and 18 Nov 1938, Ulus 14 Nov 1938
+caveat: Titles as Toksoy prints them (Stipi may be Shtypi); Albanian originals not seen.
+node: Albanian Press, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt pp.197-198 (Ekorces, Peter the Great; Akşam 18 Nov)
+  method: local
+  note: Quote spans a page break; translated.
+  checked_on: "2026-10-29"

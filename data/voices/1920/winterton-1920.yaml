@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: winterton-1920
+voice: Earl Winterton MP
+voice_type: person
+role: Commons, Turks and Constantinople debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-02-26"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Treated Kemal as a threat to Constantinople that only its fortifications could stop, arguing against
+  dismantling them.
+quote:
+  text: >-
+    I do not know who is going to prevent Mustapha Pasha from attacking Constantinople unless there are
+    fortifications there to be used against him
+  language: en
+caveat: Passing; polarity read from context.
+node: Kemal in the Commons, Variant Spellings, 1920–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-02-26/debates/7dd9498b-3e40-4d22-a1d1-b06729365496/TurksAndConstantinople
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API contribution full text (Earl Winterton, Turks And Constantinople, 1920-02-26)
+  method: hansard-api direct; exact sentence found, speaker/date match
+  checked_on: "2026-10-30"

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: youngstown-slovak-1930
+voice: Youngstownské Slovenské Noviny
+voice_type: press
+role: Slovak-language newspaper, Youngstown, Ohio
+country: United States
+country_now: United States
+domain: press
+date: "1930-01-31"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: editorial
+evidence: P
+summary: >-
+  Item on Turkey banning child labour in mines: new Turkey has an excellent president in Kemal Pasha, unlike
+  the US South.
+quote:
+  text: Nové Turecko má výborného prezidenta v osobe Kemal pašu
+  language: sk
+caveat: Unsigned filler item; the contrast with the US South is the paper's comment.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn88078386/1930-01-31/ed-1/?sp=1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn88078386 1930-01-31 ed-1 (OCR, file 0489)
+  method: loc.gov JSON -> tile.loc.gov full_text OCR
+  note: Quote verbatim under 'TURECKO ZAKÁZALO DEŤOM PRACOVAŤ'; US South contrast present.
+  checked_on: "2026-10-30"

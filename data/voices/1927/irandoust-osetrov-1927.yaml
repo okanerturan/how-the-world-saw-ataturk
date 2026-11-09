@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: irandoust-osetrov-1927
+voice: Vladimir Osetrov ('Irandoust')
+voice_type: person
+role: Soviet historian of Turkey and Iran
+country: Soviet Union
+country_now: Russia
+domain: letters
+date: "1927"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Called Kemalism an authentic mass revolution with revolutionary and counter-revolutionary sides, dependent
+  on staying anti-imperialist.
+quote:
+  text: >-
+    the future of Kemalism depends on its anti-imperialistic character, otherwise the possible compromise with
+    imperialism would mean the crisis of Kemalism and its program.
+  language: en
+mediated_by: Ter-Matevosyan (2015 article/book) via blog extracts
+caveat: Relayed through a blog's extracts of Ter-Matevosyan; original party-press text not read.
+node: The Comintern's Verdict on Kemal, 1922–1928
+sources:
+  - url: https://democracyandclasstruggle.blogspot.com/2015/12/kemalism-and-communism-1920-30s-prelude.html
+    archived: https://web.archive.org/web/20260426205124/https://democracyandclasstruggle.blogspot.com/2015/12/kemalism-and-communism-1920-30s-prelude.html
+  - url: http://tandfonline.com/doi/full/10.1080/14683849.2015.1081071
+    archived: https://web.archive.org/web/20221211223829/http://tandfonline.com/doi/full/10.1080/14683849.2015.1081071
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://democracyandclasstruggle.blogspot.com/2015/12/kemalism-and-communism-1920-30s-prelude.html
+  method: fetch
+  note: >-
+    Quote verbatim in blog extract of Ter-Matevosyan; original 1927 party-press text and the tandfonline paper
+    not read.
+  checked_on: "2026-10-29"

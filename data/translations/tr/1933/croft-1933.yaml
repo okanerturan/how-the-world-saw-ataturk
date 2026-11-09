@@ -1,0 +1,19 @@
+# Turkish for data/voices/1933/croft-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: croft-1933
+voice: Sir H. Croft, Milletvekili
+role: Avam Kamarası üyesi, Hindistan Anayasa Reformu görüşmesi
+quote: Mustafa Kemal iki yılın sonunda bunlara son verdi.
+quote_kind: translated
+summary: >-
+  Kemal'in iki yılın ardından Türkiye'nin demokratik kurumlarına son vermesini, Asya'da demokrasiye ve
+  dolayısıyla Hindistan reformuna karşı kanıt olarak gösterdi.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2d0adf9c12db
+  role: "008584499504"
+  quote: b000a7b72e91
+  summary: 5c2f8c8f11b2
+  verification_method: a033a528b603

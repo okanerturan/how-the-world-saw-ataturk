@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/stockholms-tidningen-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: stockholms-tidningen-1938
+voice: Stockholms-Tidningen
+role: İsveç günlük gazetesi
+summary: >-
+  Onu yalnızca ülkesinin efendisi değil, devlet adamı olarak mükemmel bir teşkilatçı diye nitelendirdi.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Cumhuriyet (İsveç gazeteleri bölümü)
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 840c629639fb
+  role: 64409c633f80
+  summary: 12e62f1165b7
+  caveat: ecc719a2a575
+  mediated_by: 8bd77e33cab2
+  verification_method: 939bb46a04c3

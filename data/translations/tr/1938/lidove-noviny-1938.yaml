@@ -1,0 +1,25 @@
+# Turkish for data/voices/1938/lidove-noviny-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lidove-noviny-1938
+voice: Lidové noviny
+role: Çek günlük gazetesi
+quote: demir iradenin vücut bulmuş hâli
+quote_kind: translated
+summary: >-
+  Savaş sonrası dünyanın en değerli şahsiyetlerinden biri ve yapıcı bir vatansever; Türkiye'nin yeniden doğuşu
+  modern tarihin en büyük olaylarından biri.
+caveat: >-
+  Toksoy'daki gazete adları fonetik yazılmıştır; kimlik tespiti 'muhtemelen' şeklindedir; yabancı dildeki
+  asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Cumhuriyet 14 ve 16 Kasım 1938, Ulus 15 Kasım, Ayın Tarihi Kasım 1938
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6deaf2e88802
+  role: 43d2e5814e98
+  quote: 11e22f5b1c1c
+  summary: 607b6aaca48a
+  caveat: 01e06cd8e0c3
+  mediated_by: a785c4953be0
+  verification_method: 939bb46a04c3

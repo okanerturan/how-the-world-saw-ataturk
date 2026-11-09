@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: stipi-1938
+voice: Stipi
+voice_type: press
+role: Albanian newspaper
+country: Albania
+country_now: Albania
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: S
+summary: >-
+  A veritable saviour of his nation to the last minute, who changed the country's face and drew a modern state
+  out of the old Turkey.
+quote:
+  text: the Turkish nation owes its material and moral welfare to him
+  language: en
+mediated_by: Toksoy 2010 ← Akşam 14 and 18 Nov 1938, Ulus 14 Nov 1938
+caveat: Titles as Toksoy prints them (Stipi may be Shtypi); Albanian originals not seen.
+node: Albanian Press, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: sources/toksoy-2010-balkan-mideast-press.txt (Arnavut/Stipi gazetesi, fn.91)
+  method: local
+  checked_on: "2026-10-29"

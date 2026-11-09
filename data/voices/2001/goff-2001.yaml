@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: goff-2001
+voice: Phil Goff
+voice_type: person
+role: New Zealand Minister of Foreign Affairs and Trade (1999–2005)
+country: New Zealand
+country_now: New Zealand
+domain: politics
+date: "2001-04-25"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  Calls Atatürk the 'gallant Turkish commander' and founder of the Republic whose generous words are the
+  foundation of NZ–Turkey friendship.
+quote:
+  text: >-
+    It was Mustafa Kemal Ataturk, the gallant Turkish commander, and later the founder of the Turkish
+    Republic, who said that the fallen rest in the soil of a friendly country.
+  language: en
+caveat: >-
+  Government delegation leader, not prime minister. Goff later became Labour leader and High Commissioner to
+  the UK. The 'Johnnies and Mehmets' / 'your sons are now lying in our bosom' text that Anzac speakers
+  attribute to Atatürk is itself contested: no 1934 original has been found, it first appears in print in 1953
+  via Interior Minister Şükrü Kaya's recollection, and the 'Johnnies and Mehmets' clause is a 1978 Australian
+  addition (see [[Johnnies and Mehmets]]). So this is a speaker's view of the Atatürk of the Anzac legend,
+  spoken at a commemorative or diplomatic occasion that rewards praise. Cited as: ANZAC Dawn Service speech,
+  Gallipoli, 25 April 2001.
+node: Anzac Day Leaders on Atatürk, 1990–2024 — Australian and New Zealand Speeches
+sources:
+  - url: https://www.beehive.govt.nz/node/10329
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Beehive page via tools/ms fetch (direct curl blocked by Incapsula)
+  method: >-
+    fetched source fresh, normalised-text match of the quote; speaker, date and title read from metadata/byline
+  note: >-
+    Verbatim on the Beehive page 'ANZAC Dawn Service speech - Gallipoli' dated 25 April 2001, byline Phil
+    Goff, Foreign Affairs and Trade. Own words 'gallant Turkish commander', 'His generous words were the
+    foundation for the warm friendship'. Role correct (Foreign Minister, not PM).
+  checked_on: "2026-11-03"

@@ -1,0 +1,19 @@
+# Turkish for data/voices/1938/mir-yakub-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mir-yakub-1938
+voice: Mir Yakub / Azerbaycan Milli Komitesi
+role: Azerbaycanlı sürgün komitesi, Paris
+quote: yabancı egemenliği altında inleyen Azerbaycan
+quote_kind: translated
+summary: Yabancı egemenliği altında inleyen Azerbaycan'ın da yas tuttuğunu ekledi.
+verification_note: Türkçe aslının İngilizce çevirisi; notta çeviri olduğu belirtiliyor.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0a8b9074bb32
+  role: 887cb8d5a922
+  quote: b19e161c7c38
+  summary: 2abbbd40de9e
+  verification_note: a44de8981ffa
+  verification_method: 939bb46a04c3

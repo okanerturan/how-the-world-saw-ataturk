@@ -1,0 +1,35 @@
+# Turkish for data/voices/1992/mitterrand-1992-04-13.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mitterrand-1992-04-13
+voice: François Mitterrand
+role: Fransa Cumhurbaşkanı; Çankaya Köşkü'ndeki resmî akşam yemeği
+quote: >-
+  Türkiye'nin, on sekizinci yüzyılın sonlarında başlayan ve bizimkinin başında Atatürk'ün en yiğit başaktörü
+  olduğu, kendisini yeniden ilerleme akımının içine yerleştirme çabası
+quote_kind: translated
+summary: >-
+  Türkiye'yi Avrupa alanı içinde konumlandırır ve Atatürk'ü, Türkiye'nin ilerleme akımına yeniden katılma
+  yönündeki uzun çabasının en yiğit başaktörü olarak adlandırır.
+caveat: >-
+  ALINTI ÇEVİRİDİR (derleme tarafından yapılmıştır). Fransızca özgün metin, vie-publique.fr: "l'effort de la
+  Turquie pour se replacer dans le courant du progrès, qui débuta dès la fin du dix-huitième siècle, et dont
+  Ataturk fut, au début du nôtre, le plus valeureux protagoniste, s'est poursuivi sans relâche." Avrupa ile
+  ilişkilerin gergin olduğu bir dönemde, Türkiye'nin 'relève de l'espace européen' olduğunu savunmak üzere
+  söylenmiştir.
+verification_note: >-
+  Fransızca özgün metin kayıtla birebir örtüşüyor ('l'effort de la Turquie pour se replacer dans le courant du
+  progres, qui debuta des la fin du dix-huitieme siecle, et dont Ataturk fut, au debut du notre, le plus
+  valeureux protagoniste'). Çeviri sadık ve çeviri olarak işaretlenmiş; 'des' (18. yüzyılın sonlarından
+  itibaren) sözcüğünü kabul edilebilir biçimde dışarıda bırakıyor. 'la Turquie releve de l'espace europeen'
+  bağlamı doğru. Araçsal/1 değerlendirmesi yerinde.
+verification_method: fetch ile çekim
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7fa33b006a32
+  role: 4976652f918d
+  quote: 29354b17f8ed
+  summary: e816d3c3cd80
+  caveat: f4ef345bf2d4
+  verification_note: 910af72ee244
+  verification_method: ad8cee67138e

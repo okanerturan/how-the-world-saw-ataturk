@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sadat-1978
+voice: Anwar Sadat
+voice_type: person
+role: President of Egypt; memoir of his boyhood and Military Academy years (1930s)
+country: Egypt (memoir 1978)
+country_now: Egypt
+domain: politics
+date: "1978"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: memoir
+evidence: P
+summary: >-
+  Recalled that Atatürk remained his ideal at the military academy, where he began reading books on the
+  Turkish Revolution.
+quote:
+  text: >-
+    At the academy, Ataturk continued to be my ideal. I started to read books on the Turkish Revolution
+  language: en
+mediated_by: >-
+  Read through search-engine text snippets of three online copies (slideshare, dokumen.pub, vdoc.pub); the
+  printed book (Harper & Row 1978) was not opened and the page of this passage is not known
+caveat: >-
+  Memoir written 1975-77, so the admiration is retrospective, and Sadat wrote it as president after breaking
+  with Nasser's legacy. The earlier Zahran passage (about p. 12) says there was a photograph of Atatürk in the
+  family's Cairo house, that his father called him 'a great man', and that 'Kemal Atatürk was idealized in the
+  Islamic world; his name was familiar as a leader who wanted to liberate and rebuild his country.' Sadat also
+  names H. C. Armstrong's The Gray Wolf as the book he was absorbed in on arriving at the War Ministry. Time
+  (20 Mar 1978) says the same at second hand. Snippets are OCR (the name prints as 'Atatiirk' in some);
+  intensity 3 on the strength of the career-long ideal he describes, not on page-checked text. The 'photograph
+  of Atatürk in the family home' detail is unverified and not part of this record.
+node: Postwar and Third World Leaders on Atatürk in Their Own Words
+sources:
+  - url: https://vdoc.pub/documents/in-search-of-identity-55mp0n3fjru0
+  - url: https://slideshare.net/slideshow/in-search-of-identity-by-president-sadat/281066621
+    archived: https://web.archive.org/web/20250905135749/https://www.slideshare.net/slideshow/in-search-of-identity-by-president-sadat/281066621
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Sadat, In Search of Identity (Harper & Row 1978): search-engine text of the vdoc.pub, dokumen.pub and
+    slideshare copies (the copyright page text 'FIRST EDITION ... Sadat, Anwar, 1918- In search of identity
+    ... 1978' appears in the same snippets). Direct fetches blocked (vdoc parked, slideshare client challenge,
+    dokumen bot_blocked); archive.org copies are lending-only.
+  method: >-
+    one ms search whose snippets reproduce the book text; attempted free fetches of all three copies
+  note: >-
+    The quoted words are in the real book text: 'At the academy, Ataturk continued to be my ideal. I started
+    to read books on the Turkish Revolution, and the history of Egypt, but no further back than the French
+    expedition to Egypt.' (appears in the chapter after Sadat's admission to the Military Academy). So the
+    quote is genuine, not misattributed. Not verified: the page number, and the what_they_saw clause 'Recalls
+    a photograph of Atatuerk in the family home' (the Zahran/photograph passage was not reached; a targeted
+    search returned nothing). CORRECTION: either delete the photograph clause from what_they_saw or hedge it
+    until read; keep intensity 3 only if the photograph/'great man' passage is read, otherwise 2; page stays
+    unknown, mark 'chapter on the academy years, page not seen'.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 13)
+  checked_on: "2026-11-01"

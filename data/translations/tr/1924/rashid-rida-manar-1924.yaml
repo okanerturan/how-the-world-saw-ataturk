@@ -1,0 +1,28 @@
+# Turkish for data/voices/1924/rashid-rida-manar-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rashid-rida-manar-1924
+voice: Rashid Rida
+role: Selefi ilahiyatçı; al-Manar editörü
+quote: >-
+  gerçekten de diyorum ki, ister memnun olsun ister öfkelensin, İslam dünyasını umursamaz hale geldiler
+quote_kind: translated
+summary: >-
+  Kaldırma kararının savunucuları arasında Mustafa Kemal ve partisi de yer alır; Kemalistler artık Müslüman
+  dünyasının memnun mu yoksa öfkeli mi olduğunu umursamamaktadır.
+caveat: >-
+  4. bölüm tarihi çıkarımla belirlenmiştir (Mart 1924 sonrası). Alıntı, notta basılı olan Arapça özgün metnin
+  not yazarı tarafından yapılan İngilizce çevirisidir.
+verification_note: >-
+  Arapça 'بل أقول إنهم أصبحوا لا يبالون بالعالم الإسلامي رضي أم سخط' ifadesi mevcut; İngilizce çeviri sadık.
+  Aynı sayfada 'مصطفى كمال وحزبه' ifadesi yer alıyor. 4. bölüm tarihi çıkarıma dayalıdır, kontrol edilmedi.
+verification_method: PDF indirildi, sayfa görüntüsü oluşturuldu ve Arapça metin okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8500544dcf5c
+  role: bb8d03d914df
+  quote: 02e5ceaf6424
+  summary: e321b2cb0c15
+  caveat: 22e6187c3568
+  verification_note: 232af25da55b
+  verification_method: 53856b150f76

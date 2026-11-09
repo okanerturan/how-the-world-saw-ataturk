@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bourguiba-1965
+voice: Habib Bourguiba
+voice_type: person
+role: President of Tunisia
+country: Tunisia
+country_now: Tunisia
+domain: politics
+date: "1965-03-25"
+era: posthumous
+polarity: conflicted
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Calls Sakarya Atatürk's miracle and Mustafa Kemal the model hero, yet explains Arab reserve by Atatürk's
+  stance toward religion.
+quote:
+  text: Sakarya Harbi, Sakarya Zaferi, 20 yaşımın en kuvvetli hâtırası olmuştur.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 43 (printed p. 32). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "The Battle of Sakarya, the Victory of Sakarya, became the strongest memory of my
+  twentieth year." Same speech: 'Sizin Kemalist ihtilâliniz ise, bizlere maya oldu' (PDF p. 48, 'your Kemalist
+  revolution became leaven for us'), and on PDF p. 44 the Arab hesitation is traced to 'bu liderin din ve din
+  müessesesine karşı takındığı tavırlar' (this leader's stance toward religion and religious institutions),
+  with Bourguiba dissenting from the 'very radical judgments'. Heading: 'Tunus Cumhurbaşkanı Habib Burgiba',
+  25 Mart 1965. Existing person note covers his later Kemalist programme. Checker's note: Bourguiba distances
+  himself from the 'radical judgments' on Atatürk and religion; the critical passage explains Arab reserve
+  rather than stating his own verdict.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 43 (printed p. 32); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c43.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Tunus Cumhurbaşkanı Habib Burgiba, 81.
+    Birleşim, 25 Mart 1965 (heading on PDF p. 42)'). Cited paraphrase support also verified: 'Atatürk'ün
+    mucizesi' and 'Mustafa Kemal ... bir kahramanın tam örneği' on p. 43; the Arab reserve traced to 'bu
+    liderin din ve din müessesesine karşı takındığı tavırlar' and Bourguiba's dissent from the 'çok radikal
+    yargılar' on PDF p. 44. 'conflicted' is defensible but Bourguiba himself dissents from the harsh judgment,
+    so the critical note is an explanation of Arab reserve, not clearly his own verdict. Probably spoken in
+    French; book prints Turkish; original not looked for.
+  checked_on: "2026-11-01"

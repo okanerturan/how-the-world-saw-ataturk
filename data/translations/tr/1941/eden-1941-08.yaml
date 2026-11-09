@@ -1,0 +1,35 @@
+# Turkish for data/voices/1941/eden-1941-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: eden-1941-08
+voice: Anthony Eden
+role: Britanya Dışişleri Bakanı
+quote: >-
+  O dünyada, Atatürk'ün dehasıyla yeniden yaratılan Türkiye'nin oynayacağı soylu bir rol olacaktır ve Türkiye
+  bunu yaparken kendi rotasını belirleyecek ve çalışma ortaklarını kendisi seçecektir.
+quote_kind: translated
+summary: >-
+  Dışişleri Bakanı, Avam Kamarası'na savaş sonrası dünyada 'Atatürk'ün dehasıyla yeniden yaratılan Türkiye'ye
+  soylu bir rol düşeceğini söyler.
+caveat: >-
+  Orders of the Day — War Situation, HC Deb 6 Ağustos 1941, c2039. Resmi Hansard tutanaklarının
+  TheyWorkForYou'daki dökümü. Türkiye'ye, Britanya'nın onun çıkarlarını pazarlık konusu yapmayacağı yönünde
+  güvence veren konuşma; övgü, diplomatik bir ortamda Atatürk'ün yeniden yarattığı ('re-created') devlete
+  yöneliktir. Kontrol: alıntı c2041'de yer almaktadır (historic-hansard); TWFY konuşmanın başladığı sütunu
+  verir.
+verification_note: >-
+  Birebir aynı, konuşmacı Eden (g2039.1, HC Deb 6 Ağustos 1941). Sütun düzeltmesi: cümle c2041'dedir (konuşma
+  c2039'da başlar). Kendi görüşü ('re-created by the genius of Ataturk'); hayranlık 2 değerlendirmesi
+  yerindedir.
+verification_method: >-
+  sayfa çekildi, bağlantılı konuşma bloğu (konuşmacı, tarih, kimlik) içinde alıntının normalleştirilmiş metin
+  eşleşmesi yapıldı; sütun numarası historic-hansard sütun işaretlerinden tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7e560b785d5d
+  role: "3380230e2801"
+  quote: 2dc78349cfbf
+  summary: 4de391fea050
+  caveat: 8d2015deb008
+  verification_note: 44290dff5a63
+  verification_method: 59db5bce95bc

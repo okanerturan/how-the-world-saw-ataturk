@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/strabolgi-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: strabolgi-1938
+voice: Lord Strabolgi
+role: İşçi Partili Lordlar Kamarası üyesi
+quote: >-
+  Türklerin Lideri Atatürk'ü, ya da eskiden bilindiği adıyla Mustafa Kemal'i tanıyan herkes, bir devlet adamı
+  olmasının yanı sıra bir asker ve halkının Lideri ve gençleştiricisi olarak onun büyük niteliklerine
+  hayranlık duyar
+quote_kind: translated
+summary: >-
+  Onu tanıyan herkes; asker, devlet adamı ve halkının lideri ve gençleştiricisi olarak niteliklerine hayranlık
+  duyar.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2cf11b507e83
+  role: 569e24a2f44c
+  quote: 6528f090cb69
+  summary: 52f81ddea177
+  verification_method: ad8cee67138e

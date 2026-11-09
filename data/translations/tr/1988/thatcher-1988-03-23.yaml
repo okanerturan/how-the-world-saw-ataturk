@@ -1,0 +1,29 @@
+# Turkish for data/voices/1988/thatcher-1988-03-23.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: thatcher-1988-03-23
+voice: Margaret Thatcher
+role: Başbakan, Türk televizyonuna mülakat (Ali Birand)
+quote: hepimiz Atatürk'e muazzam bir hayranlık duyuyorduk
+quote_kind: translated
+summary: >-
+  Ziyareti öncesinde Türkiye tarihini yeniden okurken, 'hepimizin' Atatürk'e muazzam bir hayranlık duyduğunu
+  söyler.
+caveat: >-
+  4 Nisan 1988'e kadar ambargolu COI dökümü; NATO ve Süleyman sergisi hakkındaki bir yanıtın içinde yer alan
+  tek bir cümle. Mülakatı yapan kişi Türk'tü; yanıt diplomatik niteliktedir.
+verification_note: >-
+  Birebir şöyledir: 'I look back at Turkey's history - I have been re-reading it - we all had the tremendous
+  admiration for Ataturk, I have just been to the Suliman exhibition, and it is the future I am thinking of.'
+  Gazeteci Ali Birand, Türk televizyonu, doğrulandı. Hayranlık yönündeki kutupluluk ve yoğunluk 1 yerindedir.
+  Düzeltme gerekmez.
+verification_method: belge sayfasının tools/ms ile ücretsiz çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bc13e3df7331
+  role: 6c56dd483d77
+  quote: cba5988b1009
+  summary: 982006fe0b44
+  caveat: 3febe9e18da1
+  verification_note: fb9906873309
+  verification_method: a95a03008cc4

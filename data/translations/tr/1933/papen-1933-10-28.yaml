@@ -1,0 +1,38 @@
+# Turkish for data/voices/1933/papen-1933-10-28.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: papen-1933-10-28
+voice: Franz von Papen
+role: Almanya Şansölye Yardımcısı, Cumhuriyet'in onuncu yıl dönümü telgrafı
+quote: Bununla Ekselansları nice başka halka bir örnek sunmuştur.
+quote_kind: translated
+summary: >-
+  Mustafa Kemal'in Türkiye'sini başka halklar için bir model olarak nitelendirdi: tıpkı şimdi Almanya'nın
+  olduğu gibi, düzen, disiplin ve Führer'e koşulsuz bağlılık yoluyla yeniden doğmuştu.
+caveat: >-
+  Kutlama telgrafı: övgü aynı zamanda diplomasidir. Ajans metni dört gazetenin ayrı OCR taramalarından
+  okunmuştur; alıntı hepsinde birebir aynıdır.
+mediated_by: >-
+  Ajans metni (WTB, Berlin 28 Ekim 1933), 30-31 Ekim 1933'te Süddeutsche Zeitung, Kölnische Zeitung,
+  Schwäbischer Merkur, Münsterländische Volkszeitung'da basıldı
+verification_note: >-
+  Alıntı her dördünde de birebir aynıdır ('Damit haben Ew. Exzellenz manch anderem Volke ein Vorbild
+  gegeben'); Muensterlaendische WTB mahrecini 'Berlin, 28. Oktober' olarak basar (seçme parça),
+  Sueddeutsche'de 'Berlin, 29. Oktober' ve Schwaebischer Merkur'da 'Berlin 30. Okt.' yer alır; dolayısıyla
+  kaydedildiği gibi en erken ajans tarihi 28 Ekim'dir. HAKKANİYET NOTU: telgraftaki övgü Führer ilkesi
+  çerçevesinde kurulmuştur ('die Regeneration einer Nation nur durchfuehrbar war in einem System der Ordnung,
+  der Disziplin und der unbedingten Gefolgschaft an den Fuehrer'); what_they_saw bunu dışarıda bırakmaktadır
+  ve okur bunun eklenmesini isteyebilir.
+verification_method: >-
+  Deutsche Digitale Bibliothek gazete Solr (plainpagefulltext), tam sayfa OCR, doğrudan çekildi; her
+  dördündeki sayfa metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2359424df483
+  role: 6200c861a819
+  quote: 109fb0ce6345
+  summary: e9aa061340cc
+  caveat: 34271d4ec025
+  mediated_by: 0acd67c9dc6d
+  verification_note: 5f2e7e2a9f3c
+  verification_method: 896fe69c59cb

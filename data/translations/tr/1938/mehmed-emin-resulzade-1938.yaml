@@ -1,0 +1,19 @@
+# Turkish for data/voices/1938/mehmed-emin-resulzade-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mehmed-emin-resulzade-1938
+voice: Mehmed Emin Resulzade
+role: 1918 Azerbaycan Cumhuriyeti'nin kurucusu; sürgündeki gazeteci-yazar
+summary: >-
+  Kurtuluşu bağımsız devlet olmakta görme payesini ona verdi; Kemalizmi pozitivizm olarak okudu; İnönü'nün
+  anında halef olmasını makinenin saat gibi işlediğinin kanıtı saydı.
+caveat: >-
+  Rusça yeniden yazım Ankara-Moskova içeriği eklemektedir; Türkiye'den ayrılışı (1931 civarı) tartışmalıdır.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8499c691206b
+  role: af8970c93cca
+  summary: 76e09d378c62
+  caveat: bf23198849de
+  verification_method: ad8cee67138e

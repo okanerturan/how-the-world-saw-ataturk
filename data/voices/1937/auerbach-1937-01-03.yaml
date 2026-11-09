@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: auerbach-1937-01-03
+voice: Erich Auerbach
+voice_type: person
+role: German Romance philologist, professor at Istanbul University (author of Mimesis)
+country: Turkey (German exile)
+country_now: Turkey
+domain: letters
+date: "1937-01-03"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: letter
+evidence: P
+summary: >-
+  Called Atatürk a likeable, clever autocrat who truly made the country a state, but his result a fanatical
+  anti-traditional nationalism destroying national character.
+quote:
+  text: >-
+    The “grand chef” is a sympathetic autocrat, smart, grand, and imaginative, completely different from his
+    European counterparts because he has actually himself turned this country into a state and because he is
+    absolutely without eloquence.
+  translation: Elsky, Vialon and Stein, PMLA 2007
+  language: en
+mediated_by: >-
+  We Refugees Archive edition ← Barck, Zeitschrift für Germanistik 9:6 (1988) pp. 691–692; English: PMLA 122:3
+  (2007) pp. 750–751
+caveat: >-
+  Private letter to Walter Benjamin, Istanbul-Bebek, 3 Jan 1937. German original: 'Der grand chef ist ein
+  sympathischer Autokrat, klug, großzügig und witzig, vollkommen verschieden von seinen europäischen Kollegen
+  ... und das Resultat ist ein fanatischer antitraditioneller Nationalismus.' The PMLA translation renders
+  'witzig' as 'imaginative' and 'phrasenlos' as 'without eloquence'. Not a meeting: Auerbach was an employee
+  of Kemal's university reform, not a personal contact.
+node: Writers, Scientists and Artists in Contact with Kemal, 1919–1938
+sources:
+  - url: https://en.we-refugees-archive.org/archive/erich-auerbach-to-walter-benjamin-istanbul-paris-1937/
+    archived: https://web.archive.org/web/20260715042842/https://en.we-refugees-archive.org/archive/erich-auerbach-to-walter-benjamin-istanbul-paris-1937/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://en.we-refugees-archive.org/archive/erich-auerbach-to-walter-benjamin-istanbul-paris-1937/ (German
+    text and English; cites Barck, Zeitschrift für Germanistik 9:6 (1988) 688–694 at 691–692;
+    Elsky/Vialon/Stein, PMLA 122:3 (2007) 742–762 at 750–751)
+  method: curl
+  note: >-
+    English quote verbatim (PMLA translation, curly quotes around 'grand chef' as on the page). The German in
+    the caveat matches the original ('Der grand chef ist ein sympathischer Autokrat, klug, großzügig und
+    witzig, vollkommen verschieden von seinen europäischen Kollegen'; '... und das Resultat ist ein
+    fanatischer antitraditioneller Nationalismus'); 'Nationalismus im Superlativ bei gleichzeitiger Zerstörung
+    des geschichtlichen Nationalcharakters' supports the last clause of what_they_saw. Heading
+    'Istanbul-Bebek, 3. Januar 1937' matches. Conflicted is right; P is fair for a published edition of the
+    letter. Gaze test passes strongly. No correction.
+  checked_on: "2026-11-05"

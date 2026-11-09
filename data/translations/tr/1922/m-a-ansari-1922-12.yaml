@@ -1,0 +1,29 @@
+# Turkish for data/voices/1922/m-a-ansari-1922-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: m-a-ansari-1922-12
+voice: M. A. Ansari
+role: Kongre ve Hilafet lideri, Gaya'daki Hilafet Konferansı başkanı
+quote: Kemalistlerin dini emirlere uyacağından emindi
+quote_kind: translated
+summary: >-
+  Ankara'nın saltanatı hilafetten ayırdığına dair haberlerden kuşku duydu, Kemalistlerin dini kurallara
+  uyacağına güvendi ve Türkler hata yaparsa düzeltilmesi için baskı yapacağını söyledi.
+caveat: >-
+  Modern Review'un haberinde dolaylı anlatım; saltanatın kaldırılmasından (Kasım 1922) haftalar sonra ve
+  hilafetin kaldırılmasından önce yapılmış konuşma. Sayfa yakl. 182.
+mediated_by: Modern Review, Ocak 1923 (başkanlık konuşmasının dolaylı aktarımı)
+verification_note: >-
+  Birebir 'He was sure that the Kemalists would obey the religious injunctions'; ayrıca saltanat/hilafet
+  ayrılığı haberlerine inanmama ve 'would do their best to get it rectified' ifadesi mevcut.
+verification_method: archive.org 1923_v33_djvu.txt dosyasında grep araması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 426a01dc0bc7
+  role: 8622a9c1f31b
+  quote: 5beb4d41c727
+  summary: 8e9858bef7bb
+  caveat: 815e53b07572
+  mediated_by: 96f3b90da3ae
+  verification_note: "095597691e93"
+  verification_method: 78a6d19be26a

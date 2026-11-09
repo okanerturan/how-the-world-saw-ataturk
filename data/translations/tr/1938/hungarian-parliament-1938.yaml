@@ -1,0 +1,16 @@
+# Turkish for data/voices/1938/hungarian-parliament-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hungarian-parliament-1938
+voice: Macaristan Parlamentosu (her iki meclis)
+role: Macaristan yasama organı
+summary: Her iki meclis de oturumlarını Atatürk'ü anarak açtı.
+mediated_by: Toksoy 2010
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 326bf280156c
+  role: 7a304da58d4f
+  summary: c55184d78aa7
+  mediated_by: 8e937858d7c4
+  verification_method: 939bb46a04c3

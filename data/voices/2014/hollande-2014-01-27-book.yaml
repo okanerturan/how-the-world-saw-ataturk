@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hollande-2014-01-27-book
+voice: François Hollande
+voice_type: person
+role: President of France; entry in the Anıtkabir special book
+country: France
+country_now: France
+domain: politics
+date: "2014-01-27"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  Addresses the statesman who, after great suffering, built modern Turkey and revived friendship with France.
+quote:
+  text: >-
+    Büyük acılar sonrası modern Türkiye'yi kurmayı ve Fransa ile dostluğu tekrar canlandırmayı başaran devlet
+    adamına
+  is_translation: true
+  language: tr
+mediated_by: AA, Hürriyet, Sözcü, Dünya and Sondakika, 27 Jan 2014 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of an entry written in English (French). The line is an address ('to the statesman who
+  ...') and does not name Atatürk in the printed text; the context is the first state visit by a French
+  president in 22 years. AA, Hürriyet, Sözcü, Dünya, Sondakika and Patronlar Dünyası print the same sentence
+  (one AA wire).
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.aa.com.tr/tr/turkiye/hollande-turkiyede/187515
+  - url: https://www.hurriyet.com.tr/dunya/hollandein-tarihi-ziyareti-basladi-25663527
+  - url: https://www.sozcu.com.tr/hollande-bugun-turkiyede-wp447749
+  - url: https://www.dunya.com/gundem/22-yil-sonra-ilk-ziyaret-haberi-235918
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    AA 27 Jan 2014 13:21; Hürriyet 27 Jan 2014 12:01; Sözcü 27 Jan 2014 16:23; Dünya 27 Jan 2014 13:25
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used
+  note: >-
+    Quote verbatim in all four, same AA paragraph, date correct; one source. Quote is the whole reported
+    entry, an address that never names Atatürk; the French text was not found (one free search). Admiring is
+    fair; intensity 2 is generous for one dative phrase, 1 defensible.
+  checked_on: "2026-11-03"

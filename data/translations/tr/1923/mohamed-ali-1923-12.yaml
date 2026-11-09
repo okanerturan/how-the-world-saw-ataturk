@@ -1,0 +1,32 @@
+# Turkish for data/voices/1923/mohamed-ali-1923-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mohamed-ali-1923-12
+voice: Mohamed Ali Jauhar
+role: Hilafet Hareketi lideri, Cocanada'daki Hindistan Ulusal Kongresi başkanı
+quote: >-
+  bu trajik hikâyenin en sonuna kadar Gazi Mustafa Kemal Paşa'nın yolundaki başlıca engel bizzat Büyük
+  Britanya'nın kendisiydi
+quote_kind: translated
+summary: >-
+  Türkiye'nin davasını savunduğu başkanlık konuşmasında, Britanya'yı Lozan'da Gazi Mustafa Kemal Paşa'nın
+  yolundaki 'başlıca engel' olarak nitelendirdi.
+caveat: >-
+  Hilafetin kaldırılmasından üç ay önce, Cocanada oturumunda (başlık sayfası: 26 Aralık 1923'te düzenlendi)
+  sunuldu. Britanya karşıtı çerçeveleme: Kemal, konuşmacının asıl konusu değil, Britanya politikasının
+  mağdurudur.
+verification_note: >-
+  Alıntı birebir mevcut (OCR'da 'KemalPasha'). Ancak çekince notu tarihin OCR'da basılı olmadığını söylüyor;
+  başlık sayfasında 'Annual Session ... Cocanada, December, 26, 1923' yazılı ve bu, kayıttaki 2023-12-28
+  tarihiyle çelişiyor (tarihî oturum 28 Aralık'ta açıldı). Tarih alanı/çekince notu ihtiyatlı ifade
+  gerektiriyor; alıntı ve tutum yönü sorunsuz.
+verification_method: archive.org djvu metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b8b6d6c5b25a
+  role: f65a194e122c
+  quote: 632b2bbd80e7
+  summary: c8b93282f829
+  caveat: 325dc8896757
+  verification_note: 7222888cc3cf
+  verification_method: d18ffac52866

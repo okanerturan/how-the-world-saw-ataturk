@@ -1,0 +1,34 @@
+# Turkish for data/voices/2012/xi-jinping-2012-02-21.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: xi-jinping-2012-02-21
+voice: Xi Jinping
+role: >-
+  Çin Devlet Başkan Yardımcısı (sonradan en üst düzey lider); Anıtkabir özel defterindeki yazısı
+quote: Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk, sonsuza kadar yaşa
+quote_kind: original-turkish
+summary: >-
+  Çince tek satırlık selamlama: ayrıntıya girmeden, 'Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk,
+  sonsuza kadar yaşa'.
+caveat: >-
+  Çince bir kaydın Türkçe çevirisi (Hürriyet; A Haber 21 Şubat 2012'deki AA metni birebir aynı, aynı ajans
+  haberi). Çince özgün metne ulaşılamadı; 'sonsuza kadar yaşa', slogan biçimindeki 'wansui'/'long live'
+  ifadesinin Türkçe karşılığıdır. Xi ziyaret sırasında Devlet Başkan Yardımcısı ve müstakbel liderdi.
+mediated_by: Hürriyet ve AA/A Haber (kaydın Türkçe çevirisi)
+verification_note: >-
+  Her ikisinde de birebir aynı. AA metni (21 Şubat, Hürriyet'in 22 Şubat tarihli haberinde 'dün') ve
+  Hürriyet/DHA metni uyuşuyor, yani iki ajans var, ancak ikisi de Çince bir kaydın Türkçe çevirisidir; Çince
+  özgün metin bulunamadı. 21 Şubat tarihi doğrulandı. İçerik tek bir selamlamadan ('long live') ibaret;
+  yoğunluk 1 doğru ve bir yargıdan ziyade zayıf bir 'görüş' niteliğinde.
+verification_method: >-
+  Alıntılanan sayfanın tools/ms ile (ücretsiz) yeni çekimi, 3 Kasım 2026; bağımsız denetleyici
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b5dc8d742a82
+  role: 401c2f97637d
+  quote: 7f0627492769
+  summary: a28819e39ffb
+  caveat: 4d58c2ef03c9
+  mediated_by: 28e198b9359d
+  verification_note: 3d3db74ebe1f
+  verification_method: 7b5332a2caf8

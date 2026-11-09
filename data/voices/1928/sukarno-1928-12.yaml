@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sukarno-1928-12
+voice: Sukarno
+voice_type: person
+role: PNI chairman, nationalist writer
+country: Dutch East Indies
+country_now: Indonesia
+domain: politics
+date: "1928-12"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: emancipator-patriarch
+artifact: article
+evidence: P
+summary: >-
+  Appealed to Kemal as an authority that national freedom depends on how well women are educated, in an essay
+  for the women's congress.
+quote:
+  text: >-
+    Tidakkah Mustapha Kemal Pasha juga berkata, bahwa kita punya kemerdekaan, kebangsaan, kekuasaan
+  language: id
+caveat: >-
+  'Kongres Kaum Ibu', Suluh Indonesia Muda 1928, written for the Dec 1928 women's congress at Yogyakarta. The
+  attributed saying is not sourced by Sukarno. Archive.org leaf n124.
+node: Sukarno Reads Kemal, 1928–1940
+sources:
+  - url: https://archive.org/details/soekarno-dibawah-bendera-revolusi-1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA soekarno-dibawah-bendera-revolusi-1 djvu, 'Kongres Kaum Ibu'
+  method: djvu OCR text
+  note: >-
+    Verbatim (OCR 'baqus' for bagus); in essay for the Dec 1928 Yogyakarta women's congress; appeal to Kemal
+    as authority matches.
+  checked_on: "2026-10-29"

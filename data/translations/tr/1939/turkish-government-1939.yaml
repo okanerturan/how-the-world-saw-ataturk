@@ -1,0 +1,28 @@
+# Turkish for data/voices/1939/turkish-government-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: turkish-government-1939
+voice: Türk Hükümeti
+role: Ulusal hükümet
+summary: >-
+  İlk 10 Kasım için standart bir ulusal program (İçişleri Bakanlığı, 5 Kasım 1939) yayımladı: 9.05 sireni,
+  Atatürk'ün manevi huzurunda beş dakikalık sessizlik, hayatı üzerine bir konuşma ve şehrin Atatürk anıtına
+  bir çelenk konulması.
+caveat: >-
+  Siyah portreler ve matem marşı, Akça'nın çalışmasında ulusal programın maddeleri değil, Muğla yerel
+  uygulamasıdır (Halkevi bandosu; Halk gazetesi).
+mediated_by: Akça 2023 (1939–1949 Muğla törenleri üzerine çalışma)
+verification_note: >-
+  5 Kasım 1939 tarihli İçişleri Bakanlığı programı: 9.05 sireni, beş dakikalık sessizlik, anıta çelenk
+  doğrulandı. Matem marşı ve siyah resim, belirtildiği gibi ulusal programda olmayıp Muğla yerel uygulamasıdır
+  (Halkevi'nde bando; Halk gazetesinde siyah portre)
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3b5773f9ef78
+  role: 2f0200777a25
+  summary: a47afbe47aa8
+  caveat: cfdfc714f45c
+  mediated_by: db9006b66417
+  verification_note: ac38734ab932
+  verification_method: ad8cee67138e

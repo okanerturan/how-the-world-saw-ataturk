@@ -1,0 +1,27 @@
+# Turkish for data/voices/1929/la-opinion-1929-reformas.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-opinion-1929-reformas
+voice: La Opinión
+role: İspanyolca günlük gazete, Los Angeles (Meksikalı sürgün okur kitlesi)
+quote: onun yenilenmenin şampiyonu olduğu inkâr edilemez
+quote_kind: translated
+summary: >-
+  'Kemal Pasha ha obtenido sonado triunfo' başlıklı Ankara mahreçli haber: kaprisle ve bir diktatörün
+  kılıcıyla da olsa, gelenekçi bir ülkeyi modernleştiren, tasavvur edilebilecek en gözü pek yenilikçi.
+caveat: >-
+  Los Angeles'ta basılan, 27 Ocak tarihli imzasız Ankara mahreçli haber; manşetin OCR metni bozuktur ancak
+  alıntılanan cümle temizdir.
+verification_note: >-
+  'no cabe negarle que es el campeón de la renovación' mevcut, haber mahreci ANGORA Enero 27, başlık triunfo
+  ve gelenekçi bir ülkeyi modernleştirme hakkında; diktatörün kılıcı ifadesi kesitlerde yer alıyor.
+verification_method: curl aracılığıyla tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: aa204ec9f170
+  role: c99ff950fdf4
+  quote: f083c86241a3
+  summary: c6f33cee0ec3
+  caveat: 45c098ce5b2b
+  verification_note: 3e4b41247c8e
+  verification_method: 1635ac2d73d2

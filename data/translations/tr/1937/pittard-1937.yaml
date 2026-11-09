@@ -1,0 +1,47 @@
+# Turkish for data/voices/1937/pittard-1937.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pittard-1937
+voice: Eugène Pittard
+role: >-
+  Cenevreli antropolog ve profesör, 2. Türk Tarih Kongresi'ndeki yabancı bilim insanlarının sözcüsü
+quote: >-
+  Onun enerjisi, bizzat ülkenin kurucusunun, Cumhuriyet'in şanlı mimarının enerjisiyle el ele gidiyor. …
+  Burada toplanmış olan yabancı bilim insanları adına, bu Devletin en yüce başı olan Sayın Türkiye Cumhuriyeti
+  Cumhurbaşkanı'na saygı dolu hürmetlerimi sunuyorum.
+quote_kind: translated
+summary: >-
+  Cumhurbaşkanı'nın huzurunda yabancı bilim insanları adına konuşurken, Türk Tarih Kurumu'nun enerjisini
+  'ülkenin kurucusu' ve Cumhuriyet'in şanlı mimarının enerjisine denk diyerek över.
+caveat: >-
+  Yayımladığı metinleri seçip basan (ve bazı yazıları çeviren) Kemalist bir devlet propaganda yayın organı
+  olan Türk Basın Genel Müdürlüğü'nün (Direction Générale de la Presse, İçişleri Bakanlığı) resimli dergisi La
+  Turquie kémaliste'te yayımlanmıştır; archive.org'daki la_turquie_kemaliste kaydının OCR metninden
+  okunmuştur. 2. Türk Tarih Kongresi'ndeki konuşmasını yeniden yayımlayan 'Allocution de M. Eugène Pittard,
+  professeur à l'Université de Genève, au nom des savants étrangers', çift sayı 21-22'de (üstbilgi 'Décembre
+  1937') basılmıştır; aynı sayı kongrenin 20 Ekim 1937'de Dolmabahçe'de Atatürk'ün huzurunda açıldığını
+  belirtir; konuşmanın tam günü basılı olmadığından tarih yalnızca ay düzeyindedir. Alıntılanan satırlarda
+  Atatürk'ün adı geçmez: göndergeler 'le constructeur du pays' ve 'Monsieur le Président de la République',
+  yani orada hazır bulunan Atatürk'tür (sayının kendi haberi). Pittard ayrıca 36 yıldır tanıdığı bir Türk
+  çabasının 'témoin objectif — et non pas le thuriféraire' olduğunu söyler. Ev sahibine yönelik diplomatik bir
+  teşekkür konuşmasıdır: övgü kısmen merasim gereğidir. OCR'da sayfa numarası görünmemektedir. Kaynak
+  gösterimi: La Turquie kémaliste sayı 21-22 (Aralık 1937), 'Allocution de M. Eugène Pittard'.
+mediated_by: La Turquie kémaliste (Türk Basın Genel Müdürlüğü) çevirisi
+verification_note: >-
+  Her iki pasaj da birebir aynı. Gönderge açık: konuşma 'Monsieur le Président de la République' hitabıyla
+  açılıyor, aynı sayı kongrenin 20 Ekim 1937'de 'en présence d'Atatürk' açıldığını bildiriyor ve ikinci alıntı
+  'Monsieur le Président de la République Turque, chef suprême de cet Etat' makamına açık saygı sunumu; ancak
+  konuşmada Atatürk'ün adı hiç geçmiyor, bu yüzden çekince notunda belirtilmeli (zaten yapılmış). Nezaket
+  konuşması: 'araçsal' sınıflandırması da hayranlık kadar savunulabilir olurdu. 1937-10 tarihi kabul
+  edilebilir (açılış günündeki konuşma).
+verification_method: djvu metni çekildi, dizge eşleştirmesi, bağlam okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d92b0062ccfa
+  role: 1c1f46f807b1
+  quote: 2c06593f7b9f
+  summary: 3765437114cc
+  caveat: "092297176138"
+  mediated_by: 65f51b182fcd
+  verification_note: f785a816c26e
+  verification_method: 00eff14b97b9

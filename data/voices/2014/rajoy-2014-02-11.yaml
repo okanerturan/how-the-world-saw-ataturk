@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rajoy-2014-02-11
+voice: Mariano Rajoy
+voice_type: person
+role: Prime Minister of Spain; entry in the Anıtkabir special book
+country: Spain
+country_now: Spain
+domain: politics
+date: "2014-02-11"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: quote
+evidence: J+J
+summary: >-
+  Expresses his and the Spanish people's admiration and hopes Atatürk's example of achieving a united, modern
+  Turkey serves Spain as a reference.
+quote:
+  text: >-
+    Que su ejemplo por haber logrado una Turquía unida y moderna nos sirva de referencia para saber que, con
+    determinación, trabajo y tesón, es posible superar todo tipo de dificultades.
+  language: es
+mediated_by: EFE (via Antena 3, 11 Feb 2014) and La Razón, 12 Feb 2014
+caveat: >-
+  Entry in the Anıtkabir book of honour on the first day of the Spain–Turkey high-level meeting. EFE and La
+  Razón quote the same sentence (La Razón omits one comma) and both say he wrote of his 'admiración' and that
+  of the Spanish people. Habertürk (12 Feb 2014) reports Spanish press reading it against Catalan and Basque
+  separatism; that reading is the press's, not Rajoy's.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.antena3.com/noticias/economia/rajoy-viaja-turquia-buscar-nuevas-oportunidades-empresas-espanolas_20140211571f6cae4beb287a291b991a.html
+  - url: https://www.larazon.es/espana/honor-al-padre-de-los-turcos-AF5474406/
+  - url: https://www.haberturk.com/dunya/haber/920926-ispanyol-basbakanin-ataturk-hayranligi
+    archived: https://web.archive.org/web/20250715083030/https://www.haberturk.com/dunya/haber/920926-ispanyol-basbakanin-ataturk-hayranligi
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.antena3.com/... (EFE, 11 Feb 2014);
+    https://www.larazon.es/espana/honor-al-padre-de-los-turcos-AF5474406/ (La Razón, 12 Feb 2014)
+  method: curl
+  note: >-
+    Spanish sentence verbatim in both (EFE prints 'determinación,trabajo'; La Razón drops the comma after
+    'saber que'); both report his 'admiración' and that of the Spanish people. A book-of-honour entry, but
+    with a stated view (an example of achieving a united, modern Turkey), so it passes the gaze test. J+J
+    honest.
+  checked_on: "2026-11-05"

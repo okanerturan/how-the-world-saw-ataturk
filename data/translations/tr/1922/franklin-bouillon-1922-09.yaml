@@ -1,0 +1,40 @@
+# Turkish for data/voices/1922/franklin-bouillon-1922-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: franklin-bouillon-1922-09
+voice: Henry Franklin-Bouillon
+role: 1921 Ankara Antlaşması'nı imzalayan Fransız siyasetçi ve eski bakan
+quote: Telgraflaşmamız. karşılıklı dostluğumuz ve bu adamı tanımam beni umutlandırıyor
+quote_kind: translated
+summary: >-
+  Kemal'le görüşmeden önce, telgraflaşmalarının, dostluklarının ve bu adamı tanımasının kendisine umut
+  verdiğini, ancak tehlikelerin sürdüğünü söyler.
+caveat: >-
+  'Paris Acclaims Peace in Near East; Will Send Franklin-Bouillon by Fast Cruiser to Advise the Turks', New
+  York Times, 25 Eylül 1922 (24 Eylül tarihli Paris mahreçli haber) olarak kaynak gösterilmiştir. Tek kaynak
+  (J): yalnızca aramanın döndürdüğü arşiv kesiti olarak okunmuştur, makalenin kendisi ödeme duvarı
+  arkasındadır; alıntı Fransızca bir beyanatın NYT'deki İngilizce aktarımıdır ve 'telegrams' kelimesinden
+  sonraki OCR noktası kesitte basıldığı şekliyle korunmuştur. Kendi metni değil, bir beyanatın ajans/basın
+  haberidir. Diplomatik amaç (İtilaf şartlarını Kemal'e kabul ettirmek) metne rengini verir; tehlikelerin
+  sürdüğünü de ekler. Kontrol: kesit 'leads me to hope' ifadesinde kesilmektedir; 'every confidence in Kemal's
+  discretion and wisdom' muhabirin dolaylı aktarımıdır.
+mediated_by: New York Times 25 Eylül 1922 (İngilizce aktarımı)
+verification_note: >-
+  NYT kesitinde 'Our exchange of telegrams. our reciprocal friendship and my knowledge of the man leads me to
+  hope,' he said' sözleri yer alıyor (OCR noktası korunmuş). Ancak: (1) alıntı cümlenin ortasında kesiliyor;
+  (2) 'every confidence in Kemal's discretion and wisdom' onun kendi sözleri değil NYT muhabirinin dolaylı
+  aktarımı, buna rağmen what_they_saw bunu onun beyanı gibi sunuyor; (3) bir basın haberinde Fransızca bir
+  sözün İngilizce aktarımı. Tek J-kademeli, basından aktarılan beyan; gruptaki en zayıf kayıt. what_they_saw
+  önerisi: 'Kemal'le görüşmek üzere yola çıkmadan önce, tehlikelerin sürdüğünü kabul etmekle birlikte
+  telgraflaşmalarının, dostluklarının ve bu adamı tanımasının kendisine umut verdiğini söyler'.
+verification_method: tools/ms araması, dönen kesit okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f865a140681a
+  role: 015bb8e63df4
+  quote: 412df7228e30
+  summary: 98eeacded4b5
+  caveat: 2060ee367e41
+  mediated_by: 55a2a4766087
+  verification_note: c1024f39b304
+  verification_method: a217d5d2b741

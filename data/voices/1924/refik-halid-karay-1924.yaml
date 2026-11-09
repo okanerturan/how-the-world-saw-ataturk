@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: refik-halid-karay-1924
+voice: Refik Halid Karay
+voice_type: person
+role: Satirist, Damad Ferid cabinet's Director of Posts and Telegraphs in 1919, exiled 1922-1938
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1924"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: memoir
+evidence: P
+summary: >-
+  Recalling 1919, says the Istanbul officials trying to keep the government in hand against Kemal were people
+  of limited power and grasp.
+quote:
+  text: Mustafa Kemal Paşa'nın rakipleri bu kudrette, bu idrakte adamlardı!
+  language: tr
+caveat: >-
+  Turkish original; Minelbab İlelmihrab was first serialised in 1924 (per the edition's note) and published in
+  book form in 1964 with notes (the text here is the 2009 İnkılâp edition, which says so). Karay writes of
+  Istanbul in the weeks before the Sivas Congress, and the clause is about the Istanbul side, not a judgement
+  of Kemal. He was an Istanbul minister's official then, and a rival of Kemal in that sense; he was exiled by
+  the Ankara government in 1922 and allowed back in 1938. The OCR places the passage near folios 282-283; the
+  exact page is not certain. A passing view, kept at intensity 1. Dated at check: Minelbab İlelmihrab was
+  serialised in Akşam from early 1924 (telegram of 10.1.1924; 'Lübnan-3 Şubat 1924'); 1964 is the book edition
+  with later notes. Page 283.
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://archive.org/details/refik-halit-karay-bugu-nu-n-saraylisi
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    archive.org refik-halit-karay-bugu-nu-n-saraylisi, Minelbab İlelmihrab (İnkılâp ed.) djvu, folios 282-283;
+    pdf front matter
+  method: archive.org djvu download
+  note: >-
+    Quote verbatim: 'Mustafa Kemal Paşa'nın rakipleri bu kudrette, bu idrakte adamlardı!' It closes the
+    chapter on p.283 (next title '17') (folio 282 falls just before the sentence's page; footnotes precede the
+    folio, so the sentence is on p.283, not 'uncertain 282-283'). DATE/ERA WRONG: the text was written in
+    Lebanon and serialised in Akşam from early 1924 (telegram 10.1.1924 'Hatıratın mabadini yollayınız';
+    edition note: second serialisation 24 years after the first, in 1948; 'Lübnan-3 Şubat 1924'); 1964 is only
+    the book edition to which the author added footnotes marked as 1964 notes. Correction: date '1924', era
+    'contemporary', id 'refik-halid-karay-1924' (page 283). The passage is in the main text, not in a 1964
+    note. The wording is about the Istanbul officials, not about Kemal; polarity conflicted is generous but
+    acceptable.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

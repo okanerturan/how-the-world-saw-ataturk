@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rauf-orbay-tbmm-1922
+voice: Rauf Orbay
+voice_type: person
+role: Prime Minister (Heyeti Vekile Reisi), Ankara government
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1922-09-18"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  As prime minister told a closed session the cabinet must consult the Commander-in-Chief, whom the Assembly
+  had elected, as the guide of the army.
+quote:
+  text: Mustafa Kemal Paşa Meclisi Âliniz tarafından intihap edilmiş Başkumandandır.
+  language: tr
+caveat: >-
+  Cite: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, 104th sitting (hafi), 2nd
+  session, 18 Eylül 1338 (1922), p. 905. Official, deferential register before his 1924-26 break with Kemal;
+  also p. 904 ('bize rehberlik eden Başkumandan Paşa Hazretleri').
+node: Rauf Orbay
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/5fe786e1-4f37-41d4-831c-1eaf46ca410d/content
+    archived: https://web.archive.org/web/20250519143323/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/5fe786e1-4f37-41d4-831c-1eaf46ca410d/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Gizli Celse Zabıtları cilt 3 PDF, 104th sitting 18 Eylül 1338 (hafi) session 2, p. 905
+  method: pdftotext; page markers 904/905
+  note: >-
+    Verbatim at p.905 (Heyeti Vekile Reisi speaking); 'rehberlik eden Başkumandan' at p.904 also confirmed;
+    consult-the-C-in-C framing supported.
+  checked_on: "2026-10-29"

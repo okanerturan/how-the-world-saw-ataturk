@@ -1,0 +1,21 @@
+# Turkish for data/voices/1935/riza-nur-1935.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: riza-nur-1935
+voice: Rıza Nur
+role: Lozan delegesi, bakan; sürgünde anı yazarı
+summary: >-
+  British Museum'a mühürlü olarak teslim edilen ve Mustafa Kemal ile çevresi hakkında düşmanca, kişisel ve
+  sıklıkla güvenilmez bir bakış sunan anılar yazdı.
+caveat: Akademisyenler anıları sıklıkla güvenilmez olarak nitelendirir.
+verification_note: >-
+  "frequently unreliable" TDV'nin ifadesi değildir (orada öznel denmektedir). Bunun dışında sorun yok.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: eaee1832b3bb
+  role: e7acac8bade0
+  summary: e061e14dbc6e
+  caveat: b30060745ce4
+  verification_note: a55918fd0674
+  verification_method: ad8cee67138e

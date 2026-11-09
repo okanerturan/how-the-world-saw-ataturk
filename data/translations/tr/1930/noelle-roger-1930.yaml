@@ -1,0 +1,27 @@
+# Turkish for data/voices/1930/noelle-roger-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: noelle-roger-1930
+voice: Noëlle Roger
+role: Fransızca yazan gezi yazarı
+quote: >-
+  gizli niyetlere nüfuz eden, doğrudan ve keskin görüşlü; öylesine irade yüklü bir bakış ki her türlü direniş
+  bir delilik gibi görünürdü
+quote_kind: translated
+summary: >-
+  Atatürk'ün kurşuni mavi gözleri ve iradesi: gizli niyetleri okuyan ve her türlü direnişi delilik gibi
+  gösteren bir bakış; Anadolu'yu kurtardı.
+caveat: >-
+  Okunan metinde uyruğu belirtilmemiştir; pek çok anekdot kaynağı belirsiz söylentidir. Sayfa numaraları sayfa
+  üstbilgilerinden çıkarılmıştır (s. 61).
+verification_note: "'saved Anatolia' ve yazarın uyruğu kontrol edilmedi"
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 112ba2a0e4d4
+  role: e6e90b830335
+  quote: d43bdddcd01c
+  summary: 53a33308c259
+  caveat: a93d2931a1aa
+  verification_note: 067e42630aad
+  verification_method: ad8cee67138e

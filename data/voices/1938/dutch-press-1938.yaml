@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dutch-press-1938
+voice: Dutch daily press (Delpher corpus)
+voice_type: press
+role: Dutch national dailies
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1938-11-12"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: report
+evidence: P
+summary: >-
+  Reported the death by Reuter flash, the Galata Bridge crowds, half-mast flags and students swearing to
+  defend his republican principles, without editorial verdict.
+quote:
+  text: President Kemal Ataturk is overleden.
+  language: nl
+caveat: >-
+  Note frames the Dutch as a neutral control group; stance inferred from absence of comment. Galata Bridge,
+  half-mast flags and the students' oath are in MMRHCG03:163502019:mpeg21:a00052; the 12 Nov date comes from
+  KB metadata (the OCR carries none).
+node: Dutch Press, November 1938
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010664486:mpeg21:a0010:ocr
+  - url: https://resolver.kb.nl/resolve?urn=MMRHCG03:163502019:mpeg21:a00052:ocr
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010664491:mpeg21:a0074:ocr
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: https://resolver.kb.nl/resolve?urn=ddd:010664486:mpeg21:a0010:ocr
+  method: fetch
+  note: >-
+    Reuter flash 'President Kemal Ataturk is overleden' confirmed (Istanboel, 10 Nov). Galata Bridge crowds,
+    half-mast flags, students' oath and 12 Nov date not found in the article read; no source URLs listed in
+    the record
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

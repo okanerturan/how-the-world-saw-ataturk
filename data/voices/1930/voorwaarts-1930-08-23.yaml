@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: voorwaarts-1930-08-23
+voice: Voorwaarts
+voice_type: press
+role: Social-democratic daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1930-08-23"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Said Kurdish bitterness grew under his dictatorship since 1923, which dropped every old form and silenced
+  opponents by bullet or rope.
+quote:
+  text: tegenstanders met kogel of strop onschadelijk had gemaakt
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. The OCR spells 'zün'/'hy' in the sentence; the quoted part
+  is clean.
+node: Dutch Dailies on the Dictator, 1924–1937
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010212863:mpeg21:a0040
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Delpher ddd:010212863:mpeg21:a0040:ocr; metadata Voorwaarts 1930-08-23
+  method: fetch
+  checked_on: "2026-10-29"

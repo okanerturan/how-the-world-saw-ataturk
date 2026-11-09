@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: agus-salim-1923-02
+voice: H. Agus Salim
+voice_type: person
+role: Sarekat Islam leader
+country: Dutch East Indies
+country_now: Indonesia
+domain: politics
+date: "1923-02-18"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Reported on the Cheribon Al-Islam Congress to the Sarekat Islam congress, glorified Moestafa Kemal Pasha and
+  pressed for recognition of the Caliphate.
+mediated_by: Nieuwe Rotterdamsche Courant 22 Mar 1923, special correspondent
+caveat: >-
+  OCR of the key clause is garbled ('verheerlijkt[e] Moestafa Kemal Pasha en drong aan op [e]rkenning van het
+  Kalifaat'), so no quote is printed. Date is the Sunday session after the 17 Feb opening (inferred from
+  'Zaterdagavond, 17 Febr.').
+node: Sarekat Islam and the Cheribon Telegram, 1922–1923
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010026490:mpeg21:a0122:ocr
+verification:
+  verdict: confirmed
+  checked_against: NRC 22 Mar 1923 (Delpher ddd:010026490:mpeg21:a0122:ocr)
+  method: resolver.kb.nl OCR
+  note: >-
+    No quote stored. OCR: 'Hadji Salim bracht rapport uit van het Al-Islam congres te Cheribon en
+    verheerlijkte Moestafa Kemal Pasha en drong aan op erkenning van het Kalifaat'; Zondagavond session after
+    Saterdagavond 17 Febr opening, so 18 Feb inference OK. Newspaper date not re-verified.
+  checked_on: "2026-10-29"
+  quote_found: false

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: young-indian-social-reform-society-1938
+voice: Young Indian Social Reform Society of South Africa
+voice_type: institution
+role: Cape Indian reform society
+country: South Africa
+country_now: South Africa
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: secular-rationalist-prophet
+artifact: telegram
+evidence: P
+summary: >-
+  Saw him as a foremost social reformer who built modern Turkey from the ruins of the decaying Ottoman empire.
+quote:
+  text: >-
+    one of the foremost social reformers of our time … he built modern Turkey out of the ashes of
+    convention-ridden decaying Ottoman empire
+  language: en
+caveat: Mirror is an inference from 'social reformer'.
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: a local working file (TBMM condolence OCR) (English cable, Johannesburg)
+  method: local
+  checked_on: "2026-10-29"

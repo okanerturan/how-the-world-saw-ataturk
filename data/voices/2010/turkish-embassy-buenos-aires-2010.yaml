@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: turkish-embassy-buenos-aires-2010
+voice: Turkish embassy in Buenos Aires
+voice_type: institution
+role: Embassy pressing to unveil an Atatürk bust
+country: Turkey
+country_now: Turkey
+domain: diplomacy
+date: "2010-05"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: monument
+evidence: J
+summary: >-
+  Pressed for a bust of Atatürk in a Buenos Aires park (per one Armenian source, near Jorge Newbery airport);
+  city hall says it sought to replace an existing bust.
+caveat: >-
+  Disputed: city hall says no bust or ceremony was ever authorized; the ambassador says paperwork ran since
+  Nov 2009. The 'near Jorge Newbery airport' detail comes only from the partisan Armenian Mirror-Spectator.
+node: The Buenos Aires Bust Affair, May 2010
+sources:
+  - url: https://azatutyun.am/a/2058104.html
+    archived: https://web.archive.org/web/20251115085040/https://azatutyun.am/a/2058104.html
+  - url: https://armenianclub.com/2010/06/01/buenos-aires-erdogan-cancellation-sparks-controversy
+    archived: https://web.archive.org/web/20261029003347/https://www.armenianclub.com/2010/06/01/buenos-aires-erdogan-cancellation-sparks-controversy/
+  - url: https://armenianweekly.com/2010/05/31/turkey-argentina
+    archived: https://web.archive.org/web/20251213073306/https://armenianweekly.com/2010/05/31/turkey-argentina
+  - url: https://mirrorspectator.com/2010/06/06/buenos-aires-armenians-stop-installation-of-ataturk-statue
+    archived: https://web.archive.org/web/20260124084123/https://mirrorspectator.com/2010/06/06/buenos-aires-armenians-stop-installation-of-ataturk-statue
+verification:
+  verdict: partial
+  checked_against: >-
+    armenianclub.com (Buenos Aires Herald 31 May 2010): embassy requested monument ~6 months earlier
+    "allegedly in replacement of an existing bust"; ambassador: procedures from Nov 2009; park at Figueroa
+    Alcorta/Sarmiento; Reuters via azatutyun.am. armenianweekly: login_required
+  method: fetch
+  note: >-
+    "near Jorge Newbery airport" not in any reached source. Core dispute (city hall denies authorisation)
+    supported.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

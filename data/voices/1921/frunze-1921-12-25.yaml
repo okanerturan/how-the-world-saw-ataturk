@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: frunze-1921-12-25
+voice: Mikhail Frunze
+voice_type: person
+role: >-
+  Ukrainian SSR envoy extraordinary to Ankara, Red Army commander (later Soviet war commissar)
+country: Ukrainian SSR
+country_now: Ukraine
+domain: diplomacy
+date: "1921-12-25"
+era: contemporary
+polarity: instrumental
+intensity: 2
+mirror: bourgeois-revolutionary
+artifact: meeting
+evidence: S
+summary: >-
+  In talks with Kemal, cast Turkey's struggle as national-democratic, headed toward state socialism, and told
+  him a communist revolution would cost the propertyless Pasha nothing.
+quote:
+  text: >-
+    Hâkimiyetten söz ederken, sizi —Paşa'yı— göz önüne alıyorum ve sizin hiçbir mal ve mülkünüzün olmadığını
+    ve kendi hizmetiniz ve emeğinizle geçindiğinizi biliyorum. Buradan, komünist ihtilal olsa bile sizin
+    hiçbir şey kaybetmeyeceğiniz sonucu çıkmaktadır.
+  language: tr
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri vol. 12 pp. 177–179 ← Soviet record of the Abilov–Frunze talk with Mustafa Kemal,
+  25 Dec 1921 (Azerbaijan State Archive of Recent History, f. 28, op. 1, d. 68, ll. 10–16) ← Y. Aslan, Mustafa
+  Kemal–M. Frunze Görüşmeleri (2002) pp. 35–46
+caveat: >-
+  Turkish translation of a Russian record. Translation: 'When I speak of power I have you, the Pasha, in mind,
+  and I know you have no property and live by your own service and labour. It follows that even if there were
+  a communist revolution you would lose nothing.' A second talk followed on 4 Jan 1922.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2012%20%281921%20-%201922%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202005%20%282.%20Bas%C4%B1m%29%2C%20424%20sf.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org butuneserler, djvu text of ABE vol. 12, pp. 177–179 ('Frunze ve Abilov ile Görüşme', 25 Dec
+    1921; footnote: Azerbaijan State Archive f. 28, op. 1, d. 68, ll. 10–16; Aslan 2002 pp. 35–46)
+  method: archive.org open djvu text read
+  note: >-
+    Quote verbatim on p. 179 in Frunze's answer on the third question (the communists' view of the East). The
+    context supports what_they_saw: 'national-liberationist and democratic' struggle, moving toward 'state
+    socialism' from above. Archive reference and Aslan pages match. Instrumental is right, and
+    bourgeois-revolutionary is a fair reading of the Soviet frame.
+  checked_on: "2026-11-05"

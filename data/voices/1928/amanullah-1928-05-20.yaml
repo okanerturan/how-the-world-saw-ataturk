@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: amanullah-1928-05-20
+voice: Amanullah Khan
+voice_type: person
+role: King of Afghanistan
+country: Afghanistan
+country_now: Afghanistan
+domain: politics
+date: "1928-05-20"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: S
+summary: >-
+  At the Ankara banquet he called Atatürk his brother and the sole author of Turkey's nine-year rise, and said
+  he felt great affection.
+quote:
+  text: >-
+    Sizi bunun yegâne amili bildiğim cihetle Zatı biraderinize karşı büyük bir hissi muhabbet ve halel-i
+    napezir bir imtina duymaktayım.
+  language: tr
+mediated_by: >-
+  Akbaş 2008 p. 319 ← Sarıhan p. 35 and Hizmet 22 May 1928 p. 1 (this passage); the opening of the same speech
+  ← Şimşir vol. I p. 34
+caveat: >-
+  Ottoman-Turkish text of a speech given in translation at the 20 May 1928 state banquet. Translation: 'Since
+  I know you to be the sole author of this, I feel for you, my brother, great affection and unshakeable
+  (gratitude/regard)'; printed 'imtina' is probably 'imtinan' (gratitude). The Şimşir page is cited by Akbaş
+  for the preceding paragraphs, Sarıhan/Hizmet for this one. A toast between hosts: also counts as ceremony.
+node: Heads of State on Atatürk in Their Own Words, 1926–1933
+sources:
+  - url: https://ataturkilkeleri.deu.edu.tr/ai/uploaded_files/file/yeni%20dergi%2016-17/ismail%20akkas%202.pdf
+    archived: https://web.archive.org/web/20240707111252/https://ataturkilkeleri.deu.edu.tr/ai/uploaded_files/file/yeni%20dergi%2016-17/ismail%20akkas%202.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Akbaş, 'Afgan Kralı Emanullah Han'ın Türkiye Gezisi', ÇTTAD VII/16-17 (2008), p. 319, fn 33 (Sarıhan p.
+    35; Hizmet 22 May 1928 p. 1); banquet dated 20 May 1928 evening (section 2.1.2)
+  method: >-
+    tools/ms free fetch of the open PDF at ataturkilkeleri.deu.edu.tr; located passage and page break
+  note: >-
+    Verbatim: 'Sizi bunun yegâne amili bildiğim cihetle Zatı biraderinize karşı büyük bir hissi muhabbet ve
+    halel-i napezir bir imtina duymaktayım.' Page 319 as cited, the toast follows Atatürk's speech and
+    Amanullah's reply is introduced as 'Emanullah Han da ... şöyle dile getirdi'. Printed 'imtina' as in the
+    article (likely 'imtinan'). The Turkish is the translation printed in the press (speech was translated
+    into French for the press per the article), not Amanullah's own language. The Şimşir page (I p. 33-34) is
+    cited for the preceding paragraphs only; this paragraph rests on Sarıhan p. 35 and Hizmet, as the record
+    says.
+  checked_on: "2026-11-01"

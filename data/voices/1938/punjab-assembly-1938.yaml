@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: punjab-assembly-1938
+voice: Punjab Legislative Assembly
+voice_type: institution
+role: Lahore provincial legislature
+country: British India
+country_now: Pakistan
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: telegram
+evidence: P
+summary: >-
+  Adjourned as a mark of respect to the late Ghazi Kemal Ataturk, first President of the Turkish Republic.
+quote:
+  text: >-
+    on Premier's motion Punjab Assembly adjourned as a mark of respect to the late Ghazi Kemal Ataturk
+  language: en
+caveat: Mirror is inference from the colonial-Muslim register the note describes.
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: a local working file line ~1925 (TBMM condolence telegram)
+  method: local
+  note: >-
+    OCR: 'on premier's motion punjab legislative assembly adjourned as a mark of respect to the late ghazi
+    kemal ataturk'
+  checked_on: "2026-10-29"

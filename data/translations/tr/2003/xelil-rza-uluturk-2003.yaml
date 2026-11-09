@@ -1,0 +1,19 @@
+# Turkish for data/voices/2003/xelil-rza-uluturk-2003.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: xelil-rza-uluturk-2003
+voice: Xəlil Rza Ulutürk
+role: Azerbaycanlı şair
+summary: >-
+  'Dədə Heydər – Atatürk'te Azerbaycan Cumhurbaşkanı Heydər Əliyev'i Türk kurucuyla kaynaştırdı.
+verification_note: >-
+  'Dede Haydar-Atatürk' şiiri, Azerbaycan gazeti 17 Aralık 2003, kurtarıcı olarak Heydar Aliyev ile Atatürk
+  arasında bağ kurar.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5093bef5256c
+  role: f868954cc744
+  summary: 6194a065e1ca
+  verification_note: 73998833eb93
+  verification_method: ad8cee67138e

@@ -1,0 +1,27 @@
+# Turkish for data/voices/1924/dutch-east-indies-press-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dutch-east-indies-press-1924
+voice: Hollanda Doğu Hint Adaları basını
+role: Hollanda Doğu Hint Adaları gazeteleri
+quote: Mustafa Kemal'in eylemlerini destekleyici
+quote_kind: translated
+summary: >-
+  Genel olarak Osmanlı yenilgisiyle ilgilenmedi ve Ekim 1924'te bir Surabaya Hilafet Komitesi kurulana kadar
+  Mustafa Kemal'in eylemlerini destekleyici bir tutum sergiledi.
+caveat: Bölüm başlığı çıkarılmadı; yalnızca metin kesiti.
+mediated_by: Cambridge University Press kitap bölümü (kesit okundu; başlık çıkarılmadı)
+verification_note: >-
+  Tez sayfasına ulaşılamıyor; alıntı ve Surabaya Hilafet Komitesi iddiası doğrulanmadı; kaydın kendisi
+  yalnızca metin kesiti olduğunu belirtiyor
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 672dc2d17c33
+  role: 4bd23e692309
+  quote: 16002efd5726
+  summary: 6f918694b5b8
+  caveat: 3462626cde8e
+  mediated_by: 4e379e497ebd
+  verification_note: 39c933b59aeb
+  verification_method: ad8cee67138e

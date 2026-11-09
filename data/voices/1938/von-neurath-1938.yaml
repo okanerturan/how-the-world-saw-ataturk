@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: von-neurath-1938
+voice: Konstantin von Neurath
+voice_type: person
+role: German minister without portfolio; Hitler's funeral envoy
+country: Germany
+country_now: Germany
+domain: diplomacy
+date: "1938-11-18"
+era: funeral
+polarity: instrumental
+intensity: 1
+artifact: visit
+evidence: P
+summary: >-
+  Led the Reich's delegation to Atatürk's burial; that an old-school diplomat rather than a Party figure was
+  sent, as a courtesy call, is the vault's inference, not a sourced statement.
+caveat: >-
+  Polarity 'instrumental' and the 'courtesy call' reading are inference; no source states them.
+node: Konstantin von Neurath
+sources:
+  - url: http://resolver.kb.nl/resolve?urn=ddd:011122900:mpeg21:a0009:ocr
+    archived: https://web.archive.org/web/20261029004016/https://resolver.kb.nl/resolve?urn=ddd:011122900:mpeg21:a0009:ocr
+  - url: http://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr
+    archived: https://web.archive.org/web/20261029000114/https://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr
+  - url: http://resolver.kb.nl/resolve?urn=ddd:010607514:mpeg21:a0062:ocr
+    archived: https://web.archive.org/web/20261029004120/https://resolver.kb.nl/resolve?urn=ddd:010607514:mpeg21:a0062:ocr
+  - url: https://en.wikipedia.org/wiki/Konstantin_von_Neurath
+    archived: https://web.archive.org/web/20260924172500/https://en.wikipedia.org/wiki/Konstantin_von_Neurath
+verification:
+  verdict: partial
+  checked_against: >-
+    a local working file; sources/toksoy-2006-atatürk-yolu-european-press.txt fn.73;
+    https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mustafa_Kemal_Atat%C3%BCrk
+  method: local
+  note: >-
+    Neurath led the German delegation (confirmed); 'courtesy call rather than a Party figure' is inference, no
+    source states it. Record has no sources listed.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

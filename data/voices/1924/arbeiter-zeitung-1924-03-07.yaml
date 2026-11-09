@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: arbeiter-zeitung-1924-03-07
+voice: Arbeiter-Zeitung (Vienna)
+voice_type: press
+role: Vienna daily, central organ of the Social Democratic Party
+country: Austria
+country_now: Austria
+domain: press
+date: "1924-03-07"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Explained the Caliphate's abolition as Kemal defending his republic against religion, which had remained a
+  politically counter-revolutionary power.
+quote:
+  text: >-
+    politisch konterrevolutionäre Macht geblieben ist und daß Mustafa Kemal, um die von ihm gegründete
+    Republik zu verteidigen, auch die
+  language: de
+caveat: >-
+  Sympathetic framing rather than personal praise; polarity inferred. ANNO page text and images gated, so the
+  quote is the search-index OCR fragment (two search windows); grammatical subject is 'die Religion'; page
+  image not re-read.
+node: Vorwärts and the Arbeiter-Zeitung on the Dictator, 1924–1930
+sources:
+  - url: https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19240307&seite=2
+    archived: https://web.archive.org/web/20261109085935/https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19240307&seite=2
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    ANNO search snippet endpoint, Arbeiter-Zeitung 7 Mar 1924, p. 2 (documentId ANNO_aze19240307)
+  method: ANNO snippet API (free); page text and images gated, so only the OCR snippet seen
+  note: >-
+    Snippet verbatim matches the record quote: '...politisch konterrevolutionaere Macht geblieben ist und dass
+    Mustafa Kemal, um die von ihm gegruendete Republik zu verteidigen, auch die religioese Stuetze dieser
+    konterrevolutionaeren Staats...' Counts as partial because only an index snippet was visible. The
+    grammatical subject is 'die Religion' ('die Religion auch in der Tuerkei eine nicht nur geistige, sondern
+    auch politisch konterrevolutionaere Macht geblieben ist'), not the Caliphate as such; what_they_saw should
+    say religion/its institutional support. Author, headline and the 'drive toward progress' phrase not seen;
+    'admiring' is inferred, as the caveat admits.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 10)
+  checked_on: "2026-11-01"

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ismet-inonu-assembly-1938-11-11
+voice: İsmet İnönü
+voice_type: person
+role: Newly elected President of the Republic
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 3
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  As newly elected President, told the Assembly Atatürk's extraordinary services stand embodied in the Turkish
+  state as complete and clean works.
+quote:
+  text: >-
+    fevkalâde hizmetlerini bu günkü Türk Devletinin bünyesinde tam ve temiz eserler olarak tecessüm etmiş
+    görüyoruz
+  language: tr
+caveat: >-
+  Printed p. 17 (inaugural address, after the oath). The scan's OCR garbles 'Atatürkün' to 'Atatiirkün' at the
+  start of the sentence, so the quote begins after it.
+node: The Assembly Meets Without Atatürk, 11 November 1938
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c027/tbmm05027003.pdf
+    archived: https://web.archive.org/web/20240703204606/https://www.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c027/tbmm05027003.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM d05/c027/tbmm05027003.pdf, 11 Nov 1938, printed p.17 (foot '— 17 —' on same page)
+  method: pdftotext two-column crop and -layout
+  note: Verbatim (OCR 'Atatiirkün' before it); follows the oath and inaugural address.
+  checked_on: "2026-10-30"

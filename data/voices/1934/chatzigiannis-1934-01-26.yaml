@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: chatzigiannis-1934-01-26
+voice: D. Chatzigiannis
+voice_type: person
+role: Greek deputy (initial D. as printed)
+country: Greece
+country_now: Greece
+domain: politics
+date: "1934-01-26"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  Holds up Kemal as a classic model of statecraft: legalised his revolt through a National Assembly while
+  all-powerful, abolished caliphate and dynasty, paid deputies well.
+quote:
+  text: >-
+    Τὸ παράδειγμα τοῦ Κεμάλ Μουσταφᾶ θὰ παραμείνῃ κλασσικὸν ὑπόδειγμα ἀπὸ πολιτειακῆς ἀπόψεως. Ἐπαναστατήσας
+    εἰς τὰ βάθη τῆς Μικρᾶς Ἀσίας ἐνομιμοποίησε τὸ κίνημά του διὰ τῆς μεγάλης ἐθνοσυνελεύσεως ἐκπροσωπούσης τὴν
+    θέλησιν τοῦ Τουρκικοῦ λαοῦ, ἐνῷ οὐσιαστικῶς αὐτὸς ἦτο παντοδύναμος.
+  language: el
+caveat: >-
+  Βουλή Δ΄ περίοδος Α΄ σύνοδος Τόμος 2, part 3, session ΡΑ΄ of Friday 26 Jan 1934 (heading on p. 1780),
+  printed pp. 1828-1829 (PDF page 153; page image read; verbatim stenographic text). Said in the debate on
+  raising deputies' allowances, which the speaker supports: Kemal is a rhetorical example (the Turkish
+  Assembly pays its members 37,000 drachmas a month). A minor deputy; the initial D. is the only forename
+  given.
+node: Greek Parliamentarians on Kemal, 1924–1934 — Hellenic Parliament Library
+sources:
+  - url: https://library.parliament.gr/Συλλογές/Κοινοβουλευτική-Συλλογή/Πρακτικά-Συνεδριάσεων/πρακτικά-βουλής-1910-1935
+    archived: https://web.archive.org/web/20260614102850/https://library.parliament.gr/%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AD%CF%82/%CE%9A%CE%BF%CE%B9%CE%BD%CE%BF%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AE-%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AE/%CE%A0%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AC-%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%B9%CE%AC%CF%83%CE%B5%CF%89%CE%BD/%CF%80%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AC-%CE%B2%CE%BF%CF%85%CE%BB%CE%AE%CF%82-1910-1935
+  - url: https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/ΠΡΒ_ΠΕΡ.Δ_ΣΥΝ.Α_T.2_1933-1934_3.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Βουλή Δ΄ Α΄ Τ.2 part 3, PDF page 153, printed p. 1829
+  method: >-
+    rendered the page image at 240 dpi and READ the polytonic Greek (main agent, not the builder)
+  note: >-
+    Quote verbatim on the page image. Minor deputy (initial D. only); kept as a verbatim parliamentary view.
+  checked_on: "2026-11-05"

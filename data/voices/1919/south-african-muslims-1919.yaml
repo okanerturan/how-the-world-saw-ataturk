@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: south-african-muslims-1919
+voice: South African Muslims (Transvaal Mohammedan Congress, Hamidia Islamic Society)
+voice_type: collective
+role: Muslim associations in the Union of South Africa
+country: South Africa
+country_now: South Africa
+domain: religion
+date: "1919"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: policy
+evidence: S
+summary: >-
+  Held 1919 protest meetings and sent £875 to Anatolia during 1919–23, giving in the vocabulary of the
+  Caliphate rather than Kemalism.
+caveat: >-
+  Note: instrumental-admiring; Orakçı's figure is unchecked against a second UJ thesis (17,634 lira).
+node: South African Muslims and the Anatolian Cause, 1919–1923
+sources:
+  - url: https://web.archive.org/web/20110831201139/http:/ujdigispace.uj.ac.za:8080/dspace/bitstream/10210/3241/1/Orakci.pdf
+verification:
+  verdict: confirmed
+  checked_against: >-
+    Orakçı thesis via web.archive.org ujdigispace Orakci.pdf, ch.4 (4.3-4.4): 1919 meetings, Pretoria branch
+    of Transvaal Mohammedan Congress, Hamidia Islamic Society; "₤875 out of ₤130,250" sent 1919-23
+  method: fetch
+  note: >-
+    Source says nothing of Atatürk/Kemalism; gaze is on the Caliphate/Ottoman cause. Caveat re 17,634 lira not
+    checkable here.
+  checked_on: "2026-10-29"

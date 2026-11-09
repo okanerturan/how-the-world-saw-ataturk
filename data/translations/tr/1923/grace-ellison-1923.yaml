@@ -1,0 +1,34 @@
+# Turkish for data/voices/1923/grace-ellison-1923.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: grace-ellison-1923
+voice: Grace Ellison
+role: İngiliz gazeteci ve yazar, 1922–23 kışında Ankara'da bulundu
+quote: >-
+  Fiilî başarılarından tamamen ayrı olarak, bugün Türkiye'deki en büyük adam olduğunu anlamak için M. Kemal
+  Paşa'yı görmek gerekli değildir.
+quote_kind: translated
+summary: >-
+  Lozan başlarken Ankara'da Mustafa Kemal ile tanıştı ve öğle yemeği yedi; onu Türkiye'deki en büyük adam,
+  devlet adamı, asker ve hatip olarak tam bir üstat diye nitelendirdi.
+caveat: >-
+  An Englishwoman in Angora (Londra: Hutchinson, 1923), böl. XVIII 'The Ghazi Mustapha Kemal Pasha — The
+  Greatest Man in Turkey To-day', s. 159 (OCR'daki 'necessarv' düzeltildi); ardından ayrı bir mülakat bölümü
+  gelmektedir (s. 174). Arşiv kartındaki, kendi hükümetine meydan okuduğu ve Britanya kamuoyunu değiştirdiği
+  yönündeki iddialar burada sınanmamıştır.
+verification_note: >-
+  Birebir aynı (OCR'da 'necessarv'). Böl. XVIII, s. 158'den sonra başlamaktadır; içindekiler tablosu böl. XIX
+  'An Interview with the Ghazi'yi s. 174'te göstermektedir. Aynı sayfada: 'my host's regard for me was
+  definitely increased when I had had lunch with Mustapha Kemal' ve (devlet adamı, asker, hatip olarak)
+  'past-master in all three aspects'. Fethi Bey, 'The Lausanne Conference is beginning' iken onu Meclis'te
+  Başkan ile tanışmaya davet etmektedir.
+verification_method: djvu metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 673b10f41261
+  role: a8bafb6eafbc
+  quote: 5b93c6ee73a4
+  summary: e3609eaf4f91
+  caveat: 75451c5a4bf7
+  verification_note: 1605e757c25b
+  verification_method: 9d9cd164c6b0

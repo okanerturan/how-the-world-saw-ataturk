@@ -1,0 +1,24 @@
+# Turkish for data/voices/1932/peregrinus-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: peregrinus-1932
+voice: Peregrinus
+role: Takma adlı Alman gezi yazarı
+quote: Gazi yalnızca Türkiye'yi, devletini ve — kendisini sever.
+quote_kind: translated
+summary: >-
+  Kemal'in Alman yanlısı olduğu efsanesini reddeder: her devlet için bir maske vardır; o yalnızca Türkiye'yi,
+  devletini ve kendisini sever.
+caveat: >-
+  Cümle, yazarın arkadaşı 'Talaat'ın yargısı olarak verilmektedir; yazar bunu onaylar (Alman hayranlığı
+  iddiası hakkında 'durchaus unrichtig'). Uzun s harfi Fraktur OCR'ından normalleştirilmiştir. Yıl bilgisi
+  arşiv üstverisinden alınmıştır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8fc62a7312d1
+  role: 45957374119c
+  quote: da734bb19227
+  summary: 06c86fcf8589
+  caveat: a3ea7f93a39e
+  verification_method: ad8cee67138e

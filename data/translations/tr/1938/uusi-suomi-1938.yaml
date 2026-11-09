@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/uusi-suomi-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: uusi-suomi-1938
+voice: Uusi Suomi
+role: Fin günlük gazetesi
+summary: >-
+  Onu büyük bir devrimci olarak nitelendirdi ve onsuz Türkiye'nin büyük bir devlet olamayacağını söyledi.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Kurun 14 Kasım, Ulus 15 Kasım, Cumhuriyet 16 Kasım 1938
+verification_note: "Büyük devrimci + onsuz Türkiye'nin büyük bir devlet olamayacağı: ikisi de mevcut"
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a9cb09e85850
+  role: 85ede8ed9a73
+  summary: f675df185d40
+  caveat: ecc719a2a575
+  mediated_by: c3d11a07ec69
+  verification_note: ad036ee03f2d
+  verification_method: 939bb46a04c3

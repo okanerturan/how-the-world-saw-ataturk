@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rumbold-1921-01-20
+voice: Horace Rumbold
+voice_type: person
+role: British High Commissioner at Constantinople (later Ambassador in Berlin)
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1921-01-20"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: telegram
+evidence: P
+summary: >-
+  Told Curzon Kemal was no longer a brigand chief: Angora governed Anatolia with average efficiency and Muslim
+  support, holding native Christians in a stranglehold.
+quote:
+  text: It is useless to regard Mustapha Kemal any longer as a brigand chief.
+  language: en
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk vol. III No. 15, pp. 59–60 ← Rumbold to Curzon, tel. No. 43,
+  Constantinople, 20 Jan 1921
+caveat: >-
+  A realist reassessment rather than praise: the same telegram calls the population 'sheep-like' and notes
+  Angora's 'strangle hold on native Christians'.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%233.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org ingiliz-belgelerinde-ataturk, djvu text of Şimşir vol. III, No. 15 (Rumbold to Curzon, tel.
+    No. 43, Constantinople, 20 Jan 1921), pp. 59–60
+  method: archive.org open djvu text read
+  note: >-
+    Verbatim on p. 59. 'Average efficiency as efficiency goes in Turkey', 'sheep-like as always', 'majority of
+    Moslem element support it strongly' and 'strangle hold on native Christians' are all present.
+    what_they_saw is fair. Conflicted is acceptable: a grudging realist reassessment. A minor figure with a
+    stated view, so it passes.
+  checked_on: "2026-11-05"

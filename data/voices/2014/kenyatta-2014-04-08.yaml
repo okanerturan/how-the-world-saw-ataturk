@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kenyatta-2014-04-08
+voice: Uhuru Kenyatta
+voice_type: person
+role: President of Kenya; entry in the Anıtkabir special book
+country: Kenya
+country_now: Kenya
+domain: politics
+date: "2014-04-08"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: quote
+evidence: J
+summary: >-
+  Atatürk will be remembered for courage, vision and resolve in the independence struggle; a leading figure of
+  the century whose leadership inspires Kenyans.
+quote:
+  text: >-
+    Mustafa Kemal Atatürk her zaman cesareti, vizyonu ve Türklerin bağımsızlık mücadelesindeki kararlılığı ile
+    hatırlanacaktır.
+  is_translation: true
+  language: tr
+mediated_by: AA via Haberler (Turkish translation of the entry)
+caveat: >-
+  AA report via Haberler; the same AA text appears on sondakika.com (not independent). Turkish rendering of an
+  English entry; English original not located. The date (8 April 2014) comes from Turkish Wikipedia's visitor
+  list; the AA piece says Gül would receive him 'bugün' at Çankaya.
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.haberler.com/guncel/kenya-cumhurbaskani-kenyatta-anitkabir-de-5882345-haberi/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Haberler/AA 8 Apr 2014 11:42
+  method: tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker
+  note: >-
+    Quoted sentence verbatim; the entry also says he is 'known as one of the most important figures of the
+    20th century' and his vision 'inspired' Kenyans, matching what_they_saw. Date 8 Apr 2014 stamped on the
+    page. Single AA wire (other copies not independent). English original not found.
+  checked_on: "2026-11-03"

@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hitler-table-talk-1942
+voice: Adolf Hitler
+voice_type: person
+role: Führer; table talk at headquarters
+country: Germany
+country_now: Germany
+domain: politics
+date: "1942-04-02"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: volkisch-purifier
+artifact: memoir
+evidence: J
+summary: >-
+  Holds that Kemal Pasha acted wisely after seizing power, and admires how quickly he rid himself of his
+  clergy.
+quote:
+  text: The rapidity with which Mustapha Kemal Ataturk rid himself of his parsons
+  language: en
+mediated_by: >-
+  Trevor-Roper (ed.), Hitler's Secret Conversations 1941-1944 (1961 US ed.; Table Talk, Bormann notes)
+caveat: >-
+  Seen only as archive.org full-text-search snippets (hitlerssecretcon0000hrtr; snippet cuts off at
+  'chapters'). The book's index lists 'Ataturk; Kemal, 233, 372, 566' (snippet pages not shown), and the
+  chapter heading on the same conversation reads 'Boris the Fox of Bulgaria—Political plots—Wisdom of Kemal
+  Ataturk'. Other snippets from the same book: 'That's why Kemal Pasha acted wisely, immediately after the
+  seizure' and 'Kemal Ataturk, who had nothing to do with his compatriots' (a racial aside on Kurds and Asia
+  Minor). Date 1942-08 is the task's lead (1 Aug 1942), not read off the page: confirm. Table Talk is a record
+  of Bormann's notes, not Hitler's own writing. Date per conversation heading '178, 2nd April 1942, midday …
+  Wisdom of Kemal Ataturk' (check). Snippet-only; the sentence's tail and the page (index: 233, 372, 566; 233
+  likely) are unverified.
+node: Statesmen on Atatürk in Their Own Words, Memoirs and Speeches
+sources:
+  - url: https://archive.org/details/hitlerssecretcon0000hrtr
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Trevor-Roper (ed.), Hitler's Secret Conversations 1941-1944, archive.org hitlerssecretcon0000hrtr and
+    docuv3 (fts snippets)
+  method: >-
+    tools/fts.py snippets, 5 queries (lending copy; the open copy of the same text is login-walled and was not
+    accessed)
+  note: >-
+    DATE WRONG: the conversation heading in the book reads '178, 2nd April 1942, midday: In praise of the Tsar
+    Ferdinand - Boris the Fox of Bulgaria - Political plots - Wisdom of Kemal Ataturk', so the date is
+    1942-04-02, not 1942-08. Snippets seen: 'The rapidity with which Mustapha Kemal Ataturk rid himself of his
+    parsons makes one of' (cut off; 'the most remarkable chapters' is not in the snippets I could retrieve)
+    and 'That's why Kemal Pasha acted wisely, immediately after the seizure'. Index pages 233/372/566; 233 is
+    the likely page for conversation 178 but is not shown by any snippet. Correction: date 1942-04-02; page
+    unverified; quote should end at 'makes one of' unless the full sentence is read.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 15)
+  checked_on: "2026-11-03"

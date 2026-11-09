@@ -1,0 +1,28 @@
+# Turkish for data/voices/1928/al-riawi-al-saghir-1928.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-riawi-al-saghir-1928
+voice: al-Ri'awi al-Saghir
+role: al-Fath'ın Kudüs muhabiri
+quote: bu konferans, verildiği yerin kendisiyle kirletildiği bir utanç ve pislik lekesidir
+quote_kind: translated
+summary: >-
+  Kemal'i öven bir Kudüs konferansını Türk konsolosluğunun propagandası olarak kınar; Filistin Kemal'in oyun
+  alanı olmayacaktır.
+caveat: >-
+  Alıntı, notun yer verdiği Arapça özgün metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+verification_note: >-
+  Arapça 'lakhtat ar wa qadhara lawwathat biha al-makan' ifadesi s. 301'de 'al-Da'aya lil-Atrak fi Filastin'
+  başlığı altında, al-Ri'awi al-Saghir, Kudüs imzalı; düşmanca kutupluluk geçerli.
+verification_method: >-
+  Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
+  künye/kapaklar görüntülendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3727d0ea359d
+  role: cdcf66b3f575
+  quote: f56394a3aeb0
+  summary: fe211d99e72c
+  caveat: bd8d22c5ff7f
+  verification_note: a8e1aab8ea8b
+  verification_method: 6190bebdb3a6

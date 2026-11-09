@@ -1,0 +1,32 @@
+# Turkish for data/voices/1988/rajiv-gandhi-1988-07-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rajiv-gandhi-1988-07-08
+voice: Rajiv Gandhi
+role: Hindistan Başbakanı
+quote: >-
+  Kemal Atatürk'e büyük hayranlık duyuyoruz. Atatürk, modern Türkiye'nin temellerini atan büyük bir
+  milliyetçiydi.
+quote_kind: translated
+summary: >-
+  Görüşü sorulduğunda, Hindistan'ın modern Türkiye'nin temellerini atan büyük bir milliyetçi olarak Atatürk'e
+  büyük hayranlık duyduğunu; demokrasi, laiklik ve modernleşme dolayısıyla saygı gördüğünü söyler.
+caveat: >-
+  Türkiye ziyaretinden önce İlnur Çevik (Turkish Daily News) ve Hasan Cemal (Cumhuriyet) ile ortak mülakat,
+  Yeni Delhi, 8 Temmuz 1988; Rajiv Gandhi: Selected Speeches and Writings, c. 4 (1988), s. 490–491'de
+  basılmıştır (Publications Division; archive.org açık metni). Soru, Nehru'nun Atatürk'e duyduğu hayranlığa
+  atıfta bulunur.
+verification_note: >-
+  Yanıt, Nehru'ya atıf yapan bir soruya karşılık olarak s. 490/491 geçişinde kelimesi kelimesine mevcut. Aynı
+  mülakatta (s. 487) 'Mahatma Gandhi and Jawaharlal Nehru had great admiration for Kemal Ataturk' ifadesi de
+  yer alıyor. P dürüst (resmî Publications Division derlemesi).
+verification_method: archive.org açık OCR metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 56e51c902e1b
+  role: 9b56e76422de
+  quote: 3b2dc2ee9668
+  summary: 96e537685a9a
+  caveat: 4da504715c43
+  verification_note: 89e0295ac28d
+  verification_method: 5564a28f2471

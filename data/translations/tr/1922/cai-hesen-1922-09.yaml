@@ -1,0 +1,26 @@
+# Turkish for data/voices/1922/cai-hesen-1922-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cai-hesen-1922-09
+voice: Cai Hesen (蔡和森)
+role: Xiangdao'da yazan erken dönem Çin Komünist lideri
+quote: >-
+  En büyük ve en devrimci ruha sahip General Kemal, Milliyetçi Partisi'ne önderlik ederek Ankara'da ayaklandı
+quote_kind: translated
+summary: >-
+  Türk Milliyetçilerinin Yunanistan karşısındaki galibiyetini, kitlelere dayanması ve Sovyet Rusya ile ittifak
+  kurması koşuluyla ezilen halklar için örnek zafer olarak selamladı.
+caveat: >-
+  Sayı 3 (haftalık derginin yayın akışına göre 27 Eylül 1922); Wikisource sayfası üstbilgisinde 1922-09-27
+  tarihini veriyor.
+verification_note: Üstbilgideki tarih eşleşiyor; metin zaferi kitle tabanına ve Sovyet ittifakına bağlıyor.
+verification_method: ms veri çekme, Wikisource ayrıştırma; boşlukları normalleştirilmiş alt dizge eşleştirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: dcda267362f7
+  role: e10dbf9f6bfc
+  quote: c694e2b3aad2
+  summary: 1f85b027882c
+  caveat: 36d1f604ca21
+  verification_note: 879ea44a043a
+  verification_method: 6a3a19f5013c

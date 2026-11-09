@@ -1,0 +1,30 @@
+# Turkish for data/voices/1928/muhibb-al-din-al-khatib-1928.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: muhibb-al-din-al-khatib-1928
+voice: Muhibb al-Din al-Khatib
+role: al-Fath'ın sahibi ve editörü
+quote: >-
+  Mustafa Kemal, üstlendiği işin, Türkiye'de İslam'ın alametlerini yıkmanın ilk ayağının aşamalarını katetmeyi
+  bitirdi
+quote_kind: translated
+summary: >-
+  Kemal Türkiye'de İslam'ı yıkmanın ilk ayağını bitirmiş ve sonuncusuna başlamıştır; Müslümanları safları
+  sıklaştırmaya çağırır.
+caveat: >-
+  Alıntı, notun yer verdiği Arapça özgün metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+verification_note: >-
+  Arapça alıntı s. 17'de 'Mustafa Kamal wa al-Islam' makalesinin başında yer alıyor; s. 18'in sonunda Muhibb
+  al-Din al-Khatib imzalı, 'sawwu sufufakum' ifadesiyle bitiyor; düşmanca kutupluluk geçerli.
+verification_method: >-
+  Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
+  künye/kapaklar görüntülendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 341ffa25264c
+  role: 4aaf64dea45d
+  quote: f8051a79d887
+  summary: 33628894f6ff
+  caveat: bd8d22c5ff7f
+  verification_note: eba536fcea9b
+  verification_method: 6190bebdb3a6

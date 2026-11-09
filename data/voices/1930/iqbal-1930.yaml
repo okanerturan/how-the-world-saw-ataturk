@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: iqbal-1930
+voice: Muhammad Iqbal
+voice_type: person
+role: Poet-philosopher of Indian Islam
+country: British India
+country_now: Pakistan/India
+domain: letters
+date: "1930"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: S
+summary: >-
+  Calls Turkey's ijtihad on the caliphate perfectly sound and Turkey the one Muslim nation roused from
+  dogmatic slumber; Atatürk is not named.
+quote:
+  text: Personally, I believe the Turkish view is perfectly sound.
+  language: en
+caveat: >-
+  Lecture VI, 'The Principle of Movement in the Structure of Islam' (lectures given 1928–29; Lahore 1930,
+  Oxford 1934). Mustafa Kemal is never named: the object is 'Turkey' and 'the Turk'. Page numbers (c. 149–150
+  caliphate; 154 'dogmatic slumber') derived from running heads in the 1934 scan dli.ministry.19661, not from
+  a printed-page check.
+node: Iqbal on Turkey and Atatürk, 1930–1936
+sources:
+  - url: https://archive.org/stream/dli.ministry.19661/E01934_The_Reconstruction_of_Religious_Thought_In_Islam_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Iqbal, The Reconstruction of Religious Thought in Islam (Oxford 1934 scan, archive.org dli.ministry.19661
+    djvu.txt), Lecture VI, pp. 149 and 154
+  method: >-
+    fetched the archive.org djvu text directly with curl; located both passages and the running-head page
+    numbers
+  note: >-
+    Verbatim on p. 149 (page header '149'): 'Personally, I believe the Turkish view is perfectly sound.' (in
+    the Caliphate/Ijtihad passage: 'Turkey’s Ijtihad is that according to the spirit of Islam the Caliphate or
+    Imamate can be vested in a body of persons, or an elected Assembly'). Verbatim on p. 154: 'Turkey alone
+    has shaken off its dogmatic slumber, and attained to self-consciousness.' Pages are therefore confirmed as
+    149 and 154 (the caveat's 'c. 149-150' can be firmed up). Kemal is not named (caveat says so). The scan is
+    the 1934 Oxford edition, not the 1930 Lahore edition, so the date '1930' is the lectures' first book
+    publication and the wording in the 1930 edition was not compared. No other correction.
+  checked_on: "2026-11-01"

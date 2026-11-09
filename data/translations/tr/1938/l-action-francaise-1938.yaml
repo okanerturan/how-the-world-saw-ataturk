@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/l-action-francaise-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: l-action-francaise-1938
+voice: L'Action française
+role: Paris kralcı-milliyetçi günlük gazetesi
+quote: artık ulusal toprağı savunmaya hazır adamlardan başka hiçbir şey yoktu
+quote_kind: translated
+summary: >-
+  Sırrı: Osmanlı dantelinin ardında yalnızca ulusal toprağı savunmaya hazır adamlar duruyordu; Batı Çanakkale
+  Boğazı'nı izlerken öldü.
+caveat: >-
+  Alıntı Gallica OCR'ından kopyalanmıştır; makalenin tamamı olarak değil, arama sonucu parçaları olarak
+  okunmuştur. Ertesi günkü basın özeti yazısı (12 Kasım) diğer gazeteleri aktarır; gazetenin oradaki kendi
+  tutumu kısmen çıkarımla belirlenmiştir.
+verification_note: >-
+  Tam makale/11 Kasım 1938 tarihi ve "West watched Dardanelles" doğrulanamıyor; alıntı bir arama parçasıdır.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5935eec82225
+  role: 48f28912435a
+  quote: b44067acf9d7
+  summary: c819acd967ad
+  caveat: fbb5856d3882
+  verification_note: d9891147ae19
+  verification_method: ad8cee67138e

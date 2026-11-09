@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ormsby-gore-1920
+voice: Mr Ormsby-Gore MP
+voice_type: person
+role: Member of the Commons, supplementary question on the Cilicia massacres
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-03-11"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Put it to the Government that Kemal was the Young Turk Committee's agent and that the Committee organised
+  the massacres.
+quote:
+  text: Mustapha Kemal Pasha is the agent of the Committee of Union and Progress
+  language: en
+caveat: Phrased as a question.
+node: Parliament Meets Kemal, February–March 1920
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-03-11/debates/9ee65e95-7cee-44ac-bedf-15196dd1bb46/CiliciaMassacres
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard-api.parliament.uk/search/contributions/Spoken.json (contribution
+    0d42ffd1-6c78-4366-aa60-e1338a33fdc3), Commons 1920-03-11 Cilicia Massacres, Mr. ORMSBY-GORE
+  method: api
+  checked_on: "2026-10-29"

@@ -1,0 +1,18 @@
+# Turkish for data/voices/1935/hikmat-sulayman-1935.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hikmat-sulayman-1935
+voice: Hikmat Sulayman
+role: Irak Başbakanı, 1936–37
+summary: >-
+  Kemal'in paternalist otoriterliğini kendine reform modeli olarak aldı; 1935'teki Türkiye ziyaretinin
+  ardından Türk çizgisinde laiklik ve modernleşme çağrısı yapan makaleler yazdı.
+caveat: Tek akademik kaynak (Sorby 2015); makalelerin kendisi okunmamıştır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c4b352041a2e
+  role: 057eeede8879
+  summary: 9a68a2cecd50
+  caveat: a4afa1728f19
+  verification_method: ad8cee67138e

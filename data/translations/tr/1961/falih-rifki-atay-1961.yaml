@@ -1,0 +1,24 @@
+# Turkish for data/voices/1961/falih-rifki-atay-1961.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: falih-rifki-atay-1961
+voice: Falih Rıfkı Atay
+role: Gazeteci ve milletvekili; Atatürk'ü yakın çevresinden anlatan yazar
+summary: >-
+  Anı kitabı Çankaya (1961) Atatürk'ün hayatını bağlılıkla anlatır; dehanın yanında içkiyi, öfke nöbetlerini
+  ve yalnızlığı da barındırıp barındırmadığı atıf yapılan sayfalarda görülmemektedir.
+caveat: >-
+  Not yalnızca bir biyografi sayfasına ve baskı listelerine atıf yapıyor; 'içki, öfke nöbetleri, yalnızlık'
+  okuması metin üzerinden kontrol edilmemiştir.
+verification_note: >-
+  Mustafa Kemal vurgulu Çankaya (1961) ve yaşam boyu Kemalizm destekleniyor. Dehanın yanı sıra içki, öfke
+  nöbetleri ve yalnızlık atıf yapılan sayfalarca desteklenmiyor.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fc949027b2dc
+  role: 5a1a5c4767f6
+  summary: a36991eba6fe
+  caveat: 25aa9fcbe04a
+  verification_note: 9808e46ff3f0
+  verification_method: ad8cee67138e

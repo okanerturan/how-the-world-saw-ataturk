@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abbas-2016-10-24
+voice: Mahmoud Abbas
+voice_type: person
+role: President of the State of Palestine; entry in the Anıtkabir special book
+country: Palestine
+country_now: Palestine
+domain: politics
+date: "2016-10-24"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Calls him 'the great leader' and appreciates his major role in founding the Turkish Republic; sends
+  Palestinians' greetings to his spirit.
+quote:
+  text: >-
+    büyük lider Mustafa Kemal Atatürk'ün Türkiye Cumhuriyeti'nin kuruluş sürecinde gösterdiği büyük rolü
+    takdirle karşılıyoruz.
+  is_translation: true
+  language: tr
+mediated_by: AA via Sputnik Türkiye (Turkish translation of the entry)
+caveat: >-
+  AA text republished by Sputnik Türkiye (anlatilaninotesi.com.tr, 24 Oct 2016); Turkish rendering of an
+  Arabic entry, Arabic original not located. Mixes praise of Atatürk with greetings to Erdoğan's government,
+  three months after the July 2016 coup attempt.
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://anlatilaninotesi.com.tr/20161024/abbas-anitkabir-ziyaret-1025444619.html
+    archived: https://web.archive.org/web/20250123194343/https://anlatilaninotesi.com.tr/20161024/abbas-anitkabir-ziyaret-1025444619.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Sputnik Türkiye 24 Oct 2016 (AA text)
+    anlatilaninotesi.com.tr/20161024/abbas-anitkabir-ziyaret-1025444619.html
+  method: tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker
+  note: >-
+    Fragment verbatim ('...büyük lider Mustafa Kemal Atatürk'ün Türkiye Cumhuriyeti'nin kuruluş sürecinde
+    gösterdiği büyük rolü takdirle karşılıyoruz'). The entry also says 'ulu önder Atatürk'ün ruhuna'
+    greetings, as recorded. AA wire only; Arabic original not found. Date 24 Oct 2016 confirmed.
+  checked_on: "2026-11-03"

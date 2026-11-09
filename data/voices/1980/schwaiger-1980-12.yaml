@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: schwaiger-1980-12
+voice: Bundesrat Dr. Schwaiger
+voice_type: person
+role: ÖVP member of the Austrian Bundesrat
+country: Austria
+country_now: Austria
+domain: politics
+date: "1980-12-04"
+era: posthumous
+polarity: conflicted
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Opposing a 15-million-dollar loan to Turkey's central bank, says Atatürk's attempt to make a modern state of
+  Turkey 'had only partial success'.
+quote:
+  text: >-
+    Der Versuch Kemal Atatürks, einen modernen Staat aus der Türkei zu machen, hatte nur teilweise Erfolg.
+  language: de
+caveat: >-
+  One evaluative sentence inside an economic argument (the ÖVP opposed the loan). First name not given in the
+  protocol; the page number is that of the sitting's page before the running head '14729 Dr. Schwaiger'. Not a
+  notable voice. [Translation:] Kemal Atatürk's attempt to make a modern state out of Turkey had only partial
+  success. Check: his speech begins on p. 14728.
+node: Austrian Nationalrat and Bundesrat on Atatürk, 1980–2019 — Schwaiger, Längle, Cap, Lugar
+sources:
+  - url: https://www.parlament.gv.at/dokument/BR/BRSITZ/403/imfname_177961.pdf
+    archived: https://web.archive.org/web/20231215122522/http://www.parlament.gv.at/dokument/BR/BRSITZ/403/imfname_177961.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.parlament.gv.at/dokument/BR/BRSITZ/403/imfname_177961.pdf (403. Sitzung BR, 4 Dec 1980;
+    'Bundesrat Dr. Schwaiger (ÖVP)'; quote on printed p.14728, speech begins there)
+  method: pdftotext on fresh download
+  note: >-
+    Verbatim; speaker, party, date correct; translation faithful. Page is 14728 (the caveat's wording about
+    14729 is confusing; 14729 is the next running head). Passes the gaze test narrowly: a stated judgment of
+    Atatürk's own attempt ('Versuch Kemal Atatürks...'), polarity conflicted and intensity 1 fair.
+  resolution: corrected/hedged 2026-11-04 — see LEDGER § Source-check corrections (round 24a)
+  checked_on: "2026-11-04"

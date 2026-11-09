@@ -1,0 +1,44 @@
+# Turkish for data/voices/1942/hitler-table-talk-1942.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hitler-table-talk-1942
+voice: Adolf Hitler
+role: Führer; karargâhtaki masa başı sohbetleri
+quote: Mustafa Kemal Atatürk'ün papazlarından kurtulmasındaki hız
+quote_kind: translated
+summary: >-
+  Mustafa Kemal Paşa'nın iktidarı ele geçirdikten sonra akıllıca davrandığını savunur ve din adamlarından ne
+  kadar hızla kurtulduğuna hayranlık duyar.
+caveat: >-
+  Yalnızca archive.org tam metin arama kesitleri olarak görüldü (hitlerssecretcon0000hrtr; kesit 'chapters'
+  kelimesinde kesiliyor). Kitabın dizini 'Ataturk; Kemal, 233, 372, 566' kaydını içerir (kesit sayfaları
+  gösterilmiyor) ve aynı sohbetin bölüm başlığı 'Boris the Fox of Bulgaria—Political plots—Wisdom of Kemal
+  Ataturk' şeklindedir. Aynı kitaptan diğer kesitler: 'That's why Kemal Pasha acted wisely, immediately after
+  the seizure' ve 'Kemal Ataturk, who had nothing to do with his compatriots' (Kürtler ve Küçük Asya üzerine
+  ırksal bir ara söz). 1942-08 tarihi görevdeki ipucudur (1 Ağustos 1942), sayfadan okunmamıştır: doğrulayın.
+  Table Talk, Hitler'in kendi yazısı değil, Bormann'ın notlarının kaydıdır. Sohbet başlığına göre tarih '178,
+  2nd April 1942, midday … Wisdom of Kemal Ataturk' (kontrol edin). Yalnızca kesit; cümlenin sonu ve sayfa
+  (dizin: 233, 372, 566; muhtemelen 233) doğrulanmamıştır.
+mediated_by: >-
+  Trevor-Roper (ed.), Hitler's Secret Conversations 1941-1944 (1961 ABD basımı; Table Talk, Bormann notları)
+verification_note: >-
+  TARİH YANLIŞ: kitaptaki sohbet başlığı '178, 2nd April 1942, midday: In praise of the Tsar Ferdinand - Boris
+  the Fox of Bulgaria - Political plots - Wisdom of Kemal Ataturk' şeklindedir; dolayısıyla tarih 1942-08
+  değil, 1942-04-02'dir. Görülen kesitler: 'The rapidity with which Mustapha Kemal Ataturk rid himself of his
+  parsons makes one of' (kesilmiş; 'the most remarkable chapters' ifadesi erişebildiğim kesitlerde yer
+  almıyor) ve 'That's why Kemal Pasha acted wisely, immediately after the seizure'. Dizin sayfaları
+  233/372/566; 178 numaralı sohbet için olası sayfa 233'tür ancak hiçbir kesitte görünmemektedir. Düzeltme:
+  tarih 1942-04-02; sayfa doğrulanmamış; tam cümle okunmadıkça alıntı 'makes one of' ifadesinde bitmelidir.
+verification_method: >-
+  tools/fts.py kesitleri, 5 sorgu (ödünç nüsha; aynı metnin açık nüshası giriş duvarı arkasındadır ve
+  erişilmemiştir)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 63c4153a3f03
+  role: 95fa2853515f
+  quote: 95fecc82d921
+  summary: 91f2c863d858
+  caveat: 793da5082e0f
+  mediated_by: ba00f2ed3ddd
+  verification_note: 111e1dee8018
+  verification_method: a6f06f2df22b

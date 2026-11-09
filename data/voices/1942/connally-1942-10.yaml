@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: connally-1942-10
+voice: Tom Connally
+voice_type: person
+role: U.S. Senator (Democrat, Texas); chairman of the Foreign Relations Committee
+country: United States
+country_now: United States
+domain: politics
+date: "1942-10-29"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Marks the Republic's 19th anniversary: 'the late great Kemal Ataturk', whose reforms rested on four
+  foundations, none dependent on one man's life.
+quote:
+  text: >-
+    The reforms and projects of Kemal Ataturk stood upon four square national foundations: peace, prosperity,
+    honor, and strength. These foundations are not dependent upon one man's life or popularity for their
+    execution.
+  language: en
+caveat: >-
+  A formal felicitation to Turkey read with unanimous consent ('I feel certain that I am voicing the wishes of
+  the United States Senate'), delivered in wartime when Turkey's neutrality was under Allied pressure;
+  courtesy as well as view. Party, state and committee chairmanship are from the standard biographical record,
+  not from the passage. Cited as Senate, 29 October 1942, Congressional Record vol. 88 (bound), pp. ~8679-8680
+  (granule CRECB-1942-pt7-8-1).
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1942-pt7/pdf/GPO-CRECB-1942-pt7-8-1.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: GovInfo Congressional Record bound-edition PDF GPO-CRECB-1942-pt7-8-1, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads
+  note: >-
+    Quote verbatim, Senate, Thursday 29 October 1942, Mr. CONNALLY under the heading 'Nineteenth anniversary
+    of the proclamation of the Turkish Republic'; on p. 8680 (even-page head follows p. 8679). 'The late great
+    Kemal Ataturk' is in the same statement. Courtesy/instrumental colour is fairly in the caveat; admiring/2
+    is acceptable. Exact page 8680 can replace '~8679-8680'.
+  checked_on: "2026-11-03"

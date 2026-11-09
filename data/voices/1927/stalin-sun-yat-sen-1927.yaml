@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: stalin-sun-yat-sen-1927
+voice: Joseph Stalin
+voice_type: person
+role: General Secretary of the CPSU(b)
+country: Soviet Union
+country_now: Russia
+domain: politics
+date: "1927-05-13"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Defined a Kemalist revolution as a top-stratum revolution of the national merchant bourgeoisie, turned
+  against peasants and workers, and unsuitable for China.
+quote:
+  text: >-
+    A Kemalist revolution is a revolution of the top stratum, a revolution of the national merchant
+    bourgeoisie, arising in a struggle against the foreign imperialists, and whose subsequent development is
+    essentially directed against the peasants and workers, against the very possibility of an agrarian
+    revolution.
+  language: en
+caveat: >-
+  Gaze is on 'the Kemalist revolution' as a type, used as a foil for China, not on Mustafa Kemal personally.
+node: Soviet Leaders on the Kemalists, 1920–1930
+sources:
+  - url: https://www.marxists.org/reference/archive/stalin/works/1927/05/13.htm
+    archived: https://web.archive.org/web/20260401062947/https://www.marxists.org/reference/archive/stalin/works/1927/05/13.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    marxists.org Stalin Works vol. 9, 'Talk with Students of the Sun Yat-Sen University', May 13, 1927
+  method: Free fetch; sentence found; date from the page's H5
+  note: >-
+    Quote verbatim. Said in answer to 'Is a Kemalist revolution possible in China?' as a type, as the caveat
+    says; says it is possible only in Turkey, Persia, Afghanistan. Polarity 'hostile' to the type is fair.
+  checked_on: "2026-11-01"

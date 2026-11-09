@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: aney-1938-11
+voice: M. S. Aney
+voice_type: person
+role: Member for Berar, Central Legislative Assembly (Congress Nationalist)
+country: British India
+country_now: India
+domain: politics
+date: "1938-11-14"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Calls Kemal a towering personality who revived Turkey like the Phoenix, admired most for the courage of his
+  reforms.
+quote:
+  text: >-
+    In him the world has lost a towering personality. He belonged to that race of great men who had the rare
+    good fortune and the rare gift of bringing back to life the dead
+  language: en
+caveat: >-
+  Legislative Assembly Debates, vol. VII (Government of India Press, Delhi 1938), 14 Nov 1938, p. 2955.
+  Official report digitised by the Lok Sabha Secretariat / Government of India Press, via archive.org OCR. He
+  quotes a Sanskrit maxim that success depends on the mettle of the man. Text read from the OCR of the
+  official report; obvious OCR slips are silently corrected in the quote.
+node: >-
+  Indian Legislative Assembly Mourns Kemal, 14 November 1938 — Desai, Nairang, Aney, Aikman, Zafar Ali Khan
+  and Sir Abdur Rahim
+sources:
+  - url: https://archive.org/download/in.ernet.dli.2015.13994/2015.13994.The-Legislative-Assembly-Debates--vol-vii-Th-1938_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Legislative Assembly Debates vol. VII (in.ernet.dli.2015.13994), 14 Nov 1938, p. 2955; speaker header 'Mr.
+    M. S. Aney (Berar: Non-Muhammadan)'
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim (OCR 'de&d'). Phoenix and Sanskrit maxim present. Role label 'Congress Nationalist' is not
+    in the report (outside knowledge), harmless.
+  checked_on: "2026-11-03"

@@ -1,0 +1,16 @@
+# Turkish for data/voices/1938/pompeo-aloisi-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pompeo-aloisi-1938
+voice: Pompeo Aloisi
+role: Kıdemli İtalyan diplomat, eski Milletler Cemiyeti delegesi
+summary: Havas tarafından cenaze törenine İtalya'nın özel delegesi olarak duyuruldu.
+mediated_by: Havas 17 Kasım 1938; Tüylü Turan 2019
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d4b7b3f88352
+  role: 1986d95132d9
+  summary: 434d48732a42
+  mediated_by: f25e92db2e81
+  verification_method: ad8cee67138e

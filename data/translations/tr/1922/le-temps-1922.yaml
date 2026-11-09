@@ -1,0 +1,24 @@
+# Turkish for data/voices/1922/le-temps-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-temps-1922
+voice: Le Temps
+role: Paris yarı resmi günlük gazetesi
+summary: >-
+  İzmir yangınıyla birlikte, Kemal'in taşkınlık yapan askerler için ölüm cezası kararlaştırdığını ve bir barış
+  konferansına hazır olduğunu bildirdi.
+caveat: >-
+  Alıntı Gallica OCR'dan kopyalanmıştır; makalenin tamamı olarak değil, arama eşleşmesi parçaları halinde
+  okunmuştur. Telgraf düzeyinde habercilik; parçalarda onun hakkında editöryal bir yargı yer almamaktadır.
+verification_note: >-
+  Yalnızca arama eşleşmesi parçaları (uyarı notunda belirtildiği gibi); İzmir yangını kısmı parçalarda
+  görülmedi.
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d5ca4c141833
+  role: e6898d5c7551
+  summary: 95dd1be27021
+  caveat: 9eaf1110bcab
+  verification_note: 9bb5ab245511
+  verification_method: ad8cee67138e

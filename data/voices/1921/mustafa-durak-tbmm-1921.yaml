@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mustafa-durak-tbmm-1921
+voice: Mustafa Durak (Erzurum)
+voice_type: person
+role: Erzurum deputy, First Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-08-05"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Accepted Kemal as commander and expected army and nation to trust him more, but pressed amendments
+  protecting the Assembly's executive powers.
+quote:
+  text: >-
+    Bunu Paşa Hazretleri deruhte ettikleri vakit zaten erkânı askeriyemiz içinde kendileri en yüksek
+    kumandanlarımızdan olduğu için milletin ve askerin itimadı artacaktır.
+  language: tr
+caveat: >-
+  Cite: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 2, 62nd sitting, 1st session,
+  5 Ağustos 1337 (1921), p. 203. Also proposed the title 'Millet Başkumandanı' (editor-marked insertion in the
+  edition).
+node: TBMM Closed Sessions on the Commander-in-Chief, 1921–1922
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+    archived: https://web.archive.org/web/20250915054819/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Gizli Celse Zabıtları PDF (acikerisim.tbmm.gov.tr bitstream, pdftotext text layer) cilt 2, printed p.
+    203
+  method: >-
+    pdftotext grep; verbatim; speaker header MUSTAFA DURAK BEY (Erzurum); Millet Başkumandanı proposal present
+  note: >-
+    Quote is spoken by Durak (paragraph begins MUSTAFA DURAK BEY (Erzurum)); amendment 'icraî' also present.
+  checked_on: "2026-10-29"

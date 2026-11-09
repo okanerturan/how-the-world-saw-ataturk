@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: horton-1926
+voice: George Horton
+voice_type: person
+role: US consul and consul-general in the Near East; in Smyrna until 13 Sept 1922
+country: United States
+country_now: United States
+domain: diplomacy
+date: "1926"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Holds that Kemal's soldiers burned Smyrna to exterminate Christianity, that he blundered by doing so, and
+  that Christian powers built him up.
+quote:
+  text: >-
+    Mustapha Khemal made a stupendous blunder when he burned Smyrna and maltreated its inhabitants.
+  language: en
+caveat: >-
+  Who set the Smyrna fire is disputed by historians; the record is Horton's stated view of Kemal. Book p. 167
+  (1926 scan leaf n189).
+node: George Horton
+sources:
+  - url: https://archive.org/details/blightofasiaacco00hort/page/n189/mode/2up?q=Khemal
+  - url: https://archive.org/download/blightofasiaacco00hort/blightofasiaacco00hort_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org blightofasiaacco00hort djvu.txt, end of ch. XIX; also 'building up, by Christian powers, of
+    the sinister puissance of Mustapha Khemal'
+  method: fetch
+  note: >-
+    Quote sits under running head 'Added Details 167', so book page looks like 167 not 163 (n189 leaf is fine).
+  checked_on: "2026-10-29"

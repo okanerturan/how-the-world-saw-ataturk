@@ -1,0 +1,50 @@
+# Turkish for data/voices/1979/john-paul-ii-1979-11-28.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: john-paul-ii-1979-11-28
+voice: Papa John Paul II
+role: Katolik Kilisesi'nin ve Vatikan Şehir Devleti'nin başı; Anıtkabir Özel Defteri'ndeki kayıt
+quote: Atatürk'e ve Türk Devleti'ne hayranlığımın temelinde bu gerçekler yatmaktadır
+quote_kind: original-turkish
+summary: >-
+  Cumhurbaşkanı Korutürk'e, Atatürk'e ve Türk devletine duyduğu hayranlığın azınlıklara eşit muamele
+  edilmesine dayandığını söyler.
+caveat: >-
+  Alıntı, Vatikan'ın İspanyolca metninden (vatican.va libro-oro-ataturk, 28 Kasım 1979) yeniden kurgulanan
+  Fransızca orijinaldir; arşiv yalnızca İspanyolcayı ('El gobierno de los pueblos está en las manos del Señor.
+  Él suscita en el momento oportuno los jefes que les conviene...') ve Belenli & Birbudak'taki Türkçeyi
+  görmüştür, dolayısıyla Fransızca bir geri çeviridir: alıntıyı defter kaydının bir çevirisi olarak ele alın.
+  Türk basını (Milliyet 30 Kasım 1979 s. 10) ayrıca Cumhurbaşkanı Korutürk'e söylediği, Anıtkabir'de
+  'Türkiye'nin kurtarıcısı ve demokratik cumhuriyetinin kurucusu önünde' eğilen ilk papa olduğu ve 'Atatürk'e
+  ve Türk Devleti'ne hayranlığın' azınlıklara yönelik muamelesine dayandığı yönündeki sözlerini aktarır
+  (Türkçe metin; aynı cümleler Belenli & Birbudak 2021'de basılıdır). Defter kaydı Atatürk'ün adını anmaz.
+  Kontrol: defter kaydının kendisi Atatürk'ün adını anmamaktadır; alıntı Korutürk'e yaptığı sözlü açıklamadır
+  (basın haberinin Türkçesi: 'Atatürk'e ve Türk Devleti'ne hayranlığımın temelinde bu gerçekler yatmaktadır').
+mediated_by: >-
+  Milliyet, 29 Kasım 1979, s. 12, yeniden yayımlayan: Belenli & Birbudak 2021 (Belgi 22), s. 598
+verification_note: >-
+  Ziyaretçi defteri kaydı gerçektir ('El gobierno de los pueblos esta en las manos del Senor. El suscita en el
+  momento oportuno los jefes que les conviene, porque el amor a la libertad y el respeto del derecho hacen
+  grande a una nacion, pero es Dios quien garantiza el porvenir'), ancak Atatürk'ün adını anmaz ve onun
+  hakkında hiçbir şey söylemez: sıkı bakış testini geçemez ve kayıttaki alıntı üç noktasız kesilmiş ve
+  fazladan aksan eklenmiş İspanyolcadır. Papa'nın gerçek bakışı, Belenli & Birbudak 2021 (basılı s. 598)
+  tarafından aktarılan Cumhurbaşkanı Korutürk'e yönelik sözlü açıklamasıdır: 'Ataturk'e ve Turk Devleti'ne
+  hayranligimin temelinde bu gercekler yatmaktadir' (Türk devletinin azınlıklara eşit muamelesine dayanan
+  hayranlık) ve ayrıca 'Anitkabir'de Turkiye'nin kurtaricisi ve demokratik cumhuriyetinin kurucusu onunde
+  saygiyla egilen ilk Papa'. Söz konusu makale, kaydedildiği gibi 30 Kasım s. 10'a DEĞİL, Milliyet 29 Kasım
+  1979 s. 12'ye ('Papa Ankara'da torenle karsilandi') atıf yapmaktadır; Cumhurbaşkanlığı'ndaki kabul 28/29
+  Kasım'daydı. DÜZELTME: alıntıyı Türkçe cümleyle değiştirin (çeviri, ikincil: eser ziyaret/konuşma, kanıt J,
+  mediated_by makale <- Milliyet 29 Kasım 1979 s. 12, İtalyanca/Fransızca orijinal görülmedi); ziyaretçi
+  defteri kaydını yalnızca çekince notu olarak tutun. Mevcut haliyle: bir bakış için geçerli bir alıntı
+  değildir.
+verification_method: vatican.va HTML sayfası ve DergiPark PDF metni alındı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: "960e54990728"
+  role: 2c6639b6fc00
+  quote: 4c92edc3b30a
+  summary: a3078fd2cc22
+  caveat: 1fce86470f6b
+  mediated_by: e924cbb85362
+  verification_note: b589745900b0
+  verification_method: "701456058e64"

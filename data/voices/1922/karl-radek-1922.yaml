@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: karl-radek-1922
+voice: Karl Radek
+voice_type: person
+role: Bolshevik Comintern leader
+country: Soviet Russia
+country_now: Russia
+domain: politics
+date: "1922-11-23"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Told persecuted Turkish communists to defend themselves but keep defending Turkish sovereignty, because the
+  moment for their own liberation struggle had not arrived.
+quote:
+  text: >-
+    If they capitulate, then the role of Kemal Pasha is finished, haggling over the fate of Turkey will
+    resume, and the Turkish people will be sold for baksheesh.
+  language: en
+mediated_by: >-
+  Riddell (ed.), Toward the United Front (2012), English translation of the Fourth Congress protocol
+caveat: >-
+  Translation; conditional verdict on the Ankara leadership while Turkish communists were being persecuted.
+node: The Comintern's Verdict on Kemal, 1922–1928
+sources:
+  - url: https://www.marxists.org/archive/radek/1922/radek04.htm
+    archived: https://web.archive.org/web/20241009152450/https://www.marxists.org/archive/radek/1922/radek04.htm
+  - url: https://wsws.org/en/special/library/foundations-turkey/03.html
+    archived: https://web.archive.org/web/20260416034536/https://wsws.org/en/special/library/foundations-turkey/03.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://wsws.org/en/special/library/foundations-turkey/03.html para 44: Radek 23 Nov speech, quote verbatim
+  method: fetch
+  note: >-
+    Gaze is on Turkish sovereignty/Ankara, Atatürk not named; WSWS is a partisan relay of Comintern protocol.
+  checked_on: "2026-10-29"

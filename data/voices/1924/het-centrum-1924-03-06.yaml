@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: het-centrum-1924-03-06
+voice: Het Centrum
+voice_type: press
+role: Utrecht Catholic daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1924-03-06"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Called him the 'Mussolini of the Turks' who deposed the Sultan and shocked the Muslim world; noted Catholic
+  missions told to remove signs of faith.
+quote:
+  text: Kemal Pacha. de Mussolini der Turken
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. The Catholic-schools passage is OCR-garbled; Catholic
+  identity of the paper is from general knowledge, not the KB record.
+node: Dutch Confessional Press and the Fall of the Caliphate, March 1924
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010001277:mpeg21:a0117
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Delpher ddd:010001277:mpeg21:a0117 OCR (Het Centrum 06 mar 1924 art.117)
+  method: fetch
+  checked_on: "2026-10-29"

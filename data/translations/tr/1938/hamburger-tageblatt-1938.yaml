@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/hamburger-tageblatt-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hamburger-tageblatt-1938
+voice: Hamburger Tageblatt
+role: Günlük Hamburg Nazi gazetesi
+summary: >-
+  Ulusal canlanmayı (ordu, eğitim, peçe, Latin alfabesi) hayranlıkla anlatan 10 Kasım 1938 tarihli vefat
+  yazısı (s. 2, 'İsyancıdan Türklerin Babasına'); GHDI bunu, 10 Aralık 1938 tarihli ayrı bir sayıdan (s. 1-2)
+  alınan ve ona atfedilen 'Lider ve Halkı' başlıklı bir yazıyla eşleştirir.
+caveat: >-
+  2026-10-29'da düzeltildi: yazı 10 Aralık 1938 tarihlidir, vefat yazısıyla birlikte basılmamıştır. Yazı
+  Atatürk'e atfedilmektedir; GHDI, Ihrig'e dayanarak bunu Nazi liderlik doktrini olarak çerçeveler.
+mediated_by: GHDI seçkisi çevirisi
+verification_note: >-
+  Vefat yazısı (10 Kasım 1938 s. 2, 'Vom Rebell zum Vater der Tuerken') peçe ve Latin alfabesi dahil
+  doğrulandı; ancak 'Fuehrer und Volk' başlıklı yazı 10 Aralık 1938 s. 1-2 tarihlidir, ayrı bir sayıdadır,
+  vefat yazısıyla birlikte basılmamıştır
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2f80e6d94a12
+  role: 3ef4bc48d6e4
+  summary: 931f34345bb0
+  caveat: b3298c3e1729
+  mediated_by: cc657af0fd5a
+  verification_note: f9db0ff4ad88
+  verification_method: ad8cee67138e

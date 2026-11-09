@@ -1,0 +1,41 @@
+# Turkish for data/voices/1939/benes-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: benes-1939
+voice: Edvard Beneš
+role: Eski Çekoslovakya Cumhurbaşkanı; Chicago konferansları, Democracy Today and Tomorrow
+quote: >-
+  Ayrıca hatırlanmalıdır ki, 1923'ten itibaren Türkiye'de Kemal Atatürk'ün diktatörlüğü tüm gücüyle
+  kurulmuştu: Yunanistan'a karşı kazandığı zafer ve Türkiye'nin tüm toplumsal, kültürel ve ulusal yaşamını
+  cesurca modernleştirmesi, ona diktatörlüğünü 1938'deki ölümüne kadar başarıyla koruyacak yeterli otoriteyi
+  kazandırdı.
+quote_kind: translated
+summary: >-
+  Atatürk'ün diktatörlüğünü iki savaş arası dönemin savaş sonrası diktatörlükleri arasında sayar; ancak onu
+  iktidarda tutan otoriteyi Yunanistan'a karşı kazandığı zafere ve 'cesur modernleştirmesine' bağlar.
+caveat: >-
+  Edvard Beneš, Democracy Today and Tomorrow (New York: Macmillan, 1939), s. 90, 'Downfall of postwar
+  democracies' bölümü; konferanslar 1939'da Chicago Üniversitesi'nde verilmiştir. Açık tarama:
+  democracytodayto00bene (Florida Üniversitesi nüshası); dizinde 'Attaturk, Kemal, 90' olarak yer alır.
+  Faşizmin yükselişi hakkındaki bir tartışmanın içinde yer alan betimleyici bir ara nottur; dolayısıyla her
+  iki niteleme de (diktatörlük, cesur modernleştirme) Beneš'e aittir.
+verification_note: >-
+  Birebir aynı (yalnızca OCR çift boşlukları var): 'It must, besides, be remembered that from 1923 the
+  dictatorship of Kemal Ataturk was established in full force in Turkey: his victory over Greece and his
+  courageous modernisation of the whole social, cultural, and national life of Turkey endowed him with
+  sufficient authority to preserve his dictatorship successfully up to his death in 1938.' S. 90 (ardından
+  yaprak 90 gelir; dizin 'Attaturk, Kemal, 90'; bölüm 'Downfall of postwar democracies'). Telif hakkı 1939,
+  yayımlanma tarihi Ağustos 1939. Açıkça ifade edilmiş bir görüştür (hem 'dictatorship' hem de 'courageous
+  modernisation' Benes'e aittir), dolayısıyla ikircikli/yoğunluk 1 değerlendirmesi yerindedir. Dönem olarak
+  ölüm sonrası (posthumous) doğrudur. OCR bölüm başlığı kayıtla tutarlıdır.
+verification_method: >-
+  Açık djvu metninin curl ile çekilmesi; pasajın ardından yaprak 90 geliyor; dizin maddesi kontrol edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 76b519e9ad85
+  role: 632c53c55fc8
+  quote: 4b1b0ea79819
+  summary: f8199363e117
+  caveat: ea202a6c7083
+  verification_note: 895ee353b9b0
+  verification_method: 4071d0d32f43

@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: johnson-1964-06-22
+voice: Lyndon B. Johnson
+voice_type: person
+role: President of the United States; luncheon toast for Prime Minister İnönü
+country: United States
+country_now: United States
+domain: politics
+date: "1964-06-22"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  Calls Atatürk the 'immortal founder of modern Turkey' who built a great modern state, with İnönü at his side.
+quote:
+  text: We remember the immortal founder of modern Turkey, Kemal Ataturk.
+  language: en
+caveat: >-
+  Toast framed around honouring İnönü, Atatürk's old lieutenant. The same day's welcome on the South Lawn
+  (https://presidency.ucsb.edu/documents/remarks-welcome-the-white-house-prime-minister-inonu-turkey) speaks
+  of 'the dreams of the great Ataturk, at whose side you once worked'. Date from the Project page header.
+node: American, French and Russian Leaders on Atatürk in Their Own Words
+sources:
+  - url: https://presidency.ucsb.edu/documents/toasts-the-president-and-prime-minister-inonu-turkey
+    archived: https://web.archive.org/web/20260924185931/https://www.presidency.ucsb.edu/documents/toasts-the-president-and-prime-minister-inonu-turkey
+  - url: https://presidency.ucsb.edu/documents/remarks-welcome-the-white-house-prime-minister-inonu-turkey
+    archived: https://web.archive.org/web/20251208193509/https://www.presidency.ucsb.edu/documents/remarks-welcome-the-white-house-prime-minister-inonu-turkey
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://presidency.ucsb.edu/documents/toasts-the-president-and-prime-minister-inonu-turkey (page date June
+    22, 1964); also remarks-welcome-the-white-house-prime-minister-inonu-turkey (same date)
+  method: fetch + curl of UCSB pages
+  note: >-
+    Verbatim 'We remember the immortal founder of modern Turkey, Kemal Ataturk.' Companion line 'dreams of the
+    great Ataturk, at whose side you once worked' also present in the South Lawn welcome. Date, speaker,
+    instrumental/1 all fair.
+  checked_on: "2026-11-03"

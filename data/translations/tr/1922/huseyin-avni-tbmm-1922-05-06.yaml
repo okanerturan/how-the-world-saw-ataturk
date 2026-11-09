@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/huseyin-avni-tbmm-1922-05-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: huseyin-avni-tbmm-1922-05-06
+voice: Hüseyin Avni Ulaş
+role: Erzurum milletvekili, Birinci Türkiye Büyük Millet Meclisi
+quote: Paşa Hazretlerinin fedakârlığının derecesini bilmeyen kimse yoktur.
+quote_kind: original-turkish
+summary: >-
+  Kemal'in öfkesine karşılık davaya bağlılık yemini etti, onun fedakârlığını övdü ve dalkavukluk etmek yerine
+  kendisine açıkça konuşacağını söyledi.
+caveat: >-
+  Kaynak: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, Gizli celse, 6 Mayıs
+  1338 (1922), s. 405. Kemal ile yaşanan hararetli bir tartışmanın ardından söylenmiştir; 4 Mayıs kaydıyla
+  aynı konuşmacı, karşıt üslup.
+verification_note: >-
+  Birebir; konuşmacı, Kemal'in 'hakaret' tartışmasının ardından Hüseyin Avni (Erzurum); bağlılık yemini ve
+  'açık lisanla haykırırım' ifadesi iddiayı destekliyor.
+verification_method: pdftotext; sayfa numarası altbilgide (404 / 405), alıntı ikisinin arasında yer alıyor
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b16757f214e4
+  role: aafe3f6d49de
+  quote: cf3abe4277ae
+  summary: 378ebe379a90
+  caveat: f49ab42e7920
+  verification_note: 1d4f961f14ff
+  verification_method: 07ba81aaae7a

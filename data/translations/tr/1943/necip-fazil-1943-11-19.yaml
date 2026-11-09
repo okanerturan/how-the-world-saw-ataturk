@@ -1,0 +1,40 @@
+# Turkish for data/voices/1943/necip-fazil-1943-11-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: necip-fazil-1943-11-19
+voice: Necip Fazıl Kısakürek
+role: >-
+  Şair, Büyük Doğu editörü, daha sonra Kemalizmin en tanınmış İslamcı-muhafazakâr eleştirmeni
+quote: Bir gün Atatürk dirilecektir!!!
+quote_kind: original-turkish
+summary: >-
+  Dünyanın hesabı görülürken Atatürk'ün Etnografya Müzesi'ndeki kabrinden mareşal üniformasıyla kalkıp millete
+  önderlik ettiğini hayal eder.
+caveat: >-
+  Deniz Gültekin'in 2025 İstanbul Üniversitesi doktora tezi 'Necip Fazıl Kısakürek'in Perspektifinden Atatürk
+  ve Cumhuriyet Devrimlerinin Yansımaları'nda (s. 52, dipnot 122) basıldığı şekliyle Türkçe özgün metin. Savaş
+  yılındaki bu yazı bütünüyle hayranlık doludur: 'O gün başımızda bulunacak şahıs ... Atatürk'ten başkası
+  olmayacaktır'. Gültekin, bunun Necip Fazıl'ın Büyük Doğu'nun ikinci devresindeki (1948'den itibaren) Rıza
+  Nur'un Hayat ve Hatıratım'ını tefrika ettiği daha sonraki muhalif dönemiyle oluşturduğu tezada dikkat çeker.
+  Genellikle düşmanca sayılan bir sesin 1943'teki yüzü olarak kaydedilmiştir; 1967 kaydı ise diğer yüzüdür.
+  122. dipnot s. 53'tedir.
+mediated_by: >-
+  Gültekin 2025, s. 52 ← Büyük Doğu, 1. seri, no. 10, 19 Kasım 1943, s. 2 ('Atatürk Dirilecektir!')
+verification_note: >-
+  Alıntı birebir mevcut: 'Bir gün Atatürk dirilecektir!!!' cümlesi s. 52'de basılı pasajı açıyor (Etnografya
+  Müzesi lahdi, 'sırtında mareşal üniforması', 'Atatürk'ten başkası olmıyacaktır'); 122. dipnot (sonraki
+  sayfada, s. 53) Büyük Doğu, birinci devre, sayı 10, '19 İkinci teşrin 1943', s. 2 künyesini veriyor. Üç
+  bağımsız web sayfası aynı metni aktarıyor ve 10. sayıyı belirtiyor; dolayısıyla tez bu noktada güvenilirdir
+  ve sözler Necip Fazıl'a aittir. Hayran/2 adil; ölüm sonrası dönem doğru. (Kayıtta 's. 52, dipnot 122'
+  deniyor: dipnot s. 53'tedir.)
+verification_method: archive.org djvu indirmesi + ücretsiz DuckDuckGo
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5edb2aa2f2a2
+  role: e4335b64ce15
+  quote: 6a24fe5f63cc
+  summary: ddd465a7c748
+  caveat: ecc3fa3c8851
+  mediated_by: 80a9665753a6
+  verification_note: 3da97c094e2f
+  verification_method: f4c9d3e14999

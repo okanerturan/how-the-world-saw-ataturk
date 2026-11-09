@@ -1,0 +1,40 @@
+# Turkish for data/voices/2012/gillard-2012.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: gillard-2012
+voice: Julia Gillard
+role: Avustralya Başbakanı (2010–2013)
+quote: >-
+  büyük bir lider olmaya yazgılı bir adamın önderliğinde, usta bir düşman pusuda bekliyordu. ... ki bunun için
+  Atatürk askerlerine yalnızca saldırmayı değil, ölmeyi de emretmişti.
+quote_kind: translated
+summary: >-
+  Gelibolu'daki Türk liderini büyük bir lider olmaya yazgılı bir adam olarak nitelendirir; Atatürk'ün
+  askerlerine yalnızca saldırmayı değil, ölmeyi de emrettiğini söyler.
+caveat: >-
+  Alıntı aynı konuşmanın iki pasajını birleştirir (üç noktayla işaretlenmiştir; ilki adını anmaz, ikincisi
+  Atatürk adını anar). Övgüden ziyade betimleyicidir; bu konuşmada 'Johnnies' sözleri alıntılanmamıştır.
+  Kutupluluk tanık: devlet adamı olarak kişiliğine değil, komutanlığına dair belirtilmiş bir görüş. Anzak
+  konuşmacılarının Atatürk'e atfettiği 'Johnnies and Mehmets' / 'your sons are now lying in our bosom'
+  metninin kendisi tartışmalıdır: 1934 tarihli bir orijinal bulunamamıştır, metin ilk kez 1953'te İçişleri
+  Bakanı Şükrü Kaya'nın hatırası aracılığıyla basılı olarak ortaya çıkmıştır ve 'Johnnies and Mehmets' ibaresi
+  1978 tarihli bir Avustralya eklemesidir (bkz. [[Johnnies and Mehmets]]). Dolayısıyla bu, övgüyü ödüllendiren
+  bir anma töreni veya diplomatik vesileyle dile getirilmiş, konuşmacının Anzak efsanesindeki Atatürk'e dair
+  görüşüdür. Kaynak gösterimi: Dawn Service address, Gallipoli, 25 April 2012.
+verification_note: >-
+  Her iki parça da 18532 sayılı tutanakta (Gillard, Dawn Service, Gelibolu, 25 Nisan 2012) birebir aynı, ancak
+  ilki ('led by a man destined to become a great leader') Atatürk'ün adını anmaz; ikincisi anar ve tamamen
+  betimleyicidir ('Ataturk ordered his men not only to attack but to die'). what_they_saw alanı 'skilled
+  enemy' ifadesini yanlışlıkla komutan yapıyor; düşman Türk kuvvetidir. Düzeltme: 'Calls the Turkish leader at
+  Gallipoli a man destined to become a great leader; says Ataturk ordered his men not only to attack but to
+  die.' Tanık 1 makul.
+verification_method: XML çekildi, üç noktalı alıntının her iki parçası da eşleştirildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f8591a9a9cf0
+  role: 9b6c72ab8fef
+  quote: 992bb9fa366e
+  summary: c8765f27f8c0
+  caveat: bd38b111c65c
+  verification_note: e0ff494cab3e
+  verification_method: 3f8d2632cdf0

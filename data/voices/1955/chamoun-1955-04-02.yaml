@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: chamoun-1955-04-02
+voice: Camille Chamoun
+voice_type: person
+role: >-
+  President of Lebanon; reply to the Governor and Mayor of Ankara, Kemal Aygün, at the Foreign Ministry
+  residence, during his state visit
+country: Lebanon
+country_now: Lebanon
+domain: politics
+date: "1955-04-02"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: J
+summary: >-
+  Ankara as the place where Atatürk prepared the War of Independence and 'how successfully he brought it to a
+  conclusion'.
+quote:
+  text: >-
+    Ankara şehrinin tarihini ve Atatürk'ün burada İstiklâl Harbini nasıl hazırladığını ve nasıl muvaffakiyetle
+    neticelendirdiğini yakinen bilmekteyim.
+  translation: >-
+    I know closely the history of the city of Ankara, and how Atatürk prepared the War of Independence here
+    and how successfully he brought it to a conclusion.
+  language: tr
+mediated_by: >-
+  Milliyet, 3 Apr 1955, p. 7 (continuation of 'Türk-Lübnan ticaret anlaşması yapıldı', section 'Şamoun'un
+  mukabelesi'): the paper's Turkish rendering
+caveat: >-
+  Borderline under the strict test: the only judgement is 'muvaffakiyetle' (successfully). He adds that he had
+  earlier spent five days in Ankara. The Anıtkabir visit is narration only. Read on the page image (Okan's
+  Milliyet archive login) by a reader agent; not re-read by the main agent.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1955.04.03
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: Milliyet 3 Apr 1955 p. 7 crop (reader agent)
+  method: page image
+  note: Single reader transcription, not re-read by the main agent; borderline polarity.
+  checked_on: "2026-11-06"

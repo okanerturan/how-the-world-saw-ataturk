@@ -1,0 +1,31 @@
+# Turkish for data/voices/1938/estia-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: estia-1938
+voice: Estia
+role: Yunan gazetesi
+quote: Atatürk, Türk-Yunan ilişkilerinin iyi bir hamisiydi
+quote_kind: translated
+summary: >-
+  Hem Türkiye'nin yeniden doğuşunu hem de kalıcı bir Türk-Yunan dostluğunu anlayıp gerçekleştirmiş olan
+  Atatürk'ün, Türk-Yunan ilişkilerinin iyi bir hamisi olduğunu yazdı.
+caveat: >-
+  Yunan gazetesinin Toksoy'daki Türkçe özetinin İngilizce çevirisi. 29 Ekim 2026'da düzeltildi: 'if Turkey
+  loses its founder, Greece loses a great and trusted friend' ifadesi Estia'ya değil, Proia'ya aittir (Toksoy
+  dn. 16); bkz. proia-1938.
+mediated_by: Toksoy 2010 §Yunanistan
+verification_note: >-
+  Alıntı yanlış atfedilmiş: 'If Turkey loses its great founder, Greece loses a great and trusted friend'
+  ifadesi Estia'ya değil, Proia'ya aittir (dn. 16). Toksoy'da Estia, Atatürk'ün Türk-Yunan ilişkilerinin iyi
+  bir güvencesi olduğunu söyler ('Turk-Yunan munasebetlerinin iyi bir hamisi').
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e7325c5d187a
+  role: 5e3f5e9ffd0a
+  quote: 21625abc3d16
+  summary: 77ff8e1c3a95
+  caveat: 7cc4226e4509
+  mediated_by: 260873f7d960
+  verification_note: 7d4dabc780ba
+  verification_method: 939bb46a04c3

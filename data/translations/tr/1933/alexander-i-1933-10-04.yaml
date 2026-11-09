@@ -1,0 +1,40 @@
+# Turkish for data/voices/1933/alexander-i-1933-10-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: alexander-i-1933-10-04
+voice: I. Alexander (Yugoslavya)
+role: Yugoslavya Kralı
+quote: >-
+  Hali, tavrı, konuşması, başı, bakışı ve sesi derhal insan üzerinde nadir bir adam karşısında bulunduğumuzu
+  düşündüren bir tesir bırakıyor.
+quote_kind: original-turkish
+summary: >-
+  Dolmabahçe'de kendisiyle görüştükten sonra Atatürk'ün duruşunun, sesinin ve bakışının nadir bir adama işaret
+  ettiğini ve bu müstesna adamla anlaşmanın kolay olacağını söyledi.
+caveat: >-
+  Ziyaretten aktarılan sözlerin Türkçe aktarımı; özgün dili (Fransızca veya Sırpça) belirtilmemiştir. İkinci
+  cümle, aynı kaynak: 'Devrin bu faik adamı ile anlaşmanın kolay olacağına dair bir intiba hasıl ettim'
+  ('Çağın bu üstün adamıyla anlaşmanın kolay olacağı izlenimini edindim'). Saik: Balkan Paktı'nı kurmak.
+mediated_by: >-
+  Tarih ve Gelecek 2022 s. 533 ← BCA 030.10.251.696.22 (Kral'ın sözlerine ilişkin Türk raporu); aynı makale
+  ziyaret için Şimşir c. IV s. 261, 278'e atıf yapar
+verification_note: >-
+  s. 533'te birebir: 'Hali, tavrı, konuşması, başı, bakışı ve sesi derhal insan üzerinde nadir bir adam
+  karşısında bulunduğumuzu düşündüren bir tesir bırakıyor.' ve ikinci cümle 'Devrin bu faik adamı ile
+  anlaşmanın kolay olacağına dair bir intiba hasıl ettim.' Her ikisi de görüşmeden sonra Kral'ın kendi
+  duyguları olarak sunulmuştur ('Kral Alexander görüşmeye dair duygularını şu şekilde paylaşmıştır'), kaynak
+  bir Türk arşiv belgesidir (BCA); Kral'ın sözlerinin dili ve muhatabı belirtilmemiştir ve 4 Ekim tarihi
+  görüşme tarihidir, sözün söylendiği tarih olması şart değildir. Makalede alıntılandığı şekliyle doğrulandı;
+  Türkçe aktarım olarak ihtiyat kaydı konulmalıdır.
+verification_method: >-
+  DergiPark PDF'inin tools/ms ile doğrudan indirilmesi; alıntılar ve '533' sayfa üstbilgisi tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2682ce134eb2
+  role: 242291bdc5c4
+  quote: fff11c74337c
+  summary: 77ef91e00ab1
+  caveat: f87ce5dc06d1
+  mediated_by: d9c42ae8d5e1
+  verification_note: 00cee8dbd83e
+  verification_method: 8124f37e89ea

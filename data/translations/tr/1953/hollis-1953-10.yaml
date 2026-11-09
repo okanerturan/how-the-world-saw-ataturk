@@ -1,0 +1,36 @@
+# Turkish for data/voices/1953/hollis-1953-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hollis-1953-10
+voice: Christopher Hollis
+role: Muhafazakâr Parti Milletvekili ve yazar
+quote: >-
+  Yunanistan ile Türkiye arasındaki kadim düşmanlığın, devlet adamı Kemal Atatürk tarafından gerçekleştirilen,
+  bu iki ülke arasındaki bir nüfus mübadelesi anlaşmasıyla nasıl sona erdirildiğinin tarihini hepimiz
+  biliyoruz.
+quote_kind: translated
+summary: >-
+  Trieste için bir model teşkil eden nüfus mübadelesi yoluyla Yunanistan ile Türkiye arasındaki kadim
+  düşmanlığı sona erdirmeyi 'devlet adamı Kemal Atatürk'e atfeder.
+caveat: >-
+  European Affairs and Trieste, HC Deb 28 Ekim 1953, c2835. Resmi Hansard tutanaklarının TheyWorkForYou'daki
+  dökümü. Hassas konu (1923 nüfus mübadelesi): bu, Trieste için bir emsal olarak Hollis'in çerçevelemesidir;
+  arşiv bunu benimsemez. Kontrol: alıntı c2839'da yer almaktadır (historic-hansard); TWFY konuşmanın başladığı
+  sütunu verir.
+verification_note: >-
+  Birebir aynı, konuşmacı Christopher Hollis (Devizes) (g2835.3, HC Deb 28 Ekim 1953). Sütun düzeltmesi: cümle
+  c2839'dadır (konuşma c2835'te başlar). Kemal'i 'the statesman' olarak nitelendirir ve mübadeleyi ona
+  atfeder; kendi çerçevelemesidir, hassas konu doğru biçimde işaretlenmiş, benimsenmemiştir. Bakış, hayranlık
+  1 düzeyinde geçerlidir.
+verification_method: >-
+  sayfa çekildi, bağlantılı konuşma bloğu (konuşmacı, tarih, kimlik) içinde alıntının normalleştirilmiş metin
+  eşleşmesi yapıldı; sütun numarası historic-hansard sütun işaretlerinden tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ada336923684
+  role: 03ed5cca359a
+  quote: 98830d381296
+  summary: c3045db9c793
+  caveat: d9a4c2b6b932
+  verification_note: f84af3c4050c
+  verification_method: 59db5bce95bc

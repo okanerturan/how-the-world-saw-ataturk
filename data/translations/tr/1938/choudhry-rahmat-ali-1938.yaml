@@ -1,0 +1,29 @@
+# Turkish for data/voices/1938/choudhry-rahmat-ali-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: choudhry-rahmat-ali-1938
+voice: Choudhry Rahmat Ali
+role: Pakistan Millî Hareketi kurucu başkanı
+quote: >-
+  Türkiye yapıcısını, Asya milliyetçiliğin kahraman havarisini ve dünya en büyük devlet adamlarından birini
+  kaybetti
+quote_kind: translated
+summary: >-
+  Türkiye'nin yapıcısını, Asya'nın milliyetçiliğin kahraman havarisini ve dünyanın en büyük devlet
+  adamlarından birini kaybettiğini söyledi.
+caveat: >-
+  Hareketi için tanınmaya ihtiyaç duyan bir adamdan gelen basmakalıp tek bir telgraf; Ankara'ya ne
+  söylediğinin kanıtıdır, süregelen bir ilginin değil.
+verification_note: >-
+  OCR: 'turkey has lost its maker asia its heroic apostle of nationalism and the world one of its greatest
+  statesman'; rahmat ali imzalı
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 297ccc8972e8
+  role: 2c122ba51460
+  quote: 1bd981494a9b
+  summary: eca5b8efe104
+  caveat: 71abe91014a6
+  verification_note: 32599ba9ce8b
+  verification_method: 939bb46a04c3

@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bakr-sidqi-1936
+voice: Bakr Sidqi
+voice_type: person
+role: Iraqi general; leader of the 1936 coup
+country: Iraq
+country_now: Iraq
+domain: military
+date: "1936-10"
+era: contemporary
+polarity: instrumental
+intensity: 3
+mirror: nation-forge-template
+artifact: policy
+evidence: S+T
+summary: >-
+  Led the 1936 coup; Sorby has him and Hikmat Sulayman both 'inspired by Kemalist Turkey', which kept its
+  independence only through reorganising its army; Britannica (as recorded earlier) has him reorganising the
+  Iraqi army along Kemalist lines; reports say he was about to fly to Turkey when shot in Aug 1937.
+caveat: >-
+  Britannica was unreachable on re-check (2026-10-29), so the 'reorganised the army along Kemalist lines'
+  wording is unconfirmed this round. The Aug 1937 trip is Wikipedia-only (T, single source); an 'invitation
+  from the Turkish government' is not found in any reachable source. Note calls his Kemalism borrowed
+  machinery.
+node: Bakr Sidqi
+sources:
+  - url: https://britannica.com/biography/Bakr-Sidqi
+    archived: https://web.archive.org/web/20260309084601/https://britannica.com/biography/Bakr-Sidqi
+  - url: https://journals.pan.pl/Content/82263
+verification:
+  verdict: partial
+  checked_against: https://journals.pan.pl/Content/82263 (Sorby 2015); britannica.com blocked
+  method: fetch
+  note: >-
+    Sorby supports Bakr Sidqi/Hikmat Sulayman inspired by Kemalist Turkey, which kept independence only
+    through army reorganisation. 'Reorganised the army along Kemalist lines after the coup' and the 1937
+    Turkey invitation not found (Britannica unreachable; Wikipedia-only per caveat).
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

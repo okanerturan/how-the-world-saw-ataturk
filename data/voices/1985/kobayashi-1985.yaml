@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kobayashi-1985
+voice: Susumu Kobayashi
+voice_type: person
+role: Member of the Japanese House of Representatives
+country: Japan
+country_now: Japan
+domain: politics
+date: "1985-04-23"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  After visiting Anıtkabir, says he is full of deep respect and admiration for the leader who saved Turkey
+  from national catastrophe.
+quote:
+  text: bu tarihî lidere en derin saygı ve hayranlık hisleriyle dolu bulunmaktayım.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 53 (printed p. 42). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "I am filled with the deepest feelings of respect and admiration for this historic
+  leader." Heading: 'Japonya Temsilciler Meclisi Üyesi Susumu Kobayashi', 23 Nisan 1985; speech begins PDF p.
+  52.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 53 (printed p. 42); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c53.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Japonya Temsilciler Meclisi Üyesi
+    Susumu Kobayashi, 89. Birleşim, 23 Nisan 1985 (heading on PDF p. 52)'). Anıtkabir visit sits on PDF p. 52
+    and the quote continues on p. 53; both fine.
+  checked_on: "2026-11-01"

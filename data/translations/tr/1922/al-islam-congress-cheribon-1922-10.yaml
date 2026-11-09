@@ -1,0 +1,31 @@
+# Turkish for data/voices/1922/al-islam-congress-cheribon-1922-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-islam-congress-cheribon-1922-10
+voice: Al-Islam Kongresi, Cheribon
+role: Tjokroaminoto liderliğindeki Cava Müslümanlarının Pan-İslamist kongresi
+quote: bu nedenle Mustafa Kemal'e telgrafla tebrikler gönderilmesine karar verildi
+quote_kind: translated
+summary: >-
+  Kemal'in Yunanlara karşı kazandığı zaferi coşkuyla karşıladı ve telgraf masrafını Arap bağışçıların
+  üstlenmesiyle kendisine kutlama telgrafı çekilmesine karar verdi.
+caveat: >-
+  Sömürge gazetesi haberleri; telgraf hiçbir zaman gönderilmedi (Sumatra-Bode yetkililerin onu iletmeyeceğini
+  yazıyor). Hasmane tutumdaki Hollanda basını kongreyi Pan-İslamist olarak çerçeveliyor.
+mediated_by: >-
+  Bataviaasch Nieuwsblad 28 Kasım 1923 ('Indië en Angora', Preanger muhabiri); Sumatra-Bode 27 Kasım 1922
+verification_note: >-
+  Birebir metin: 'werd dan ook besloten aan Moestafa Kemal telegrafisch gelukwenschen te zenden; Arabieren
+  betaalden de kosten van het telegram'. İkinci kaynak telgrafın hiçbir zaman iletilmeyeceğini doğruluyor
+  ('zal ooit door Kemal Pasha ontvangen worden ... niet uitgeseind').
+verification_method: curl resolver.kb.nl OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d6d6a5d57577
+  role: c4e7a04d324b
+  quote: 791ec808be3e
+  summary: 78b7f33eaac6
+  caveat: bcb09b189435
+  mediated_by: 534a84167f7f
+  verification_note: 9c8c5be2fc67
+  verification_method: 98b57efaa414

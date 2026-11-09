@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sikes-1975-10
+voice: Robert L. F. Sikes
+voice_type: person
+role: U.S. Representative from Florida (Democrat)
+country: United States
+country_now: United States
+domain: politics
+date: "1975-10-02"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Arguing to lift the Turkish arms embargo, credits 'the strong leadership of Ataturk' with giving the Turks a
+  new concept of national responsibility and progress.
+quote:
+  text: >-
+    Following World War I, the Turks developed a new concept under the strong leadership of Ataturk-Mustafa
+    Kemal-of national responsibility and progress.
+  language: en
+caveat: >-
+  One sentence in the Cyprus arms-embargo debate, a defence of Turkey against the 'Terrible Turks' talk; the
+  praise serves the argument. State from his own colleague's reference ('the distinguished gentleman from
+  Florida') and the standard record. Page from running head. Cited as House of Representatives, 2 October
+  1975, Congressional Record vol. 121 (bound), p. ~31479 (granule CRECB-1975-pt24-5-2).
+node: Senate and House on Atatürk, 1957–1990 — Powell, Sikes, Mathias and Byrd
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1975-pt24/pdf/GPO-CRECB-1975-pt24-5-2.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    govinfo bound CR PDF (fresh download, pdftotext -layout) GPO-CRECB-1975-pt24-5-2, House 2 Oct 1975, p.
+    31479
+  method: >-
+    fresh PDF download, pdftotext, read headers and columns; 'Mr. SIKES. Mr. Chairman, I move to strike the
+    last word' then right column
+  note: >-
+    Verbatim, in Sikes's own remarks on the arms-embargo bill. Page and date correct. Thin (one clause:
+    'strong leadership of Ataturk') but a stated admiring view; intensity 1 fair.
+  checked_on: "2026-11-04"

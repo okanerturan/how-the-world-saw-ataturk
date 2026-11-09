@@ -1,0 +1,36 @@
+# Turkish for data/voices/1938/pravda-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pravda-1938
+voice: Pravda
+role: Sovyet parti günlük gazetesi
+quote: >-
+  Cumhuriyet'in ilanı, ulusal bankaların ve ulusal sanayinin kurulması, demiryollarının inşası gibi pek çok
+  reformun yaratıcısı ve öncüsü
+quote_kind: translated
+summary: >-
+  NYT'ye (13 Kasım 1938) göre SSCB'ye dostluğunu vurgulayan uzun ve övgü dolu bir biyografi yayımladı; bu
+  durum Moskova'nın Ankara ile ilişkileri geliştirme arzusuna işaret ediyor olabilir; Türk bakanlığının
+  derlemesi ise 10 Kasım tarihli Pravda'dan yalnızca reformlarının bir listesini basmaktadır.
+caveat: >-
+  Alıntı, Türk bakanlığı derlemesinin İngilizce çevirisidir; 2026-10-29 kontrolünde NYT'ye ulaşılamamıştır.
+  Düzeltme: 'independence movement ... all sincere friends feel sorrow' satırı Izvestia (11 Kasım) başlığıyla
+  verilmiştir, bkz. izvestia-1938. Derlemenin ilk satırı yanlışlıkla Khrushchev'e atfedilmiştir; ölüm yazıları
+  1930'ların sonlarını (Montrö gerginliği) kasıtlı olarak atlamıştır.
+mediated_by: Türkiye Kültür ve Turizm Bakanlığı yabancı alıntılar derlemesi (T); NYT 13 Kasım 1938 (J)
+verification_note: >-
+  KTB sayfasında 'independence movement ... all sincere friends feel sorrow' alıntısı Izvestia 11 Kasım 1938
+  olarak etiketlenmiştir; Pravda 10 Kasım kaydı ise bir reform listesidir (cumhuriyet, bankalar, demiryolları,
+  Latin alfabesi, kadın hakları). Alıntı yanlışlıkla Pravda'ya atfedilmiştir; 'long laudatory biography'
+  ifadesi NYT'ye dayanmaktadır, ulaşılamamıştır
+verification_method: web erişimi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: eecfe61076ed
+  role: "563884169e38"
+  quote: bff578b25ed7
+  summary: c413b99f6c7e
+  caveat: 1bd5dabf54ae
+  mediated_by: 055d55d844cf
+  verification_note: 3dfb0d0ad943
+  verification_method: ad8cee67138e

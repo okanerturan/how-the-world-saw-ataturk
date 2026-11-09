@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zafar-ali-khan-1938-11
+voice: Zafar Ali Khan
+voice_type: person
+role: Urdu poet and editor of Zamindar, Muslim League member for East Central Punjab
+country: British India
+country_now: India
+domain: politics
+date: "1938-11-14"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Reads an Urdu elegy and calls Kemal 'one of the greatest figures of the modern age', correcting himself to
+  'the greatest'; asks for a holiday.
+quote:
+  text: one of the greatest figures of the modern age -- I mean the greatest figure
+  language: en
+caveat: >-
+  Legislative Assembly Debates, vol. VII (Government of India Press, Delhi 1938), 14 Nov 1938, pp. 2956-57.
+  Official report digitised by the Lok Sabha Secretariat / Government of India Press, via archive.org OCR. The
+  Urdu verses are printed in transliteration in the report; they are not quoted here. He threatens that the
+  Muslim League will walk out unless the House adjourns. Text read from the OCR of the official report;
+  obvious OCR slips are silently corrected in the quote. Earlier framing sentence (previously stored): Mustafa
+  Kemal Pasha's death means more to the Mussalman world than to any other section of humanity.
+node: >-
+  Indian Legislative Assembly Mourns Kemal, 14 November 1938 — Desai, Nairang, Aney, Aikman, Zafar Ali Khan
+  and Sir Abdur Rahim
+sources:
+  - url: https://archive.org/download/in.ernet.dli.2015.13994/2015.13994.The-Legislative-Assembly-Debates--vol-vii-Th-1938_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Legislative Assembly Debates vol. VII (in.ernet.dli.2015.13994), 14 Nov 1938, p. 2956 (quote) and p. 2957
+    (greatest figure passage); speaker header 'Maulana Zafar Ali Khan (East Central Punjab: Muhammadan)'
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim as a substring of 'as Mustafa Kemal Pasha's death means more to the Mussalman world than to
+    any other section of humanity' (OCR 'Kemai'). Weakness: the quoted sentence is a framing remark and does
+    not itself state his view of Kemal; the gaze test is met by his own words on p. 2957 ('one of the greatest
+    figures of the modern age -- I mean the greatest figure of the modern age'), which is what what_they_saw
+    reports. Suggest swapping or extending the quote to that sentence. Verses are in transliteration, not
+    quoted. Walk-out threat is phrased 'we shall not be able to take part ... and will leave the House'; the
+    Muslim League name comes from the President's reply. All fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 23a)
+  checked_on: "2026-11-03"

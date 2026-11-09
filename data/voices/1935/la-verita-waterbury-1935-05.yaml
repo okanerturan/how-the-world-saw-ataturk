@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-verita-waterbury-1935-05
+voice: La Verità (Waterbury)
+voice_type: press
+role: Italian-language weekly, Waterbury, Connecticut
+country: United States
+country_now: United States
+domain: press
+date: "1935-05-03"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: emancipator-patriarch
+artifact: editorial
+evidence: P
+summary: >-
+  Praises Lady Astor's speech hailing 'dictator' Kemal for freeing Turkish women from the harem; credits him
+  with restoring Turkey's political unity.
+quote:
+  text: ha riconosciuto i meriti indiscutibili del capo supremo della nuova Turchia
+  language: it
+caveat: >-
+  Unsigned column; the paper's loyalty to Italian Fascism is not shown in this passage. The quoted clause is
+  the paper's comment on Astor's speech.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn95063190/1935-05-03/ed-1/?sp=2
+    archived: https://web.archive.org/web/20250328214418/https://www.loc.gov/resource/sn95063190/1935-05-03/ed-1/?sp=2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn95063190 1935-05-03 p.2 OCR
+  method: tile.loc.gov full_text
+  note: >-
+    Verbatim (OCR line breaks); praises Astor, 'dittatore' in quotes, women freed from harem, restored
+    political unity.
+  checked_on: "2026-10-30"

@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: garvey-1922
+voice: Marcus Garvey
+voice_type: person
+role: UNIA president and Pan-African leader
+country: United States (Jamaican-born)
+country_now: United States
+domain: politics
+date: "1922-09-23"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Calls Kemal 'the man of the hour' who will lay the foundation of a changed world, and rejects the
+  'barbarian' charge as British hypocrisy.
+quote:
+  text: Mustapha Kemal has become the man to the hour, even as the Kaiser was in 1914.
+  language: en
+caveat: >-
+  Front page of The Negro World, vol. XIII no. 6, 23 Sept 1922 ('Marcus Garvey sends message to Negro peoples
+  of the world on war crisis'), section 'Some Reflections on the Eastern Situation' (Dangerous Press OCR of
+  the issue, page number not shown by the OCR; it is the front-page lead). He adds 'Kemal is going to lay the
+  foundation for a changed world', and, on Smyrna, 'They tell us that Kemal is a barbarian ... because they
+  burned Smyrna and killed so many people in Smyrna', answering that the British bombed natives in Africa.
+  Smyrna is a contested thread: this is Garvey's framing of it, not the vault's. His purpose is to warn that
+  Negroes will not fight Britain's war against the Turks (instrumental as well as admiring). Same speech:
+  'Kemal's teacher was one of the men who fought in the German war as a German general'. Check: the quote is
+  from the Liberty Hall speech 'The Negro Attitude in the Next War' (delivered after 12 Sept, probably 17
+  Sept), printed in the 23 Sept issue; 'front page' is unsupported (OCR gives no page).
+node: Poets, Reformers and the Black Press on Atatürk, 1921–1935
+sources:
+  - url: https://dangerouspress.org/papers/negro-world/1922-09-23
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: dangerouspress.org/papers/negro-world/1922-09-23 (OCR of the issue), fetched fresh
+  method: free fetch
+  note: >-
+    Quote verbatim: 'Mustapha Kemal has become the man to the hour, even as the Kaiser was in 1914.' Also
+    'Kemal is going to lay the foundation for a changed world', the 'barbarian ... burned Smyrna' passage and
+    'Kemal's teacher...' are present. Correction to the caveat: the quote is in the Liberty Hall speech 'The
+    Negro Attitude in the Next War' (section 'Some Reflections on the Eastern Situation', Garvey speaking in
+    the first person, 'my subject for tonight', applause marked), printed in the issue of 23 Sept; it is not
+    the front-page 'Message to Negro peoples' article, and the OCR gives no page number, so 'front-page lead'
+    is unsupported. The speech was delivered before the issue date (it says the delegates spoke at Geneva 'on
+    the 12th of this month'), probably Sunday 17 Sept; 23 Sept is the print date. Era unaffected.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

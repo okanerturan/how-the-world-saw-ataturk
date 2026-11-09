@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: roncalli-1938
+voice: Angelo Roncalli (later Pope John XXIII)
+voice_type: person
+role: Apostolic Delegate to Turkey and Greece
+country: Turkey (Vatican envoy)
+country_now: Turkey
+domain: religion
+date: "1938"
+era: funeral
+polarity: conflicted
+intensity: 2
+artifact: memoir
+evidence: S
+summary: >-
+  Prays for Atatürk and the Greek Orthodox patriarch, rejecting the cold feelings others held; leaves judgment
+  to the Lord, whom he thinks meek and kind.
+quote:
+  text: >-
+    I do not share the cold sentiments entertained by these two lives which have now passed away.
+  language: en
+mediated_by: >-
+  Ezio Bolis (Director, Pope John XXIII Foundation, Bergamo), 'What Was John XXIII Really Like?', EWTN,
+  quoting the diary in English
+caveat: >-
+  Quoted in English translation by the Foundation director from Roncalli's diary; the Italian original and the
+  Journal of a Soul text were not reached. The diary date given is .. died' - a slip in the lecture; date
+  stored as 1938 only. The entry joins Atatürk with the Greek Patriarch Chrysostomos; the speaker adds that
+  Roncalli visited the body and prayed. The existing note on Pope John XXIII says only that he told Rome the
+  world had lost a great man; this record rests on the diary. The relayed diary date '19 Oct 1938' is
+  impossible (Atatürk died 10 Nov, Chrysostomos c. 22 Oct); the entry is after 10 Nov. It concerns Atatürk:
+  the passage names 'the leader of the Turks, secular reformer of that people'. Single secondary relay of an
+  English translation (Bolis, EWTN); Italian original not seen.
+node: Western Statesmen and Churchmen on Atatürk in Their Own Words
+sources:
+  - url: https://ewtn.com/catholicism/library/what-was-john-xxiii-really-like-5590
+    archived: https://web.archive.org/web/20260210181627/https://www.ewtn.com/catholicism/library/what-was-john-xxiii-really-like-5590
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    EWTN, Ezio Bolis, 'What Was John XXIII Really Like?'
+    (ewtn.com/catholicism/library/what-was-john-xxiii-really-like-5590); Wikipedia 'Chrysostomos I of Athens'
+    for the Patriarch/Archbishop death date; Italian and Journal of a Soul text not reachable (3 searches, no
+    hit)
+  method: >-
+    tools/ms free fetch of the EWTN lecture; read the passage in context; searches in English and Italian for
+    the diary entry; checked Chrysostomos' death date
+  note: >-
+    Quote is verbatim in the EWTN lecture, but the lecture dates the diary entry '19 October 1938'. That date
+    cannot be right for a text speaking of 'these two lives which have now passed away': Atatuerk died 10 Nov
+    1938, and the Greek prelate Chrysostomos (Archbishop of Athens, the second figure) died on or about 18-22
+    Oct 1938 (Wikipedia gives 22 Oct), i.e. also after 19 Oct. The entry itself (as quoted) names 'The leader
+    of the Turks, secular reformer of that people' and 'the religious leader of the Greek Orthodox', so it
+    does concern Atatuerk, but only by that description, and its true date is unknown (must be after 10 Nov
+    1938). So the person is identified by the lecture's gloss plus the diary's own description, the date in
+    the source is erroneous, and the original text was not seen. CORRECTION: keep date as '1938' (or
+    '1938-11?' flagged); delete '19 Oct 1938' as a diary date and state that the lecture's dating is
+    impossible; quote the identifying sentence ('The leader of the Turks, secular reformer of that people, and
+    the religious leader of the Greek Orthodox ...') in the note; evidence should read single secondary relay
+    of a translation, not S-confirmed diary; era 'funeral' is plausible but unproven.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 13)
+  checked_on: "2026-11-01"

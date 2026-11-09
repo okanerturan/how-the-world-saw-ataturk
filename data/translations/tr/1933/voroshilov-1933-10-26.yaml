@@ -1,0 +1,34 @@
+# Turkish for data/voices/1933/voroshilov-1933-10-26.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: voroshilov-1933-10-26
+voice: Kliment Voroshilov
+role: >-
+  Sovyet Askerî ve Deniz İşleri Halk Komiseri, Cumhuriyet'in 10. yıl dönümü heyetinin başkanı
+quote: >-
+  Yeni Türkiye'nin büyük önderi, Cumhuriyet'in çok saygıdeğer Cumhurbaşkanı Mustafa Kemal Paşa ile bizzat
+  görüşme fırsatından özellikle memnunum
+quote_kind: translated
+summary: >-
+  İstanbul'da karaya çıktığında Türk basınına yaptığı açıklamada, 'yeni Türkiye'nin büyük önderi' ile
+  görüşmekten özellikle memnun olduğunu söyler.
+caveat: >-
+  Правда sayı 298 (5824), 28 Ekim 1933, s. 1, 'Заявление тов. Ворошилова' (TASS, İstanbul, 26 Ekim; Türk
+  basınına açıklama). Sayfa görüntüsünden okundu. Varışta nezaket selamlaması, cümle İsmet Paşa ve Tevfik
+  Rüştü Aras ile devam eder; yoğunluk 1. Alıntılanan sözler yayımlanan (TASS) metindir.
+verification_note: >-
+  Alıntı TEK düzeltmeyle bulundu: sayfada 'rad vozmozhnosti' (tamlayan hali) yazmaktadır, kayıtta ise
+  'vozmozhnostyu' vardır. Geri kalanı birebir aynıdır; cümle 'ego vydayushchegosya soratnika ... Ismet-pashu
+  ... Tevfik Rushtu-beya' diye devam eder. Türk topraklarına girerken (İstanbul, 26 Ekim) Türk basınına
+  yapılan TASS açıklaması; çeviri sadıktır. Nezaket selamlaması, 'yeni Türkiye'nin büyük önderi' ifadesi
+  açıktır ama geçerken söylenmiştir; yoğunluk 1'de tutulsun.
+verification_method: PDF sayfası 250 dpi çözünürlükte işlendi ve görüntü üzerindeki Rusça OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ed5045773f78
+  role: 99e488415c76
+  quote: 579e362014df
+  summary: ce5c4cdff6e6
+  caveat: 08c564db38e4
+  verification_note: 8c90e54d82f6
+  verification_method: d8c78ee06983

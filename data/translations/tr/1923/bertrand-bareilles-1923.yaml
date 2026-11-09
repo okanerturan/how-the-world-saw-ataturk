@@ -1,0 +1,23 @@
+# Turkish for data/voices/1923/bertrand-bareilles-1923.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bertrand-bareilles-1923
+voice: Bertrand Bareilles
+role: Fransız yazar
+quote: Mustafa Kemal tüm yetkilere el koydu ve bunları yardımcılarıyla paylaştı
+quote_kind: translated
+summary: >-
+  Ankara anayasasını Levanten cambazlığı, Kemal'i ise tüm yetkilere el koymuş biri diyerek alaya aldı; buna
+  karşın onu İslam'ın Selahaddin tipi modern sancaktarı olarak resmetti.
+caveat: >-
+  Kitabın tamamı değil, Gallica ContentSearch parçaları olarak okunmuştur (görüntü numaraları 193, 196, 198);
+  tutum düşmanca eğilimlidir, çelişkili olduğu savunulabilir.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5b7bbdd1ce9e
+  role: 7bf1cd969104
+  quote: 3a1950f02c26
+  summary: 006f46a6871c
+  caveat: 574b902bd6d5
+  verification_method: ad8cee67138e

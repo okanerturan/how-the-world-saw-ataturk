@@ -1,0 +1,25 @@
+# Turkish for data/voices/1921/newton-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: newton-1921
+voice: Lord Newton
+role: Lordlar Kamarası, Türk savaş suçluları görüşmesi
+quote: >-
+  Sanıyorum ki çok geçmeden Mustafa Kemal Paşa ile bir tür anlaşmaya varacağız ve sanıyorum ki belirli şartlar
+  öne sürmeye hakkımız olacak
+quote_kind: translated
+summary: >-
+  Britanya'nın yakında Kemal ile anlaşma şartlarında uzlaşmasını bekliyordu ve Türk savaş suçlularının
+  iadesinin ya da yargılanmasının şart koşulmasını önerdi.
+caveat: Geçerken değinme; bizzat Kemal hakkında belirtilmiş bir görüş yok.
+verification_note: Birebir. Araçsal okuma uygun düşüyor (anlaşma şartlarına koşul bağlanması).
+verification_method: Hansard API Spoken araması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7dc8b0962c66
+  role: 670f0be5f5c9
+  quote: 500c0a6a76f1
+  summary: 29a20c345bdc
+  caveat: 0cd3e5e0fc5b
+  verification_note: 0d9b114d13a7
+  verification_method: eb299d3d7c05

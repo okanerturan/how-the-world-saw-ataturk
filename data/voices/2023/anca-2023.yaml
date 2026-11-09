@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: anca-2023
+voice: Armenian National Committee of America
+voice_type: institution
+role: US Armenian advocacy group
+country: United States
+country_now: United States
+domain: politics
+date: "2023-08"
+era: posthumous
+polarity: hostile
+intensity: 2
+artifact: report
+evidence: J
+summary: >-
+  Campaigned against the Disney+ Atatürk series as glorifying a perpetrator, linked to Armenian genocide
+  memory.
+node: 2023 Atatürk Series Controversy
+sources:
+  - url: https://yetkinreport.com/en/2023/08/02/a-shame-disney-cancels-ataturk-series-after-armenian-committees-call/
+    archived: https://web.archive.org/web/20260413171029/https://yetkinreport.com/en/2023/08/02/a-shame-disney-cancels-ataturk-series-after-armenian-committees-call/
+  - url: https://www.aljazeera.com/news/2023/8/2/turkey-slams-reports-disney-will-scrap-ataturk-series
+    archived: https://web.archive.org/web/20260217032625/https://www.aljazeera.com/news/2023/8/2/turkey-slams-reports-disney-will-scrap-ataturk-series
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://www.aljazeera.com/news/2023/8/2/turkey-slams-reports-disney-will-scrap-ataturk-series ;
+    https://yetkinreport.com/en/2023/08/02/a-shame-disney-cancels-ataturk-series-after-armenian-committees-call/
+  method: fetch
+  note: ANCA call was June 2023; Disney cancellation reported Aug 2023.
+  checked_on: "2026-10-29"

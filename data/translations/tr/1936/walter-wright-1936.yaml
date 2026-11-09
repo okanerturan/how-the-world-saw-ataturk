@@ -1,0 +1,39 @@
+# Turkish for data/voices/1936/walter-wright-1936.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: walter-wright-1936
+voice: Walter L. Wright Jr.
+role: İstanbul'daki Robert Kolej ve Amerikan Kız Koleji Başkanı
+quote: >-
+  Yenilmiş, aşağılanmış, bitkin düşmüş Türkiye halkı, olağanüstü yetenek ve cesarete sahip bir lider buldu. …
+  Onun liderliği altında Türkiye halkı işgalcileri denize döktü
+quote_kind: translated
+summary: >-
+  Atatürk'ü, yeni doğmuş ulusun yaşam gücünü kavrayıp işgalcileri denize döken olağanüstü cesarete sahip lider
+  olarak kabul eder.
+caveat: >-
+  Yayımladığı metinleri seçip basan (ve bazı yazıları çeviren) Kemalist bir devlet propaganda yayın organı
+  olan Türk Basın Genel Müdürlüğü'nün (Direction Générale de la Presse, İçişleri Bakanlığı) resimli dergisi La
+  Turquie kémaliste'te yayımlanmıştır; archive.org'daki la_turquie_kemaliste kaydının OCR metninden
+  okunmuştur. İmzalı İngilizce özgün metin, 'Romance and Revolution', sayı 14 (Ağustos 1936); archive.org
+  kaydında Türkçe bir çevirisi ('Cazibe ve devrim') mevcuttur. OCR'da sayfa numarası görünmemektedir.
+  Kolejleri Cumhuriyet mevzuatı altında faaliyet gösteren İstanbul'daki Protestan bir eğitimci olan Wright,
+  bir Türk hükümet dergisi için yazmaktadır; bir Amerikan koleji başkanı tanınmış ama çıkar kaygısından uzak
+  olmayan bir tanıktır. Aynı yazıda, etkisiz hükümetlerden hoşnutsuz uluslar bağlamında Türk devletini 'a
+  pattern for other nations' olarak adlandırır (kendi sözleri, burada alıntılanmamıştır). Kanıt P (imzalı
+  özgün metin), yayın organı not edildi. Kaynak gösterimi: La Turquie kémaliste sayı 14 (Ağustos 1936),
+  'Romance and Revolution'.
+verification_note: >-
+  OCR dizgi hataları ('extraordinery', 'invadors') düzeltildikten sonra İngilizce metin birebir aynı; '…'
+  eksiltmesi doğru. İmza satırı: 'Walter L. Wright, Jr., President of the American College for Girls and of
+  Robert College'. Kendi görüşü; bakış uygun; yayın organı not edildi.
+verification_method: djvu metni çekildi, dizge eşleştirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b93fb1e59971
+  role: d03624b815ca
+  quote: c446c245613c
+  summary: 5da7949ccb29
+  caveat: 3d5e5342ac02
+  verification_note: 36bc17e05217
+  verification_method: 8d8522007a86

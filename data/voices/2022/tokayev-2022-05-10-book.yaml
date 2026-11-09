@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tokayev-2022-05-10-book
+voice: Kassym-Jomart Tokayev
+voice_type: person
+role: President of Kazakhstan; entry in the Anıtkabir special book
+country: Kazakhstan
+country_now: Kazakhstan
+domain: politics
+date: "2022-05-10"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Remembers Atatürk, founder of the Turkish Republic, with mercy and sends respects to the Turkish people
+  'whose roots are one with ours'.
+quote:
+  text: >-
+    Türkiye Cumhuriyeti kurucusu Mustafa Kemal Atatürk'ü rahmetle anıyor, köklerimiz bir Türk halkına
+    saygılarımı iletiyorum.
+  is_translation: true
+  language: tr
+mediated_by: Haberler (AA) and TRT Haber, 10 May 2022 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering (AA) of an entry probably written in Kazakh or Russian; the original is not located.
+  Haberler (AA) and TRT Haber print the same text, one AA wire. The remainder wishes lasting friendship and
+  cooperation.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.haberler.com/guncel/kazakistan-cumhurbaskani-tokayev-anitkabir-i-14930199-haberi/
+    archived: https://web.archive.org/web/20220621161419/https://www.haberler.com/guncel/kazakistan-cumhurbaskani-tokayev-anitkabir-i-14930199-haberi/
+  - url: https://www.trthaber.com/foto-galeri/kazakistan-cumhurbaskani-anitkabiri-ziyaret-etti/46534.html
+    archived: https://web.archive.org/web/20220613021640/https://www.trthaber.com/foto-galeri/kazakistan-cumhurbaskani-anitkabiri-ziyaret-etti/46534.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Haberler (AA) 10 May 2022 13:51; TRT Haber photo gallery 10 May 2022
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used
+  note: >-
+    Quote verbatim (Turkish grammar as printed, 'köklerimiz bir Türk halkına'); AA credit on Haberler; TRT
+    gallery identical: one source. Date correct. Admiring/1 acceptable for a 'rahmetle anıyor' commemorative
+    formula; instrumental would also be defensible. Original language not located.
+  checked_on: "2026-11-03"

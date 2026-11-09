@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bernard-lewis-1961
+voice: Bernard Lewis
+voice_type: person
+role: British-American historian of the Middle East; The Emergence of Modern Turkey (1961)
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1961"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  A tough, brilliant soldier, hard drinker and wencher of immense will; a dictator, but one who respected
+  decency and legality, without terror or camps.
+quote:
+  text: >-
+    A tough and brilliant soldier, a hard drinker and wencher, he was in all things a man of immense will and
+    abounding vitality. ... His was a dictatorship without the uneasy over-the-shoulder glance, the terror of
+    the door-bell, the dark menace of the concentration camp.
+  language: en
+caveat: >-
+  The Emergence of Modern Turkey, ch. VIII 'The Kemalist Republic', p. 290 in the 2nd edition (OUP/RIIA 1968),
+  read in the open archive.org text (THEEMERGENCEOFMODERNTURKEY). The same wording is in the 1961 first
+  edition (archive.org search-inside of emergenceofmoder0000bern_d0k7 and others); its page number is not
+  confirmed. The paragraph also says 'By his contemporaries he was often called a dictator, and in a sense he
+  certainly was', and that he showed 'a respect for decency and legality, for human and political standards'.
+  The admiration is qualified: political activity against the regime was banned and the press was strictly
+  controlled.
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/THEEMERGENCEOFMODERNTURKEY
+  - url: https://archive.org/details/emergenceofmoder00bern
+  - url: https://archive.org/details/emergenceofmoder0000bern_d0k7
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org THEEMERGENCEOFMODERNTURKEY djvu (2nd ed. 1968), p. 290; FTS of emergenceofmoder0000bern,
+    _d0k7, _k5r3, _n1w1 (1961)
+  method: djvu text; archive.org full-text search
+  note: >-
+    Both sentences verbatim on p. 290 (2nd ed.), with 'By his contemporaries he was often called a dictator,
+    and in a sense he certainly was', 'respect for decency and legality', and the press-control qualification.
+    The 1961 printings carry the same 'dictator-ship without the uneasy over-the-shoulder glance' wording
+    (page not shown). Admiring with the stated qualification is supported.
+  checked_on: "2026-11-06"

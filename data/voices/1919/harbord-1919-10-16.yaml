@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: harbord-1919-10-16
+voice: James G. Harbord
+voice_type: person
+role: US Major General, head of the American Military Mission to Armenia
+country: United States
+country_now: United States
+domain: military
+date: "1919-10-16"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: report
+evidence: P
+summary: >-
+  Met Kemal at Sivas in Sept 1919; reported him a distinguished Dardanelles commander, 'a young man of force
+  and keen intelligence'; wrote him about Armenians.
+quote:
+  text: >-
+    The leader, Mustapha Kemal Pasha, is a former general officer in the Turkish Army, who commanded, with
+    distinction, an Army Corps at the Dardanelles, and appears to be a young man of force and keen
+    intelligence.
+  language: en
+caveat: >-
+  Harbord's report to the Secretary of State, 16 Oct 1919, FRUS 1919 vol. II, doc. 828, p. 858. Exhibit D is
+  his letter to Kemal of 9 Oct 1919 thanking him for courtesies and urging wider assurance that the movement
+  was not hostile to Christians. Praise is measured and sits beside Armenian apprehensions he relays; the
+  Sivas meeting was 22 Sept 1919.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://history.state.gov/historicaldocuments/frus1919v02/d828
+    archived: https://web.archive.org/web/20260420131732/https://history.state.gov/historicaldocuments/frus1919v02/d828
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://history.state.gov/historicaldocuments/frus1919v02/d828 ([Page 858]; Exhibit D at [Page 886])
+  method: curl
+  note: >-
+    Verbatim on p. 858. The report is dated 16 Oct 1919, on board USS Martha Washington. Exhibit D (9 Oct
+    1919) is as described: thanks for courtesies, Armenians still 'very apprehensive', and a suggestion of 'a
+    wider circulation of the information that your organization is in no way inimical to the Christian
+    population'. The Sivas meeting date (22 Sept) was not found in this document. A minor figure, but with a
+    stated view, so it passes. Admiring at intensity 1 is fair, with the caveat's 'measured'.
+  checked_on: "2026-11-05"

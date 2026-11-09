@@ -1,0 +1,21 @@
+{
+  "name": "the-thread",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "predev": "npm run data",
+    "dev": "vite",
+    "prebuild": "npm run data",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mapbox/tiny-sdf": "2.0.6",
+    "three": "0.170.0"
+  },
+  "devDependencies": {
+    "vite": "6.0.7"
+  }
+}

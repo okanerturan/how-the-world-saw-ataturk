@@ -1,0 +1,24 @@
+# Turkish for data/voices/1924/muslims-british-india-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: muslims-british-india-1924
+voice: Britanya Hindistanı Müslümanları
+role: Hilafet dönemi Hint Müslüman kamuoyu
+quote: Hindistan'daki tepki anında ve sert oldu, ancak bir şekilde kopuş kısa sürede onarıldı
+quote_kind: translated
+summary: >-
+  Ona duyulan aşırı hayranlık görünürde hilafeti savunmasından doğmuştu; Mart 1924'teki kopuş anında ve sert
+  bir tepki çekti, ardından kamuoyu yeniden milliyetçilerden yana meyletti.
+mediated_by: Qureshi 1996, ATAM XII(35)
+verification_note: >-
+  Yalnızca özet; alıntı ve iddia özetle eşleşiyor. Sayı numarası (35 mi yoksa XII mi) kontrol edilmedi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1d49c291f649
+  role: b6340b73ed40
+  quote: f7f226da1c70
+  summary: 743ec869a779
+  mediated_by: 9a1f91281b7e
+  verification_note: 8f8cf8ed36af
+  verification_method: ad8cee67138e

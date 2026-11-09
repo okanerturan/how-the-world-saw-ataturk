@@ -1,0 +1,38 @@
+# Turkish for data/voices/1967/hoxha-1967-09-14.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hoxha-1967-09-14
+voice: Enver Hoxha
+role: Arnavutluk Emek Partisi Birinci Sekreteri; Demokratik Cephe 4. Kongresi'ne sunulan rapor
+quote: >-
+  Mustafa Kemal Atatürk önderliğindeki cesur Türk halkının Venizelos'un sürülerine indirdiği ağır darbeleri
+  unuttular
+quote_kind: translated
+summary: >-
+  Yunanistan'ın 'monarşik faşistlerini', Kemal önderliğindeki Türk halkının Anadolu savaşında Venizelos'un
+  kuvvetlerine indirdiği darbeleri unuttukları konusunda uyarır.
+caveat: >-
+  1974 tarihli ikinci baskının İngilizce metni (Tiran, '8 Nentori'); OCR sayfa işaretleri 120 ve 121 pasajı
+  çevreler (s. 120-121 olarak kaynak gösterilmiştir). Hoxha'nın çerçevesi Kıbrıs bağlamında Atina'ya yönelik
+  bir uyarıdır, dolayısıyla Kemal atfı araçsaldır; not Türk-Yunan savaşının kendisine dair bir görüş
+  kaydetmez. İngilizce metin, Arnavut yayıncının kendi çevirisidir.
+verification_note: >-
+  Birebir aynı: 'They forgot the heavy blows the brave Turkish people, led by Mustafa Kemal Ata-/turk dealt at
+  Venizelos's hordes and who are again prepared to deal another blow at them, if they (the Greeks) infringe
+  upon the vital and sovereign interests of their brave brothers of Cyprus'. Bu kitaptaki folyolar sayfa
+  altındadır; dolayısıyla pasaj folyo 120 ile folyo 121 arasında yer alır ve s. 121'dedir (120-121 değil, s.
+  121 olarak kaynak gösterin). İç kapakta tarih 14 Eylül 1967; metin 1974 tarihli ikinci baskıdır (ilk
+  baskının ifadeleri kontrol edilmedi). Araçsal, yoğunluk 1 uygun: Atina'ya bir uyarı; Kemal'e dair tek görüş
+  halkın onun önderliğinde ('brave Turkish people led by') olmasıdır. Ölüm sonrası dönem doğrudur.
+verification_method: >-
+  açık djvu metninin curl ile çekilmesi; folyo konumu basılı içindekiler tablosuna göre kalibre edildi
+  (içindekilerde s. 21 olarak görünen 2. bölüm başlığı, basılmamış folyo 20 ile folyo 21 arasına düşmektedir)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e81e77196f81
+  role: b9b0fc19c334
+  quote: 9f1e5d288ea4
+  summary: 641ced6eaa65
+  caveat: 220d7ebd3c34
+  verification_note: f084571af1dd
+  verification_method: 05e065906a15

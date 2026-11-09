@@ -1,0 +1,41 @@
+# Turkish for data/voices/1965/podgorny-1965.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: podgorny-1965
+voice: Nikolay Podgorny
+role: Sovyet Parlamento Heyeti Başkanı
+quote: >-
+  Türk Milletinin önderi Kemal Atatürk, o zaman vuku bulan hâdiselerin azametini lâyıkıyla takdir etmişti.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ün Rus halkına yönelik hayranlık mesajını hatırlatır ve Lenin–Atatürk döneminin iyi geleneklerine
+  dönülmesi çağrısında bulunur.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 36 (basılı s. 25). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe basılmıştır. Çeviri: "Türk milletinin önderi Kemal Atatürk, o dönemde meydana gelen
+  olayların büyüklüğünü hakkıyla takdir etmişti." Podgorny devamında Atatürk'ün Sovyet hükümetine gönderdiği
+  mesajı ve 1935 CHP kurultayında Sovyet–Türk dostluğu üzerine söylediği sözü aktarır (PDF s. 38: 'Lenin ve
+  Atatürk devrinde doğmuş olan iyi geleneklere dönmek zamanı gelmiştir'). 1965'teki daha iyi ilişkiler kurma
+  yönündeki Sovyet girişimine hizmet eder. Kitaptaki başlık: 'Sovyet Parlamento Heyeti Başkanı Nikolay
+  Podgorni', 33. Birleşim, 5 Ocak 1965.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Sovyet Parlamento Heyeti Başkanı
+  Nikolay Podgorni, 33. Birleşim, 5 Ocak 1965'). Başlık ve alıntı aynı sayfadadır. 'Lenin ve Atatürk devrinde
+  doğmuş olan iyi geleneklere dönmek zamanı gelmiştir' cümlesi belirtildiği gibi PDF s. 38'dedir. Alıntıdaki
+  övgünün Podgorny'nin kendi ifadeleri olduğuna dikkat edilmelidir; ardından gelen Sovyet hükümetine yönelik
+  Atatürk mesajı ise Podgorny'nin aktardığı Atatürk'ün sözleridir.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracıyla PNG'ye dönüştürülerek (check_png/c36.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı, görsel üzerinde ve kendi bağımsız metin katmanı çıkarımıyla
+  kelime kelime karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9896f5f5174e
+  role: c68511b0713b
+  quote: 8d842af8ec95
+  summary: eb1905439320
+  caveat: e01f0a87f7bd
+  mediated_by: 8e2cc528453b
+  verification_note: "83836e802220"
+  verification_method: 7f4c6a2c8667

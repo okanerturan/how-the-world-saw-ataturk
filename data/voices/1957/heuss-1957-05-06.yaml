@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: heuss-1957-05-06
+voice: Theodor Heuss
+voice_type: person
+role: Federal President of West Germany
+country: West Germany
+country_now: Germany
+domain: politics
+date: "1957-05-06"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: speech
+evidence: S
+summary: >-
+  On the first German state visit since the Kaiser, likens post-war Germany to Turkey after 1918, which began
+  a new chapter through Atatürk's great statesmanship.
+quote:
+  text: >-
+    Wir werden mit ihnen fertig werden, wie die Türkei nach 1918 mit den Lasten einer Vergangenheit fertig
+    wurde und in dem großen Staatsmanntum von Kemal Atatürk ein ganz neues Blatt der Staatsgeschichte zu
+    schreiben begonnen hat.
+  translation: >-
+    We will cope with them, as Turkey after 1918 coped with the burdens of a past and, in the great
+    statesmanship of Kemal Atatürk, began to write a wholly new page of its state history.
+  language: de
+mediated_by: >-
+  Mathie 2023 (open access), quoting Heuss, 'Erwiderung des Herrn Bundespräsidenten auf die Ansprache des
+  Türkischen Staatspräsidenten bei dem Abendessen am 6. Mai ds. Js. in Ankara', 1957, Archiv der Stiftung
+  Bundespräsident-Theodor-Heuss-Haus, B122, 924
+caveat: >-
+  Reply to President Bayar's toast at the state dinner, Ankara, 6 May 1957; 'ihnen' = the consequences of the
+  war (bracketed in the source). Read in the archive.org open text of the book's introduction; the archive
+  typescript itself was not seen.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/oapen-20.500.12657-61944
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Mathie 2023 (archive.org oapen-20.500.12657-61944 djvu.txt), Einleitung, printed pp. 12–13 (lead-in and
+    fn. 13 on p. 12, quote on p. 13) (Archiv der Stiftung Bundespräsident-Theodor-Heuss-Haus, B122, 924, 2
+    pp.)
+  method: archive.org open text read
+  note: >-
+    German quote verbatim in Mathie, with '[den Folgen des Krieges]' after 'ihnen' and the 'erster
+    Bundespräsident ... seit Kaiser Wilhelm II.' context. The archive typescript was not seen by the builder
+    or by me, so the P in 'S+P' is unearned: evidence S+P → S.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 30)
+  checked_on: "2026-11-05"

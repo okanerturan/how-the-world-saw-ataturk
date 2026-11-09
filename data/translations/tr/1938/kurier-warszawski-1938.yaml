@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/kurier-warszawski-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kurier-warszawski-1938
+voice: Kurier Warszawski
+role: Varşova günlük gazetesi
+quote: Uzun bir yol kat edildi. Muhteşem bir eser yaratıldı. Bütün bunlar Atatürk'ün eseridir
+quote_kind: translated
+summary: >-
+  Muhteşem bir eseri bizzat Atatürk'ün eseri olarak selamladı ve gelecekte örnek alınması çağrısında bulundu.
+mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
+verification_note: Çevrilmiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8b041769b567
+  role: a45f555cf357
+  quote: ca9a279473cc
+  summary: cd52adfea186
+  mediated_by: aa5a462e96c0
+  verification_note: 154a7f79ffc7
+  verification_method: 939bb46a04c3

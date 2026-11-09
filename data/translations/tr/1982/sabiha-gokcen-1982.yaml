@@ -1,0 +1,51 @@
+# Turkish for data/voices/1982/sabiha-gokcen-1982.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sabiha-gokcen-1982
+voice: Sabiha Gökçen
+role: Askeri pilot, Atatürk'ün manevi kızı
+quote: erişilmeze erişmiştim
+quote_kind: original-turkish
+summary: >-
+  1937 Dersim harekâtında uçmasına izin vermesi için Atatürk'ü ikna edişini hatırlatır; Atatürk razı olmuş ve
+  namusunu koruması için ona kendi tabancasını vermiştir.
+caveat: >-
+  ÇEVİRİ (bu kaydın): 'Should such bad luck happen, do not worry, I will not surrender myself to them alive.'
+  İsyancıların arasına yapılacak zorunlu bir inişin ölümden beter olacağı uyarısında bulunan Kemal'e verdiği
+  yanıt. Hatırat 'Oktay Verel'in kaleminden'dir (gölge yazar tarafından yazılmıştır); kaynakçalar 1984 ve 1994
+  baskılarını da verir, dolayısıyla ilk basım tarihi kesinleşmemiştir. Bölüm başlığı 'Dersim Harekâtı ve
+  Namusumu Koruyacak Silah!' şeklindedir. Arşiv iddiasını NÜANSLANDIRIR: arşiv notunda onun için 'deployed
+  her' denir; kendi anlatımında ise harekâtı geç öğrenmiş ve ondan izin istemiştir, Atatürk de Mareşal
+  Çakmak'ın onayına bağlı olarak izin vermiştir. Harekâtın nedenleri ya da sonuçları üzerinde durmadığını
+  söyler (s. 125). Kontrol: ilk basım *Atatürk'ün İzinde Bir Ömür Böyle Geçti*, kaleme alan Oktay Verel (Türk
+  Hava Kurumu, 1982); sonraki baskılar 1996. Alıntı Altınay 2000, s. 262'de aktarıldığı şekliyledir; Dersim
+  bölümü kendisi hakkında bir anlatıdır.
+mediated_by: >-
+  Altınay, Vatan Millet Kadınlar (İletişim, 2000) içinde, s. 268-269 ← Gökçen, Atatürk'le Bir Ömür (1996
+  basımı), s. 111, 117-118, 122
+verification_note: >-
+  Alıntı birebir mevcuttur (Gökçen 1996: 117); Kemal'in uyarısı ve tabanca konuşması (117), dostlarına
+  söylediği sözler (118), bölüm başlığı 'Dersim Harekâtı ve Namusumu Koruyacak Silah!' (111), uçuşlar (122) ve
+  'nedenleri ve sonuçları üzerinde duracak değilim' (125) yer almaktadır. Altınay onun harekâtı geç
+  öğrendiğini, Ankara'ya uçup ondan izin istediğini ve Atatürk'ün bunu Mareşal Çakmak'ın onayına bağladığını
+  doğrular. TARİH: Altınay s. 262 dipnot 1 ilk basımı 'Atatürk'ün İzinde Bir Ömür Böyle Geçti, Kaleme Alan
+  Oktay Verel, Türk Hava Kurumu Yayınları, 1982' olarak verir. Alıntıları 'Atatürk'le Bir Ömür, Oktay Verel'in
+  Kaleminden, 2. Basım, İstanbul, Altın Kitaplar, 1996' baskısındandır. Düzeltmeler: tarih 1996 → 1982 (id →
+  sabiha-gokcen-1982); mediated_by → '... ← Gökçen, Atatürk'le Bir Ömür (2nd pr., Altın Kitaplar 1996), pp.
+  111, 117-118, 122, 125; 1st ed. Atatürk'ün İzinde Bir Ömür Böyle Geçti (THK 1982)'; çekince notu: 'printings
+  of 1984 and 1994 ... not settled' ifadesini 1982 ilk basımıyla değiştirin. Gölge yazarlı oluşu ('kaleme alan
+  Oktay Verel') çekince notunda kalmalıdır. Sıkı ölçüt: bu bölüm anlatıdır ve alıntı Kemal hakkındaki bir
+  görüş değil, onun kendi yeminidir. Hayranlık duyan etiketi hatıratın genel çerçevesine dayanır. Onun
+  görüşünü yansıtan bir alıntı: 1925'te onunla karşılaşması üzerine '“erişilmeze erişmiştim”' (Gökçen 1996:
+  21, Altınay s. 262). Şema uygun.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fab195e24377
+  role: 89fb4c1a3287
+  quote: dced7a0d6684
+  summary: 536e01ddff2f
+  caveat: 9276dc25cea6
+  mediated_by: dcfb47ab1938
+  verification_note: 6343fad53f7f
+  verification_method: b152e9063489

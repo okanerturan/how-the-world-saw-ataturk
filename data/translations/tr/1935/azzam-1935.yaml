@@ -1,0 +1,43 @@
+# Turkish for data/voices/1935/azzam-1935.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: azzam-1935
+voice: Abd al-Wahhab Azzam
+role: Mısırlı şarkiyatçı ve profesör (daha sonra Mısır'ın Suudi Arabistan elçisi)
+quote: >-
+  Bu konuda içlerinde en aşırıya kaçan, bütün Müslümanların tartışmasız kahramanlarının kahramanı saydığı Gazi
+  Mustafa Kemal Paşa idi.
+quote_kind: translated
+summary: >-
+  'Kemalistler'e karşı bir yazı dizisinde, Müslümanların Gazi'yi tartışmasız kahramanları saydığını, buna
+  karşın Kemalistlerin İslam'dan kopuşuna onun önderlik ettiğini söyler.
+caveat: >-
+  Kaynak olarak al-Risala sayı 104, 1 Temmuz 1935, Wikisource sayfası 'مجلة الرسالة/العدد 104/النهضة التركية
+  الأخيرة' gösterilmiştir. Dr. Abd al-Wahhab Azzam'ın al-Risala sayı 101 (10 Haziran 1935), 104 (1 Temmuz),
+  108 (29 Temmuz) ve 111'de (19 Ağustos, müzik üzerine başka bir kalemden) yayımlanan 'The Latest Turkish
+  Revival' başlıklı yazı dizisinin bir parçasıdır; alıntı 104. sayıdandır. 101. sayıda hilafetin
+  kaldırılmasının 'ıslahatın gerektirdiği bir zorunluluk değil, devrimin yol açtığı bir aşırılık' olduğunu
+  yazar; 108. sayıda Kemalistlerin kadın politikasını eleştirir ve Gazi'ye 'Atashark' diyen Mısırlı bir kadın
+  delegeden söz eder. Çoğunlukla topluca 'Kemalistler'i suçlar; Gazi, Kur'an anekdotu dolayısıyla ve İslam'ı
+  reddetmenin önderi olarak anılır. Wikisource transkripsiyonu; sayfa görüntüsü bağlantısı yoktur.
+verification_note: >-
+  Arapça alıntı birebir aynıdır. Üstbilgi tarihi 01-07-1935, 'مؤلف' alanı boş ancak yazar satırı 'للدكتور عبد
+  الوهاب عزام' ve kapanış imzası 'عبد الوهاب عزام' şeklindedir (dizi sayı 3, 'له بقية'). Konuşmacının kendi
+  görüşü: 'ذلك ما افتتح به الكماليون عملهم؛ ... وكان أشدهم إفراطاً في ذلك الغازي مصطفى كمال باشا الذي كان
+  المسلمون جميعهم يعدونه بطل أبطالهم غير مدافع'. Çeviri sadıktır. Uyarı notundaki çapraz referanslar kontrol
+  edildi: sayı 101 hilafetin kaldırılması için 'ما كان ... ضرورة اقتضاها الإصلاح، ولكن إفراطاً أدت إليه
+  الثورة' der (örtüşüyor); sayı 108'de (29-07-1935) kadın delegenin Gazi'ye 'أتاشرق' demesi ve Azzam'ın buna
+  karşı çıkışı yer alır (örtüşüyor). Sayı 111'deki 'müzik üzerine başka bir kalemden' maddesi kontrol
+  edilmedi. Kutupluluk çelişkili / yoğunluk 2 yerinde; çağdaş dönem doğru; şema uygun.
+verification_method: >-
+  action=raw çekildi, Arapça alıntının harekeden arındırılmış alt dize eşleştirmesi yapıldı, ardından
+  çevreleyen pasaj, üstbilgi tarihi ve kapanış imzası okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b787b061f8a5
+  role: e77a07efc032
+  quote: 2074b9dadef9
+  summary: 89342a7f9dd0
+  caveat: f6035c05389d
+  verification_note: f35f416b3f40
+  verification_method: 0d2d412521a8

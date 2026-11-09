@@ -1,0 +1,34 @@
+# Turkish for data/voices/2014/putin-2014-12-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: putin-2014-12-01
+voice: Vladimir Putin
+role: Rusya Devlet Başkanı; Anıtkabir özel defterindeki yazısı
+quote: >-
+  Rusya, Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün anısına derin saygı duyuyor.
+quote_kind: original-turkish
+summary: >-
+  Rusya'nın Atatürk'ün anısına derin saygı duyduğunu ve iki ülke arasında dostane ilişkilerin kurulmasına
+  yaptığı katkıya değer verdiğini söylüyor.
+caveat: >-
+  Rusça kaydın Türkçe çevirisi (AA 1 Aralık 2014; Sabah 2 Aralık 2014 muhtemelen aynı ajans haberinden aynı
+  metni yayımlıyor). 2004'tekinden on yıl sonra aynı kalemden çıkan ikinci kayıt; ifadeler artık resmi nezaket
+  düzeyinde ve artık 'continue his work' değil. Tarih AA'nın o günkü haberinden.
+mediated_by: Anadolu Ajansı ve Sabah (yazının Türkçe çevirisi)
+verification_note: >-
+  AA ve Sabah'ta birebir aynı (Sabah metni aynı ifadeler, aynı ajans haberi, bağımsız değil). 1 Aralık 2014
+  ziyaret tarihi AA'nın canlı haberiyle uyumlu (sayfanın kendisinde tarih görünmüyor; Sabah URL'si
+  2014/12/02). Alıntı, kaydın yalnızca ilk cümlesi; bir nezaket satırı, yoğunluk 1 ve araçsal değerlendirmesi
+  yerinde.
+verification_method: >-
+  Alıntılanan sayfanın tools/ms ile (ücretsiz) yeni çekimi, 3 Kasım 2026; bağımsız denetleyici
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 36834274f24a
+  role: 53026b96f361
+  quote: 80b0ebe17b9d
+  summary: c55489046ae7
+  caveat: cdc2e331ac53
+  mediated_by: 584ba1c44a52
+  verification_note: ccf3f4bd2d15
+  verification_method: 7b5332a2caf8

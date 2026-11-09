@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tito-1954-04-13
+voice: Josip Broz Tito
+voice_type: person
+role: >-
+  President of Yugoslavia; reply toast at President Bayar's dinner, Çankaya, Ankara, during his state visit
+country: Yugoslavia
+country_now: Serbia
+domain: politics
+date: "1954-04-13"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: J
+summary: >-
+  Ankara, the Turkish seat of government, as the dignified expression of a national strength inspired by the
+  memory of 'the legendary personality of the great Atatürk'.
+quote:
+  text: >-
+    Türkiyenin hükûmet merkezinde bulunmaktan derin bir memnunluk duymaktayım. Bu Türk milletinin büyük
+    Atatürkün efsanevî şahsiyeti hatırasından mülhem olan kuvvetinin ve canlı millî şuurunun vakur bir
+    ifadesidir.
+  translation: >-
+    I feel deep satisfaction at being in the seat of government of Turkey. It is the dignified expression of
+    the Turkish nation's strength, inspired by the memory of the legendary personality of the great Atatürk,
+    and of its living national consciousness.
+  language: tr
+mediated_by: >-
+  Milliyet, 14 Apr 1954, p. 7 ('Türk-Yugoslav siyasî görüşmeleri başladı', section 'Titonun nutku'): the
+  paper's Turkish rendering of a toast given in Serbo-Croatian
+caveat: >-
+  Opening lines of the reply toast; the rest is about Yugoslav sympathy, the Ankara Pact and Balkan peace. The
+  same day he laid a wreath at Anıtkabir (Milliyet p. 1); no book entry is printed. The original
+  Serbo-Croatian text (Borba / Politika, 14 Apr 1954; Govori i članci vol. IX) was not seen. The Instagram
+  line 'Sizi hayatım boyunca daima ilham kaynağı olarak yaşattım' attributed to his Anıtkabir entry has no
+  source. Read on the page image (Okan's Milliyet archive login).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1954.04.14
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Milliyet 14 Apr 1954 p. 7, page image (gazetearsivi.milliyet.com.tr, AuthImage), read enlarged
+  method: page image
+  note: >-
+    Quote transcribed from the enlarged image ('Atatürkün', 'efsanevî', 'mülhem' legible). Dinner dated by the
+    Ankara 13 Apr dateline ('bu akşam'). Read by the main agent; no separate checker agent.
+  checked_on: "2026-11-06"

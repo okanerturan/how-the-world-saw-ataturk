@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-fath-1927
+voice: Al-Fath
+voice_type: press
+role: Cairo Salafi weekly (Muhibb al-Din al-Khatib)
+country: Egypt
+country_now: Egypt
+domain: press
+date: "1927-10-27"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: editorial
+evidence: P
+summary: >-
+  Answering al-Siyasa after Kemal's long speech: Ankara's Kemalists falsely claim intellectual freedom and
+  would inflict conscience-torture on Egypt too.
+quote:
+  text: The Kemalists in Ankara are liars in their claim of 'intellectual freedom'
+  language: en
+caveat: >-
+  Identification of the speech as the Nutuk is the note author's. Quote is the note author's English
+  translation of the Arabic original, which the note prints.
+node: Al-Fath (Cairo), 1927–1938 — Khatib's Weekly on Ankara
+sources:
+  - url: https://archive.org/details/efath-moheb-elden-elkheeb
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    al-Fath batch 001_125 pdf p. 1080 (printed p. 280), column al-Tamhis 'Ankara and the Islamic religion'
+  method: downloaded PDF, rendered page image and read the Arabic
+  note: >-
+    Arabic 'الكماليين في أنقرة كاذبون في دعوى الحرية الفكرية' present; replies to al-Siyasa, mentions torment
+    of consciences. Issue date 27 Oct 1927 not re-read from masthead (not on this page).
+  checked_on: "2026-10-29"

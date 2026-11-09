@@ -1,0 +1,38 @@
+# Turkish for data/voices/1982/fazlur-rahman-1982.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: fazlur-rahman-1982
+voice: Fazlur Rahman
+role: Pakistan doğumlu İslami modernist âlim, Chicago Üniversitesi; Islam and Modernity (1982)
+quote: >-
+  ki bunun iki baş mimarı olan Kemal Atatürk ve İsmet İnönü, kamusal alanda "Allah" kelimesini ağza almayı
+  bile laiklik ilkesinin kutsallığının ihlali sayıyorlardı!
+quote_kind: translated
+summary: >-
+  Atatürk ve İnönü'yü dini tamamen dışlayan saf laik bir okul sisteminin mimarları olarak adlandırır; dinin
+  siyasete boyun eğdirilmesinin laikliği zorunlu kıldığını, ancak laikliğin çözüm olmadığını söyler.
+caveat: >-
+  Islam and Modernity: Transformation of an Intellectual Tradition (University of Chicago Press, 1982), s. 63
+  (archive.org taraması, basılı sayfa başlıkları). Diğer pasajlar: s. 54 ('despite Atatürk's personal allergy
+  to religion Islam returned to national education — via nationalism'); s. 62 (Atatürk hükümeti, 'under the
+  claim of unifying all education, eliminated the traditional schools'); s. 91 ('Even the great and powerful
+  Atatürk could not reform traditional education'); s. 140 ('it was this pernicious phenomenon [subjugation of
+  religion to politics] that forced Kemal Ataturk to opt for secularism. Secularism is not the answer'). Hem
+  nedenleri hem de başarısızlığı gördüğü için kutupluluk 'çelişkili' ('conflicted') olarak belirlendi; eğitim
+  konusundaki baskın üslup eleştireldir. Taramanın OCR metni ismi 'Atatiirk' olarak yazar; yukarıdaki alıntı
+  temiz bir satırdandır.
+verification_note: >-
+  Alıntı s. 63'te ('Classical Islamic Modernism 63' başlığı altında) birebir mevcut. Atıf yapılan diğer
+  sayfalar doğrulandı: s. 54 ('personal allergy to religion'), s. 91 ('Even the great and powerful Ataturk
+  could not reform traditional education'), s. 140 ('it was this pernicious phenomenon that forced Kemal
+  Ataturk to opt for secularism. Secularism is not the answer'). Çelişkili/2 değerlendirmesi yerinde.
+verification_method: djvu metnini curl ile çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f859221a7154
+  role: 0f9f152aeec2
+  quote: f45a3f2dab21
+  summary: ae636f62612d
+  caveat: 76c8e7eab40d
+  verification_note: 71daeac8c794
+  verification_method: bac8b144a275

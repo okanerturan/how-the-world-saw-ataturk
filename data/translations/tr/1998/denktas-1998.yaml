@@ -1,0 +1,39 @@
+# Turkish for data/voices/1998/denktas-1998.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: denktas-1998
+voice: Rauf Denktaş
+role: Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı
+quote: Atatürk çocukları olarak, ömrümüzü, bu düstur uğruna, mücadeleyle geçirdik.
+quote_kind: original-turkish
+summary: >-
+  Meclis'i 'Atatürk'ün Meclisi' olarak nitelendirir ve Kıbrıs Türklerinin, Atatürk'ün çocukları olarak,
+  haklarını savunurken onun barış ilkesiyle yaşadığını söyler.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 131 (basılı s. 120). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe olarak basılmıştır. Çevirisi: "As Atatürk's children, we have spent our lives in struggle
+  for this maxim." Söz konusu düstur 'yurtta sulh, cihanda sulh'tur. Kıbrıs müzakereleri bağlamı (Kıbrıs
+  Türkleri için egemenlik talebi). Başlık: 'Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı Rauf Denktaş', 23
+  Nisan 1998. Denktaş ayrıca 21 Ocak 1997 (PDF s. 124, Atatürk'ün egemenlik üzerine bir sözü) ve 15 Nisan 2004
+  (PDF s. 204, 'Büyük Atatürk’ün Yüce Meclisinde') tarihlerinde de konuşma yapmıştır.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Kuzey Kıbrıs Türk Cumhuriyeti
+  Cumhurbaşkanı Rauf Denktaş, 81. Birleşim, 23 Nisan 1998' (başlık PDF s. 128'de)). 'Atatürk's Assembly'
+  ifadesi başlık sayfasında yer alıyor ('Atatürk'ün Meclisine geldim'). Küçük bir iç tutarsızlık: son sayfada
+  1974 harekâtının 1999'a denk gelecek olan '25. yılı'ndan ('25th year') söz ediliyor; kitabın başlık tarihi
+  olan 23 Nisan 1998 kullanıldı.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracımızla PNG'ye dönüştürülüp (check_png/c131.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı görüntü üzerinde ve kendi bağımsız metin katmanı
+  çıkarımımızla kelimesi kelimesine karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cf84c1759476
+  role: 3a24e1ce7f61
+  quote: 5a1eedcecbd5
+  summary: 9b52ec86c745
+  caveat: e3f796db8a50
+  mediated_by: 8e2cc528453b
+  verification_note: "42e878968453"
+  verification_method: c7259dde6b69

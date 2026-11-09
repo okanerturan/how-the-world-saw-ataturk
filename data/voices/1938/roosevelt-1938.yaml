@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: roosevelt-1938
+voice: Franklin D. Roosevelt
+voice_type: person
+role: US President
+country: United States
+country_now: United States
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Said his devotion to his country won him the respect of the entire world.
+quote:
+  text: devotion to his country won for him the respect of the entire world
+  language: en
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: a local working file (TBMM condolence OCR) (English cable, White House)
+  method: local
+  checked_on: "2026-10-29"

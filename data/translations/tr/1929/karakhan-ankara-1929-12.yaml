@@ -1,0 +1,36 @@
+# Turkish for data/voices/1929/karakhan-ankara-1929-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: karakhan-ankara-1929-12
+voice: Lev Karakhan
+role: Sovyet Dışişleri Komiser Yardımcısı
+quote: Bunlar ülkemizde hakim olan aynı fikirler ve aynı ruh halidir.
+quote_kind: translated
+summary: >-
+  Ankara'ya varışında yeni Türkiye'yi kendi kendine yeten bir ülke olarak övdü ve fikirleri ile ruh halinin
+  Sovyetler Birliği'ninkilerle örtüştüğünü söyledi.
+caveat: >-
+  İsmen Kemal'e değil, Türkiye'ye yönelik bir övgüdür; yalnızca Rosmer'in ne tarih ne de unvan belirten
+  İngilizce aktarımından bilinmektedir (görev ve 1929 tarihi makale bağlamındandır).
+mediated_by: >-
+  Rosmer, The Militant, 18 Ocak 1930, s. 7 (Karakhan'ın Ankara'daki sözünün İngilizce aktarımı)
+verification_note: >-
+  Alıntı birebir aynı, ancak tek tanık aktarılan bir sözün Rosmer tarafından yapılan İngilizce çevirisidir.
+  Verilen cümle Karakhan'ın sözünün ikinci yarısıdır (öncesinde 'What I have seen ... is not strange to me'
+  gelir). Sayfada tarih verilmemiştir: 'December 1929' bu kaynak tarafından desteklenmemektedir (yalnızca 'has
+  just made a triumphal voyage' ifadesi ve Ocak 1930 yayını vardır). Karakhan'ın unvanı da sayfada yer
+  almamaktadır. Rosmer'in bu söze ilişkin kendi yorumu düşmancadır; kayıt bunu haklı olarak Karakhan'ın
+  araçsal övgüsü olarak korumuştur.
+verification_method: >-
+  Serbest erişimle getirildi; alıntı Rosmer'in Karakhan'ın Ankara'ya varışındaki sözlerini aktardığı kendi
+  makalesinin içinde bulundu; Karakhan'a ait veya Türkçe birincil bir metin görülmedi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4c53326baae4
+  role: 2a0805954359
+  quote: 2492b291fb5a
+  summary: 408992a409d5
+  caveat: a2d6eb5143bf
+  mediated_by: c679cc79a7bd
+  verification_note: dbe1e684c000
+  verification_method: 606d10b1a7b5

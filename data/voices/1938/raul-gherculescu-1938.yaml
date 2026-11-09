@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: raul-gherculescu-1938
+voice: Raul D. Gherculescu
+voice_type: person
+role: Romanian, son of a military attaché Atatürk had met in Sofia in 1913
+country: Romania
+country_now: Romania
+domain: letters
+date: "1938-10"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: S
+summary: Wrote that he kept the dearest childhood memories of Atatürk.
+quote:
+  text: I keep the dearest memories of my childhood of you
+  language: en
+mediated_by: Dağlı 2023 ← Presidential Archive (Cumhurbaşkanlığı Arşivi)
+node: Foreign Delegations at the Funeral, November 1938
+sources:
+  - url: https://doi.org/10.30794/pausbed.1170334
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/yabanci-ulkeler-hastalik-vefat.pdf (Dağlı 2023) §2.2 (letter 20 Oct 1938, CA 01019989-148)
+  method: local
+  note: >-
+    Translated from Turkish: 'Çocukluğumdaki en aziz hatıralarınızı muhafaza etmekteyim'. Letter is a get-well
+    letter dated 20 Oct, record date 1938-10 ok.
+  checked_on: "2026-10-29"

@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: yahya-kemal-1921
+voice: Yahya Kemal Beyatlı
+voice_type: person
+role: Poet and essayist, writing for the Istanbul press during the National Struggle
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1921"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: article
+evidence: S
+summary: >-
+  Argues that since the Greek landing at İzmir Mustafa Kemal is no longer an individual but the symbol of the
+  risen nation.
+quote:
+  text: >-
+    Bu eser bir şahsın değil bir milletindir. Mustafa Kemal'i bir şahıs zannedenler aldanıyorlar.
+  language: tr
+mediated_by: >-
+  Enginün, Yeni Türk Edebiyatı: Tanzimat'tan Cumhuriyet'e 1839-1923 (Dergâh), pp. 124-125 ← Eğil Dağlar
+  (1966), pp. 31-33, article 'Eser'
+caveat: >-
+  TRANSLATION (this record's): 'This work belongs not to one person but to a nation. Those who take Mustafa
+  Kemal for one person are mistaken.' He goes on: 'Mustafa Kemal İzmir'e efzunlar çıktığı günden evvel bir
+  fertti. O günden beri artık bir fert değil bir timsaldir.' Same wording (with 'Efzunlar' and 'bir fertdi')
+  in the essay 'Atatürk - Yahya Kemal dostluğu' in Kanbak (comp.), Yahya Kemal Beyatlı, pp. 78-79, apparently
+  from Atatürk Araştırma Merkezi Dergisi. DATE INFERRED: Eğil Dağlar collects his 1919-1922 articles; 'Eser'
+  speaks of the movement creating its symbol 'within one year' of the May 1919 landing, so c. 1920-21; the
+  exact paper and date are not established. In 'Onun Sesi' he praises a speech of Kemal's as free of bombast,
+  egotism and ambition (Eğil Dağlar p. 35). Contacts: a reconciliation dinner at Çankaya on 21 Dec 1933, later
+  table invitations and his election as deputy (Kanbak pp. 82-84); Afet İnan recalls him reading poems at
+  Atatürk's table (Hatıralar ve Belgeler, p. 396). His 1938 funeral writings were not found.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/inci-enginun-yeni-turk-edebiyati-tanzimattan-cumhuriyete-1839-1923-dergah-yayinlari
+  - url: https://archive.org/details/ykemal_beyatli
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org inci-enginun-yeni-turk-edebiyati-...-dergah-yayinlari djvu text, printed pp. 124-125 (section
+    NESİR); archive.org ykemal_beyatli (Kanbak comp.), essay 'Atatürk - Yahya Kemal dostluğu' (pp. 78ff.,
+    credited 'Atatürk Araştırma Merkezi Dergisi, sayı 12')
+  method: archive.org open djvu text read; archive.org FTS for other attestations
+  note: >-
+    Quote verbatim in Enginün, who says the sentences are from 'Eser' (Eğil Dağlar 1966, pp. 31-33) and that
+    'Onun Sesi' is p. 35. Translation faithful. DATE: 1921 is an inference, but internal evidence supports it.
+    In the passage Enginün quotes with 'Eser' he writes 'Evet iki sene evveline kadar ... milli hareket bir
+    sene içinde ... Mustafa Kemal'i milletin timsali olarak yarattı', two years from the May 1919 landing. The
+    next pieces (pp. 35-37) discuss a Kemal speech and the London conference (early 1921). c. 1920-21 holds;
+    exact paper and day remain unknown (FTS found no dated printing). Correction: caveat 'Same wording ... in
+    Kanbak' → 'near-identical wording'. Kanbak reads 'Evet, Efzunlar İzmir'e çıktığı günden evvel Mustafa
+    Kemal bir fertdi. Ama o günden sonra artık bir fert değil, bir timsaldir'. The Kanbak attribution to ATAM
+    Dergisi no. 12 is printed there, so 'apparently' can go. 21 Dec 1933 Çankaya dinner present (Kanbak).
+    Admiring/contemporary are right. Schema ok.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33)
+  checked_on: "2026-11-06"

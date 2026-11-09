@@ -1,0 +1,43 @@
+# Turkish for data/voices/1942/pepper-1942-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pepper-1942-04
+voice: Claude Pepper
+role: ABD Florida Senatörü (Demokrat)
+quote: >-
+  Keskin görüşlü Kemal Atatürk, Batı uygarlığıyla sürekli temas halinde bulunmuş olan ilerici Türk halkının bu
+  yenilikler için olgunlaşmış olduğunu kavramıştı. … Böylece, Kemal Atatürk ve İsmet İnönü'nün önderliğinde
+  Türkler, Dünya Savaşı'nı izleyen yıllarda diğer tüm halklardan daha büyük ileri adımlar atmıştır.
+quote_kind: translated
+summary: >-
+  Atatürk'ün 'kapsamlı ve köklü devrimini' över; onun ve İnönü'nün yönetiminde Türklerin 'diğer tüm halklardan
+  daha büyük ileri adımlar' attığını söyler.
+caveat: >-
+  Amerika'nın savaştaki ilk yılında, Türkiye'nin tarafsızlığının önem taşıdığı bir dönemde yaptığı kendi
+  konuşması (yaklaşık 450 kelime); reformları sıralar (dini mahkemelerin kaldırılması, Latin harfleri,
+  Hristiyan takvimi) ve Türkiye'ye yönelik bir Alman harekâtına karşı uyarır. OCR ismi 'Atattirk'/'Atatiirk'
+  olarak bastığı için 22. turda bulunamamıştı (GovInfo araması o günü 'Kemal' üzerinden yakaladı). 17 Nisan
+  1947 ve 22 Aralık 1950 kayıtlarından sonraki üçüncü Pepper kaydı. OCR 'Atattirk' olarak basmaktadır; burada
+  Atatürk olarak yazıldı. Kaynak gösterimi: Senate, 23 Nisan 1942, 'Twenty-third Anniversary of the Turkish
+  National Assembly', Congressional Record c. 88 (ciltli), s. 3670-3671 (granül CRECB-1942-pt3-19-1). Kontrol:
+  parçalar konuşmanın akışını izleyecek şekilde yeniden sıralandı.
+verification_note: >-
+  Her iki cümle de Pepper'ın kendi konuşmasında birebir yer almaktadır (Mr. PEPPER, 'today marks the
+  twenty-third anniversary'; OCR'daki 'Atattirk' Atatürk'tür), ancak kaydedilen alıntı bunların sırasını
+  tersine çevirmektedir: konuşmada önce 'The astute Kemal Ataturk had perceived that the progressive Turkish
+  people... were ripe for these innovations' gelir, ardından 'Thus, under the leadership of Kemal Ataturk and
+  Ismet Inonu, the Turks have made greater strides forward than any other people in the years following the
+  World War' gelir (what_they_saw satırındaki 'thorough and radical revolution' ifadesi ise birkaç satır
+  öncesindedir: 'under the able leadership of the great Ataturk gradually effected a thorough and radical
+  revolution'). Düzeltme: iki parçanın yerini değiştirin. Bakış açısı net bir görüş ortaya koymaktadır
+  ('great', 'astute', 'genius'). Hayranlık 3 savunulabilir, 2 daha güvenli.
+verification_method: govinfo ciltli baskı granülünün pdftotext -layout çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 252f28e121d3
+  role: f4b72d5059f1
+  quote: d8baf7f9e999
+  summary: 20fc7af1e255
+  caveat: 466fd2a76060
+  verification_note: fa79f35bb925
+  verification_method: bcff62915140

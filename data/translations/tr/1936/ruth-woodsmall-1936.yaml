@@ -1,0 +1,40 @@
+# Turkish for data/voices/1936/ruth-woodsmall-1936.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ruth-woodsmall-1936
+voice: Ruth Frances Woodsmall
+role: >-
+  Amerikalı YWCA yöneticisi ve Yakın Doğu uzmanı; Moslem Women Enter a New World (1936) kitabının yazarı
+quote: >-
+  Bir bütün olarak Müslüman Doğu için Kamal Atatürk haklı olarak önde gelen feminist sayılabilir.
+quote_kind: translated
+summary: >-
+  Onu, bir bütün olarak Müslüman Doğu için önde gelen feminist ve korkusuz liderliğiyle Müslüman kadınların
+  konumunu yükselten kişi olarak nitelendirir.
+caveat: >-
+  Ruth Frances Woodsmall, Moslem Women Enter a New World (1936), s. 69 (dizin: 'Ataturk, Kamal, 69, 405');
+  metin, özgün üst başlıkları koruyan Bimla tıpkıbasımından, Women in the Changing Islamic System (Delhi),
+  okunmuştur. Bir sonraki cümle (s. 70): 'Through his fearless leadership he has not only attained his primary
+  objective of social reforms for Turkey, but has also affected the social thought of the entire Moslem world
+  and contributed greatly to the elevation of the status of Moslem women.' Başka bir yerde (tıpkıbasım s. 399)
+  onu, 'virile and commanding leadership' sayesinde köklü dinî reformları mümkün kılan 'the saviour of the new
+  Turkey' olarak adlandırır. Türk Kadınlar Birliği'nin (Kadin Birligi) 1935 İstanbul kongresinin hemen
+  ardından feshedildiğine dair gözlemi tarafsız bir aktarımdır. Woodsmall daha az tanınan bir isimdir; şöhreti
+  için değil, 1930'ların ortasındaki kadın hareketi bakış açısı için arşive alınmıştır.
+verification_note: >-
+  Alıntı s. 69'un alt kısmında birebir yer alıyor ('For the Moslem East as a whole Kamal Ataturk may be
+  rightly considered the leading feminist'); bir sonraki 'Through his fearless leadership...' cümlesi s. 70'te
+  (üst başlık 'MOSLEM WOMEN ENTER A NEW WORLD'); 'saviour of the new Turkey ... virile and commanding
+  leadership' ifadeleri de tıpkıbasımın ilerleyen sayfalarında mevcut. Hayranlık/2 değerlendirmesi yerinde.
+  Metin 1936 tarihli özgün baskıda değil, tıpkıbasımda görüldü.
+verification_method: >-
+  archive.org üzerinden yeni djvu tam metin indirmesi (arşivlenmiş round17 dosyası kullanılmadı)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: adfb7aa15beb
+  role: f09bd1a0a763
+  quote: 9289f7848b39
+  summary: eb5ff761cd0c
+  caveat: 44852900f888
+  verification_note: 86051c123e5f
+  verification_method: 1c5bb8be850a

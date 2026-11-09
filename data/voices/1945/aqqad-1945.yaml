@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: aqqad-1945
+voice: Abbas Mahmud al-Aqqad
+voice_type: person
+role: Egyptian essayist, poet and critic
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1945-05-14"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: article
+evidence: S
+summary: >-
+  Holds Mustafa Kemal up against Hitler: he spent a fraction of Hitler's armaments yet retook Istanbul with
+  the Allied armies in it.
+quote:
+  text: واستطاع مع ذلك أن يفتح الآستانة فتحاً ثانياً وفيها جيوش الحلفاء
+  translation: and yet he was able to conquer Istanbul a second time, with the Allied armies in it.
+  language: ar
+caveat: >-
+  Cited as al-Risala no. 619, 14 May 1945, Wikisource page 'مجلة الرسالة/العدد 619/التربية السياسية'. Al-Aqqad
+  cites his own earlier line from his book 'Hitler in the Balance' (1940). Argument: Kemal's success rested on
+  shrewdness, not on spending on arms; he also had the Turks regain the forts and abolish the capitulations. A
+  related remark in no. 629 (23 Jul 1945, 'Voice and Personality') says the voices of Churchill and Mustafa
+  Kemal surprised him, and calls Kemal 'the hero of the Turks'; in no. 400 (3 Mar 1941) he lists 'the
+  experiment of Mustafa Kemal in Turkey' among revolutions that needed state power. Passing but in his own
+  words. Wikisource transcription.
+node: Egyptian Pens in al-Risala on Atatürk, 1935–1946
+sources:
+  - url: https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_619/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9
+    archived: https://web.archive.org/web/20230322202758/https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_619/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Arabic Wikisource raw page 'مجلة الرسالة/العدد 619/التربية السياسية' (+ nos. 629 and 400 checked for the
+    caveat)
+  method: >-
+    fetched action=raw, diacritic-normalised substring match of the Arabic quote, then read the surrounding
+    passage, header date and end signature
+  note: >-
+    Arabic quote verbatim; it sits inside a parenthetical self-quotation 'كما قلنا في كتاب هتلر في الميزان (لم
+    ينفق جزءاً من ألف ربوات الملايين التي أنفقها هتلر على التسليح، واستطاع مع ذلك أن يفتح الآستانة فتحاً
+    ثانياً وفيها جيوش الحلفاء ...)'. Header author 'عباس العقاد' and signature 'عباس محمود العقاد', date
+    14-05-1945. 'a fraction' fairly renders 'a part of a thousandth of the myriads of millions'; the book date
+    '1940' is not on the page (outside knowledge). No. 629 (23-07-1945, 'الصوت والشخصية') says the voices of
+    Churchill and Mustafa Kemal surprised him and calls him 'بطل الترك' (matches); no. 400 (03-03-1941, byline
+    Aqqad) lists 'تجربة مصطفى كمال في تركيا' among experiments needing state power (matches). Admiring / 1
+    fair, though the praise is a foil to Hitler; schema OK.
+  checked_on: "2026-11-03"

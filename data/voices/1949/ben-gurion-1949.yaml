@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ben-gurion-1949
+voice: David Ben-Gurion
+voice_type: person
+role: Prime Minister of Israel
+country: Israel
+country_now: Israel
+domain: politics
+date: "1949"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: quote
+evidence: S
+summary: >-
+  Recalls a decayed Turkish regime until an unknown man breathed new life into the Turks, who became a proud
+  independent nation.
+quote:
+  text: A man appeared whose name was unknown. . . who breathed new life into the Turkish people.
+  language: en
+mediated_by: >-
+  Zaki Shalom, David Ben-Gurion, the State of Israel and the Arab World 1949-1956 (Sussex Academic Press,
+  2005), p. not seen, note 90 ← Ben-Gurion (diary or speech, unverified)
+caveat: >-
+  Seen only as a search-engine excerpt of the dokumen.pub copy of Shalom's book; page, footnote 90 and
+  Ben-Gurion's original (circulating web versions call it 'diary') were not reached. The book covers 1949-1956
+  and the context is Ben-Gurion's argument that nations can revive suddenly; the exact date is unknown, 1949
+  is the book's start year and a placeholder. Ellipses are the book's own. Confirm in the Ben-Gurion Archives
+  diary or Shalom's notes. Date approximate: the statement is undated (c. 1949–56 per Shalom); it is not
+  attested as a diary entry, and Ben-Gurion's own source and the occasion are unreached (Shalom fn. 90).
+node: David Ben-Gurion
+sources:
+  - url: https://dokumen.pub/download/david-ben-gurion-the-state-of-israel-and-the-arab-world-1949-1956-1902210212-9781902210216.html
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Search-engine excerpts of Shalom, David Ben-Gurion, the State of Israel and the Arab World 1949-1956
+    (dokumen.pub; direct fetch bot_blocked), plus The Tower and Quora copies
+  method: one tools/ms search; read the dokumen.pub excerpt (the page itself would not fetch)
+  note: >-
+    Excerpt confirms Shalom's text: 'In emotional tones BG described the sudden change in Turkey with the
+    appearance of this leader. As a student in Turkey I was familiar with the wretched Turkish regime. . . I
+    believed it to be decayed and hopeless. . . when suddenly. . . a new spirit arose from the people. A man
+    appeared whose name was unknown. . . who breathed new life into the Turkish people. . .' followed by fn
+    90. So the stored quote is a verbatim fragment of Shalom (ellipses are his). But Shalom's Ben-Gurion
+    source (fn 90), the date and the occasion are not reached; The Tower says only 'reminiscing many years
+    later', and Quora copies call it 'diary' without a citation. Date '1949' is a placeholder from the book's
+    period, not a dated utterance. what_they_saw omits that the same passage credits him with expelling the
+    Greek population; fair but selective. CORRECTION: verdict secondary-only; set date to 'undated (c.
+    1949-56, per Shalom)' or leave year with a 'circa' hedge in caveat; mediated_by should keep 'Shalom, fn
+    90, Ben-Gurion's source unseen' and the page remains unresolved. Do not describe it as a diary entry.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 12)
+  checked_on: "2026-11-01"

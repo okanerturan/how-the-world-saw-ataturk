@@ -1,0 +1,37 @@
+# Turkish for data/voices/2015/abbott-2015-04-22.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abbott-2015-04-22
+voice: Tony Abbott
+role: Avustralya Başbakanı (2013–2015)
+quote: >-
+  Bu, mirası modern Türkiye'de yaşamaya devam eden, gerçekten büyük, ilham verici bir liderin bilgece ve yüce
+  gönüllü mesajıydı.
+quote_kind: translated
+summary: >-
+  Atatürk'ün Avustralya'nın yaslı annelerine mesajını, mirası yaşamaya devam eden 'gerçekten büyük, ilham
+  verici bir liderden' gelen bilgece ve yüce gönüllü bir mesaj olarak nitelendirir.
+caveat: >-
+  Gelibolu yüzüncü yılının arifesinde Türkiye başbakanının yanında söylenmiştir; vesileye bağlı övgüdür. Anzak
+  konuşmacılarının Atatürk'e atfettiği 'Johnnies and Mehmets' / 'your sons are now lying in our bosom'
+  metninin kendisi tartışmalıdır: 1934 tarihli bir orijinal bulunamamıştır, metin ilk kez 1953'te İçişleri
+  Bakanı Şükrü Kaya'nın hatırası aracılığıyla basılı olarak ortaya çıkmıştır ve 'Johnnies and Mehmets' ibaresi
+  1978 tarihli bir Avustralya eklemesidir (bkz. [[Johnnies and Mehmets]]). Dolayısıyla bu, övgüyü ödüllendiren
+  bir anma töreni veya diplomatik vesileyle dile getirilmiş, konuşmacının Anzak efsanesindeki Atatürk'e dair
+  görüşüdür. Kaynak gösterimi: Joint press conference with Prime Minister Davutoğlu, Ankara, 22 April 2015.
+verification_note: >-
+  24389 sayılı tutanakta (Abbott, Davutoğlu ile ortak basın toplantısı, Ankara, 22 Nisan 2015) birebir aynı.
+  Kendi görüşü: 'wise and magnanimous message of a truly great inspirational leader'. Hayran 2 makul; belge
+  türü 'speech' olabilirdi ama 'quote' kabul edilebilir.
+verification_method: >-
+  kaynak yeniden çekildi, alıntının normalleştirilmiş metin eşleşmesi yapıldı; konuşmacı, tarih ve başlık
+  üstveriden/imza satırından okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f26d83d53c4b
+  role: e2b4f88241fa
+  quote: 6a20e61948ce
+  summary: 3da3c915d318
+  caveat: 46f3378adacf
+  verification_note: 1325fc0972a5
+  verification_method: 02ed4e837c0d

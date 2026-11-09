@@ -1,0 +1,29 @@
+# Turkish for data/voices/1930/la-gaceta-tampa-1930-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-gaceta-tampa-1930-06
+voice: La Gaceta (Tampa)
+role: İspanyolca günlük gazete, Tampa, Florida (puro işçisi okur kitlesi)
+quote: Bütün diktatörlükler kötüdür, antidemokratiktir
+quote_kind: translated
+summary: >-
+  Köşe yazısı, Mussolini, Pilsudski ve Stalin ile birlikte 'Dictadura de Kemal Pacha en Turquía'yı sıralar ve
+  bütün diktatörlükleri kötü ve antidemokratik olarak kınar.
+caveat: >-
+  İmzasız birinci sayfa köşe yazısı; listede Primo de Rivera, Leguía, Ibáñez ve Stalin'in de adı geçer,
+  dolayısıyla Kemal genel bir suçlamadaki maddelerden biridir.
+verification_note: >-
+  Alıntı birebir aynı ('Todas las dictaduras son malas, antidemocráticas'). Köşe yazısı Pilsudski, Leguía,
+  Ibáñez, Stalin ile birlikte 'Dictadura de Kemal Pacha en Turquía'yı sıralıyor; Mussolini ve Primo de
+  Rivera'nın adı GEÇMİYOR, yalnızca 'Dictadura negra en Italia' / 'verde militar en España' var - kayıttaki
+  'names Primo de Rivera/Mussolini' ifadesi çıkarımdır.
+verification_method: loc.gov JSON -> tile.loc.gov full_text OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1af7128c59ed
+  role: ec3228434984
+  quote: 2700c9a3c689
+  summary: c68ca513a15d
+  caveat: 29fb136dfa39
+  verification_note: f773ac86e0c3
+  verification_method: 3285e0490d8a

@@ -1,0 +1,40 @@
+# Turkish for data/voices/1926/dorothy-mills-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dorothy-mills-1926
+voice: Lady Dorothy Mills
+role: >-
+  Britanyalı romancı ve gezi yazarı; 1925'te Ankara'yı ziyaret etti (Beyond the Bosphorus, 1926)
+quote: >-
+  Şimdi o, takipçileri için, yani yeni Türkiye'nin çoğu için bir Tanrı'dır ve makamı ismen yalnızca
+  Cumhurbaşkanlığı olsa da gücü bir Diktatörün gücüdür.
+quote_kind: translated
+summary: >-
+  Onu yeni Türkiye'nin ilhamı ve canı, diktatör gücüne sahip 'takipçileri için bir Tanrı' olarak nitelendirir;
+  parlak bir zekâ olduğunu söyler ama ticari anlayışından kuşku duyar.
+caveat: >-
+  Lady Dorothy Mills, Beyond the Bosphorus (London: Duckworth, 1926), 'Angora' bölümü, s. 35 (alıntı); s. 34:
+  'To my great regret I did not have the pleasure of meeting the Ghazi ... The very inspiration and life of
+  new Turkey, he must from all accounts be a man of amazingly powerful personality.' s. 35 şöyle devam eder:
+  'Undoubtedly a very brilliant man; but ... he is a trifle over-inclined ... "to hitch his waggon to a
+  star"'. Kendisiyle tanışmamıştır; dolayısıyla bu, anlatılanlara ve Anadolu'da gördüklerine dayanan bir
+  görüştür; biyografik taslağında hatalar vardır (ör. 'Harbin'). s. 36, Türk'ü Ermenileri ve Rumları 'into the
+  sea' 'casting' ile suçlar; bu, arşivin benimsemediği bir yargıdır.
+verification_note: >-
+  Alıntı s. 35'te birebir mevcut (üst başlık 'ANGORA 35'). s. 34'teki 'To my great regret I did not have the
+  pleasure of meeting the Ghazi... The very inspiration and life of new Turkey' ifadesi s. 34'te; 'hitch his
+  waggon to a star' ve ticaret değil vatanseverlik pasajı s. 35'te yer alıyor. Kendisiyle tanışmamıştır
+  (kayıtta belirtiliyor). what_they_saw alanındaki 'doubts his commercial sense' ifadesi, 'seems inclined to
+  think and to act in terms of patriotism and not of commerce' cümlesinin adil bir özetidir. Kayıttaki sayfa
+  numaraları doğrudur.
+verification_method: >-
+  archive.org üzerinden yeni djvu tam metin indirmesi (arşivlenmiş round17 dosyası kullanılmadı)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c76b6499c705
+  role: 06d8beccddcd
+  quote: d6900df89f2a
+  summary: 2f455a21c478
+  caveat: 2a076c3df71e
+  verification_note: caeb204a4435
+  verification_method: 1c5bb8be850a

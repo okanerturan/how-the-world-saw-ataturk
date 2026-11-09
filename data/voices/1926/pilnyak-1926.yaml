@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pilnyak-1926
+voice: Boris Pilnyak
+voice_type: person
+role: Soviet novelist (the 'Tale of the Keys and the Clay', Aegean-Levant travel prose)
+country: Soviet Union
+country_now: Russia
+domain: letters
+date: "1926"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: book
+evidence: S
+summary: >-
+  A narrator's aside in fiction lists Mustafa Kemal Pasha among mass killings: he besieged Smyrna, gave the
+  Greeks 24 hours, then burned it.
+quote:
+  text: >-
+    точно так же, как в тысяча девятьсот двадцать первом году Мустафа Кемаль-паша, обложив тяжелой артиллерией
+    Смирну, предложил грекам в двадцать четыре часа уйти из Смирны
+  translation: >-
+    just as in 1921 Mustafa Kemal Pasha, having surrounded Smyrna with heavy artillery, offered the Greeks
+    twenty-four hours to leave Smyrna
+  language: ru
+caveat: >-
+  Narrator's aside in fiction ('Повесть о ключах и глине'), not an essay; dated 1921 in the text (the Smyrna
+  fire was September 1922, so the date is Pilnyak's error). The sentence goes on to say Kemal's artillery
+  wrecked the ships in the roads, then 'razed and burned the city, throwing into the sea up to two hundred
+  thousand Greeks'; those figures are Pilnyak's, not the vault's. Sensitive thread (Smyrna 1922): recorded as
+  the narrator's framing, not as established fact. Elsewhere in the same text a character (the communist
+  Aleksandrov) says that 'Mustafa Kemal Pasha and his revolution' are tied to the 'night of Iran, Asia', a
+  persona's speech with no clear verdict. Year of composition taken from the Wikisource metadata (1926); text
+  reproduced from the 1990 Pravda edition of Pilnyak's 'Povest nepogashennoi luny'. Check: the hostility is
+  implied by the 'точно так же' list (with the janissary massacre and the Dardanelles dead), not stated; the
+  24-hour offer, the figure and the 1921 date are Pilnyak's.
+node: Soviet Pens on Mustafa Kemal — Aralov and Pilnyak
+sources:
+  - url: https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C_%D0%BE_%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D1%85_%D0%B8_%D0%B3%D0%BB%D0%B8%D0%BD%D0%B5_(%D0%9F%D0%B8%D0%BB%D1%8C%D0%BD%D1%8F%D0%BA)
+    archived: https://web.archive.org/web/20250224232607/https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C_%D0%BE_%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D1%85_%D0%B8_%D0%B3%D0%BB%D0%B8%D0%BD%D0%B5_(%D0%9F%D0%B8%D0%BB%D1%8C%D0%BD%D1%8F%D0%BA)
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Russian Wikisource raw page 'Повесть о ключах и глине (Пильняк)' (az.lib.ru / Pravda 1990 reprint)
+  method: >-
+    fetched action=raw, exact substring match of the Russian quote, read the whole parenthetical and the
+    neighbouring Aleksandrov speech
+  note: >-
+    Quote verbatim (truncated mid-sentence, no ellipsis needed). Context: the sentence is a narrator's
+    parenthesis inside a paragraph about the character Aleksandrov in Athens/Hagia Sophia; it lists 'точно так
+    же' three mass killings (40,000 Greeks by janissaries, the Dardanelles dead, Smyrna), so the hostile
+    reading rests on the list structure, not on any stated judgement of Kemal. The 'twenty-four hours' and
+    '200,000' details are Pilnyak's (the text says 'обложив тяжелой артиллерией', 'до двухсот тысяч'); the
+    1921 date is his error. Aleksandrov's later line ('Мустафа Кемаль-паша и его революция ... связаны с ночью
+    Ирана, Азии') is real. PROBLEMS: (1) caveat says 'Year of composition taken from Wikisource metadata
+    (1926)'; the field is ДАТАПУБЛИКАЦИИ (publication) and ДАТАСОЗДАНИЯ is empty. (2) artifact 'article' is
+    wrong for a novella; use 'book'. (3) author-vs-narrator: fair only as hedged. CORRECTION: caveat 'Year of
+    composition taken ...' -> 'Year is the publication date given in the Wikisource header (ДАТАПУБЛИКАЦИИ
+    1926); no composition date is given.'; artifact -> 'book'; what_they_saw -> 'A narrator's aside in fiction
+    lists Mustafa Kemal Pasha among mass killings: he besieged Smyrna, gave the Greeks 24 hours, then burned
+    it.'; keep intensity 1, state in caveat that hostility is implied by the list, not stated.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 20)
+  checked_on: "2026-11-03"

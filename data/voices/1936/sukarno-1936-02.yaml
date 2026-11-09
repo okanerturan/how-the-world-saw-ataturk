@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sukarno-1936-02
+voice: Sukarno
+voice_type: person
+role: Exile at Ende, writing to the Persis teacher A. Hassan
+country: Dutch East Indies
+country_now: Indonesia
+domain: letters
+date: "1936-02-22"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: secular-rationalist-prophet
+artifact: memoir
+evidence: P
+summary: >-
+  Quoted Kemal as saying Islam is struggle, not sitting in the mosque with prayer beads, to argue that Islam
+  means fighting orthodoxy.
+quote:
+  text: >-
+    Islam tidak menyuruh orang duduk termenung sehari-hari di dalam mesjid memutarkan tashbih, tetapi Islam
+    ialah perjoangan
+  language: id
+caveat: >-
+  Letter no. 8 of 'Surat-surat Islam dari Endeh' (Ende, 22 Feb 1936). The saying is quoted from
+  memory/reading, not sourced. Archive.org leaf n375.
+node: Sukarno Reads Kemal, 1928–1940
+sources:
+  - url: https://archive.org/details/soekarno-dibawah-bendera-revolusi-1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA soekarno-dibawah-bendera-revolusi-1 djvu text (Surat-surat Islam dari Endeh, letter No. 8, Endeh 22
+    Pebruari 1936)
+  method: quote verbatim, attributed by Sukarno to Kemal Ataturk
+  checked_on: "2026-10-29"

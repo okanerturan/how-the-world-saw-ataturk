@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: goebbels-1938-11
+voice: Joseph Goebbels
+voice_type: person
+role: Reich Propaganda Minister; diary
+country: Germany
+country_now: Germany
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: memoir
+evidence: P
+summary: >-
+  On Ismet Inönü's election, notes that he is well disposed to Germany, 'which could not always be said of
+  Kemal Pasha'.
+quote:
+  text: Er ist gut zu uns eingestellt, was man von Kemal Pascha nicht immer sagen konnte.
+  language: de
+caveat: >-
+  Search-inside snippet of Die Tagebücher von Joseph Goebbels: sämtliche Fragmente (archive.org
+  dietagebuchervon0003goeb; the snippet starts at 'gewählt.', i.e. 'elected'), so the entry date (about 11-12
+  Nov 1938, Inönü's election) is inferred and the page not seen. Translation: 'He is well disposed toward us,
+  which could not always be said of Kemal Pasha.' Same book, an earlier entry (12 June 1937): 'Über Kemal
+  Paschas abenteuerliches Leben weiter gelesen' (reading a biography of Kemal) — no judgement. The English
+  Goebbels Diaries 1942-43 have only an editor's note on Atatürk.
+node: Statesmen on Atatürk in Their Own Words, Memoirs and Speeches
+sources:
+  - url: https://archive.org/details/dietagebuchervon0003goeb
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Die Tagebücher von Joseph Goebbels: sämtliche Fragmente, Teil I vol. 3 (1987), archive.org
+    dietagebuchervon0003goeb, fts snippets
+  method: tools/fts.py snippets, 3 queries (lending copy; no page numbers)
+  note: >-
+    Verbatim and complete: '... 4. Dezember festgelegt. Ismet Inönü als Nachfolger Atatürks gewählt. Er ist
+    gut zu uns eingestellt, was man von Kemal Pascha nicht immer sagen konnte.' The same snippet shows the
+    Reichstag poll set for 4 December and Inönü's election, which fixes the entry to the days after 11 Nov
+    1938, so 1938-11 is supported (exact day, 11 or 12 Nov, and the page are not). Snippet-only. Polarity
+    'conflicted' is a stretch: it is one mildly negative aside about Atatürk's attitude to Germany (intensity
+    1); 'witness' or a hostile-mild label would be fairer.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 15)
+  checked_on: "2026-11-03"

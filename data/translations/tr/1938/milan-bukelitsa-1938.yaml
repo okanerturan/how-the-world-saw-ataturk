@@ -1,0 +1,18 @@
+# Turkish for data/voices/1938/milan-bukelitsa-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: milan-bukelitsa-1938
+voice: Milan Bukelitsa
+role: Valjevolu tüccar
+summary: Atatürk'ün hastalığı sırasında Türk ve Balkan halkları için mutluluk dileyerek yazdı.
+caveat: Dileğin ifadeleri notta yalnızca kısmen alıntılanmıştır.
+mediated_by: Dağlı 2023 ← Cumhurbaşkanlığı Arşivi
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 513d304b4559
+  role: d74d4f7267eb
+  summary: f7374d461189
+  caveat: 12216b8205c4
+  mediated_by: db69299c65ed
+  verification_method: 939bb46a04c3

@@ -1,0 +1,45 @@
+# Turkish for data/voices/1933/gombos-1933-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: gombos-1933-10
+voice: Gyula Gömbös
+role: Macaristan Başbakanı
+quote: >-
+  Kemal Paşa ekselanslarını gören ve işiten, komutanlık ve liderliğin niçin onun elinde olduğunu anlıyor.
+quote_kind: original-turkish
+summary: >-
+  Ankara'daki kabulün ardından, Kemal'i gören ve işiten herkesin komutanlık ve liderliğin niçin onun elinde
+  olduğunu anladığını söyledi.
+caveat: >-
+  Macarca bir beyanın Türkçe aktarımı; dipnottaki iki eserden hangisinde yer aldığı kesinleşmemiştir ve açık
+  erişimli nüshada Altaş sayfa numarası görünmemektedir. Aynı pasaj: 'Yeni Türkiye'yi kuranla görüşmek benim
+  için çok büyük bir şerefti' (yeni Türkiye'nin kurucusuyla görüşmek benim için çok büyük bir onurdu).
+  Gömbös'ün ilgisi Turancılık ve Trianon'un revizyonuydu.
+mediated_by: >-
+  Altaş 2022 (Yakın Dönem Türkiye Araştırmaları), 20–22 Ekim 1933 ziyaretine ilişkin bölüm; oradaki
+  dipnotlarda Çolak s. 387 ve Karagülmez 2018 s. 633 kaynak gösterilir
+verification_note: >-
+  Alıntı birebir bulundu: "...Yeni Türkiye'yi kuranla görüşmek benim için çok büyük bir şerefti. Ankara'da en
+  önemli siyasetçilerin bile bizi akraba olarak düşündüğünden emin oldum." (Atatürk tarafından kabul
+  edilmesinin ardından Gömbös'ün sözü olarak sunulmuştur). Kısmi doğrulama; çünkü (a) metin nüshasında
+  alıntının kaynağı belirsizdir: 51 numaralı dipnot Móricz/Çolak s. 387'dir (alıntıdan önce), bir sonraki
+  cümleden sonraki 52 numaralı dipnot ise Karagülmez 2018 s. 633'tür, dolayısıyla kaynağın Çolak olduğu kesin
+  değildir; (b) nüshada hiçbir Altaş sayfa numarası görünmemektedir; (c) Macarca bir beyanın Türkçe
+  aktarımıdır. Kayıttaki 'Türk siyasetçilerin Macarları akraba olarak gördüğünü söyledi' ifadesi ikinci
+  cümleyle desteklenmektedir. Aynı paragrafta, 53 numaralı dipnotta DAHA İYİ ALINTI mevcuttur: Gömbös 'Kemal
+  Paşa ekselanslarını gören ve işiten, komutanlık ve liderliğin niçin onun elinde olduğunu anlıyor.' DÜZELTME:
+  mediated_by alanına ihtiyat kaydı koyun (Çolak veya Karagülmez 2018 s. 633), Altaş sayfasını çözümlenmemiş
+  bırakın, ikinci alıntıyı değerlendirin.
+verification_method: >-
+  academia.edu nüshasının (düz metin) tools/ms ile doğrudan indirilmesi; pasaj ve 51-53 numaralı dipnotlar
+  okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b958300c580a
+  role: 3e643a2cde63
+  quote: fe3c2c66ee92
+  summary: aa0dcfd4ede8
+  caveat: 6dca9aba9fea
+  mediated_by: 0e632dd1dd29
+  verification_note: 5d56d67ca869
+  verification_method: b2042d428839

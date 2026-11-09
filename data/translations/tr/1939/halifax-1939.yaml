@@ -1,0 +1,21 @@
+# Turkish for data/voices/1939/halifax-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: halifax-1939
+voice: Vikont Halifax
+role: İngiliz Dışişleri Bakanı
+quote: O dostluğun temelleri, soylu Lord'un söylediği gibi, Kemal Atatürk'ün usta eliyle atıldı
+quote_kind: translated
+summary: >-
+  Antlaşma memnuniyetle karşılanırken, İngiliz-Türk dostluğunun temellerinin atılmasını Atatürk'ün usta eline
+  atfetti.
+verification_note: Kelimesi kelimesine aynı.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ba5b2e475911
+  role: "3380230e2801"
+  quote: 4081e4cb8d1c
+  summary: 1019ca87c305
+  verification_note: b36c86191bbf
+  verification_method: ad8cee67138e

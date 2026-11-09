@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: armenian-observers-1925
+voice: Armenian diaspora and Soviet-Armenian observers
+voice_type: collective
+role: Armenian intellectuals and periodicals reading Kemalism
+country: Armenian diaspora and Soviet Armenia
+country_now: Armenia (and diaspora)
+domain: letters
+date: "1925"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Followed Kemalist reforms closely, using the terms Kemalism and Kemalocracy early; readings shaped by the
+  Genocide and split between Soviet and Diaspora views.
+quote:
+  text: bore the imprint of national calamity, despair, and division
+  language: en
+mediated_by: AUA release summarising Ter-Matevosyan, Turkish Studies 26/1 (2025)
+caveat: >-
+  Abstract and release only; no individual Armenian author quoted; 1925 is the date of the one cited Hairenik
+  item; the 1920s decade is the real span.
+node: Armenian Readings of Kemalism, 1920s
+sources:
+  - url: https://www.tandfonline.com/doi/full/10.1080/14683849.2024.2376659
+    archived: https://web.archive.org/web/20240728133302/https://www.tandfonline.com/doi/full/10.1080/14683849.2024.2376659
+  - url: https://newsroom.aua.am/2024/07/19/dr-vahram-ter-matevosyan-published-in-turkish-studies-journal
+    archived: https://web.archive.org/web/20240807224951/https://newsroom.aua.am/2024/07/19/dr-vahram-ter-matevosyan-published-in-turkish-studies-journal
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://newsroom.aua.am/2024/07/19/dr-vahram-ter-matevosyan-published-in-turkish-studies-journal
+  method: fetch
+  note: >-
+    Quote and claims in AUA release; tandfonline article blocked (bot_blocked). Hairenik 1925 item not seen.
+  checked_on: "2026-10-29"

@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: levin-1994-04
+voice: Carl Levin
+voice_type: person
+role: U.S. Senator from Michigan (Democrat)
+country: United States
+country_now: United States
+domain: politics
+date: "1994-04-19"
+era: posthumous
+polarity: instrumental
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  In an Armenian genocide commemoration, cites Atatürk as having recognised the crimes, quoting a 1926
+  interview he says Atatürk gave.
+quote:
+  text: >-
+    Indeed, the founder of modern Turkey, Kemal Ataturk, recognized the crimes committed by the Ottoman
+    Empire. As I've discussed on this floor before, in a 1926 interview Ataturk himself stated that those
+    responsible "should have been made to account for the lives of millions of our Chistian subjects who were
+    ruthlessly driven en masse from their homes and massacred."
+  language: en
+caveat: >-
+  Sensitive thread (the Armenian genocide): the Senator's framing and his attribution, which the vault does
+  not endorse or test here; the 1926 interview is his citation ('Chistian' is the Record's misprint). He uses
+  Atatürk to separate present-day Turkey from the Ottoman crimes. Cited as Senate, 19 April 1994, 'The
+  Genocide of Armenians', Congressional Record vol. 140, no. 43, p. S38 (granule CREC-1994-04-19-pt1-PgS38).
+  No printed page number (granule suffix S38 only). The 1926 interview he cites (Los Angeles Examiner) is of
+  disputed authenticity; his citation, not the vault's.
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/CREC-1994-04-19/html/CREC-1994-04-19-pt1-PgS38.htm
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    GovInfo Congressional Record daily-edition HTML CREC-1994-04-19-pt1-PgS38.htm, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads; no PDF exists for this granule
+  note: >-
+    Quote verbatim including the Record's 'Chistian' misprint; Senate, Tuesday 19 April 1994, Mr. LEVIN, 'The
+    Genocide of Armenians'. He attributes the words to Ataturk in a 1926 interview (not tested here; this is
+    the Los Angeles Examiner interview whose authenticity is disputed, so framing as 'his citation' is right).
+    CORRECTION: 'p. S38' is only the GovInfo granule suffix; the daily HTML prints '[Page S]' with no number,
+    so the real page is unresolved. Cite 'Congressional Record vol. 140, no. 43, 19 April 1994 (granule
+    CREC-1994-04-19-pt1-PgS38)' without a page. Instrumental/2 fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22c)
+  checked_on: "2026-11-03"

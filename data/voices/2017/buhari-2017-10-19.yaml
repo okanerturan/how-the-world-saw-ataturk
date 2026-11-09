@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: buhari-2017-10-19
+voice: Muhammadu Buhari
+voice_type: person
+role: President of Nigeria; entry in the Anıtkabir special book
+country: Nigeria
+country_now: Nigeria
+domain: politics
+date: "2017-10-19"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: P+J
+summary: >-
+  Calls Atatürk a great patriotic, visionary and courageous leader who shaped modern Turkey, and pays him
+  profound respect.
+quote:
+  text: >-
+    It is an honour and privilege to visit Anitkabir, the mausoleum of a great patriotic, visionary and
+    courageous leader who shaped modern Turkey, during my official working visit to Ankara and the ninth D-8
+    summit in Istanbul.
+  language: en
+mediated_by: Nigerian State House press release by Garba Shehu, 19 Oct 2017
+caveat: >-
+  Entry in the Anıtkabir book of honour, as released by the presidency; the rest of the entry is about
+  Nigeria–Turkey relations. Also reported by Punch and The Sun (Nigeria) from the same release.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://statehouse.gov.ng/president-buhari-visits-mausoleum-of-turkeys-founding-father-lauds-relations-between-nigeria-turkey/
+    archived: https://web.archive.org/web/20260815163027/https://statehouse.gov.ng/president-buhari-visits-mausoleum-of-turkeys-founding-father-lauds-relations-between-nigeria-turkey/
+  - url: https://punchng.com/buhari-lauds-nigeria-turkey-relationship/
+    archived: https://web.archive.org/web/20210302233927/https://punchng.com/buhari-lauds-nigeria-turkey-relationship/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://statehouse.gov.ng/president-buhari-visits-mausoleum-of-turkeys-founding-father-lauds-relations-between-nigeria-turkey/
+    (Garba Shehu, October 19, 2017); https://punchng.com/buhari-lauds-nigeria-turkey-relationship/
+  method: curl
+  note: >-
+    Entry text verbatim in the State House release and Punch; it continues 'I pay my profound respect to
+    Mustafa Kemal Atatürk, founder of the Republic...'. P+J acceptable (the presidency releasing his own
+    written text). Gaze test: a borderline pass on evaluative epithets ('patriotic, visionary and courageous
+    leader'), but formulaic guestbook prose; the main agent should treat it consistently with May.
+  checked_on: "2026-11-05"

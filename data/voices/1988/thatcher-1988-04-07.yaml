@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: thatcher-1988-04-07
+voice: Margaret Thatcher
+voice_type: person
+role: Prime Minister, first British PM on an official visit to Turkey; dinner speech in Ankara
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1988-04-07"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Names Atatürk a remarkable soldier-statesman and 'one of the towering figures of history', citing Kinross,
+  and says he proves history is made by great men.
+quote:
+  text: Our particular respect is reserved for that remarkable soldier/statesman Kemal Ataturk
+  language: en
+caveat: >-
+  State-visit dinner given by Özal, so the praise is also hospitality. She says she re-read Lord Kinross's
+  biography beforehand and quotes the phrase 'I don't act for public opinion, I act for the nation' (the
+  Kinross attribution is hers; Kinross itself not opened here) and adds 'If ever one needed proof that history
+  is made not by impersonal forces but by great men, Kemal Ataturk provided it.' Date is the Foundation's
+  catalogue date; the document itself gives only 'Ankara' and a COI transcript.
+node: Western Statesmen and Churchmen on Atatürk in Their Own Words
+sources:
+  - url: https://margaretthatcher.org/document/107211
+    archived: https://web.archive.org/web/20250521043637/https://www.margaretthatcher.org/document/107211
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    margaretthatcher.org/document/107211 (Speech at dinner given by Turkish Prime Minister; Ankara; COI
+    transcript; catalogue date 1988-04-07)
+  method: tools/ms free fetch of the document page
+  note: >-
+    Verbatim: 'Our particular respect is reserved for that remarkable soldier/statesman Kemal Ataturk - one of
+    the towering figures of history.' Also verbatim: re-read Lord Kinross's biography; '"I don't act for
+    public opinion," he said, "I act for the nation"'; 'If ever one needed proof that history is made not by
+    impersonal forces but by great men, Kemal Ataturk provided it.' The page itself gives only the venue
+    Ankara; the 7 April date is the catalogue's. No correction.
+  checked_on: "2026-11-01"

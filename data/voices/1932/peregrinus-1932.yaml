@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: peregrinus-1932
+voice: Peregrinus
+voice_type: person
+role: Pseudonymous German travel writer
+country: Germany
+country_now: Germany
+domain: letters
+date: "1932"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Rejects the legend that Kemal was pro-German: a mask for every state; he loves only Turkey, his state and
+  himself.
+quote:
+  text: Der Gazi liebt nur die Türkei, seinen Staat und — sich selbst.
+  language: de
+caveat: >-
+  The sentence is given as the judgment of the author's friend 'Talaat'; the author endorses it ('durchaus
+  unrichtig' on the Germanophile claim). Long-s normalised from Fraktur OCR. Year from archive metadata.
+node: Peregrinus
+sources:
+  - url: https://archive.org/details/rcin.org.pl.WA51_146655_PTG12303-2-r1932_Peregrinus-auf-bd2_124114
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org rcin.org.pl Peregrinus-auf-bd2_djvu.txt line 1426 (Talaat's judgment; author says Germanophile
+    claim 'durchaus unrichtig')
+  method: fetch
+  checked_on: "2026-10-29"

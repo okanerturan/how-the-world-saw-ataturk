@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/le-temps-1922-09-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-temps-1922-09-11
+voice: Le Temps
+role: Paris yarı resmi günlük gazetesi
+quote: Mustafa Kemal ve kurmay subayları «kültürsüz köylüler» değildir
+quote_kind: translated
+summary: >-
+  Ankara'nın sanayi çabası konusunda Townshend'den alıntı yaparak, Evening Standard'a Kemal ve kurmay
+  subaylarının 'kültürsüz köylüler' olmadığı yanıtını verdi.
+caveat: >-
+  Görünüm 1. Cümlenin giriş sözcükleri ('On pourrait répondre aux insinuations de l'Evening Standard que')
+  OCR'da kısmen bozulmuştur. Gallica ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası
+  Gallica'ya aittir, basılı sayfa numarası olmayabilir.
+verification_note: >-
+  Alıntı OCR parçasında birebir yer alıyor (Evening Standard / Townshend bağlamı mevcut). Nüsha tarihi,
+  PAG_4'teki 9-10 Eylül telgrafları dışında bağımsız olarak doğrulanmamıştır.
+verification_method: ms fetch ContentSearch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d5ca4c141833
+  role: e6898d5c7551
+  quote: 90ecd9dbc04e
+  summary: debaa6efd0fa
+  caveat: 2cc726ae1f6a
+  verification_note: 622e8625cd08
+  verification_method: 20b5d45e7de4

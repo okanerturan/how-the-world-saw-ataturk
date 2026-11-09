@@ -1,0 +1,27 @@
+# Turkish for data/voices/1922/przewodnik-katolicki-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: przewodnik-katolicki-1922
+voice: Przewodnik Katolicki (New Britain)
+role: Lehçe yayımlanan haftalık Katolik gazetesi, New Britain, Connecticut
+quote: Kemal Paşa ve Angora'daki Türk hükümeti, Amerikan tröstüne çok hoş bir şarkı söyledi
+quote_kind: translated
+summary: >-
+  Lozan başyazısı: ABD basını Standard Oil'in emriyle 'zalim Türkler' feryadını bıraktı; Kemal tröste tatlı
+  bir petrol şarkısı söyledi; Polonya Türkiye'den yana olmalı.
+caveat: >-
+  İmzasız başyazı. Ayrıca İzmir'i Türklerin değil Yunanların yaktığını ileri sürer; bu iddia tartışmalıdır ve
+  yalnızca gazetenin görüşü olarak kaydedilmiştir.
+verification_note: >-
+  Birebir. Standard Oil ve 'okrutnych Turków' yakınmasının bırakılması, İzmir'i Yunanların yakması,
+  Polonya'nın Türklere karşı 'przychylne' olması ifadelerinin tamamı mevcut.
+verification_method: loc.gov JSON + tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d6d9d670853d
+  role: 4bfd6363e396
+  quote: f71de572c0f5
+  summary: d0c0ccfb067b
+  caveat: f5e8d7ffe988
+  verification_note: eb4bac9edcfd
+  verification_method: 28ee7781d3b6

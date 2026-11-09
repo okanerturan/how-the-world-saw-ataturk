@@ -1,0 +1,44 @@
+# Turkish for data/voices/1999/clinton-1999.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: clinton-1999
+voice: Bill Clinton
+role: Amerika Birleşik Devletleri Başkanı
+quote: >-
+  Bir bakıma, bugün hepimiz Kemal Atatürk sayesinde buradayız. Yalnızca Ankara'yı başkent olarak seçtiği için
+  değil, yalnızca Ankara'yı sizin başkentiniz olarak seçtiği için değil, Türkiye'nin geleceğini bu gururlu
+  meclisin simgelediği demokrasiye adadığı için.
+quote_kind: translated
+summary: >-
+  Atatürk'ü Amerikalıların hayal gücünü cezbeden büyük cumhuriyet kurucusu olarak anar ve salondaki herkesin
+  onun sayesinde orada olduğunu söyler.
+caveat: >-
+  Özgün dildeki metin
+  (https://www.presidency.ucsb.edu/documents/remarks-the-turkish-grand-national-assembly-ankara); TBMM
+  tutanakları (Tarihe Düşülen Notlar-2, 2012) Türkçe bir metin yayımlamaktadır: "Bugün, hepimiz, Mustafa Kemal
+  Atatürk’ün sayesinde buradayız.". TBMM kitabı PDF s. 143 (basılı s. 132).
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Amerika Birleşik Devletleri Başkanı
+  William Jefferson Clinton, 19. Birleşim, 15 Kasım 1999' (başlık PDF s. 142'de)). Dolaylı aktarım unsurları
+  s. 142-143'te kontrol edildi. İngilizce olarak yapıldı. ÖZGÜN METİN: 'In a sense, we are all here today
+  because of Kemal Ataturk. Not only because he chose Ankara to be the capital, not only because he chose
+  Ankara to be your capital, but because he pledged Turkey's future to the democracy symbolized by this proud
+  assembly.' (American Presidency Project / Clinton White House arşivi / Public Papers 1999 II s. 2093).
+  Tutanaklardan farkları: Türkçe metin 'In a sense' ihtiyat kaydını düşürüyor ve 'Mustafa' adını ekliyor;
+  özgün metin ayrıca şöyle devam ediyor: 'Ironically, he accomplished much of what he did with no help from
+  the Western powers, indeed, against the opposition of most of them.' Yine özgün metinde: 'the great founder
+  of the Turkish Republic, Kemal Ataturk, captured America's imagination with his bold reforms. He was called
+  a second George Washington.' Esaslı bir fark yok, ancak İngilizce metin saklanmalı.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracımızla PNG'ye dönüştürülüp (check_png/c143.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı görüntü üzerinde ve kendi bağımsız metin katmanı
+  çıkarımımızla kelimesi kelimesine karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9a1a2639cbe3
+  role: e98cef73a6c9
+  quote: cf507bc8c71c
+  summary: a490d573c42e
+  caveat: 8df3184f91f2
+  verification_note: ab25448c5865
+  verification_method: 742ef66bd9a0

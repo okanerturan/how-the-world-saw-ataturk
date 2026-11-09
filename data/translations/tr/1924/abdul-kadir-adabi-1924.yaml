@@ -1,0 +1,22 @@
+# Turkish for data/voices/1924/abdul-kadir-adabi-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abdul-kadir-adabi-1924
+voice: Abdul Kadir Adabi
+role: Malay aydın
+summary: Hilafetin kaldırılmasını kınayan bir Malay aydın olarak anılır.
+caveat: >-
+  İkincil kaynak üzerinden ikincil aktarım; tarih 1924'teki kaldırılıştan çıkarımlandı; yansıma bir
+  çıkarımdır. metin kontrol edilmedi (kaynağa 29 Ekim 2026'da ulaşılamadı)
+mediated_by: Al-Shajarah ders kitabı makalesi
+verification_note: Kaynak makaleye erişilemiyor; iddia ve tarih doğrulanmadı
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7926c9796043
+  role: 8e9b6858dda3
+  summary: 4db696428fc2
+  caveat: 6460d2084d26
+  mediated_by: 70347ffeb2bb
+  verification_note: b9082f8a9a6c
+  verification_method: ad8cee67138e

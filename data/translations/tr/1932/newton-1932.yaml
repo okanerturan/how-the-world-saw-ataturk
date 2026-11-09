@@ -1,0 +1,19 @@
+# Turkish for data/voices/1932/newton-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: newton-1932
+voice: Lord Newton
+role: Lordlar Kamarası üyesi, Rusya ile ticaret politikası üzerine Lordlar Kamarası görüşmesi
+quote: Şu anda başka bir ülkede hüküm süren çok daha büyük bir despot var, o da Mustafa Kemal
+quote_kind: translated
+summary: >-
+  Kemal'i, göstermelik bir parlamento ve göstermelik bir muhalefet kurarak kendisini eleştiriden koruyan,
+  Mussolini'den daha büyük bir despot olarak nitelendirdi.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7dc8b0962c66
+  role: d8dd9b0bc60f
+  quote: 332cd103348d
+  summary: 23ae069afbdc
+  verification_method: a033a528b603

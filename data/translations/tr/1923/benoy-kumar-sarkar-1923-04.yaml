@@ -1,0 +1,25 @@
+# Turkish for data/voices/1923/benoy-kumar-sarkar-1923-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: benoy-kumar-sarkar-1923-04
+voice: Benoy Kumar Sarkar
+role: Hint iktisatçı ve sosyolog, Modern Review dergisindeki yazısı
+summary: >-
+  Kemal Paşa önderliğindeki Türk başarılarının Manila'dan Fas'a kadar tüm Doğu'yu manen canlandırdığını ve
+  Genç Almanya'ya da ilham verdiğini yazdı.
+caveat: >-
+  'Economics of the Rhineland' başlıklı yazısının 'The New Germany and Kemal Pasha' bölümü. Giriş özetinin OCR
+  metni bozuk olduğundan kelimesi kelimesine alıntı yer almamaktadır; okuma 'successes under Kemal Pasha' OCR
+  satırından doğrulanmıştır.
+verification_note: >-
+  Kayıtlı alıntı yok. Metin: 'From Manila to Morocco,—the entire East has been spiritualized by the Turkish
+  successes under Kemal Pasha. Their influence on Young Germany has been no less vital.' İddia destekleniyor.
+verification_method: archive.org 1923_v33_djvu.txt üzerinde grep araması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 35f2b8f92168
+  role: 171db39a3ac4
+  summary: 1ff0fa94d28f
+  caveat: 1fa8ae48a073
+  verification_note: f66e463011b8
+  verification_method: 78a6d19be26a

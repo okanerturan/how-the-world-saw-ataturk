@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ambedkar-1935-11-10
+voice: B. R. Ambedkar
+voice_type: person
+role: Dalit leader, jurist; later chief architect of India's constitution
+country: British India
+country_now: India
+domain: politics
+date: "1935-11-10"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: quote
+evidence: S
+summary: >-
+  Told Nasik caste-Hindu reformers India needed a dictator like Kemal Pasha, who made Turkey powerful and
+  reformed Muslim practice; no salvation without such a leader.
+quote:
+  text: >-
+    I feel the greatest respect for Kemal Pasha, it is he that has made Turkey into a powerful nation.
+  language: en
+mediated_by: >-
+  Dr. Babasaheb Ambedkar: Writings and Speeches vol. 17 pt 1, pp. 237–238 ← The Times of India, 30 Nov 1935 ←
+  statement by the Nasik Progressive Hindus' deputation
+caveat: >-
+  Reported speech from a three-hour interview at his residence on 10 Nov 1935, after the Yeola conversion
+  speech; also 'India wants a dictator, a Kemal Pasha or a Mussolini.' The vault card's claim that he cited
+  Turkey in the Hindu Code Bill debates is not borne out (BAWS vol. 14's two Turkey mentions are other
+  members).
+node: Writers, Scientists and Artists in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/volume-13_20250810
+  - url: https://archive.org/download/volume-13_20250810/Volume_17_01_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org volume-13_20250810 Volume_17_01_djvu.txt, BAWS vol. 17 pt 1, pp. 235–238
+  method: djvu text
+  note: >-
+    Verbatim on p. 238, with 'India wants a dictator, a Kemal Pasha or a Mussolini' and 'Without a leader of
+    the stamp of Kemal Pasha, there will be no salvation for India'. Deputation 'waited upon Dr. Ambedkar at
+    his residence on November 10 and the interview which lasted over three hours'; Yeola speech named;
+    footnote 'The Times of India, dated 30th November 1935'. Reported speech from the deputation's statement,
+    as hedged.
+  checked_on: "2026-11-06"

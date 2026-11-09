@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/league-of-nations-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: league-of-nations-1938
+voice: Milletler Cemiyeti Sekreterliği
+role: kurum
+summary: Cenazeye başkan yardımcısını ve iki yetkilisini gönderdi.
+caveat: >-
+  Not, kaynağın F. P. Walters'ı yanlışlıkla Genel Sekreter olarak adlandırdığını belirtiyor; kendisi Genel
+  Sekreter Yardımcısıydı.
+mediated_by: Tüylü Turan 2019, Cemiyet'in aylık bülteninden aktarımla
+verification_note: >-
+  Turan, Walters'ı "Genel Sekreter" olarak adlandırıyor (notun düzelttiği yanlış adlandırma); DOI bağlantı
+  sayfasına ulaşılamadı, academia kopyası kullanıldı.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0466582f24a5
+  role: 1adc83a3838b
+  summary: d47379d9fef3
+  caveat: d90e6248b0d7
+  mediated_by: ca4d78434cda
+  verification_note: 6cff7e3f0f99
+  verification_method: ad8cee67138e

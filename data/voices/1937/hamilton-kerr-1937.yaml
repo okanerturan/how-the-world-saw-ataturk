@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hamilton-kerr-1937
+voice: Mr Hamilton Kerr MP
+voice_type: person
+role: Member of the Commons, Dominion Affairs debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1937-07-29"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Retold Chanak 1922: Kemal, new dictator, crushed the Greeks, faced a British army, and the Dominions refused
+  support.
+quote:
+  text: Mustafa Kemal had then just arisen as the new dictator of Turkey
+  language: en
+caveat: >-
+  Narrative use of Chanak as a lesson on Dominion consultation; 'dictator' is the only judgment.
+node: Westminster on the Turkish Dictator, 1924–1938
+sources:
+  - url: https://hansard.parliament.uk/Commons/1937-07-29/debates/2bc0ea28-89bc-480a-bf0b-e06b1fcb6e08/DominionAffairs
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API 1937-07-29 Dominion Affairs, debate 2bc0ea28, Mr. Hamilton Kerr
+  method: api
+  checked_on: "2026-10-29"

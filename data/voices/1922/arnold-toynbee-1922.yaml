@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: arnold-toynbee-1922
+voice: Arnold J. Toynbee
+voice_type: person
+role: British historian and Manchester Guardian correspondent
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1922"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P+S
+summary: >-
+  Called Kemal an audacious rebel who proved a Turk could be his own master in Anatolia; unmet; a Turkish
+  Nationalist, not a 'Kemalist'.
+quote:
+  text: >-
+    He proved by a personal demonstration that a Turk can be his own master in Anatolia without having to wait
+    for a better world
+  language: en
+caveat: >-
+  Polarity reflects Toynbee's arc (1916 Armenian Blue Book editor, 1922 Turkophile); the 1922 text itself is
+  guardedly sympathetic; later mixed verdicts not yet sourced.
+node: Toynbee on the Audacious Rebel, 1922
+sources:
+  - url: https://archive.org/stream/westernquestioni00toynrich/westernquestioni00toynrich_djvu.txt
+  - url: https://ahifworld.net/uploads/1/1/7/1/117198244/7_ilias_chrissochoidis.pdf
+    archived: https://web.archive.org/web/20260629142903/https://ahifworld.net/uploads/1/1/7/1/117198244/7_ilias_chrissochoidis.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org westernquestioni00toynrich djvu text (Western Question in Greece and Turkey, 1922), passage on
+    Mustafa Kemal "audacious rebel ... proved by a personal demonstration"
+  method: fetch
+  checked_on: "2026-10-29"

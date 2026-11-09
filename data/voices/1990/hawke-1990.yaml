@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hawke-1990
+voice: Bob Hawke
+voice_type: person
+role: Prime Minister of Australia (1983–1991)
+country: Australia
+country_now: Australia
+domain: politics
+date: "1990-04-25"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  At Lone Pine on the 75th anniversary, honours the Turkish dead as inspired by the leadership of a 'Man of
+  Destiny', Kemal Atatürk.
+quote:
+  text: >-
+    dying in defence of their homeland, inspired by the indomitable leadership of a Man of Destiny, Mustaf a
+    Kemal known to history as Kemal Ataturk.
+  language: en
+caveat: >-
+  OCR text of the transcript (the name is printed 'Mustaf a Kemal'; the space is the transcript's). In the
+  Ankara dinner speech two days earlier (PM Transcripts 8008, 23 April 1990, garbled OCR) Hawke calls him 'the
+  great Mustapha Kema[l] Ataturk' whose Gallipoli defence 'demonstrated the singular qualities of leadership'
+  and says the 1934 tribute 'written by Ataturk' shows 'complete reconciliation of former enemies'. The
+  'Johnnies and Mehmets' / 'your sons are now lying in our bosom' text that Anzac speakers attribute to
+  Atatürk is itself contested: no 1934 original has been found, it first appears in print in 1953 via Interior
+  Minister Şükrü Kaya's recollection, and the 'Johnnies and Mehmets' clause is a 1978 Australian addition (see
+  [[Johnnies and Mehmets]]). So this is a speaker's view of the Atatürk of the Anzac legend, spoken at a
+  commemorative or diplomatic occasion that rewards praise. Cited as: Speech at Lone Pine Ceremony, Gallipoli,
+  25 April 1990.
+node: Anzac Day Leaders on Atatürk, 1990–2024 — Australian and New Zealand Speeches
+sources:
+  - url: https://pmtranscripts.pmc.gov.au/release/transcript-8010
+    archived: https://web.archive.org/web/20260503233720/https://pmtranscripts.pmc.gov.au/release/transcript-8010
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: pmtranscripts.pmc.gov.au XML query?transcript=8010
+  method: >-
+    fetched source fresh, normalised-text match of the quote; speaker, date and title read from metadata/byline
+  note: >-
+    Verbatim in transcript 8010 (Hawke, Lone Pine, 25 Apr 1990), own words: 'inspired by the indomitable
+    leadership of a Man of Destiny'. Transcript OCR prints 'Mustaf a'; consider normalising to 'Mustafa' with
+    a note. Admiring 2 fair.
+  checked_on: "2026-11-03"

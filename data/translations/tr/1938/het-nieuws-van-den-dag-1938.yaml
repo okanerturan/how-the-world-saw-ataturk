@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/het-nieuws-van-den-dag-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: het-nieuws-van-den-dag-1938
+voice: Het Nieuws van den Dag
+role: Batavya günlük gazetesi
+quote: Batı ile Doğu'yu fethetti, Doğu ile Batı'yı.
+quote_kind: translated
+summary: >-
+  Batı ile Doğu'yu, Doğu ile Batı'yı fetheden, dağınık kalıntılardan gururlu bir halk yaratan bir Prometheus
+  olarak Atatürk; çileci değildi, ölçüsüzce ziyafet çekerdi.
+verification_note: >-
+  Kaydın kaynak URL'si yoktu; KB SRU aracılığıyla bulundu. Aslı Felemenkçe, kayıt çeviriyor. 'Hij was een
+  Prometheus ... Met het Westen heeft hij het Oosten ... overwonnen' ifadesi ve ölçüsüzce ziyafet çekmesi
+  doğrulandı.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ee56083f0c26
+  role: db3557e3c92e
+  quote: b4e54a8289a0
+  summary: 84171a085029
+  verification_note: 1de7e4cd2fae
+  verification_method: ad8cee67138e

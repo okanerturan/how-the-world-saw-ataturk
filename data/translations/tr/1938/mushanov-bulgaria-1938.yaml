@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/mushanov-bulgaria-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mushanov-bulgaria-1938
+voice: Bulgaristan Parlamentosu (Meclis Başkanı Stoycho Moshanov)
+role: Bulgaristan Parlamentosu
+quote: yenileyicisinin ve büyük devlet başkanının ölümü
+quote_kind: translated
+summary: Yenileyicisinin ve büyük devlet başkanının ölümünün yasını tuttu.
+caveat: >-
+  29 Ekim 2026'da düzeltildi: gönderen Nikola Mushanov değil, Sobranie Başkanı Stoitcho Mochanov'dur
+  (Moshanov); kayıt kimliği (id) eski yazımı korumaktadır. Alıntı, Fransızca telgrafın ('de son renovateur et
+  grand chef d'etat') tarafımızca yapılan İngilizce çevirisidir.
+verification_note: >-
+  Gönderen Mushanov değil, Sobranie Başkanı Stoitcho Mochanov'dur (Moshanov) (kayıttaki ad/kimlik muhtemelen
+  Nikola Mushanov ile karıştırılmaktadır). Alıntı Fransızcadan İngilizceye çeviridir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8f80269b4b19
+  role: f334d3d5296b
+  quote: 6066374898f0
+  summary: 354eceeaddbe
+  caveat: e934d7cd4aa7
+  verification_note: 4429498511dd
+  verification_method: 939bb46a04c3

@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: frank-anthony-1955-11
+voice: Frank Anthony
+voice_type: person
+role: Leader of the Anglo-Indian community, nominated member of the Lok Sabha
+country: India
+country_now: India
+domain: politics
+date: "1955-11-30"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Opposing abolition of whipping, cites Kemal Ataturk as the ruler who stamped out black-marketing by
+  introducing it.
+quote:
+  text: >-
+    Mustafa Kemal Ata Turk stamped out black-marketing in foodgrains because he introduced whipping.
+  language: en
+caveat: >-
+  Lok Sabha Debates, 30 Nov 1955, Abolition of Whipping Bill, c. 804. Official report digitised by the Lok
+  Sabha Secretariat / Government of India Press, via archive.org OCR. Used for Anthony's own argument; an
+  unverified claim about Kemal's policy, recorded only as his view. Text read from the OCR of the official
+  report; obvious OCR slips are silently corrected in the quote.
+node: >-
+  Constituent Assembly and Lok Sabha on Atatürk, 1946–1966 — Radhakrishnan, Gour, Kamath, Anthony and
+  Brajeshwar Prasad
+sources:
+  - url: https://archive.org/download/eparlib.nic.in.55822/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Lok Sabha Debates vol. VII (eparlib.nic.in.55822, lsd_01_11_30-11-1955), 30 Nov 1955, Abolition of
+    Whipping Bill, col. 804 (header 'Whipping Bill 804' precedes, '805' follows the passage); speaker 'Shri
+    Frank Anthony: (Nominated-Anglo-Indians)', interrupted once by the Deputy-Speaker and resumed
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim ('Mustafa Kemal / Ata Turk stamped out black-market-/ing in foodgrains because he
+    intro-/duced whipping'). Column 804 correct. Gaze is marginal (a one-sentence example of Kemal's supposed
+    policy, 'I say we should do it in this country'); passes at intensity 1, instrumental. The factual claim
+    about Kemal is the speaker's, not verified here; the record already flags it. Caveat says 'Abolition of
+    Whipping Bill' correct.
+  checked_on: "2026-11-03"

@@ -1,0 +1,35 @@
+# Turkish for data/voices/2016/abbas-2016-10-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abbas-2016-10-24
+voice: Mahmoud Abbas
+role: Filistin Devleti Başkanı; Anıtkabir Özel Defteri'ndeki kayıt
+quote: >-
+  büyük lider Mustafa Kemal Atatürk'ün Türkiye Cumhuriyeti'nin kuruluş sürecinde gösterdiği büyük rolü
+  takdirle karşılıyoruz.
+quote_kind: original-turkish
+summary: >-
+  Onu 'büyük lider' olarak nitelendirir ve Türkiye Cumhuriyeti'nin kuruluşundaki büyük rolünü takdirle
+  karşılar; Filistinlilerin onun ruhuna selamlarını iletir.
+caveat: >-
+  Sputnik Türkiye (anlatilaninotesi.com.tr, 24 Ekim 2016) tarafından yeniden yayımlanan AA metni; Arapça bir
+  kaydın Türkçe çevirisidir, Arapça özgün metne ulaşılamamıştır. Temmuz 2016 darbe girişiminden üç ay sonra,
+  Atatürk'e yönelik övgüyü Erdoğan hükümetine selamlarla harmanlar.
+mediated_by: Sputnik Türkiye üzerinden AA (yazının Türkçe çevirisi)
+verification_note: >-
+  Kesit birebir aynıdır ('...büyük lider Mustafa Kemal Atatürk'ün Türkiye Cumhuriyeti'nin kuruluş sürecinde
+  gösterdiği büyük rolü takdirle karşılıyoruz'). Kayıtta ayrıca aktarıldığı üzere 'ulu önder Atatürk'ün
+  ruhuna' selam ifadesi yer almaktadır. Yalnızca AA bülteni mevcuttur; Arapça özgün metin bulunamamıştır. 24
+  Ekim 2016 tarihi doğrulandı.
+verification_method: >-
+  Alıntılanan sayfanın taze tools/ms fetch (ücretsiz) çekimi, 3 Kasım 2026; bağımsız kontrolör
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 72b34b4b3fe4
+  role: d7387f32e50b
+  quote: ccd2ef4a276a
+  summary: 7996f0d51a2f
+  caveat: 32e9ea0aaf30
+  mediated_by: 9a865836bcd8
+  verification_note: 9488d625415d
+  verification_method: 7b5332a2caf8

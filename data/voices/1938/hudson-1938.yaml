@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hudson-1938
+voice: R. S. Hudson MP
+voice_type: person
+role: Member of the Commons, Anglo-Turkish credit debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1938-07-04"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Since taking control Atatürk pursued economic and industrial development; the progress owed very largely to
+  his personal drive.
+quote:
+  text: It is very largely as a result of his personal drive that so much progress has been made.
+  language: en
+node: Hansard After Atatürk, 1938–1939
+sources:
+  - url: https://hansard.parliament.uk/Commons/1938-07-04/debates/27ea970b-b2c7-4064-b39f-0f006860189d/AngloTurkishArmamentsCreditAgreementBill
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard API contribution to Anglo-Turkish (Armaments Credit) Agreement Bill, 4 Jul 1938, Mr R. S. Hudson
+  method: fetch
+  note: hansard.parliament.uk page bot-blocked; verified via hansard-api.parliament.uk search.
+  checked_on: "2026-10-29"

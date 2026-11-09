@@ -1,0 +1,32 @@
+# Turkish for data/voices/1932/nzhdeh-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nzhdeh-1932
+voice: Garegin Nzhdeh
+role: Ermeni askerî komutan (Zengezur 1921), siyaset düşünürü, Bulgaristan'da sürgün
+quote: >-
+  Kemal, talihin getirdiği tesadüfi bir zaferle sarhoş, kanlı elini kuzgunun kanatlarına indirmiş hâlde, Aras
+  kıyısından bulanık bakışıyla Ararat Ovası'nı, onu bir gün kara topraklara çevirme hayaliyle ölçerken.
+quote_kind: translated
+summary: >-
+  Kemal'i şans eseri, tesadüfi bir zaferle sarhoş, eli kanlı, Aras kıyısından Ararat Ovası'nı süzen ve orayı
+  harap etmeyi hayal eden biri olarak resmeder.
+caveat: >-
+  'Ցեղի ոգու շարժը' ('Irkın ruhunun hareketi'); Wikisource üstbilgisi ve dipnotu 1932'de Sofya'da basıldığını
+  belirtir. Hassas bağlam (Ermeni soykırımı hafızası): arşivin Kemal tasviri olarak değil, polemik
+  niteliğindeki bir denemede Nzhdeh'in kendi retoriği olarak kaydedilmiştir. Çeviri (mecazi 'kuzgunun
+  kanatları' ifadesi dâhil) arşive aittir; Ermenice bilen bir okurla kontrol edilmelidir. Tarama incelenmedi.
+verification_note: >-
+  Ermenice metin birebir aynı; çeviri sadık ('ագռաւ' = kuzgun, 'սեւ հողեր' = kara toprak/topraklar). 1932 yılı
+  yalnızca Wikisource üstbilgisinden. Kendi polemiği, düşmanca olduğu belirtilmiş. Hassas bağlam: kayıttaki
+  çerçeveleme Nzhdeh'e atfedilmiş, kabul edilebilir.
+verification_method: ham sayfa çekildi, dizge eşleştirildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6c06b65bd663
+  role: 2928ed513974
+  quote: 7a84226e9b97
+  summary: aff11804b39c
+  caveat: 93d472eaf684
+  verification_note: a9527e1f2275
+  verification_method: 9bf4016ec18f

@@ -1,0 +1,34 @@
+# Turkish for data/voices/1938/izvestia-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: izvestia-1938
+voice: Izvestia
+role: Sovyet hükümeti günlük gazetesi
+quote: >-
+  yeni Türkiye'nin bağımsızlık hareketi tamamen Kemal Atatürk'e dayanıyordu… bağımsız Türkiye'nin bütün samimi
+  dostları üzüntü duyuyor
+quote_kind: translated
+summary: >-
+  SSCB'ye dostluğunu vurgulayan uzun ve övgü dolu bir biyografi yayımladı (NYT'ye göre); yeni Türkiye'nin
+  bağımsızlık hareketinin tamamen ona dayandığını belirtti.
+caveat: >-
+  İlk satırı yanlışlıkla Khrushchev'e atfedilen Türkçe bir derlemeden (T-tier) alıntı; altında Izvestia, 11
+  Kasım 1938 yazılıdır (2026-10-29'da düzeltildi, daha önce Pravda'ya atfedilmişti). Tarihsiz bir başka 1938
+  Izvestia kupüründe 'one of the sincere friends of Turkey, the Soviet Union is in deep sorrow' yazar. Ölüm
+  ilanları 1930'ların sonlarını (Montrö gerginliği) kasıtlı olarak atlamıştır.
+mediated_by: Türkiye Kültür ve Turizm Bakanlığı yabancı alıntılar derlemesi (T); NYT 13 Kasım 1938 (J)
+verification_note: >-
+  'one of the sincere friends of Turkey, the Soviet Union is in deep sorrow' alıntısı birebirdir, Izvestia
+  1938 (tarihsiz) olarak etiketlenmiştir; 11 Kasım tarihli Izvestia maddesi diğer satırdır. NYT'deki 'Long
+  laudatory biography'ye ulaşılamadı
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3dba49e77bb5
+  role: dd7f826fa1a8
+  quote: 68fcfd19207a
+  summary: 7ebc61b25fd8
+  caveat: d9a08c1df5a5
+  mediated_by: 055d55d844cf
+  verification_note: b3273f0d9e3e
+  verification_method: ad8cee67138e

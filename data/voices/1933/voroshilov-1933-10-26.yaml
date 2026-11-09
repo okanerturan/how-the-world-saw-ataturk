@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: voroshilov-1933-10-26
+voice: Kliment Voroshilov
+voice_type: person
+role: >-
+  Soviet People's Commissar for Military and Naval Affairs, head of the delegation to the Republic's 10th
+  anniversary
+country: Soviet Union
+country_now: Russia
+domain: politics
+date: "1933-10-26"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  In a statement to the Turkish press on landing at Istanbul, says he is especially glad to meet 'the great
+  leader of the new Turkey'.
+quote:
+  text: >-
+    Я особенно рад возможности лично встретить великого вождя новой Турции многоуважаемого президента
+    республики Мустафа Кемаль-пашу
+  translation: >-
+    I am especially glad of the chance to meet personally the great leader of the new Turkey, the highly
+    esteemed President of the Republic, Mustafa Kemal Pasha
+  language: ru
+caveat: >-
+  Правда no. 298 (5824), 28 Oct 1933, p. 1, 'Заявление тов. Ворошилова' (TASS, Istanbul, 26 Oct; statement to
+  the Turkish press). Read on the page image. Courtesy greeting on arrival, the sentence continues with Ismet
+  Pasha and Tevfik Rustu Aras; intensity 1. Quoted words are the published (TASS) text.
+node: Soviet Marshals Greet the Ghazi — Voroshilov in Ankara 1933 and Frunze 1922
+sources:
+  - url: https://archive.org/details/1933298_9664
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Pravda no. 298 (5824), 28 Oct 1933, p. 1, archive.org 1933298_9664
+  method: rendered PDF page at 250 dpi and READ Russian on the image
+  note: >-
+    Quote found with ONE correction: page reads 'rad vozmozhnosti' (genitive), record has 'vozmozhnostyu'.
+    Rest verbatim; the sentence continues 'ego vydayushchegosya soratnika ... Ismet-pashu ... Tevfik
+    Rushtu-beya'. TASS statement to the Turkish press, made on entering Turkish soil (Istanbul, 26 Oct);
+    translation faithful. Courtesy greeting, 'great leader of the new Turkey' is explicit but passing; keep at
+    intensity 1.
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (rounds 26–28)
+  checked_on: "2026-11-05"

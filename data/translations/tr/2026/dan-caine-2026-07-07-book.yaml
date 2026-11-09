@@ -1,0 +1,44 @@
+# Turkish for data/voices/2026/dan-caine-2026-07-07-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dan-caine-2026-07-07-book
+voice: Dan Caine
+role: ABD Genelkurmay Başkanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Türkiye Cumhuriyeti'nin büyük ve seçkin lideri Mustafa Kemal Atatürk'e derin saygı ve hayranlıkla
+quote_kind: translated
+summary: >-
+  Heyet adına, Cumhuriyetin büyük ve seçkin lideri Atatürk'e duyduğu derin saygı ve hayranlığı yazar.
+caveat: >-
+  İngilizce yazılmış bir metnin Türkçe çevirisi. Ankara'daki 36. NATO Devlet ve Hükümet Başkanları Zirvesi
+  sırasında 'heyet adına' yazılmıştır. Dünya, Habertürk (AA mahreçli), Gazete Gerçek ve Haberler (23 Temmuz
+  2026 tarihli yeniden paylaşım) aynı metni, tek bir AA bültenini yayımlamaktadır. İfadeler Tillerson'ın
+  2017'deki yazısına benzemektedir ('büyük ve seçkin lideri', 'derin saygı ve hayranlık', 'bir temsilcisi');
+  muhtemelen büyükelçilik tarafından hazırlanan bir protokol şablonudur. ABD Genelkurmay Başkanı. İngilizce
+  metin en.haberler.com adresindendir (arama kesiti). Tillerson'ın 2017 şablonunun neredeyse kopyasıdır,
+  dolayısıyla bağımsız bir bakış değildir.
+mediated_by: Dünya, Habertürk (AA), Gazete Gerçek ve Haberler, Temmuz 2026 (kaydın Türkçe çevirisi)
+verification_note: >-
+  Alıntı üçünde de birebir aynı, belirtildiği gibi 'heyet adına', Ankara'daki 36. NATO Zirvesi sırasında; aynı
+  AA metni, tek kaynak; 7 Temmuz 2026 tarihi doğru ('Haberler 23 Jul repost' kontrol edilmedi). Dan Caine ABD
+  Genelkurmay Başkanı'dır (Hava Kuvvetleri generali). İNGİLİZCE METİN BULUNDU (en.haberler.com): 'Out of deep
+  respect and admiration for the great and distinguished leader of the Republic of Türkiye, Mustafa Kemal
+  Atatürk, as a representative of the American people, I am deeply honored and proud to extend my respects to
+  the Turkish Nation and this great leader.' Bu metin Tillerson'ın 2017 İngilizce metninin neredeyse
+  kopyasıdır (aynı giriş, aynı 'great and distinguished leader', aynı 'representative of the American people',
+  'pay'->'extend'): bir ABD Büyükelçiliği şablonudur ve Kerry 2013 de ikinci yarısını paylaşmaktadır.
+  Tillerson/Caine'i iki bağımsız bakış olarak değil tek bir kalıp olarak sayın; yoğunluk 1-2, 2'nin üzerinde
+  değil.
+verification_method: >-
+  atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı; İngilizce metin ücretsiz DuckDuckGo arama kesiti üzerinden
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bcc08e1385c9
+  role: 2ef1231b9ba0
+  quote: 5dee3abeab23
+  summary: 694669c1c742
+  caveat: 8b255320b1f8
+  mediated_by: a71946915bd5
+  verification_note: 33edd77d62f3
+  verification_method: b49a20dd2a0f

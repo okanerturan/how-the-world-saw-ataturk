@@ -1,0 +1,21 @@
+# Turkish for data/voices/1993/refiq-zeka-xendan-1993.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: refiq-zeka-xendan-1993
+voice: Rəfiq Zəka Xəndan
+role: Azerbaycanlı yazar
+summary: >-
+  Bağımsızlık sonrası Atatürk şiirindeki romantik canlanmanın bir parçası olan Atatürkiye kitabını yayımladı.
+caveat: Tutumu, notun külliyat hakkındaki genel yargısından çıkarılmıştır.
+verification_note: >-
+  Atatürk'e adanmış Atatürkiye (Bakü 1993) kitabı ve 'sevgisi, gurur' desteklenmektedir; 'romantic revival'
+  makalenin çerçevelemesidir.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 27476bac0df7
+  role: 945508a5a87d
+  summary: 61968f9f1f04
+  caveat: c95b78455afa
+  verification_note: c4152441cfce
+  verification_method: ad8cee67138e

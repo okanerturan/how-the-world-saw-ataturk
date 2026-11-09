@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/magyarsag-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: magyarsag-1922
+voice: Magyarság
+role: Aralık 1920'de kurulan Budapeşte günlük gazetesi
+quote: >-
+  Orta Avrupa'nın Hasta Adamları nerede? Zamanın arı kovanından bizim kendi Mustafa Kemal'imiz çıkacak mı?
+quote_kind: translated
+summary: >-
+  Kemal'in Yunanlıları kovduğunu söyledi; 'Hasta Adam' ve 'Yükselen Hilal' başyazıları; Macaristan'ın kendi
+  Mustafa Kemal'inin ortaya çıkıp çıkmayacağını sordu.
+caveat: Macarların kendilerini yansıtması notun yorumudur ('evidently').
+mediated_by: Rásonyi, Belleten XLV, s. 79–86 (Macarcadan Türkçe aktarımlar)
+verification_note: >-
+  Alıntı, Rasonyi'nin Türkçe çevirisinin İngilizceye çevrilmiş halidir; Türkçe 'Orta Avrupa'nin Hasta
+  Adamlari? ... bizim Mustafa Kemalimiz cikacak mi?' ifadesiyle örtüşmektedir
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 161892e8f5c5
+  role: 2d85aa5cc034
+  quote: 1d4dcf8561c9
+  summary: 58a7d0f79bec
+  caveat: 2c3a389eb63b
+  mediated_by: 117adc40ebfe
+  verification_note: 73693a62c34d
+  verification_method: ad8cee67138e

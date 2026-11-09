@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tokutomi-soho-1937
+voice: Tokutomi Sohō
+voice_type: person
+role: Japanese journalist-historian, publisher of Kokumin Shimbun
+country: Japan
+country_now: Japan
+domain: letters
+date: "1937"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: book
+evidence: P
+summary: >-
+  Says Atatürk gave Turkey not only unity but a new spirit, reviving a corrupt state with Kemalism and
+  deposing its religious head.
+quote:
+  text: 卽ちケマル・アタチユルクといふ人は、土耳古に統一を與へたばかりでなく、土耳古に新たなる精神を與へた。
+  language: ja
+caveat: >-
+  Sensō gaigen (1937), printed p. 103, NDL image 60 (page image read). Different from the 1936 record (Kemal
+  'learned from Japan'): here a direct verdict on Kemal's work, in a lecture on nations with and without an
+  ideal. Sōhō's 1929 and 1931 statements are already in the dataset.
+node: Japanese Writers and Activists on Kemal, 1922–1947 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1271494
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: NDL pid 1271494 (Senji gaigen, Minyusha, 1937, author Tokutomi Iichiro [Soho]), image 60
+  method: >-
+    downloaded IIIF page image and READ the Japanese on it; checked NDL item metadata for author/title/year
+  note: >-
+    Quote verbatim on printed p.103 (the spread is in normal order: 103 left, 102 right). Page continues:
+    Turkey was corrupt, Kemal Ataturk united it and gave a new spirit, dragged down the head of the Muslim
+    religion. what_they_saw matches. Author's own verdict on Kemal: passes.
+  checked_on: "2026-11-05"

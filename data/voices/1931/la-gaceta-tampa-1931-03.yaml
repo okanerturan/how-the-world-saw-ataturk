@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-gaceta-tampa-1931-03
+voice: La Gaceta (Tampa)
+voice_type: press
+role: Spanish-language daily, Tampa, Florida (cigar-worker readership)
+country: United States
+country_now: United States
+domain: press
+date: "1931-03-02"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Column item says Kemal is hanging dervishes and secret-order members, keeping the old custom of hanging the
+  government's enemies, as the sultanate did.
+quote:
+  text: La república en eso imita al extinguido sultanato.
+  language: es
+caveat: >-
+  OCR of the preceding lines is damaged ('Keraal Pasha', doubled words); the quoted sentence is clean.
+  Unsigned.
+node: Tampa's La Gaceta Calls Kemal a Dictator, 1930–1935
+sources:
+  - url: https://www.loc.gov/resource/sn86002403/1931-03-02/ed-1/?sp=1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn86002403 1931-03-02 page OCR (tile.loc.gov)
+  method: loc.gov JSON + tile OCR
+  note: >-
+    Exact sentence; context 'Kemal sostiene ... anorcar a los enemigos del gobierno', hanging dervishes; OCR
+    of preceding lines damaged as stated.
+  checked_on: "2026-10-30"

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jose-carlos-mariategui-1925
+voice: José Carlos Mariátegui
+voice_type: person
+role: Peruvian Marxist essayist
+country: Peru
+country_now: Peru
+domain: letters
+date: "1925"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: book
+evidence: P
+summary: >-
+  Read the Turkish change as a spontaneous revolution from interior impulse, led by Kemal against the Entente
+  and English capitalism.
+quote:
+  text: el caudillo de la insurrección y de la victoria
+  language: es
+caveat: >-
+  Note calls it a secondhand, sympathetic newspaper synthesis that ignores Kurds, Armenians and single-party
+  rule.
+node: José Carlos Mariátegui
+sources:
+  - url: https://www.marxists.org/espanol/mariateg/oc/la_escena_contemporanea/paginas/la%20revolucion%20turca.htm
+    archived: https://web.archive.org/web/20250618100945/https://www.marxists.org/espanol/mariateg/oc/la_escena_contemporanea/paginas/la%20revolucion%20turca.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.marxists.org/espanol/mariateg/oc/la_escena_contemporanea/paginas/la%20revolucion%20turca.htm
+  method: fetch
+  note: >-
+    Quote found verbatim ('Mustafa Kemal, el caudillo de la insurreccion y de la victoria'). Year 1925 not
+    shown on page.
+  checked_on: "2026-10-29"

@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: putin-2014-12-01
+voice: Vladimir Putin
+voice_type: person
+role: President of Russia; entry in the Anıtkabir special book
+country: Russia
+country_now: Russia
+domain: politics
+date: "2014-12-01"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Says Russia deeply respects Atatürk's memory and values his contribution to establishing friendly relations
+  between the two countries.
+quote:
+  text: >-
+    Rusya, Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün anısına derin saygı duyuyor.
+  is_translation: true
+  language: tr
+mediated_by: Anadolu Ajansı and Sabah (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of the Russian entry (AA 1 Dec 2014; Sabah 2 Dec 2014 prints the same text, probably from
+  the same wire). Second entry by the same hand ten years after the 2004 one; the wording is now official
+  courtesy and no longer 'continue his work'. Date from AA's report of the day.
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.aa.com.tr/tr/dunya/putin-turkiyede/96622
+  - url: https://www.sabah.com.tr/gundem/2014/12/02/anisina-derin-saygi-duyuyoruz
+    archived: https://web.archive.org/web/20180709075357/https://www.sabah.com.tr/gundem/2014/12/02/anisina-derin-saygi-duyuyoruz
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: AA aa.com.tr/tr/dunya/putin-turkiyede/96622; Sabah 2 Dec 2014
+  method: tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker
+  note: >-
+    Verbatim in AA and Sabah (Sabah text is the same wording, same wire, not independent). Visit date 1 Dec
+    2014 fits the AA live report (page itself shows no date; Sabah URL is 2014/12/02). The quote is only the
+    first sentence of the entry; a courtesy line, intensity 1 and instrumental are fair.
+  checked_on: "2026-11-03"

@@ -1,0 +1,24 @@
+# Turkish for data/voices/1921/tunali-hilmi-tbmm-1921-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tunali-hilmi-tbmm-1921-10-31
+voice: Tunalı Hilmi (Bolu)
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Bolu milletvekili
+quote: Mümkün olsaydı, Allah’ım bana bir ikinci Mustafa Kemal Paşa verseydi.
+quote_kind: original-turkish
+summary: >-
+  Tehlikenin artık hem savaş hem de siyaset olduğunu söyledi ve Allah'ın kendisine ikinci bir Mustafa Kemal
+  Paşa vermesini dileyerek kanunun uzatılması çağrısında bulundu.
+caveat: >-
+  Basılı metin s. 477. İki gün önce Başkomutan'ı öven bir mısra yazdığını ekler ('dalkılıç mısraını yazdım').
+verification_note: Alıntı birebir; savaş ve siyasi tehlike bağlamı doğrulandı; s. 477.
+verification_method: Cilt PDF'inin pdftotext çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 40e9ad23b11d
+  role: b0536efffe82
+  quote: 2e6e1e97384d
+  summary: da92b3ceb92c
+  caveat: 7477863661cc
+  verification_note: aa7da1749d5b
+  verification_method: dc695da440a5

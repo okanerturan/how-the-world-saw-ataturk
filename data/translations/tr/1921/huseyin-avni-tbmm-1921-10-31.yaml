@@ -1,0 +1,27 @@
+# Turkish for data/voices/1921/huseyin-avni-tbmm-1921-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: huseyin-avni-tbmm-1921-10-31
+voice: Hüseyin Avni Ulaş (Erzurum)
+role: Erzurum milletvekili, muhalefetin önde gelen sesi
+quote: maddi ve manevi kuvvetin bir zâta tevdii bir millet için zaaftır
+quote_kind: original-turkish
+summary: >-
+  Paşa'nın hizmet ettiğini ve daha uzun süre önderlik etmesi gerektiğini, ancak maddi ve manevi gücün tek bir
+  kişide toplanmasının bir zaaf olduğunu söyledi; onun esirgenmesi çağrısında bulundu.
+caveat: >-
+  Basılı metin s. 474-475; buna eşlik eden çağrı 'Eğer o alemi yaşatmak istiyorsanız Paşa’yı yıpramayınız' (s.
+  475) şeklindedir. Round 7 notu altında dosyalanan 1922 tarihli iki kaydından farklı bir beyandır.
+verification_note: >-
+  s. 474'te birebir; 'Paşa’yı yıpramayınız' çağrısı s. 475'te. İkircikli okuma destekleniyor (başta kalmasını
+  istiyor ama gücün tek elde toplanmasını istemiyor).
+verification_method: Arşivlenmiş baskı PDF'inin pdftotext çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 31394e3ede4b
+  role: b9e3c325b429
+  quote: 448fb1367154
+  summary: 560a9af5ab30
+  caveat: c43483301d0d
+  verification_note: 3791be684ab9
+  verification_method: 7b462ab399e7

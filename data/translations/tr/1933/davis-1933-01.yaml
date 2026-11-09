@@ -1,0 +1,38 @@
+# Turkish for data/voices/1933/davis-1933-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: davis-1933-01
+voice: James J. Davis
+role: ABD Pennsylvania Senatörü (Cumhuriyetçi), eski Çalışma Bakanı
+quote: >-
+  Dünya ve özellikle Amerika, Türkiye Cumhurbaşkanı Mustafa Kemal tarafından o gün uyuşturucu ticaretine
+  getirilen yasak biçiminde bu muhteşem Noel armağanını aldı. … Bu, Türkiye Cumhurbaşkanı'nı uluslararası
+  uyuşturucuyla mücadele savaşının önde gelen liderlerinden biri yapmaktadır.
+quote_kind: translated
+summary: >-
+  Kemal'in 1932 Noel Günü'ndeki uyuşturucu yasağını, Türkiye Cumhurbaşkanı'nı uyuşturucuyla mücadelede önde
+  gelen bir lider yapan 'muhteşem bir Noel armağanı' olarak selamlıyor.
+caveat: >-
+  Tutanağa geçirdiği Washington Star ve Washington Herald kupürlerinin yanındaki Davis'in kendi paragrafı
+  (dahil edilmeyen: 'Kemal places ban on narcotic trade'). 24 Mart 1934 oturumunda Büyükelçi Sherrill'in
+  Kemal'in uyuşturucuyla mücadele seferberliği üzerine radyo konuşmasını takdim ederken, ulusunu dönüştürmede
+  'the gigantic strides Mustafa Kemal has made' der; bu cümle aynı görüşün ikinci bir ifadesidir. İkinci bir
+  Davis kaydı halihazırda mevcuttur (22 Nisan 1943). İki sütunlu OCR. Kaynak: Senato, 3 Ocak 1933,
+  Congressional Record c. 76 (ciltli), s. ~1195 (granül CRECB-1933-pt2-v76-1-1); aynı sözler kendisinin 24
+  Mart 1934'te tutanağa geçirdiği Sherrill'in konuşmasında da kendisine ait olarak alıntılanır (c. 78, s.
+  ~5299).
+verification_note: >-
+  Birebir; ayrı olan Washington Star ve Herald kupürlerinden önce yer alan Davis'in kendi paragrafı ('Mr.
+  DAVIS' olarak konuşur, 'my voice will be heard' temennisinde bulunur). Son cümle ('one of the outstanding
+  leaders in the international antinarcotic war') kendi paragrafındadır; Star'ın benzer cümlesi bir kupürdür.
+  Hayranlık 1 uygun. 1934 Sherrill konuşması iddiası kontrol edilmedi.
+verification_method: govinfo ciltli baskı granülünün pdftotext -layout çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6e275b6ba8aa
+  role: 15883f82ca28
+  quote: 4f6d91a800c8
+  summary: 3d73ca44da59
+  caveat: 1a46a8d5bf15
+  verification_note: 6538d4f88d3e
+  verification_method: bcff62915140

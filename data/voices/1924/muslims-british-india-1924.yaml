@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: muslims-british-india-1924
+voice: Muslims of British India
+voice_type: collective
+role: Khilafat-era Indian Muslim opinion
+country: British India
+country_now: India
+domain: religion
+date: "1924-03"
+era: contemporary
+polarity: conflicted
+intensity: 3
+artifact: policy
+evidence: S
+summary: >-
+  Adulation grew from his apparent defence of the caliphate; the March 1924 break drew an instantaneous, sharp
+  reaction, then opinion tilted back to the nationalists.
+quote:
+  text: the reaction in India was instantaneous and sharp, but somehow the break was soon repaired
+  language: en
+mediated_by: Qureshi 1996, ATAM XII(35)
+node: Khilafat Disillusion, 1924
+sources:
+  - url: https://atamdergi.gov.tr/ozet/807/eng
+    archived: https://web.archive.org/web/20260608075147/https://atamdergi.gov.tr/ozet/807/eng
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://atamdergi.gov.tr/ozet/807/eng (Qureshi 1996 abstract)
+  method: fetch
+  note: Abstract only; quote and claim match abstract. Issue number (35 vs XII) not checked.
+  checked_on: "2026-10-29"

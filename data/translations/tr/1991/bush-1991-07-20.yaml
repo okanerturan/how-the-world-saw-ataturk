@@ -1,0 +1,37 @@
+# Turkish for data/voices/1991/bush-1991-07-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bush-1991-07-20
+voice: George H. W. Bush
+role: >-
+  Amerika Birleşik Devletleri Başkanı; Ankara'daki resmî akşam yemeğinde kadeh kaldırma konuşması
+quote: >-
+  Bu sabah Atatürk'ün kabrinin dışında duruyorduk ve modern Türkiye Cumhuriyeti'nin kurucusu ile arasındaki
+  paralellikleri düşünmeden edemedim
+quote_kind: translated
+summary: >-
+  Atatürk'ün kabrinde dururken George Washington ile bir paralellik kurar: uluslar inşa eden ve savaştan sonra
+  barışı kazanan büyük generaller ve liderler.
+caveat: >-
+  Türkiye'nin Körfez Savaşı'ndaki rolünün ardından yapılmıştır; dolayısıyla aynı zamanda konukseverlik
+  gereğidir. Aynı günkü karşılama konuşması
+  (https://presidency.ucsb.edu/documents/remarks-the-arrival-ceremony-ankara-turkey) 'a vision expressed by
+  your great leader, Ataturk, that the voice of the government must speak the words of its people' diyerek
+  övgüde bulunur ve onun doğruyu söylemek üzerine sözlerini aktarır. Proje, her iki metni de doğrulamak için
+  ses kaydının mevcut olmadığını belirtir. Tarih, Proje listesinden alınmıştır.
+verification_note: >-
+  Alıntı, cümlenin birebir başlangıç parçasıdır ('...between the founder of the modern Turkish Republic'
+  ifadesi '-- whose name means "Father of the Turks" -- and ... George Washington' şeklinde devam eder).
+  Washington ile kurulan paralellik, 'peace at home and peace abroad' ve karşılama konuşmasındaki satırların
+  tamamı mevcut; UCSB her iki metnin de doğrulanması için ses kaydı bulunmadığını belirtiyor. Hayran/2
+  değerlendirmesi yerinde.
+verification_method: UCSB sayfalarının curl ile çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b0fd4c95abd8
+  role: 6b93f8e71ac4
+  quote: 3aecb82c57d7
+  summary: 193d866d4d97
+  caveat: 342b417edd04
+  verification_note: 8d7ce1e0284c
+  verification_method: 8461684d2513

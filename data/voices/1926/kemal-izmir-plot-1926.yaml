@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kemal-izmir-plot-1926
+voice: Mustafa Kemal (Atatürk)
+voice_type: self
+role: President of the Republic, opening the Assembly's fourth session
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1926-11-01"
+era: contemporary
+polarity: instrumental
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Himself as the nation's servant: the plot struck the nation and the Assembly, not his person.
+quote:
+  text: >-
+    Bu teşebbüsatın son tezahürü olarak meydana çıkan suikast hâdisesi, naçiz şahsımıza taallûku itibariyle
+    değil, fakat Türk Milletinin merdane evsafına yaraşmayan ve Millet Vekâleti gibi yüksek bir mertebei
+    itibarı vasıtai tecavüz kılmağı düşünecek kadar tereddi eden irticaî bir zihniyet göstermek itibariyle
+    mucibi teessür olmuştur.
+  language: tr
+caveat: >-
+  Self-gaze: the speaker is Atatürk. Text layer OCR-degraded ('Mileltinİn', 'mertelbei', 'zihnayet'); commas
+  in the raw print are omitted in the quote. Normalised.
+node: The Assembly Congratulates the Gazi after the İzmir Plot, 1 and 3 November 1926
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c027/tbmm02027001.pdf
+    archived: https://web.archive.org/web/20260216114413/https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c027/tbmm02027001.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Zabıt Ceridesi PDF (www5.tbmm.gov.tr), Dönem 2, cilt 27, 1 Kasım 1926, printed p. 2 (pdftotext
+    -layout text layer)
+  method: pdftotext; verbatim after de-hyphenation and OCR normalisation
+  note: >-
+    Self-gaze: the speaker is Atatürk, so 'what they saw' is his own framing, not a third-party view. Raw OCR:
+    'Mileltinİn', 'mertelbei', 'zihnayet'; raw commas omitted in the quote.
+  checked_on: "2026-10-31"

@@ -1,0 +1,47 @@
+# Turkish for data/voices/1948/said-nursi-1948.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: said-nursi-1948
+voice: Said Nursi
+role: İslam âlimi, Nur hareketinin kurucusu
+quote: Bu kahraman hocayı burada bulundurmamız lazım!
+quote_kind: translated
+summary: >-
+  Afyon Cezaevi'nden yazdığı bir mektupta, savaş dönemindeki kendi hizmetinin kanıtı olarak Mustafa Kemal'in
+  Ankara'ya gelmesi için iki kez şifreyle gönderdiği talepleri aktarır.
+caveat: >-
+  Nursi'nin kendi mektubu, ancak alıntılanan cümle Mustafa Kemal'in kendisine söylediğini belirttiği sözdür;
+  dolayısıyla bağımsız bir kaydı değil, Nursi'nin bu ilişkiyi nasıl sunmayı seçtiğini gösterir. Çıkarımla
+  belirlenen tarih: Vahide mektubu Nursi Afyon Cezaevi'ndeyken (1948–49) bir 29 Ekim Cumhuriyet Bayramı'na
+  yerleştirir ki bu da geriye yalnızca 29 Ekim 1948'i bırakır. Hareket kaynaklı barındırma; barındırılan
+  metnin baskı künyesi doğrulanmamıştır. Mevcut 1923 kaydından (Ankara'daki yüzleşme) ayrıdır. Nursi'nin
+  'abominable current of atheism' pasajı (Lem'alar s. 170, Flashes s. 233) Atatürk'ün adını anmaz ve
+  kaydedilmemiştir. Çıkarımla belirlenen tarih: yaklaşık 29 Ekim 1948, Afyon tutukluluğu sırasındaki tek
+  Cumhuriyet Bayramı (tutuklanma 23 Ocak 1948, yeniden yargılama başlangıcı 31 Ağustos 1949).
+mediated_by: >-
+  Şükran Vahide'nin iikv.org'da barındırılan ve Nursi'nin Afyon valisine mektubundan alıntı yapan biyografi
+  metni (sayfa 330) ← Şualar s. 455 (İng. çev. Rays, s. 533); cümle, Mustafa Kemal'in sözlerinin Nursi
+  tarafından aktarımıdır
+verification_note: >-
+  s. 330'da alıntı birebir aynı: 'twice Mustafa Kemal notified me in cypher wanting me to go to Ankara. He
+  even said: "We have to have this heroic hoja here!"' ve dipnot 327 'Nursi, Sualar, 455 (Eng. tr.: Rays,
+  533)'; s. 329, 'One Republic Day, that is, 29 October, while Bediuzzaman was in Afyon Prison' bayrak
+  olayıyla biter. Kaynak mektup için yıl vermez. Yıl çıkarımla bulunmuştur ve sağlamdır: barındırılan metin
+  Afyon tutuklamasını 23 Ocak 1948, Temyiz Mahkemesi kararını 4 Haziran 1949, yeniden yargılamanın
+  başlangıcını 31 Ağustos 1949 olarak verir ve ceza Eylül 1949'a kadar sürmüştür; dolayısıyla cezaevindeki tek
+  29 Ekim, 1948 yılındadır. DÜZELTME: '1948-10' tarihi kaynak tarafından belirtilmiş olarak değil, çıkarımla
+  bulunmuş olarak işaretlenmelidir ('c. 29 Oct 1948, year inferred from arrest 23 Jan 1948 and release 1949').
+  Alıntı/atıf/sayfa diğer açılardan doğrudur; barındırılan baskının künyesi belirsizliğini korumaktadır.
+verification_method: >-
+  s. 329-330 ve çevresindeki sayfaların tools/ms ile ücretsiz çekimi; tutuklanma, yargılanma ve tahliye
+  tarihleri için bu sayfalarda arama yapıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8bda2b14f7b3
+  role: 9adce8be6ba8
+  quote: 7c13600c22d4
+  summary: 3b1deb39acfb
+  caveat: 36b8787bd6a5
+  mediated_by: bb0ca072bc4d
+  verification_note: aec18b8bfa5f
+  verification_method: 58414278552b

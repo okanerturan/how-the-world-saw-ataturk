@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kagame-2012-03-23
+voice: Paul Kagame
+voice_type: person
+role: President of Rwanda
+country: Rwanda
+country_now: Rwanda
+domain: politics
+date: "2012-03-23"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  Says modern Turkey knows the value of long-term visionary leadership, having had such leaders going back to
+  Mustafa Kemal Atatürk, with visible results.
+quote:
+  text: >-
+    The people of modern Turkey know this very well because you have had such visionary leaders going back to
+    Mustafa Kemal Ataturk – and the results in your country show this.
+  language: en
+caveat: >-
+  Acceptance speech for an honorary doctorate from Fatih University, Istanbul, 23 Mar 2012, text on
+  paulkagame.rw. The preceding sentence says leaders need 'long-term vision' and the ability to motivate their
+  people; the next turns to Rwanda. Fatih University was later closed by decree after 2016 as Gülen-linked.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.paulkagame.rw/acceptance-speech-by-he-paul-kagame-president-of-the-republic-of-rwanda-at-the-occasion-of-the-conferral-of-the-degree-of-doctor-of-philosophy-honoris-causa-by-fatih-university/
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    https://www.paulkagame.rw/acceptance-speech-...-by-fatih-university/ ('Istanbul, 23 March 2012')
+  method: curl
+  note: >-
+    Quote verbatim and P honest. what_they_saw overreaches: Kagame never calls Atatürk 'a model for Rwanda's
+    own transformation'; the next sentence turns to Rwanda only generically ('with the examples available').
+    Fix what_they_saw; the mirror nation-forge-template is then thin.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 30)
+  checked_on: "2026-11-05"

@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/armenian-catholics-kirecyan-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: armenian-catholics-kirecyan-1938
+voice: Başpiskopos Boğos Kireçyan ve Dr. André Pirim
+role: Türkiye Ermeni Katoliklerinin ruhani lideri ve bir cemaat temsilcisi
+quote: yıllarca kanatlarınız altında
+quote_kind: translated
+summary: >-
+  Atatürk'e sağlık dilediler ve genç cumhuriyeti yıllarca kanatları altında koruması için dua ettiler.
+mediated_by: Dağlı 2023 ← Cumhurbaşkanlığı Arşivi
+verification_note: Alıntı Türkçeden İngilizceye çeviridir; Pirim 2 Nisan'da ayrı bir telgraf göndermiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e419d55c482c
+  role: 9d5247b4df8d
+  quote: a4747451dedd
+  summary: d6d992f2a97b
+  mediated_by: db69299c65ed
+  verification_note: 906b19d5b722
+  verification_method: 939bb46a04c3

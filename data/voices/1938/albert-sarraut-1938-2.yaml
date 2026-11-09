@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: albert-sarraut-1938-2
+voice: Albert Sarraut
+voice_type: person
+role: French Interior Minister, head of funeral delegation
+country: France
+country_now: France
+domain: diplomacy
+date: "1938-11-18"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: visit
+evidence: P+S
+summary: >-
+  Led France's funeral delegation personally; as a former ambassador in Ankara he told the Turkish press he
+  had felt 'deep admiration' for Atatürk since then, while a Dutch daily read his leading the delegation as a
+  sign of the Western powers' weight on Turkey's friendship.
+quote:
+  text: I felt admiration and affection for him
+  language: en
+mediated_by: >-
+  Toksoy 2006 (Ulus 15 Nov 1938; Aksam 20 Nov 1938) ; Tüylü Turan 2019 (Spanish press); Havas via Delpher
+caveat: >-
+  Quote and 'deep admiration' are English renderings of Toksoy's Turkish summaries of Sarraut's statements.
+  The 'courtship of Ankara' reading belongs to a Dutch daily, not to Sarraut. Tüylü Turan 2019 not read
+  directly.
+node: Albert Sarraut
+sources:
+  - url: http://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr
+    archived: https://web.archive.org/web/20261029000114/https://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr
+  - url: http://resolver.kb.nl/resolve?urn=ddd:011154706:mpeg21:a0097:ocr
+    archived: https://web.archive.org/web/20261029002856/https://resolver.kb.nl/resolve?urn=ddd:011154706:mpeg21:a0097:ocr
+  - url: https://doi.org/10.14225/JOH1567
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: partial
+  checked_against: >-
+    a local working file; sources/toksoy-2006-atatürk-yolu-european-press.txt (Sarraut heads French
+    delegation, fn.59)
+  method: local
+  note: >-
+    Delegation lead supported. 'Instrumental / courtship of Ankara' is the note's reading; Toksoy fn.59 quotes
+    Sarraut's stated 'deep admiration' for Ataturk, so polarity instrumental is unsupported. Tuylu Turan 2019
+    not read.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

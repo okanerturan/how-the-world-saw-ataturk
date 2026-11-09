@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: evening-star-dunedin-1938
+voice: Evening Star (Dunedin)
+voice_type: press
+role: Dunedin daily
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1938-11-11"
+era: funeral
+polarity: conflicted
+intensity: 2
+mirror: modernization-poster-child
+artifact: editorial
+evidence: P
+summary: >-
+  Editorial: old picture of corrupt Turkey, then 'greatest' dictator accomplishments, 'Saviour of Turkey',
+  private life wanting, doubts the edifice will stand alone.
+quote:
+  text: >-
+    He declined to become the champion of the East against the West, of Islam against Christianity, of subject
+    races against their masters.
+  language: en
+node: New Zealand Leaders on Kemal, November 1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/ESD19381111.2.63
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://paperspast.natlib.govt.nz/newspapers/ESD19381111.2.63 "DEATH OF A DICTATOR": quote verbatim;
+    "among the dictators ... accomplishments are the greatest"; "Saviour of Turkey"; "speculation ... whether
+    the edifice ... able to stand without his ... personality"
+  method: fetch
+  checked_on: "2026-10-29"

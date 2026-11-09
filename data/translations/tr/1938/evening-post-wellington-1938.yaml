@@ -1,0 +1,19 @@
+# Turkish for data/voices/1938/evening-post-wellington-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: evening-post-wellington-1938
+voice: Evening Post (Wellington)
+role: Wellington günlük gazetesi
+quote: Eğer iyi diktatörler varsa, Kamal en iyilerinden biriydi.
+quote_kind: translated
+summary: >-
+  Kamal'ı küçük bir tarladan bir bahçe yaratan, hiçbir komşusunun toprağına göz dikmeyen ve Gelibolu'da
+  Anzakları yenen iyi bir diktatör olarak nitelendiren başyazı.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 26c87bfc20e7
+  role: 694b2fae9711
+  quote: 2b3471604e2c
+  summary: cacb1a9a280d
+  verification_method: ad8cee67138e

@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: trotsky-1935-06-10
+voice: Leon Trotsky
+voice_type: person
+role: Exiled Bolshevik leader; lived at Prinkipo 1929–33 by Ankara's leave
+country: Soviet Union (exile)
+country_now: Russia
+domain: politics
+date: "1935-06-10"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Says his confinement in France was harsher than at Prinkipo under the police of Kemal Pasha, implicitly
+  crediting Turkey's lighter hand.
+quote:
+  text: >-
+    I was cut off from the outside world more than when I lived on the island of Prinkipo, in Turkey, under
+    the surveillance of the police of Kemal Pasha.
+  language: en
+caveat: >-
+  An open letter about French treatment, not about Kemal; the comparison is the only statement of view. Also
+  read: on 12 Feb 1929 Trotsky gave the Turkish police at Büyükdere a note for 'the President of the Turkish
+  Republic, Kemal Pasha', saying he came 'not of my own choice' and crossed only 'by submitting to force' (My
+  Life, ch. 44). Not stored separately: it protests the Soviet deportation and states no view of Kemal. No
+  Trotsky text on Kemalism itself was reached this round.
+node: Interwar Leaders on Kemal in Their Own Words
+sources:
+  - url: https://www.marxists.org/archive/trotsky/1935/06/french.htm
+    archived: https://web.archive.org/web/20260306130254/https://www.marxists.org/archive/trotsky/1935/06/french.htm
+  - url: https://www.marxists.org/archive/trotsky/1930/mylife/ch44.htm
+    archived: https://web.archive.org/web/20260209114258/https://www.marxists.org/archive/trotsky/1930/mylife/ch44.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    marxists.org/archive/trotsky/1935/06/french.htm, 'An Open Letter to the French Workers', written 10 June
+    1935 (New International II/5, Aug 1935, pp. 148-151)
+  method: tools/ms free fetch of the marxists.org page
+  note: >-
+    Verbatim: 'Thus, during my last year’s sojourn in France I was cut off from the outside world more than
+    when I lived on the island of Prinkipo, in Turkey, under the surveillance of the police of Kemal Pasha.'
+    Date 'Written: 10 June 1935' matches. what_they_saw ('implicitly crediting Turkey's lighter hand') is an
+    inference, but the caveat already flags it as the only statement of view. The My Life ch. 44 line
+    mentioned in the caveat was not re-checked. No correction needed.
+  checked_on: "2026-11-01"

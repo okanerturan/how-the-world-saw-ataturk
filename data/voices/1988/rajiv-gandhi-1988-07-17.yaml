@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rajiv-gandhi-1988-07-17
+voice: Rajiv Gandhi
+voice_type: person
+role: Prime Minister of India
+country: India
+country_now: India
+domain: politics
+date: "1988-07-17"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: secular-rationalist-prophet
+artifact: speech
+evidence: P
+summary: >-
+  In Ankara, calls Atatürk the shining example Nehru held up for India's freedom struggle and his secular
+  Republic a remarkable, inspiring example.
+quote:
+  text: >-
+    Kemal Ataturk was the shining example whom Jawaharlal Nehru often placed before himself and his people in
+    describing the vision of India which inspired us to struggle for our freedom.
+  language: en
+caveat: >-
+  Speech at the banquet hosted by Prime Minister Turgut Özal, Ankara, 17 July 1988; Selected Speeches and
+  Writings, vol. 4, pp. 361–364 (archive.org open text). He quotes Nehru's 1928 Calcutta praise of 'Kemal
+  Pasha' and Atatürk's line that the Republic 'can never be the land of sheikhs, dervishes', then says: 'The
+  achievements of Ataturk's Republic of Culture remain a remarkable, inspiring example.' Also: 'Turkey under
+  Ataturk became a byword for modernisation.' Diplomatic banquet speech. The Turkish rendering 'Kendi özgürlük
+  mücadelemizde Kemal Atatürk'ten ilham aldık' circulating in Turkish books matches this passage in sense.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/selectedspeeches04gand
+  - url: https://archive.org/download/selectedspeeches04gand/selectedspeeches04gand_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Selected Speeches and Writings vol. 4, archive.org selectedspeeches04gand djvu.txt, 'Traditional
+    Friendship', banquet hosted by Turgut Özal, Ankara, 17 July 1988, pp. 361–364 (quote on p. 362)
+  method: archive.org open OCR text read
+  note: >-
+    Quote verbatim; 'Republic of Culture remain a remarkable, inspiring example' (p. 363) and 'byword for
+    modernisation' (p. 363/364) present. Page correction: the speech starts p. 361 (first page with the
+    footnote), not 362. P honest.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 30)
+  checked_on: "2026-11-05"

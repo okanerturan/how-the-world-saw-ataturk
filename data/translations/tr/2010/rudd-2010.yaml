@@ -1,0 +1,41 @@
+# Turkish for data/voices/2010/rudd-2010.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rudd-2010
+voice: Kevin Rudd
+role: Avustralya Başbakanı (2007–2010, 2013)
+quote: >-
+  Atatürk'ün (ki o, bizim Johnny'lerimiz ile onların Mehmetleri arasında hiçbir fark görmemiştir) sözleri
+  çağlar boyunca bize hâlâ seslenmektedir.
+quote_kind: translated
+summary: >-
+  Türklerin barış içinde Avustralyalıları kucakladığını ve Atatürk'ün Johnny'ler ile Mehmetler hakkındaki
+  sözlerinin 'çağlar boyunca bize hâlâ seslendiğini' söyler.
+caveat: >-
+  Bu ifade Anzak efsanesi atfını hiçbir ihtiyat payı bırakmadan benimser. 2008 tarihli bir Lone Pine fidan
+  dikme konuşmasında (PM Transcripts 16100, 4 Eylül 2008) Rudd aynı şekilde 1934'te Türkiye'nin lideri Kemal
+  Atatürk için 'offered solace to the parents of those young Australians' der. Anzak konuşmacılarının
+  Atatürk'e atfettiği 'Johnnies and Mehmets' / 'your sons are now lying in our bosom' metninin kendisi
+  tartışmalıdır: 1934 tarihli bir orijinal bulunamamıştır, metin ilk kez 1953'te İçişleri Bakanı Şükrü
+  Kaya'nın hatırası aracılığıyla basılı olarak ortaya çıkmıştır ve 'Johnnies and Mehmets' ibaresi 1978 tarihli
+  bir Avustralya eklemesidir (bkz. [[Johnnies and Mehmets]]). Dolayısıyla bu, övgüyü ödüllendiren bir anma
+  töreni veya diplomatik vesileyle dile getirilmiş, konuşmacının Anzak efsanesindeki Atatürk'e dair görüşüdür.
+  Kaynak gösterimi: Speech at the Anzac Day national ceremony, Australian War Memorial, Canberra, 25 April
+  2010.
+verification_note: >-
+  17247 sayılı tutanakta (Rudd, Anzac Day national ceremony, Canberra, 25 Nisan 2010) birebir aynı. Rudd metni
+  okumaz, ona atıfta bulunur ve 'the words of Ataturk ... speak to us still down the ages' diyerek onaylar;
+  bu, tartışmalı atfa dayanan zayıf ama kendisine ait bir değerlendirmedir. Hayran 1 düzeyinde tutulmalı (daha
+  yüksek değil).
+verification_method: >-
+  kaynak yeniden çekildi, alıntının normalleştirilmiş metin eşleşmesi yapıldı; konuşmacı, tarih ve başlık
+  üstveriden/imza satırından okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 68ad9415adb5
+  role: 1729be6fe317
+  quote: 5b1d142ba0bc
+  summary: 9cd609be8679
+  caveat: 0b5a65ded924
+  verification_note: b4da39626881
+  verification_method: 02ed4e837c0d

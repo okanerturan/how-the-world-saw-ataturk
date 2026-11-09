@@ -1,0 +1,24 @@
+# Turkish for data/voices/1924/peng-shuzhi-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: peng-shuzhi-1924
+voice: 述之 (müstear ad, geleneksel olarak Peng Shuzhi)
+role: Xiangdao yazarı
+quote: Bolşevik Partisi ile Kemal Partisi'nin başarısına bir bakalım
+quote_kind: translated
+summary: >-
+  Devrimci partilerin kitlelere kök salarak kazandığının kanıtı olarak Bolşevik ve Kemalist partilerin
+  başarısını örnek gösterdi.
+caveat: >-
+  Sayı 85; ay belirtilmemiş; müstear ad aidiyeti M düzeyindedir. Örtük bir görüş içeren geçici bir değinme.
+verification_note: Birebir aynı; kayıtta belirtildiği gibi geçici bir değinme, görüş örtük.
+verification_method: ms fetch üzerinden Wikisource action=parse
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8173ca21fbde
+  role: d99c56e64725
+  quote: 18cc5c140e7f
+  summary: f7d4a15526d2
+  caveat: 66a5cc334539
+  verification_note: 695ae9cab94e
+  verification_method: 4c2a76f7d40e

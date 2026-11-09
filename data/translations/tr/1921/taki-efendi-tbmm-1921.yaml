@@ -1,0 +1,27 @@
+# Turkish for data/voices/1921/taki-efendi-tbmm-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: taki-efendi-tbmm-1921
+voice: Taki Efendi (Sivas)
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Sivas milletvekili
+quote: Fakat Mustafa Kemal Paşa bu milletin alemdarıdır.
+quote_kind: original-turkish
+summary: >-
+  Her yenilginin ona mal edileceğinden korkarak Kemal'e resmî Başkumandan unvanının verilmesine karşı çıktı,
+  ancak onu milletin sancaktarı olarak nitelendirdi.
+caveat: >-
+  Kaynak: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 2, 62. birleşim, 1. celse,
+  5 Ağustos 1337 (1921), s. 193. Kemal'in bu unvan olmadan komuta etmeye devam etmesi gerektiğini savunur.
+verification_note: ""
+verification_method: >-
+  pdftotext; s. 193'te birebir alıntı (öncesinde sayfa işareti 192 yer alır); konuşmacı, tarih ve iddia
+  tümüyle doğrulanıyor
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 04d6c13a24f0
+  role: 6de97493ed60
+  quote: 3bb70db43217
+  summary: b84261c8fcc3
+  caveat: a3770bb59f60
+  verification_note: da39a3ee5e6b
+  verification_method: 6b5db5e432d3

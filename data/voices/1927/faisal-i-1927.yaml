@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: faisal-i-1927
+voice: Faisal I of Iraq
+voice_type: person
+role: King of Iraq
+country: Iraq (British mandate)
+country_now: Iraq
+domain: politics
+date: "1927"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: report
+evidence: S
+summary: >-
+  Told Turkey's ambassador in London he followed its reforms, could only revere the Gazi's genius, and that
+  Turkey would be every Asian nation's model.
+quote:
+  text: Bütün Asyaî milletlere nümune-i imtisal olacağınız şüphesizdir.
+  language: tr
+mediated_by: >-
+  Saygı, Yalova Sosyal Bilimler Dergisi 7/15 (2017) p. 215 ← Balkaya 2015 p. 572 (Turkish diplomatic report of
+  the London conversation)
+caveat: >-
+  Translation: 'There is no doubt that you will be a model to be followed by all Asian nations.' Same passage:
+  'it is not possible ... not to revere [the Gazi's] genius' and he had not expected such results at the start
+  of the national movement. Words reach us through a Turkish envoy's report, at two removes.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/395309
+    archived: https://web.archive.org/web/20200510033944/https://dergipark.org.tr/en/download/article-file/395309
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Saygı, Yalova Sosyal Bilimler Dergisi 7/15 (Dec 2017), dergipark article-file/395309, pp. 214–215
+  method: curl + pdftotext
+  note: >-
+    Quote verbatim on p. 215, cited to Balkaya 2015 p. 572. 'dehasına hürmet etmemek kabil değildir' and
+    'harekâtı milliyenin bidayetinde, bu kadar parlak neticelere varacağınızı ümit etmiyordum' are in the same
+    passage. The setting is given as 1927, his London hotel, the Turkish ambassador invited (the passage
+    starts at the foot of p. 214). The two-remove mediation is honestly stated. The passage continues 'our
+    wish is to follow your work', which supports the mirror.
+  checked_on: "2026-11-05"

@@ -1,0 +1,41 @@
+# Turkish for data/voices/1925/vahideddin-1925.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: vahideddin-1925
+voice: VI. Mehmed Vahideddin
+role: Son Osmanlı Padişahı, San Remo'da sürgünde; başyaveri Avni Paşa'ya yazdırdığı hatırat
+quote: >-
+  Ertesi gün Mustafa Kemal'in şahsımız ve hanedanımız aleyhinde tefevvühâtını gazetelerde görünce, benim de
+  karar verecek zamanım geldi.
+quote_kind: original-turkish
+summary: >-
+  Yazdırdığı hatıratında, Kemal'in kendisi ve hanedanı aleyhindeki saldırıları gazetelerde çıkınca karar verme
+  zamanının geldiğini hatırlar.
+caveat: >-
+  Türkçe özgün metin (Osmanlı üslubu). Belge 1, 'Sultan Vahideddin'in Hatıraları (1925)', San Remo'da Avni
+  Paşa'ya dikte ettirilmiş ve yarım kalmıştır; ilk dört paragraf Padişah'ın kendi el yazısı, geri kalanı
+  Avni'ninkidir. Bardakçı bazı ifadeleri çıkarmıştır (noktalarla işaretlenmiştir); örneğin Anadolu'ya
+  gönderdiği yaver olarak Kemal hakkındaki cümle ('...Mustafa Kemal'in ..... karşısında kalmıştım'). Pasaj,
+  bir ziyaretçinin Ankara'yı tanıması halinde kendisine yetkileri kısıtlanmış bir hilafet teklif ettiği
+  görüşmenin ertesi gününü anlatır; olayların akışı bunu Kasım 1922'deki ayrılışından hemen öncesine
+  yerleştirir (OCR o kısımda bozuktur). Belge 1'in sayfa numarası OCR'da okunamamaktadır.
+mediated_by: Bardakçı 2006, Belge 1 (Sultan'ın ve Avni Paşa'nın el yazısı tıpkıbasımı)
+verification_note: >-
+  Birebir mevcut: 'Ertesi gün Mustafa Kemal'in şahsımız ve hanedanımız aleyhinde tefevvühâtını gazetelerde
+  görünce, benim de karar verecek zamanım geldi.' Belge 1 girişi: San Remo'da Avni Paşa'ya dikte ettirilen
+  hatırat, yarım kalmış; ilk dört paragraf Padişah'ın el yazısıyla, geri kalanı Avni'nin el yazısıyla; bazı
+  ifadeler Bardakçı tarafından çıkarılmış ('Mustafa Kemal'in ..... karşısında kalmıştım' cümlesi mevcut).
+  Alıntı, kayıtta belirtildiği gibi Avni'nin el yazısıyla olan, yani dikte ettirilmiş bölümdedir. OCR Belge 1
+  için net bir sayfa numarası vermiyor (çözülemedi). Bir tıpkıbasımın Bardakçı tarafından yapılmış
+  çeviriyazısı; kanıt düzeyi S doğru.
+verification_method: archive.org djvu indirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 27985884d598
+  role: 5e1440a79334
+  quote: 8b8460b3e863
+  summary: 19f4396ec3f5
+  caveat: 9fdbd2ad2ba6
+  mediated_by: 9fd44eb47c30
+  verification_note: 40def9e747c4
+  verification_method: 0b1464308eaa

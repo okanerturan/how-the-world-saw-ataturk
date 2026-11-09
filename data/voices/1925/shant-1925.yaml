@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: shant-1925
+voice: Levon Shant
+voice_type: person
+role: Armenian playwright, Dashnak leader and educator
+country: Armenia (émigré)
+country_now: Armenia
+domain: letters
+date: "1925"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: book
+evidence: S
+summary: >-
+  Reads the Kemalists as the new Westernised Turks, successors of the Ittihadists, expecting them to return
+  under another name when envy topples Kemal.
+quote:
+  text: >-
+    Այսինքն` հին թուրքեր եւ նոր թուրքեր, վերջիններս երէկ Իթթիհատական կը կոչուէին, այսօր քեմալական, վաղը նոր
+    անունով մը պիտի իջնեն ասպարէզ, երբ խմբական նախանձը Քեմալին ալ տապալէ:
+  translation: >-
+    That is, old Turks and new Turks; the latter were called Ittihadists yesterday, are Kemalists today, and
+    tomorrow will enter the arena under a new name, when factional envy topples Kemal too.
+  language: hy
+caveat: >-
+  'Մեր անկախութիւնը' ('Our independence'); the Wikisource header gives the year 1925. Sensitive thread
+  (Armenian genocide memory): Shant's political analysis, in which the Kemalist events are listed after the
+  'Armenian massacres' as fruits of the Ittihadist mood. Polarity read from the passage as a whole (sceptical
+  continuity thesis), not from an explicit insult. Translation is the vault's own. Scan not viewed. Check: the
+  sentence is a typology of old and new Turks with no explicit judgement of Kemal; polarity hostile →
+  conflicted, and the reading is the speaker's framing.
+node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
+sources:
+  - url: https://hy.wikisource.org/wiki/%D5%84%D5%A5%D6%80_%D5%A1%D5%B6%D5%AF%D5%A1%D5%AD%D5%B8%D6%82%D5%A9%D5%AB%D6%82%D5%B6%D5%A8
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: hy.wikisource Մեր անկախութիւնը (raw wikitext), header year 1925
+  method: fetched raw page, string match, read the section
+  note: >-
+    Quote verbatim, translation faithful, 1925 from header. Polarity 'hostile' is the record's inference
+    (caveat admits it): the sentence is a typology of 'old' and 'new' Turks and predicts that the Kemalists
+    will reappear under a new name when envy topples Kemal; it contains no explicit judgement of Kemal.
+    Elsewhere in the text the Kemalists are treated with suspicion over pan-Turkism and Enver (more explicit).
+    Suggest polarity conflicted/skeptical or add a caveat, intensity 1. Keep neutral framing.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (rounds 21–22)
+  checked_on: "2026-11-03"

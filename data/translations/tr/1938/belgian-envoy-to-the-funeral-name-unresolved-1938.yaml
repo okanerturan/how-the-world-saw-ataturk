@@ -1,0 +1,29 @@
+# Turkish for data/voices/1938/belgian-envoy-to-the-funeral-name-unresolved-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: belgian-envoy-to-the-funeral-name-unresolved-1938
+voice: Cenazeye gönderilen Belçika elçisi (adı çözümlenemedi)
+role: Eski Ankara büyükelçisi; Kral III. Leopold'un temsilcisi
+quote: >-
+  Atatürk'ü şahsen tanımış olma bahtiyarlığına sahibim. Ona derin bir saygı duyuyorum. Ankara'dayken her zaman
+  güneşe bakardım. Fakat güneşi ufukta görmezdim; onu Çankaya'da görürdüm. Çünkü gerçek güneş, Çankaya'daki
+  Atatürk adlı güneşti. Atatürk'ün kaybı yalnız Türkiye için değil, bütün dünya için büyük bir kayıptır.
+quote_kind: translated
+summary: >-
+  Atatürk'ü şahsen tanıdı ve ona derin saygı duydu; gerçek güneşi Çankaya'da gördü; kaybının bütün dünya için
+  büyük olduğunu söyledi.
+caveat: >-
+  Kaynaklarda adı tutarsızdır ('Roymond'/'Deryınon'), muhtemelen tek bir kişidir; çözümlenemedi.
+mediated_by: Toksoy 2006 CTAD ← Akşam 20 Kasım 1938 s. 3
+verification_note: Alıntı, Toksoy'daki Türkçe metnin İngilizce çevirisidir (OCR "Çanlmya").
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a66b75bd498f
+  role: 91748885e4e9
+  quote: f61a5a61f604
+  summary: 55ec3ee5f401
+  caveat: 5e055485360a
+  mediated_by: 279beb042eb1
+  verification_note: a52c673b5e0a
+  verification_method: 939bb46a04c3

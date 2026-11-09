@@ -1,0 +1,29 @@
+# Turkish for data/voices/1922/jamiat-ulema-gaya-1922-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jamiat-ulema-gaya-1922-12
+voice: Jamiat-ul-Ulema, Gaya oturumu
+role: Kongre ile birlikte toplanan Müslüman din âlimleri kuruluşu
+quote: Müceddid-i Hilafet (Hilafetin Kurtarıcısı) unvanı
+quote_kind: translated
+summary: >-
+  Mustafa Kemal'i zaferlerinden dolayı tebrik etti ve hilafete yeniden hayat verdiği için ona 'Büyük Mücahit',
+  Hilafetin Kurtarıcısı unvanını vermeyi kararlaştırdı.
+caveat: >-
+  Jamiat'ın kendi tutanaklarında değil, Modern Review'un Gaya toplantıları özetinde aktarılmıştır. OCR
+  üstbilgi sayfaları yakl. 182-183.
+mediated_by: Modern Review, Ocak 1923
+verification_note: ""
+verification_method: >-
+  birebir alıntı: 'the title of Mujadid-i-Khilafat ( Saviour of the Khilafat )'; ayrıca 'The Great Crusader',
+  Kemal zaferlerinden dolayı tebrik edilmiş; belirtildiği gibi Modern Review aracılığıyla aktarılmış
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3beccc0303c7
+  role: 4b8b46261850
+  quote: 41a5f531ea6e
+  summary: 36aac7a3142d
+  caveat: 981b2dc9f1c4
+  mediated_by: 5f31abd119f0
+  verification_note: da39a3ee5e6b
+  verification_method: 651a019a9e58

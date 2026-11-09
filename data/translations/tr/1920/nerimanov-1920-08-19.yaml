@@ -1,0 +1,37 @@
+# Turkish for data/voices/1920/nerimanov-1920-08-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nerimanov-1920-08-19
+voice: Nariman Narimanov
+role: Sovyet Azerbaycanı Devrim Komitesi Başkanı
+quote: Müslüman komünistleri sizin maksadınıza çatmak yolunda var kuvvetlerini sarf edeceklerdir.
+quote_kind: original-turkish
+summary: >-
+  Kemal'e, Türkiye Büyük Millet Meclisi'nde okunan ve İngiliz liderliğindeki Avrupa emperyalizmine karşı onun
+  amaçları uğruna Müslüman komünistlerin tüm gücünü ortaya koyacağı sözünü veren bir mektup gönderdi.
+caveat: >-
+  Çeviri: 'The Muslim communists will spend all their strength on the road to reaching your goal.' Azerbaycan
+  Türkçesi ifadeler; OCR'daki 'makstdunuza çatmak!' ifadesi 'maksadınıza çatmak' olarak normalleştirilmiştir.
+  Halil Paşa tarafından taşınmıştır; Kemal mektubu okumuş ve Meclis yanıt verilmesini oylamıştır. Sovyet
+  çizgisine hizmet eden ittifak dili.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri c. 9 (Kaynak 2002) s. 219 ← TBMM Zabıt Ceridesi, Devre 1, c. 3 (19 Ağustos 1920
+  oturumu) s. 29
+verification_note: >-
+  Alıntı aslına sadık. OCR'da 'makstdunuza çatmak!' yazıyor; '!' bir dipnot işaretidir ve normalleştirme
+  dürüstçedir. Mektup 'Yoldaş Halil Paşa' tarafından getirilmiş ve Kemal'in isteği üzerine okunmuştur
+  ('okunacak'). Kemal bir yanıt ve tebrik önermiş, Meclis de oybirliğiyle onaylamıştır. Metinde 'İngiltere ve
+  onun kuvvetiyle yaşayış eden Avrupa emperyalisti' ifadesi geçmektedir ki bu da what_they_saw alanını
+  destekler. ABE içindekiler sayfası buna 'telgraf', metin ise 'mektup' diyor; 'letter' doğrudur. Nerimanov
+  açık bir görüş belirten bir hükümet başkanıdır, dolayısıyla kabul edilir.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4758b9387727
+  role: 5e9731149b28
+  quote: 2b6857bfc23d
+  summary: bbeb8ed3e4f8
+  caveat: 3266250695f1
+  mediated_by: 8c39fba3257b
+  verification_note: c455dfb448df
+  verification_method: b152e9063489

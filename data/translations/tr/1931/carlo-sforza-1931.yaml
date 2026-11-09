@@ -1,0 +1,28 @@
+# Turkish for data/voices/1931/carlo-sforza-1931.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: carlo-sforza-1931
+voice: Carlo Sforza
+role: Eski İtalya dışişleri bakanı, eski İstanbul Yüksek Komiseri
+quote: Savaş sonrası diktatörlerden YALNIZCA biri, Mustafa Kemal, başarılı görünüyor
+quote_kind: translated
+summary: >-
+  Özdenetim gösterdiği ve hilafetin dünya üzerindeki iddialarından vazgeçtiği için Kemal'i başarılı görünen
+  tek savaş sonrası diktatör olarak nitelendirdi; bu yargıya 1919'da vardığını söylüyor.
+caveat: >-
+  Sforza'nın denemesinin özgün metni değil, Felemenkçe çevirisidir; makalede yazar imzası ve 'Italiaansch
+  oud-minister van Buitenlandsche Zaken' ibaresi yer almaktadır. Mevcut bir notun güncellenmiş halidir:
+  Sforza'nın Kemal hakkındaki tarihli ilk birincil metni.
+mediated_by: De Telegraaf, 18 Temmuz 1931 ('Een geslaagde dictatuur'un Felemenkçe aktarımı)
+verification_note: Alıntı Felemenkçe çeviridir; kayıt bunu De Telegraaf çevirisi olarak işaretlemektedir
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0ba6c229bc10
+  role: 1541b323a179
+  quote: ac832a32729c
+  summary: 59a7d5c58f82
+  caveat: 53448879c249
+  mediated_by: 24521ff13b02
+  verification_note: 5cd15e521f62
+  verification_method: ad8cee67138e

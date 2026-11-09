@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/hirohito-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hirohito-1938
+voice: İmparator Hirohito
+role: Japonya İmparatoru
+quote: >-
+  Türkiye Cumhuriyeti Cumhurbaşkanı Ekselansları Bay Kamal Ata Turk'ün ölümünü derin bir üzüntüyle öğreniyorum
+quote_kind: translated
+summary: Kamal Ataturk'ün ölümünü derin bir üzüntüyle öğrendi.
+caveat: Fransızca aslı (c1, PDF s. 28); protokol kalıbı, belirtilmiş bir görüş yok.
+verification_note: >-
+  Alıntı Fransızcanın İngilizce çevirisidir; üç nokta 'S.E.' yerine geçmektedir; notta çeviri olduğu
+  belirtilmiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d3295cd9f429
+  role: 5c5ac1c04695
+  quote: 17754f4cba87
+  summary: d2fe87781ead
+  caveat: 6fba22ad6bb7
+  verification_note: bdfe713c9f28
+  verification_method: 939bb46a04c3

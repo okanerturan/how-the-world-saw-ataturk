@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/comintern-4th-congress-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: comintern-4th-congress-1922
+voice: Komünist Enternasyonal (Dördüncü Kongre)
+role: Üçüncü Enternasyonal
+quote: Türk büyük burjuvazisi lehine belirli tavizler uğruna emperyalistlerle uzlaşmaya hazır
+quote_kind: translated
+summary: >-
+  Türkiye'nin bağımsızlık hareketini övdü ancak Ankara'yı Lozan'da emperyalizmle bir anlaşma hazırlamakla ve
+  komünistlere zulmetmekle suçladı; her türlü anti-emperyalist hükümete destek sundu.
+caveat: >-
+  Komintern tutanaklarının taraflı aktarımı; bakış ismen Atatürk'e değil, Ankara hükümetine yöneliktir.
+mediated_by: Açık Mektup'tan alıntı yapan WSWS yazı dizisi; Akbulut & Tunçay (2020)
+verification_note: >-
+  WSWS'de birebir alıntı; taraflı aktarım, bakış ismen Atatürk'e değil Ankara hükümetine yönelik (çekince
+  notunda belirtildiği gibi)
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 844320e60f1d
+  role: e4432d9064f6
+  quote: 350be4b61954
+  summary: b05dc28d0d27
+  caveat: 2c5e50fc6306
+  mediated_by: 406b4e61d095
+  verification_note: 9895b8123afc
+  verification_method: ad8cee67138e

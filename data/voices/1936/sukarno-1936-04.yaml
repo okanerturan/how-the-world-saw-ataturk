@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sukarno-1936-04
+voice: Sukarno
+voice_type: person
+role: Exile at Ende, writing to the Persis teacher A. Hassan
+country: Dutch East Indies
+country_now: Indonesia
+domain: letters
+date: "1936-04-22"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: secular-rationalist-prophet
+artifact: memoir
+evidence: P
+summary: >-
+  Blamed backward, ignorant orthodoxy for the many Muslims who cannot understand the new rules of Kemal
+  Ataturk, Riza Khan Pahlavi or Stalin.
+quote:
+  text: >-
+    sahnya beberapa aturan-aturan-baru yang diadakan oleh Kemal Ataturk atau Riza Khan Pahlawi atau Jozef
+    Stalin
+  language: id
+caveat: >-
+  Letter no. 9 (Ende, 22 Apr 1936). Lists Kemal beside Stalin without comment on their means. Archive.org leaf
+  n378.
+node: Sukarno Reads Kemal, 1928–1940
+sources:
+  - url: https://archive.org/details/soekarno-dibawah-bendera-revolusi-1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Dibawah Bendera Revolusi vol 1 djvu text, Letter No. 9, Endeh 22 April 1936
+  method: archive.org Soekarno-DibawahBenderaRevolusi1_djvu.txt grep
+  note: >-
+    Verbatim. Admiring polarity is an inference: he lists Kemal with Riza Khan and Stalin as authors of new
+    rules orthodoxy fails to understand, implicit endorsement.
+  checked_on: "2026-10-29"

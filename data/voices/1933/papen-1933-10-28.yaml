@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: papen-1933-10-28
+voice: Franz von Papen
+voice_type: person
+role: German Vice-Chancellor, telegram on the Republic's tenth anniversary
+country: Germany
+country_now: Germany
+domain: politics
+date: "1933-10-28"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: telegram
+evidence: P
+summary: >-
+  Called Kemal's Turkey a model to other peoples: regenerated through order, discipline and unconditional
+  following of the Führer, as Germany now was.
+quote:
+  text: Damit haben Ew. Exzellenz manch anderem Volke ein Vorbild gegeben.
+  language: de
+mediated_by: >-
+  Wire text (WTB, Berlin 28 Oct 1933) printed in Süddeutsche Zeitung, Kölnische Zeitung, Schwäbischer Merkur,
+  Münsterländische Volkszeitung 30-31 Oct 1933
+caveat: >-
+  Congratulatory telegram: praise is also diplomacy. The wire text is read in four papers' separate OCR; the
+  quote is identical in all.
+node: German Statesmen Address Kemal, 1924 and 1933
+sources:
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/FJKUMZ355YLKP7DLCPEKBHDTRBAE7U7V?issuepage=2
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/IL6KPVDUX4BMVKLVT3ABTDMZJDRSN2JR?issuepage=10
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/VQG446GIV37B2LZDN5GHHE4XPCE2WQVC?issuepage=1
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/U7JKQWQMXIZ4G7JUD73BXNU26UDKOSOO?issuepage=2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    DDB: Muensterlaendische Volkszeitung 30 Oct 1933 p. 2, Koelnische Zeitung 30 Oct 1933 (issue p. 10),
+    Sueddeutsche Zeitung 30 Oct 1933 (issue p. 1), Schwaebischer Merkur 31 Oct 1933 (issue p. 2)
+  method: >-
+    Deutsche Digitale Bibliothek newspaper Solr (plainpagefulltext), full page OCR, fetched directly; read
+    page text in all four
+  note: >-
+    Quote verbatim in all four ('Damit haben Ew. Exzellenz manch anderem Volke ein Vorbild gegeben');
+    Muensterlaendische prints the WTB dateline 'Berlin, 28. Oktober' (excerpt), Sueddeutsche has 'Berlin, 29.
+    Oktober' and Schwaebischer Merkur 'Berlin 30. Okt.', so 28 Oct is the earliest wire date, as recorded.
+    FAIRNESS NOTE: the telegram's praise is framed as the Fuehrer principle ('die Regeneration einer Nation
+    nur durchfuehrbar war in einem System der Ordnung, der Disziplin und der unbedingten Gefolgschaft an den
+    Fuehrer'); what_they_saw omits this, and a reader may want it added.
+  checked_on: "2026-11-01"

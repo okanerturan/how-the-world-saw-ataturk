@@ -1,0 +1,23 @@
+# Turkish for data/voices/1930/voorwaarts-1930-08-23.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: voorwaarts-1930-08-23
+voice: Voorwaarts
+role: Sosyal demokrat günlük gazete
+quote: muhalifleri kurşun ya da ilmikle etkisiz hale getirmişti
+quote_kind: translated
+summary: >-
+  Kürtlerdeki öfkenin, 1923'ten beri her eski biçimi terk eden ve muhalifleri kurşun ya da iple susturan
+  diktatörlüğü altında büyüdüğünü söyledi.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. OCR cümlede 'zün'/'hy' şeklinde yazar;
+  alıntılanan kısım temizdir.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: be82d3717741
+  role: 041312f0892b
+  quote: e4c553d8105e
+  summary: 402cdc732e77
+  caveat: 567ee2dfc6b7
+  verification_method: ad8cee67138e

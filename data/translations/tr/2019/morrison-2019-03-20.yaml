@@ -1,0 +1,44 @@
+# Turkish for data/voices/2019/morrison-2019-03-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: morrison-2019-03-20
+voice: Scott Morrison
+role: Avustralya Başbakanı (2018–2022)
+quote: >-
+  Atatürk ülkesini modern bir ulusa, kucaklayıcı bir ulusa dönüştürmeye çalıştı ve bence bu yorumlar o ruhla
+  ve Avustralyalılara verilen sözle çelişiyor
+quote_kind: translated
+summary: >-
+  Christchurch açıklamalarının ardından Erdoğan'a karşı Atatürk'e atıfta bulunur: Atatürk modern, kucaklayıcı
+  bir ulus yaratmaya çalışmış ve Avustralyalılara bir söz vermiştir.
+caveat: >-
+  Hayranlık barındırdığı kadar araçsaldır da: Atatürk, Christchurch saldırılarının ardından yaptığı
+  açıklamalar nedeniyle Türkiye Cumhurbaşkanı Erdoğan'ı sertçe eleştirmek için bir ölçüt olarak kullanılır
+  (basın toplantısında bu açıklamalar 'highly offensive' ve 'reckless' olarak nitelendirilir). Aynı gün 2GB'de
+  (PM Transcripts 42207) Morrison, Erdoğan'ın yorumlarının 'very much at odds with what Ataturk said' olduğunu
+  söylemiş, 28 Mart'ta da (42235) Erdoğan hakkında 'had failed on the promise made by Ataturk to the mothers
+  of Anzacs' demiştir. Kutupluluk çelişkili: Atatürk'ü bir inceleme nesnesi olarak değil, Erdoğan'ın
+  karşılayamadığı bir kıstas olarak ele alır. Anzak konuşmacılarının Atatürk'e atfettiği 'Johnnies and
+  Mehmets' / 'your sons are now lying in our bosom' metninin kendisi tartışmalıdır: 1934 tarihli bir orijinal
+  bulunamamıştır, metin ilk kez 1953'te İçişleri Bakanı Şükrü Kaya'nın hatırası aracılığıyla basılı olarak
+  ortaya çıkmıştır ve 'Johnnies and Mehmets' ibaresi 1978 tarihli bir Avustralya eklemesidir (bkz. [[Johnnies
+  and Mehmets]]). Dolayısıyla bu, övgüyü ödüllendiren bir anma töreni veya diplomatik vesileyle dile
+  getirilmiş, konuşmacının Anzak efsanesindeki Atatürk'e dair görüşüdür. Kaynak gösterimi: Press conference,
+  Canberra, 20 March 2019.
+verification_note: >-
+  42211 sayılı tutanakta (Morrison basın toplantısı, Canberra, 20 Mart 2019) birebir aynı, kendi sözleri.
+  'conflicted' kutupluluğu yanlıştır: Morrison Atatürk konusunda ikircikli değildir, Atatürk'ü Erdoğan'ın
+  Christchurch açıklamalarına karşı ölçüt olarak kullanır. Düzeltme: kutupluluk araçsal, yoğunluk 1 (tek bir
+  cümle için 2 cömerttir), tarafsız ifade 'Cites Ataturk's aim of a modern, embracing nation and the promise
+  to Australians as the standard Erdogan's remarks fall short of'. Aynı tutanakta daha önce 'the promise of
+  Ataturk to the mothers of our ANZACs' denmektedir, yani efsaneyi benimser.
+verification_method: XML çekildi, alıntı eşleştirildi ve soru ile yanıt okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cd5d991efad7
+  role: fec001ec6a9b
+  quote: 486afc82e62d
+  summary: 730fe487e69f
+  caveat: 2bcce2d6a513
+  verification_note: a2dc09dc8a60
+  verification_method: 083d9739cae7

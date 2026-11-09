@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hubei-dangyuan-1926
+voice: 湖北一黨員 (a Hubei party member, pseudonym)
+voice_type: person
+role: Right-wing KMT writer, Chinese KMT Weekly
+country: China
+country_now: China
+domain: press
+date: "1926"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: apostate
+artifact: article
+evidence: P
+summary: >-
+  Said Kemal's measures against Communists in Turkey were what Communists feared most, using him as the
+  anti-Red precedent for the Northern Expedition.
+quote:
+  text: 土耳其基瑪爾將軍之舉措，共產黨是最怕不過的
+  language: zh
+caveat: Pseudonymous; year only (PDF named 1926年2卷6期 on the page).
+node: Kemal in the Kuomintang's Quarrels, 1924–1928
+sources:
+  - url: https://zh.wikisource.org/wiki/共產黨打倒之湖北
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource.org page via action=parse 共產黨打倒之湖北 (header 1926年, 湖北一黨員)
+  method: ms fetch Wikisource parse
+  note: Exact sentence; page header gives year only, issue number not on page text.
+  checked_on: "2026-10-30"

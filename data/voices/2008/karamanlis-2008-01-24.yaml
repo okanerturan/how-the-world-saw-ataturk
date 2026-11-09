@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: karamanlis-2008-01-24
+voice: Kostas Karamanlis
+voice_type: person
+role: Prime Minister of Greece; entry in the Anıtkabir special book
+country: Greece
+country_now: Greece
+domain: politics
+date: "2008-01-24"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J+J
+summary: >-
+  On the first Greek premier's official visit since 1959, says Atatürk and Venizelos had the courage and
+  vision not to let past tragedies block peace.
+quote:
+  text: >-
+    Kemal Ataturk and [then Greek leader] Eleftherios Venizelos had the political courage, will and vision not
+    to allow the conflicts and tragedies of the past to become an obstacle to… building a better future of
+    peace and co-operation to the benefit of the two peoples.
+  language: en
+mediated_by: >-
+  Cyprus Mail, 25 Jan 2008 (Reuters, English, with its own ellipsis and bracket); Hürriyet, 24 Jan 2008
+  (Turkish rendering)
+caveat: >-
+  Entry in the Anıtkabir special book; Anıtkabir visits are a taboo in Greece and he did not tour the museum
+  celebrating the 1922 victory over Greece. Hürriyet's Turkish: 'Atatürk ve Venizelos'un siyasi irade ve
+  cesareti vardı. Biz de geçmiş trajedilerin bize engel olmaması için gerekli cesarete sahibiz.' Praise framed
+  for Greek–Turkish rapprochement. Check: the quote is Reuters' English rendering; Hürriyet's Turkish differs;
+  no original-language entry found.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.cyprus-mail.com/2008/01/25/karamanlis-lauds-ataturk-on-historic-trip-to-turkey/
+    archived: https://web.archive.org/web/20250621161603/https://archive.cyprus-mail.com/2008/01/25/karamanlis-lauds-ataturk-on-historic-trip-to-turkey/
+  - url: https://www.hurriyet.com.tr/gundem/kucuk-asya-faciasi-anitkabirde-8091290
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://archive.cyprus-mail.com/2008/01/25/karamanlis-lauds-ataturk-on-historic-trip-to-turkey/ (Cyprus
+    Mail/Reuters 25 Jan 2008, 'yesterday');
+    https://www.hurriyet.com.tr/gundem/kucuk-asya-faciasi-anitkabirde-8091290
+  method: curl
+  note: >-
+    The English quote is verbatim in Cyprus Mail, with Reuters' own bracket and ellipsis; the Hürriyet Turkish
+    is verbatim and he skipped the museum. The two renderings differ in wording and the original-language
+    entry was not found, so the quote is a press translation and should be marked as such. Gaze test: a
+    borderline pass, since he credits Atatürk (with Venizelos) with courage, will and vision. Instrumental
+    fits. Hürriyet: his uncle in 1959 only signed.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 30)
+  checked_on: "2026-11-05"

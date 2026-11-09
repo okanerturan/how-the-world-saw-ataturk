@@ -1,0 +1,30 @@
+# Turkish for data/voices/1938/baumann-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: baumann-1938
+voice: Baumann (İsviçre Konfederasyonu Başkanı)
+role: İsviçre Federal Başkanı, Federal Konsey adına
+quote: modern Türkiye'nin hayranlık uyandıran yükselişini dehasına borçlu olduğu
+quote_kind: translated
+summary: >-
+  Modern Türkiye'nin hayranlık uyandıran yükselişini Atatürk'ün dehasına borçlu olduğunu söyledi.
+caveat: >-
+  TBMM c. 2 (c2) PDF s. 19. Alıntı Fransızcadır; çevirisi: 'modern Türkiye'nin hayranlık uyandıran yükselişini
+  dehasına borçlu olduğu'. 'Baumann' imzalıdır; ön adı (Johannes) hafızadan eklenmiştir.
+verification_note: >-
+  Bern telgrafı: 'au genie duquel la turquie moderne doit son admirable essor', 'baumann president de la
+  confederation suisse' imzalı, 'au nom du conseil federal' gönderilmiş. Kayıtta aksanlar tamamlanmıştır. Aynı
+  sayfadaki sağ taraftaki telgraf 28.10.1924 tarihli farklı, Türkçe bir belgedir ve bu kaydın parçası
+  değildir. Baumann'ın ön adı sayfada yer almamaktadır.
+verification_method: >-
+  PDF sayfasının kendi görüntü çıktısı (PDFKit PNG, gözle okundu); OCR'a dayanılmadı; telgraf metni aksansız
+  büyük/küçük harf daktilo yazısıdır
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b9f92b121b5c
+  role: 4ef324061ced
+  quote: 30eccc1954df
+  summary: a3f023f41665
+  caveat: e86911fe3d07
+  verification_note: e78d12e09b27
+  verification_method: 7c3ad23fb937

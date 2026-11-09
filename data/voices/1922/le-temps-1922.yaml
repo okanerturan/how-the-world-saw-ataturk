@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-temps-1922
+voice: Le Temps
+voice_type: press
+role: Paris semi-official daily
+country: France
+country_now: France
+domain: press
+date: "1922-09-16"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Reported that Kemal decreed death for soldiers committing excesses and was ready for a peace conference,
+  alongside the burning of Smyrna.
+caveat: >-
+  Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. Dispatch-level
+  reporting; no editorial judgement of him in the fragments.
+node: Paris Reads Smyrna and the Straits, September 1922
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k244864h
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k244865w
+verification:
+  verdict: confirmed
+  checked_against: >-
+    gallica ContentSearch ark bpt6k244864h (16 Sep 1922) hits 'Kemal pacha a édicté la peine de mort ...
+    excès'; 'se déclara prêt à participer à une conférence de paix'
+  method: fetch
+  note: Search-hit fragments only (as caveat says); Smyrna fire part not seen in fragments.
+  checked_on: "2026-10-29"

@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: het-nieuws-van-den-dag-1938
+voice: Het Nieuws van den Dag
+voice_type: press
+role: Batavia daily
+country: Dutch East Indies
+country_now: Indonesia
+domain: press
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: editorial
+evidence: P
+summary: >-
+  Atatürk as Prometheus who conquered East with West and West with East, forging a proud people from scattered
+  remains; not ascetic, he feasted without measure.
+quote:
+  text: With the West he conquered the East, with the East the West.
+  language: en
+node: Dutch East Indies Press, November 1938
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010227760:mpeg21:a0220
+    label: >-
+      Het Nieuws van den Dag voor Nederlandsch-Indië, 11 Nov 1938, "Einde ?" and "Kemal Atatürk de uitbundige!"
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010227760:mpeg21:a0217
+    label: >-
+      Het Nieuws van den Dag voor Nederlandsch-Indië, 11 Nov 1938, "Einde ?" and "Kemal Atatürk de uitbundige!"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    http://resolver.kb.nl/resolve?urn=ddd:010227760:mpeg21:a0220:ocr (Het nieuws van den dag voor
+    Nederlandsch-Indie, 11 Nov 1938 p.21)
+  method: fetch
+  note: >-
+    Record had no source URL; found via KB SRU. Dutch original, record translates. 'Hij was een Prometheus ...
+    Met het Westen heeft hij het Oosten ... overwonnen' and feasting without measure confirmed.
+  checked_on: "2026-10-29"

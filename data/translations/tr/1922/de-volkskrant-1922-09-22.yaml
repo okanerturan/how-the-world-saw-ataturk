@@ -1,0 +1,24 @@
+# Turkish for data/voices/1922/de-volkskrant-1922-09-22.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-volkskrant-1922-09-22
+voice: De Volkskrant
+role: Katolik günlük gazete
+quote: Kemal o şirketin bankalarının kendisi tarafından korunacağına söz verdi
+quote_kind: translated
+summary: >-
+  Kemal'in Amerikan petrol şirketinin İzmir'deki bankalarını koruma sözünü bildirdi; bu sırada gazetenin İzmir
+  haberleri kilise mülkleri ve iç kesimlere götürülen Hristiyanlarla ilgiliydi.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Kemal hakkında belirtilmiş bir görüş yok;
+  tanıklık olarak kaydedildi. Aynı haberde gazete, başpiskoposun evinin tahrip edildiğini ancak katedralin
+  kurtulduğunu bildiriyor.
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 404318dd143e
+  role: 044d13ff42e0
+  quote: 7da22d8e864e
+  summary: abe9973bd87e
+  caveat: ff87b0669cba
+  verification_method: ad8cee67138e

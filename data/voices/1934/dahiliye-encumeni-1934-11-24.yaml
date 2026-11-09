@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dahiliye-encumeni-1934-11-24
+voice: Dahiliye Encümeni (Interior Committee)
+voice_type: institution
+role: Committee of the Turkish Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1934-11-24"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: report
+evidence: P
+summary: >-
+  Reported the name Atatürk thoroughly fitting for the President who won the nation's full independence and
+  showed it its true history and own language.
+quote:
+  text: >-
+    Türk ulusuna tam istiklâlini kazandıran ve ulusa gerçek tarihinin ve öz dilinin yolunu gösteren Ulu Cumhur
+    Reisimize (Atatürk) soy adının verilmesi çok yerinde görülmüş
+  language: tr
+caveat: >-
+  Committee text on the bill by İsmet İnönü and colleagues; the bill itself names 'Kemal Öz adlı Cumhur
+  reisimize'. Committee identified from the Reis's referral line ('Dahiliye encümenine havale ediyoruz').
+  Printed p. 35.
+node: The Name Atatürk in the Assembly, 24 November 1934
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025007.pdf
+    archived: https://web.archive.org/web/20241224121111/https://www.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025007.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM d04 c025 tbmm04025007.pdf, p.35
+  method: pdftotext column crop
+  note: >-
+    Quote verbatim in committee report dated 24-XI-1934 on İsmet Paşa et al. bill; agenda lists it as Dahiliye
+    encümeni mazbatası; p.35.
+  checked_on: "2026-10-30"

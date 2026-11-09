@@ -1,0 +1,35 @@
+# Turkish for data/voices/2003/vajpayee-2003-09-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: vajpayee-2003-09-17
+voice: Atal Bihari Vajpayee
+role: Hindistan Başbakanı
+quote: >-
+  Büyük bir yurtsevere, korkusuz bir savaşçıya ve karizmatik bir lidere saygılarımı sunmaya geldim. Mustafa
+  Kemal Atatürk, halkına savaşın ve işgalin en karanlık saatlerinde önderlik ederek onları özgürlüğe ve modern
+  çağa taşıdı.
+quote_kind: translated
+summary: >-
+  Tüm Asya'ya ilham veren 'büyük bir yurtsevere, korkusuz bir savaşçıya ve karizmatik bir lidere' saygı
+  duruşu; onun demokrasi, laiklik ve sosyal adalet anlayışını selamlar.
+caveat: >-
+  İngilizce el yazısıyla yazılmış, 'A. B. Vajpayee, Prime Minister of India, September 17, 2003' imzalı. Şöyle
+  devam eder: 'Ataturk inspired not only the Turkish people, but all Asia. We salute his vision of democracy,
+  secularism and social justice, and remain committed to these noble principles.' Kaynak: Anıtkabir Özel
+  Defteri (basılı derleme, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının
+  Atatürk hakkındaki duygu ve düşünceleri'), ataturkarsivi.com üzerindeki sayfa görüntüleri, ana ajan
+  tarafından görüntü üzerinden okundu (4 Kasım 2026).
+verification_note: >-
+  El yazısıyla birebir aynı; A. B. Vajpayee, Prime Minister of India, September 17, 2003 imzalı (basılı
+  metinde 17.9.2003). Çekince notundaki devam metni de birebir aynı. Sıkı bakış açısı testini geçiyor (büyük
+  yurtsever, korkusuz savaşçı, karizmatik lider).
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe metin OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2ec7b45dcafb
+  role: 9b56e76422de
+  quote: 8837c8aa509d
+  summary: 4f524bc3acbf
+  caveat: 3c12b2154edc
+  verification_note: e6e41e93385e
+  verification_method: "304538629105"

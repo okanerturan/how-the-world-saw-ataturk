@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: michel-paillares-1922
+voice: Michel Paillarès
+voice_type: person
+role: French journalist in Constantinople, publisher of Le Bosphore
+country: France
+country_now: France
+domain: press
+date: "1922"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Called Kemal's programme xenophobic ('Turkey for the Turks') and his silence on Arab lands a ruse to lull
+  the Entente.
+quote:
+  text: Les tendances de Moustafa Kemal sont nettement xénophobes.
+  language: fr
+caveat: >-
+  Book is a compilation of dated chronicle and press excerpts; the passage is in the author's narrative, dated
+  1920 only by its place in the book. Page read from garbled running heads.
+node: Michel Paillarès
+sources:
+  - url: https://archive.org/details/lekmalismedeva00pail
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org lekmalismedeva00pail_djvu.txt, ch. IV 'La politique francaise' (p. 65)
+  method: fetch
+  note: >-
+    Passage dated 1920 by position; record date 1922 is publication year (disclosed in caveat).
+  checked_on: "2026-10-29"

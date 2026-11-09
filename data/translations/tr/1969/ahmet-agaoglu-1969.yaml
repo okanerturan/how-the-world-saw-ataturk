@@ -1,0 +1,50 @@
+# Turkish for data/voices/1969/ahmet-agaoglu-1969.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ahmet-agaoglu-1969
+voice: Ahmet Ağaoğlu
+role: Liberal milletvekili ve siyasi yazar, Serbest Cumhuriyet Fırkası'nın kurucularından (1930)
+quote: >-
+  Gazi'ye karşı takınılmasını daima bir namus ve şeref borcu, bir Vatan ve Türklüğün icabı olarak kabul etmiş
+  olduğum doğruluktan ve açıklıktan bu kerre de ayrılmadım. "Bu biraz fazla sunidir!.." dedim
+quote_kind: original-turkish
+summary: >-
+  1930'da Yalova'daki sofrasında Gazi'ye önceden kurgulanmış bir muhalefet partisinin fazla suni olduğunu
+  söylediğini hatırlatır; Kemal önce sinirlenmiş, sonra gülmüştür.
+caveat: >-
+  ÇEVİRİ (bu kaydın): 'I did not depart this time either from the honesty and frankness that I had always
+  held, towards the Gazi, to be a debt of honour and a duty to the Fatherland and Turkishness. I said: "This
+  is a bit too artificial!"' Olay: Yalova, Ağustos 1930, Fethi'nin ve Kemal'in mektuplarının okunmasının
+  ardından. TARİH: Soyak hatıratı 'kısmen neşredilen' olarak nitelendirir; ilk basım yılı olan 1969 kademe
+  M'dir (doğrulanmamıştır); Ağaoğlu 1939'da öldüğünden 1930-39 yılları arasında yazılmıştır. Fethi
+  aracılığıyla Kemal'in 'biraz hürriyet havası' istediğini ancak Cumhuriyet Halk Fırkası'nın bir kanadı olacak
+  bir parti arzuladığını aktarır. Soyak Kemal'e sadık bir isimdir ve kendi notlarını ekler. archive.org OCR
+  metninden okunmuştur; tırnak işaretleri standartlaştırılmış ve satır sonu bölünmesi 'suni- dir'
+  birleştirilmiştir. Kontrol: 1969 tarihli bir Baha Matbaası baskısına atıf yapılmaktadır, ancak tarihsiz bir
+  Nebioğlu baskısı da mevcuttur; 1969 ilk basım olmayabilir.
+mediated_by: >-
+  Soyak, Atatürk'ten Hatıralar (1973), c. 2, s. 416-417 ← Ağaoğlu, Serbest Fırka Hatıraları, s. 4, 10
+verification_note: >-
+  Alıntı birebir mevcuttur (OCR'daki 'suni- dir' birleştirildi; tırnak işaretleri standartlaştırıldı). Soyak
+  bundan 'kısmen neşredilen hatıratında' diye söz eder. İsmet Paşa Kemal'in Yalova sofrasında mektupları okur;
+  'Bu cevap üzerine Atatürk sinirlenmiş'; s. 417 'Gazi kahkaha ile güldü'; Fethi pasajı 'biraz hürriyet
+  havasının esmesini ... Cumhuriyet Halk Fırkası'nın bir cenahı olacaktır'. Tümü mevcuttur. Çeviri sadık.
+  TARİH: FTS, 'Serbest Fırka Hatıraları, Baha Matbaası, İstanbul, 1969, s. 4' künyesine atıf yapan bir YÖK
+  tezini göstermektedir, dolayısıyla 1969 baskısı mevcuttur (J kademesi). Ancak başka bir kitap 'Nebioğlu
+  Yayınevi, İstanbul, ta[rihsiz]' baskısına, Avşar ise İletişim 1994'e '3. Bs.' olarak atıf yapmaktadır;
+  dolayısıyla 1969 ilk değil 2. basım olabilir. Düzeltme: çekince notundaki 'first edition year 1969 is tier
+  M' → '1969 Baha Matbaası edition attested (thesis citation); an undated Nebioğlu edition also exists, so the
+  first edition may be earlier; İletişim 1994 = 3rd'. Ölümünden sonra etiketi her halükârda geçerlidir.
+  İkircikli etiketi yerindedir ('the Gazi'ye duyulan hürmet artı açık sözlü muhalefet); kendi sözleridir. Şema
+  uygun.
+verification_method: archive.org açık djvu metin okuması; archive.org FTS (4 sorgu)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fa0921cbed15
+  role: e6e8d6a30ed5
+  quote: 9c617ae31d59
+  summary: b8937349f59a
+  caveat: 92ead28ffe7e
+  mediated_by: d9aa8a9ff354
+  verification_note: 5bcbbf74b85e
+  verification_method: 5f68203ee016

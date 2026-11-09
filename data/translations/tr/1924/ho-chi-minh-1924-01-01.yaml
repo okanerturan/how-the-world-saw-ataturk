@@ -1,0 +1,40 @@
+# Turkish for data/voices/1924/ho-chi-minh-1924-01-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ho-chi-minh-1924-01-01
+voice: Nguyen Ai Quoc (Ho Chi Minh)
+role: L'Humanité'de yazan Vietnamlı Komintern örgütçüsü
+quote: >-
+  Fakat bütün burjuva devrimleri gibi, Türk devrimi de yalnızca tek bir sınıfın çıkarınadır: paralı sınıfın.
+quote_kind: translated
+summary: >-
+  Türkleri Sevr'i yırtıp attıkları ve bir cumhuriyet kurdukları için takdir eder, ancak bunu yalnızca paralı
+  sınıfa hizmet eden bir burjuva devrimi olarak nitelendirir.
+caveat: >-
+  Makalede Kemal'in adı geçmez; yazı devrimi ve (İstanbul işçi federasyonunu tanımayı reddeden) Ankara
+  hükümetini değerlendirir. Kemalist devletin Çinhindi komünist okuması olarak kaydedilmiştir. L'Humanité'de
+  imzalıdır; Nguyen Ai Quoc mahlası Selected Works atfından çıkarılmıştır.
+mediated_by: >-
+  L'Humanité makalesinin Selected Works of Ho Chi Minh, c. 1'de (FLPH) basılan İngilizce metni, marxists.org
+  üzerinden; Fransızca aslı okunmadı
+verification_note: >-
+  Kelimesi kelimesine: 'But like all bourgeois revolutions, the Turkish revolution is profitable only to one
+  class: the moneyed class.' Metin 1923-24 Türkiye Cumhuriyeti hakkındadır: 'torn up the odious Sevres
+  treaty', 'overthrown the throne of the Sultans', 'united and strong republic', 'since the Lausanne event' ve
+  Ankara Hükümeti'nin İstanbul işçi 'birlik'ini tanımayı reddetmesi. Dolayısıyla Kemal'in adı hiç geçmese ve
+  'Kemalist' etiketi kullanılmasa da Kemalist Türkiye ile ilgilidir. Sayfada imza satırı yoktur; Nguyen Ai
+  Quoc yazarlığı Ho Chi Minh Archive/Selected Works yerleştirmesinden gelmektedir (çekince notunda zaten
+  belirtiliyor). Çelişkili (conflicted) kutupluluk adildir (ilk paragraf takdirkâr, sonrasında sınıf
+  eleştirisi). Sayfa numarası yok (web sürümü). Makale başlığı olan 'The Workers’ Movement in Turkey'in
+  kaydedilmesi önerilir. Düzeltme gerekmez.
+verification_method: marxists.org sayfasının tools/ms ile ücretsiz çekimi; cümle eşleştirildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 45cdf90db705
+  role: ba193b4f7cdc
+  quote: 62c69110f251
+  summary: 1b9eec0ef874
+  caveat: a20d7280ab6a
+  mediated_by: e223dbb54126
+  verification_note: 2dee0f53b1c0
+  verification_method: 0306a8f56b82

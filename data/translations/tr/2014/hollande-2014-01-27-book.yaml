@@ -1,0 +1,37 @@
+# Turkish for data/voices/2014/hollande-2014-01-27-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hollande-2014-01-27-book
+voice: François Hollande
+role: Fransa Cumhurbaşkanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Büyük acılar sonrası modern Türkiye'yi kurmayı ve Fransa ile dostluğu tekrar canlandırmayı başaran devlet
+  adamına
+quote_kind: original-turkish
+summary: >-
+  Büyük acıların ardından modern Türkiye'yi kuran ve Fransa ile dostluğu yeniden canlandıran devlet adamına
+  seslenir.
+caveat: >-
+  İngilizce (Fransızca) yazılmış bir metnin Türkçe çevirisi. Satır bir hitaptır ('to the statesman who ...')
+  ve yayımlanan metinde Atatürk'ün adı geçmez; bağlam, 22 yıl aradan sonra bir Fransa cumhurbaşkanı tarafından
+  gerçekleştirilen ilk devlet ziyaretidir. AA, Hürriyet, Sözcü, Dünya, Sondakika ve Patronlar Dünyası aynı
+  cümleyi yayımlar (tek bir AA haberi).
+mediated_by: AA, Hürriyet, Sözcü, Dünya ve Sondakika, 27 Ocak 2014 (yazının Türkçe çevirisi)
+verification_note: >-
+  Alıntı dördünde de birebir aynıdır, aynı AA paragrafıdır, tarih doğrudur; tek kaynak. Alıntı, aktarılan
+  yazının tamamıdır ve Atatürk'ün adını hiç anmayan bir hitaptır; Fransızca metin bulunamadı (bir ücretsiz
+  arama). Hayranlık yönelimi yerindedir; yönelme durumundaki tek bir ibare için yoğunluk 2 cömerttir, 1
+  savunulabilir.
+verification_method: >-
+  Atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4c6fbec0a605
+  role: c55c2e7bc542
+  quote: 539d207f6cfe
+  summary: 68a4a53eaf04
+  caveat: 040c90929a08
+  mediated_by: 566085dcf55d
+  verification_note: 8d4f1d0f3c30
+  verification_method: 8505ab605bfa

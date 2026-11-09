@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: negro-world-1927
+voice: The Negro World
+voice_type: press
+role: UNIA weekly, New York (Garvey's organ)
+country: United States
+country_now: United States
+domain: press
+date: "1927-05-07"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: editorial
+evidence: P
+summary: >-
+  Front-page editorial lists Kemal Pasha with Gandhi, Zaghlul, Sun Yat-sen and Chen as 'leaders of courage and
+  vision' whom Africans lack.
+quote:
+  text: leaders of courage and vision, uncompromising, upstanding men, real patriots
+  language: en
+caveat: >-
+  Front page of The Negro World, 7 May 1927 (the OCR date reads '1827'), editorial 'What of Marcus Garvey,
+  Negroes!', written while Garvey was in prison; Kemal is one name in a list ('Turkey its Kemal Pasha'), and
+  the editorial's subject is Garvey. A page-one slogan in the same issue repeats 'Turkey her Kemal Pasha'.
+  Dangerous Press OCR.
+node: Poets, Reformers and the Black Press on Atatürk, 1921–1935
+sources:
+  - url: https://dangerouspress.org/papers/negro-world/1927-05-07
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: dangerouspress.org/papers/negro-world/1927-05-07 (OCR), fetched fresh
+  method: free fetch
+  note: >-
+    Quote verbatim, the first text after the masthead: 'WHAT OF MARCUS GARVEY, NEGROES!' ('Turkey its Kemal
+    Pasha. ... leaders of courage and vision, uncompromising, upstanding men, real patriots'). Kemal is one
+    name in a list with Chen, Sun Yat-sen, Gandhi and Zaghlul, and a later ad-slogan repeats 'Turkey her Kemal
+    Pasha'. Unsigned; 'editorial' is plausible but not stated. Date 7 May 1927 (OCR masthead reads 1827);
+    Garvey in Atlanta prison. Admiring/1 fair.
+  checked_on: "2026-11-03"

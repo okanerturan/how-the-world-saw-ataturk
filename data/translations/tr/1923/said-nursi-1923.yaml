@@ -1,0 +1,31 @@
+# Turkish for data/voices/1923/said-nursi-1923.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: said-nursi-1923
+voice: Said Nursi
+role: İslam âlimi, sonradan Nur hareketinin kurucusu
+quote: >-
+  Paşa! Paşa! İmandan sonra İslam'daki en yüce hakikat farz namazlardır. Namaz kılmayanlar haindir ve
+  hainlerin görüşleri reddedilmelidir.
+quote_kind: translated
+summary: >-
+  Kur'an temelli bir cumhuriyet umuduyla Ankara'ya geldi, bir ateizm akımıyla karşılaştı, namaz konusunda
+  Mustafa Kemal'i azarladı, ardından onun makam tekliflerini reddetti.
+caveat: >-
+  Hareket kaynaklı (Nur yayıncısı; Tarihçe, Şahiner); dramatik diyalog bağımsız bir kayıt değil, hareketin
+  hafızasıdır; barındırılan metnin yazar/basım aidiyeti teyit edilmelidir.
+mediated_by: Vahide biyografisi (iikv.org) <- Nursi, Tarihçe-i Hayat s.128
+verification_note: >-
+  Alıntı birebir; makam tekliflerinin reddi s. 187'de. Okunan sayfalarda 1923-01 tarihi kontrol edilmedi.
+  Vahide'deki muhatap 'president of the Assembly' (Mustafa Kemal).
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8bda2b14f7b3
+  role: d8bd8316298e
+  quote: 36d1eb9163a1
+  summary: 0029bc5ec4df
+  caveat: addd76d204d2
+  mediated_by: e93f7c44975e
+  verification_note: 21faa03299b5
+  verification_method: ad8cee67138e

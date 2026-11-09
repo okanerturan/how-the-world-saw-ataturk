@@ -1,0 +1,27 @@
+# Turkish for data/voices/1926/rabindranath-tagore-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rabindranath-tagore-1926
+voice: Rabindranath Tagore
+role: Şair, Nobel ödüllü
+quote: bize uygarlığın yolunu gösterdi
+quote_kind: translated
+summary: >-
+  İstanbul'da basına Türk cumhurbaşkanının uygarlığın yolunu gösterdiğini söyledi ve devrime Doğu dünyası
+  adına büyük değer verdi.
+caveat: Hiç karşılaşmadılar; tek temas 1926'daki uğrama ziyaretiydi.
+mediated_by: Özveren, Jassal & Turan içinde ← Cumhuriyet 23 Kasım 1926; Rozana Hamdard Aralık 1926
+verification_note: >-
+  Gazetecilik ürünü ikincil kaynak; alıntı Türkçeden İngilizceye geri çeviridir; "they never met" kontrol
+  edilmedi.
+verification_method: kaynak getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d51ef5f1e69f
+  role: 4335f073f951
+  quote: 835350f6371a
+  summary: 8b21f1a95f81
+  caveat: fef678b36ce4
+  mediated_by: ae1411d056bc
+  verification_note: fc3cb852cd47
+  verification_method: ad8cee67138e

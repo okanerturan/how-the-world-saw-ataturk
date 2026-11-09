@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/punjab-assembly-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: punjab-assembly-1938
+voice: Pencap Yasama Meclisi
+role: Lahor eyalet yasama meclisi
+quote: >-
+  Başbakan'ın önergesi üzerine Pencap Meclisi, merhum Gazi Kemal Atatürk'e saygı nişanesi olarak oturumu
+  erteledi
+quote_kind: translated
+summary: >-
+  Türkiye Cumhuriyeti'nin ilk Cumhurbaşkanı merhum Gazi Kemal Atatürk'e saygı nişanesi olarak oturumu erteledi.
+caveat: >-
+  Yansıma, notun tarif ettiği sömürge dönemi Müslüman dil düzleminden yapılan bir çıkarımdır.
+verification_note: >-
+  OCR: 'on premier's motion punjab legislative assembly adjourned as a mark of respect to the late ghazi kemal
+  ataturk'
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a3c1ba8fe956
+  role: 9c08f5defaf6
+  quote: 773ee7291880
+  summary: 1d1110bff42d
+  caveat: 2a2cae709d06
+  verification_note: 7456b678580c
+  verification_method: 939bb46a04c3

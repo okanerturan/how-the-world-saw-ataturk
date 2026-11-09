@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/spanish-press-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: spanish-press-1938
+voice: İspanyol basını, her iki cephe
+role: Cumhuriyetçi ve Milliyetçi bölge günlük gazeteleri
+summary: >-
+  Onu Türkiye'yi Avrupalılaştıran ve bir güç haline getiren bir politika dehası olarak nitelendirdi; bir
+  haberde 'Türklerin Babası' unvanını hak ettiği belirtildi.
+caveat: >-
+  Anma yazıları tek tek gazete adlarına atfedilmemiş; bozuk isimler ve tarihler mevcut (örn. 'Kemal Atakur');
+  herhangi bir Falangist başyazı veya ABC başyazısı tespit edilmedi.
+mediated_by: >-
+  Tüylü Turan 2019 ← Diario de Burgos, El Diario Palentino, CNT, Solidaridad Obrera, La Vanguardia, Diario de
+  la Marina
+verification_note: >-
+  'Politika dehası', 'Türkiye'yi Avrupalılaştıran', 'Türklerin Babası unvanını hak ettiği' ifadelerinin tümü
+  mevcut; bozuk 'Kemal Atakur' yazımı doğrulandı. doi.org sayfasına ulaşılamıyor.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c1cfbb5589b6
+  role: 256052580b13
+  summary: 4c259ac1b1ec
+  caveat: ba170d34c3ba
+  mediated_by: 77ef8aedd4a0
+  verification_note: eda4e82f886c
+  verification_method: ad8cee67138e

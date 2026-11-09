@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: gandhi-1924-03-21
+voice: Mahatma Gandhi
+voice_type: person
+role: Congress leader, interviewed at Poona
+country: British India
+country_now: India
+domain: politics
+date: "1924-03-21"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  Asked about Kemal's deposition of the Khalif, said it did not affect Hindu-Muslim unity, though the unity
+  was weaker than before.
+quote:
+  text: >-
+    Gandhi replied that it did not affect Hindu-Muslim unity which, however, he confessed was not so strong as
+    formerly.
+  language: en
+mediated_by: >-
+  Liverpool Post and Mercury correspondent's diary entry, The Hindu 14 Apr 1924 ← CWMG vol. 23 p. 295
+caveat: >-
+  The interviewer's paraphrase of Gandhi, not Gandhi's own sentence; no judgement of Kemal himself. Gandhi's 5
+  Mar 1924 letter to Mahomed Ali (CWMG 23, no. 127) mentions the Turkish Assembly's decision but not Kemal.
+node: Gaya to Angora — Indian Voices on Kemal, 1922–1924
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.162047
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA in.ernet.dli.2015.162047 (CWMG vol. 23) djvu text, p.295, entry headed March 21 1924, from The Hindu
+    14-4-1924
+  method: quote verbatim; interviewer's paraphrase as caveat says
+  checked_on: "2026-10-29"

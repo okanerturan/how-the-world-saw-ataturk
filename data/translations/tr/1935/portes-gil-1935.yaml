@@ -1,0 +1,27 @@
+# Turkish for data/voices/1935/portes-gil-1935.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: portes-gil-1935
+voice: Emilio Portes Gil
+role: Meksika Dışişleri Bakanı
+summary: >-
+  Atatürk'ten takdirle, onun yüksek dehasının, azminin ve iradesinin halkı için bu kadar kısa sürede
+  yaptıklarından ise özlemle söz etti.
+caveat: Rapor eden Türk diplomatın süzgecinden geçmiştir; diplomatik nezaket.
+mediated_by: >-
+  Sosyal ve Beşeri Bilimler Araştırmaları Dergisi 18/39 (2017) ← Türk diplomatik raporları (BCA)
+  (maslahatgüzar Tahsin Ömer'in raporu)
+verification_note: >-
+  Maslahatgüzar Tahsin Omer, Dışişleri Bakanı Emilio Portes Gil'in Atatürk'ten takdirle ve onun yüksek
+  dehasından, azminden ve iradesinden özlemle söz ettiğini bildirmiştir; kayıtta belirtildiği gibi, Türk
+  diplomatın süzgecinden geçmiştir
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 22aa21bd8e95
+  role: 6959a8cbb4d3
+  summary: 84b8b4ea7e98
+  caveat: 60249ba73393
+  mediated_by: a5d55bbcc1b9
+  verification_note: 04c34b4c1721
+  verification_method: ad8cee67138e

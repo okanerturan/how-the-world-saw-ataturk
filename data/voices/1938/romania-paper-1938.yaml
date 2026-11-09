@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: romania-paper-1938
+voice: România
+voice_type: press
+role: Romanian paper
+country: Romania
+country_now: Romania
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Recalled his early wish for a country with little politics and much work, and said he swept away mildewed
+  Eastern traditions in one stroke.
+quote:
+  text: in one stroke he swept the mildewed traditions of the East away
+  language: en
+mediated_by: Toksoy 2010 (Romanian originals not seen)
+caveat: Romanian originals not seen; translated from Toksoy's Turkish.
+node: Romania Hangs the Black Flags, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: sources/toksoy-2010-balkan-mideast-press.txt p.193 (Romania gazetesi)
+  method: local
+  note: >-
+    Translated from Toksoy Turkish ('Bir kalemde doğunun küflenmiş geleneklerini silip süpürdü').
+  checked_on: "2026-10-29"

@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sherrill-1933-10-26
+voice: Charles H. Sherrill
+voice_type: person
+role: >-
+  US ambassador to Turkey 1932–33, retired general; author of A Year's Embassy to Mustafa Kemal (1934)
+country: United States
+country_now: United States
+domain: diplomacy
+date: "1933-10-26"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: P+S
+summary: >-
+  After a year of talks with Kemal, called Mussolini and Kemal Pasha the world's two great leaders; his book
+  likened Kemal to Moses.
+quote:
+  text: two great leaders of the world today
+  language: en
+mediated_by: >-
+  Arthur Brisbane, 'Today' column, St. Louis Post-Dispatch 26 Oct 1933, Part Three (reporting Sherrill);
+  Özdemir 2014 (ATAM), pp. 75–79 <- Turkish translation of Sherrill's book (Gazi Mustafa Kemal, tr. Alp N.,
+  Tercüman 1001 Temel Eser), pp. 10–11, 105–106
+caveat: >-
+  The English original of the book (Scribner 1934) is search-only on HathiTrust (uc1.$b57581) and was not
+  read. The quote is Brisbane's report of his remark on returning, not the book. The Moses, heart and
+  Ankara-move passages are read only in Özdemir's Turkish quotation, e.g. p. 77: 'Mustafa Kemal aynı zamanda
+  büyük bir kalp adamı olduğunu da ispat ediyordu' [translation: Mustafa Kemal was proving at the same time
+  that he was a man of great heart]. First-hand: Kemal drew sketch maps for him at Ankara and Yalova (Özdemir
+  pp. 78–79). A Washington Post editorial of 28 Oct 1933 also reports his view that Kemal 'has a splendid army
+  and uses it as an instrument for peace' (the paper's words).
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/per_st-louis-post-dispatch_1933-10-26_86_51
+  - url: https://archive.org/details/hikmet-ozdemir-yabanci-diplomatlarin-tanikliklariyla-ataturkun-liderligi
+  - url: https://archive.org/details/per_washington-post_1933-10-28_20953
+  - url: https://catalog.hathitrust.org/Record/001239737
+    archived: https://web.archive.org/web/20190825133742/https://catalog.hathitrust.org/Record/001239737
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org per_st-louis-post-dispatch_1933-10-26_86_51 djvu (Brisbane 'Today', PART THREE);
+    per_washington-post_1933-10-28_20953 djvu; Özdemir (ATAM) djvu pp. 75–79
+  method: djvu text
+  note: >-
+    Brisbane: 'Ambassador Sherrill, retiring United States Ambassador to Turkey, says Mussolini and Kemal
+    Pasha are the "two great leaders of the world today." He is writing a biography of Kemal.' Present twice
+    (two editions). Özdemir p. 76 (Musa Peygamber, citing the Tercüman tr. p. 105) and p. 77 (büyük bir kalp
+    adamı, tr. p. 106) verbatim; sketch maps at Ankara and Yalova p. 79; WP 28 Oct 'splendid army ...
+    instrument for peace' present. Schema note: quote and date are the 1933 remark, not the book, so artifact
+    'quote' fits better than 'book'.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33b)
+  checked_on: "2026-11-06"

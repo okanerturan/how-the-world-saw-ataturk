@@ -1,0 +1,36 @@
+# Turkish for data/voices/2016/jung-2016-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jung-2016-11-10
+voice: Franz Josef Jung
+role: Bundestag CDU/CSU milletvekili, eski Federal Savunma Bakanı
+quote: >-
+  Türkiye'deki, Kemal Atatürk'ün ülkesindeki gelişmeler düşünüldüğünde, Cumhurbaşkanı Erdoğan'ın siyasetinin
+  Kemal Atatürk'ün siyasetiyle artık gerçekten hiçbir ilgisi kalmadığını maalesef tespit etmek gerekir.
+quote_kind: translated
+summary: >-
+  Erdoğan'ın siyasetini, artık hiçbir ilgisi kalmadığını söylediği 'Kemal Atatürk'ün ülkesi' ve siyasetinin
+  karşısına koyar.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'inde kontrol edildi. HDP liderlerinin tutuklanmasının (Kasım 2016)
+  ardından Türkiye'deki durum üzerine tartışma. Atatürk, konuşmacının asıl amacı olan Erdoğan eleştirisi için
+  bir karşıtlık unsuru olarak kullanılır; Atatürk'ün kendi siciline dair hiçbir sav ileri sürülmez. Kaynak
+  gösterimi: Deutscher Bundestag, Plenarprotokoll 18/199, 10 Kasım 2016 oturumu, s. 19806.
+verification_note: >-
+  'Dr. Franz Josef Jung (CDU/CSU)' başlığı altında basılı s. 19806'da birebir aynıdır. Çeviri sadıktır.
+  Atatürk'e dair görüş örtüktür (siyaseti Erdoğan'ın otoriter çizgisinin karşısında durur); yoğunluk 1 ve
+  çekincenin karşıtlık unsuru olarak kullanıma dair dürüstlüğü doğrudur.
+verification_method: >-
+  dserver PDF'i indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleşmesi yapıldı,
+  konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı çeviriyle
+  karşılaştırılarak okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1f5892d4f673
+  role: c0e29f5b3412
+  quote: 2f535c947431
+  summary: 1e49bea60648
+  caveat: 21e3a18333db
+  verification_note: 0bb4f79b9572
+  verification_method: 966799b4c6ae

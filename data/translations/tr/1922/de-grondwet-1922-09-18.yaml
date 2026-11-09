@@ -1,0 +1,25 @@
+# Turkish for data/voices/1922/de-grondwet-1922-09-18.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-grondwet-1922-09-18
+voice: De Grondwet
+role: Hollanda bölgesel günlük gazetesi
+quote: Mustafa Kemal hayatının en güzel fırsatını elinden kaçırdı
+quote_kind: translated
+summary: >-
+  İstanbul çıkışlı bir telgraf yayımladı: 'genel izlenim', Kemal'in hayatının en iyi fırsatını, Yunanistan'ı
+  yenmenin ötesinde manevi bir zaferi elinden kaçırdığı yönündeydi.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Görüş, gazetenin aktardığı isimsiz muhabire
+  aittir; aynı telgrafta İngiliz tanıkların yangının kasten çıkarıldığını iddia ettiği belirtilmektedir.
+mediated_by: "'Telegrammen. De brand-ramp van Smyrna' başlığı altında basılan İstanbul çıkışlı telgraf"
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 095cc5a99bf4
+  role: 97acc1090a94
+  quote: af8adb1cc654
+  summary: bfe3c927e38f
+  caveat: e46c0b5159fe
+  mediated_by: 191b68e7bc59
+  verification_method: ad8cee67138e

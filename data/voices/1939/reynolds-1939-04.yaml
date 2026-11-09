@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: reynolds-1939-04
+voice: Robert R. Reynolds
+voice_type: person
+role: U.S. Senator from North Carolina
+country: United States
+country_now: United States
+domain: politics
+date: "1939-04-13"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  In an aside on Mussolini's seizure of Albania, calls Atatürk 'that great man' who did more for Turkey than
+  any other since its founding.
+quote:
+  text: >-
+    that great man Ataturk who did more for Turkey than any other man since Turkey was established as a
+    nation, happened to be born in Salonika.
+  language: en
+caveat: >-
+  Speaker identified from the transcript sequence ('Mr. REYNOLDS obtained the floor'); the two-column scan OCR
+  interleaves with other speakers' lines, and the OCR reads 'sin~e' for 'since' (corrected). An aside, not the
+  topic of the speech (Albania, Salonika, the European crisis). Cited as Senate, 13 April 1939, Congressional
+  Record vol. 84 (bound), pp. ~4219-4222 (granule CRECB-1939-pt4-v84-12-1). Page 4219.
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1939-pt4-v84/pdf/GPO-CRECB-1939-pt4-v84-12-1.pdf
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: GovInfo Congressional Record bound-edition PDF GPO-CRECB-1939-pt4-v84-12-1, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads
+  note: >-
+    Quote verbatim (OCR 'sin~e' = 'since'), Senate, Thursday 13 April 1939, speaker Mr. REYNOLDS of North
+    Carolina, page 4219 (running head 4220 starts the next page). Explicit view ('that great man', 'did more
+    for Turkey than any other man'); admiring/1 fair. CORRECTIONS: era must be 'posthumous' (13 April 1939 is
+    after 9 Nov 1938), not 'contemporary'; cite p. 4219 instead of 'pp. ~4219-4222'.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22c)
+  checked_on: "2026-11-03"

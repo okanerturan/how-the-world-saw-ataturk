@@ -1,0 +1,21 @@
+# Turkish for data/voices/1920/greenwood-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: greenwood-1920
+voice: Sir Hamar Greenwood
+role: Avam Kamarası'nda yanıt veren bakan
+quote: Mustafa Kemal Paşa'nın otoritesi altında olduklarına inanılan düzensiz birlikler
+quote_kind: translated
+summary: >-
+  Avam Kamarası'na, Kilikya katliamlarının Kemal'in otoritesi altındaki düzensiz birlikler tarafından
+  gerçekleştirildiğine inanıldığını söyledi.
+caveat: Resmî yanıt; üyenin kendi sözleriyle bir bulgu değil, bir inançtır.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9c57869db7bd
+  role: d9e19b00e7f9
+  quote: 5529b8c08ec1
+  summary: ff1d7b3d7754
+  caveat: f67a47341581
+  verification_method: a033a528b603

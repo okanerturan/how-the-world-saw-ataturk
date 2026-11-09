@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: can-dundar-2008
+voice: Can Dündar
+voice_type: person
+role: Journalist and documentarian
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "2008"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: artwork
+evidence: J
+summary: >-
+  His documentary Mustafa treated Atatürk as a man, with depression, drinking, loneliness and women;
+  sympathetic, not critical, yet it breached the icon's protocol.
+node: Can Dündar
+sources:
+  - url: https://en.wikipedia.org/wiki/Mustafa_(film)
+    archived: https://web.archive.org/web/20260303034446/https://en.wikipedia.org/wiki/Mustafa_(film)
+  - url: https://variety.com/2008/film/news/mustafa-a-hit-in-turkey-1117996210/
+    archived: https://web.archive.org/web/20170903173006/https://variety.com/2008/film/news/mustafa-a-hit-in-turkey-1117996210/
+  - url: https://www.voanews.com/a/a-13-2008-12-01-voa16/403171.html
+    archived: https://web.archive.org/web/20250402063703/https://www.voanews.com/a/a-13-2008-12-01-voa16/403171.html
+  - url: https://qantara.de/en/article/documentary-about-mustafa-kemal-atat%C3%BCrk-film-has-turkey-talking
+    archived: https://web.archive.org/web/20250517113757/https://qantara.de/en/article/documentary-about-mustafa-kemal-atat%C3%BCrk-film-has-turkey-talking
+verification:
+  verdict: confirmed
+  checked_against: >-
+    https://en.wikipedia.org/wiki/Mustafa_(film);
+    https://variety.com/2008/film/news/mustafa-a-hit-in-turkey-1117996210/
+  method: fetch
+  checked_on: "2026-10-29"

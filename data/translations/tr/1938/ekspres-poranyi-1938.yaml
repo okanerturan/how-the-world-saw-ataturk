@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/ekspres-poranyi-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ekspres-poranyi-1938
+voice: Ekspres Poranyi
+role: Arnavut gazetesi
+summary: Yeni Türkiye'yi onun yarattığını belirtti.
+caveat: >-
+  Başlıklar Toksoy'un bastığı biçimdedir (Stipi, Shtypi olabilir); Arnavutça özgün nüshalar görülmemiştir.
+  Polonya ordu gazetesiyle aynı cümlede anılmıştır.
+mediated_by: Toksoy 2010 ← Akşam 14 ve 18 Kasım 1938, Ulus 14 Kasım 1938
+verification_note: Toksoy 2010 bunu Arnavutluk bölümünde basar; Polonya gazetesi tespiti nota aittir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 15cd8b80c1db
+  role: 2945e823993a
+  summary: 81f2b54db3ba
+  caveat: 000a185a68bf
+  mediated_by: 8e709a452d60
+  verification_note: cd2a16c4c787
+  verification_method: 939bb46a04c3

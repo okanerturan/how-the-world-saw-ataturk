@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nazim-hikmet-1945-11-10
+voice: Nâzım Hikmet
+voice_type: person
+role: Turkish poet and communist, then a prisoner in Bursa
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1945-11-10"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: poem
+evidence: P
+summary: >-
+  In verse from his War of Independence epic, shows Kemal on Kocatepe before the 1922 offensive as a blond
+  wolf with flashing blue eyes.
+quote:
+  text: Sarışın bir kurda benziyordu / Ve mavi gözleri çakmak çakmaktı
+  language: tr
+caveat: >-
+  TRANSLATION (this record's): 'He looked like a blond wolf / And his blue eyes flashed like flint.' Printed
+  in the weekly Gün, no. 2 (10 Kasım 1945, the Atatürk anniversary issue), under 'İstiklal Savaşı Destanından:
+  Atatürk', signed 'Nazım HİKMET' (archive.org OCR; the line break 'çak- maktı' joined here). This is the
+  Kocatepe passage of the epic later published as Kuvâyi Milliye; that it was written in Bursa prison c.
+  1939-41 is tier M, not checked. Dated by this first printing found, while he was still in prison. The
+  unsigned prose on Atatürk that follows the signature in Gün is not his and is not used. His critical lines
+  on Kemal (prison letters, Moscow-era statements) were not found in free sources.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/Gun_2_10Kasim1945_9935
+  - url: https://archive.org/download/Gun_2_10Kasim1945_9935/G%C3%BCn_2_10Kas%C4%B1m1945_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org Gun_2_10Kasim1945_9935, 'Gün_2_10Kasım1945_djvu.txt' (item title 'Gün Sayı: 2 [10 Kasım 1945]')
+  method: archive.org open djvu text read
+  note: >-
+    Under 'İSTİKLAL SAVAŞI DESTANINDAN : ATATÜRK', the Kocatepe passage contains 'Sarışın bir kurda benziyordu
+    / Ve mavi gözleri çakmak çak- maktı', signed 'Nazım HİKMET'; the unsigned prose ('Atatürk, bu memlekette
+    Tanzimatta doğup...') follows the signature, as the record says. Translation faithful. Date from the item
+    title; the page's own masthead is garbled in OCR, but the front-page İnönü 1945 tribute to Atatürk fits an
+    anniversary issue. Posthumous is right. A heroic portrait in his own verse, so admiring passes the strict
+    test. Schema ok.
+  checked_on: "2026-11-06"

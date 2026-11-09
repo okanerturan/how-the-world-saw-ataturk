@@ -1,0 +1,25 @@
+# Turkish for data/voices/1934/la-sentinella-bridgeport-1934.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-sentinella-bridgeport-1934
+voice: La Sentinella (Bridgeport)
+role: İtalyanca haftalık gazete, Bridgeport, Connecticut
+quote: Mussolini, Stalin, Kemal, Piłsudski ve diğer reformcu diktatörlerinkiler gibi sonuçlar
+quote_kind: translated
+summary: >-
+  Stamford 'güçlü belediye başkanı' tüzüğü üzerine: Mussolini, Stalin, Kemal, Piłsudski ve diğer 'reformcu
+  diktatörler'inkiler gibi sonuçlar umuyor.
+caveat: >-
+  Yerel siyaset tartışması; Kemal reformcu bir diktatör örneği olarak kullanılmış; OCR'da 'Piluski' ve
+  cümlenin başında 'Tesperimento' geçiyor.
+verification_note: OCR 'Piluski' dahil birebir aynı; Stamford 'Strong Mayor' bağlamı doğrulandı.
+verification_method: loc.gov JSON + tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4ff3f69ecd07
+  role: da3c64d1bc6a
+  quote: 1c8eacfc3c7b
+  summary: e8695fa2be61
+  caveat: f18f91dc8b02
+  verification_note: a9ae6a2c8cd9
+  verification_method: 28ee7781d3b6

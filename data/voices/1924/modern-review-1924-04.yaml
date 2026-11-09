@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: modern-review-1924-04
+voice: The Modern Review
+voice_type: press
+role: Calcutta English monthly (editor Ramananda Chatterjee), editorial Notes
+country: British India
+country_now: India
+domain: press
+date: "1924-04"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Read the abolition of the Khilafat as consistent Western-style nationalism: Turkey was entitled to refuse
+  the office, though Indian Muslims were hurt.
+quote:
+  text: He is a thorough-going nationalist of the Western type.
+  language: en
+caveat: >-
+  Unsigned Notes; a non-Muslim editor ('If a non-Muslim may venture to express any opinion'). Pages c. 508-510
+  from OCR heads; two OCR copies disagree by one page.
+node: The Modern Review on Kemal, 1923–1924
+sources:
+  - url: https://archive.org/details/dli.calcutta.09831
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA dli.calcutta.09831 (item titled Vol 34 Jul-Dec 1923 but contains 1924 issues) djvu text, page head 'THE
+    MODERN REVIEW FOR APRIL, 1924', p. ~510
+  method: archive.org djvu text
+  note: >-
+    'He is a thorough-going nationalist of the Western type.' present; 'If a non-Moslem may venture to express
+    any opinion' present; Khilafat abolition reading supported. Note IA item metadata mislabels volume.
+  checked_on: "2026-10-29"

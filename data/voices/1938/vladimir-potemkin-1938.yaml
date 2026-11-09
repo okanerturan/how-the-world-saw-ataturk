@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: vladimir-potemkin-1938
+voice: Vladimir Potemkin
+voice_type: person
+role: Soviet First Deputy Foreign Commissar
+country: USSR
+country_now: Russia
+domain: diplomacy
+date: "1938-11"
+era: funeral
+polarity: instrumental
+intensity: 2
+artifact: visit
+evidence: P+J+S
+summary: >-
+  Led the Soviet delegation, laid wreaths, and was last foreign representative to leave Ankara at İnönü's
+  request, opening Soviet–Turkish talks.
+mediated_by: Dutch press (Havas, NRC) 25–26 Nov 1938
+node: Vladimir Potemkin
+sources:
+  - url: http://resolver.kb.nl/resolve?urn=KBNRC01:000055669:mpeg21:a0041:ocr
+    archived: https://web.archive.org/web/20261109085743/http://resolver.kb.nl/resolve?urn=KBNRC01:000055669:mpeg21:a0041:ocr
+  - url: http://resolver.kb.nl/resolve?urn=KBNRC01:000055598:mpeg21:a0084:ocr
+    archived: https://web.archive.org/web/20261109085725/http://resolver.kb.nl/resolve?urn=KBNRC01:000055598:mpeg21:a0084:ocr
+  - url: http://uwidata.com/32284-the-secret-report-to-stalin
+    archived: https://web.archive.org/web/20260315182005/http://uwidata.com/32284-the-secret-report-to-stalin
+verification:
+  verdict: confirmed
+  checked_against: >-
+    NRC ddd KBNRC01:000055669 a0041 (25 Nov: last foreign rep to leave, Inönü asked him to delay); a0084 Havas
+    13 Nov (Potemkin for USSR); uwidata Secret Report to Stalin (wreaths 15 and 20 Nov, top-level talks)
+  method: fetch
+  checked_on: "2026-10-29"

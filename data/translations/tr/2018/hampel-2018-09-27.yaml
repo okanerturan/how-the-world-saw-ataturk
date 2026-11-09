@@ -1,0 +1,39 @@
+# Turkish for data/voices/2018/hampel-2018-09-27.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hampel-2018-09-27
+voice: Armin-Paulus Hampel
+role: Bundestag AfD milletvekili, dış politika sözcüsü
+quote: >-
+  Türkiye bir zamanlar, devlet kurucusu Kemal Atatürk'ün ruhuna uygun olarak NATO'nun köşe taşı, Avrupa'nın
+  Doğu'ya doğru köşe taşıydı.
+quote_kind: translated
+summary: >-
+  Atatürk'ü, döneminde Türkiye'nin NATO'nun ve Avrupa'nın Doğu'ya doğru köşe taşı olduğu devlet kurucusu
+  olarak nitelendirir; bugünkü Türkiye'nin ise farklı yanıt vereceğini söyler.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'sinde kontrol edildi. AB-Türkiye mülteci anlaşması görüşmesinde AfD dış
+  politika konuşması; Hampel ardından Atatürk'ün yanıtı olarak 'pek çok kültür vardır ama tek bir uygarlık
+  vardır: Avrupa uygarlığı' sözünü aktarır ve 'bunu bugün Ankara'da ya da İstanbul'da söylerseniz başka
+  yanıtlar alırsınız' diye ekler. Aynı alıntı 30 Eylül 2020 tarihli konuşmasında (19/179, s. 22564)
+  tekrarlanmıştır; ikinci bir kayıt oluşturulmamıştır. Alıntının Atatürk'e atfı konuşmacıya aittir, burada
+  doğrulanmamıştır. Kaynak gösterimi: Deutscher Bundestag, Plenarprotokoll 19/52, 27 Eylül 2018 tarihli
+  oturum, s. 5420.
+verification_note: >-
+  Basılı s. 5420'de 'Armin-Paulus Hampel (AfD)' başlığı altında birebir aynı. Çeviri sadık. what_they_saw
+  yerinde; 'tek bir uygarlık' sözü Hampel'in Atatürk'e atfıdır ve bugünkü Ankara'nın başka türlü yanıt
+  vereceğini ekler (çekince notunda belirtildiği gibi). Tarafsız çerçeveleme.
+verification_method: >-
+  dserver PDF'si indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleştirmesi
+  yapıldı, konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı
+  çeviriyle karşılaştırarak okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 02a33a0b6f88
+  role: ab6016c4c43c
+  quote: 8bc982cd32fd
+  summary: 98bea0d8158a
+  caveat: d55182001c15
+  verification_note: 2a6996478802
+  verification_method: 966799b4c6ae

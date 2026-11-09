@@ -1,0 +1,30 @@
+# Turkish for data/voices/1986/thatcher-1986-02-18.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: thatcher-1986-02-18
+voice: Margaret Thatcher
+role: Birleşik Krallık Başbakanı, No.10'da Turgut Özal şerefine kadeh kaldırma konuşması
+quote: >-
+  Türkiye'nin en büyük lideri Kemal Atatürk'ün 1924'teki heyecan verici sözlerini hatırlıyoruz
+quote_kind: translated
+summary: >-
+  Başbakan Özal'ın şerefine kadeh kaldırırken ve Atatürk'ün 1924'teki 'durmaksızın ve yılmaksızın' ilerleme
+  sözünü alıntılarken Atatürk'ü 'Türkiye'nin en büyük lideri' olarak nitelendirir.
+caveat: >-
+  Resmî bir devlet yemeğinde nezaket amaçlı kadeh kaldırma konuşması; Vakıf bunu 'speaking text' olarak
+  listeler. 'greatest leader' yargısı tek bir ibareden ibarettir.
+verification_note: >-
+  Birebir şöyledir: 'We remember the stirring words of Turkey's greatest leader, Kemal Ataturk, in 1924: "The
+  Turkish nation is ready and resolved to advance, unhalting and undaunted."' Vakıf bunu Thatcher MSS
+  [speaking text], Minor importance olarak listeler. Tarih katalog tarihidir (sayfanın published_date alanı).
+  Araçsal kutupluluk ve uyarı notu yerindedir. Düzeltme gerekmez.
+verification_method: belge sayfasının tools/ms ile ücretsiz çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bc13e3df7331
+  role: 05baf3b9c495
+  quote: 430a13a328f4
+  summary: 45ca6d516ea2
+  caveat: 0933a3f98e67
+  verification_note: af19ad4580af
+  verification_method: a95a03008cc4

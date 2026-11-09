@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ivan-duque-2022
+voice: Iván Duque
+voice_type: person
+role: President of Colombia
+country: Colombia
+country_now: Colombia
+domain: politics
+date: "2022-05-20"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: J
+summary: >-
+  Lectured on 'The Legacy of Atatürk's Thought'; drew lessons on Gallipoli, education, women's rights and
+  peace at home, peace in the world.
+quote:
+  text: >-
+    inspirational to me in my political career, in my parliamentary career, and now also as president of
+    Colombia
+  language: en
+caveat: >-
+  Turkish-translated renderings; lecture sat inside a trade-focused state visit (instrumental-admiring per
+  note).
+node: Iván Duque
+sources:
+  - url: https://dailysabah.com/politics/diplomacy/colombian-president-duque-expresses-deep-admiration-for-ataturk
+    archived: https://web.archive.org/web/20260308074556/https://dailysabah.com/politics/diplomacy/colombian-president-duque-expresses-deep-admiration-for-ataturk
+  - url: https://bau.edu.tr/news/17568-the-president-of-colombia-visited-bahcesehir-university
+    archived: https://web.archive.org/web/20261029003507/https://bau.edu.tr/news/17568-the-president-of-colombia-visited-bahcesehir-university
+  - url: https://www.haberchannel.com/kolombiya-cumhurbaskani-marquezden-ataturk-dusuncesinin-mirasi-konusmasi
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    https://dailysabah.com/.../colombian-president-duque-expresses-deep-admiration-for-ataturk;
+    https://bau.edu.tr/news/17568-...
+  method: fetch
+  note: >-
+    Quote, title of lecture, 'peace at home, peace in the world' supported. Gallipoli, education and women's
+    rights lessons not in either source.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

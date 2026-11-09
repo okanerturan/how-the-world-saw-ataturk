@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: prodi-2004
+voice: Romano Prodi
+voice_type: person
+role: President of the European Commission
+country: European Union
+country_now: European Union
+domain: diplomacy
+date: "2004-01-15"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Says Atatürk set reaching modern-civilisation standards as the clearest goal and that his vision was a full
+  place in the European family of nations.
+quote:
+  text: His vision was for Turkey to be fully part of the European family of nations.
+  language: en
+caveat: >-
+  Original-language text (https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_04_16); the TBMM
+  minutes (Tarihe Düşülen Notlar-2, 2012) print a Turkish version: "O’nun Türkiye vizyonu, Avrupa uluslar
+  ailesi içerisinde tam olarak yer almaktı.". TBMM book PDF p. 180 (printed p. 169).
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_04_16
+    archived: https://web.archive.org/web/20250502092900/https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_04_16
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 180 (printed p. 169); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c180.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Avrupa Birliği Komisyonu Başkanı Romano
+    Prodi, 43. Birleşim, 15 Ocak 2004 (heading on PDF p. 180)'). Heading and quote on same page. ORIGINAL:
+    'Meeting the standards of the contemporary civilisation was the paramount objective assigned by the
+    founder of modern Turkey, Mustapha Kemal Atatürk. ... His vision was for Turkey to be fully part of the
+    European family of nations.' (europa.eu SPEECH/04/16, Ankara, 15 Jan 2004). Consistent with the minutes.
+  checked_on: "2026-11-01"

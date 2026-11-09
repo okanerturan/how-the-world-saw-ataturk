@@ -1,0 +1,22 @@
+# Turkish for data/voices/1920/davidson-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: davidson-1920
+voice: Tümgeneral Sir John Davidson, Milletvekili
+role: Avam Kamarası üyesi, Ordu Bütçesi görüşmesi
+quote: >-
+  Anadolu'da Mustafa Kemal'in emrindeki birliklerin İstanbul'u işgalimizi hiç umursadıklarına inanmıyorum
+quote_kind: translated
+summary: >-
+  Kemal'in Anadolu'daki birliklerinin İtilaf Devletleri'nin İstanbul işgaline kayıtsız olduğu, bu nedenle
+  askerî harcamalarda kesintiye gidilemeyeceği değerlendirmesinde bulundu.
+caveat: Güç değerlendirmesi, ahlaki bir hüküm yok; tanık olarak kodlandı.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6d418f1265e4
+  role: 8f745a811b1e
+  quote: c381b27f63c1
+  summary: 8ba531c452e0
+  caveat: 6c05b5cd0235
+  verification_method: a033a528b603

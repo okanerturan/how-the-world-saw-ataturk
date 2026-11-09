@@ -1,0 +1,30 @@
+# Turkish for data/voices/1930/rosmer-militant-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rosmer-militant-1930
+voice: Alfred Rosmer
+role: Fransız sendikalist-komünist, Sol Muhalefet
+quote: >-
+  Kemal, kendini "monolitik" bir partiye dayandırarak ve onu eleştiren işçileri hapse attırarak Türkiye'yi
+  mutlak bir otokrat olarak yönetiyor.
+quote_kind: translated
+summary: >-
+  Kemal'in Türkiye'yi monolitik bir parti aracılığıyla mutlak bir otokrat olarak yönettiğini ve eleştiren
+  işçileri hapse attığını, Stalin'in ise bu modele gıpta ettiğini yazdı.
+caveat: >-
+  'A.R.' imzalıdır; Rosmer'e atfedilmesi Marxists Internet Archive'ın tasnifine dayanmaktadır.
+verification_note: >-
+  Alıntı birebir aynı. 'Stalin envied the model' değerlendirmesi yerindedir: 'Stalin is not Kemal; but the ...
+  demonstrations ordered for his fiftieth anniversary show that he would like well enough to resemble him.'
+  Kayıtta belirtildiği gibi Rosmer'e atfedilmesi 'A.R.' imzasının MIA tasnifine dayanmaktadır.
+verification_method: >-
+  Serbest erişimle getirildi; cümle bulundu; sayfa HTML'sinde A.R. imzası ve Rosmer tasnifi görüldü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ad5422548b09
+  role: 30d41980343b
+  quote: 76f9d3503533
+  summary: 9eab4032b272
+  caveat: 5fb882819d5c
+  verification_note: 17d409a7b251
+  verification_method: ccd3882b04f6

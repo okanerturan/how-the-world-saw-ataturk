@@ -1,0 +1,18 @@
+# Turkish for data/voices/1938/wairarapa-times-age-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: wairarapa-times-age-1938
+voice: Wairarapa Times-Age
+role: Yeni Zelanda bölgesel günlük gazetesi
+summary: >-
+  Press Association telgrafını yayımladı: Milletvekillerinin halef olarak İnönü'yü desteklemesi, görkemli bir
+  anıt mezara defnedilme, dükkân vitrinlerinde kreple örtülü fotoğraflar.
+mediated_by: Press Association'ın 11 Kasım 1938 tarihli ajans haberi
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1924a16bf79f
+  role: 9c75124c0db1
+  summary: 6c72cf1f3832
+  mediated_by: 8429b21647c4
+  verification_method: ad8cee67138e

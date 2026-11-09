@@ -1,0 +1,21 @@
+# Turkish for data/voices/1938/italian-chamber-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: italian-chamber-1938
+voice: İtalya Temsilciler Meclisi
+role: İtalyan alt meclisi (Ciano)
+quote: Türk milletinin yeniden doğuşunun mimarı
+quote_kind: translated
+summary: Atatürk'ü Türk milletinin yeniden doğuşunun mimarı olarak tanımladı.
+caveat: >-
+  İtalyanca özgün metin (c1, PDF s. 8), Meclis Başkanı Costanzo Ciano imzalı; İngilizcesi: Türk milletinin
+  yeniden doğuşunun mimarı.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6369dbb281b8
+  role: 440d49677220
+  quote: 4dce2e40e4a9
+  summary: e18776f12943
+  caveat: 6c34e218460e
+  verification_method: 939bb46a04c3

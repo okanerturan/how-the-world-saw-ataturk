@@ -1,0 +1,27 @@
+# Turkish for data/voices/1935/la-gaceta-tampa-1935-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-gaceta-tampa-1935-01
+voice: La Gaceta (Tampa)
+role: İspanyolca günlük gazete, Tampa, Florida (puro işçisi okur kitlesi)
+quote: Yeni tip bir duygusallık, özgürlüğün ve adaletin düşmanı.
+quote_kind: translated
+summary: >-
+  Keyserling'e yanıt: kitleler, özgürlük düşmanı bir Mussolini, bir Hitler ya da bir Mustafa Kemal'in
+  arabasına koşulmuş 'duygusal yaşamı' paylaşır.
+caveat: >-
+  İmzasız; alıntılanan cümle Kemal'in adının geçtiği pasajın ardından gelir ve faşist tarzı grubun tamamını
+  ilgilendirir.
+verification_note: >-
+  Birebir aynı; önceki satırlarda 'Mussolini, un Hitler o un Mustafá Kemal' adları geçer. Cümle grubun tamamı
+  için geçerlidir.
+verification_method: tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1af7128c59ed
+  role: ec3228434984
+  quote: ca2802639d9d
+  summary: 06c106538f4a
+  caveat: 52830d111edb
+  verification_note: 66f787fbeecd
+  verification_method: 0e07f3903a84

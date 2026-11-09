@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: talat-2005-08-02
+voice: Mehmet Ali Talat
+voice_type: person
+role: President of the Turkish Republic of Northern Cyprus
+country: Cyprus
+country_now: Cyprus
+domain: politics
+date: "2005-08-02"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: P
+summary: >-
+  His military, economic and enlightenment victories lit the way for Turkish Cypriots; 'the road you opened
+  was the road to a humane life'.
+quote:
+  text: Açtığın yol insanca yaşama yoluydu. Bu ışıkla yürümeye devam ediyoruz.
+  language: tr
+caveat: >-
+  Handwritten in Turkish, 2 Aug 2005, addressed to 'Türkiye Cumhuriyetinin kurucusu, Büyük Atatürk'; also: his
+  military, economic development and enlightenment successes 'have been the light of the Turkish Cypriots
+  too'; 'yurtta barış dünyada barış'. Country recorded as Cyprus (TRNC, recognised only by Turkey). Source:
+  Anıtkabir Özel Defteri (printed compilation, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı
+  heyet başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), page images on ataturkarsivi.com, read on the
+  image by the main agent (4 Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) 2_5b4fa512 (Turkish handwriting; 1_fafc7491 is a photo)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Verbatim: 'Açtığın yol insanca yaşama yoluydu. Bu ışıkla yürümeye devam ediyoruz.' Dated 2 Ağustos 2005;
+    signed Mehmet Ali Talat, KKTC Cumhurbaşkanı; addressed 'Türkiye Cumhuriyetinin kurucusu, Büyük Atatürk'.
+    Caveat's other claims (askeri, ekonomik kalkınma ve aydınlanma başarıları ... Kıbrıslı Türklerin de ışığı;
+    yurtta barış dünyada barış) all present. Strong gaze, intensity 2 fine.
+  checked_on: "2026-11-04"

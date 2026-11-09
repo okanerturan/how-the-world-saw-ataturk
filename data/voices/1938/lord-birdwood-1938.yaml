@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lord-birdwood-1938
+voice: Lord Birdwood
+voice_type: person
+role: Field Marshal, representing George VI
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1938-11"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: visit
+evidence: P+S
+summary: >-
+  Represented the British king at the funeral; Admiral Pound and 200 marines of HMS Malaya also attended.
+mediated_by: Reuter 21 Nov 1938; Havas 17 Nov; Uyanıker 2020
+node: Foreign Delegations at the Funeral, November 1938
+sources:
+  - url: http://resolver.kb.nl/resolve?urn=ddd:011122906:mpeg21:a0115:ocr
+    archived: https://web.archive.org/web/20261029000049/https://resolver.kb.nl/resolve?urn=ddd:011122906:mpeg21:a0115:ocr
+  - url: http://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr
+    archived: https://web.archive.org/web/20261029000114/https://resolver.kb.nl/resolve?urn=ddd:011154698:mpeg21:a0014:ocr
+verification:
+  verdict: confirmed
+  checked_against: >-
+    Delpher resolver ddd:011122906:mpeg21:a0115 (Reuter 21 Nov): King George VI represented by Lord Birdwood;
+    Admiral Pound; 200 marines and band of HMS Malaya. Also Havas ddd:011154698:a0014 ("Lord Bridwood en
+    admiraal Pound")
+  method: fetch
+  checked_on: "2026-10-29"

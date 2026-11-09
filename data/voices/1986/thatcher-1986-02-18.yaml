@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: thatcher-1986-02-18
+voice: Margaret Thatcher
+voice_type: person
+role: Prime Minister of the United Kingdom, toast to Turgut Özal at No.10
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1986-02-18"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Calls Atatürk 'Turkey's greatest leader' while toasting Prime Minister Özal and quoting his 1924 line on
+  advancing 'unhalting and undaunted'.
+quote:
+  text: We remember the stirring words of Turkey's greatest leader, Kemal Atatürk, in 1924
+  language: en
+caveat: >-
+  Courtesy toast at a state dinner; the Foundation lists it as a 'speaking text'. The 'greatest leader'
+  judgement is one phrase.
+node: Western Statesmen and Churchmen on Atatürk in Their Own Words
+sources:
+  - url: https://margaretthatcher.org/document/106331
+    archived: https://web.archive.org/web/20261006064024/https://www.margaretthatcher.org/document/106331
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    margaretthatcher.org/document/106331 (Speech at dinner for Turkish Prime Minister, Turgut Ozal; No.10;
+    catalogue date 1986-02-18)
+  method: tools/ms free fetch of the document page
+  note: >-
+    Verbatim: 'We remember the stirring words of Turkey's greatest leader, Kemal Ataturk, in 1924: "The
+    Turkish nation is ready and resolved to advance, unhalting and undaunted."' Foundation lists it as
+    Thatcher MSS [speaking text], Minor importance. Date is the catalogue date (the page's published_date
+    field). Polarity instrumental and caveat fair. No correction.
+  checked_on: "2026-11-01"

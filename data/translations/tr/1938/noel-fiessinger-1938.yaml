@@ -1,0 +1,29 @@
+# Turkish for data/voices/1938/noel-fiessinger-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: noel-fiessinger-1938
+voice: Noël Fiessinger
+role: Parisli tıp profesörü; Atatürk'ün konsültan hekimi
+quote: >-
+  Tıbbın ve doğanın yardımıyla Atatürk iki yıl daha yaşayabilir. Ama bu gece yatağa gireriz ve onu bağırsak ya
+  da beyin kanamasından ölmüş bulabiliriz.
+quote_kind: translated
+summary: >-
+  1938'de Atatürk'ü defalarca muayene etti, (Neşet Ömer İrdelp ile birlikte) 'hepatite sclérocongestive
+  éthylique' ortak tanısını koydu ve özel olarak onun iki yıl daha yaşayabileceği ya da herhangi bir gece ölü
+  bulunabileceği uyarısında bulundu.
+mediated_by: Şehsuvaroğlu 1981:77, aktaran Dağlı 2023
+verification_note: >-
+  Alıntı (Türkçe aslı mevcut, İngilizce çevirisi sadık), Haziran 1938 ve tekrarlanan muayenelerin tamamı
+  kaynakla destekleniyor. Dağlı'da Fiessinger için 'Diagnosed alcoholic cirrhosis' ifadesi yer almıyor (siroz
+  ve alkol tavsiyesi ayrı geçiyor).
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 50ecc4d646ea
+  role: 4f278d895e2e
+  quote: f4200292af0d
+  summary: d35e78397185
+  mediated_by: c53911a7a48d
+  verification_note: d01dbbb71e73
+  verification_method: 939bb46a04c3

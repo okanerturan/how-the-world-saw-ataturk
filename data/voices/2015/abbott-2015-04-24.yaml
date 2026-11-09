@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abbott-2015-04-24
+voice: Tony Abbott
+voice_type: person
+role: Prime Minister of Australia (2013–2015)
+country: Australia
+country_now: Australia
+domain: politics
+date: "2015-04-24"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: quote
+evidence: P
+summary: >-
+  Credits the Atatürk legacy for making peaceful, prosperous, reasonably pluralist Turkey a beacon to the
+  Islamic world.
+quote:
+  text: >-
+    This is why Turkey has, for so long, thanks in large measure to the Ataturk legacy, been such a beacon to
+    the Islamic World.
+  language: en
+caveat: >-
+  Here Abbott speaks of Atatürk as state-builder, not of the Anzac words; an off-the-cuff doorstop. The same
+  week (PM Transcripts 24391, Istanbul 23 April 2015) he called Mustafa Kemal Ataturk 'a worthy and
+  resourceful leader, who embraced his fallen enemies as sons of Turkey'. The 'Johnnies and Mehmets' / 'your
+  sons are now lying in our bosom' text that Anzac speakers attribute to Atatürk is itself contested: no 1934
+  original has been found, it first appears in print in 1953 via Interior Minister Şükrü Kaya's recollection,
+  and the 'Johnnies and Mehmets' clause is a 1978 Australian addition (see [[Johnnies and Mehmets]]). So this
+  is a speaker's view of the Atatürk of the Anzac legend, spoken at a commemorative or diplomatic occasion
+  that rewards praise. Cited as: Doorstop interview, HMAS Anzac, Anzac Cove, 24 April 2015.
+node: Anzac Day Leaders on Atatürk, 1990–2024 — Australian and New Zealand Speeches
+sources:
+  - url: https://pmtranscripts.pmc.gov.au/release/transcript-24393
+    archived: https://web.archive.org/web/20221116004059/https://pmtranscripts.pmc.gov.au/release/transcript-24393
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: pmtranscripts.pmc.gov.au XML query?transcript=24393
+  method: >-
+    fetched source fresh, normalised-text match of the quote; speaker, date and title read from metadata/byline
+  note: >-
+    Verbatim in transcript 24393 (Abbott, doorstop, HMAS Anzac, Anzac Cove, 24 Apr 2015). Own credit to 'the
+    Ataturk legacy' for a prosperous, pluralist Turkey; admiring 1 fair.
+  checked_on: "2026-11-03"

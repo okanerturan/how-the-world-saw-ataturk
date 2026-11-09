@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-tijd-1933-03-30
+voice: De Tijd
+voice_type: press
+role: Catholic 'godsdienstig-staatkundig dagblad'
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1933-03-30"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Listed Kemal's dictatorship resting on the Republican Party beside Moscow's and Rome's party-states in an
+  article on what marks fascism.
+quote:
+  text: de dictatuur van Kemal in Turkije op de Republikeinsche Partij
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. Classificatory remark in an anti-fascism piece; hostile
+  polarity is inferred from context.; recoded witness after check: neutral listing of one-party regimes, no
+  stated view
+node: Dutch Dailies on the Dictator, 1924–1937
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010535257:mpeg21:a0051
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    KB resolver ddd:010535257:mpeg21:a0051:ocr (De Tijd 1933-03-30, 'De fascistische partij de eenig
+    toegelatene')
+  method: fetch
+  note: >-
+    Quote and claim exact, but 'hostile' polarity is not stated in the source; it is a neutral classification
+    of one-party regimes (record caveat concedes inference).
+  resolution: fixed before merge
+  checked_on: "2026-10-29"

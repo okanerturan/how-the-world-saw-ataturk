@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: banerjea-1925
+voice: Surendranath Banerjea
+voice_type: person
+role: Indian moderate nationalist, former Bengal minister
+country: British India
+country_now: India
+domain: politics
+date: "1925"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: memoir
+evidence: S
+summary: >-
+  Credits the Khilafat settlement partly to the 'military triumphs of Kemal Pasha' reinforcing Indian opinion.
+quote:
+  text: >-
+    This has now, to a great extent, been achieved, thanks to the insistence of the Government of India backed
+    by public opinion in India and reinforced by the military triumphs of Kemal Pasha.
+  language: en
+caveat: >-
+  A Nation in Making (Oxford, 1925), chapter 31, Wikisource transcription of the scanned book (Page:A Nation
+  in Making.djvu/314, printed page 298 onward). Banerjea writes of presiding over a Muslim meeting on the
+  Khilafat question in 1919 and judges the Sevres revision a victory partly of Kemal's army; no personal
+  assessment of Kemal. Scan not viewed.
+node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
+sources:
+  - url: https://en.wikisource.org/wiki/A_Nation_in_Making/Chapter_31
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: en.wikisource A Nation in Making/Chapter 31 (render; Page:A Nation in Making.djvu/314ff)
+  method: fetched rendered page, string match
+  note: >-
+    Verbatim. Year 1925 in the header. Gaze borderline: credits Kemal Pasha's 'military triumphs' with
+    reinforcing the Khilafat settlement; no assessment of the man. One passing clause; 'instrumental' is a
+    stretch (he is crediting, not using). Keep only if intensity-1 witness-like records are wanted.
+  checked_on: "2026-11-03"

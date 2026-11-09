@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-banier-1924-03-13
+voice: De Banier
+voice_type: press
+role: Staatkundig-gereformeerd (Calvinist) daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1924-03-13"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: editorial
+evidence: P
+summary: >-
+  Reported the separation of church and state as done at Kemal's urging and doubted whether it strengthened or
+  weakened the republic.
+quote:
+  text: Of de republiek hiermede versterkt of verzwakt is, blijft altijd nog een groote vraag
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. Item sits in a weekly foreign survey that closes with a
+  religious moral.
+node: Dutch Confessional Press and the Fall of the Caliphate, March 1924
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010852947:mpeg21:a0003
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Delpher ddd:010852947:mpeg21:a0003 OCR (De Banier 13 mar 1924 art.3)
+  method: fetch
+  checked_on: "2026-10-29"

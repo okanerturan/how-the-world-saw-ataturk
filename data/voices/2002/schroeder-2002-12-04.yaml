@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: schroeder-2002-12-04
+voice: Gerhard Schröder
+voice_type: person
+role: Chancellor of Germany (SPD)
+country: Germany
+country_now: Germany
+domain: politics
+date: "2002-12-04"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Calls Atatürk the founder ('Staatsgründer') of a secular Turkey and a German national interest in supporting
+  the forces that want it.
+quote:
+  text: >-
+    dass wir ein großes, ein gemeinsames – ich sage: ein nationales – deutsches Interesse daran haben, dass in
+    der Türkei die Kräfte unterstützt werden, die eine säkularisierte Türkei im Sinne ihres Staatsgründers
+    Atatürk wollen und dafür auch einstehen
+  translation: >-
+    that we have a great, a shared — I say: a national — German interest in supporting in Turkey the forces
+    that want a secularised Turkey in the spirit of its state founder Atatürk and stand up for it
+  language: de
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
+  documentation page; printed page checked in the dserver PDF. Government statement before the Copenhagen
+  European Council, in reply to the CDU/CSU's Turkey line; the speech is Schröder's (header 'Gerhard Schröder,
+  Bundeskanzler', no other speaker header between it and the passage, interjections by Glos, Ramsauer and
+  Merkel noted). Used to argue for EU accession talks, so instrumental. Cited as Deutscher Bundestag,
+  Plenarprotokoll 15/13, session of 2002-12-04, S. 884.
+node: German Parliaments on Atatürk — Hitler's Reichstag 1941 and the Bundestag 1983–2025
+sources:
+  - url: https://dserver.bundestag.de/btp/15/15013.pdf
+    archived: https://web.archive.org/web/20260418102005/https://dserver.bundestag.de/btp/15/15013.pdf
+  - url: https://dip.bundestag.de/
+    archived: https://web.archive.org/web/20261020200949/https://dip.bundestag.de/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Bundestag plenary-protocol PDF 15/15013.pdf (WP15 sitting 13) from dserver.bundestag.de, fetched fresh
+  method: >-
+    downloaded the dserver PDF, pdftotext, whitespace/hyphenation-normalised match of the quote, speaker
+    header and running-head page number read from the printed protocol; German read against the stored
+    translation
+  note: >-
+    Verbatim on printed p. 884 (running head 'Bundeskanzler Gerhard Schroeder'). Translation faithful
+    ('Staatsgruender' = state founder). Instrumental/1 is fair.
+  checked_on: "2026-11-03"

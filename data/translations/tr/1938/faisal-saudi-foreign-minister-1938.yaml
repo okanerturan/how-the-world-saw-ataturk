@@ -1,0 +1,21 @@
+# Turkish for data/voices/1938/faisal-saudi-foreign-minister-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: faisal-saudi-foreign-minister-1938
+voice: Faisal (Suudi Dışişleri Bakanı)
+role: Suudi Dışişleri Bakanı
+quote: Bu büyük bir kayıptır.
+quote_kind: translated
+summary: Atatürk'ün ölümü üzerine bunu büyük bir kayıp olarak nitelendiren bir telgraf gönderdi.
+caveat: Pragmatik bir ilişki çerçevesinde nezaket.
+verification_note: mei.edu PDF'i getirilmedi; gulfif yeterli.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e07b1876dcf9
+  role: 9bde454c0ce1
+  quote: 5037f28ab57c
+  summary: 0c362a3b0506
+  caveat: adff36a4d2ff
+  verification_note: a1772e681ee1
+  verification_method: ad8cee67138e

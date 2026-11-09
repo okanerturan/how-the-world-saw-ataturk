@@ -1,0 +1,25 @@
+# Turkish for data/voices/1938/l-orient-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: l-orient-1938
+voice: L'Orient
+role: Beyrut günlük gazetesi
+quote: Atatürk insanlığın mucizesidir
+quote_kind: translated
+summary: Atatürk'ü insanlığın mucizesi olarak nitelendirdi.
+caveat: >-
+  Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adı
+  transliterasyonları tahmine dayalıdır.
+mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
+verification_note: "'Loryan' = L'Orient, notun kimlik tespitidir; çevrilmiştir."
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e31c661eb0e8
+  role: 31398ab9f0c2
+  quote: fe44788aaaee
+  summary: 69d89e67bc42
+  caveat: f8ae166de916
+  mediated_by: 0d9b58c49a68
+  verification_note: d6d5e5138b66
+  verification_method: 939bb46a04c3

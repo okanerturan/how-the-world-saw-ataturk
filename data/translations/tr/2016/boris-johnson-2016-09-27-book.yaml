@@ -1,0 +1,41 @@
+# Turkish for data/voices/2016/boris-johnson-2016-09-27-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: boris-johnson-2016-09-27-book
+voice: Boris Johnson
+role: Britanya Dışişleri Bakanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Babalarımın topraklarına geri dönmek ve modern, özgür ve demokratik bir Türkiye'nin kurucusuna saygılarımı
+  sunmak büyük bir ayrıcalıktır
+quote_kind: translated
+summary: >-
+  'Babalarımın topraklarına geri dönmenin' ve vizyonu gerçekleşmekte olan modern, özgür, demokratik bir
+  Türkiye'nin kurucusunu onurlandırmanın bir ayrıcalık olduğunu belirtir.
+caveat: >-
+  İngilizce yazılmış bir metnin Türkçe çevirisi. Milliyet ve Habertürk aynı AA metnini yayımlamaktadır.
+  Johnson'ın büyük dedesi Ali Kemal, Milli Mücadele'ye karşı çıkmış bir Osmanlı nazırıydı (Habertürk bunu
+  belirtir). Burada Dışişleri Bakanı, daha sonra Başbakan olmuştur. Alıntılanan satırda Atatürk'ün adı geçmez;
+  gönderme 'the founder' ifadesiyledir. İngilizce metin AA English'tendir (arama kesiti). 1922'de linç edilen
+  Milli Mücadele karşıtı nazır Ali Kemal'in torununun oğludur.
+mediated_by: Milliyet ve Habertürk, 27 Eylül 2016 (AA; kaydın Türkçe çevirisi)
+verification_note: >-
+  Türkçe alıntı birebir aynı (Habertürk'te sonda nokta var; Milliyet'in başlık biçiminde yok); aynı AA metni,
+  tek kaynak; tarih doğru. ÖZGÜN İNGİLİZCE METİN BULUNDU (AA English,
+  u.aa.com.tr/en/middle-east/over-200-ypg-members-in-syrias-manbij-turkish-fm/653614): 'It is a great
+  privilege to return to the land of my fathers and to pay tribute to the founder of a modern, free and
+  democratic Turkey; and to see how his vision is being fulfilled as Turkey takes its place as one of the
+  great nations of the world.' Çeviriyi bununla değiştirin ('ancestors' değil, 'fathers'). Bunu bir arama
+  kesiti olarak gördüm. Hayranlık yerinde.
+verification_method: >-
+  atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı; İngilizce metin için bir ücretli arama
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fa00d511d58f
+  role: f05bdb52349e
+  quote: a37c5c04176a
+  summary: d1f604a4f4ab
+  caveat: c3c1610c5b7f
+  mediated_by: e3739f66da8e
+  verification_note: 544f64ac9f34
+  verification_method: d68d3c4a708a

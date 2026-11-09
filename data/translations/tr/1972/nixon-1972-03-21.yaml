@@ -1,0 +1,32 @@
+# Turkish for data/voices/1972/nixon-1972-03-21.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nixon-1972-03-21
+voice: Richard Nixon
+role: Amerika Birleşik Devletleri Başkanı; Başbakan Erim'i karşılama töreni
+quote: >-
+  büyük lideriniz Atatürk'ten gelen "Yurtta barış ve dünyada barış" şiarı, Amerika Birleşik Devletleri'nde
+  bizim de hedefimiz olduğunu söyleyebileceğimiz bir şiardır.
+quote_kind: translated
+summary: >-
+  'Yurtta barış ve dünyada barış' sözünü 'büyük lideriniz Atatürk'ün' şiarı olarak nitelendirir ve bunu bir
+  Amerikan hedefi olarak benimser.
+caveat: >-
+  Karşılama töreninde şiara geçerken yapılan bir atıf; Nixon daha geniş bir değerlendirmede bulunmaz. Akşamki
+  kadeh kaldırma konuşmasında
+  (https://presidency.ucsb.edu/documents/toasts-the-president-and-prime-minister-erim-turkey) 'the legacy of
+  Kernel [sic] Ataturk' ifadesini kullanan Erim'dir; Nixon orada yalnızca şiarı tekrarlar.
+verification_note: >-
+  Birebir aynı (UCSB metninde alıntıyla ilgisiz bir 'todays peace at home' dizgi hatası var). Çekince notu
+  doğru: kadeh kaldırma konuşmasında 'legacy of Kernel [sic] Ataturk' diyen Nixon değil Erim'dir. Araçsal/1
+  değerlendirmesi yerinde.
+verification_method: UCSB sayfalarının fetch + curl ile çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: aca844c51e81
+  role: 8603a191b3b7
+  quote: 614e9817c18b
+  summary: 439bf429ba85
+  caveat: 3c21ea85243f
+  verification_note: a114ae6a7f1b
+  verification_method: 4a6b19422edd

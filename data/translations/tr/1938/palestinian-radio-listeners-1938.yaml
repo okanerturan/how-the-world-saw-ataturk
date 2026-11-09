@@ -1,0 +1,30 @@
+# Turkish for data/voices/1938/palestinian-radio-listeners-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: palestinian-radio-listeners-1938
+voice: Filistinli radyo dinleyicileri
+role: Radyoların başında toplanan Filistin halkı
+quote: >-
+  Üç gün boyunca bütün Filistin halkı radyolarının başında toplanarak Ankara'nın yayınlarını dinledi — hatta
+  gözyaşı döktü.
+quote_kind: translated
+summary: >-
+  Üç gün boyunca bütün Filistin halkı radyolarının başında toplanarak Ankara'nın yayınlarını dinledi, hatta
+  gözyaşı döktü.
+caveat: >-
+  Türk basını aracılığıyla aktarılmıştır; 'no country more affected' aşırılık ifadesi Türk basınının
+  çerçevelemesidir.
+mediated_by: Toksoy 2010 ← Cumhuriyet 19 Kasım 1938 s. 4
+verification_note: >-
+  Alıntı, Toksoy'un Türkçesinin İngilizceye çevrilmiş halidir; Filistin basınındaki aslı görülmemiştir
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: feb5bd2f514f
+  role: 124dc8cdbb38
+  quote: 56ff9a5188b6
+  summary: 75706cddd094
+  caveat: 9ad66cf0bbce
+  mediated_by: 32885fc42576
+  verification_note: 8ef5f432fa0f
+  verification_method: 939bb46a04c3

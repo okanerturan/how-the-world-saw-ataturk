@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: putin-2004-12-06-book
+voice: Vladimir Putin
+voice_type: person
+role: President of Russia; entry in the Anıtkabir special book
+country: Russia
+country_now: Russia
+domain: politics
+date: "2004-12-06"
+era: posthumous
+polarity: instrumental
+intensity: 2
+artifact: quote
+evidence: P+J
+summary: >-
+  Says Turkey's rebirth as a state is linked to Atatürk's name and that both nations' task is to continue his
+  work.
+quote:
+  text: >-
+    Rusya'da Türk halkının büyük oğlu Atatürk'ün hatırasına büyük değer veriliyor. Türk devletinin yeniden
+    doğuşu, O'nun adıyla ilişkilendirilir.
+  is_translation: true
+  language: tr
+mediated_by: Hürriyet 6 Dec 2004 (Turkish translation of the entry); RTİB repeats it
+caveat: >-
+  UPGRADE of the existing putin-2004-12-06 record (Kremlin paraphrase only): the Turkish text of the entry.
+  Hürriyet 6 Dec 2004 prints it in full; the RTİB piece (rtib.org) repeats the same Turkish text. Both are
+  Turkish renderings of a Russian-language entry; the Russian original is not located. Full text continues:
+  'Ülkelerimiz arasındaki dostluğun gelişiminin başlangıcında da O'nun adı vardır. Bizim görevimiz O'nun
+  hatırasına layık olmak ve O'nun yaptıklarını devam ettirmektir.' Diplomatic occasion; Putin's 2005 Samsun
+  speech is not counted (no view stated).
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.hurriyet.com.tr/gundem/putin-ataturkun-yaptiklarini-devam-ettirelim-279042
+    archived: https://web.archive.org/web/20240609215626/https://www.hurriyet.com.tr/gundem/putin-ataturkun-yaptiklarini-devam-ettirelim-279042
+  - url: https://www.rtib.org/tr/haberler/putin-ataturkun-yaptiklarini-devam-ettirelim
+  - url: http://en.kremlin.ru/events/president/news/32318
+    archived: https://web.archive.org/web/20260614235857/http://en.kremlin.ru/events/president/news/32318
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hürriyet 6 Dec 2004 (hurriyet.com.tr/gundem/putin-ataturkun-yaptiklarini-devam-ettirelim-279042); rtib.org
+    copy
+  method: tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker
+  note: >-
+    Both quoted sentences verbatim; Hürriyet page stamped 6 Dec 2004 and reports the Anıtkabir visit and the
+    guest-book entry. The RTİB page is a later (2023) compilation that copies the same Turkish text, so it is
+    not an independent second source. Russian original not seen; Turkish rendering only (already flagged).
+  checked_on: "2026-11-03"

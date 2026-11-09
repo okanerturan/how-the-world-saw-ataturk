@@ -1,0 +1,46 @@
+# Turkish for data/voices/1992/mandela-1992-05-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mandela-1992-05-20
+voice: Nelson Mandela
+role: Afrika Ulusal Kongresi Başkanı
+quote: Atatürk'e ve bizzat Türk halkına büyük saygı duyuyorum.
+quote_kind: translated
+summary: >-
+  Atatürk Barış Ödülü'nü kabul edemediği için üzgün olduğunu belirtir, Atatürk'e ve Türklere büyük saygı
+  duyduğunu ifade eder ve kitlelerin kendisine yol gösterdiğini söyler.
+caveat: >-
+  AP, 20 Mayıs 1992: Uluslararası Atatürk Barış Ödülü'nü geri çevirirken düzenlediği basın toplantısında
+  söyledi; AP herhangi bir gerekçe belirtilmediğini bildiriyor. ANC, reddin Atatürk hakkında olumsuz bir görüş
+  anlamına gelmediğini açıkladı (Anadolu Agency, 2014 tarafından aktarıldığı üzere). Kürt hakları gerekçesi
+  yalnızca daha sonraki kaynaklarda ve savunuculuk kaynaklarında görülür. Türk devletinin ödülünün
+  reddedilmesiyle bir arada Atatürk'e yönelik saygılı bir bakış.
+mediated_by: >-
+  Associated Press, Stockholm, 20 Mayıs 1992 ('Mandela Sorry He's Unable to Accept Honor') ← Mandela'nın basın
+  toplantısı
+verification_note: >-
+  AP metni kısadır ve eksiksiz olarak döndü: 'STOCKHOLM, Sweden (AP) _ South African black leader Nelson
+  Mandela said Wednesday he was sorry he had to refuse the Ataturk Prize ... "I was very sorry it was not
+  possible for me to accept this award," Mandela said at a news conference. "I have a great deal of respect
+  for Ataturk and for the Turkish people themselves." "We are guided by the views of the masses of the people
+  and if, on any issue, they take a position, I cannot ignore it."' Birebir aynı; Çarşamba = 20 Mayıs 1992;
+  9.500 dolarlık ödül, ANC'nin gerekçe göstermemesi, insan hakları bağlantısı ve Kürt milletvekillerinin
+  övgüsü çekince notuyla tamamen örtüşüyor. 'Single source' uyarısı yumuşatılabilir: ikinci bir yayın organı
+  (UPI, gazete) bulunamamış olsa da, bu yalnızca bir kesit değil bizzat AP metninin kendisidir. 'President of
+  the ANC' ifadesi AP metninde yer almıyor (metin 'South African black leader' diyor); görev bilgisi dış
+  bilgiye dayanıyor. Kutupluluğun (polarity) conflicted olması zorlama: AP metninde hiçbir şey Atatürk'ü
+  eleştirmiyor, bu yüzden 1-2 yoğunlukta 'admiring' veya 'witness' daha yakın olurdu; 'conflicted' etiketi,
+  AP'nin Atatürk'le değil insan hakları sorunlarıyla ilişkilendirdiğini söylediği ret kararına dayanıyor.
+  Kutupluluğun 'witness' olarak değiştirilmesi ya da mevcut çekince notuyla birlikte conflicted olarak
+  korunması önerilir.
+verification_method: Tek bir tools/ms araması tüm AP haber metnini döndürdü; UPI veya gazete kopyası bulunamadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: edfd73de090a
+  role: 277b93ce4998
+  quote: c61c549d7740
+  summary: ef779b5f294e
+  caveat: 1d309833e5e5
+  mediated_by: 538a257b4ff0
+  verification_note: 4831aa6ae209
+  verification_method: ea1923ec97c3

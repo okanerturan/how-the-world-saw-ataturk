@@ -1,0 +1,38 @@
+# Turkish for data/voices/2001/goff-2001.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: goff-2001
+voice: Phil Goff
+role: Yeni Zelanda Dışişleri ve Ticaret Bakanı (1999–2005)
+quote: >-
+  Hayatını kaybedenlerin dost bir ülkenin toprağında yattığını söyleyen, yiğit Türk komutanı ve daha sonra
+  Türkiye Cumhuriyeti'nin kurucusu olan Mustafa Kemal Atatürk'tü.
+quote_kind: translated
+summary: >-
+  Atatürk'ü 'yiğit Türk komutanı' ve cömert sözleri Yeni Zelanda–Türkiye dostluğunun temelini oluşturan
+  Cumhuriyet'in kurucusu olarak nitelendirir.
+caveat: >-
+  Başbakan değil, hükümet heyeti başkanıdır. Goff daha sonra İşçi Partisi lideri ve Birleşik Krallık Yüksek
+  Komiseri oldu. Anzak konuşmacılarının Atatürk'e atfettiği 'Johnnies and Mehmets' / 'your sons are now lying
+  in our bosom' metninin kendisi tartışmalıdır: 1934 tarihli bir orijinal bulunamamıştır, metin ilk kez
+  1953'te İçişleri Bakanı Şükrü Kaya'nın hatırası aracılığıyla basında yer almış ve 'Johnnies and Mehmets'
+  ibaresi 1978 tarihli bir Avustralya eklemesidir (bkz. [[Johnnies and Mehmets]]). Dolayısıyla bu, övgüyü
+  ödüllendiren bir anma veya diplomasi vesilesiyle dile getirilmiş, konuşmacının Anzak efsanesindeki Atatürk'e
+  dair görüşüdür. Kaynak gösterimi: ANZAC Dawn Service speech, Gelibolu, 25 Nisan 2001.
+verification_note: >-
+  25 Nisan 2001 tarihli, Phil Goff, Foreign Affairs and Trade imzalı 'ANZAC Dawn Service speech - Gallipoli'
+  başlıklı Beehive sayfasında birebir aynıdır. 'gallant Turkish commander', 'His generous words were the
+  foundation for the warm friendship' kendi sözleridir. Görev tanımı doğrudur (Başbakan değil, Dışişleri
+  Bakanı).
+verification_method: >-
+  kaynak yeniden çekildi, alıntının normalleştirilmiş metin eşleşmesi yapıldı; konuşmacı, tarih ve başlık
+  üstveriden/imza satırından okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c457eeef6718
+  role: 8203f3dab49a
+  quote: a3e142fceebb
+  summary: 5eff83ec0388
+  caveat: 3eed98bdf244
+  verification_note: 7e2628a4fb4f
+  verification_method: 02ed4e837c0d

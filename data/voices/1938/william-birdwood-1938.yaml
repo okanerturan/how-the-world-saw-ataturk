@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: william-birdwood-1938
+voice: William Birdwood
+voice_type: person
+role: British delegate
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1938-11-21"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: visit
+evidence: T+P
+summary: Named among the foreign special missions sent to the funeral; no view stated.
+mediated_by: Havas/Reuter wires (Delpher), 17 Nov 1938
+node: Death and State Funeral of Atatürk
+sources:
+  - url: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mustafa_Kemal_Atat%C3%BCrk
+    archived: https://web.archive.org/web/20260926071813/https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mustafa_Kemal_Atat%C3%BCrk
+verification:
+  verdict: confirmed
+  checked_against: >-
+    a local working file ('lord Bridwood'); https://paperspast.natlib.govt.nz/newspapers/WAITA19381112.2.50
+    (Birdwood represents King)
+  method: local
+  note: Delpher spells 'Bridwood' (OCR/wire garble); Papers Past confirms Birdwood.
+  checked_on: "2026-10-29"

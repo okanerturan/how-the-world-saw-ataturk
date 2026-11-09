@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: xiangdao-editorial-1922-11
+voice: Xiangdao (unsigned editorial, no. 10)
+voice_type: press
+role: Communist weekly's editors, answering Cai Hesen
+country: China
+country_now: China
+domain: press
+date: "1922-11"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: editorial
+evidence: P
+summary: >-
+  Delighted and envious at Ankara's win but argued Canton could not copy it, since Ankara lay near Russia and
+  beyond the imperialists' reach.
+quote:
+  text: 我們看見土耳其革命政府的勝利，自然非常欣悅，非常羨慕
+  language: zh
+caveat: >-
+  Unsigned; month inferred from issue no. 10 (replies to Cai's no. 8 piece dated 2 Nov 1922). Names 基瑪爾派, not
+  an evaluation of the man.
+node: Xiangdao Reads Ankara, 1922–1924
+sources:
+  - url: https://zh.wikisource.org/wiki/國民黨應否復建革命政府
+    archived: https://web.archive.org/web/20261030053504/https://zh.wikisource.org/wiki/%E5%9C%8B%E6%B0%91%E9%BB%A8%E6%87%89%E5%90%A6%E5%BE%A9%E5%BB%BA%E9%9D%A9%E5%91%BD%E6%94%BF%E5%BA%9C
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource.org 國民黨應否復建革命政府 (Xiangdao no.10, 1922)
+  method: Wikisource parse via ms fetch
+  note: >-
+    Verbatim. Text supports delight/envy and the 'near Russia, out of imperialist reach' argument; 基瑪爾派
+    appears. Month inferred from issue number only (page says 1922).
+  checked_on: "2026-10-30"

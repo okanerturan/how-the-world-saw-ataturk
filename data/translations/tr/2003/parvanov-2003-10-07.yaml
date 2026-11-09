@@ -1,0 +1,39 @@
+# Turkish for data/voices/2003/parvanov-2003-10-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: parvanov-2003-10-07
+voice: Georgi Parvanov
+role: Bulgaristan Cumhurbaşkanı
+quote: Türkiye Cumhuriyeti'nin ilk inşacısının eserine hürmet ve saygıyla!
+quote_kind: translated
+summary: >-
+  Türkiye Cumhuriyeti'nin ilk inşacısının eserine saygı; Türklerin onun ideolojik ve siyasi mirasını koruyup
+  geliştirmesini diler.
+caveat: >-
+  Bulgarca el yazısıyla yazılmış, 7.X.2003 (el yazısından transkribe edildi): 'With respect and esteem for the
+  work of the first builder of the Republic of Turkey! With wishes to the people and the country to preserve
+  and develop the ideological and political legacy of Mustafa Kemal Atatürk!' Derlemedeki Türkçe çeviri özü
+  itibarıyla örtüşmekle birlikte daha serbesttir ('cause of the Leader and First Founder'). Kaynak: Anıtkabir
+  Özel Defteri (basılı derleme, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet
+  başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), ataturkarsivi.com üzerindeki sayfa görüntüleri, ana
+  ajan tarafından görüntü üzerinden okundu (4 Kasım 2026).
+verification_note: >-
+  Galerideki 'Jorge SAMPAIO' etiketi yanlıştır: söz konusu görüntüler Parvanov'un kaydına aittir (basılı isim
+  Georgi Parvanov, Bulgaristan Cumhuriyeti Cumhurbaskani). Bulgarca transkripsiyon harfiyen doğrulandı: 'С
+  почит и уважение към делото на първостроителя на Република Турция!' ve dilek satırı 'С пожелания към народа
+  и страната да запази и развие идейното и политическо наследство на Мустафа Кемал Ататюрк!'; tarih 7.X.2003
+  г.; imza Георги Първанов, Президент на Република България. Düzeltme (küçük): çekince notu derlemedeki
+  Türkçenin 'agrees' olduğunu söylüyor; oysa daha serbest bir çeviridir (basılı metin: 'Turkiye Cumhuriyetinin
+  Onderi, Ilk Kurucusunun davasina itibarim ve saygilarimla' = 'with my esteem and respect for the cause of
+  the Leader and First Founder of the Republic of Turkey'; dilek cümlesi: 'korunmasini ve gelistirmesini
+  dilerim'). Özü uyuşuyor; 'agrees in substance' ifadesi önerilir. Yoğunluk 1 uygun.
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe metin OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 63cc693484e1
+  role: 90c5d4238dae
+  quote: 6ed4e5eab719
+  summary: 06e37609e271
+  caveat: cd609462f9a4
+  verification_note: 55fee3f76424
+  verification_method: "304538629105"

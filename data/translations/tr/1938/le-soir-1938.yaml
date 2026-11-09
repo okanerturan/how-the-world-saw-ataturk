@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/le-soir-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-soir-1938
+voice: Le Soir
+role: Belçika günlük gazetesi
+quote: o kadar büyüktür ki dünya onların karşısında hâlâ hayret içindedir
+quote_kind: translated
+summary: >-
+  Lozan'ın önemini ve dünyanın karşısında hâlâ hayret içinde olduğu bu denli büyük, olağanüstü reformlarını
+  vurguladı.
+caveat: >-
+  Toksoy'daki gazete adları fonetik yazılmıştır ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 12 Kasım 1938 s. 2 / Ayın Tarihi Kasım 1938
+verification_note: Alıntı, Toksoy'un Soir açımlamasıdır; aslına sadıktır
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f452ce447abd
+  role: 2267de4d9b70
+  quote: f3ac67310a0f
+  summary: b7abc56b61fb
+  caveat: ecc719a2a575
+  mediated_by: 781a20fcb527
+  verification_note: acda6d8b4df4
+  verification_method: 939bb46a04c3

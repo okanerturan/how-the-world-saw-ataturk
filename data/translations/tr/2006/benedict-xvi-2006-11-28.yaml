@@ -1,0 +1,35 @@
+# Turkish for data/voices/2006/benedict-xvi-2006-11-28.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: benedict-xvi-2006-11-28
+voice: Papa XVI. Benedict
+role: Papa; Türkiye'ye apostolik ziyareti sırasında Anıtkabir ziyareti
+quote: >-
+  Türkiye Cumhuriyeti'nin kurucusunun sözlerini memnuniyetle benimsiyorum: 'yurtta sulh, cihanda sulh'
+  diliyorum
+quote_kind: translated
+summary: >-
+  Anıtkabir özel defterinde, kurucunun 'yurtta sulh, cihanda sulh' sözünü dinler arasında bir köprü için kendi
+  dileği olarak benimsiyor.
+caveat: >-
+  Regensburg konuşması tartışmasının ardından gerçekleşen ziyarette yazılmış nezaket metni. İfadeler haberler
+  arasında farklılık gösteriyor: AsiaNews 'In this land, meeting place and crossroads of different religions
+  and cultures, hinge between Asia and Europe, I gladly make my own the words of the founder of the Turkish
+  Republic'; DW 'I am pleased to adopt the words of the founder of the Turkish republic as my own'; Zenit
+  (aktarılan) İngilizce yazdığını söylüyor. Atatürk'ün adı anılmıyor, yalnızca 'the founder' deniyor. Papa
+  Francis (2014) ve Papa XIV. Leo (2025) aynı defteri Atatürk'ten söz etmeden imzaladı.
+mediated_by: AsiaNews ve Deutsche Welle'nin Anıtkabir defteri yazısına ilişkin haberleri, 28 Kasım 2006
+verification_note: >-
+  AsiaNews ifadeleri birebir aynı; DW aynı kaydın farklı bir çevirisini veriyor. İki bağımsız basın haberi (J
+  kademesi); defter kaydının özgün dildeki metni görülmedi.
+verification_method: Ana ajan tarafından her iki sayfanın tools/ms ile çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c91f7ce0393b
+  role: 0d069894735f
+  quote: 7251397047d1
+  summary: 9e6d3dc2766e
+  caveat: 8a962b6709d5
+  mediated_by: 4b67cbba6ec7
+  verification_note: 4711c3d17792
+  verification_method: 16314287830d

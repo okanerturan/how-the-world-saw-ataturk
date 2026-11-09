@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-grondwet-1922-09-18
+voice: De Grondwet
+voice_type: press
+role: Dutch regional daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1922-09-18"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: telegram
+evidence: P
+summary: >-
+  Printed a Constantinople wire: the 'general impression' was that Kemal had let slip the finest chance of his
+  life, a moral victory beyond beating Greece.
+quote:
+  text: Moestafa Kemal de schoonste gelegenheid van zijn leven heeft laten voorbijgaan
+  language: nl
+mediated_by: wire telegram from Constantinople printed under 'Telegrammen. De brand-ramp van Smyrna'
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. The view is the unnamed correspondent's, relayed by the
+  paper; the same wire says British witnesses claimed the fire was set deliberately.
+node: Dutch Dailies at Smyrna, September 1922
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=MMGARO01:000172985:mpeg21:a0018
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    KB resolver MMGARO01:000172985:mpeg21:a0018:ocr (De Grondwet 1922-09-18, 'Telegrammen. De brand-ramp van
+    Smyrna')
+  method: fetch
+  checked_on: "2026-10-29"

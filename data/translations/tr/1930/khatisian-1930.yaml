@@ -1,0 +1,33 @@
+# Turkish for data/voices/1930/khatisian-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: khatisian-1930
+voice: Alexander Khatisian
+role: Ermenistan Cumhuriyeti eski başbakanı (1919-20), anı yazarı
+quote: Kabul edilmelidir ki bu hareketin liderleri büyük bir enerji ve yetenek sergilemişlerdir.
+quote_kind: translated
+summary: >-
+  Ulusal bir ordu kurmada Kemalist liderlerin enerji ve yeteneğini teslim ederken, Kemalist hedefleri bağımsız
+  Ermenistan'ı yok etmeye azmetmiş olarak tanımlar.
+caveat: >-
+  Kendi dipnotlarını ekleyen bir Türk yayın grubunun çevirisi; Ermenice özgün metin kontrol edilmedi; Mustafa
+  Kemal önderliğindeki hareketten ve Kemalist liderlerden söz eder, bir önceki cümlede Mustafa Kemal'in adı
+  geçer.
+mediated_by: Atina 1930 hatıratının 2025 İngilizce baskısı (çev. F. Sarıkaya, ed. M. A. Demirer)
+verification_note: >-
+  Alıntı birebir aynıdır: 'It must be admitted that the leaders of this movement have displayed a great deal
+  of energy and talent.' Öncesinde 'Turkey, under the leadership of Mustafa Kemal, started to establish a
+  national army' cümlesi yer alır; dolayısıyla hareket Mustafa Kemal'in hareketidir. 1930 tarihli
+  Ermenice/İngilizce özgün metin görülmemiştir; çekince notunda belirtildiği üzere metin bir çevirmene aittir.
+  Pasaj 1930'da kaleme alınmış olup 1920 olaylarını anlatmaktadır, dolayısıyla tarih yayım yılıdır.
+verification_method: Tam PDF metninin ücretsiz çekilmesi; cümle 1920 hakkındaki bölümde bulundu (basılı s. 141)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c875574ed9e4
+  role: dc7e0bbc86f2
+  quote: 612f2dd1c4c7
+  summary: 6145dcb466b0
+  caveat: 8f020dacf704
+  mediated_by: 7e2a0ca5554a
+  verification_note: 098cb4abb259
+  verification_method: b9fb4cff199f

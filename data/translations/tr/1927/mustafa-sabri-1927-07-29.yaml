@@ -1,0 +1,48 @@
+# Turkish for data/voices/1927/mustafa-sabri-1927-07-29.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mustafa-sabri-1927-07-29
+voice: Mustafa Sabri Efendi
+role: Eski Şeyhülislam; Yarın gazetesi (Gümülcine/İskeçe, Batı Trakya) yazarı
+quote: Nasıl ki Ankara hükümet reisi de kendi itirafiyle zıllullah değildir.
+quote_kind: original-turkish
+summary: >-
+  Kemal'in Dolmabahçe'deki Allah'ın gölgesi sözüne yapılan övgülerle alay eder; Ankara hükümet reisinin bizzat
+  kendisinin öyle olmadığını itiraf ettiğini söyler.
+caveat: >-
+  'Cuhela Marifetleri' başlıklı yazı (Albayrak baskısında basılı s. 306-310 (alıntı s. 308); OCR metni 'Nasil
+  ki ... hükü- met' şeklindedir). Söz konusu konuşma Mustafa Kemal'in Temmuz 1927'deki Dolmabahçe nutkudur;
+  Sabri'nin aktardığına göre burada sarayın artık 'Zıllullah'a değil millete ait olduğunu söylemiştir; Sabri,
+  Ağaoğlu Ahmed'in 7 Temmuz 1927 tarihli Milliyet'teki yazısından alıntı yapar ('Mustafa Kemal Allah'ın
+  gölgesi değil, milletin gölgesidir'). Sabri ardından başkalarının aksine Mustafa Kemal'in sözlerini
+  eleştirirken ondan korkmadığını ekler. TARİH BELİRSİZ: Albayrak baskısındaki en yakın kaynak notu 'Yarın,
+  sayı: 2, 29/7/1927, sh: 2-3' olup bir sonraki yazının sonunda yer alır; dolayısıyla bu yazının sayısı
+  çıkarımla belirlenmiştir, yalnızca yılı kesindir. Sabri'nin kendi yargısıdır; arşiv bunu onaylamaz. Kontrol:
+  '(Yarın, sayı: 2, 29/7/1927, sh: 2-3)' kaynak notu bu yazıyı kapatmaktadır (basılı s. 310), dolayısıyla
+  tarih belirtilmiştir; sayfalar basılı s. 306-310, alıntı s. 308'dir.
+mediated_by: Albayrak 1992 (Yarın yazılarının yeniden basımı)
+verification_note: >-
+  OCR farkı dışında alıntı birebir aynıdır ('Nasil ki Ankara hukumet reisi de kendi itirafiyle zillullah
+  degildir', basılı s. 308, PDF s. 310). Sabri'nin yorumu kaydedildiği gibidir (Dolmabahçe nutku; 7 Temmuz
+  1927 tarihli Milliyet'te Ağaoğlu Ahmed). Kaydın TARİH UYARISI YANLIŞTIR: '(Yarin, sayi: 2, 29/7/1927, sh:
+  2-3)' notu bir sonraki yazının sonunda değil, BU YAZININ KENDİ SONUNDA basılıdır (s. 310'un altı; Zıllullah
+  pasajı ile Tayyare Cemiyeti/kurban pasajı arasında yeni başlık yoktur; 'Kemalizm'i içeren 'EKLER' s. 311'de
+  başlar). Dolayısıyla tarih çıkarımla bulunmamış, açıkça belirtilmiştir. DÜZELTMELER: tarih '1927-07-29'
+  (Yarin sayı 2, s. 2-3); uyarı notundan 'DATE UNCERTAIN ... inferred' kısmını silin; sayfalar 306-310 (yazı),
+  alıntı s. 308'dir: kayıttaki 'pp. 406-408' yanlış okunmuş bir OCR üstbilgisini kopyalamaktadır ('406'
+  aslında 306'dır; kitap 415 sayfadır ve ekler 311'de başlar); mediated_by alanında 'Yarin no. 2, 29 Jul 1927,
+  pp. 2-3' belirtilebilir. Dönem çağdaş, kutupluluk düşmanca, yoğunluk 2 ve 21 kelimelik what_they_saw
+  uygundur.
+verification_method: >-
+  djvu metninin ve PDF'nin yeni ücretsiz indirilmesi; yazının tamamı okundu, son sayfası görüntülendi; kayıtlı
+  src dosyaları kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c2b2bf1324d9
+  role: d0be547218f3
+  quote: 90c80686165b
+  summary: f0fde3ae0b81
+  caveat: a149507d8f61
+  mediated_by: cb62858b1537
+  verification_note: cc339f3382bf
+  verification_method: fa2cce1a585f

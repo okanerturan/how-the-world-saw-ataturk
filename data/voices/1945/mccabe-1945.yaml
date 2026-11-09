@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mccabe-1945
+voice: Joseph McCabe
+voice_type: person
+role: British rationalist author and former priest
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1945"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: secular-rationalist-prophet
+artifact: book
+evidence: S
+summary: >-
+  Lists Atatürk among the freethinkers: he humanised and modernised Turkey with great vigour and won the title
+  for his 'wonderful work'.
+quote:
+  text: >-
+    He humanized and modernized Turkey with great vigor. … They gave him the name Ataturk (the Great Turk) for
+    his wonderful work.
+  language: en
+caveat: >-
+  Entry 'Ataturk, President Mustafa Kamal (1881-1938)' in McCabe's A Biographical Dictionary of Ancient,
+  Medieval, and Modern Freethinkers (1945, year stated in the Wikisource header). McCabe also cites
+  Armstrong's Grey Wolf for Atatürk's 'profound contempt for all religion' and adds that he was 'forced to
+  compromise'; the praise is McCabe's own. Whole-page raw wikitext, no scan viewed.
+node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
+sources:
+  - url: https://en.wikisource.org/wiki/A_Biographical_Dictionary_of_Ancient,_Medieval,_and_Modern_Freethinkers
+    archived: https://web.archive.org/web/20260926000550/https://en.wikisource.org/wiki/A_Biographical_Dictionary_of_Ancient,_Medieval,_and_Modern_Freethinkers
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    en.wikisource A Biographical Dictionary of Ancient, Medieval, and Modern Freethinkers (1945), entry
+    'Ataturk, President Mustafa Kamal (1881-1938)' (raw wikitext)
+  method: fetched raw page, string match
+  note: >-
+    Both sentences verbatim, in order, separated by the Armstrong sentence the record elides with '…'.
+    McCabe's own view, 1945 in the header. Gaze OK.
+  checked_on: "2026-11-03"

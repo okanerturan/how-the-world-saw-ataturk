@@ -1,0 +1,35 @@
+# Turkish for data/voices/2014/kenyatta-2014-04-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kenyatta-2014-04-08
+voice: Uhuru Kenyatta
+role: Kenya Devlet Başkanı; Anıtkabir özel defterindeki yazısı
+quote: >-
+  Mustafa Kemal Atatürk her zaman cesareti, vizyonu ve Türklerin bağımsızlık mücadelesindeki kararlılığı ile
+  hatırlanacaktır.
+quote_kind: original-turkish
+summary: >-
+  Atatürk bağımsızlık mücadelesindeki cesareti, vizyonu ve kararlılığıyla hatırlanacaktır; liderliği
+  Kenyalılara ilham veren, yüzyılın önde gelen bir şahsiyeti.
+caveat: >-
+  Haberler üzerinden AA haberi; aynı AA metni sondakika.com'da da yer alıyor (bağımsız değil). İngilizce bir
+  kaydın Türkçe çevirisi; İngilizce özgün metne ulaşılamadı. Tarih (8 Nisan 2014) Türkçe Wikipedia'nın
+  ziyaretçi listesinden geliyor; AA haberi Gül'ün onu 'bugün' Çankaya'da kabul edeceğini söylüyor.
+mediated_by: Haberler üzerinden AA (yazının Türkçe çevirisi)
+verification_note: >-
+  Alıntılanan cümle birebir aynı; kayıt ayrıca onun 'known as one of the most important figures of the 20th
+  century' olduğunu ve vizyonunun Kenyalılara ilham verdiğini ('inspired') söylüyor, bu da what_they_saw
+  alanıyla uyuşuyor. Sayfada 8 Nisan 2014 tarih damgası var. Tek AA ajans haberi (diğer kopyalar bağımsız
+  değil). İngilizce özgün metin bulunamadı.
+verification_method: >-
+  Alıntılanan sayfanın tools/ms ile (ücretsiz) yeni çekimi, 3 Kasım 2026; bağımsız denetleyici
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0624588ed089
+  role: 064837df2404
+  quote: 668800b06d28
+  summary: e15bcf5755f0
+  caveat: 54538b27bd80
+  mediated_by: 22dca69af513
+  verification_note: 9190c888a856
+  verification_method: 7b5332a2caf8

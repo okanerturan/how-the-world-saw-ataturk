@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lloyd-george-1938
+voice: David Lloyd George
+voice_type: person
+role: Former Prime Minister; memoir The Truth About the Peace Treaties (1938)
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1938"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: chivalrous-enemy
+artifact: memoir
+evidence: P
+summary: >-
+  Describes Kemal as an unexpected 'portent' at the Conference, the Gallipoli commander who stopped the
+  British at Suvla, who rallied Turkish pride; Allied intelligence 'unintelligent'.
+quote:
+  text: >-
+    It was owing to his prompt and daring leadership that the ineffective and bungled British attack at Suvla
+    Bay had been checked, and the last hope of forcing the Dardanelles in the Great War for ever lost.
+  language: en
+caveat: >-
+  Vol. II, p. 1285 (running heads 'EUROPEAN AND ASIATIC TURKEY 1285'; the quote sits between that head and
+  '1286'), open DLI scan in.ernet.dli.2015.523826. Same chapter, p. 1292: 'Kemal roused the pride of a
+  governing caste'; elsewhere he calls Turkey's rule a 'misgoverning' of centuries. Written in 1938 about
+  1920; hostile to the Greek enterprise he himself had backed in Parliament (see his 1920 and 1922 records).
+  Chapter headings: 'Mustapha Kemal takes the field', 'Kemal the strong man of Turkey'.
+node: Statesmen on Atatürk in Their Own Words, Memoirs and Speeches
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.523826
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Lloyd George, The Truth About the Peace Treaties vol. II (1938), archive.org in.ernet.dli.2015.523826
+    djvu.txt
+  method: curl of the open djvu text, read in context with running heads
+  note: >-
+    Verbatim on p. 1285 (running head 'TURKEY 1285' before the passage, 1286 after): 'It was owing to his
+    prompt and daring leadership that the ineffective and bungled British attack at Suvla Bay had been
+    checked, and the last hope of forcing the Dardanelles in the Great War for ever lost.' Also 'a new portent
+    ... in the form of Mustapha Kemal', 'a daring rebel, a good soldier and a born leader of men' and p. 1292
+    'Kemal roused the pride of a governing caste'. Conflicted/2 fair.
+  checked_on: "2026-11-03"

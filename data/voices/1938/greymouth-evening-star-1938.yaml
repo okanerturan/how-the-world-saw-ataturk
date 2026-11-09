@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: greymouth-evening-star-1938
+voice: Greymouth Evening Star
+voice_type: press
+role: West Coast NZ daily
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: editorial
+evidence: P
+summary: >-
+  Editorial: benevolent dictator unlike Hitler, Mussolini or Stalin; Britain mourns a one-time gallant foe and
+  later friend.
+quote:
+  text: Were all Dictators like Kemal, there would be less need for concern about their numbers.
+  language: en
+node: New Zealand Leaders on Kemal, November 1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/GEST19381111.2.27
+    archived: https://web.archive.org/web/20261029001428/https://paperspast.natlib.govt.nz/newspapers/GEST19381111.2.27
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://paperspast.natlib.govt.nz/newspapers/GEST19381111.2.27
+  method: fetch
+  checked_on: "2026-10-29"

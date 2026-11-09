@@ -1,0 +1,39 @@
+# Turkish for data/voices/1933/reza-shah-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: reza-shah-1933
+voice: Reza Shah Pahlavi
+role: İran Şahı
+quote: >-
+  Sizin söylediğinize göre Gazi Hazretleri benimle görüşmek istemektedirler. Bende kendileri ile görüşmeyi son
+  derece arzu etmekteyim.
+quote_kind: original-turkish
+summary: >-
+  Türk büyükelçisine Gazi ile görüşmeyi çok arzu ettiğini söyler ve 1934 ilkbaharında veliaht prensle birlikte
+  onu ziyaret etmek niyetindedir.
+caveat: >-
+  Şah'ın kendi metni değil, büyükelçinin hatıratında aktarılmıştır; Atuk bunu '1933 başları'na yerleştirir.
+  Bir yargıdan ziyade görüşme arzusu bildiren diplomatik nezaket. Çevirisi: 'According to what you tell me,
+  His Excellency Gazi wants to meet me. I too very much wish to meet him.'
+mediated_by: >-
+  Atuk, ÇTTAD XVII/35 (2017), s. 232 ← Hüsrev Gerede, Siyasi Hatıratım 1: İran (Vakit, 1952), s. 265
+  (büyükelçinin anıları)
+verification_note: >-
+  s. 232'de kelimesi kelimesine: 'Sizin söylediğinize göre Gazi Hazretleri benimle görüşmek istemektedirler.
+  Bende kendileri ile görüşmeyi son derece arzu etmekteyim. 1934 yılı ilkbaharında oğlum veliahtı ve Gazi
+  Hazretlerini görmeye kararlıyım.' Atuk bunu Gerede'nin (Tahran büyükelçisi) 1933 başlarında Şah'ın ziyaret
+  arzusunu dile getirmesi olarak sunar; dipnot 57 = Gerede, Siyasi Hatıratım 1 İran, Vakit 1952, s. 265.
+  Hatıratın kendisi okunmadı; Farsçadan Türkçeye aktarım Gerede'ye aittir. Kaydın mediated_by alanı ve çekince
+  notu doğrudur. Düzeltme gerekmez (isteğe bağlı olarak: sözlerin Şah'ın ifadelerinin büyükelçi tarafından
+  yapılan Türkçe aktarımı olduğu belirtilebilir).
+verification_method: PDF'nin tools/ms ile ücretsiz çekimi; alıntı, sayfa başlığı 232 ve dipnot 57 tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4142e9b5425b
+  role: 95a8b5886fd0
+  quote: 060db32cb9c8
+  summary: 99bae468a70b
+  caveat: c5b043a6fba8
+  mediated_by: 1d475b24ca0b
+  verification_note: a98de37ecf12
+  verification_method: d3fa56fc0be8

@@ -1,0 +1,24 @@
+# Turkish for data/voices/1929/morgenthau-1929.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: morgenthau-1929
+voice: Henry Morgenthau Sr.
+role: Milletler Cemiyeti Yunan mülteci yerleşimi üzerine yazar; ABD'nin eski Türkiye büyükelçisi
+quote: Mustafa Kemal, savaş sırasında Türklerin sahip olduğu en yetenekli subay
+quote_kind: translated
+summary: >-
+  Kemal'i Türklerin en yetenekli subayı ve sonradan diktatörü olarak adlandırır ve İzmir'in yanmasını tam onun
+  gözü önünde gerçekleşmiş olarak sıralar.
+caveat: >-
+  French Strother işbirliğiyle yazılmış anı kitabı; İzmir bölümü görgü tanıklığı değil, nedenlerin özet bir
+  listesidir. Eski büyükelçi sıfatı kontrol edilen sayfalarda okunmamıştır. Kitap s. 25 (yaprak n37), s.
+  47-48, 91.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ab971b1a819e
+  role: 2717b28c75f2
+  quote: 3f4af5cf0788
+  summary: 6fe3fe33cecd
+  caveat: 4f40a1ca4bfc
+  verification_method: ad8cee67138e

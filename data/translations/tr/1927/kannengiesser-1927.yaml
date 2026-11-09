@@ -1,0 +1,44 @@
+# Turkish for data/voices/1927/kannengiesser-1927.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kannengiesser-1927
+voice: Hans Kannengiesser
+role: Alman subay, Gelibolu'da Türk 5. Tümeni komutanı; anı kitabı The Campaign in Gallipoli
+quote: >-
+  Bu dönemde kendisi hakkında edindiğim izlenim, berrak düşünen, faal, sakin, ne istediğini bilen bir adam
+  olduğuydu.
+quote_kind: translated
+summary: >-
+  Gelibolu'daki Kemal'i berrak düşünen, sakin, kendi kendine yeten, ne istediğini bilen bir komutan olarak
+  hatırlar; artık 'Türkiye'nin dünyaca ünlü Cumhurbaşkanı'dır.
+caveat: >-
+  The Campaign in Gallipoli (Hutchinson, İngilizce baskı 1928; Almancası Gallipoli, der Wendepunkt des
+  Weltkrieges, 1927), s. 126 (üst başlık '126 THE CAMPAIGN IN GALLIPOLI'); açık tarama
+  campaigngallipolikannengiesser. Aynı pasaj: 'Mustapha Kemal Bey is the now world-famous President of
+  Turkey'; 'He weighed and decided everything for himself, without looking elsewhere for support or
+  agreement'; 'He did not appear to be very strong bodily, although extremely wiry'. Kitaptaki bir levhanın
+  altında 'Mustapha Kemal Bey, now Pasha and President of the Turkish Republic' yazmaktadır. s. 48'de
+  Kannengiesser, Cavit Bey'in 'for rebelling against the government of Mustapha Kemal Pasha' gerekçesiyle
+  asılmasını kaydeder (bir olgu, yargı yok). 5. Tümen'i devralmaya gelmiş ve tüm cephedeki harekâtı Kemal'in
+  yürütmesini kabul etmişti. Tarafsız üslup korundu.
+verification_note: >-
+  Birebir aynı, s. 126 (hemen öncesinde '126 THE CAMPAIGN IN GALLIPOLI' üst başlığı yer alır): 'Mustapha Kemal
+  Bey is the now world-famous President of Turkey. The impression that I gained of him during this period was
+  that of a clear-thinking, active, quiet man who knew what he wanted. He weighed and decided everything for
+  himself ...'. Liman'ın önsözü Münih, 27 Ocak 1927 tarihlidir (Almanca özgün metin 1927, İngilizce 1928).
+  Kemal hakkındaki görüş geçerken yapılan bir değinme değil, açık bir karakter betimlemesidir. 'Mustapha Kemal
+  Bey, now Pasha and President of the Turkish Republic' levha altı yazısı mevcuttur. DÖNEM DÜZELTMESİ:
+  'posthumous' değil, 'contemporary' (1927, Kemal hayatta). Uyarı notu hatası: Cavit Bey'in asılması ('1926,
+  for rebelling against the government of Mustapha Kemal Pasha') s. 222'de değil, s. 48'dedir; kaydın
+  belirttiği gibi yargı içermeyen bir olgudur.
+verification_method: >-
+  açık djvu metninin curl ile çekilmesi, bağlam içinde okunması; sayfa numarası üst başlıktan
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b8ed747c1fbb
+  role: 3514552bb686
+  quote: 1001d9788854
+  summary: e21bcd5c55e2
+  caveat: 19962400632d
+  verification_note: 65614a2b526b
+  verification_method: ecca85580fe6

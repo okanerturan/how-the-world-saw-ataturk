@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: davis-1943-04
+voice: James J. Davis
+voice_type: person
+role: U.S. Senator (Pennsylvania)
+country: United States
+country_now: United States
+domain: politics
+date: "1943-04-22"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Marks the National Assembly's 24th anniversary: Atatürk's leadership brought a 'veritable social revolution'
+  with no fascist badges or mass hysteria.
+quote:
+  text: >-
+    Twenty-four years ago today, representatives from nearly every part of Turkey came to Ankara at the
+    invitation of the late great Turkish leader, Kemal Ataturk, and laid the foundations of a new Turkey
+  language: en
+caveat: >-
+  Heading 'Twenty-fourth anniversary of foundation of the Turkish National Assembly'; the same speech quotes
+  Wendell Willkie's *One World* on Turkey (not counted). Senator's state from the standard record (only one
+  Senator Davis served in 1943), not from the passage. Cited as Senate, 22 April 1943, Congressional Record
+  vol. 89 (bound), p. ~3693 (granule CRECB-1943-pt3-15-1).
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1943-pt3/pdf/GPO-CRECB-1943-pt3-15-1.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: GovInfo Congressional Record bound-edition PDF GPO-CRECB-1943-pt3-15-1, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads
+  note: >-
+    Quote verbatim, Senate, Thursday 22 April 1943, Mr. DAVIS, under 'Twenty-fourth anniversary of foundation
+    of the Turkish National Assembly', p. 3693 (the 'veritable social revolution ... without Fascist badges'
+    sentence runs over to p. 3694). The stored quote carries only the founding sentence, but what_they_saw is
+    supported by the next lines of the same speech; a quote from 'effected a veritable social revolution'
+    would match better. Speaker identity as James J. Davis of Pennsylvania is from the standard record, not
+    the page.
+  checked_on: "2026-11-03"

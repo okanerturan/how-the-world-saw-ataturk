@@ -1,0 +1,23 @@
+# Turkish for data/voices/1926/de-volkskrant-1926-10-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-volkskrant-1926-10-20
+voice: De Volkskrant
+role: Katolik günlük gazetesi
+quote: modern Türkiye'nin güçlü figürü şimdi bir yağmurluk içinde duruyor, kendi
+quote_kind: translated
+summary: >-
+  Protestolara rağmen 'diktatör'ün yağmurluklu heykelinin açılışının yapıldığını bildirdi ve onu 'modern
+  Türkiye'nin güçlü figürü' olarak nitelendirdi.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Haber Handelsblad'dan alınmıştır ('naar het Hbld.
+  meldt'); ton hafifçe ironiktir, kutupluluk yoruma dayalıdır.
+verification_method: kaynak getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 404318dd143e
+  role: 044d13ff42e0
+  quote: 0ac98a2f1d85
+  summary: ca7f0c5f91ff
+  caveat: b2feb63f10ac
+  verification_method: ad8cee67138e

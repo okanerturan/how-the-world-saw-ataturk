@@ -1,0 +1,38 @@
+# Turkish for data/voices/1926/vorwaerts-1926-07-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: vorwaerts-1926-07-24
+voice: Artashes Abeghian
+role: Berlin'deki Ermeni bilim insanı ve göçmen; Vorwärts'ın (SPD) birinci sayfasında yazıyor
+quote: >-
+  Yalnızca diktatöre karşı değil, aynı zamanda onun iç ve dış politikasına karşı da yönelmiştir.
+quote_kind: translated
+summary: >-
+  Rejimi 'cumhuriyetten başka her şey' olan bir diktatörlük olarak nitelendirdi; buna karşın İzmir
+  muhalefetini monarşist, gerici ve İngiliz yanlısı olarak resmetti.
+caveat: >-
+  Vorwärts, 24 Temmuz 1926, s. 1'de ('Der Kampf um Kemal') Dr. Artasches Abeghian imzalı; alıntılanan cümle
+  muhalefetin amaçlarını betimler. Tek OCR (Deutsche Digitale Bibliothek / FES), okunaklı; sayfa görüntüsü
+  yeniden okunmadı.
+verification_note: >-
+  Alıntı birebir aynıdır ve 'das herrschende Diktaturregime alles andere ist als eine Republik' ifadesi
+  mevcuttur. Ancak (1) yazı Abeghian imzalı bir katkıdır; dolayısıyla konuşmacı (voice) gazetenin yayın
+  çizgisi değil, Vorwaerts'ta yayımlanan yazardır (çekince notu imzayı belirtir ancak voice alanında Vorwaerts
+  yazmaktadır). (2) Alıntılanan cümle muhalefeti betimler ('gegen den Diktator ... gegen seine innere und
+  aeussere Politik gerichtet') ve kendi başına Mustafa Kemal hakkında bir yargıda bulunmaz. (3) Yazı
+  muhalefeti monarşist, gerici, İngiliz yanlısı ve ütopyacı olarak nitelendirir ve Mustafa Kemal'in Rus
+  dostluğuna değer verdiğini söyler; bu nedenle 'hostile' kutupluluğu desteklenmemektedir, metne 'conflicted'
+  (veya 'analytic') uymaktadır. Öneri: kutupluluk çelişkili, konuşmacı Vorwaerts'ta Abeghian olarak
+  atfedilmeli.
+verification_method: >-
+  Deutsche Digitale Bibliothek gazete Solr (plainpagefulltext), tam sayfa OCR, doğrudan çekildi; makale
+  metninin tamamı okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0cb1c6dc57f2
+  role: 486d449e93be
+  quote: 704aee195d66
+  summary: 8bda36d7527e
+  caveat: 57daf5005a43
+  verification_note: 98b2c7a78cf1
+  verification_method: ce4214320935

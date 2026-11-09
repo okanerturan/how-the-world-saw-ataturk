@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: muzaffar-ali-1957
+voice: Nawab Muzaffar Ali
+voice_type: person
+role: Head of the Pakistani parliamentary delegation
+country: Pakistan
+country_now: Pakistan
+domain: politics
+date: "1957-06-07"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Names Atatürk and Jinnah as the sources of Pakistan's inspiration and says both worked and died for their
+  countries' independence.
+quote:
+  text: >-
+    Bu ilham membaını Türkiye ve Pakistan’ın büyük şahsiyetleri olan Atatürk ve Mehmet Ali Cinnah’a karşı
+    duyduğumuz derin hayranlık teşkil etmektedir.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 18 (printed p. 7). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "The source of this inspiration is the deep admiration we feel for Atatürk and
+  Muhammad Ali Jinnah, the great figures of Turkey and Pakistan." Book heading: 'Pakistan Parlamento Heyeti
+  Reisi Nevvab Muzaffer Ali', 7 Haziran 1957. Spelling of the name follows the book.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 18 (printed p. 7); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c18.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Pakistan Parlamento Heyeti Reisi Nevvab
+    Muzaffer Ali, 7 Haziran 1957'). Heading and quote on same page. Book spells the name 'Muzaffer Ali';
+    record says Muzaffar Ali (acceptable, note the book spelling).
+  checked_on: "2026-11-01"

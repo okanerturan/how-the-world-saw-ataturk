@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: observer-london-1922
+voice: The Observer (London)
+voice_type: press
+role: London Sunday paper, as cabled to NZ
+country: United Kingdom
+country_now: United Kingdom
+domain: press
+date: "1922-10-07"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: editorial
+evidence: P
+summary: >-
+  Said Kemal had killed Lloyd George's Coalition over Near East policy and called for the Prime Minister's
+  retirement.
+quote:
+  text: >-
+    The moribund Coalition is dead at last, killed by Kemal, as surely as the sparrow killed cock robin.
+  language: en
+mediated_by: Evening Post (Wellington) 9 Oct 1922, cable of 7 Oct from London
+caveat: >-
+  Quoted second-hand: Observer cable printed in Evening Post (Wellington) 9 Oct 1922 headline 'Muddled
+  Policy'; Wairarapa Age 10 Oct 1922 repeats the phrase.
+node: New Zealand Editors on Kemal, September 1922 – 1923
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/EP19221009.2.91
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    paperspast.natlib.govt.nz/newspapers/EP19221009.2.91 (Evening Post 9 Oct 1922, cable datelined London 7
+    Oct)
+  method: fetch
+  note: Quote verbatim as relayed in Evening Post cable; Observer original not seen
+  checked_on: "2026-10-29"

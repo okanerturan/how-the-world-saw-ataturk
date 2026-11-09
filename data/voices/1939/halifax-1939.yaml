@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: halifax-1939
+voice: Viscount Halifax
+voice_type: person
+role: British Foreign Secretary
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1939-10-26"
+era: posthumous
+polarity: instrumental
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Credited Atatürk's master hand with laying the foundations of the Anglo-Turkish friendship, as the treaty
+  was welcomed.
+quote:
+  text: >-
+    The foundations for that friendship were, as the noble Lord said, laid by the master hand of Kemal Atatürk
+  language: en
+node: Hansard After Atatürk, 1938–1939
+sources:
+  - url: https://hansard.parliament.uk/Lords/1939-10-26/debates/c60e1b5e-c728-4feb-bb0f-314734960f6e/TheWarReplyToHerrVonRibbentrop
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API Spoken.json, Lords 26 Oct 1939, Viscount Halifax
+  method: fetch
+  note: Verbatim.
+  checked_on: "2026-10-29"

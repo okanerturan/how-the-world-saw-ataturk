@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: vorwaerts-1926-07-24
+voice: Artashes Abeghian
+voice_type: person
+role: Armenian scholar and émigré in Berlin, writing on the front page of Vorwärts (SPD)
+country: Armenian diaspora (Germany)
+country_now: Germany
+domain: press
+date: "1926-07-24"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Called the regime a dictatorship 'anything but a republic', yet painted the İzmir opposition as monarchist,
+  reactionary and anglophile.
+quote:
+  text: >-
+    Sie ist nicht nur gegen den Diktator, sondern zugleich gegen seine innere und äußere Politik gerichtet.
+  language: de
+caveat: >-
+  Signed Dr. Artasches Abeghian in Vorwärts, 24 Jul 1926, p. 1 ('Der Kampf um Kemal'); the quoted sentence
+  describes the opposition's aims. Single OCR (Deutsche Digitale Bibliothek / FES), legible; page image not
+  re-read.
+node: Vorwärts and the Arbeiter-Zeitung on the Dictator, 1924–1930
+sources:
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/2QALXUBTAMK5NG63CL5GEJTUMGDJT7MT?issuepage=1
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    DDB: Vorwaerts 24 Jul 1926 (issue p. 1, continued p. 2), 'Der Kampf um Kemal. Die Hintergruende des
+    Urteils von Smyrna. Von Dr. Artasches Abeghian'
+  method: >-
+    Deutsche Digitale Bibliothek newspaper Solr (plainpagefulltext), full page OCR, fetched directly; read the
+    whole article text
+  note: >-
+    Quote verbatim, and 'das herrschende Diktaturregime alles andere ist als eine Republik' is present. But
+    (1) the article is a signed contribution by Abeghian, so the voice is the author printed in Vorwaerts, not
+    the paper's editorial line (the caveat notes the byline but the voice field says Vorwaerts). (2) The
+    quoted sentence describes the opposition ('gegen den Diktator ... gegen seine innere und aeussere Politik
+    gerichtet') and does not itself judge Kemal. (3) The article calls the opposition monarchist, reactionary,
+    anglophile and utopian, and says Kemal values Russian friendship, so polarity 'hostile' is not supported;
+    'conflicted' (or 'analytic') fits the text. Recommend: polarity conflicted, voice attributed to Abeghian
+    in Vorwaerts.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 10)
+  checked_on: "2026-11-01"

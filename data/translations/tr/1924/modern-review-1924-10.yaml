@@ -1,0 +1,30 @@
+# Turkish for data/voices/1924/modern-review-1924-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: modern-review-1924-10
+voice: The Modern Review
+role: >-
+  Kalküta'da yayımlanan İngilizce aylık dergi (editör Ramananda Chatterjee), editoryal Notlar
+quote: >-
+  Türkiye'de hilafetin kaldırılmasının nedenlerine ilişkin telgrafla yaptığı açıklamaya cevaben Gazi Kemal
+  Paşa'ya uzun bir telgraf gönderildiğinde, telgrafın alındığını bile bildirmedi ya da ona cevap vermedi.
+quote_kind: translated
+summary: >-
+  Yabancı Müslümanların Hint Müslümanlarına hiçbir zaman özel bir önem vermediğini, dolayısıyla Hintlilerin
+  Hindistan içi bağları vurgulaması gerektiğini savunmak için Kemal'in Merkezi Hilafet Komitesi karşısındaki
+  sessizliğini örnek gösterdi.
+caveat: >-
+  İmzasız Notlar; Kemal'in hiç yanıt vermediği iddiası Modern Review'un kendi savıdır. Sayfa yakl. 471-472.
+verification_note: ""
+verification_method: >-
+  alıntı bire bir aynı; çevreleyen argüman (yabancı Müslümanların Hint Müslümanlarına özel bir önem vermediği)
+  what_they_saw alanını destekliyor
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 84251b4a21a5
+  role: 817d0e761017
+  quote: ca1526e4057b
+  summary: "3888e3840119"
+  caveat: 4f82e31f7da5
+  verification_note: da39a3ee5e6b
+  verification_method: 243272cb2f2e

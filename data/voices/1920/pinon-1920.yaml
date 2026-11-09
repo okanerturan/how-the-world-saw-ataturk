@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pinon-1920
+voice: René Pinon
+voice_type: person
+role: French historian and foreign-affairs chronicler of the Revue des Deux Mondes
+country: France
+country_now: France
+domain: press
+date: "1920"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Treats Kemal as continuator and accomplice of Enver, Talaat and Djemal, and 'the real head of the
+  government' in a three-centred plot.
+quote:
+  text: Mustapha Kemal est le continuateur et le complice des Enver, des Talaat et des Djemal.
+  translation: Mustapha Kemal is the continuator and accomplice of the Envers, Talaats and Djemals.
+  language: fr
+caveat: >-
+  Cited as Pinon, 'L'Offensive de l'Asie', Revue des Deux Mondes, 6e période, tome 56 (1920), pp. 799–815,
+  quote on p. 808 (the 'masque d'un insurgé' line on p. 813). Wikisource transcription; the piece is dated by
+  the tome (March–April 1920, so 1920), the exact issue is not printed. Written before the Ankara Assembly's
+  victories; Pinon's reading is the 'Unionists in disguise' thesis of the Allied press in 1920, which he
+  states as fact.
+node: >-
+  French Pens on Kemal, 1920–1944 — Herriot, Pernot, Pinon, Delarue-Mardrus and Franklin-Bouillon
+sources:
+  - url: https://fr.wikisource.org/wiki/L%E2%80%99Offensive_de_l%E2%80%99Asie
+    archived: https://web.archive.org/web/20250425142526/https://fr.wikisource.org/wiki/L%E2%80%99Offensive_de_l%E2%80%99Asie
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: >-
+    fr.wikisource L'Offensive de l'Asie (Revue des Deux Mondes, 6e période, tome 56, 1920, pp. 799-815) via
+    action=render
+  method: fetched rendered page, string match, read context
+  note: >-
+    Quote verbatim. what_they_saw overstates slightly: Pinon says the plot has three centres (Moscow,
+    Constantinople, Berlin) and that 'sous le masque d'un insurgé, Mustapha Kemal est le véritable chef du
+    gouvernement' (the Young-Turk government in Constantinople), not that Kemal heads the whole plot. Suggest:
+    'real head of the Young-Turk government behind the Moscow-Constantinople-Berlin plot'. Date 1920 only
+    (issue not printed).
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (rounds 21–22)
+  checked_on: "2026-11-03"

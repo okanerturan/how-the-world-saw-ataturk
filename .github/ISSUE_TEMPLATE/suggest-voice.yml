@@ -1,0 +1,91 @@
+name: Suggest a voice / Ses öner
+description: A documented voice on Atatürk that is not in the archive yet, with its source. / Arşivde henüz bulunmayan, kaynağıyla belgelenmiş bir ses.
+title: "Voice / Ses: "
+labels: ["new voice"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A voice is an identifiable person, newspaper, institution or collective expressing a view of Atatürk, in a source you can point to. Personal opinions, unsourced claims and insults are not accepted. Please check the [exhibition](https://the-long-thread.pages.dev) first: the voice may already be there. Rules: [CONTRIBUTING.md](https://github.com/okanerturan/how-the-world-saw-ataturk/blob/main/CONTRIBUTING.md).
+
+        Ses; Atatürk hakkında görüş bildiren, kimliği belli bir kişi, gazete, kurum ya da topluluktur ve gösterebileceğiniz bir kaynakta yer alır. Kişisel görüşler, kaynaksız iddialar ve hakaretler kabul edilmez. Önce [sergiye](https://the-long-thread.pages.dev) bakın: ses zaten orada olabilir. Kurallar: [CONTRIBUTING.md](https://github.com/okanerturan/how-the-world-saw-ataturk/blob/main/CONTRIBUTING.md).
+
+        You can write in English or Turkish. / İngilizce ya da Türkçe yazabilirsiniz.
+  - type: input
+    id: voice
+    attributes:
+      label: Who / Kim
+      description: The person, newspaper, institution or collective, named as in the source. / Kaynakta geçtiği adıyla kişi, gazete, kurum ya da topluluk.
+      placeholder: "Albert Lebrun"
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Who they were / Kim olduğu
+      description: Their role at the time, in a few words. / O zamanki görevi, birkaç kelimeyle.
+      placeholder: "President of the French Republic / Fransa Cumhurbaşkanı"
+    validations:
+      required: false
+  - type: input
+    id: country
+    attributes:
+      label: Country / Ülke
+      description: Their country at the time, and today if different. / O zamanki ülkesi; farklıysa bugünkü ülkesi de.
+      placeholder: "British India (today India) / Britanya Hindistanı (bugün Hindistan)"
+    validations:
+      required: false
+  - type: input
+    id: date
+    attributes:
+      label: Date / Tarih
+      description: As precise as the source allows. / Kaynağın izin verdiği kadar kesin.
+      placeholder: "1938-11-10, 1938-11 or 1938"
+    validations:
+      required: true
+  - type: textarea
+    id: quote
+    attributes:
+      label: Their words, verbatim, in the original language / Sözleri, kelimesi kelimesine, özgün dilinde
+      description: Copy the passage exactly as the source prints it. Mark left-out words with … Leave empty if the source does not quote them. / Pasajı kaynakta basıldığı gibi kopyalayın. Atlanan kelimeleri … ile gösterin. Kaynak sözlerini aktarmıyorsa boş bırakın.
+      render: text
+    validations:
+      required: false
+  - type: textarea
+    id: translation
+    attributes:
+      label: Translation / Çeviri
+      description: An English or Turkish translation, if the words are in another language. Say who translated. / Sözler başka bir dildeyse İngilizce ya da Türkçe çevirisi. Kimin çevirdiğini belirtin.
+    validations:
+      required: false
+  - type: textarea
+    id: what
+    attributes:
+      label: What they said or did, in your words / Ne söyledi ya da yaptı, sizin cümlelerinizle
+      description: One or two neutral sentences. / Bir iki tarafsız cümle.
+    validations:
+      required: false
+  - type: textarea
+    id: source
+    attributes:
+      label: Source / Kaynak
+      description: A link, or a full citation (author, title, publisher or archive, year) with the page. / Bir bağlantı ya da sayfa numarasıyla tam künye (yazar, başlık, yayınevi ya da arşiv, yıl).
+      placeholder: "https://… or / ya da: S. I. Aralov, Vospominaniya sovetskogo diplomata 1922–1923 (Moscow, 1960), p. 35"
+    validations:
+      required: true
+  - type: textarea
+    id: found
+    attributes:
+      label: How you found it / Nasıl buldunuz
+      description: Optional. A search, a book, an archive, an AI tool (say which). / İsteğe bağlı. Bir arama, bir kitap, bir arşiv, bir yapay zekâ aracı (hangisi olduğunu belirtin).
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation / Onay
+      options:
+        - label: I have read this passage in the source myself / Bu pasajı kaynağın kendisinde okudum
+          required: true
+        - label: I can make the pull request myself / Çekme isteğini (pull request) kendim açabilirim
+          required: false

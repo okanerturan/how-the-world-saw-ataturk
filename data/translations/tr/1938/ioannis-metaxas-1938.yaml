@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/ioannis-metaxas-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ioannis-metaxas-1938
+voice: Ioannis Metaxas
+role: Yunan lider
+summary: >-
+  Cenazeye gönderilen yabancı özel heyetler arasında adı geçti; herhangi bir görüş belirtilmedi.
+caveat: Katılımı ajans haberlerinde iki kez duyuruldu; görgü tanığı raporu hâlâ aranıyor.
+mediated_by: Havas/Reuter telgrafları (Delpher), 17 Kasım 1938
+verification_note: >-
+  Kayıtta atıf yapılan kaynak yalnızca Wikipedia'dır; Delpher doğrulamaktadır. Ajans haberi 17 Kasım tarihli,
+  kayıt tarihi 21 Kasım (cenaze).
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7110968bef53
+  role: 9ca37fdc27b3
+  summary: 20c8245c15db
+  caveat: 70b4b6f64e4b
+  mediated_by: 383926753fae
+  verification_note: b08cad3e6eb3
+  verification_method: ad8cee67138e

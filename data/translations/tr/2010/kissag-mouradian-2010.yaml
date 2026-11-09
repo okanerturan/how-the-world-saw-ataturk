@@ -1,0 +1,30 @@
+# Turkish for data/voices/2010/kissag-mouradian-2010.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kissag-mouradian-2010
+voice: Başpiskopos Kissag Mouradian
+role: Arjantin Ermeni cemaati lideri
+quote: imha planını sürdürdü
+quote_kind: translated
+summary: >-
+  Cemaatin protestosuna öncülük etti; 27 Mayıs tarihli ücretli ilanda Atatürk'ün 1915 'imha planını
+  sürdürdüğü' ve inkârını başlattığı söylendi; büst izni 28 Mayıs'ta iptal edildi.
+caveat: >-
+  Alıntılanan sözler Mouradian'ın kişisel bir açıklaması değil, Armenian Mirror-Spectator tarafından (AGBU,
+  ADL ve kilise mülakatlarından derlenerek) aktarıldığı şekliyle cemaatin ilanından alınmıştır. Ermeni
+  basınındaki anlatımlar taraflıdır; bu not suçlama hakkında hüküm vermez. Anlaşmazlığa dair olgular
+  tartışmalıdır.
+verification_note: >-
+  Mouradian'ın adı, 'continued the extermination plan' alıntısı ve 28 Mayıs tarihli geri çekme kararı
+  erişilebilir üç sayfada yer almamaktadır (Reuters ve Buenos Aires Herald yalnızca genel olarak Ermeni
+  lobisini ve iptal edilen büstü ele almaktadır); Armenian Weekly sayfası ücretli duvar (paywall) arkasındadır
+verification_method: getirme (fetch)
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 9655f2b99edb
+  role: 385eeb5b0765
+  quote: 8b1ac78b681b
+  summary: b290509e962f
+  caveat: 8dd220240a5c
+  verification_note: 0a3d22245280
+  verification_method: ad8cee67138e

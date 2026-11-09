@@ -1,0 +1,28 @@
+# Turkish for data/voices/1924/rashid-rida-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rashid-rida-1924
+voice: Rashid Rida
+role: Selefi ilahiyatçı; al-Manar editörü
+quote: onların sapkın fikri
+quote_kind: translated
+summary: >-
+  Hilafetin kaldırılmasından sonra al-Manar'ı Ankara'nın din politikasına karşı çevirdi; Türkçe Kur'an
+  tercümesini Arapça Kur'an'a karşı sapkın bir komplo olarak gördü.
+caveat: Wilson, tercümelerde Kemal'in hiçbir payı olmadığını gösterir; Rida'nın okuması hatalıydı.
+mediated_by: Wilson 2009 (IJMES) ← al-Manar 25 (1924) s. 794
+verification_note: >-
+  Alıntı, Wilson'ın Rida'dan yaptığı İngilizce çeviridir; Wilson, Rida'nın hedefinin Ankara hükümeti olduğunu
+  ve Kemal'in bunda hiçbir payı bulunmadığını vurgular; Rida alıntıda Kemal'in adını anmaz. 'after caliphate
+  abolition' çerçevesi pasajda yer almamaktadır.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8500544dcf5c
+  role: bb8d03d914df
+  quote: 79c87d94950b
+  summary: 06d04c0938e5
+  caveat: 3790c50a196c
+  mediated_by: 7bbec9116af9
+  verification_note: df459996f53d
+  verification_method: 939bb46a04c3

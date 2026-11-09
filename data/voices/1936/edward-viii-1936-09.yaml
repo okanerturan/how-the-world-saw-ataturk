@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: edward-viii-1936-09
+voice: Edward VIII
+voice_type: person
+role: King of the United Kingdom, private visit on the yacht Nahlin
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1936-09-04"
+era: contemporary
+polarity: witness
+intensity: 2
+artifact: meeting
+evidence: P+J
+summary: >-
+  Received by Atatürk at Istanbul, exchanged visits, drove with him through the city, invited him to London,
+  and telegraphed thanks from Sofia.
+quote:
+  text: Türkiye'de ilk ikametimden pek zevkli bir hatıra muhafaza edeceğim.
+  language: tr
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri vol. 28 (Kaynak 2010) pp. 281–283 ← Edward's telegram, Sofia 7 Sept 1936 (Şimşir,
+  Atatürk ve Yabancı Devlet Başkanları vol. 2 pp. 342–343) and Cumhuriyet, Akşam, Kurun 7 Sept 1936
+caveat: >-
+  Translation of the Turkish rendering of his French telegram: 'I shall keep a most pleasant memory of my
+  first stay in Turkey.' At Sirkeci station (6 Sept) he told Atatürk in French he hoped he would one day
+  honour London. Corroborated by the British annual report for 1936 (para. 61) and NZ wire reports of 5–7 Sept
+  1936; his memoir A King's Story (1951) recalls Atatürk greeting him ashore and leaving his bullet-proof car.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2028%20%281935%20-%201936%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202010%20%281.%20Bas%C4%B1m%29%2C%20398%20sf.pdf
+  - url: https://paperspast.natlib.govt.nz/newspapers/EP19360905.2.67
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%238.pdf
+  - url: https://archive.org/details/kingsstorymemoir00wind
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org butuneserler, djvu text of ABE vol. 28, pp. 281–283 (Sirkeci station, heading 6 Sept 1936;
+    reply to his telegram 8 Sept, footnote printing his Sofia telegram of 7 Sept); archive.org
+    ingiliz-belgelerinde-ataturk, djvu text of Şimşir vol. VIII, annual report for 1936 para. 61
+  method: archive.org open djvu text read
+  note: >-
+    Quote verbatim in the footnote on p. 283 ('Türkiye'de ilk ikametimden pek zevkli bir hatıra muhafaza
+    edeceğim'). The London remark is on p. 281: 'Sizin de bir gün Londra'yı şereflendireceğinizi ümit ederim'.
+    The British report para. 61 confirms arrival on the morning of 4 Sept, the President greeting him on
+    landing and driving with him to the Embassy, the exchanged visits, and 'King Edward remained in Istanbul
+    until the 6 September'. CORRECTION: the caveat's 'At Sirkeci station (5 Sept)' should be 6 Sept. Papers
+    Past EP19360905.2.67 returned an empty page to curl and was not read; A King's Story was not checked. A
+    major figure with a substantive meeting, so it passes.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31)
+  checked_on: "2026-11-05"

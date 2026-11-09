@@ -1,0 +1,33 @@
+# Turkish for data/voices/1938/aikman-1938-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: aikman-1938-11
+voice: A. Aikman
+role: Bengal Avrupalı Üyesi, Merkezi Yasama Meclisi
+quote: >-
+  Mustafa Kemal Paşa'nın vefatıyla uygarlık seçkin bir şahsiyeti, bir askeri, bir diplomatı ve bir ulus
+  kurucusunu kaybetmiştir
+quote_kind: translated
+summary: >-
+  Avrupa Grubu adına Kemal'in asker, diplomat ve her şeyden önce tek bir insanın cesaretinin neler
+  başarabileceğinin eşsiz bir örneği olan ulus kurucusu olarak yasını tutuyor.
+caveat: >-
+  Legislative Assembly Debates, c. VII (Government of India Press, Delhi 1938), 14 Kasım 1938, s. 2955-56. Lok
+  Sabha Secretariat / Government of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR
+  aracılığıyla. Adının baş harfi basıldığı gibidir; tam adı tutanakta verilmemiştir. Metin resmi tutanağın OCR
+  çıktısından okunmuştur; bariz OCR hataları alıntıda sessizce düzeltilmiştir.
+verification_note: >-
+  Alıntı birebir. 'For the European Group' ifadesi yerinde ('my Party' adına konuşuyor). Kısa bir konuşma için
+  yoğunluk 1 kabul edilebilir; 2 de savunulabilir.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden çekildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa başlıkları ile konuşma metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: abc810aaf5c0
+  role: 6dd3e598c645
+  quote: 5df4538e8c20
+  summary: 736aa33f6ac7
+  caveat: d0ba94994ac7
+  verification_note: 61f8226237b7
+  verification_method: 634050edd257

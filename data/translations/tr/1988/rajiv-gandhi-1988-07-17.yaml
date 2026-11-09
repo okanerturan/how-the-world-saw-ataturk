@@ -1,0 +1,35 @@
+# Turkish for data/voices/1988/rajiv-gandhi-1988-07-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rajiv-gandhi-1988-07-17
+voice: Rajiv Gandhi
+role: Hindistan Başbakanı
+quote: >-
+  Kemal Atatürk, bize özgürlüğümüz için mücadele etme ilhamı veren Hindistan vizyonunu tarif ederken
+  Jawaharlal Nehru'nun sık sık kendisinin ve halkının önüne koyduğu parlak örnekti.
+quote_kind: translated
+summary: >-
+  Ankara'da, Atatürk'ü Nehru'nun Hindistan'ın özgürlük mücadelesi için örnek gösterdiği parlak örnek, onun
+  laik Cumhuriyeti'ni ise dikkate değer, ilham verici bir örnek olarak nitelendirir.
+caveat: >-
+  Başbakan Turgut Özal'ın verdiği ziyafetteki konuşma, Ankara, 17 Temmuz 1988; Selected Speeches and Writings,
+  c. 4, s. 361–364 (archive.org açık metni). Nehru'nun 1928'de Kalküta'da 'Kemal Pasha' için yaptığı övgüyü ve
+  Atatürk'ün Cumhuriyet'in 'can never be the land of sheikhs, dervishes' sözünü alıntılar, ardından şöyle der:
+  'The achievements of Ataturk's Republic of Culture remain a remarkable, inspiring example.' Ayrıca: 'Turkey
+  under Ataturk became a byword for modernisation.' Diplomatik ziyafet konuşması. Türkçe kitaplarda dolaşan
+  'Kendi özgürlük mücadelemizde Kemal Atatürk'ten ilham aldık' şeklindeki Türkçe aktarım anlam bakımından bu
+  pasajla örtüşmektedir.
+verification_note: >-
+  Alıntı kelimesi kelimesine mevcut; 'Republic of Culture remain a remarkable, inspiring example' (s. 363) ve
+  'byword for modernisation' (s. 363/364) ifadeleri yer alıyor. Sayfa düzeltmesi: konuşma 362'de değil, s.
+  361'de (dipnotlu ilk sayfa) başlıyor. P dürüst.
+verification_method: archive.org açık OCR metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 56e51c902e1b
+  role: 9b56e76422de
+  quote: 853142a3a57d
+  summary: 115d92a2a8e4
+  caveat: 610032a13995
+  verification_note: 65dae884648d
+  verification_method: 5564a28f2471

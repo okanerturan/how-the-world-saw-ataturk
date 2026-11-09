@@ -1,0 +1,24 @@
+# Turkish for data/voices/1926/tunali-hilmi-1926-11-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tunali-hilmi-1926-11-01
+voice: Tunalı Hilmi (Bolu)
+role: Bolu milletvekili (1921–23), Zonguldak milletvekili (1923–27)
+quote: Yaşasın Cumhuriyet... Yaşa Gazi...
+quote_kind: original-turkish
+summary: Gazi'nin açılış konuşmasını 'Yaşasın Cumhuriyet' ve 'Yaşa Gazi' sözleriyle kesti.
+caveat: >-
+  Tutanaklarda basılı salondan ara sözler; alıntı, konuşmanın farklı noktalarındaki iki ayrı ifadeyi
+  birleştirir (s. 2 ve s. 5). OCR 'Cumıhuriyet' verir. 'Tunalı Hilmi Bey (Zonguldak)' olarak basılıdır;
+  konuşmacı dizgesi önceki kayıtları izler.
+verification_note: Salondan iki ayrı ara söz (s. 2 ve 5) tek bir alıntıda birleştirilmiş; OCR 'Cumıhuriyet'.
+verification_method: pdftotext; tire birleştirme ve OCR normalleştirmesi sonrasında birebir
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 40e9ad23b11d
+  role: 3f9108a0b5fe
+  quote: 7a9ed417868f
+  summary: 1888d69ee00a
+  caveat: c39e0ddb4202
+  verification_note: ffdb1fc5e3c4
+  verification_method: 66771a4fad3c

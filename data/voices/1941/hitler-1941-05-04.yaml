@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hitler-1941-05-04
+voice: Adolf Hitler
+voice_type: person
+role: Führer and Reich Chancellor; Reichstag speech on the Balkan campaign
+country: Germany
+country_now: Germany
+domain: politics
+date: "1941-05-04"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: volkisch-purifier
+artifact: speech
+evidence: P
+summary: >-
+  Calls the unnamed 'reconstructor of the new Turkey' great and ingenious, who gave the beaten allies 'the
+  first example of resurrection'.
+quote:
+  text: >-
+    Der große geniale Neuschöpfer der jungen Türkei gab als erster ein wunderbares Vorbild für die Erhebung
+    der damals vom Glück verlassenen und vom Schicksal so entsetzlich geschlagenen Verbündeten.
+  language: de
+caveat: >-
+  [translation] 'The great, ingenious new creator of the young Turkey was the first to give a wonderful
+  example of the rising-up of the allies who were then abandoned by fortune and so terribly struck by fate.'
+  Verhandlungen des Reichstags, 4. Wahlperiode, Bd. 460, 6. Sitzung, 4 May 1941, p. 85 C (BSB bsb00000613,
+  image 86; read on the page image by the main agent, 3 Nov 2026). The passage opens 'Die Türkei war im
+  Weltkrieg unser Verbündeter' and goes on to praise 'the realistic attitude of her state leadership' (İnönü)
+  for keeping Turkey out of the war. Atatürk is unnamed, identified by context. The BBC translation previously
+  stored ('the great and ingenious reconstructor of the new Turkey … the first example of resurrection') is
+  loose.
+node: Statesmen on Atatürk in Their Own Words, Memoirs and Speeches
+sources:
+  - url: https://www.digitale-sammlungen.de/en/view/bsb00000613?page=86
+  - url: https://archive.org/details/adolf-hitler-on-the-balkans-campaign
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    archive.org adolf-hitler-on-the-balkans-campaign djvu.txt (BBC translation of the Reichstag speech of 4
+    May 1941)
+  method: >-
+    curl of the open djvu text, read in context; 1 paid German search and 1 Turkish search and 2 fts queries
+    for the German original, all without result
+  note: >-
+    Quote verbatim, speech date 4 May 1941 correct: 'Turkey had been our ally in the World War. Its
+    unfortunate result was as heavy a burden for Turkey as it was for us. The great and ingenious
+    reconstructor of the new Turkey gave his Allies, beaten by fate, the first example of resurrection.'
+    Atatürk is not named, so the identification is an inference (strong: WWI ally, 'new Turkey',
+    'resurrection'; in 1941 the Turkish head of state was İnönü, so the reference is to the dead founder). The
+    German original was not found ('Neugestalter der neuen Türkei' returns nothing). Keep only with an
+    explicit 'unnamed, identified by context' flag; intensity 1 and the instrumental note are fair. UPGRADE
+    2026-11-03 (main agent): German original read on the Reichstag protocol page image (Bd. 460, p. 85 C);
+    quote replaced, evidence P.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 15)
+  checked_on: "2026-11-03"

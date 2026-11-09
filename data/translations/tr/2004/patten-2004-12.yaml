@@ -1,0 +1,45 @@
+# Turkish for data/voices/2004/patten-2004-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: patten-2004-12
+voice: John Patten (Lord Patten)
+role: Eski Eğitim Bakanı, Muhafazakâr Partili Lordlar Kamarası üyesi
+quote: >-
+  Ayrıca hepimizin aradığı, Kemal Atatürk'ün mirasının —laik bir toplum olarak Türkiye'nin— Avrupa Birliği'nin
+  içinde ya da dışında korunacağına ve Türkiye'de teokratik bir devletin ortaya çıkma ihtimalinin
+  bulunmadığına dair güvence de vardır.
+quote_kind: translated
+summary: >-
+  'Kemal Atatürk'ün mirası'nı, AB içinde ya da dışında korunması herkesin aradığı güvence olan laik bir
+  Türkiye olarak ele alır.
+caveat: >-
+  Turkey and the EU, HL Deb 15 Aralık 2004, cc1355-57. Resmî Hansard'ın TheyWorkForYou'daki dökümü. Sütun
+  numarası Patten'ın konuşmasının aralığı olarak verilmiştir (sayfanın atıf satırlarına göre konuşması Lord
+  Rea'nınkinden sonra gelir, Lord Dahrendorf'unkinden önce biter). Ayrıca Patten'ın 23 Ekim 2006 tarihli
+  yazılı soru önergesi, İpek Çalışlar'ın 'allegedly insulting Kemal Atatürk' suçlamasıyla yargılanması
+  konusunda ne gibi girişimlerde bulunulduğunu sorar: usule ilişkin bir değinmedir, kayda alınmamıştır.
+  Kontrol: alıntı c1357'de yer almaktadır (historic-hansard); TWFY konuşmanın başladığı sütunu verir. Kontrol:
+  konuşmacı Chris Patten (2005'ten itibaren Lordlar Kamarası üyesi) değil, John Patten'dır (Lord Patten,
+  1997'den itibaren Lordlar Kamarası üyesi, eski Eğitim Bakanı).
+verification_note: >-
+  Alıntı birebirdir ve g1357.0, HL Deb 15 Aralık 2004, c1357'deki konuşmada yer almaktadır (cc1355-57 değil;
+  c1355 Lord Rea'ya aittir). Ancak konuşmacı Chris Patten değil, John Patten, Lord Patten'dır (1997'den beri
+  Muhafazakâr Partili Lordlar Kamarası üyesi, eski Eğitim Bakanı; TheyWorkForYou peer 12938, 'Entered the
+  House of Lords in 1997'). Aynı konuşmada kendisinin 'never considered ... subtle enough to serve in matters
+  of foreign and commonwealth affairs' olduğunu söyler; Chris Patten (Kasım 2004'e kadar AB Komiseri) ancak
+  2005'te Lordlar Kamarası üyesi olmuştur. Düzeltme: voice 'John Patten (Lord Patten)', role 'Conservative
+  peer, former Education Secretary', 'Former EU Commissioner and Governor of Hong Kong' ifadesini çıkar,
+  caveat c1357. Hayranlık 1 (admiring 1) kutupluluğu zayıftır: laik mirasın korunmasına yönelik araçsal bir
+  kaygı söz konusudur; araçsal 1 (instrumental 1) daha uygundur.
+verification_method: >-
+  getirilen sayfa, konuşmacı, tarih ve kimlik ile sabitlenmiş konuşma bloğu içindeki alıntının
+  normalleştirilmiş metin eşleşmesi; sütun, historic-hansard sütun işaretlerinden tespit edildi
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: e032f6941a17
+  role: aaaadaeec449
+  quote: 9b4e030bf54a
+  summary: 0ac5604625b7
+  caveat: "527832428031"
+  verification_note: 48ecdf87b04b
+  verification_method: 59db5bce95bc

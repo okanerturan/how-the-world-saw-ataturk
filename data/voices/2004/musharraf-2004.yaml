@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: musharraf-2004
+voice: Pervez Musharraf
+voice_type: person
+role: President of Pakistan
+country: Pakistan
+country_now: Pakistan
+domain: politics
+date: "2004-01-20"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Calls Atatürk a hero and says Muslims in the subcontinent often gave his name to their children.
+quote:
+  text: >-
+    Kemal Atatürk bir kahramandı. (Alkışlar) Bizim bölgemizde bulunan Müslümanların sık sık kendi çocuklarına
+    verdiği ismin sahibiydi.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 187 (printed p. 176). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "Kemal Atatürk was a hero. (Applause) He was the bearer of a name that Muslims in our
+  region often gave their own children." Same speech pairs Jinnah and Atatürk on peace (PDF p. 191). The
+  vault's existing note says Atatürk was his hero in a general way; this is his stated view in the TBMM.
+  Heading: 'Pakistan Cumhurbaşkanı Pervez Müşerref', 20 Ocak 2004.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 187 (printed p. 176); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c187.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Pakistan Cumhurbaşkanı Pervez Müşerref,
+    44. Birleşim, 20 Ocak 2004 (heading on PDF p. 186)'). Original-language text not located within the search
+    budget (probably English); minutes' Turkish is the only text confirmed.
+  checked_on: "2026-11-01"

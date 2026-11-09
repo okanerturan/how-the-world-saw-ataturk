@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/l-humanite-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: l-humanite-1938
+voice: L'Humanité
+role: Paris komünist günlük gazetesi
+quote: >-
+  Bununla birlikte söyleyelim ki Atatürk hükümeti, sosyalist ve komünist harekete karşı acımasız bir baskı
+  uyguladı.
+quote_kind: translated
+summary: >-
+  Türkiye'yi hilafetten ve İngiliz emellerinden kurtardı, Sovyet dostluğunu korudu, ancak sosyalistleri ve
+  komünistleri bastırdı; ölümü Türkiye'yi Hitler'e açabilir.
+caveat: >-
+  Alıntı Gallica OCR metninden kopyalandı; makalenin tamamı olarak değil, arama sonucu parçaları olarak okundu.
+verification_note: >-
+  Birinci sayfa: 'libéra la Turquie du joug du califat et des visées anglaises ... disparition peut favoriser
+  la poussée hitlérienne'. Tam sayfa değil, yalnızca parçalar; alıntı s. 3 parçasında birebir yer alıyor.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1dc1e2aacc89
+  role: eeeadc09fd53
+  quote: 1926ad5a479e
+  summary: f9a407d439a8
+  caveat: 832b40f430db
+  verification_note: 7fff32e73679
+  verification_method: ad8cee67138e

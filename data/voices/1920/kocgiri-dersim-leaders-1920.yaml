@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kocgiri-dersim-leaders-1920
+voice: Koçgiri and Dersim Kurdish leaders
+voice_type: collective
+role: Tribal leaders of Koçgiri and Dersim
+country: Turkish nationalist Anatolia
+country_now: Turkey
+domain: politics
+date: "1920-11-15"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: telegram
+evidence: S
+summary: >-
+  Demanded Ankara answer by 24 November whether it accepted Kurdish autonomy agreed with the Sultan's
+  government, and free prisoners and withdraw officials and troops.
+mediated_by: Olson 1989 <- Dersimi, Kürdistan p.143
+caveat: >-
+  Form (telegram vs written declaration) unclear in the excerpt; gaze is on the Ankara government, not Mustafa
+  Kemal by name. text unchecked (source unreachable 2026-10-29)
+node: Koçgiri Leaders Write to Ankara, 1920
+sources:
+  - url: https://doi.org/10.1163/22138617-0690106006
+verification:
+  verdict: secondary-only
+  checked_against: https://doi.org/10.1163/22138617-0690106006 (Brill landing page, paywalled; abstract only)
+  method: fetch
+  note: >-
+    Olson 1989 article paywalled; 24 Nov deadline / telegram claim and Dersimi p.143 not checkable.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

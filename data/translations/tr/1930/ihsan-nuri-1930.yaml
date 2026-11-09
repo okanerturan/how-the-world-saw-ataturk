@@ -1,0 +1,24 @@
+# Turkish for data/voices/1930/ihsan-nuri-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ihsan-nuri-1930
+voice: İhsan Nuri Paşa
+role: Kürt subay, Ağrı Dağı'nda Hoybun olağanüstü komiseri
+summary: >-
+  Ağrı ayaklanmasının askeri ve sivil yapısını yönetti; makaleye göre Kürt milliyetçiliği, Kemalist Türk
+  milliyetçiliğine bir tepki olmaktan öteye gitmiyordu.
+caveat: >-
+  Hoybun'a sunulan 1927-30 raporları ARF arşivinde korunmaktadır; bu kayıt ikincil okumalara dayanmaktadır;
+  Atatürk, harekât emrini veren 28 Aralık 1929 tarihli kabineye başkanlık etmiştir.
+mediated_by: Kürt Araştırmaları değerlendirme yazısı <- ARF arşivi; DergiPark Hoybun çalışması
+verification_note: Atatürk'e bakış dolaylıdır (Kemalist milliyetçilik); DergiPark 798293 çekilmedi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f52f086cc4ee
+  role: e9da84b88261
+  summary: 33b0529301ac
+  caveat: 97f61db7ad20
+  mediated_by: 092ea041c836
+  verification_note: c44839df2e32
+  verification_method: ad8cee67138e

@@ -1,0 +1,20 @@
+{
+  "name": "how-the-world-saw-ataturk",
+  "private": true,
+  "description": "Documented voices on Mustafa Kemal Atatürk, 1919–2026: one YAML file per voice, each with its sources and an independent check.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate.mjs",
+    "new": "node tools/new-voice.mjs",
+    "export": "node tools/export.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "ajv": "8.17.1",
+    "ajv-formats": "3.0.1",
+    "yaml": "2.6.1"
+  }
+}

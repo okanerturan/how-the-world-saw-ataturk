@@ -1,0 +1,37 @@
+# Turkish for data/voices/1938/iorga-1938-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: iorga-1938-10
+voice: Nicolae Iorga
+role: Rumen tarihçi, eski başbakan, üniversite profesörü
+quote: >-
+  Geçenlerde Bay Atatürk hastalandığında, bütün Türklerin ruhunda ne derin bir kaygı, bir acı duygusu vardı:
+  Öyle görünüyor ki, artık ulusal hâle gelmiş olan İmparatorluğun eski ihtişamını yeniden kuran o kişinin yok
+  oluşunun, vatanın çöküşü ve ulusun dünyada bir şey ifade eden halklar arasından silinişi anlamına geleceğine
+  inanmışlardı.
+quote_kind: translated
+summary: >-
+  Bir ulusun, İmparatorluğun ihtişamını yeniden kuran tek bir adamda toplanabileceğinin kanıtı olarak Atatürk
+  hastalandığında Türklerin duyduğu acıyı örnek gösterir.
+caveat: >-
+  Bükreş Üniversitesindeki açılış dersi, 31 Ekim 1938 (Atatürk'ün ölümünden on gün önce); Vălenii-de-Munte,
+  Datina Românească, 1939 basımı, Revista Istorică, yıl XXV, sayı 1-3'ten ayrıbasım (tümü Wikisource
+  sayfasında belirtilmiştir). Iorga, ulusların tek bir önderde toplandığı savında Atatürk'ü (Hitler ve
+  Mussolini ile birlikte) bir örnek olarak kullanır ve devamında Rumen kralının etrafında kenetlenme çağrısı
+  yapar: övgü bu sava hizmet etmektedir. Basılı broşürün Wikisource transkripsiyonu; tarama incelenmedi.
+  Çeviri arşive aittir.
+verification_note: >-
+  Birebir aynı (basıldığı şekliyle eski î/â imlası); çeviri sadık. 31 Ekim 1938 tarih satırı sayfada
+  doğrulandı, dolayısıyla çağdaş tanıklık sınıflandırması doğrudur. Rumen kralının etrafında kenetlenme savı
+  içinde kullanılan kendi değerlendirici görüşü ('a restabilit gloria de odinioară a Imperiului'); bakış
+  uygun, hem araçsal hem hayranlık ifadeli nitelemesi savunulabilir.
+verification_method: işlenmiş sayfa çekildi, dizge eşleştirildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2c4ef479e2b9
+  role: e3bbd122987f
+  quote: 62e20579ab8b
+  summary: 9d94c00a1a2b
+  caveat: 194405ae6aa3
+  verification_note: 44a766ff4419
+  verification_method: 72f7fa42fcd7

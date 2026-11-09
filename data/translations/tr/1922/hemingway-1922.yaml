@@ -1,0 +1,47 @@
+# Turkish for data/voices/1922/hemingway-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hemingway-1922
+voice: Ernest Hemingway
+role: Toronto Daily Star muhabiri (23 yaşında)
+quote: >-
+  Peygamberin yasalarına gösterilen bu bağlılık, bizzat Kemal'in ve kurmaylarının içkiyi sevmesine engel
+  olmuyor
+quote_kind: translated
+summary: >-
+  İğneleyici habercilik: Kemal Anadolu'da alkolü yasaklarken kendisi ve kurmayları içki içer.
+caveat: >-
+  Ton, açık bir hükümden ziyade habercilik ironisidir; 'witness' kutupluluğu en yakın seçenektir. 19 Ekim 1922
+  tarihli 'Waiting for an Orgy' başlıklı yazı, 'Kemal is hand in glove with the Soviets and his entry will
+  wipe out the greatest Russian sanctuary.' der. Bir araştırmacı (Studies in the Novel/TSL 2012), 19 Ekim
+  tarihli bir haberi, Dateline s. 296, 'All the East says that Mustapha Kemal is a great man' şeklinde
+  alıntılar; bu cümle okunan yeniden basımlarda BULUNAMADIĞI için kullanılmamıştır. 'Kemal is hand in glove
+  with the Soviets' satırı farklı, tarihsiz bir haberden alınmıştır ve bu kaydın parçası değildir.
+mediated_by: >-
+  Hemingway, Dateline: Toronto (Scribner's 1985) içindeki yeniden basım, The Archive of American Journalism
+  aracılığıyla
+verification_note: >-
+  Alıntı 9 Ekim 1922 tarihli makalede birebir yer alıyor: 'This devotion to the laws of the prophet does not
+  prevent Kemal himself and his staff from liking their liquor, as the American, who went to Smyrna to protect
+  American tobacco, found when his eight bottles of cognac made him the most popular man in Asia Minor at
+  Kemalist headquarters.' İçki yasağı iddiaları 'A member of the Anatolian government tells me' ifadesiyle
+  aktarılıyor. Sorun: what_they_saw ayrıca Kemal'in 'hand in glove with the Soviets' olduğunu söylüyor ki bu
+  ifade 9 Ekim makalesinde YOKTUR (0 eşleşme); farklı bir haberde (bookreadfree Dateline s. 25, İstanbul, Rus
+  mülteciler hakkında) yer alıyor ve sayfa bunun tarihini vermiyor (çekince notu 19 Ekim 'Waiting for an Orgy'
+  diyor, burada doğrulanmadı). Dolayısıyla kaydın tek tarihi olan 1922-10-09 bu ibareyi kapsamıyor. DÜZELTME:
+  what_they_saw alanından 'he is hand in glove with the Soviets' ifadesini silin (veya kendi tarihli
+  kaynağıyla ikinci bir kayda ayırın) ve alıntıyı 1922-10-09 tarihi altında tutun. 'witness' kutupluluğu
+  doğrudur; 'Reprint in Dateline: Toronto' kaynak aracılığı kitap sayfası üzerinden değil, web yeniden
+  basımları üzerindendir.
+verification_method: >-
+  Her iki sayfanın tools/ms ile ücretsiz çekimi; her birinde alıntılanan cümle ve 'hand in glove' arandı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a45e723bf061
+  role: 16fdeec399a4
+  quote: 46cc5e017f44
+  summary: 295ad693ecb5
+  caveat: 69f18aca0243
+  mediated_by: 663210dfad03
+  verification_note: dd46f11610a1
+  verification_method: c234f966b15e

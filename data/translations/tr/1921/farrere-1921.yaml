@@ -1,0 +1,40 @@
+# Turkish for data/voices/1921/farrere-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: farrere-1921
+voice: Claude Farrère
+role: Fransız romancı ve eski deniz subayı
+quote: Ankara'daki dostum Mustafa Kemal Paşa'nın yanında
+quote_kind: translated
+summary: >-
+  Fransız olmasaydı Türkiye için Yunanistan ve İngiltere'ye karşı 'Ankara'daki dostum Mustafa Kemal Paşa'nın
+  yanında' savaşacağını söyler.
+caveat: >-
+  L'extraordinaire aventure d'Achmet pacha Djemaleddine (Flammarion, 1921) eserinin önsözü (metin içinde,
+  Kilikya ve Suriye üzerindeki Fransız-Türk anlaşmazlığının doruk noktasında, 1921 olarak
+  tarihlendirilmiştir), s. xviii (pasaj 'AVANT-PROPOS XIX' üst başlığının hemen üzerinde sona erer).
+  archive.org OCR'ı 'Angora' kelimesini 'Augora' olarak yanlış okur; aynı önsözün Tercüman baskısındaki Türkçe
+  çevirisinde (archive.org claude-farrere-turklerin-manevi-gucu, s. 22) 'Ankaralı dostum Kemal Paşa' olarak
+  geçmesi doğru okumayı kesinleştirir. Tam cümle: 'si je n'étais Français, de quel bon coeur je me battrais
+  pour la Turquie contre la Grèce, contre l'Angleterre, contre à peu près toute l'Europe, aux côtés de mon ami
+  d'Angora, Kemal-pacha!' Cildin başka bir yerinde bir öykünün metni Kemal Gazi'yi 'l'admirable' olarak
+  nitelendirir (s. 156-157), ancak bu satır kurmacanın içinde yer aldığından hesaba katılmamıştır. Mevcut
+  People notunda Farrère'in Kemal ile 1922'de tanıştığı belirtilmektedir (daha sonraki anlatımı olan Souvenirs
+  1953, yalnızca kesit olarak, Gazi ile 'au lendemain de la Sakharia', yani 1921 sonlarında tanıştığını
+  söyler). Pasaj, Avant-propos bölümünün 1 numaralı dipnotudur, s. xviii–xix.
+verification_note: >-
+  Pasaj bulundu: 'si je n'étais Français, de quel bon coeur je me battrais pour la Turquie contre la Grèce,
+  contre l'Angleterre, contre à peu près toute l'Europe, aux côtés de mon ami d'Angora, Kemal-pacha!' (OCR
+  'Augora'). Ana önsöz metninde değil, Avant-propos bölümünün s. xviii'in altına basılıp xix'a taşan (1)
+  numaralı dipnotunda yer almaktadır; dipnotun kendisi metni 'actuellement (1921)' olarak tarihlendirir.
+  Hayranlık ifadeli, tek cümle; yoğunluk düzeyi 2 cömerttir (1 yeterli olurdu).
+verification_method: Açık djvu metninin curl ile çekimi, bağlam içinde okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f8397e729157
+  role: 540814d23a0b
+  quote: a397c35396ad
+  summary: 68ac5f432ef6
+  caveat: 0f36f770ed35
+  verification_note: 4b73874a5b51
+  verification_method: fc5e0bd9a728

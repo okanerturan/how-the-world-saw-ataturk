@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/ekorces-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ekorces-1938
+voice: Ekorces
+role: Korçë gazetesi
+quote: >-
+  Türkiye'nin adı, ulusal kahramanının ışığıyla, ilerlemenin simgesi olarak tarihte kalacaktır; Arnavutluk,
+  Türk ulusunun acısını hissediyor.
+quote_kind: translated
+summary: >-
+  Birinci sayfada portresini ve Mustafa Kemal'i Büyük Petro ile karşılaştıran, yaşamı ve eserleri üzerine uzun
+  bir yazıyı yayımladı; Türkiye bir ilerleme simgesi.
+caveat: >-
+  Başlıklar Toksoy'un bastığı biçimdedir (Stipi, Shtypi olabilir); Arnavutça özgün nüshalar görülmemiştir.
+mediated_by: Toksoy 2010 ← Akşam 14 ve 18 Kasım 1938, Ulus 14 Kasım 1938
+verification_note: Alıntı sayfa geçişine yayılıyor; çevrildi.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 571c6b2ce435
+  role: a72037131f16
+  quote: e5c38cce1835
+  summary: 8e0a10e410e1
+  caveat: 02a3cfabd589
+  mediated_by: 8e709a452d60
+  verification_note: 64679f430c98
+  verification_method: 939bb46a04c3

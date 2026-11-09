@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/al-ahram-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-ahram-1938
+voice: Al-Ahram
+role: Mısır günlük gazetesi
+quote: Hitler'den daha büyük, Mussolini'den daha büyük, Roosevelt'ten daha büyük
+quote_kind: translated
+summary: >-
+  Onu Türk milletinin babası ve son yüzyılların en büyük insanı olarak nitelendirdi; Hitler, Mussolini ve
+  Roosevelt'in üstünde sıraladı.
+caveat: >-
+  En üstünlük ifadeleri ve sıralama gazetenin kendisine aittir; bize Türkçe çeviri yoluyla ulaşmaktadır.
+mediated_by: Toksoy 2010 ← Cumhuriyet 12 ve 20 Kasım 1938, Ayın Tarihi no. 194 (Türkçe çeviri)
+verification_note: >-
+  Toksoy Türkçesinden çevrilmiştir; kesin sayı tarihi olan 11 Kasım, 'all Egyptian papers of 11 Nov' ifadesi
+  dışında belirtilmemiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0f58f1ac133e
+  role: 6464c6135bae
+  quote: 8fb26ed202a5
+  summary: 7a131b959c25
+  caveat: 5ffd7ef780fa
+  mediated_by: e0cb488042f7
+  verification_note: 88eeaa9538b1
+  verification_method: 939bb46a04c3

@@ -1,0 +1,33 @@
+# Turkish for data/voices/2004/macshane-2004-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: macshane-2004-06
+voice: Denis MacShane
+role: İşçi Partisi Milletvekili, Avrupa Bakanı
+quote: Türk ulusu, Atatürk'ünkinden sonraki ikinci büyük modernleşmesine girişecektir.
+quote_kind: translated
+summary: >-
+  AB'ye katılımı Türkiye'nin 'Atatürk'ünkinden sonraki ikinci büyük modernleşmesi' olarak sunar ve
+  Atatürk'ünkini birincisi olarak ele alır.
+caveat: >-
+  Turkey (EU Accession), HC Deb 23 Haziran 2004, c1425. Resmi Hansard tutanaklarının TheyWorkForYou'daki
+  dökümü. Aynı ifade Oral Answers, 15 Haziran 2004'te de geçer ('the second great modernisation of Turkey,
+  after the Ataturk modernisation'). AB'ye katılım savı için kullanılmıştır. Kontrol: alıntı c1429'da yer
+  almaktadır (historic-hansard); TWFY konuşmanın başladığı sütunu verir.
+verification_note: >-
+  Birebir aynı, konuşmacı Avrupa Bakanı Denis MacShane (g1425.0, HC Deb 23 Haziran 2004). Sütun düzeltmesi:
+  cümle c1429'dadır (konuşma c1425-1431 aralığında sürer); c1425 yalnızca başlangıçtır. 'second great
+  modernisation after that of Ataturk' ifadesi Atatürk'ünkini büyük bir modernleşme olarak ele alır; araçsal 1
+  yerindedir ve bakış zayıf olsa da geçerlidir.
+verification_method: >-
+  sayfa çekildi, bağlantılı konuşma bloğu (konuşmacı, tarih, kimlik) içinde alıntının normalleştirilmiş metin
+  eşleşmesi yapıldı; sütun numarası historic-hansard sütun işaretlerinden tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d58fcb9888df
+  role: 96b60b773275
+  quote: 477e518ccadf
+  summary: 4b1649d68130
+  caveat: 7e7c4a3db0c1
+  verification_note: 8eb3075385e3
+  verification_method: 59db5bce95bc

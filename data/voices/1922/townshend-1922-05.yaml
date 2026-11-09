@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: townshend-1922-05
+voice: Sir Charles Townshend MP
+voice_type: person
+role: Commons question, Greece and Turkey
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1922-05-25"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Cited Kemal's note as declaring readiness to negotiate at Ismid, and asked the Government to press Greece to
+  accept the proposal.
+quote:
+  text: Kemal, in his note to the Allied Powers, dated 22nd April last
+  language: en
+caveat: >-
+  A question; the 30 May 1922 speech ('I know him well and respect him') is the existing record.
+node: Kemal in the Commons, Variant Spellings, 1920–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1922-05-25/debates/5ef60763-8eed-44c1-84a1-a6830dc2b1f3/GreeceAndTurkey
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API contribution full text (Sir Charles Townshend, Greece And Turkey, 1922-05-25)
+  method: hansard-api direct
+  note: >-
+    Quote is in the question text; matches claim (ready to negotiate at Ismid, urge Greece to accept).
+  checked_on: "2026-10-30"

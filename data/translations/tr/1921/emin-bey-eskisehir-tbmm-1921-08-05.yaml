@@ -1,0 +1,28 @@
+# Turkish for data/voices/1921/emin-bey-eskisehir-tbmm-1921-08-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: emin-bey-eskisehir-tbmm-1921-08-05
+voice: Emin Bey (Eskişehir)
+role: Eskişehir milletvekili, Birinci Türkiye Büyük Millet Meclisi (TBMM)
+quote: >-
+  Memleketi Yunandan, düşmandan kurtarıp ta böyle bir müddet için kendisi diktatör olarak icrayı faaliyet
+  ederse, ben bunda memleket için fayda mülâhaza ederim.
+quote_kind: original-turkish
+summary: >-
+  Ülkeyi Yunanlardan kurtarmak için Kemal'in diktatör olarak hareket etmesini, hatta saltanatın bile üzerinde
+  bir makamı kabul ederek Meclis yetkilerinin doğrudan ona verilmesini destekledi.
+caveat: >-
+  Basılı metin s. 203. Bir mevkidaşı (Mustafa Bey, Tokat) 'Aldandın' diye araya girer. Ciltte yer alan aynı
+  adlı diğer milletvekilleri Emin Bey (Canik) veya Emin Bey (Erzincan) ile karıştırılmamalıdır.
+verification_note: İddia edildiği gibi 'Padisahliktan yuksek bir makam olsa dahi veririm' de diyor.
+verification_method: >-
+  Cilt 2'nin pdftotext çıktısı; tam eşleşme; Mustafa Bey'in (Tokat) 'Aldandin' müdahalesi mevcut
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: af9bb49b559d
+  role: 2f5bdd0adc93
+  quote: 5da47f5da979
+  summary: 7e29e43a2942
+  caveat: 57ebd8f73377
+  verification_note: 813f83c4988d
+  verification_method: 4eb5006ed9a6

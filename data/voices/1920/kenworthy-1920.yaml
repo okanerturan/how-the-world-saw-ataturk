@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kenworthy-1920
+voice: Lieut.-Commander Kenworthy MP
+voice_type: person
+role: Commons, Major Tryon's statement debate
+country: United Kingdom
+country_now: United Kingdom
+domain: military
+date: "1920-03-11"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: Proposed raiding Kemal's military camps by long-range aircraft from the Black Sea.
+quote:
+  text: >-
+    There arc, however, military camps under the command of Mustapha Kemil which could have been raided by our
+    new long-range aircraft from the Black Sea
+  language: en
+caveat: >-
+  Quote reproduces Hansard's OCR ('arc'). Kenworthy later praised Kemal (14 Dec 1922, 4 Aug 1922); the voice
+  changes.
+node: Kemal in the Commons, Variant Spellings, 1920–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-03-11/debates/0fdaa9ee-e2bf-44b3-ad8b-d3857e53b1bc/MajorTryonSStatement
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard Commons 1920-03-11 Major Tryon's Statement, 'Lieut.-Commander KENWORTHY'
+  method: Hansard API search, full contribution text
+  note: Verbatim incl. OCR 'arc' and 'Kemil'.
+  checked_on: "2026-10-30"

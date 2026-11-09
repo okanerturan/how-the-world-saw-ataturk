@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abdulhalik-renda-1938-11-11
+voice: Abdülhalik Renda
+voice_type: person
+role: President of the Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Opening the first sitting after the death, called Atatürk 'our great Liberator', spoke of national grief and
+  asked members for five minutes' standing silence.
+quote:
+  text: >-
+    Büyük Halaskarımızın ölümünden hepimizin ve bütün milletin duyduğu elemin ne kadar büyük ve derin olduğunu
+  language: tr
+caveat: >-
+  Printed p. 16. The Assembly stood five minutes ('ayakta beş dakika sükût'), the minutes record sobs. The
+  speaker is identified in the sitting's header as 'Abdülhalik Renda'.
+node: The Assembly Meets Without Atatürk, 11 November 1938
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c027/tbmm05027003.pdf
+    archived: https://web.archive.org/web/20240703204606/https://www.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c027/tbmm05027003.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: tbmm05027003.pdf (d05 c027, 3rd inikad 11-XI-1938), p.16
+  method: pdftotext
+  note: >-
+    Verbatim (hyphen-wrapped 'de-rin'); BAŞKAN is M. Abdülhalik Renda; five minutes' standing silence and sobs
+    recorded.
+  checked_on: "2026-10-30"

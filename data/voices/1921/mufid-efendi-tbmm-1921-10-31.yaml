@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mufid-efendi-tbmm-1921-10-31
+voice: Müfid Efendi (Kırşehir)
+voice_type: person
+role: Kırşehir deputy; mover of the renewal motion
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-10-31"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Moved a three-month extension of the Commander-in-Chief law, praising Kemal as the man whose command had
+  been welcomed across Anatolia and had beaten the enemy.
+quote:
+  text: bütün Anadolu’da pek büyük, âli fikirlerle karşılanan bu Başkumandanla
+  language: tr
+caveat: >-
+  Printed p. 474. The sentence is long and syntactically loose in the edition; quote is a verbatim fragment.
+  Header of the pages reads 102nd sitting, 31 Teşrinievvel 1337 (the previous page header says 101st, 29 Oct).
+node: TBMM Closed Session of 31 October 1921 — Renewing the Commander-in-Chief
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+    archived: https://web.archive.org/web/20250915054819/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM d01 c? acikerisim bitstream (102nd sitting, 31 Teşrinievvel 1337), p.474
+  method: pdftotext of volume PDF; page markers
+  note: >-
+    Quote verbatim fragment; Müfid moves three-month extension ('selâmeti umumiye namına teklif ediyorum');
+    printed p.474 confirmed; header 102nd sitting 31 Oct confirmed.
+  checked_on: "2026-10-30"

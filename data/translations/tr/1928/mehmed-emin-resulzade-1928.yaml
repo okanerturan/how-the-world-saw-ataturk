@@ -1,0 +1,23 @@
+# Turkish for data/voices/1928/mehmed-emin-resulzade-1928.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mehmed-emin-resulzade-1928
+voice: Mehmed Emin Resulzade
+role: 1918 Azerbaycan Cumhuriyeti'nin kurucusu; muhacir gazeteci-yazar
+summary: >-
+  Gazi Paşa'yı kurtulan Doğu'nun sembolü olarak nitelendirdi: Washington çapında bir bağımsızlık savaşçısı ve
+  Fransız İhtilali kahramanları ölçeğinde bir devrimci.
+caveat: 1928 tarihli dergi tespit edilemedi.
+verification_note: >-
+  Resulzade'nin 'Qurtulan Sherqin simvolu' ve 'Washington-calibre istiqlalchi / French Revolution heroes'
+  ifadeleri doğrulandı; 1928 tarihli yazı bir dergide değil, Gazi Paşa üzerine bir kitaptaki bölüm-makaleydi
+  (çekince notuyla tutarlı); 1928 metninin kendisi yalnızca öz-alıntı olarak görüldü
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8499c691206b
+  role: af8970c93cca
+  summary: 3ba33808d2ac
+  caveat: 23052b6a0263
+  verification_note: f0aed3268c9e
+  verification_method: ad8cee67138e

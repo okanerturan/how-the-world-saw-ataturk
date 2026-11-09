@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: billy-hughes-1922-09-29
+voice: Billy Hughes
+voice_type: person
+role: Prime Minister of Australia
+country: Australia
+country_now: Australia
+domain: politics
+date: "1922-09-29"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  In the Chanak crisis, warns Mustapha Kemal not to forget what Australia's entry into war means, while
+  wanting 'a fair deal' for the Turks.
+quote:
+  text: >-
+    We are for peace, and we want the Turks to have a fair deal, but if war is to come Mustapha Kemal must not
+    forget what the entry into war by Australia means.
+  language: en
+mediated_by: >-
+  Australian press wire, Melbourne 29 Sept 1922: 'Menace to Kemal', Kalgoorlie Miner 30 Sept 1922, p. 5 (Trove
+  93229155); same statement summarised in The Register (Adelaide) 30 Sept 1922, p. 11, 'Kemal Must Look Out'
+  (Trove 64124806)
+caveat: >-
+  Said to reporters after the House of Representatives adjourned, amplifying his statement in the House that
+  day; the preceding sentence: 'We shall do so again, if necessity arises, and it will be well if Mustapha
+  Kemal remembers this.' In the House he also said 'Australia had no bias against Kemal' and that the Allies
+  'could yield nothing to force, but everything to reason' (The Register's report). Read on Trove via a headed
+  browser, 4 Nov 2026. A deterrent warning to an adversary, so polarity hostile at intensity 1; Commonwealth
+  Hansard for 29 Sept 1922 not read.
+node: Billy Hughes
+sources:
+  - url: https://trove.nla.gov.au/newspaper/article/93229155
+  - url: https://trove.nla.gov.au/newspaper/article/64124806
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Trove 93229155 (Kalgoorlie Miner 30 Sep 1922 p. 5) and 64124806 (The Register 30 Sep 1922 p. 11)
+  method: Trove article text read in a headed browser by the main agent; not an independent checker
+  note: >-
+    Quote verbatim in the Kalgoorlie Miner wire text; reported speech (press), Hansard not read.
+  checked_on: "2026-11-04"

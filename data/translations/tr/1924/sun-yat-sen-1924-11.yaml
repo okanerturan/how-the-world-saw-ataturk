@@ -1,0 +1,28 @@
+# Turkish for data/voices/1924/sun-yat-sen-1924-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sun-yat-sen-1924-11
+voice: Sun Yat-sen
+role: KMT lideri, Kobe'de konuşurken
+quote: Japonya ve Türkiye, Asya'nın doğu ve batısındaki iki büyük siperdir
+quote_kind: translated
+summary: >-
+  Savaşta yenilen Türkiye, Avrupalıları kovdu ve tam bağımsız oldu; Japonya ile birlikte Asya'nın iki büyük
+  barikatından biridir.
+caveat: >-
+  Kemal'in değil, Türkiye'nin adını anar. Japon dinleyicilere yönelik 'Büyük Asyacılık' konulu bir konuşmadır;
+  dolayısıyla bu övgü aynı zamanda Japonya'ya yaptığı çağrıya hizmet eder. Çince Wikisource transkripsiyonu.
+verification_note: >-
+  Bire bir '日本和土耳其，就是亞洲東西兩個大屏障'; önceki cümleler: Türkiye yenildi, Avrupalıları kovdu, tam bağımsız oldu.
+  Kemal'in değil Türkiye'nin adını anıyor (çekince notu uygun). Wikisource transkripsiyon kalite etiketi %25
+  ancak pasaj eşleşiyor.
+verification_method: Wikisource action=raw sayfasının curl ile çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 07f7e6a153f5
+  role: d89ee0c20d05
+  quote: a2c9c7508b5a
+  summary: cb8699384af6
+  caveat: d746da85504b
+  verification_note: 8da3f42e8137
+  verification_method: 991e50860a76

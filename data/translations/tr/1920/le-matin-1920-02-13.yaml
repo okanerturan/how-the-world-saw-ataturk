@@ -1,0 +1,29 @@
+# Turkish for data/voices/1920/le-matin-1920-02-13.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-matin-1920-02-13
+voice: Le Matin
+role: Paris'te yayımlanan yüksek tirajlı günlük gazete
+quote: Enver Paşaların ve Talatların adamı
+quote_kind: translated
+summary: >-
+  Maraş tahliye edilirken Kemal'i savaş döneminin Jön Türk şefleri Enver ve Talat ile ilişkilendirdi.
+caveat: >-
+  Görünüm 3. OCR metni, sondaki 'il dicte ses volontés à tous les gouvernements' ifadesinin Kemal'e mi yoksa
+  bir yakınına mı ait olduğunu göstermiyor; Enver-Talat yaftası her iki durumda da Kemal'e yapıştırılıyor.
+  Gallica ContentSearch kesiti, OCR olduğu gibi kopyalandı; görünüm numarası Gallica'ya aittir, basılı sayfa
+  numarası olmayabilir.
+verification_note: >-
+  'Mustapha Kemal, i'hornme des Enver îocha et des ïalaat, il dicte ses vülontés à eus les gouvernements'
+  kesiti alıntıyla birebir örtüşüyor (OCR). Sayı tarihi bağımsız olarak doğrulanmadı.
+verification_method: >-
+  ms fetch ContentSearch (OAI üstverisi bot_blocked olduğundan gazete ve tarih bağımsız olarak doğrulanamadı)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 290c331affe3
+  role: 4e6225d74128
+  quote: 67562060728d
+  summary: 6ea87e8ffaff
+  caveat: ec076cc763a1
+  verification_note: d1a504c47c1a
+  verification_method: c494c7992b1f

@@ -1,0 +1,32 @@
+# Turkish for data/voices/2025/lee-jae-myung-2025-11-24-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lee-jae-myung-2025-11-24-book
+voice: Lee Jae-myung
+role: Güney Kore Devlet Başkanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Atatürk'ü anarak, kan bağıyla bağlı kardeş uluslarımızın ortak refahı için birlikte ilerleyeceğiz.
+quote_kind: original-turkish
+summary: Atatürk'ü anar ve iki 'kan kardeşi' ulusun ortak refahı için birlikte ilerleme sözü verir.
+caveat: >-
+  Korece bir metnin Türkçe çevirisi (AA); özgün metne ulaşılamamıştır. AA, Hürriyet, Odatv, Haberler, Nefes ve
+  A Haber aynı cümleyi, tek bir AA bültenini yayımlamaktadır. Nezaket cümlesi; Atatürk hakkında bir
+  değerlendirme içermemektedir.
+mediated_by: AA, Hürriyet, Odatv ve Haberler, 24 Kasım 2025 (yazının Türkçe çevirisi)
+verification_note: >-
+  Alıntı birebir aynı; üçünde de aktarılan metnin tamamıdır (tek cümle), tek AA kaynağı; 24 Kasım 2025 tarihi
+  doğru. Lee Jae-myung görevdeki Güney Kore Devlet Başkanı'dır. Yazının Korece yazıldığı iddiası hiçbir
+  haberde belirtilmemektedir (doğrulanmamış). Araçsal/1 yerinde.
+verification_method: >-
+  atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: da25b4c3baa7
+  role: 962016b3456b
+  quote: 49672001de0b
+  summary: 7d4b6a187496
+  caveat: c757a2605847
+  mediated_by: 9256ed79809c
+  verification_note: 1d1a3a8fa884
+  verification_method: 8505ab605bfa

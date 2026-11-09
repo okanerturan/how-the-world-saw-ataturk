@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: loraine-1938-06-02
+voice: Sir Percy Loraine
+voice_type: person
+role: British Ambassador to Turkey (1933–1939)
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1938-06-02"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: letter
+evidence: P
+summary: >-
+  Pressing London for an honorary degree for Atatürk, argued he was technically no dictator, his position not
+  that of Hitler or Mussolini.
+quote:
+  text: But is he a "dictator"? I think myself that technically he is not.
+  language: en
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk vol. VIII (TTK 2006) No. 211, p. 511 ← Loraine to Sir Lancelot
+  Oliphant, private letter, British Embassy Istanbul (FO 371/21930)
+caveat: >-
+  Date read as '2nd June 1938' by fresh OCR of the scan (archive.org djvu text reads '2'); PDF file #8, p.
+  766. Attached a summary: Atatürk 'has deserved well of the whole learned world by raising the cultural and
+  social level of a whole nation'. Check: dated 2nd June 1938 on p. 511 (F.O. 371/21930/E.3437); summary on p.
+  512.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%238.pdf
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    archive.org ingiliz-belgelerinde-ataturk #8 PDF, file p. 766–767 (printed pp. 511–512), page images
+    rendered at 100 and 400 dpi
+  method: rendered PDF page image
+  note: >-
+    Quote verbatim at printed p. 511, No. 211, Sir P. Loraine to Sir L. Oliphant, 'British Embassy, ISTANBUL';
+    ref F.O. 371/21930/E.3437 (p. 512); the attached summary 'has deserved well of the whole learned world' is
+    on p. 512. DATE CONTRADICTED: the zoomed scan reads '2nd June, 1938' (superscript 'nd'), as the djvu says,
+    not '7th June'. Date and id need correcting.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33b)
+  checked_on: "2026-11-06"

@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ziya-hursit-tbmm-1922
+voice: Ziya Hurşit
+voice_type: person
+role: Lazistan (Rize) deputy; First Assembly opposition
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1922-11-06"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Objected that acting for the Commander-in-Chief rather than the government in taking over Thrace threatened
+  to found an empire at Ankara.
+quote:
+  text: >-
+    Ankara'da bir imparatorluk mu tesis edeceğiz? Katiyyen reddederiz. Başkumandan kimseyi temsil edemez.
+  language: tr
+caveat: >-
+  Cite: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, 133rd sitting, 2nd
+  session, 6 Teşrinisani 1338 (1922), p. 1174. Directed at the office of Commander-in-Chief (Kemal) and the
+  cabinet's wording on Refet Pasha's mission, not at Kemal by name.
+node: Ziya Hurşit
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/5fe786e1-4f37-41d4-831c-1eaf46ca410d/content
+    archived: https://web.archive.org/web/20250519143323/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/5fe786e1-4f37-41d4-831c-1eaf46ca410d/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Gizli Celse Zabıtları PDF (acikerisim.tbmm.gov.tr bitstream, pdftotext text layer) cilt 3, printed p.
+    1174 (quote straddles p.1173/1174 boundary; sentence is before the '– 1174 –' footer)
+  method: pdftotext grep; verbatim; speaker ZİYA HURŞİT BEY (Lâzistan)
+  note: >-
+    Context is Refet Pasha Thrace takeover wording 'Başkumandan namına'; not at Kemal by name, as caveat says.
+  checked_on: "2026-10-29"

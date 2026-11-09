@@ -1,0 +1,17 @@
+# Turkish for data/voices/1938/roosevelt-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: roosevelt-1938
+voice: Franklin D. Roosevelt
+role: ABD Başkanı
+quote: ülkesine bağlılığı ona bütün dünyanın saygısını kazandırdı
+quote_kind: translated
+summary: Ülkesine bağlılığının ona bütün dünyanın saygısını kazandırdığını söyledi.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b3a5fb56eec0
+  role: a871d594ee15
+  quote: 907f796b43d9
+  summary: 5b248fa94fec
+  verification_method: 939bb46a04c3

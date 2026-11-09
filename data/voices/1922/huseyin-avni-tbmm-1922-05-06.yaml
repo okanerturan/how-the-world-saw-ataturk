@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: huseyin-avni-tbmm-1922-05-06
+voice: Hüseyin Avni Ulaş
+voice_type: person
+role: Erzurum deputy, First Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1922-05-06"
+era: contemporary
+polarity: admiring
+intensity: 3
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Answering Kemal's anger, swore loyalty to the cause, praised his sacrifice and said he would speak plainly
+  to him rather than flatter.
+quote:
+  text: Paşa Hazretlerinin fedakârlığının derecesini bilmeyen kimse yoktur.
+  language: tr
+caveat: >-
+  Cite: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, Gizli celse, 6 Mayıs 1338
+  (1922), p. 405. Spoken after a heated exchange with Kemal; same voice as the 4 May record, opposite
+  register.
+node: Hüseyin Avni Ulaş
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/5fe786e1-4f37-41d4-831c-1eaf46ca410d/content
+    archived: https://web.archive.org/web/20250519143323/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/5fe786e1-4f37-41d4-831c-1eaf46ca410d/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM bitstream 5fe786e1 PDF text layer, 4th session 6 May 1338, printed p. 405
+  method: pdftotext; page number is footer (404 / 405), quote falls between them
+  note: >-
+    Verbatim; speaker Hüseyin Avni (Erzurum) after Kemal's 'hakaret' exchange; oath of loyalty and 'açık
+    lisanla haykırırım' support the claim.
+  checked_on: "2026-10-29"

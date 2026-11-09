@@ -1,0 +1,37 @@
+# Turkish for data/voices/1929/heuss-1929-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: heuss-1929-01
+voice: Theodor Heuss
+role: Alman liberal gazeteci-yazar ve Reichstag milletvekili, sonradan ilk Federal Cumhurbaşkanı
+quote: parlamenter kılıflı diktatörlük
+quote_kind: translated
+summary: >-
+  Bir Balkan gezisinin ardından Kemal'in Türkiye'sini, seçimleri tertipleyen ve iktidarı polis ile mahkemeler
+  aracılığıyla elinde tutan 'parlamenter kılıflı bir diktatörlük' olarak değerlendirir.
+caveat: >-
+  İkincil kaynakta yalnızca bu ibare ve dolaylı aktarım ('Wahlen arrangiere', 'Polizei und Gericht' ile ayakta
+  tutulan) verilmektedir; Heuss'un makalesinin kendisi okunmamıştır. Mangold-Will (Begrenzte Freundschaft,
+  2013, s. 253 kesit), buna rağmen Heuss'un 1928'deki Türkiye değerlendirmesinin genel olarak olumlu olduğunu
+  belirtir. Kişinin kendisinden ziyade Kemal'in rejimine yönelik bir yargıdır; bu nedenle çelişkilidir.
+mediated_by: >-
+  Mathie 2023, Der Türken- und Türkeidiskurs in Schulbüchern 1919–1945 (Klinkhardt, açık erişim), Heuss'tan
+  alıntı: 'Balkanreise', Die Hilfe 35.1 (1929), s. 20–22, burada s. 21
+verification_note: >-
+  İbare ve dolaylı aktarım ('Wahlen arrangiere', 'Polizei und Gericht') yalnızca Mathie'de mevcuttur;
+  archive.org tam metin araması başka bir kopya bulamamaktadır. Heuss'un makalesi görülmemiştir. Mathie,
+  kaydın atıf yaptığı s. 470'e değil, Mangold-Will s. 253'e işaret etmektedir; her iki sayfa da
+  okunamadığından 'conflicted' sınıflandırmasının ardındaki 'positive overall' çekincesi doğrulanmamıştır.
+  Okunan tek metin eleştireldir: Mangold-Will okunmadığı sürece kutupluluk çelişkili → hasmane olmalıdır.
+  Nesne bizzat Kemal değil, Türkiye'nin rejimidir ('die dortigen Entwicklungen'): zayıf bir geçiş.
+verification_method: archive.org metni; tools/fts.py; ms fetch (ücretsiz)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0027112f0527
+  role: c1334ce92657
+  quote: 582db45c468d
+  summary: 7c59d3b87edf
+  caveat: e823e57fb780
+  mediated_by: 6a5048a2fd87
+  verification_note: "926554843888"
+  verification_method: c1692970ef5e

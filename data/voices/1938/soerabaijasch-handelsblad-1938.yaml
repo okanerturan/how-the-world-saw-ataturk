@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: soerabaijasch-handelsblad-1938
+voice: Soerabaijasch Handelsblad
+voice_type: press
+role: Surabaya daily
+country: Dutch East Indies
+country_now: Indonesia
+domain: press
+date: "1938-11-10"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: article
+evidence: P
+summary: >-
+  To build a modern state after Western example he had to strip the clergy of influence; his greatest gift was
+  making the right enemies.
+quote:
+  text: "Kemal Atatürk's greatest gift: to make the right enemies."
+  language: en
+node: Dutch East Indies Press, November 1938
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:011121218:mpeg21:a0100
+    label: Soerabaijasch Handelsblad, 16 Nov 1938, "Vergadering Mohammadijah"
+  - url: https://resolver.kb.nl/resolve?urn=ddd:011121213:mpeg21:a0008
+    label: Soerabaijasch Handelsblad, 10 Nov 1938
+  - url: https://resolver.kb.nl/resolve?urn=ddd:011121214:mpeg21:a0153
+    label: Soerabaijasch Handelsblad, 11 Nov
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Delpher ddd:011121214:mpeg21:a0153 (11 Nov): "Maar hij was onbetwist meester in de kunst, zich de juiste
+    vijanden te maken"; ddd:011121213:mpeg21:a0008 (10 Nov): strip clergy of influence
+  method: fetch
+  note: >-
+    Record has empty sources list; two articles merged under date 10 Nov (quote is the 11 Nov piece); quote is
+    English rendering of Dutch, translation not flagged.
+  checked_on: "2026-10-29"

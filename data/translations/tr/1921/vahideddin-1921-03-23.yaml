@@ -1,0 +1,42 @@
+# Turkish for data/voices/1921/vahideddin-1921-03-23.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: vahideddin-1921-03-23
+voice: VI. Mehmed Vahideddin
+role: Son Osmanlı Padişahı; İngiliz Yüksek Komiseri Rumbold ile konuşurken
+quote: >-
+  Londra'da yirmi veya otuz sene oturtsanız ve sonra 24 saatliğine dağın tepesine götürseniz derhal eski
+  halini alır
+quote_kind: original-turkish
+summary: >-
+  Rumbold'a Kemal'in bir ihtilalci olduğunu, Londra'da yirmi yılın onu eski haline döndüreceğini söyler.
+caveat: >-
+  Vahideddin'in Sir Horace Rumbold'un İngilizce raporunda aktarılan sözlerinin Bardakçı tarafından yapılan
+  Türkçe çevirisi; cümle Padişah'ın kendi Türkçesi değil, geri çeviridir. Vahideddin ayrıca Kemal'in 'bir
+  ihtilalci' olduğunu, Bekir Sami'nin 'her şeye rağmen bir Çerkes' olduğunu ve zorla ilan edilecek bir
+  halifenin 'puslu havayı seven kurtların elinde bir alet' olacağını söylemiştir (aynı sayfa). 23 Mart 1921
+  tarihi, Bardakçı'nın bu bölüme ait bölüm notundan ('iki buçuk saatlik özel bir görüşme') alınmıştır; OCR bu
+  notu numarayla bu pasaja bağlamamaktadır; günü çıkarım, yılı ise güvenli kabul edin. 2006 İnkılâp
+  baskısından alıntılanmıştır, s. 215 (OCR varak). Kontrol: 23 Mart rapor tarihidir, görüşme günü olması şart
+  değildir; Rumbold'un İngilizce metni görülmedi.
+mediated_by: Rumbold'dan Curzon'a, 23 Mart 1921 (Şimşir, İngiliz Belgelerinde...) ← Bardakçı 1998/2006
+verification_note: >-
+  Şahbaba s. 215'te doğrudan alıntı olarak birebir mevcut ('Londra'da yirmi veya otuz sene oturtsanız ve sonra
+  24 saatliğine dağın tepesine götürseniz derhal eski halini alır'), ardından 'Zorla bir halife ilan
+  edebilirler...' geliyor. 14. bölüm not 1'de bunun Rumbold'un 2,5 saatlik özel bir görüşme hakkında Curzon'a
+  gönderdiği 23 Mart 1921 tarihli rapordan alındığı, 'bazı ifadelerin çıkarıldığı' ve tam metnin Şimşir,
+  British Documents III/262'de yer aldığı belirtiliyor. Dolayısıyla cümle, Padişah'ın sözlerine ilişkin bir
+  İngiliz raporunun Bardakçı tarafından yapılmış Türkçesidir; İngilizce metin görülmedi ve 23 Mart mutlaka
+  görüşme tarihi değil, RAPOR tarihidir. Kanıt düzeyi S doğrudur (P değil); ihtiyat payını koruyun ve 'tarih =
+  rapor tarihi' notunu ekleyin.
+verification_method: archive.org djvu indirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 27985884d598
+  role: 378d42a61bb9
+  quote: ef14e009a006
+  summary: a2f8b865fbf0
+  caveat: bc547e14bbed
+  mediated_by: 8b8b402b978b
+  verification_note: 90402d79e185
+  verification_method: 0b1464308eaa

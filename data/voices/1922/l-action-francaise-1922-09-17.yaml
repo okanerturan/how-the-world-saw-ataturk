@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: l-action-francaise-1922-09-17
+voice: L'Action française
+voice_type: press
+role: Paris monarchist daily
+country: France
+country_now: France
+domain: press
+date: "1922-09-17"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Fragment: Kemal is wary, and right to be; lead-in cut, so object and editorial voice are unshown.
+quote:
+  text: Moyistapha Kémal se méfie et il a rai son
+  language: fr
+caveat: >-
+  View 3. Short fragment; the lead-in is cut. OCR 'Moyistapha ... rai son' for 'Moustapha ... raison'. Reading
+  as the paper's own view is from the first-person tone of the line. Gallica ContentSearch fragment, OCR
+  copied as given; view number is Gallica's, not necessarily the printed page. After check: context
+  (neutral-zone ultimatum) and paper's-own-view reading not supported by the fragment; trimmed.
+node: Paris Dailies on Kemal's Victory, 11–17 September 1922
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k7613473
+    archived: https://web.archive.org/web/20250515050636/https://gallica.bnf.fr/ark:/12148/bpt6k7613473/
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: Gallica ContentSearch ark bpt6k7613473 (PAG_3)
+  method: ms fetch ContentSearch (first call bot_blocked, retry ok)
+  note: >-
+    OCR fragment 'Moyistapha Kémal se méfie et il a rai son' present, but fragment gives no context:
+    'threatened him over neutral zone' and the paper's own stance are not visible (only PAG_1 line that Allied
+    governments instructed high commissioners to notify Mustapha-Kemal). Date not confirmed.
+  resolution: fixed before merge
+  checked_on: "2026-10-30"

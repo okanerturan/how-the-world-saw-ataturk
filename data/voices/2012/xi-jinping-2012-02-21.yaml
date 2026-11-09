@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: xi-jinping-2012-02-21
+voice: Xi Jinping
+voice_type: person
+role: Vice President of China (later paramount leader); entry in the Anıtkabir special book
+country: China
+country_now: China
+domain: politics
+date: "2012-02-21"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  One-line salute in Chinese: 'Mustafa Kemal Atatürk, founder of the Republic of Turkey, long live', without
+  elaboration.
+quote:
+  text: Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk, sonsuza kadar yaşa
+  is_translation: true
+  language: tr
+mediated_by: Hürriyet and AA/A Haber (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of a Chinese entry (Hürriyet; the AA text at A Haber 21 Feb 2012 is identical, same wire).
+  The Chinese original is not located; 'sonsuza kadar yaşa' is the Turkish for the slogan form 'wansui'/'long
+  live'. Xi was Vice President and heir apparent on the visit.
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.hurriyet.com.tr/gundem/sonsuza-kadar-yasa-ataturk-19970645
+    archived: https://web.archive.org/web/20221226055301/https://www.hurriyet.com.tr/gundem/sonsuza-kadar-yasa-ataturk-19970645
+  - url: https://www.ahaber.com.tr/dunya/2012/02/21/si-cinping-anitkabiri-ziyaret-etti
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hürriyet 22 Feb 2012 (Sefa Özkaya / DHA); AA via A Haber 21 Feb 2012
+  method: tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker
+  note: >-
+    Verbatim in both. The AA text (21 Feb, 'dün' in Hürriyet's 22 Feb piece) and the Hürriyet/DHA text agree,
+    so two agencies, but both are Turkish renderings of a Chinese entry; Chinese original not found. Date 21
+    Feb confirmed. Substance is one salute ('long live'); intensity 1 is right, and it is a thin 'view' rather
+    than a judgement.
+  checked_on: "2026-11-03"

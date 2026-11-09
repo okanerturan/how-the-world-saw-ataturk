@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lloyd-george-1922
+voice: David Lloyd George
+voice_type: person
+role: Prime Minister, Commons debate on the Near East
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1922-08-04"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Granted Kemal might be a great general and patriot but said the Caliph in Constantinople headed Islam and
+  Kemal had refused peace.
+quote:
+  text: >-
+    Mustapha Kemal may be a great general and a great patriot; but the head of Islam is in Constantinople.
+  language: en
+node: Parliament on Kemal and the Greeks, 1921–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1922-08-04/debates/e8c2fe25-f736-4f36-bd19-4375874f4b5b/NearEast
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API 1922-08-04 Near East, debate e8c2fe25, The PRIME MINISTER
+  method: api
+  checked_on: "2026-10-29"

@@ -1,0 +1,43 @@
+# Turkish for data/voices/1967/necip-fazil-1967.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: necip-fazil-1967
+voice: Necip Fazıl Kısakürek
+role: Şair ve İslamcı-muhafazakâr eleştirmen; 1967 B.D. Fikir Kulübü davasında sanık
+quote: >-
+  Atatürk'ü sahte kahraman olarak gösterdiğimiz iddiası, siyah renkten bahseden bir adamın, Atatürk İstiklal
+  Savaşında siyah astragan kalpak giydi
+quote_kind: original-turkish
+summary: >-
+  Mahkemede 'sahte kahramanlar' konferansıyla Atatürk'ü kastettiğini reddeder ve suçlamayı siyah renkten bir
+  ima çıkarmak kadar zorlama bulur.
+caveat: >-
+  Türkçe özgün metin; alıntı bir dipnot bölünmesinin kenarında cümlenin ortasında kesilmektedir (cümle şöyle
+  devam eder: 'diye ille onu ima ettiğimizi öne sürmekten veya beyaz kumaşı anlatırken kefen bezini telmih
+  ettiğimize kadar hayal makinesini işlemekten daha tuhaftır!'). Tez, 'Tarihimizde Sahte Kahramanlar'
+  konferansında Mustafa Reşid ve Midhat Paşa'nın sahte kahramanlar olarak anıldığını ve savcılığın bunu 5816
+  sayılı Kanun kapsamında bir suçlama olarak Atatürk'e yönelik üstü kapalı bir saldırı şeklinde okuduğunu
+  belirtir; tez yazarının kendi görüşü, inkârın cezadan kurtulmak için yapıldığı yönündedir ki bu Necip
+  Fazıl'ın değil, yazarın yorumudur. Arşiv yalnızca sanığın hedefi reddettiğini kaydeder. Necip Fazıl'ın bu
+  dönemde Atatürk hakkındaki görüşüne dair doğrudan bir ifadesi alıntılanmamıştır. Yalnızca tez aracılığıyla
+  bilinmektedir (s. 349-350, Müdafaalarım 1998 s. 224'e dipnot).
+mediated_by: Gültekin 2025, s. 349-350 ← Necip Fazıl, B.D. Fikir Kulübü Davası ve Müdafaalarım
+verification_note: >-
+  Tezde birebir mevcut: varak 348-349 ile 349-350 arasında tam olarak alıntılanmış ve Müdafaalarım (1998) s.
+  224 dipnotuyla 'diye ille onu ima ettiğimizi ... daha tuhaftır!' şeklinde bitiyor. Dolayısıyla bu Necip
+  Fazıl'ın kendi savunma metnidir, ancak yalnızca tez aracılığıyla bilinmektedir; savunma kitabı görülmedi ve
+  başka bir şey bulunamadı. Tezin çerçevelemesi (inkârın 'cezadan kurtulmak için' yapıldığı, Atatürk'e 'üstü
+  kapalı' saldırı) kayıtta belirtildiği gibi yazarın yorumudur; ikircikli/2 tartışmaya açıktır (mahkemedeki
+  bir inkâr araçsal olana daha yakındır) ama bir şema hatası değildir. OCR dipnot numarasını '44' olarak
+  gösteriyor; s. 350'deki Müdafaalarım dipnotu olarak okunmalıdır.
+verification_method: archive.org djvu indirmesi; ifade için yapılan DuckDuckGo araması sonuç vermedi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5edb2aa2f2a2
+  role: 506681811da6
+  quote: 3d2d5ab7bec7
+  summary: 91e8d4b8a08a
+  caveat: 5052b157110e
+  mediated_by: 7f99d868fa0d
+  verification_note: 5f7c23e3a9a6
+  verification_method: 17126d185c35

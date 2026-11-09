@@ -1,0 +1,19 @@
+# Turkish for data/voices/1922/otago-witness-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: otago-witness-1922
+voice: Otago Witness
+role: Dunedin haftalık gazetesi
+quote: oyalanma
+quote_kind: translated
+summary: >-
+  Haftalık başyazı: Kemal zaferle coşmuş ve toprak elde etmeye kararlı, ancak krize büyük ölçüde İtilaf
+  Devletleri'nin İstanbul konusundaki bölünmüşlüğü ve gecikmesi yol açtı; bir konferans istiyor.
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8f480edcbb18
+  role: f7b43a01e4b4
+  quote: eb1527964732
+  summary: 3835bffbeb0e
+  verification_method: ad8cee67138e

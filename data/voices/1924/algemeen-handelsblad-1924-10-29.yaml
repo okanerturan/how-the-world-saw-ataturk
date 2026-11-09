@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: algemeen-handelsblad-1924-10-29
+voice: Algemeen Handelsblad
+voice_type: press
+role: Amsterdam liberal daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1924-10-29"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Judged that Kemal had taken much from the extreme fascists, practising dictatorship behind the comedy of a
+  parliament.
+quote:
+  text: Moestapha Kemal veel van de extreme fascisten overgenomen
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. By-lined 'a special correspondent'; the paper's liberal
+  profile is from general knowledge.
+node: Dutch Dailies on the Dictator, 1924–1937
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010656761:mpeg21:a0174
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Delpher ddd:010656761:mpeg21:a0174:ocr; metadata Algemeen Handelsblad 1924-10-29
+  method: fetch
+  checked_on: "2026-10-29"

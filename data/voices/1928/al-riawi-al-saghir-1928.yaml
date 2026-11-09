@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-riawi-al-saghir-1928
+voice: al-Ri'awi al-Saghir
+voice_type: person
+role: Jerusalem correspondent of al-Fath
+country: Palestine (Mandate)
+country_now: Palestine
+domain: press
+date: "1928-10-25"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Condemns a Jerusalem lecture praising Kemal as propaganda by the Turkish consulate; Palestine will not be
+  Kemal's playground.
+quote:
+  text: >-
+    this lecture is a stain of shame and filth with which the place where it was given was defiled
+  language: en
+caveat: >-
+  Quote is the note author's English translation of the Arabic original, which the note prints.
+node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
+sources:
+  - url: https://archive.org/details/efath-moheb-elden-elkheeb
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA efath-moheb-elden-elkheeb 001_125 PDF, pdf 1897 (p.301; masthead pdf 1885 no.119, 25 Oct 1928)
+  method: >-
+    curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
+  note: >-
+    Arabic 'lakhtat ar wa qadhara lawwathat biha al-makan' on p.301 under 'al-Da'aya lil-Atrak fi Filastin',
+    signed al-Ri'awi al-Saghir, Quds; hostile holds.
+  checked_on: "2026-10-30"

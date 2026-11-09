@@ -1,0 +1,27 @@
+# Turkish for data/voices/1922/aubrey-herbert-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: aubrey-herbert-1922
+voice: Aubrey Herbert (Milletvekili)
+role: Avam Kamarası soru önergesi, Yakın Doğu
+quote: İzmit'te Mustafa Kemal Paşa ile uzlaşma şartlarını derhal görüşmek
+quote_kind: translated
+summary: >-
+  Hükümet'in İzmit'te Kemal ile uzlaşma şartlarını derhal görüşmeyi değerlendirip değerlendirmediğini sordu;
+  25 Mayıs'ta da aynı konferans için çağrıda bulunmuştu.
+caveat: >-
+  Bir soru önergesi; tutumu Kemal'in zorunlu muhatap olduğu yönündedir. 25 Mayıs 1922 tarihli soru (Greece and
+  Turkey) bunun daha önceki örneğidir.
+verification_note: >-
+  Alıntı birebir (bir soru önergesi). Kemal tarafından önerilen İzmit'teki bir konferansa ilişkin 25 Mayıs
+  tarihli soru da doğrulandı.
+verification_method: Hansard API araması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: db4b749c4938
+  role: 82addd602a0e
+  quote: 38c56b830572
+  summary: 5ea7378c2dbf
+  caveat: 05a9afe1bbc1
+  verification_note: 2da5a9b80eb8
+  verification_method: 4346fc0b2ec3

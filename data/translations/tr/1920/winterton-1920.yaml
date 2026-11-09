@@ -1,0 +1,25 @@
+# Turkish for data/voices/1920/winterton-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: winterton-1920
+voice: Earl Winterton, Milletvekili
+role: Avam Kamarası, Türkler ve İstanbul görüşmesi
+quote: >-
+  Orada kendisine karşı kullanılacak tahkimatlar olmadıkça Mustafa Paşa'nın İstanbul'a saldırmasını kimin
+  engelleyeceğini bilmiyorum
+quote_kind: translated
+summary: >-
+  Kemal'i İstanbul'a yönelik, yalnızca şehrin tahkimatlarının durdurabileceği bir tehdit olarak ele aldı ve
+  bunların sökülmesine karşı çıktı.
+caveat: Geçerken değinme; tutum bağlamdan okunmuştur.
+verification_note: ""
+verification_method: Doğrudan hansard-api; tam cümle bulundu, konuşmacı/tarih eşleşiyor
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d9f5fa566886
+  role: fbebb8113af5
+  quote: eef2161343b5
+  summary: ff0af0c389b0
+  caveat: 5c5d34f69f89
+  verification_note: da39a3ee5e6b
+  verification_method: b81a05572629

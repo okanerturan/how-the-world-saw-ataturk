@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: omer-celik-2023
+voice: Ömer Çelik
+voice_type: person
+role: AKP spokesman
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "2023-08"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  Called it a 'shame' that Disney+ 'succumbed to the pressure of the Armenian lobby' by pulling the Atatürk
+  series, and said the platform's attitude was disrespectful to the Republic's values.
+quote:
+  text: >-
+    This attitude of the platform in question is disrespectful to the values of the Republic of Turkey and our
+    nation
+  language: en
+caveat: >-
+  Corrected 2026-10-29: 'shameful' is the journalists' wording (Yetkin, TRT headline); Çelik's own words in Al
+  Jazeera are 'shame' and 'disrespectful'. 'Volcanic' reaction was the vault's characterisation.
+node: 2023 Atatürk Series Controversy
+sources:
+  - url: https://yetkinreport.com/en/2023/08/02/a-shame-disney-cancels-ataturk-series-after-armenian-committees-call/
+    archived: https://web.archive.org/web/20260413171029/https://yetkinreport.com/en/2023/08/02/a-shame-disney-cancels-ataturk-series-after-armenian-committees-call/
+  - url: https://www.aljazeera.com/news/2023/8/2/turkey-slams-reports-disney-will-scrap-ataturk-series
+    archived: https://web.archive.org/web/20260217032625/https://www.aljazeera.com/news/2023/8/2/turkey-slams-reports-disney-will-scrap-ataturk-series
+verification:
+  verdict: partial
+  checked_against: >-
+    yetkinreport.com: "condemned the decision ... as a shameful disrespect" (Yetkin's wording); aljazeera.com:
+    Çelik called it a "shame" that Disney+ "succumbed to the pressure of the Armenian lobby", "disrespectful
+    to the values of the Republic"
+  method: fetch
+  note: >-
+    Quote "shameful" is the journalist's paraphrase, not Çelik's own word (Al Jazeera has "shame"); "volcanic"
+    reaction not found.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"
+  quote_found: false

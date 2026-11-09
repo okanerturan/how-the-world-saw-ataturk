@@ -1,0 +1,35 @@
+# Turkish for data/voices/1929/vorwaerts-1929-01-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: vorwaerts-1929-01-10
+voice: Vorwärts
+role: Günlük Berlin gazetesi, SPD'nin merkez yayın organı
+quote: Basının ve sivil özgürlüklerin bastırılması, ellerindeki en keskin silahlardan biridir.
+quote_kind: translated
+summary: >-
+  Mustafa Kemal'i Yakın Doğu'nun önde gelen 'aydınlanmış mutlakiyetçi'si olarak betimledi: 'tipik bir
+  diktatör' ve radikal bir Avrupalılaştırıcı; bu tür yöneticiler basını ve sivil özgürlükleri bastırır.
+caveat: >-
+  İmzasız yazı 'Europa revolutioniert Vorderasien', s. 5. Yazı Mustafa Kemal'i Büyük Petro ve Büyük Friedrich
+  ile karşılaştırır; kutupluluk, notun her iki yönü birlikte okumasından çıkarılmıştır. Tek OCR; 'Presie'
+  ifadesi 'Presse' olarak normalleştirilmiştir.
+verification_note: >-
+  Alıntı bulundu ('Unterdrueckung der Presie [OCR] und der buergerlichen Freiheiten ist eine der schneidigsten
+  Waffen in ihrer Hand') ve Mustafa Kemal 'ein typischer Diktator' ve 'Alleinherrscher' olarak geçmektedir.
+  Ancak 'ihrer' yalnızca Mustafa Kemal'e değil, Doğulu reformcu yöneticiler grubunun tamamına (Amanullah, Rıza
+  Şah, İbn Suud, Mustafa Kemal) atıfta bulunur ve makale imzasızdır. DÜZELTME: what_they_saw yöneticilerden
+  topluca söz etmeli ya da alıntı (derleyicinin alternatif alıntısı olarak zaten mevcut olan) 'Kemal doch ihr
+  Praesident, ein typischer Diktator' ile değiştirilmelidir. Ayrıca 'als lebenslaenglicher Diktator' ifadesine
+  yer verir. Çelişkili kutupluluk makuldür.
+verification_method: >-
+  Deutsche Digitale Bibliothek gazete Solr (plainpagefulltext), tam sayfa OCR, doğrudan çekildi; makale metni
+  okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1f386fb29ba2
+  role: 54da6d139f0d
+  quote: 91c3c794fca1
+  summary: de5364b51ef3
+  caveat: 55513c81d676
+  verification_note: 47e71c2e1e42
+  verification_method: c7886394d944

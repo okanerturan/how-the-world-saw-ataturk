@@ -1,0 +1,42 @@
+# Turkish for data/voices/1922/clare-sheridan-1922-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: clare-sheridan-1922-09
+voice: Clare Sheridan
+role: >-
+  İngiliz heykeltıraş ve gazeteci; Eylül 1922'de İzmir'de Mustafa Kemal ile röportaj yaptı (1928 tarihli
+  hatırat)
+quote: Sfenksi andıran ifadesi ve gülümsemeyen aşırı nezaketi benim için tamamen anlaşılmazdı.
+quote_kind: translated
+summary: >-
+  Gazi'yi mavi gözlerinde 'sert bir kararlılık' taşıyan, sfenks benzeri ve anlaşılmaz biri olarak bulur; onu
+  Türkleri zafere ulaştıran tek adam diye nitelendirir.
+caveat: >-
+  Clare Sheridan, Naked Truth (1928), 'Life as a Journalist' bölümü, s. 306 (alıntı); s. 302-303 ('the one man
+  who from overwhelming defeat and humiliation had led the Turks to victory'); s. 308 (heykeltıraşın ricası,
+  'I will sit to you in Constantinople'; Latife Hanım 'had captured this adamantine Trotzki, so well worth
+  capturing!'). İzmir röportajından altı yıl sonra yazılmıştır ve bu yüzden kısmen geriye dönük bir bakış
+  taşır; arka planda İzmir yangını vardır ve Sheridan'ın buna dair anlatımı arşivin görüşü değildir. Kemal'in
+  ona söylediği ve kendisinin kaydettiği sözler (karşısında olanın İngiliz halkı değil, İngiliz Hükümeti
+  olduğu; 'Our feeling against them [the Armenians] has nothing to do with religion') Sheridan'a değil,
+  Kemal'e aittir. Büst için modellik oturumu bu kitapta gerçekleşmemiştir. Bodurgil'in yüzüncü yıl
+  bibliyografyası Sheridan'ın ayrı bir yazısını listeler: 'Smyrna, September 1922; interview with Mustapha
+  Kemal' (görülmedi). Ay çıkarımdır (İzmir yangınından hâlâ dumanlar yükselmektedir); kitapta yazılı değildir.
+verification_note: >-
+  Alıntı s. 306'da birebir mevcut ('sphinx-like expression and unsmiling ultra-politeness were to me quite
+  unfathomable'). 'The one man who from overwhelming defeat and humiliation had led the Turks to victory' s.
+  303'te; 'blue eyes had a hard determination' ve Latife hakkındaki 'adamantine Trotzki' s. 308'de; 'I will
+  sit to you in Constantinople' s. 308'de yer alıyor. Tümü belirtildiği gibi. Ses kendisinindir; röportaj
+  içindeki Kemal'in sözleri uyarı notunda belirtildiği üzere Kemal'e aittir. 'September 1922' ayı kitapta
+  basılı değildir; ziyaret İzmir yangınını ('smoke still rising from the ruins') izlediği için Eylül-Ekim 1922
+  bir çıkarımdır. Kutupluluk hayran/yoğunluk 2 adil.
+verification_method: yeni archive.org djvu tam metin indirmesi (arşivlenmiş round17 dosyası kullanılmadı)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d4cba83c7541
+  role: ea55cea16d87
+  quote: 81682e29ec75
+  summary: add4ec4f572e
+  caveat: f9aa4b4710ae
+  verification_note: 8a958edaed8e
+  verification_method: 1c5bb8be850a

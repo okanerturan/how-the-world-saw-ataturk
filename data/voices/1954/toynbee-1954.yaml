@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: toynbee-1954
+voice: Arnold J. Toynbee
+voice_type: person
+role: British historian, A Study of History
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1954"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: book
+evidence: P
+summary: >-
+  Names his refusal of the Pan-Turan mirage, a visionary march into collision with Russia, 'one of the most
+  signal evidences' of Atatürk's political genius.
+quote:
+  text: >-
+    One of the most signal evidences of Ghazi Mustafa Kemal Ataturk's political genius was his clear
+    recognition that a visionary pursuit of this mirage of a Yeni Turan
+  language: en
+caveat: >-
+  A Study of History vol. VIII (Oxford UP, 1954; the archive.org scan in.ernet.dli.2015.57280 is catalogued
+  1939 but contains the 1954 text), 'Encounters between Contemporaries', p. 191. The sentence goes on: '...
+  beyond the eastern limits of an Ottoman Turkish national home in Anatolia was bound to bring Turkey into a
+  disastrous headlong collision with a Russia ...'. Same volume, p. 192, Toynbee ends a Greek-Turkish passage
+  with 'the statesmanship of Eleftherios Venizelos and Mustafa Kemal Atatürk', and on p. 262 ff. a section is
+  titled 'The Success of Mustafa Kemal Atatürk in Creating a Turkish National State' (not read here). He lists
+  Atatürk among 'Herodian' figures, with Mehmed Ali, Mahmud II and Reza Shah, in vol. VIII too.
+node: Famous Pens on Atatürk II — Farrère, Halide Edib, Toynbee, Pamuk, Nesin
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.57280
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Toynbee, A Study of History vol. VIII (OUP 1954), archive.org in.ernet.dli.2015.57280 djvu.txt
+  method: curl of the open djvu text, read in context
+  note: >-
+    Verbatim on p. 191 (the running head '192 ENCOUNTERS BETWEEN CONTEMPORARIES' follows the sentence): 'One
+    of the most signal evidences of Ghazi Mustafa Kemal Ataturk's political genius was his clear recognition
+    that a visionary pursuit of this mirage of a Yeni Turan...'. Admiring is fair for the passage.
+  checked_on: "2026-11-03"

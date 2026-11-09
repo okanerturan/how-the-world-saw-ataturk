@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jednosc-polek-1928-12
+voice: Jedność Polek (Cleveland)
+voice_type: press
+role: Polish-language women's weekly, Cleveland
+country: United States
+country_now: United States
+domain: press
+date: "1928-12-18"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: article
+evidence: P
+summary: >-
+  Reports a rumour of crowning Kemal king, which the Turkish press rejects; says Poles grasp his work through
+  Piłsudski's, 'our Polish Washington'.
+quote:
+  text: Odrodzicielem kraju i narodu w Turcji jest Kemal Pasza.
+  language: pl
+caveat: >-
+  Unsigned column; the Piłsudski analogy is the paper's, anchored to a remark it attributes to a US envoy in
+  Warsaw.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn83035481/1928-12-18/ed-1/?sp=4
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn83035481 1928-12-18 sp=4 page OCR
+  method: loc.gov JSON + tile OCR
+  note: Exact; crown rumour, Turkish press reply and Pilsudski 'nasz polski Washington' present.
+  checked_on: "2026-10-30"

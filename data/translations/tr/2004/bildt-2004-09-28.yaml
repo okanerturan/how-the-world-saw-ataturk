@@ -1,0 +1,30 @@
+# Turkish for data/voices/2004/bildt-2004-09-28.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bildt-2004-09-28
+voice: Carl Bildt
+role: Eski İsveç Başbakanı (daha sonra Dışişleri Bakanı)
+quote: Kemal Atatürk hiç kuşkusuz geçen yüzyılın en önemli Avrupalı devrimcisidir.
+quote_kind: translated
+summary: >-
+  Kemal Atatürk'ü kuşkusuz geçen yüzyılın en önemli Avrupalı devrimcisi olarak nitelendirir ve eski düzeni
+  bazen oldukça otoriter yöntemlerle silip süpürdüğünü söyler.
+caveat: >-
+  'The Turks – and a New Europe – are coming!' konuşması, SEB konferansı, İstanbul, 28 Eylül 2004, metin
+  Bildt'in kendi sitesinde (bildt.net cb000089.pdf), tamamı okundu. Sonraki satırlar: 'The old order was swept
+  away – sometimes with rather authoritarian methods.' Türkiye'nin AB üyeliğini savunan bir argüman içinde
+  Atatürk, Özal ve Erdoğan'ı reformun üç evresi olarak konumlandırır. Dışişleri bakanı olduğunda International
+  Herald Tribune (11 Aralık 2006) tarafından alıntılanmıştır.
+verification_note: >-
+  Alıntı ve bir sonraki cümle ('sometimes with rather authoritarian methods') kelimesi kelimesine mevcut;
+  Atatürk–Özal–Erdoğan üç evreli pasajı yer alıyor. P dürüst; IHT 2006 doğrulaması yeniden açılmadı.
+verification_method: curl + pdftotext
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3c94af0c5ae8
+  role: 86b8076df0e6
+  quote: aa85fcd725ba
+  summary: 55d2db96d028
+  caveat: f99bf9984d64
+  verification_note: a2d6b2e37895
+  verification_method: b4b3491d6dae

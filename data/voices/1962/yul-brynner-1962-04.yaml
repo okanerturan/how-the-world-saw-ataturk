@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: yul-brynner-1962-04
+voice: Yul Brynner
+voice_type: person
+role: American film actor, chosen to play Atatürk in a planned film
+country: United States
+country_now: United States
+domain: arts
+date: "1962-04"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: S
+summary: >-
+  Preparing to play him on film, calls Atatürk 'a true hero' and fears he cannot live up to the role.
+quote:
+  text: Atatürk, gerçek bir kahramandır. Kendimi onun yerine koyabilmek bana ürperti veriyor.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 13 Apr 1962, as quoted in Tunç Boran, Mekân ve Siyaset İlişkisi Bağlamında Anıtkabir (1938-1973),
+  PhD thesis, Ankara University, 2011, p. ~315 (n. 1503)
+caveat: >-
+  Turkish of the newspaper report ('Atatürk is a true hero. Putting myself in his place makes me shiver'). In
+  the Anıtkabir special book he wrote 'Size karşı büyük bir saygı ve hürmet duyuyorum' ('I feel great respect
+  and reverence for you'). The film was never made. Thesis read as open full text on archive.org (item
+  gelisiguzelkitapo2, 'Anıtkabir mekan').
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://archive.org/details/gelisiguzelkitapo2
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: Tunç Boran, Anıtkabir (1938-1973), PhD thesis 2011, archive.org gelisiguzelkitapo2
+  method: >-
+    thesis full text read by the main agent; original newspaper not seen; not an independent checker
+  note: >-
+    Quote verbatim in the thesis; original (Milliyet 1962 / NZZ 1938 via Koloğlu 2004) not seen.
+  resolution: corrected/hedged 2026-11-04 — see LEDGER § Source-check corrections (round 25)
+  checked_on: "2026-11-04"

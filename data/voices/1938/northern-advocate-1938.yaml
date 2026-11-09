@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: northern-advocate-1938
+voice: Northern Advocate
+voice_type: press
+role: Whangarei daily, leader 'When Dictators Fall'
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1938-08-09"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Prompted by his August 1938 illness, called Kemal a virtual dictator who advanced Turkey under an iron hand,
+  and asked who would follow him.
+quote:
+  text: Kemal ruled, and has continued to rule, with an iron hand.
+  language: en
+caveat: Contemporary (pre-death); leader compares Atatürk to Hitler, Mussolini and Stalin.
+node: New Zealand Editors on the Dictator, 1929–1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/NA19380809.2.17
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: paperspast NA19380809.2.17 via wrapper fetch ('When Dictators Fall')
+  method: fetch
+  checked_on: "2026-10-29"

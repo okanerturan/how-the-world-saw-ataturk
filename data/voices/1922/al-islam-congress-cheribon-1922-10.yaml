@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-islam-congress-cheribon-1922-10
+voice: Al-Islam Congress, Cheribon
+voice_type: collective
+role: Pan-Islamic congress of Java Muslims, led by Tjokroaminoto
+country: Dutch East Indies
+country_now: Indonesia
+domain: religion
+date: "1922-10"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: telegram
+evidence: P+J
+summary: >-
+  Cheered Kemal's victory over the Greeks and resolved to telegraph him congratulations, with Arab donors
+  paying for the cable.
+quote:
+  text: werd dan ook besloten aan Moestafa Kemal telegrafisch gelukwenschen te zenden
+  language: nl
+mediated_by: >-
+  Bataviaasch Nieuwsblad 28 Nov 1923 ('Indië en Angora', Preanger correspondent); Sumatra-Bode 27 Nov 1922
+caveat: >-
+  Colonial newspaper reports; the telegram was never sent (the Sumatra-Bode says the authorities would not
+  transmit it). A hostile Dutch press frames the congress as pan-Islamic.
+node: Sarekat Islam and the Cheribon Telegram, 1922–1923
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:011040484:mpeg21:a0087:ocr
+  - url: https://resolver.kb.nl/resolve?urn=MMKB19:002117124:mpeg21:a00001:ocr
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Delpher Bataviaasch Nieuwsblad 28 Nov 1923 'Indië en Angora' ocr; second OCR (Sumatra-Bode-era trial
+    report) on telegram
+  method: curl resolver.kb.nl ocr
+  note: >-
+    Verbatim 'werd dan ook besloten aan Moestafa Kemal telegrafisch gelukwenschen te zenden; Arabieren
+    betaalden de kosten van het telegram'. Second source confirms telegram never to be transmitted ('zal ooit
+    door Kemal Pasha ontvangen worden ... niet uitgeseind').
+  checked_on: "2026-10-29"

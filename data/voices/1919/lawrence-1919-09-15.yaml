@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lawrence-1919-09-15
+voice: T. E. Lawrence
+voice_type: person
+role: British officer and Foreign Office adviser ('Lawrence of Arabia')
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1919-09-15"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: report
+evidence: P
+summary: >-
+  Judged Mustafa Kemal far abler than Enver but without his magnetism, and too hesitant to act except in
+  desperate or very favourable circumstances.
+quote:
+  text: >-
+    Of course Mustafa Kemal is much the more able of the two, but lacks Enver's personal magnetism.
+  language: en
+caveat: >-
+  Secret memorandum to the Foreign Office of 15 Sept 1919 (No. 115 in Garnett, The Letters of T. E. Lawrence,
+  London: Cape 1938, pp. 288–291; quote p. 291, note G); an intelligence appraisal, not a public statement; no
+  meeting is documented (his 1926 claim of 1918 talks, in a Childs FO minute, is doubted by Sonyel 1988).
+node: Writers, Scientists and Artists in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.176370
+  - url: https://archive.org/download/in.ernet.dli.2015.176370/2015.176370.The-Letters-Of-T-E-Lawrence_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Garnett, The Letters of T. E. Lawrence (Cape 1938), archive.org in.ernet.dli.2015.176370 djvu.txt, No. 115
+    'Memorandum to the Foreign Office, 15 Sept. 1919, 129405', pp. 288–291; quote in note G, p. 291
+  method: archive.org open OCR text read
+  note: >-
+    Quote verbatim in note G ('Mustafa Kemal is waving Enver like a banner in his movement. Of course Mustafa
+    Kemal is much the more able of the two, but lacks Enver's personal magnetism.'). The 'will not act except
+    in desperate or very favourable circumstances' paraphrase is note C on p. 290. Date, era, P all correct;
+    conflicted is fair for an appraisal that mixes ability with indecision. Gaze test passes (a stated
+    assessment). Fix the caveat: 'Lawrence never met Kemal' is unsourced and clashes with
+    lawrence-childs-1926-04-20 → 'no meeting is documented (a 1926 Lawrence claim of 1918 talks, reported in a
+    Childs FO minute, is doubted by Sonyel 1988)'.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31b)
+  checked_on: "2026-11-05"

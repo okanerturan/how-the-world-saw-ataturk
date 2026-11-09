@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-temps-1926-02-19
+voice: Le Temps
+voice_type: press
+role: Paris semi-official daily
+country: France
+country_now: France
+domain: press
+date: "1926-02-19"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Reported the Turkish assembly's unanimous adoption of the Swiss Civil Code and said the vote consecrates the
+  separation of civil status from religious tradition.
+quote:
+  text: Ce vote consacre la séparation du statut civil et des traditions religieuses
+  language: fr
+caveat: >-
+  Fragment-level, page 6; Kemal is not named in the fragment, the gaze is on the reform. Agency-style dispatch
+  whose gloss may be the paper's or the dispatch's.; recoded witness after check: Kemal not named, gloss
+  neutral
+node: Paris Press on the Caliphate, the Civil Code and the Decade, 1924–1933
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k246148q
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Gallica ContentSearch bpt6k246148q p.6 (Le Temps; issue date not independently read, internal dates 11/18
+    Feb 1926)
+  method: fetch
+  note: >-
+    Quote exact; Kemal not named and the 'admiring' polarity is inferred from a neutral dispatch gloss.
+  resolution: fixed before merge
+  checked_on: "2026-10-29"

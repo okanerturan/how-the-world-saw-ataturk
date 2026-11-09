@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: wigg-1957-02
+voice: George Wigg
+voice_type: person
+role: Labour MP, Army spokesman (later Lord Wigg)
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1957-02-05"
+era: posthumous
+polarity: instrumental
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Notes Conservatives now respect Kemal Ataturk, though Britain tried to knock him off his perch in 1922 and
+  only made him stronger.
+quote:
+  text: >-
+    Today, hon. Gentlemen speak in terms of great respect of Kemal Ataturk. There was a time when we tried to
+    knock down Kemal Ataturk.
+  language: en
+caveat: >-
+  Army Supplementary Estimate, 1956-57, HC Deb 5 Feb 1957, c332. Transcription at TheyWorkForYou of the
+  official Hansard. Used as a precedent against removing Nasser by force (Suez aftermath): Wigg's point is
+  that the Middle East choice is 'authoritarian regimes based upon the army and chaos'. Wigg, who served in
+  Constantinople in 1923, mentions Kemal in six contributions 1946-57 (24 May 1946, 16 Mar 1953, 29 Jul 1954
+  on the Turks' goodwill, 24 Jan 1956 'another Kemal or ... Enver Pasha' of Nasser, 8 Nov 1956); this is the
+  fullest statement. Check: the quote falls at c334 (historic-hansard); TWFY gives the column where the speech
+  starts.
+node: >-
+  Westminster on Atatürk, 1941–1957 — Eden, Selwyn Lloyd, Noel-Baker, Wigg, Davies and Hollis
+sources:
+  - url: https://www.theyworkforyou.com/debates/?id=1957-02-05a.251.4#g332.1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TheyWorkForYou debate page (fresh curl), speaker block at the anchor; column cross-checked on
+    api.parliament.uk/historic-hansard where available
+  method: >-
+    fetched page, normalised-text match of the quote inside the anchored speech block (speaker, date, id);
+    column located from historic-hansard column markers
+  note: >-
+    Both sentences verbatim, spoken by George Wigg (g332.1, HC Deb 5 Feb 1957). Column correction: c334
+    (speech starts c332). Surrounding text: Britain 'tried to knock Kemal Ataturk off his perch in 1922, and
+    they failed. All they did was to make him stronger.' Own use of Kemal as a precedent (Suez/Nasser);
+    instrumental is right. Intensity 2 is generous; 1 is defensible.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

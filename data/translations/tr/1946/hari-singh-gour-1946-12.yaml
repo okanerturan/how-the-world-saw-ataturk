@@ -1,0 +1,38 @@
+# Turkish for data/voices/1946/hari-singh-gour-1946-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hari-singh-gour-1946-12
+voice: Hari Singh Gour
+role: Hukukçu, Sagar Üniversitesi kurucusu; Kurucu Meclis üyesi (C.P. ve Berar)
+quote: >-
+  Kemal Paşa Atatürk, siyaseti dinle birleştirmenin beyhudeliğini ve akılsızlığını gördü. Yaptığı ilk şey
+  Pakistan'a son vermek ve Türkiye Cumhuriyeti'ni kurmak oldu.
+quote_kind: translated
+summary: >-
+  Kurucu Meclis'in ilk oturumunda Müslümanlara, Mustafa Kemal Paşa'nın din ile siyaseti karıştırmanın
+  akılsızlığını gördüğünü söyler; onları Jinnah'ın Pakistan'ını reddetmeye çağırır.
+caveat: >-
+  Constituent Assembly of India Debates, c. I, 19 Aralık 1946, s. 149 (pasajın ardından 150 sayfa üstbilgisi
+  gelir). Lok Sabha Secretariat / Government of India Press tarafından dijitalleştirilen resmi tutanak,
+  archive.org OCR üzerinden. Gour'un buradaki 'Pakistan' ifadesi eski Osmanlı Hilafet-Saltanat düzeni anlamına
+  gelmektedir (kelimeyi kendi kullanımı); arşiv onun Müslüman siyasetine ilişkin çerçevesini benimsemez.
+  Pasajdan önce 'Dr. Sir Hari Singh Gour (C. P. and Berar' konuşmacı başlığı yer alır. Metin resmi tutanağın
+  OCR çıktısından okunmuştur; bariz OCR hataları alıntıda sessizce düzeltilmiştir.
+verification_note: >-
+  Alıntı birebir aynı ('Kemal Pasha Ata-Turk saw the futility and unwisdom of combining politics with
+  religion. The first thing he did was to put an end to Pakistan and establish the Republic of Turkey.').
+  Sayfa 149 çıkarımla belirlendi (149 üstbilgisi OCR'da eksik) ancak şüpheye yer bırakmıyor. İfade edilen
+  görüş, Kemal'e dair kendi onaylayıcı okumasıdır; kaydın onun 'Pakistan' kullanımına ilişkin tarafsızlık
+  şerhi yerindedir. 'First session' ve 'urges them to reject Jinnah's Pakistan' ifadeleri uygun.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden indirildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa üstbilgileri ve konuşma okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2ddcbcf6edbb
+  role: d8df3107ec24
+  quote: c5187130cf58
+  summary: c14c34324d38
+  caveat: 40172e1847ff
+  verification_note: da4a52943afc
+  verification_method: 634050edd257

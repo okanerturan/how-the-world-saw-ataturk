@@ -1,0 +1,27 @@
+# Turkish for data/voices/1933/el-orden-santa-fe-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: el-orden-santa-fe-1933
+voice: El Orden (Santa Fe)
+role: Santa Fe günlük gazetesi, Arjantin
+quote: yeni Türkiye'nin gerçek yaratıcısı
+quote_kind: translated
+summary: >-
+  Cumhuriyetin onuncu yıldönümü öncesinde üçüncü sayfa özel yazısı: laikleştiren, kadınların peçesini kaldıran
+  ve Batı kanunlarını ithal eden Kemal, yeni Türkiye'nin gerçek yaratıcısı.
+caveat: >-
+  İmzasız, fotoğraf altı yazısı ve özel yazı; OCR büyük ölçüde bozuk (gönüllü bir arşiv tarafından
+  dijitalleştirilmiş üç sayfalık nüsha). Arjantin günlük gazetesi ajans metni kullanıyor olabilir.
+verification_note: ""
+verification_method: >-
+  fotoğraf altı yazısı 'La figura de Mustafa Kemal, verdadero creador de la nueva Turquia' birebir aynı; peçe,
+  hilafetin kaldırılması, laiklik ve 29 Ekim 10. yıldönümü üzerine özel yazı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8a02c35104d7
+  role: 2dc330e0d15f
+  quote: aad794620a60
+  summary: aad3e4ec5de4
+  caveat: 42fff7d417f7
+  verification_note: da39a3ee5e6b
+  verification_method: 97e85c756ece

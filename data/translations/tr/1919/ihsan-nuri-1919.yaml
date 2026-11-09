@@ -1,0 +1,27 @@
+# Turkish for data/voices/1919/ihsan-nuri-1919.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ihsan-nuri-1919
+voice: İhsan Nuri Paşa
+role: Kürt subay, sonradan Ağrı Dağı'nda Hoybun komiseri
+summary: >-
+  Kendisini hâlâ bir Osmanlı subayı olarak görüyordu; Wilson İlkeleri'ne atıfta bulunsa da Kürtlerin Mustafa
+  Kemal'in başlattığı hareketi desteklemesi gerektiğini düşünüyordu.
+caveat: >-
+  Değerlendirme yazısının yazarı kaydedilmemiş; arşiv mektupları ve hatırat üzerinden ikincil okuma; Ağrı Dağı
+  komutanlığından önceki 1919-20 tutumu.
+mediated_by: Kürt Araştırmaları değerlendirme yazısı <- İhsan Nuri'nin anıları ve ARF arşivi dosya 1662
+verification_note: >-
+  Makale metni Türkçe; iddia örtüşüyor ('Wilson Ilkeleri'ne atifta bulunsa da ... Kurtlerin Mustafa Kemal'in
+  baslattigi hareketi desteklemeleri gerektigini dusunmektedir'). Değerlendirme yazısının yazarı tespit
+  edilemedi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f52f086cc4ee
+  role: 2fbcf1210641
+  summary: c2c47c8f3c12
+  caveat: c16a8ee82e57
+  mediated_by: 0e09723762c4
+  verification_note: cde3a2dd1016
+  verification_method: ad8cee67138e

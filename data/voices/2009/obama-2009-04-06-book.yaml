@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: obama-2009-04-06-book
+voice: Barack Obama
+voice_type: person
+role: President of the United States; entry in the Anıtkabir special book
+country: United States
+country_now: United States
+domain: politics
+date: "2009-04-06"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: quote
+evidence: J
+summary: >-
+  Pays tribute to Atatürk, whose 'vision, tenacity and courage' put Turkey on the path of democracy and whose
+  legacy inspires generations.
+quote:
+  text: >-
+    I am honored to pay tribute to Mustafa Kemal Ataturk, a man whose vision, tenacity and courage put the
+    Republic of Turkey on the path of democracy
+  language: en
+mediated_by: Habertürk, Dengegazetesi and T24, 6 Apr 2009 (Turkish translations of the entry)
+caveat: >-
+  Turkish rendering of an entry written in English. Habertürk and T24 print the same wording; Dengegazetesi (6
+  Apr 2009) gives a looser version ('Vizyonu, ısrarı ve cesareti, ...'), so the exact English is not fixed.
+  The entry goes on to invoke 'Yurtta barış, dünyada barış' and to promise support for Atatürk's vision of
+  Turkey as a modern, prosperous democracy. Separate artifact from the Assembly speech of the same day (record
+  obama-2009). English original from AP (San Diego Union-Tribune; Hürriyet Daily News).
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.haberturk.com/gundem/haber/138881-obama-anitkabir-ozel-defterine-ne-yazdi
+    archived: https://web.archive.org/web/20250123193803/https://www.haberturk.com/gundem/haber/138881-obama-anitkabir-ozel-defterine-ne-yazdi
+  - url: https://t24.com.tr/gundem/obama-elini-yuregine-koyup-ataturku-hissetti,38730
+  - url: https://www.dengegazetesi.com.tr/anitkabir-defterine-ne-yazdi-21749h.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Habertürk 6 Apr 2009 11:08 (full Turkish entry, two paragraphs); T24 6 Apr 2009; Dengegazetesi 6 Apr 2009
+    (looser version); original English via San Diego Union-Tribune/AP 6 Apr 2009 and Hürriyet Daily News 6 Apr
+    2009 (search snippets)
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used; one paid
+    search for the English
+  note: >-
+    Turkish quote verbatim in Habertürk and T24, attributed to the Anıtkabir Özel Defteri, date 6 Apr 2009
+    correct. Habertürk and T24 print identical text, so not independent. ORIGINAL ENGLISH FOUND (AP, 'wrote'):
+    'I am honored to pay tribute to Mustafa Kemal Ataturk, a man whose vision, tenacity and courage put the
+    Republic of Turkey on the path of democracy and whose legacy continues to inspire generations around the
+    world.' Second paragraph: 'As the 44th President of the United States of America, I look forward to
+    strengthening relations between the U.S. and Turkey and supporting Ataturk's vision of Turkey as a modern
+    and prosperous democracy giving hope to its people and providing peace at home, peace in the world.'
+    Replace the [translation] quote with the English; 'kararlılığı' is 'tenacity' (not 'resolve'), and 'put on
+    the path of democracy' (not 'turned toward'). Polarity admiring / intensity 2 fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

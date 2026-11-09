@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: newton-1932
+voice: Lord Newton
+voice_type: person
+role: Peer, Lords debate on trade policy with Russia
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1932-04-20"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Called Kemal a greater despot than Mussolini who spared himself criticism by founding a sham parliament and
+  a sham opposition.
+quote:
+  text: >-
+    There is a much greater despot reigning in another country at the present moment, and that is Mustapha
+    Kemal
+  language: en
+node: Westminster on the Turkish Dictator, 1924–1938
+sources:
+  - url: https://hansard.parliament.uk/Lords/1932-04-20/debates/ed42df23-676b-41a3-923b-1bf56f6c937a/TradePolicyWithRussia
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard-api.parliament.uk/search/contributions/Spoken.json (contribution
+    6bfc6fec-aca0-4480-ab45-ba9cf7d0cf8c), Lords 1932-04-20 Trade Policy With Russia, LORD NEWTON
+  method: api
+  checked_on: "2026-10-29"

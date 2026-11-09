@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abelardo-rodriguez-1934
+voice: Abelardo Rodríguez
+voice_type: person
+role: President of Mexico
+country: Mexico
+country_now: Mexico
+domain: diplomacy
+date: "1934-10-12"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: S
+summary: >-
+  Received Turkey's ambassador at Chapultepec and asked him to carry his greetings and best wishes to Atatürk.
+quote:
+  text: greetings and best wishes to Gazi Mustafa Kemal Atatürk
+  language: en
+mediated_by: >-
+  Sosyal ve Beşeri Bilimler Araştırmaları Dergisi 18/39 (2017) ← Turkish diplomatic reports (BCA) (Münir)
+caveat: Turkish diplomat's account of Mexican courtesy; read as diplomatic politeness.
+node: Mexico Sends Its Greetings to Ankara, 1927–1935
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/453769
+  - url: https://dergipark.org.tr/tr/pub/sobbiad/article/413104
+    archived: https://web.archive.org/web/20261028235723/https://dergipark.org.tr/tr/pub/sobbiad/article/413104
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://dergipark.org.tr/en/download/article-file/453769 (SBSBAD 18/39, p.67)
+  method: fetch
+  note: >-
+    Turkish 'selam ve temenniyatını' rendered in English; 12 Oct 1934 is date of credentials; quote is the
+    ambassador's report of the request.
+  checked_on: "2026-10-29"

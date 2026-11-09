@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: walter-wright-1936
+voice: Walter L. Wright Jr.
+voice_type: person
+role: President of Robert College and the American College for Girls, Istanbul
+country: United States
+country_now: United States
+domain: letters
+date: "1936-08"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: article
+evidence: P
+summary: >-
+  Credits Atatürk as the leader of extraordinary courage who grasped the infant nation's vitality and drove
+  the invaders into the sea.
+quote:
+  text: >-
+    Defeated, humiliated, exhausted, the people of Turkey found a leader of extraordinary ability and courage.
+    … Under his leadership the people of Turkey swept the invaders into the sea
+  language: en
+caveat: >-
+  Published in La Turquie kémaliste, the illustrated review of the Turkish Press Directorate (Direction
+  Générale de la Presse, Ministry of the Interior), a Kemalist state propaganda venue that chose and printed
+  (and for some items translated) what it ran; read in the OCR of archive.org item la_turquie_kemaliste.
+  Signed English original, 'Romance and Revolution', no. 14 (August 1936); a Turkish translation ('Cazibe ve
+  devrim') exists in the archive.org item. Page not shown in the OCR. Wright, a Protestant educator in
+  Istanbul whose colleges operated under the Republic's regulation, writes for a Turkish government review; an
+  American college head is a recognisable but not disinterested witness. In the same piece he calls the
+  Turkish state 'a pattern for other nations' dissatisfied with ineffective governments (his words, not quoted
+  here). Evidence P (signed original), venue noted. Cited as La Turquie kémaliste no. 14 (August 1936),
+  'Romance and Revolution'.
+node: La Turquie kémaliste 1935–1938 — Haşim, Wright, Pittard, Ireland and Belge
+sources:
+  - url: https://archive.org/details/la_turquie_kemaliste
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org la_turquie_kemaliste 14_djvu.txt (no. 14, Août 1936); Turkish translation file labelled AGU1936
+  method: fetched djvu text, string match
+  note: >-
+    English verbatim after correcting OCR typos ('extraordinery', 'invadors'); the '…' elision is accurate.
+    Byline 'Walter L. Wright, Jr., President of the American College for Girls and of Robert College'. Own
+    view; gaze OK; venue noted.
+  checked_on: "2026-11-03"

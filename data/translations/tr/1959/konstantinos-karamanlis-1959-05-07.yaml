@@ -1,0 +1,39 @@
+# Turkish for data/voices/1959/konstantinos-karamanlis-1959-05-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: konstantinos-karamanlis-1959-05-07
+voice: Konstantinos Karamanlis
+role: >-
+  Yunanistan Başbakanı; Kıbrıs'a ilişkin Zürih–Londra antlaşmalarından üç ay sonra Esenboğa Havalimanı'na
+  (Ankara) varışında yaptığı açıklama
+quote: >-
+  Büyük Atatürk ve Elefterios Venizelos, Türk-Yunan dostluğunun temellerini attıkları zaman bu dostluk her iki
+  memleket için faydalı olmuştur. Bugün ise Türk-Yunan müşterek çalışmaları bir tarihi zaruret halini
+  almıştır.
+quote_kind: original-turkish
+summary: >-
+  Venizelos ile birlikte her iki ülkeye de yarar sağlayan bir Türk-Yunan dostluğunun temellerini atan 'Büyük
+  Atatürk'; yenilenen işbirliğini tarihi bir zorunluluk olarak sunmak için anıldı.
+caveat: >-
+  Basına varış açıklaması, 7 Mayıs 1959; aynı gün öğleden sonra Anıtkabir'i ziyaret etti (yalnızca anlatım).
+  Kişisel bir portreden ziyade siyasi bir atıf. Derlemede yeğeni Kostas Karamanlis (Başbakan, 2004–09) zaten
+  yer almaktadır; bu ise yaşlı Konstantinos'tur (1907–1998). Yunanca özgün metin görülmedi. Okuyucu ajan
+  tarafından sayfa görüntüsünden (Okan'ın Milliyet arşivi girişi) okundu ve ana ajan tarafından kırpılmış
+  görüntü üzerinden yeniden kontrol edildi.
+mediated_by: >-
+  Milliyet, 8 Mayıs 1959, s. 5 ('Karamanlis Ankara'da' devamı, 'Karamanlisin beyanatı' bölümü): havaalanı
+  açıklamasının gazetedeki Türkçe aktarımı
+verification_note: >-
+  Yazıya geçirme büyütülmüş kırpım üzerinde kontrol edildi: 'Büyük Atatürk ve Elefterios Venizelos' okunaklı.
+  Araçsal (mevcut işbirliğini desteklemek için kurucuları anıyor).
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9daba33eb1b5
+  role: b0d9e0f1041c
+  quote: dc6d4ba4eacf
+  summary: c85e78d1ecca
+  caveat: 0e76986164d7
+  mediated_by: 463dd976b07c
+  verification_note: 4dbc9140108b
+  verification_method: 1c3478366c90

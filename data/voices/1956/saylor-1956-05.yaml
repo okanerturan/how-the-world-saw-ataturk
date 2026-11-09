@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: saylor-1956-05
+voice: John P. Saylor
+voice_type: person
+role: U.S. Representative from Pennsylvania (coal district)
+country: United States
+country_now: United States
+domain: politics
+date: "1956-05-07"
+era: posthumous
+polarity: instrumental
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Offers Mustafa Kemal as a model for coal-state members of Congress: a 'fervent patriot' banished for his
+  views who later became Ataturk and President.
+quote:
+  text: >-
+    He was a fervent patriot who as a youth learned that his political views were not acceptable to incumbent
+    government leaders; in fact, he was at one time banished to Damascus for publicly expressing his views.
+  language: en
+caveat: >-
+  From an address to the American Mining Congress (Cincinnati) printed in the Extensions of Remarks; an
+  analogy for the coal industry's lobbying ('we took somewhat the same course of action that Mustafa Kemal
+  followed'), so Atatürk is a vehicle for the speaker's point. Two-column OCR; quote rebuilt from the
+  interleaved lines. Cited as Extensions of Remarks, 7 May 1956, Congressional Record vol. 102 (bound), p.
+  ~7669 (granule CRECB-1956-pt6-6-3). Page 7679; his own address to the American Mining Congress, inserted by
+  him.
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1956-pt6/pdf/GPO-CRECB-1956-pt6-6-3.pdf
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: GovInfo Congressional Record bound-edition PDF GPO-CRECB-1956-pt6-6-3, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads
+  note: >-
+    Quote verbatim, House Extensions of Remarks, Monday 7 May 1956. They are his own words: 'Mr. SAYLOR ... I
+    include the following address which I gave this morning before the American Mining Congress at
+    Cincinnati'. Also says 'as the famous Ataturk, he became President'. CORRECTION: the passage is on p.
+    7679, not 'p. ~7669'. Instrumental/2 fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22c)
+  checked_on: "2026-11-03"

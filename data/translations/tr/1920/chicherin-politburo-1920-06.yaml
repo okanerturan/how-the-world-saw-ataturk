@@ -1,0 +1,31 @@
+# Turkish for data/voices/1920/chicherin-politburo-1920-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: chicherin-politburo-1920-06
+voice: Georgy Chicherin
+role: Sovyet Dışişleri Halk Komiseri
+quote: >-
+  Mustafa Kemal'i bize boş konuşanlar ve aldatıcılar gözüyle bakmaya zorlayacaktır ve daha da önemlisi,
+  devrimci Türkiye ezilebilir
+quote_kind: translated
+summary: >-
+  Politbüro'ya sunduğu bir notta söz verilen silahların gönderilmesi için ısrar etti ve gecikmenin Mustafa
+  Kemal'in Moskova'yı boş konuşanlar ve aldatıcılar olarak görmesine yol açacağı uyarısında bulundu.
+caveat: >-
+  Alıntı, Rusça belgenin marxistleninists.org sitesinde yansılanan İngilizce çevirisidir (o sayfadaki sayı 83
+  belge); Rusça özgün metin görülmedi.
+verification_note: >-
+  Alıntı sayfadaki İngilizce metinle birebir aynı. DÜZELTME: belge o yansıda şerhte belirtildiği gibi sayı 70
+  değil, sayı 83'tür (o sayfadaki Chicherin'den Politbüro'ya yönelik kayıtlar sayı 80, 81 ve 83'tür; alıntı
+  yalnızca sayı 83'te yer almaktadır). Sayfa URL'sindeki tarih (april 23) yalnızca dosya adıdır; belgenin
+  tarihi 28 Haziran 1920'dir. Yalnızca İngilizce çeviri mevcuttur; Rusça özgün metin görülmedi.
+verification_method: Serbest erişimle getirildi; cümle sayfadaki İngilizce çeviride bulundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3db15f6c0d30
+  role: 548175e2e0fc
+  quote: 933d236b61d0
+  summary: 5906dc366cc7
+  caveat: 7e6bab9ec52c
+  verification_note: 5793eede6f25
+  verification_method: 7adf5d4505f2

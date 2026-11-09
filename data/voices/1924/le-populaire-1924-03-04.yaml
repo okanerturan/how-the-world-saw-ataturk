@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-populaire-1924-03-04
+voice: Le Populaire
+voice_type: press
+role: Paris Socialist daily
+country: France
+country_now: France
+domain: press
+date: "1924-03-04"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Reported Kemal's opening speech as stressing the nation's firm will to give the republic solid foundations.
+quote:
+  text: >-
+    Mustapha Kernel a relevé la volonté ferme de la nation turque d'assurer des bases solides au régime
+    républicain
+  language: fr
+caveat: >-
+  View 3. 'Kernel' is OCR for Kemal. Reporting; no stated view. Gallica ContentSearch fragment, OCR copied as
+  given; view number is Gallica's, not necessarily the printed page.
+node: Paris Dailies and the Abolition of the Caliphate, March 1924
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k818709n
+    archived: https://web.archive.org/web/20241225080102/https://gallica.bnf.fr/ark:/12148/bpt6k818709n/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica ContentSearch ark bpt6k818709n, PAG_3 fragment
+  method: ms fetch ContentSearch (query Kernel)
+  note: >-
+    Exact with OCR 'Kernel'; 'Le discours de Kemal' heading present. Issue date from ark not independently
+    confirmed.
+  checked_on: "2026-10-30"

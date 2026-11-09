@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: reagan-1988-06-27
+voice: Ronald Reagan
+voice_type: person
+role: President of the United States; welcome of President Evren
+country: United States
+country_now: United States
+domain: politics
+date: "1988-06-27"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Opens by quoting Atatürk's 'Happy is he who can call himself a Turk' and credits Evren with keeping Turkey
+  faithful to Atatürk's ideals.
+quote:
+  text: >-
+    The founder of the Turkish Republic, Mustafa Kemal Ataturk, once said, "Happy is he who can call himself a
+    Turk."
+  language: en
+caveat: >-
+  Courtesy welcome for the general who led the 1980 coup; Reagan also says 'We are well aware of your own
+  distinguished role, Mr. President, in maintaining Turkey's devotion to the ideals of Ataturk', which makes
+  Atatürk the yardstick of Evren's rule.
+node: American, French and Russian Leaders on Atatürk in Their Own Words
+sources:
+  - url: https://presidency.ucsb.edu/documents/remarks-the-welcoming-ceremony-for-president-kenan-evren-turkey
+    archived: https://web.archive.org/web/20250905165300/https://www.presidency.ucsb.edu/documents/remarks-the-welcoming-ceremony-for-president-kenan-evren-turkey
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://presidency.ucsb.edu/documents/remarks-the-welcoming-ceremony-for-president-kenan-evren-turkey
+    (June 27, 1988)
+  method: curl of UCSB page
+  note: >-
+    Verbatim opening quote and 'maintaining Turkey's devotion to the ideals of Ataturk' both present.
+    Instrumental/1 fair.
+  checked_on: "2026-11-03"

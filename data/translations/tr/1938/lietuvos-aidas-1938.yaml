@@ -1,0 +1,29 @@
+# Turkish for data/voices/1938/lietuvos-aidas-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lietuvos-aidas-1938
+voice: Lietuvos Aidas
+role: Litvanya yarı resmî günlük gazetesi (Smetona hükûmetinin gazetesi)
+quote: Türkiye bütün dünyanın takdirine layıktır.
+quote_kind: translated
+summary: >-
+  Okulları, üniversiteleri, kadınların rolü ve denizciliğiyle eskisinden kıyaslanamayacak kadar daha yeni ve
+  daha kusursuz bir devlet kurduğunu; Türkiye'nin dünyanın takdirini hak ettiğini söyledi.
+caveat: >-
+  Toksoy'daki gazete adları fonetik yazılmıştır; yabancı dildeki asılları görülmemiştir; Türkçe basın özetleri
+  tarafından özetlenmiştir.
+mediated_by: >-
+  Toksoy 2006 ← Akşam ve Kurun 16 Kasım, Ulus 15 Kasım, Cumhuriyet 15–16 Kasım, Tan 16 Kasım 1938, Ayın Tarihi
+verification_note: >-
+  Toksoy'daki yazım bozulmuştur; kapanış cümlesi olan 'Turkiye butun dunyanin takdirine layiktir' örtüşmektedir
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 844a3d01ad46
+  role: 1b2416ea1766
+  quote: 1f4188918c52
+  summary: 198b0eff7d6a
+  caveat: 15b48d70cc5b
+  mediated_by: 64e36ae2f40c
+  verification_note: 0fc3bd26f567
+  verification_method: 939bb46a04c3

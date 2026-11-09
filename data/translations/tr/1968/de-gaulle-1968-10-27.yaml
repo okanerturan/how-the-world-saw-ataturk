@@ -1,0 +1,40 @@
+# Turkish for data/voices/1968/de-gaulle-1968-10-27.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-gaulle-1968-10-27
+voice: Charles de Gaulle
+role: Fransa Cumhurbaşkanı, Türkiye'ye devlet ziyareti
+quote: >-
+  Atatürk ölebilirdi, çünkü ışık parlıyordu, çünkü alev yanıyordu, çünkü ülke yürüyüş halindeydi
+quote_kind: translated
+summary: >-
+  Atatürk'ün öldüğü Dolmabahçe'de, ışık parladığı, alev yandığı ve ülke yürüyüş halinde olduğu için onun
+  ölebileceğini yazar.
+caveat: >-
+  İkinci elden: Belleten defter kaydını Fransızca olarak basmaktadır. Aynı makale, Büyükelçi Roger Vaurs
+  tarafından not edilen, 29 Ekim'de Ankara'dan ayrılış uçuşundaki bir sözü aktarır: 'Vous avez vu vous-même
+  l'influence exercée par un grand homme d'Etat sur son pays, même après sa mort' (kayıt olarak saklanmadı:
+  iki kez aktarılmış, sonradan hatırlanan bir sözdür). 25-28 Ekim kadeh kaldırma konuşmalarının orijinal
+  Discours et messages metni bu turda açık erişimde bulunamadı.
+mediated_by: >-
+  Belleten 51/200 (Ağustos 1987), de Gaulle ziyareti üzerine TTK konferans metni (Türkçe aktarımın ardından
+  parantez içinde Fransızcası)
+verification_note: >-
+  Parantez içinde birebir şöyledir: '(Ataturk pouvait mourir, puisque la lumiere brillait, puisque la flamme
+  brulait, puisque le pays etait en marche)' (kayıt metni aksan işaretlerini taşımaktadır). Belleten bunu 27
+  Ekim Pazar gününe, Savarona ile Boğaz gezisinden önce Dolmabahçe Sarayı'nda 'where Ataturk closed his eyes'
+  özel deftere yazılmış olarak yerleştirir. Tarih ve yer doğrudur. 25 Ekim kaydıyla aynı kısıtlama söz
+  konusudur: defter kaydı yalnızca Belleten'in baskısı üzerinden görülmüştür; sayfa numarası yoktur. Uyarı
+  notundaki Vaurs'un uçuş sözü iddiası test edilmemiştir (kaydedilmedi). Düzeltme gerekmez.
+verification_method: >-
+  tam metnin tools/ms ile ücretsiz çekilmesi; kaydın ve 27 Ekim programındaki yerinin tespit edilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3a136c4049d6
+  role: c803018be80c
+  quote: c145b32a63e5
+  summary: beba0afab402
+  caveat: 7dbae02311dd
+  mediated_by: 51a565fcd531
+  verification_note: bd8baa6e829b
+  verification_method: 28f48f61332d

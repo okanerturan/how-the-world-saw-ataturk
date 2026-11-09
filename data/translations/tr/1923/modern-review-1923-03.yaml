@@ -1,0 +1,31 @@
+# Turkish for data/voices/1923/modern-review-1923-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: modern-review-1923-03
+voice: The Modern Review
+role: >-
+  Kalküta'da yayımlanan İngilizce aylık dergi (editör Ramananda Chatterjee), editoryal Notes bölümü
+quote: >-
+  Hindistan'daki Müslümanlar tarafından Mustafa Kemal Paşa'ya bir uçak satın alıp armağan etmek üzere
+  toplanmakta olan Fon
+quote_kind: translated
+summary: >-
+  Hint Müslümanlarının Kemal'e uçak almak için kurduğu fona itiraz etti: havadan bombardıman sivilleri
+  öldürür, dolayısıyla sessiz kalmak dolaylı destek anlamına gelir.
+caveat: >-
+  Editoryal Notes yazıları imzasızdır; editöre atıf görevi dolayısıyladır. OCR başlıklarına göre yaklaşık s.
+  396-397. Kemal'in şahsını değil, fonu ve sonuçlarını hedef alır; aynı Notes başka yerlerde uluslararası
+  adalet konusunda Türkiye'nin yanında yer alır.
+verification_note: >-
+  Kelimesi kelimesine (yalnızca OCR satır bölünmeleri var); 'cannot even indirectly support the project by our
+  silence' ifadesi iddiayı doğruluyor.
+verification_method: archive.org 1923_v33_djvu.txt üzerinde grep araması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 84251b4a21a5
+  role: 817d0e761017
+  quote: eccd7d6cafd3
+  summary: bdc574146372
+  caveat: 8d0b0c4247c7
+  verification_note: 86596d30e7ff
+  verification_method: 78a6d19be26a

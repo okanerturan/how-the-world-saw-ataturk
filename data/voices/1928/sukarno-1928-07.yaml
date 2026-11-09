@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sukarno-1928-07
+voice: Sukarno
+voice_type: person
+role: PNI chairman, nationalist writer
+country: Dutch East Indies
+country_now: Indonesia
+domain: politics
+date: "1928-07"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: article
+evidence: P
+summary: >-
+  Listed Kemal's victory at Afyon Karahisar with Japan's 1905 win as a victory of East over West that all Asia
+  felt as its own.
+quote:
+  text: >-
+    kemenangan Mustafa Kemal Pasha dipadang peperangan Afiun Karahisar oleh seluruh dunia Asia dirasakan pula
+    sebagai suatu kemenangan Timur di atas Barat
+  language: id
+caveat: >-
+  'Indonesianisme dan Pan-Asiatisme' (after Keng Po of 9 July); the DBR vol. 1 prints the year only for the
+  neighbouring piece (Suluh Indonesia Muda, 1928), so month is inferred from the Keng Po date. Archive.org
+  leaf n88.
+node: Sukarno Reads Kemal, 1928–1940
+sources:
+  - url: https://archive.org/details/soekarno-dibawah-bendera-revolusi-1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA soekarno-dibawah-bendera-revolusi-1 djvu text, 'Indonesianisme dan Pan-Asiatisme'
+  method: archive.org djvu text
+  note: >-
+    Verbatim 'kemenangan Mustafa Kemal Pasha dipadang peperangan Afiun Karahisar oleh seluruh dunia Asia
+    dirasakan pula sebagai suatu kemenangan Timur di atas Barat'; paired with Japan 1905. Piece opens 'Keng Po
+    9 Juli yang lalu'; year/month inferred (1928) as caveat says.
+  checked_on: "2026-10-29"

@@ -1,0 +1,19 @@
+# Turkish for data/voices/1922/manawatu-standard-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: manawatu-standard-1922
+voice: Manawatu Standard
+role: Palmerston North akşam gazetesi, başyazı
+quote: Mustafa Kemal Paşa'nın son savaştaki İtilaf zaferini altüst etme girişimi
+quote_kind: translated
+summary: >-
+  Kemal'in konferansı kabul etmesini memnuniyetle karşıladı, arkasında Rusya'yı gördü ve girişimine direnmeye
+  hazır 13.000 Yeni Zelandalı gönüllüye işaret etti.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 887dd68e6a57
+  role: 0c95ffa6e0ed
+  quote: 857faa8e4284
+  summary: 09f16067cb32
+  verification_method: ad8cee67138e

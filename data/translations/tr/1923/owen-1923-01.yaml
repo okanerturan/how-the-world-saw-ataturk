@@ -1,0 +1,33 @@
+# Turkish for data/voices/1923/owen-1923-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: owen-1923-01
+voice: Robert L. Owen
+role: ABD Oklahoma Senatörü (Demokrat)
+quote: >-
+  işte Türk olmasına rağmen Amerikan dilini konuşan bir adam; son derece eğitimli bir adam; dünya uluslarının
+  tarihi konusunda bilgi sahibi biri … Dinlenmeyi hak ediyor.
+quote_kind: translated
+summary: >-
+  Kemal'in Amerika'ya hitabını 'dikkat çekici' olarak sunuyor: Kurucu Babalar gibi dış tahakkümden kurtulup
+  özgürlük isteyen Türkler adına konuşan eğitimli bir adam.
+caveat: >-
+  Owen'ın kendi takdimi (yaklaşık 200 kelime); tutanağa geçirdiği Herald mülakatı ve hitap ('Kemal demands
+  absolute independence for Turkey', 'George Washington' ifadesi dahil) Kemal'e aittir ve dahil edilmemiştir.
+  Senatör King aynı oturumda kendisine yanıt verir (bkz. onun kaydı). İlk döneminin başlamasından bir ay
+  sonra, Lozan Konferansı devam ederken kayda geçmiştir. Kaynak: Senato, 26 Ocak 1923, 'Mustapha Kemal —
+  Conditions in Near East', Congressional Record c. 64 (ciltli), s. ~2487 (granül CRECB-1923-pt3-v64-4-1).
+verification_note: >-
+  Üç noktalı birebir alıntı ('a man who declares with authority the purpose of the nationalists' kısmını
+  atlar). Tutanağa geçirilen Kemal hitabından önce Owen'ın kendi takdimi. 'Like our forefathers' ifadesi
+  Owen'a aittir. Hayranlık 2 uygun.
+verification_method: govinfo ciltli baskı granülünün pdftotext -layout çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f5da8239c15f
+  role: fd50bb5b77e3
+  quote: 5046e9626d3d
+  summary: 243347a38940
+  caveat: 0cbb9e3e5196
+  verification_note: 6ed27c954ff7
+  verification_method: bcff62915140

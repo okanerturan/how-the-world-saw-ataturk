@@ -1,0 +1,36 @@
+# Turkish for data/voices/1930/iqbal-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: iqbal-1930
+voice: Muhammad Iqbal
+role: Hint İslamının şair-filozofu
+quote: Şahsen, Türk görüşünün tam anlamıyla sağlam olduğuna inanıyorum.
+quote_kind: translated
+summary: >-
+  Türkiye'nin hilafet konusundaki içtihadını tam anlamıyla sağlam, Türkiye'yi ise dogmatik uykusundan uyanmış
+  tek Müslüman ulus olarak nitelendirir; Atatürk'ün adı geçmez.
+caveat: >-
+  VI. Konferans, 'The Principle of Movement in the Structure of Islam' (1928–29'da verilen konferanslar; Lahor
+  1930, Oxford 1934). Mustafa Kemal'in adı hiç anılmaz: özne 'Turkey' ve 'the Turk'tür. Sayfa numaraları
+  (yaklaşık 149–150 hilafet; 154 'dogmatic slumber') basılı sayfa kontrolünden değil, 1934 tarihli
+  dli.ministry.19661 taramasındaki üstbilgilerden elde edilmiştir.
+verification_note: >-
+  s. 149'da (sayfa üstbilgisi '149') birebir aynı: 'Personally, I believe the Turkish view is perfectly
+  sound.' (Hilafet/İçtihat pasajında: 'Turkey’s Ijtihad is that according to the spirit of Islam the Caliphate
+  or Imamate can be vested in a body of persons, or an elected Assembly'). s. 154'te birebir aynı: 'Turkey
+  alone has shaken off its dogmatic slumber, and attained to self-consciousness.' Dolayısıyla sayfalar 149 ve
+  154 olarak doğrulanmıştır (çekince notundaki 'c. 149-150' kesinleştirilebilir). Kemal'in adı geçmez (çekince
+  notunda belirtiliyor). Tarama 1930 Lahor baskısına değil 1934 Oxford baskısına aittir; dolayısıyla '1930'
+  tarihi konferansların kitap olarak ilk yayımlanış tarihidir ve 1930 baskısındaki ifadeler
+  karşılaştırılmamıştır. Başka düzeltme yok.
+verification_method: >-
+  archive.org djvu metni curl ile doğrudan çekildi; her iki pasaj ve üstbilgi sayfa numaraları tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6579788f8f7e
+  role: a889370c6c58
+  quote: 1a609cfa380a
+  summary: 90d8895cf7dd
+  caveat: c7d85a77e9e3
+  verification_note: 7443cdeabe4e
+  verification_method: 8d56ac4690e8

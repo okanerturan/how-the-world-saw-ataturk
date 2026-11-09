@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: unesco-20th-general-conference-1978
+voice: UNESCO 20th General Conference
+voice_type: institution
+role: UN cultural organisation
+country: International (UNESCO)
+country_now: International (UNESCO)
+domain: diplomacy
+date: "1978"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: policy
+evidence: T
+summary: >-
+  Resolved to mark 1981, the centenary of his birth, recognising an exceptional reformer and leader of an
+  early struggle against colonialism and imperialism.
+quote:
+  text: the leader of the first struggle given against colonialism and imperialism
+  language: en
+caveat: >-
+  Resolution number unpinned; 'adopted unanimously by 152 members' is a Turkish embellishment. Wording is the
+  English text at ataturktoday.com; its Turkish rendering says 'one of the first leaders', and the official
+  UNESCO text was unreachable (2026-10-29), so the exact wording is unsettled.
+node: Atatürk Centennial
+sources:
+  - url: https://www.ataturktoday.com/RefBib/1981UNESCOAtaturkCentennial.htm
+    archived: https://web.archive.org/web/20241110223858/https://www.ataturktoday.com/RefBib/1981UNESCOAtaturkCentennial.htm
+  - url: https://unesdoc.unesco.org/ark:/48223/pf0000114032
+    archived: https://web.archive.org/web/20261001135500/https://unesdoc.unesco.org/ark:/48223/pf0000114032
+verification:
+  verdict: partial
+  checked_against: >-
+    https://www.ataturktoday.com/RefBib/1981UNESCOAtaturkCentennial.htm ; unesdoc empty_content
+  method: fetch
+  note: >-
+    Resolution (27 Nov 1978) confirmed, but the English text there reads 'the leader of the first struggle
+    given against colonialism and imperialism', not 'one of the earliest'. Turkish rendering says 'ilk
+    liderlerinden biri'. Official UNESCO document unreachable.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"
+  quote_found: false

@@ -1,0 +1,36 @@
+# Turkish for data/voices/1922/lyautey-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lyautey-1922
+voice: Hubert Lyautey
+role: Fransa Mareşali, Fas Genel Valisi
+summary: >-
+  Kemal ile yazıştı (20 Mart 1922 tarihli mektubu Kemal'in Aralık 1921 tarihli mektubuna yanıttı) ve Eylül
+  1922 zaferleri dolayısıyla onu tebrik etti.
+caveat: >-
+  Okunan ciltlerde Lyautey'in kendi ifadeleri basılı değildir; tebrikleri, Kemal'in (Paris'teki Ferid Bey
+  aracılığıyla gönderdiği) ve kendisini 'the dearest friend of the Islamic and Turkish world' olarak
+  nitelendirdiği 25 Eylül 1922 tarihli yanıtından bilinmektedir. Kutupluluk, zaferleri tebrik etme eylemine
+  dayanmaktadır.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri c. 12 s. 157, 375 ve c. 13 (Kaynak 2004) s. 325 ← Şimşir, Atatürk ile Yazışmalar I
+  (1981) s. 205, 291 ← Türk Dışişleri Bakanlığı arşivi; Kemal'in Aralık 1921 mektubu ← F. Pekin, Belleten 20
+  (1956) s. 654–655
+verification_note: >-
+  Her üç unsur da belirtilen yerdedir. s. 375'te Kemal, Lyautey'in mektubunu 'a reply to the letter we sent
+  through Madame Gaulis' olarak nitelendirmektedir (Şimşir'in notu mektubun tarihini 20 Mart 1922 olarak
+  verir). s. 325'te Kemal, zaferler dolayısıyla gönderdiği tebrikler için 'one of the most renowned commanders
+  of our age, the dearest friend of the Islamic and Turkish world' diyerek kendisine teşekkür etmektedir.
+  Lyautey'in kendi sözleri basılı değildir. Hayranlık kutupluluğu tebrik etme eylemine dayanmaktadır ki bu
+  adildir ve çekince notunda da belirtilmiştir. Lyautey önemli bir şahsiyettir ve karşılıklı bir yazışma söz
+  konusudur; dolayısıyla kayıt temas kuralından geçer.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 48c650872559
+  role: d7c3367a819c
+  summary: 4d5f6b505287
+  caveat: a6fac4287a6f
+  mediated_by: 955812b5e621
+  verification_note: e8b951c5660b
+  verification_method: b152e9063489

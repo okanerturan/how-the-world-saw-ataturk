@@ -1,0 +1,19 @@
+# Turkish for data/voices/1933/feilding-star-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: feilding-star-1933
+voice: Feilding Star
+role: Manawatu haftalık-günlük taşra gazetesi, 'New Turkey's Decade' başyazısı
+quote: tek bir adam sorumludur
+quote_kind: translated
+summary: >-
+  Cumhuriyetin ve diktatörlüğün onuncu yılını değerlendirdi; haremi, çok eşliliği ve eşkıyalığı ortadan
+  kaldırma başarısını tek bir adama atfederek bunu İtalya'nın kurtuluşuna benzetti.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f7758cb71845
+  role: 9b8fda2c6440
+  quote: 933c2abe7e9e
+  summary: 221d899d0d2d
+  verification_method: ad8cee67138e

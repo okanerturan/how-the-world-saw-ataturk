@@ -1,0 +1,27 @@
+# Turkish for data/voices/1920/kocgiri-dersim-leaders-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kocgiri-dersim-leaders-1920
+voice: Koçgiri ve Dersim Kürt liderleri
+role: Koçgiri ve Dersim aşiret liderleri
+summary: >-
+  Ankara'dan, Padişah hükümetiyle kararlaştırılan Kürt özerkliğini kabul edip etmediğine 24 Kasım'a kadar
+  yanıt vermesini, tutukluları serbest bırakmasını ve memurlar ile birlikleri geri çekmesini talep ettiler.
+caveat: >-
+  Alıntıda metnin biçimi (telgraf mı yoksa yazılı bildiri mi olduğu) belirsizdir; odak doğrudan Mustafa
+  Kemal'in adı üzerinde değil, Ankara hükümeti üzerindedir. Metin kontrol edilmedi (kaynağa erişilemedi, 29
+  Ekim 2026).
+mediated_by: Olson 1989 <- Dersimi, Kürdistan s.143
+verification_note: >-
+  Olson 1989 makalesi ücretli erişim duvarı arkasında; 24 Kasım son tarihi / telgraf iddiası ve Dersimi s. 143
+  kontrol edilemiyor.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 331edfa3d530
+  role: 86f3d96bee8a
+  summary: 9a81bd2b57e5
+  caveat: 0b469fbcc0fb
+  mediated_by: 5c0fcf677ca8
+  verification_note: a2d22216377b
+  verification_method: ad8cee67138e

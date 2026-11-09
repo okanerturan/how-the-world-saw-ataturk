@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zafar-ali-khan-1923-angora
+voice: Zafar Ali Khan
+voice_type: person
+role: Urdu poet and editor of Zamindar
+country: British India
+country_now: India
+domain: letters
+date: "1923"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: poem
+evidence: P
+summary: >-
+  Poem 'Angora': had Mustafa not founded the Angora order, Curzon would have finished Angora; its fame spreads
+  from Kabul to Cairo and Damascus.
+quote:
+  text: مصطفیٰ قائم نہ کرتا گر نظامِ انگورہ کا / کام کرزن نے کیا ہی تھا تمامِ انگورہ کا
+  language: ur
+caveat: >-
+  Translation of the quote: 'Had Mustafa not established the order of Angora / Curzon had already finished off
+  Angora.' Poem 'Angora', printed p. 273 (contents list p. 274; PDF page 295) of Baharistan, Parts 1-2
+  (Gujrat, 1937, 'forty years of verse'), read on the page image (4 Nov 2026). The poem is undated in the
+  book; the 1923 date is inferred from the reference to Curzon (Lausanne talks, foreign secretary to Jan 1924)
+  and Amanullah Khan, and may be a year or two off. Not a 1919-22 Khilafat-era text. Check: the date is
+  inferred (Curzon and Amanullah references); the book is the 1937 Baharistan.
+node: Zafar Ali Khan — Angora, a poem in Baharistan (1937)
+sources:
+  - url: https://archive.org/details/dli.ernet.449733
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Baharistan Parts 1-2, archive.org dli.ernet.449733, PDF p. 295 (printed 273)
+  method: rendered PDF page and READ Urdu on the image
+  note: >-
+    Couplet verbatim ('Mustafa qaim na karta gar nizam-e Angora ka / kam Curzon ne kiya hi tha tamam-e Angora
+    ka'); translation faithful; Kabul/Hind/Iraq/Egypt/Sham line also present. Poem is undated in the book: the
+    1923 date is an inference (Curzon, Amanullah) and cannot be confirmed; era 'contemporary' is safe for any
+    date before 1937 publication, but the date field should be hedged or shown as approximate.
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (rounds 26–28)
+  checked_on: "2026-11-05"

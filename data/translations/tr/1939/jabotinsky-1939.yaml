@@ -1,0 +1,40 @@
+# Turkish for data/voices/1939/jabotinsky-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jabotinsky-1939
+voice: Ze'ev Jabotinsky
+role: Revizyonist Siyonizmin kurucusu
+quote: Kemal Paşa da bir keresinde Ermeni azınlıktan kurtulmuştu… onları katlederek.
+quote_kind: translated
+summary: >-
+  Güney Tirol nakli üzerine, Kemal Paşa'yı azınlıklardan kurtulan yöneticiler arasında saydı: Ermenilerden
+  katliamla, Rumlardan ise 1923'te sürgünle.
+caveat: >-
+  Hassas: Ermeni katliamlarının Kemal'e atfı Jabotinsky'ye aittir; kayda geçirilmiştir, benimsenmemiştir.
+  Çevirinin çevirisidir. Deneme daha sonra, görünüşe göre Zangwill'in hatırlanan sözleri olarak, 1923
+  mübadelesinin faydalı sonuç verdiğine dair bir görüşü aktarır. Kontrol: 1923 mübadelesinin faydalı sonuç
+  verdiği görüşü Zangwill'e değil, 1936'da Cenevre'deki bir muhataba ('Ваше Сиятельство') aittir;
+  Jabotinsky'nin kendisi ise bunu 'зверским изгнанием' (vahşice sürgün) olarak nitelendirir.
+mediated_by: >-
+  'B. Ts.'nin Rusça çevirisi (Wikisource, Khroniki Ierusalima'dan) ← 'A Talk with Zangwill', Hadegel
+  (Revizyonist dergi, Mançurya/Çin), 1939
+verification_note: >-
+  Rusça metin birebir aynı; Jabotinsky'nin kendi anlatımında ('Новый и все же не новый' bölümü), devamında
+  1923'te 'в Македонию' sürgün edilen Rumlar geliyor; daha sonra 1923 emsalini 'усилил мою антипатию'
+  ifadesiyle birlikte 'зверским изгнанием' olarak nitelendiriyor ki bu da düşmanca nitelemesini destekliyor.
+  Başlık bilgisi: çevirmen Б.Ц.; 'Гадегель'de (Betar, Mançukuo/Çin) 1939'da yayımlanmış. Düzeltmeler: (1)
+  'mübadelenin faydalı sonuç verdiği' görüşü Zangwill'e ait değildir; Milletler Cemiyeti çevrelerinden,
+  kendisine 'Ваше Сиятельство' diye hitap edilen 1936 Cenevre muhatabına aittir. (2) 'Çevirinin çevirisidir'
+  ifadesi desteklenmemektedir: sayfada bir çevirmen adı yer almakta fakat özgün dil belirtilmemektedir.
+  İhtiyat kaydı nötrdür.
+verification_method: web'den çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 15c6d2fb165d
+  role: 27142476e56e
+  quote: 71aab5c5b7f8
+  summary: 486bd0792779
+  caveat: 41116a21d109
+  mediated_by: b4c066532f81
+  verification_note: 239d3eeb8e76
+  verification_method: ad8cee67138e

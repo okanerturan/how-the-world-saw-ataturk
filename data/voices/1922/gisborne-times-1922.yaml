@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: gisborne-times-1922
+voice: Gisborne Times
+voice_type: press
+role: Gisborne daily, leader
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1922-09-28"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Rated Kemal a born political strategist whose Anatolian victory inspirited the Turks, yet judged his advance
+  a bluff and talk of wider trouble overblown.
+quote:
+  text: Kemal Pasha is more than a military leader
+  language: en
+caveat: >-
+  Quote is the leader's; the continuation ('lie is a born political strategist') is OCR-corrupted.
+node: New Zealand Editors on Kemal, September 1922 – 1923
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/GIST19220928.2.16
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: paperspast GIST19220928.2.16 via wrapper fetch (headline 'Kemal Pasha's Bluff')
+  method: fetch
+  checked_on: "2026-10-29"

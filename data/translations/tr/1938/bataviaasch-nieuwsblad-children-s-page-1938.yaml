@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/bataviaasch-nieuwsblad-children-s-page-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bataviaasch-nieuwsblad-children-s-page-1938
+voice: Bataviaasch Nieuwsblad çocuk sayfası
+role: Batavya günlük gazetesi, gençlik sayfası
+summary: >-
+  Atatürk birkaç yıl içinde Türkiye'yi geri kalmış bir Asya ülkesinden mükemmel biçimde örgütlenmiş bir Batı
+  devletine dönüştürdü.
+verification_note: >-
+  Metin 'backward Asiatic land into excellently organised Western state' ifadesini doğruluyor; OCR'da çocuk
+  sayfası başlığı görünmüyor; kayıt kaynaklarında Delpher urn bilgisi eksik
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0c16fba329cd
+  role: d1d9f73709b4
+  summary: 114c991ab10d
+  verification_note: 42ee1efb6f0b
+  verification_method: ad8cee67138e

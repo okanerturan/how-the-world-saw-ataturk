@@ -1,0 +1,30 @@
+# Turkish for data/voices/1938/jiang-tingfu-1938-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jiang-tingfu-1938-07
+voice: Jiang Tingfu (蔣廷黻)
+role: Tarihçi, Tsinghua profesörü
+quote: >-
+  Türkler o büyük ulusal felaketten geçtikten sonra hep birlikte birleşerek ulusal lider Kemal'i desteklediler
+  ve ancak bu sayede yeniden kalkınabildiler. Kemal tek yürek ve tek düşünceyle ülkeye hizmet etti, bundan
+  başka hiçbir şey bilmedi
+quote_kind: translated
+summary: >-
+  Türklerin, ülkeye tek bir amaçla hizmet eden ve modern kültürü köküne kadar benimseyen Kemal'in arkasında
+  birleşerek toparlandığını söyledi.
+caveat: >-
+  İlk baskı tarihi (Temmuz 1938) Wikisource sayfasından değil, bir kitapçının tanıtım yazısından (J)
+  alınmıştır; Wikisource metninin başlığı 中國近代史大綱 şeklindedir.
+verification_note: >-
+  Birebir iki cümlelik pasaj; 1938-07 tarihi Wikisource sayfasında yer almıyor (çekince notunda belirtildiği
+  gibi kitapçı tanıtım yazısından).
+verification_method: ms getirme, Wikisource ayrıştırma
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e2386b639061
+  role: 0ebf54c11168
+  quote: 1c0b60b26b2c
+  summary: e6d2be45b97d
+  caveat: 013c8e03a0f8
+  verification_note: ce86cd74b604
+  verification_method: 34e4baae05a2

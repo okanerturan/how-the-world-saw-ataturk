@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ibrahim-suryya-62-deputies-1921-09-19
+voice: İbrahim Süreyya (Saruhan) and 62 deputies
+voice_type: collective
+role: Signatories of the Gazi/Marshal bill
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-09-19"
+era: contemporary
+polarity: admiring
+intensity: 3
+mirror: internal-mirror
+artifact: policy
+evidence: P
+summary: >-
+  Proposed by law, as the nation's sign of thanks, the Gazi title and Marshal's rank for the
+  Commander-in-Chief, calling him the saviour of the homeland.
+quote:
+  text: >-
+    Mücahedei hudapesendanesiyle vatanın halaskarı ve zaferi ahirin âmili olan Reisi Muhterememiz Başkumandan
+    Mustafa Kemal Paşa Hazretlerine milletin alâmeti şükranı olmak üzere müstahak oldukları gazilik unvanının
+    ita ve rütbei müşiri tevcihini
+  language: tr
+caveat: >-
+  Bill (2/351); the agenda heading says 've 62 arkadaşı' while the Reis speaks of 'seksen küsur imza'. The
+  printed list includes Hüsrev, Yunus Nadi, Halil Hulki, Besim Atalay, Mustafa Durak. The law passed by show
+  of hands, 'müttefikan', the same day. Printed p. 263.
+node: Gazi and Marshal — The Assembly's Vote of 19 September 1921
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012079.pdf
+    archived: https://web.archive.org/web/20240917105714/https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012079.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM d01/c012/tbmm01012079.pdf, bill 2/351 heading 'Saruhan Mebusu İbrahim Süreyya Beyle 62 arkadaşı', 19
+    Eylül 1337, p.263
+  method: pdftotext two-column crop (col.py)
+  note: Verbatim; 'müttefikan kabul olundu' by show of hands also present.
+  checked_on: "2026-10-30"

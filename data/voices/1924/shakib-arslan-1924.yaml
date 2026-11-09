@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: shakib-arslan-1924
+voice: Shakib Arslan
+voice_type: person
+role: Pan-Islamist publicist, 'Prince of Eloquence'
+country: Lebanon (Geneva exile)
+country_now: Lebanon
+domain: religion
+date: "1924"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: S
+summary: >-
+  Particularly hostile: independence is worthless if used to imitate the West; the abolition of the Caliphate
+  fixed Kemalism as his negative pole.
+caveat: >-
+  No Arslan text is quoted in the note; date taken from the 1924 abolition. text unchecked (source unreachable
+  2026-10-29)
+node: Shakib Arslan
+sources:
+  - url: https://encyclopedia.1914-1918-online.net/article/arslan-shakib-amir/
+    archived: https://web.archive.org/web/20260629031645/https://encyclopedia.1914-1918-online.net/article/arslan-shakib-amir/
+  - url: https://www.goodreads.com/book/show/714292.Islam_Against_the_West
+    archived: https://web.archive.org/web/20210214112014/https://www.goodreads.com/book/show/714292.Islam_Against_the_West
+verification:
+  verdict: secondary-only
+  checked_against: >-
+    https://www.goodreads.com/book/show/714292.Islam_Against_the_West (reader review);
+    encyclopedia.1914-1918-online.net blocked by Anubis
+  method: fetch
+  note: >-
+    Only a Goodreads review reached: says Arslan criticised Kemalists for blindly mimicking Europe and
+    defended the Caliphate. Not a scholarly source; 'independence worthless if used to imitate the West'
+    wording and 1924 date not supported by a checked text
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

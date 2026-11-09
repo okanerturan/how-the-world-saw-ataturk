@@ -1,0 +1,45 @@
+# Turkish for data/voices/1942/zaki-mubarak-1942.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zaki-mubarak-1942
+voice: Zaki Mubarak
+role: Mısırlı yazar ve eleştirmen
+quote: >-
+  Merhum Mustafa Kemal, Âdem ile Havva'nın Türk asıllı olduğunu iddia etmişti ve bu korkunç iddia beni
+  rahatsız etmişti.
+quote_kind: translated
+summary: >-
+  'Merhum Mustafa Kemal'in Âdem ile Havva'nın Türk olduğunu iddia ettiğini hatırlatır; bu iddiayı korkunç
+  bulmuş ve Kemal'e onların Arap olduğunu yazmıştır.
+caveat: >-
+  al-Risala sayı 458, 13 Nisan 1942, Wikisource sayfası 'مجلة الرسالة/العدد 458/اجتماع الملائكة في مسجد
+  الفردوس' olarak kaynak gösterilmiştir. Mubarak, bunun üzerine Kemal'e etimolojiden hareketle Âdem ile
+  Havva'nın Arap olduğunu savunan bir mektup yazdığını söyler; mektuba dair bir yanıt veya suret zikredilmez,
+  dolayısıyla mektup yalnızca kendi iddiasıdır. Kemal'e atfedilen Âdem ile Havva iddiası, Mubarak'ın Türk
+  Tarih Tezi dönemine ilişkin aktarımıdır, burada doğrulanmamıştır. Mizahi bir tondadır. Wikisource
+  transkripsiyonu. Kontrol: ('al-marhum', 'Allah onu bağışlasın' diye anılan) Kemal'e atfedilen bir iddiayla
+  mizahi bir alay söz konusudur, kanıtlanmış bir düşmanlık değil; sayfa bu iddia için kaynak vermez.
+  Kutupluluk hasmane → tanık.
+verification_note: >-
+  Arapça alıntı birebir aynı; üstbilgi 'مؤلف= زكي مبارك', tarih 13-04-1942, imza 'زكي مبارك'. Âdem üzerine
+  mizahi bir yazıda, Abu al-'Ala alıntılarının hemen ardından gelen birinci tekil şahıs ara sözü ('وبهذه
+  المناسبة أقول'). Ayrıca Kemal'in — 'غفر الله له' — hiç yanıt vermediğini ve Türklerin kendisine Kemal'in
+  Arap harflerini okumayacağını söylediğini yazar. Çeviri ve what_they_saw sadık. Sorun kutupluluktur:
+  'الفظيع' dediği şey, şaka yollu olarak Kemal'e atfedilen 'iddia'dır (زعم) ve 'المرحوم' ile 'غفر الله له'
+  ifadelerini kullanır; bu bir tezle alay etmektir, Atatürk'e yönelik kanıtlanmış bir düşmanlık değil. Âdem
+  ile Havva iddiası ve mektup yalnızca Mubarak'ın aktarımıdır (çekince notu bunu zaten belirtiyor). DÜZELTME:
+  'hasmane' kutupluluğu aşırı bir okumadır; 'tanık' kullanılmalı (veya hasmane yalnızca açık bir 'mizahi,
+  hafif' şerhiyle korunmalı), yoğunluk 1; sayfanın kendisinin Kemal'in Âdem iddiası için kaynak vermediği
+  eklenmeli. Dönem ölüm sonrası, doğru; şema bunun dışında tamam.
+verification_method: >-
+  action=raw alındı, Arapça alıntının harekeleri normalleştirilmiş alt dize eşleşmesi yapıldı, ardından
+  çevreleyen pasaj, üstbilgi tarihi ve sondaki imza okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 65040c4ea869
+  role: 5f2277a10d95
+  quote: 5e18cc3c118b
+  summary: dda2c35846c5
+  caveat: cd322be700d8
+  verification_note: dfba699c8de2
+  verification_method: 0d2d412521a8

@@ -1,0 +1,43 @@
+# Turkish for data/voices/1928/amanullah-1928-05-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: amanullah-1928-05-20
+voice: Amanullah Khan
+role: Afganistan Kralı
+quote: >-
+  Sizi bunun yegâne amili bildiğim cihetle Zatı biraderinize karşı büyük bir hissi muhabbet ve halel-i napezir
+  bir imtina duymaktayım.
+quote_kind: original-turkish
+summary: >-
+  Ankara'daki ziyafette Atatürk'e kardeşi ve Türkiye'nin dokuz yıllık yükselişinin tek yaratıcısı diye hitap
+  etti ve büyük bir sevgi duyduğunu söyledi.
+caveat: >-
+  20 Mayıs 1928 devlet ziyafetinde çeviri yoluyla yapılan bir konuşmanın Osmanlı Türkçesi metni. Çevirisi:
+  'Sizi bunun tek yaratıcısı bildiğimden, biraderim olan zatınıza karşı büyük bir sevgi ve sarsılmaz bir
+  (minnettarlık/saygı) duymaktayım'; basılı metindeki 'imtina' muhtemelen 'imtinan' (minnettarlık) olmalıdır.
+  Şimşir sayfasına Akbaş tarafından önceki paragraflar için, bu paragraf için ise Sarıhan/Hizmet kaynaklarına
+  atıf yapılmıştır. Ev sahipleri arasında kadeh kaldırma konuşması: aynı zamanda tören niteliği taşır.
+mediated_by: >-
+  Akbaş 2008 s. 319 ← Sarıhan s. 35 ve Hizmet 22 Mayıs 1928 s. 1 (bu pasaj); aynı konuşmanın girişi ← Şimşir
+  c. I s. 34
+verification_note: >-
+  Birebir: 'Sizi bunun yegâne amili bildiğim cihetle Zatı biraderinize karşı büyük bir hissi muhabbet ve
+  halel-i napezir bir imtina duymaktayım.' Atıf yapıldığı gibi s. 319'da; kadeh kaldırma konuşması Atatürk'ün
+  konuşmasını izler ve Amanullah'ın yanıtı 'Emanullah Han da ... şöyle dile getirdi' şeklinde sunulur.
+  Makalede olduğu gibi 'imtina' şeklinde basılmıştır (muhtemelen 'imtinan'). Türkçe metin, Amanullah'ın kendi
+  dilindeki sözleri değil, basında yayımlanan çeviridir (makaleye göre konuşma basın için Fransızcaya
+  çevrilmiştir). Şimşir sayfasına (I s. 33-34) yalnızca önceki paragraflar için atıf yapılmıştır; bu paragraf,
+  kaydın belirttiği gibi Sarıhan s. 35 ve Hizmet'e dayanmaktadır.
+verification_method: >-
+  ataturkilkeleri.deu.edu.tr adresindeki açık erişimli PDF'in tools/ms ile doğrudan indirilmesi; pasaj ve
+  sayfa sonu tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 83eaf4200ea0
+  role: 390bb7c4bd0e
+  quote: f0fc32475771
+  summary: f7f52a758fad
+  caveat: 591a369954d1
+  mediated_by: 36dc5aa2690b
+  verification_note: c75b19bd8c5f
+  verification_method: 6ca1d0007b47

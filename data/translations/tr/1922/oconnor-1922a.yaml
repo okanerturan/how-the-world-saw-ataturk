@@ -1,0 +1,21 @@
+# Turkish for data/voices/1922/oconnor-1922a.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: oconnor-1922a
+voice: T. P. O'Connor (Milletvekili)
+role: Liverpool Scotland milletvekili, dışişleri görüşmesi
+quote: >-
+  ordusunda bir general olarak Angora'da Mustafa Kemal'e katıldı. M. Bouillon'un aydın devlet adamları işte
+  bunlardır.
+quote_kind: translated
+summary: >-
+  Malta'dan kaçıp Kemal'e katılan, katliamla suçlanan bir generali örnek göstererek, Fransızların Kemal'in
+  çevresini aydın devlet adamları olarak görmesiyle alay etti.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: da34cd5cb9b9
+  role: 34c9fd542947
+  quote: cfc243b6cd02
+  summary: 6a0c990128c6
+  verification_method: a033a528b603

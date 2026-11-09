@@ -1,0 +1,38 @@
+# Turkish for data/voices/1999/fischer-1999-12-16.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: fischer-1999-12-16
+voice: Joschka Fischer
+role: Almanya Dışişleri Bakanı ve Şansölye Yardımcısı (Bündnis 90/Die Grünen)
+quote: >-
+  Atatürk'ün Türk devlet yapısını bir Avrupa yönelimi üzerine kurduğunu. Şimdi oluşmakta olan bu Avrupa Hayır
+  derse, Avrupa'ya yönelen Türkiye'nin tüm iç devlet fikri esas itibarıyla çöker
+quote_kind: translated
+summary: >-
+  Atatürk'ün Türk devletini bir Avrupa yönelimi üzerine kurduğunu, dolayısıyla Avrupa'nın vereceği bir Hayır
+  yanıtının Türkiye'nin tüm iç devlet fikrini çökerteceğini savunur.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'inde kontrol edildi. Helsinki Avrupa Konseyi (Türkiye'nin AB adayı
+  yapılması) üzerine Bundestag'a yapılan açıklama; Wolfgang Gerhardt'a (FDP) yanıt niteliğindedir. DIP metni
+  cümlenin içinde fazladan bir sütun etiketi ('Bundesminister Joseph Fischer') barındırmaktadır ve alıntıda bu
+  çıkarılmıştır; PDF sayfası okunmuştur. Araçsal kullanım argümanın bir parçasıdır (Türkiye'nin adaylığı
+  lehine bir tez) ancak Atatürk'ün kurucu fikrine dair iddia kendisinindir. Kaynak gösterimi: Deutscher
+  Bundestag, Plenarprotokoll 14/79, 16 Aralık 1999 oturumu, s. 7228.
+verification_note: >-
+  'Bundesminister Joseph Fischer' üst bilgisi altında basılı s. 7228'de birebir aynıdır; 'bei allen Defiziten
+  die es gibt' yan cümlesi sayfa geçişinde alıntıdan önce yer alır ve doğru biçimde dışarıda bırakılmıştır.
+  Çeviri sadıktır. Görev tanımı doğrudur (Dışişleri Bakanı, Şansölye Yardımcısı).
+verification_method: >-
+  dserver PDF'i indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleşmesi yapıldı,
+  konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı çeviriyle
+  karşılaştırılarak okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0bba7903861e
+  role: a838aa34c2b0
+  quote: ce4a0609d458
+  summary: 58240eb3a37b
+  caveat: b7abca1496ee
+  verification_note: 013699624ec2
+  verification_method: 966799b4c6ae

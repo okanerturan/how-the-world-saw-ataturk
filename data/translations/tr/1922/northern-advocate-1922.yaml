@@ -1,0 +1,23 @@
+# Turkish for data/voices/1922/northern-advocate-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: northern-advocate-1922
+voice: Northern Advocate
+role: Whangarei günlük gazetesi
+quote: Benimsedikleri kararlı politika tek politikadır
+quote_kind: translated
+summary: >-
+  Çanakkale üzerine başyazı: Hint Müslüman kamuoyu ve Bolşevikler tarafından desteklenen coşmuş Milliyetçiler;
+  İtilaf Devletleri'nin kararlı politikası tek politikadır.
+verification_note: >-
+  Alıntı birebir aynı. Başyazının Mustapha Kemal'in adını yalnızca dolaylı olarak andığına dikkat edilmeli;
+  düşmanlık Milliyetçi taleplere yöneliktir
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ed1541b503d8
+  role: 3ba5400b2e10
+  quote: 8f88e7453e07
+  summary: 9f09bac63f5d
+  verification_note: a0ea2b835123
+  verification_method: ad8cee67138e

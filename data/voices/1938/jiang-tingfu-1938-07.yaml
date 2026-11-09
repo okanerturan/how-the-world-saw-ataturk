@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jiang-tingfu-1938-07
+voice: Jiang Tingfu (蔣廷黻)
+voice_type: person
+role: Historian, Tsinghua professor
+country: China
+country_now: China
+domain: letters
+date: "1938-07"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: book
+evidence: P
+summary: >-
+  Said the Turks recovered by uniting behind Kemal, who served the country with a single mind and accepted
+  modern culture to the root.
+quote:
+  text: 土耳其人經過那次大國難以後，一致團結起來，擁護民族領袖基瑪爾，於是始得復興。基瑪爾一心一意爲國家服務，不知有他
+  language: zh
+caveat: >-
+  First-edition date (July 1938) from a bookseller's blurb (J), not the Wikisource page; Wikisource text is
+  titled 中國近代史大綱.
+node: Jiang Tingfu
+sources:
+  - url: https://zh.wikisource.org/wiki/中國近代史大綱
+    archived: https://web.archive.org/web/20260215210247/https://zh.wikisource.org/wiki/%E4%B8%AD%E5%9C%8B%E8%BF%91%E4%BB%A3%E5%8F%B2%E5%A4%A7%E7%B6%B1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource.org page via action=parse 中國近代史大綱 (作者 蒋廷黻)
+  method: ms fetch Wikisource parse
+  note: >-
+    Exact two-sentence passage; 1938-07 date not on Wikisource page (bookseller blurb, as caveat states).
+  checked_on: "2026-10-30"

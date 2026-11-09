@@ -1,0 +1,27 @@
+# Turkish for data/voices/1922/glas-svobode-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: glas-svobode-1922
+voice: Glas svobode (Chicago)
+role: Slovence özgür düşünce çizgisinde günlük gazete, Chicago
+quote: Kemal, enerjiden ve yetenekten yoksun olmadığını yeterince gösterdi.
+quote_kind: translated
+summary: >-
+  Mudanya'dan sonra sultan gitmiştir ve hilafet Kemal'in önünde açıktır; enerjisini ve yeteneğini
+  kanıtlamıştır, ancak ufukta rakipler belirmektedir.
+caveat: >-
+  İmzasız; ayrıca s. 5'te Kemal'in her yerdeki Müslümanları korumak isteyeceğinden çekinen bir 'Balkanska
+  zveza' yazısı yer alıyor; gazetenin tutumu kısmen bundan çıkarılmıştır.
+verification_note: >-
+  Birebir (OCR: satır sonu tireleri). Mudanya, sultanın gidişi, hilafet yolu, rakip olarak Enver;
+  Müslümanların koruyucusu olarak Kemal'e karşı temkinli.
+verification_method: tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bc4e3d7c4332
+  role: b7c3fdaa1b60
+  quote: 1d59321cd550
+  summary: a8a64c1971a9
+  caveat: 79495b814d8a
+  verification_note: 5f67bfbda8d0
+  verification_method: 0e07f3903a84

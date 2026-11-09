@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mackenzie-king-1922
+voice: Mackenzie King
+voice_type: person
+role: Canadian Prime Minister
+country: Canada
+country_now: Canada
+domain: politics
+date: "1922-09-18"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: telegram
+evidence: S
+summary: >-
+  Telegraphed demanding to know what had been asked of Canada over resisting Turkish forces; cabinet held only
+  Parliament could decide and stalled.
+quote:
+  text: >-
+    despatches from England have appeared in our press announcing the British Government's intention to ask
+    Canada to participate in resisting Turkish forces
+  language: en
+caveat: >-
+  Note says King knew little of the dispute and Kemal is the occasion, not the subject. Stacey 1981 (read in
+  search excerpt); text unchecked (source unreachable 2026-10-29)
+node: Canada Says Not Yet at Chanak, September 1922
+sources:
+  - url: https://doi.org/10.3138/9781442628137
+  - url: https://tandfonline.com/doi/full/10.1080/00358536808452739
+verification:
+  verdict: secondary-only
+  checked_against: >-
+    https://en.wikipedia.org/wiki/Chanak_Crisis (King insisted Parliament decide; telegram to Churchill);
+    Stacey 1981 and T&F blocked (bot_blocked)
+  method: fetch
+  note: >-
+    Verbatim quote not checked; Stacey/T&F unreachable. Claim that King insisted Parliament decide is
+    supported by Wikipedia (secondary). 'cabinet stalled' not verified.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

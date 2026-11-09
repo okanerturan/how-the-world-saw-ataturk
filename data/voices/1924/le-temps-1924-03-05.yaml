@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-temps-1924-03-05
+voice: Le Temps
+voice_type: press
+role: Paris semi-official daily
+country: France
+country_now: France
+domain: press
+date: "1924-03-05"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Called the new policy lay and national and said its principles are understood and upheld by Kemal, against
+  the Caliph's protest.
+quote:
+  text: ces principes sont compris et maintenus par Moustapha' Kemal paclia
+  language: fr
+caveat: >-
+  View 1. The leader's 'principes' are not defined in the fragments; same view also reports Indian Muslims'
+  indignation and that 'on va trop loin' (voice not shown). Tone inferred as approving. Gallica ContentSearch
+  fragment, OCR copied as given; view number is Gallica's, not necessarily the printed page.
+node: Paris Dailies and the Abolition of the Caliphate, March 1924
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k2453995
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica ContentSearch ark bpt6k2453995, PAG_1 (and PAG_2)
+  method: ms fetch ContentSearch (queries principes, laique, protesté)
+  note: >-
+    Exact; 'politique laique et nationale' PAG_1 and caliph's protest after Kemal's speech PAG_2 support the
+    claim. Issue date from ark not independently confirmed.
+  checked_on: "2026-10-30"

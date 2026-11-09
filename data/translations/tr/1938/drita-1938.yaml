@@ -1,0 +1,21 @@
+# Turkish for data/voices/1938/drita-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: drita-1938
+voice: Drita
+role: Arnavut gazetesi
+summary: >-
+  Ülkesini Batılı bir devlet yaptı, hilafeti ve dinî mahkemeleri kaldırdı, kadınları peçeden kurtardı;
+  Arnavutluk Türkiye'nin kaderini paylaşıyor.
+caveat: >-
+  Başlıklar Toksoy'un bastığı biçimdedir (Stipi, Shtypi olabilir); Arnavutça özgün nüshalar görülmemiştir.
+mediated_by: Toksoy 2010 ← Akşam 14 ve 18 Kasım 1938, Ulus 14 Kasım 1938
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8919130ae741
+  role: 2945e823993a
+  summary: 0424b5ea49c6
+  caveat: 02a3cfabd589
+  mediated_by: 8e709a452d60
+  verification_method: 939bb46a04c3

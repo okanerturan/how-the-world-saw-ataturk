@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/hudson-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hudson-1938
+voice: R. S. Hudson, Milletvekili
+role: Avam Kamarası üyesi, İngiliz-Türk kredisi görüşmesi
+quote: >-
+  Bu kadar çok ilerleme kaydedilmiş olması, çok büyük ölçüde onun kişisel gayretinin bir sonucudur.
+quote_kind: translated
+summary: >-
+  Yönetimi devralmasından bu yana Atatürk ekonomik ve sınai kalkınmanın peşinden gitti; kaydedilen ilerleme
+  çok büyük ölçüde onun kişisel gayretine dayanıyordu.
+verification_note: >-
+  hansard.parliament.uk sayfası bot engeline takıldı; hansard-api.parliament.uk araması üzerinden doğrulandı.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 559e0af30f68
+  role: 03921c41c9f1
+  quote: 344f5a21729a
+  summary: 83a974996287
+  verification_note: 0cfdca5196df
+  verification_method: ad8cee67138e

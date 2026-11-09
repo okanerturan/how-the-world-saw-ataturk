@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pahiatua-herald-1922a
+voice: Pahiatua Herald
+voice_type: press
+role: Wairarapa-region evening paper, leader
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1922-09-23"
+era: contemporary
+polarity: witness
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Explained the Angora Government as the product of Allied mistakes and said Kemal and his followers defeated
+  the Greeks and reunited the Turks.
+caveat: >-
+  Explanatory leader sympathetic to the Turkish case; no verdict on Kemal himself, so coded witness; OCR text
+  imperfect (no verbatim quote taken).
+node: New Zealand Editors on Kemal, September 1922 – 1923
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/PAHH19220923.2.10
+verification:
+  verdict: confirmed
+  checked_against: Papers Past PAHH19220923.2.10 via wrapper fetch
+  method: fetch
+  checked_on: "2026-10-29"

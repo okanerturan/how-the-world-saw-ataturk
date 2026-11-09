@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/cyprus-film-board-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cyprus-film-board-1938
+voice: Kıbrıs film sansür kurulu
+role: Sömürge sansür kurumu, Britanya Kıbrısı
+summary: >-
+  1938'de Atatürk'ün cenaze filmini yasakladı; Sömürgeler Bakanı kurula hangi gerekçelerin yön verdiğini
+  söyleyemeyeceğini belirtti.
+caveat: >-
+  Yasağın gerekçesi Hansard'da kayıtlı değildir; Foot'un sorusu yasağı ileri sürer, MacDonald buna itiraz
+  etmez.
+verification_note: >-
+  MacDonald 'unable to say what reasons may have guided them' dedi; kurul resmî ve gayriresmî karma üyelerden
+  oluşmaktadır. Hansard.parliament.uk sayfası bot engeline takıldı.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 91dfefd6de49
+  role: 237bf194978c
+  summary: 3896176a26b4
+  caveat: 952d6e2e84e7
+  verification_note: 7732ec46b774
+  verification_method: ad8cee67138e

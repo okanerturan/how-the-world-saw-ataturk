@@ -1,0 +1,33 @@
+# Turkish for data/voices/1930/kotko-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kotko-1930
+voice: Kost Kotko
+role: Sovyet Ukraynalı gazeteci ve gezi yazarı
+quote: >-
+  Jön Türkler, anayasayı getirdikten sonra, mecazi bir ifadeyle, ona sarık geçirdiler. Kemal kendi anayasasına
+  tüm Avrupa kapitalist modelinde bir şapka geçirecek mi?
+quote_kind: translated
+summary: >-
+  Az şey elde eden köylülerin yaptığı bir ulusal devrim görür ve Kemal'in kendi anayasasına kapitalist bir
+  'şapka' geçirip geçirmeyeceğini sorar.
+caveat: >-
+  Кость Котко, Щоденник кількох міст (Kharkiv: Knyhospilka, 1930), 'Через Анатолію' bölümü; taranmış kitabın
+  Wikisource transkripsiyonu. Aynı bölümde Türk köylüsünün ulusal devrimi yaptığı ve aşarın kaldırılması
+  dışında 'bunun karşılığında hiçbir şey almadığı' söylenir; bu, kişiden ziyade Kemalizm üzerine bir hükümdür;
+  'В історичні дні Туреччини' bölümünde ise Kemal'in yeni alfabe için öngörülen süreyi yarıya indirme emrini
+  aktarır. 1930 yılına ait Sovyet çizgisinde gezi gazeteciliği. Çeviri arşive aittir. Tarama incelenmedi.
+verification_note: >-
+  Birebir aynı; çeviri sadık. what_they_saw alanı önceki metinle destekleniyor ('Національну революцію зробив
+  турецький селянин. Крім скасування ашару, він нічого за це не одержав.'). Kendi görüşü; bakış uygun;
+  ikircikli nitelemesi yerinde.
+verification_method: işlenmiş sayfa çekildi, dizge eşleştirmesi, bağlam okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8862d77f0b9c
+  role: fb0facd6bdef
+  quote: bc2a610c9aa6
+  summary: 89b1872d781c
+  caveat: 5dd9a2b1b8cc
+  verification_note: 79711a351969
+  verification_method: a5d07852e96e

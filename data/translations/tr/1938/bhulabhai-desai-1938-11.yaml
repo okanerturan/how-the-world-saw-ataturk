@@ -1,0 +1,35 @@
+# Turkish for data/voices/1938/bhulabhai-desai-1938-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bhulabhai-desai-1938-11
+voice: Bhulabhai Desai
+role: Muhalefet Lideri (Kongre), Merkezi Yasama Meclisi
+quote: >-
+  O, bizim naçizane takdirimize göre, dünyadaki reformcuların en cesurlarından biriydi. Bir günde purdahı
+  kaldırdı, bir günde erkek ile kadının eşitliğini kurdu
+quote_kind: translated
+summary: >-
+  Meclisin taziye önergesini sunar: Kemal ilerlemenin önündeki her türlü yerleşik geleneği silip süpürmüş ve
+  Hindistan için bir ders bırakmıştır.
+caveat: >-
+  Legislative Assembly Debates, c. VII (Government of India Press, Delhi 1938), 14 Kasım 1938, s. 2954. Lok
+  Sabha Secretariat / Government of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR
+  aracılığıyla. Desai, İsmet İnönü'ye taziye iletilmesini ister; Kemal'in 'courage' mirasını Hindistan için
+  'particularly applicable' olarak nitelendirir. Metin resmi tutanağın OCR çıktısından okunmuştur; bariz OCR
+  hataları alıntıda sessizce düzeltilmiştir.
+verification_note: >-
+  OCR hataları (jnirdaJi=purdah, a]>preciation=appreciation) düzeltildikten sonra alıntı birebir; kaydın
+  'OCR-corrected' ifadesi doğrudur. Bakış, dönem (cenaze), tarih, kutupluluk ve şema tümüyle uygun. İsmet
+  Paşa'ya taziye iletilmesi talebi aynı sayfadadır.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden çekildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa başlıkları ile konuşma metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 81aaadd33e44
+  role: 030b38914478
+  quote: 2bbccd2530e8
+  summary: 0961c559ffaf
+  caveat: a3ea69ed6ce7
+  verification_note: 7dfe5a4c4bf0
+  verification_method: 634050edd257

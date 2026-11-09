@@ -1,0 +1,38 @@
+# Turkish for data/voices/2009/hillary-clinton-2009-03-07-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hillary-clinton-2009-03-07-book
+voice: Hillary Clinton
+role: ABD Dışişleri Bakanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Bu büyük ülkenin kurucusuna saygımızı ve Amerikan halkının dostluğunu göstermek için ülkem adına burayı bir
+  kez daha ziyaret etmekten onur duyuyorum.
+quote_kind: original-turkish
+summary: >-
+  'Bu büyük ülkenin' kurucusuna saygılarını sunar ve Amerikan halkının dostluğunu gösterir; yalnızca bunu
+  söyler.
+caveat: >-
+  İngilizce yazılmış bir metnin Türkçe çevirisi; Habertürk, T24 ve NTV aynı ifadeleri yayımlar. Alıntılanan
+  satırda Atatürk'ün adı geçmez: tek gönderme 'the founder of this great country' ifadesidir, bu nedenle
+  yoğunluk 1'dir. Habertürk ve T24 7 Mart 2009, NTV ise 6 Mart 2009 tarihlidir (muhtemelen ziyaret öncesi bir
+  paylaşım).
+mediated_by: Habertürk, T24 ve NTV, Mart 2009 (kaydın Türkçe çevirisi)
+verification_note: >-
+  Türkçe alıntı her üçünde de birebir aynıdır ve Özel Defter'e atfedilmiştir. Habertürk ve T24 tamamen aynı
+  (aynı ajans haberi/metin), NTV de aynı metin: üç değil, tek kaynak. 7 Mart tarihi Habertürk'ün 12:06 zaman
+  damgasıyla desteklenmektedir; imzalamayı bildiren bir metin için NTV'nin 6 Mart 23:40 damgası doğru olamaz,
+  bu nedenle T24/NTV zaman damgaları güvenilmez sayılmalıdır. Özgün İngilizce metin bulunamadı (yalnızca
+  ücretsiz aramalar). Atatürk'ün adı geçmiyor; araçsal/1 yerindedir.
+verification_method: >-
+  Atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 766a14542a44
+  role: 8472cad9609a
+  quote: b0a2263758f2
+  summary: af27bcd385de
+  caveat: 8d6b620f331c
+  mediated_by: 5df1d0b4002d
+  verification_note: 886bbf943bf0
+  verification_method: 8505ab605bfa

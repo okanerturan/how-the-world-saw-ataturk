@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: milan-stojadinovic-1938
+voice: Milan Stojadinović
+voice_type: person
+role: Yugoslav Prime Minister
+country: Yugoslavia
+country_now: Serbia
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: telegram
+evidence: S
+summary: Sent a condolence telegram after the death.
+mediated_by: Toksoy 2010 §E; Karahasan 1994 as cited
+caveat: No stated view in the note.
+node: Yugoslav Press, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt (fn.89: Stoyadinovic sent condolence telegram)
+  method: local
+  checked_on: "2026-10-29"

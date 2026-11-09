@@ -1,0 +1,27 @@
+# Turkish for data/voices/1920/imam-yahya-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: imam-yahya-1920
+voice: Yemen İmamı Yahya
+role: Zeydi imamı, bağımsız Yemen'in ilk kralı
+summary: >-
+  Faysal'a yazarak Mustafa Kemal ile işbirliğinden duyduğu memnuniyeti dile getirdi ve Batılılara karşı
+  işbirliğini vurguladı.
+caveat: >-
+  Yalnızca dolaylı aktarım olarak günümüze ulaşmıştır; mektup 1920-21 civarına tarihlendirilir ve muhtemelen
+  Mahmud Nedim Bey'in teşvikiyle yazılmıştır; Yahya'nın 1924-38 yılları arasında Atatürk üzerine doğrudan bir
+  açıklaması yoktur.
+mediated_by: Polat 2017 ← Öke & Karaman
+verification_note: >-
+  Kaynak telgraf değil 'mektup' diyor; yalnızca 'bu dönemde' olarak tarihlendirilmiş (Faysal Mart 1921'de Irak
+  kralı oldu); 'muhtemelen Mahmud Nedim Bey'in teşvikiyle' ifadesi örtüşüyor.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 36c1a19b5d88
+  role: 31e0dc8ff91d
+  summary: c6a84a2d29bf
+  caveat: 4fb8af21efc9
+  mediated_by: 684af5a95582
+  verification_note: 840ee00275be
+  verification_method: ad8cee67138e

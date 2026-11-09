@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kenworthy-1922
+voice: Lieut.-Commander Kenworthy MP
+voice_type: person
+role: Member of the Commons, debate on the war debt to the United States
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1922-12-14"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Cited Kemal's victories as why Turkey reached the League, jibing at the 'success of force' in Curzon's and
+  Lloyd George's diplomacy.
+quote:
+  text: >-
+    Turkey could have wept bitter tears in vain for admission to the League of Nations but for the great
+    victories of Mustapha Kemal and his army
+  language: en
+caveat: Sarcastic argument against the government; coded instrumental.
+node: Parliament on Kemal and the Greeks, 1921–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1922-12-14/debates/0dc5131b-b329-4572-b933-97cfc8608532/DeutToUnitedStates
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard.parliament.uk/Commons/1922-12-14/debates/0dc5131b-b329-4572-b933-97cfc8608532
+    (contribution 69224da2-5054-4f70-93a4-64484809bdf0, Lt-Cdr KENWORTHY)
+  method: api
+  checked_on: "2026-10-29"

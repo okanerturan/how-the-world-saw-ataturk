@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/ta-kung-pao-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ta-kung-pao-1938
+voice: Ta Kung Pao
+role: Çin'in büyük günlük gazetesi
+quote: >-
+  İstilacıların dehşet verici bir düşmanı ve emellerinden vazgeçen herkesin en güvenilir dostu.
+quote_kind: translated
+summary: >-
+  İstilacıları kovup ardından eski düşmanlarıyla bile dostluk kuran büyük bir milletin sevgili babasının
+  yasını tuttu; Asya için muazzam bir boşluk.
+mediated_by: Toksoy 2010 §G Çin Basını (Türkçe çeviri)
+verification_note: Çevrilmiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 93e24eabcb42
+  role: 47af2a8f7eb6
+  quote: 73bdd8845844
+  summary: bcab2099af54
+  mediated_by: 2b4603b0755b
+  verification_note: 154a7f79ffc7
+  verification_method: 939bb46a04c3

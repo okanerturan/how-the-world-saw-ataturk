@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tjokroaminoto-1922-11
+voice: H. O. S. Tjokroaminoto
+voice_type: person
+role: Sarekat Islam leader, president of the Cheribon Al-Islam Congress
+country: Dutch East Indies
+country_now: Indonesia
+domain: politics
+date: "1922-11"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: report
+evidence: P
+summary: >-
+  Disowned, for himself and the congress leadership, the consequences of a draft sympathy telegram to Kemal
+  Pasha sent off by a committee member.
+quote:
+  text: >-
+    dat hij zelf noch de leiding van het congres, iets te maken heeft met de gevolgen, welke de verzending van
+    dat concept telegram aan Kemal Pasha eventueel na zich zullen sleepen
+  language: nl
+mediated_by: Sumatra-Bode 27 Nov 1922, summarising his circular in Oetoesan Hindia
+caveat: >-
+  The newspaper's summary of his circular, not his own words; the draft contained two words ('ennemi décimé')
+  said to breach Dutch neutrality toward Greece. Caution under colonial censorship, not necessarily doubt of
+  Kemal.
+node: Sarekat Islam and the Cheribon Telegram, 1922–1923
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=MMKB19:002117124:mpeg21:a00001:ocr
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Delpher Sumatra-Bode 27 Nov 1922 art. 1 OCR (MMKB19:002117124)
+  method: Delpher OCR + page title check
+  note: >-
+    Dutch sentence verbatim; summarises circular printed in Oetoesan Hindia; 'ennemi décimé' detail present.
+    Polarity 'conflicted' is an interpretation; the text is the paper's summary (as caveat states).
+  checked_on: "2026-10-29"

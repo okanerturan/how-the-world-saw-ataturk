@@ -1,0 +1,27 @@
+# Turkish for data/voices/1925/jose-carlos-mariategui-1925.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jose-carlos-mariategui-1925
+voice: José Carlos Mariátegui
+role: Perulu Marksist deneme yazarı
+quote: ayaklanmanın ve zaferin önderi
+quote_kind: translated
+summary: >-
+  Türkiye'deki değişimi, İtilaf Devletleri'ne ve İngiliz kapitalizmine karşı Kemal önderliğinde, içsel bir
+  dürtüden doğan kendiliğinden bir devrim olarak okudu.
+caveat: >-
+  Not, yazıyı Kürtleri, Ermenileri ve tek parti yönetimini görmezden gelen, ikinci elden ve sempatiyle
+  yazılmış bir gazete sentezi olarak nitelendirir.
+verification_note: >-
+  Alıntı bire bir bulundu ('Mustafa Kemal, el caudillo de la insurreccion y de la victoria'). Sayfada 1925
+  yılı görünmüyor.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2b49fefea37e
+  role: 8d7e4160faa9
+  quote: ea353c74da91
+  summary: 9b3cee24473d
+  caveat: 34bff139bff4
+  verification_note: 639b0c411cd7
+  verification_method: ad8cee67138e

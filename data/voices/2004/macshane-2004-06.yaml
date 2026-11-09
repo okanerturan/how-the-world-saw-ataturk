@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: macshane-2004-06
+voice: Denis MacShane
+voice_type: person
+role: Labour MP, Minister for Europe
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "2004-06-23"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Presents EU accession as Turkey's 'second great modernisation after that of Ataturk', treating Atatürk's as
+  the first.
+quote:
+  text: the Turkish nation will embark on its second great modernisation after that of Ataturk.
+  language: en
+caveat: >-
+  Turkey (EU Accession), HC Deb 23 Jun 2004, c1425. Transcription at TheyWorkForYou of the official Hansard.
+  Same phrase in Oral Answers, 15 Jun 2004 ('the second great modernisation of Turkey, after the Ataturk
+  modernisation'). Used for the EU accession case. Check: the quote falls at c1429 (historic-hansard); TWFY
+  gives the column where the speech starts.
+node: Westminster on Atatürk, 1988–2004 — Corbyn, MacShane and Patten
+sources:
+  - url: https://www.theyworkforyou.com/debates/?id=2004-06-23.1422.0#g1425.0
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TheyWorkForYou debate page (fresh curl), speaker block at the anchor; column cross-checked on
+    api.parliament.uk/historic-hansard where available
+  method: >-
+    fetched page, normalised-text match of the quote inside the anchored speech block (speaker, date, id);
+    column located from historic-hansard column markers
+  note: >-
+    Verbatim, spoken by Denis MacShane, Minister for Europe (g1425.0, HC Deb 23 Jun 2004). Column correction:
+    sentence at c1429 (speech runs c1425-1431); c1425 is only the start. 'second great modernisation after
+    that of Ataturk' treats Atatürk's as a great modernisation; instrumental 1 is fair and the gaze is thin
+    but passes.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

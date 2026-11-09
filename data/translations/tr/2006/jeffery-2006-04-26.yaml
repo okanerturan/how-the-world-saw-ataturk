@@ -1,0 +1,37 @@
+# Turkish for data/voices/2006/jeffery-2006-04-26.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jeffery-2006-04-26
+voice: Michael Jeffery
+role: Avustralya Genel Valisi
+quote: >-
+  Avustralya, Atatürk'ün savaşı izleyen yıllardaki dostluk simgesini asla unutmayacaktır ve onun ölenlerin
+  annelerine söylediği sözler bugüne dek Avustralya halkı arasında yankılanmaya devam etmektedir.
+quote_kind: translated
+summary: >-
+  Gelibolu'dan modern Türkiye'yi kuran 'büyük askeri komutan ortaya çıktı'; Avustralya onun savaş sonrası
+  dostluğunu ve annelere söylediği sözleri asla unutmayacaktır.
+caveat: >-
+  İngilizce el yazısı, 26 Nisan 2006; öncesinde: 'for Turkey it was a place where national honour was restored
+  and from which emerged the great military commander, Mustafa Kemal Atatürk, founder and leader of the modern
+  Turkish Republic.' 'Annelere söylediği sözler', tartışmalı 'Johnnies and Mehmets' metnidir (bkz. [[Johnnies
+  and Mehmets]]). Kaynak: Anıtkabir Özel Defteri (basılı derleme, '1953'ten günümüze Anıtkabir'i ziyaret eden
+  yerli ve yabancı heyet başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), ataturkarsivi.com
+  adresindeki sayfa görüntüleri, ana ajan tarafından görüntü üzerinden okundu (4 Kasım 2026).
+verification_note: >-
+  Birebir aynı ('...Atatürk's symbol of friendship in the years following the war, and to this day his words
+  to the mothers of those who died continue to resonate amongst the Australian people'); 26 Nisan 2006
+  tarihli; Major General Michael Jeffery AC CVO MC (Retd), Governor General of the Commonwealth of Australia
+  imzalı. 'great military commander ... founder and leader of the modern Turkish Republic' mevcut. Galeri
+  etiketinde 'JEFFORY', sayfada Jeffery yazıyor. Kayıt büyük ölçüde Gelibolu hakkında olsa da bakış geçerli
+  (Atatürk'ün dostluk jestine ve komutanlığına dair görüş).
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9abc721e2365
+  role: de1916289b72
+  quote: 42b5b8e6cf5e
+  summary: 183178a70fc7
+  caveat: 9cd7d8cd4dac
+  verification_note: 621acaea2dcb
+  verification_method: "304538629105"

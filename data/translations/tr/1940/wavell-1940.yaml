@@ -1,0 +1,41 @@
+# Turkish for data/voices/1940/wavell-1940.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: wavell-1940
+voice: Archibald Wavell
+role: "Britanyalı mareşal; Allenby: A Study in Greatness (1940)"
+quote: Türk milletini yeniden canlandıracak olan geleceğin Atatürk'ü
+quote_kind: translated
+summary: >-
+  Kemal'i 1918'in 'en iyi Türk komutanlarından ikisi' arasında, 'daha sonra tüm Türkiye'yi toparlayıp yeniden
+  örgütleyecek' bir lider olarak anar.
+caveat: >-
+  Allenby: Soldier and Statesman (1940 tarihli Allenby: A Study in Greatness'ın Harrap, 1946 baskısı), s. 236
+  (dizin: 'Kemal, Mustapha, Ataturk, 171, 236 and n. 1, 245'); açık DLI taraması in.ernet.dli.2015.505341.
+  Ayrıca s. 245: 'two of the best Turkish commanders, Mustapha Kemal, of the Seventh Army, and Jemal Pasha, of
+  the Fourth'; Halep 'rallied and reorganized by no less a leader than Mustapha Kemal Pasha, who was later to
+  rally and reorganize all Turkey'. s. 171: Kemal 'declined to serve under a German staff'. Sayfa numaraları
+  1946 baskısına aittir; 1941 baskısında da (allenbystudyingr0000arch, metin içi arama) aynı cümleler yer
+  alır. Allenby in Egypt'ta (1943) Wavell, Zaghlul için 'may have dreamed of a dictatorship like that of
+  Mustapha Kemal' der ve Yunanların 'completely routed by Mustapha Kemal' olduğunu belirtir (yalnızca bağlam).
+  Kontrol notu: Wavell 'one of the two best' değil, 'two of the best' yazmıştır.
+verification_note: >-
+  s. 236 birebir aynı (folyo 236 dipnot 1'den sonra gelir; dizin 'Kemal, Mustapha, Ataturk, 171, 236 and n. 1,
+  245'): 'Mustapha Kemal Pasha, the future Ataturk, who was to regenerate the Turkish nation'. s. 245 birebir
+  aynı: 'two of the best Turkish commanders, Mustapha Kemal, of the Seventh Army, and Jemal Pasha, of the
+  Fourth' ve 'rallied and reorganized by no less a leader than Mustapha Kemal Pasha, who was later to rally
+  and reorganize all Turkey'. s. 171: 'declined to serve under a German staff'. Künye: Study in Greatness ilk
+  basım Eylül 1940; Allenby in Egypt ilk basım Ocak 1944 (uyarı notundaki '1943' yanlıştır). what_they_saw
+  için küçük düzeltme: Wavell 'one of the two best' değil, 'two of the best Turkish commanders' demektedir.
+  Ölüm sonrası dönem doğrudur (1940'ta yazıldı).
+verification_method: >-
+  açık djvu metninin curl ile çekilmesi; folyolar sayfa altı numaralarıdır; dizin kontrol edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4d0543c9e907
+  role: 9a754bc743fe
+  quote: 48bbdd21d074
+  summary: 33b9a9fa6e82
+  caveat: 923ff21c6d08
+  verification_note: 908749b81971
+  verification_method: 64249e0e3383

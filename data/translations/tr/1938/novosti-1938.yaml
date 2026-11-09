@@ -1,0 +1,25 @@
+# Turkish for data/voices/1938/novosti-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: novosti-1938
+voice: Novosti (Zagreb)
+role: Zagreb gazetesi
+quote: Atatürk'ün dehası, bir saltanatın beş yüzyılda yapamadığını yaptı
+quote_kind: translated
+summary: >-
+  'Büyük Müttefikin Ölümü' başlığı altında onu Yugoslavya'nın en büyük dostu ve Balkan Paktı politikasının en
+  güvenilir dayanağı olarak nitelendirdi.
+caveat: Alıntılar Toksoy'un Türkçesi üzerindendir; Sırp-Hırvatça asılları görülmemiştir.
+mediated_by: Toksoy 2010 §E; aktarıldığı şekliyle Karahasan 1994
+verification_note: Çevrildi.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b28f5b1c63a3
+  role: 67b6c04cfc10
+  quote: bfbe6da34823
+  summary: 37d9e4b03a00
+  caveat: c95102152929
+  mediated_by: 59d4438d35b2
+  verification_note: 154a7f79ffc7
+  verification_method: 939bb46a04c3

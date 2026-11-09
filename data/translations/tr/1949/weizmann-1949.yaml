@@ -1,0 +1,38 @@
+# Turkish for data/voices/1949/weizmann-1949.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: weizmann-1949
+voice: Chaim Weizmann
+role: Siyonist lider, İsrail'in ilk Cumhurbaşkanı; Kasım 1938 Türkiye ziyaretine ilişkin anıları
+quote: >-
+  Atatürk, yöntemlerimizin Türkiye'nin yeniden canlandırılmasında uygulanıp uygulanamayacağını görmek üzere
+  Filistin'e bir dizi hükümet temsilcisi göndermişti.
+quote_kind: translated
+summary: >-
+  Atatürk'ün Siyonist yöntemlerin Türkiye'yi yeniden canlandırıp canlandıramayacağını görmek için Filistin'e
+  yetkililer gönderdiğini ve kendisinin 1938'de Araplarla ilişkilerde neden Türkiye'nin arabuluculuğunu
+  aradığını anımsar.
+caveat: >-
+  1938'e kadarki olaylar hakkında 1949'da yazılmıştır; dolayısıyla iddia Atatürk'ün sağlığına ilişkin olsa da
+  dönem ölüm sonrasıdır. Weizmann, Atatürk'ün bu girişimini ve Türkiye'nin 'progressive record'unu aktarır;
+  Atatürk hakkında kişisel bir hüküm belirtmez ve amacı Araplarla ilişkilerde Türkiye'nin arabuluculuğunun
+  neden denemeye değer göründüğünü açıklamaktır. Cümle 459/460 sayfa geçişine yayılır ('Kemal' s. 459'un
+  sonunda yer alır). Metin açık erişimli Digital Library of India taramasından (OCR) okunmuştur. Atatürk'ün
+  ölümünden söz edilmez (27 Kasım 1938'de İstanbul'a ulaşmıştır).
+verification_note: >-
+  Sayfa geçişi boyunca birebir aynıdır: s. 459 '... arid Kemal' / s. 460 'Ataturk had sent a number of
+  Government representatives to Palestine to see whether our methods could not be applied to the revival of
+  Turkey.' (OCR'daki 'arid' = 'and'). Bağlam, 1938'deki Türk arabuluculuğu amacını, 'Its progressive record'
+  ifadesini, 27 Kasım 1938'de İstanbul'a varışı ve Weizmann'ın kişisel bir hüküm belirtmediğini
+  doğrulamaktadır. Dizinde 'Kemal Ataturk, Mustapha, 459-60' yer alır. Araçsal kutupluluk yerindedir. Düzeltme
+  gerekmez.
+verification_method: archive.org djvu metninin curl ile çekilmesi; sayfa geçişi çevresinin okunması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0e9dd5fda0e4
+  role: fa082ed4e1c2
+  quote: 2a5e3c950b75
+  summary: 8dbab9fa02b3
+  caveat: 8ab5e044d339
+  verification_note: 946b340d4a30
+  verification_method: 051bedf42f49

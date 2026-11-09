@@ -1,0 +1,37 @@
+# Turkish for data/voices/1957/heuss-1957-05-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: heuss-1957-05-06
+voice: Theodor Heuss
+role: Batı Almanya Federal Cumhurbaşkanı
+quote: >-
+  Tıpkı Türkiye'nin 1918'den sonra bir geçmişin yüklerinin üstesinden gelmesi ve Kemal Atatürk'ün büyük devlet
+  adamlığıyla devlet tarihinde yepyeni bir sayfa yazmaya başlaması gibi, biz de onların üstesinden geleceğiz.
+quote_kind: translated
+summary: >-
+  Kayzer'den bu yana gerçekleşen ilk Alman devlet ziyaretinde, savaş sonrası Almanya'yı 1918 sonrasında
+  Atatürk'ün büyük devlet adamlığı sayesinde yeni bir sayfa açan Türkiye'ye benzetir.
+caveat: >-
+  6 Mayıs 1957'de Ankara'daki devlet yemeğinde Cumhurbaşkanı Bayar'ın kadeh konuşmasına verdiği yanıt; 'ihnen'
+  = savaşın sonuçları (kaynakta köşeli parantez içinde verilmiştir). Kitabın giriş bölümünün archive.org açık
+  metninden okunmuştur; arşivdeki daktilo metninin kendisi görülmemiştir.
+mediated_by: >-
+  Mathie 2023 (açık erişim), Heuss'tan alıntı: 'Erwiderung des Herrn Bundespräsidenten auf die Ansprache des
+  Türkischen Staatspräsidenten bei dem Abendessen am 6. Mai ds. Js. in Ankara', 1957, Archiv der Stiftung
+  Bundespräsident-Theodor-Heuss-Haus, B122, 924
+verification_note: >-
+  Almanca alıntı, 'ihnen' sonrasındaki '[den Folgen des Krieges]' açıklaması ve 'erster Bundespräsident ...
+  seit Kaiser Wilhelm II.' bağlamıyla birlikte Mathie'de birebir yer almaktadır. Arşivdeki daktilo metni kaydı
+  oluşturan kişi ya da benim tarafımdan görülmemiştir, dolayısıyla 'S+P' içindeki P hak edilmemiştir: kanıt
+  S+P → S.
+verification_method: archive.org açık metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0027112f0527
+  role: 2a708cc4ffcb
+  quote: b8175fff3ee2
+  summary: 26283bcc135f
+  caveat: ab5ae451025c
+  mediated_by: d56274c1ff25
+  verification_note: 160b5cc73d96
+  verification_method: b8bfd775c616

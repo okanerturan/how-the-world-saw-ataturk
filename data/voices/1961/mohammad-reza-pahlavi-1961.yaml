@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mohammad-reza-pahlavi-1961
+voice: Mohammad Reza Pahlavi
+voice_type: person
+role: Shah of Iran; memoir Mission for My Country (1961)
+country: Iran
+country_now: Iran
+domain: politics
+date: "1961"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: memoir
+evidence: P
+summary: >-
+  Describes the Turkish republic as founded under Atatürk's 'dynamic leadership' after the abolition of an
+  'archaic caliphate', and compares Turkey's head start over Iran.
+quote:
+  text: >-
+    the Turks had abolished their archaic caliphate; and soon afterwards they established a republic under the
+    dynamic leadership of Kemal Ataturk.
+  language: en
+caveat: >-
+  Brief and in passing, so intensity 1. Page 39 is taken from the book's own index ('Ataturk, Kemal, 39'); the
+  archive.org OCR text has no page markers. The next paragraph compares Iran in the 1920s with 'neighbouring
+  Turkey, which my father visited in 1934 to observe the remarkable progress made' (about p. 39-40). The Shah
+  is writing as monarch about his father's republic-or-monarchy choice; the sentence is context for that
+  choice.
+node: Leaders and Thinkers of the Muslim World and Asia on Atatürk in Their Own Words
+sources:
+  - url: https://archive.org/details/mission-for-my-country-mohammad-reza-pahlavi_202605
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org/download/mission-for-my-country-mohammad-reza-pahlavi_202605 (OCR text; index entry 'Ataturk,
+    Kemal, 39'); scan metadata date 1961
+  method: curl djvu text
+  note: >-
+    Verbatim ('...abolished their archaic caliphate; and soon afterwards they established a republic under the
+    dynamic leadership of Kemal Ataturk') across line breaks. OCR has no page markers; p.39 rests on the
+    book's own index, which lists only 39. Following paragraph on Turkey and the 1934 visit is present.
+    'dynamic leadership' / 'archaic caliphate' are evaluative enough that admiring/1 is defensible.
+  checked_on: "2026-11-03"

@@ -1,0 +1,32 @@
+# Turkish for data/voices/1922/la-prensa-san-antonio-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-prensa-san-antonio-1922
+voice: La Prensa (San Antonio)
+role: İspanyolca günlük gazete, San Antonio, Teksas
+quote: Kemal, günün tanrısı
+quote_kind: translated
+summary: >-
+  Eylül 1922 İzmir'ine dair Paris kaynaklı bir görgü tanığı anlatısını yeniden yayımladı: sefalet içindeki
+  mülteciler, vurulan Ermeniler, rehberi Napolyon olan 'günün tanrısı' Kemal.
+caveat: >-
+  Konuşan kişi çevirisi yayımlanan Fransızca bir görgü tanığıdır; La Prensa'nın kendi tutumu yalnızca bunu
+  basmayı seçmesinden ibarettir. OCR kalitesi düşüktür, bu yüzden yalnızca kısa ve temiz bir ifade
+  alıntılanmıştır.
+mediated_by: >-
+  Ricardo Eaton ← 'Revista Semanaria' (Paris), 10 Kasım 1922 tarihli Paris mahreçli haber, La Prensa'da
+  yeniden basıldı
+verification_note: >-
+  'Kemal, el dios del día' mevcut; makale 'Con Mustafa Kemal', Paris 10 Kasım, Revista Semanaria, Ricardo
+  Eaton; mülteciler, 'fusilados por centenares' ibaresiyle Ermeniler ve 'guía' olarak Napolyon'un tümü mevcut.
+verification_method: curl aracılığıyla loc.gov ALTO full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a68d75d4d249
+  role: a23bee2aa764
+  quote: 7fc1672d617c
+  summary: 7f894b8e7497
+  caveat: b3700b7095dc
+  mediated_by: d1389e2a6a16
+  verification_note: d7788b7b2e73
+  verification_method: 66d1884c5811

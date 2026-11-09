@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-fath-1938
+voice: Al-Fath
+voice_type: press
+role: Cairo Salafi weekly (Muhibb al-Din al-Khatib)
+country: Egypt
+country_now: Egypt
+domain: press
+date: "1938-12"
+era: funeral
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: P
+summary: >-
+  Deplores Syrian preachers' funeral prayer in the Umayyad Mosque and the Syrian papers' praise of Atatürk as
+  Kemalist propaganda.
+quote:
+  text: >-
+    What adds to the pain is that the Syrian papers, all of them, performed the function of Kemalist
+    propaganda on the occasion of Kemal Atatürk's death
+  language: en
+caveat: >-
+  Author of the unsigned series Four Months in the Levant not named on the pages seen. Quote is the note
+  author's English translation of the Arabic original, which the note prints.
+node: Al-Fath (Cairo), 1927–1938 — Khatib's Weekly on Ankara
+sources:
+  - url: https://archive.org/details/efath-moheb-elden-elkheeb
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: IA efath-moheb-elden-elkheeb 631_730 djvu OCR (Arabic)
+  method: djvu OCR text; clean passage, page image not rendered (wrapper stopped, exit 99)
+  note: >-
+    Arabic 'ومما يزيد في الألم أن الصحف السورية بأجمعها قامت بوظيفة الدعاية الكمالية لمناسبة موت كمال أتاتورك
+    فسودت الصحائف الطوال...' present; translation faithful. Funeral-prayer sentence present ('ولما مات أتاتورك
+    أقام الدعاة صلاة الغائب ... في مسجد بني أمية وكادت تحدث ... فتنة'), but 'الدعاة' here are the Kemalist
+    propagandists/callers in the surrounding context, so 'Syrian preachers' is a loose gloss. Issue
+    no./page/date not re-verified from image.
+  checked_on: "2026-10-29"

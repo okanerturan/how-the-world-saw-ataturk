@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lloyd-george-1921-01-25
+voice: David Lloyd George
+voice_type: person
+role: British Prime Minister, at the Allied conference in Paris
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1921-01-25"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Told the Allies that Kemal could only reject peace from vain ambition to revive the old Empire and become
+  the first of new Sultans.
+quote:
+  text: >-
+    He (Mr. Lloyd George) could not imagine that Mustapha Kemal was hostile to a peaceable solution unless
+    indeed he was filled with the vain ambition of resurrecting the old Turkish Empire and constituting
+    himself the first of a new line of Sultans.
+  language: en
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk vol. III (TTK 1973) No. 20, p. 73 ← British Secretary's Notes of an
+  Allied Conference, Quai d'Orsay, 25 Jan 1921, 4 p.m. (DBFP 1st ser. vol. XV pp. 28–39 No. 4)
+caveat: >-
+  Reported speech in British minutes; conditional in form. Same meeting: he agreed with Briand that the Allies
+  must not seem to sue Kemal for peace. Differs from the existing Lloyd George records (Dec 1920, Aug 1922,
+  1938).
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%233.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org ingiliz-belgelerinde-ataturk, djvu text of Şimşir vol. III, No. 20 (British Secretary's Notes,
+    Salle de l'Horloge, Quai d'Orsay, 25 Jan 1921, 4 p.m.), p. 73
+  method: archive.org open djvu text read
+  note: >-
+    Verbatim on p. 73. The next sentence ('most cordially agreed with M. Briand that ... the Allies should not
+    give Mustapha Kemal any justification for thinking that they were suing for peace') matches the caveat.
+    Not a duplicate: the existing Lloyd George records are lloyd-george-1920 (Commons, 22 Dec 1920),
+    lloyd-george-1922 (4 Aug 1922) and lloyd-george-1938 (memoir), all different utterances and dates. Hostile
+    is defensible for a conditional suspicion, and the caveat flags the conditional form.
+  checked_on: "2026-11-05"

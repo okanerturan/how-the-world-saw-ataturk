@@ -1,0 +1,35 @@
+# Turkish for data/voices/1932/macarthur-1932-09-27.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: macarthur-1932-09-27
+voice: Douglas MacArthur
+role: ABD Kara Kuvvetleri Kurmay Başkanı, Avrupa gezisinde
+quote: Türkiye'de, o yılmaz lider Mustafa Kemal Atatürk ile görüştüm
+quote_kind: translated
+summary: >-
+  27 Eylül 1932'de Dolmabahçe'de Gazi tarafından kabul edildi; onunla Türkiye'nin silahlı kuvvetlerini yeniden
+  inşa etme konusunda görüştüğünü anımsadı.
+caveat: >-
+  Alıntı, 32 yıl sonra kaleme alınan MacArthur, Reminiscences (1964) s. 98'dendir (archive.org
+  reminiscences00maca, arama kesiti); sıfat onun sonraki görüşünü yansıtır. Tarih ve saat (17:00–18:20, Dil
+  Kurultayı sırasında) Atatürk'ün Bütün Eserleri c. 26 s. 37 dn.'dan alınmıştır; bu dipnot ilk kez 1951'de
+  basılan uzun 'Atatürk–MacArthur conversation' metninin uydurma olduğunu göstermektedir. Army and Navy
+  Journal'ın 10 Eylül ve 1 Ekim 1932 tarihli sayıları ziyareti haberleştirmiştir.
+verification_note: >-
+  Kesit: 'In Turkey, I talked with that indomitable leader, Mustapha Kemal Ata- turk, about his firm
+  determination to rebuild his antiquated armed [forces]'. Alıntı (satır sonu kısa çizgisi kaldırılarak)
+  birebirdir ve dizine göre s. 98'dedir. ABE c. 26 s. 37 dn. kabulü 27 Eylül 1932, 17:00–18:20 olarak vermekte
+  ve çekince notunda belirtildiği gibi 1951 tarihli 'conversation' metnini uydurma olarak nitelendirmektedir.
+  10 Eylül 1932 tarihli Army and Navy Journal'da 'to be received at Istanbul by President Mustapha Kemal
+  Pasha' ifadesi yer almaktadır; 1 Ekim sayısı aramada bulunamamıştır. Kanıt türü P+S+J olarak daha kesin
+  olurdu (ABE dipnotu S'dir).
+verification_method: archive.org tam metin araması (tools/fts.py); açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d08fa86811cf
+  role: 6a272dd12c53
+  quote: e3ee67648620
+  summary: d017812ffbe3
+  caveat: 9fd372624b6f
+  verification_note: 3d532ac64e80
+  verification_method: 4809d436d197

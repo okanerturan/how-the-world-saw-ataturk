@@ -1,0 +1,30 @@
+# Turkish for data/voices/1922/cai-hesen-1922-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cai-hesen-1922-10
+voice: Cai Hesen (蔡和森)
+role: Xiangdao'da yazan erken dönem Çin Komünist lideri
+quote: >-
+  Sun Yat-sen'in Çin ulusal bağımsızlık hareketinin bir devrimcisi olması, tıpkı Kemal'in Türk ulusal
+  bağımsızlık hareketinin bir devrimcisi olup komünizm ya da 'aşırıcılık' hareketinin bir devrimcisi olmaması
+  gibidir
+quote_kind: translated
+summary: >-
+  Kemal'i Sun Yat-sen için bir model olarak kullandı: komünist değil ulusal bağımsızlıkçı bir devrimci;
+  böylece Sun'ın Rus-Alman politikasını Bolşeviklik suçlamasına karşı savundu.
+caveat: >-
+  Cai'nin 2 Kasım 1922 tarihli Fujian yazısı da 'a revolutionary government like Turkey's' çağrısında bulunur;
+  burada tek kayıt olarak yer verildi.
+verification_note: >-
+  Alıntı birebir; ikinci sayfa 'China must set up a revolutionary government like Turkey's' ifadesini
+  doğruluyor (araştırma notu).
+verification_method: Wikisource metin ayrıştırma, boşlukları normalleştirilmiş arama
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: dcda267362f7
+  role: e10dbf9f6bfc
+  quote: 52368746ccd3
+  summary: 72692bdd16ca
+  caveat: 0e1e0d395cc6
+  verification_note: 0ce323666a1d
+  verification_method: 3321e042d44e

@@ -1,0 +1,33 @@
+# Turkish for data/voices/1924/kondylis-1924-06-21.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kondylis-1924-06-21
+voice: Georgios Kondylis
+role: Yunan general ve milletvekili, sonradan Başbakan ve naip
+quote: >-
+  Komutanların farkını anlamanız için Mustafa Kemal'in Yunan ordusuna karşı ortaya koyduğu ustaca direnişi
+  karşılaştırmanız yeterlidir.
+quote_kind: translated
+summary: >-
+  Kemal'in Yunan ordusuna karşı direnişini 'ustaca' diye nitelendirir ve bunu karşılaştırmanın iki tarafın
+  komutanları arasındaki farkı gösterdiğini söyler.
+caveat: >-
+  Δ΄ Εθνοσυνέλευση, Πρακτικά Τόμος 2, 21 Haziran 1924 tarihli ΞΒ΄ birleşimi (başlık s. 354'te), basılı s.
+  361-362 (PDF sayfaları 183-184; sayfa görüntüleri okundu). Pasaj, Anadolu yenilgisinde ordunun sorumluluğu
+  üzerine yapılan tartışmada Kondylis'in yanıtını sürdürür ve Mazarakis'e verdiği karşılık (s. 361) ile Bakan
+  Pangalos'un yanıtı (s. 362) arasında yer alır. Övgü, askerlerin değil Yunan komutasının başarısız olduğu
+  yönündeki argümanına hizmet eder. 1933'te başbakan vekili olarak anılan aynı Kondylis'tir (bkz. not);
+  kendisinin Kemal hakkında bulunan tek birinci şahıs görüşü budur. Kontrol (ana ajan, sayfa görüntüsü s.
+  362): tutanaklarda doğrudan konuşma ('Ἀρκεῖ νὰ συγκρίνητε…'), birebir aynı.
+verification_note: Alıntı sayfa görüntüsünde birebir aynı.
+verification_method: >-
+  sayfa görüntüsü 240 dpi çözünürlükte işlendi ve politonik Yunanca OKUNDU (derleyici değil, ana ajan)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2f896c4f6d99
+  role: 9e75e584caba
+  quote: caffdd004bdc
+  summary: 3c66bef0a22f
+  caveat: 2111dacef329
+  verification_note: 0f3b0689eb00
+  verification_method: 4263b388266b

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: greenwood-1920
+voice: Sir Hamar Greenwood
+voice_type: person
+role: Minister answering in the Commons
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-03-11"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Told the Commons the Cilicia massacres were believed carried out by irregulars under Kemal's authority.
+quote:
+  text: irregular troops who are believed to be under the authority of Mustapha Kemal Pasha
+  language: en
+caveat: Official answer; belief, not finding, in the member's own words.
+node: Parliament Meets Kemal, February–March 1920
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-03-11/debates/9ee65e95-7cee-44ac-bedf-15196dd1bb46/CiliciaMassacres
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API 1920-03-11 Cilicia Massacres, debate 9ee65e95, Sir H. GREENWOOD
+  method: api
+  checked_on: "2026-10-29"

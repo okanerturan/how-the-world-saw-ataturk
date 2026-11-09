@@ -1,0 +1,25 @@
+# Turkish for data/voices/1938/western-mail-perth-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: western-mail-perth-1938
+voice: Western Mail (Perth)
+role: Perth haftalık gazetesi
+quote: savaş sonrası Diktatörlerin ilki ve en az başarılısı olmayanı
+quote_kind: translated
+summary: >-
+  Başyazı, Atatürk'ün ölümünü bir Britanya stratejik meselesi olarak ele alıyor; İnönü yönetimindeki
+  sürekliliği övüyor, 1926-27'de muhalefetin acımasızca bastırılmasına dikkat çekiyor.
+caveat: Trove sayfası görüntülendi ve okundu; OCR metni, düzeltilmemiş
+verification_note: >-
+  Alıntı başyazıyı sonlandırıyor: 'now succeeds, the first and not the least successful of the post-war
+  Dictators' ('succeeds' fiilinin nesnesi Atatürk'tür). 1926-27 bastırması ve İnönü sürekliliği mevcut.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fd92d61ad301
+  role: 35e7714b5c90
+  quote: f3aff2fc4613
+  summary: 7c4b4692ff09
+  caveat: 5fa34ffe2fe7
+  verification_note: 6d9964436715
+  verification_method: 939bb46a04c3

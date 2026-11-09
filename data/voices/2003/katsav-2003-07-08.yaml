@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: katsav-2003-07-08
+voice: Moshe Katsav
+voice_type: person
+role: President of Israel
+country: Israel
+country_now: Israel
+domain: politics
+date: "2003-07-08"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: P
+summary: >-
+  A great leader of rare courage, leadership and responsibility; his legacy and 'Peace at home, peace in the
+  world' inspire free nations.
+quote:
+  text: >-
+    Milletini nadir görülen bir cesaret, liderlik ve sorumluluk birleşimi içerisinde yönlendirmiş olan büyük
+    bir lider, vizyon ve inanç insanına, şahsım ve İsrail halkı adına derin saygı ve takdirlerimi sunuyorum.
+  is_translation: true
+  language: tr
+caveat: >-
+  Handwritten in Hebrew (dated 8 Tammuz 5763 / 8.7.2003); the quote is the compilation's printed Turkish
+  translation ('To a great leader who guided his nation with a rare combination of courage, leadership and
+  responsibility, a man of vision and faith, I offer deep respect on my own behalf and that of the people of
+  Israel'). The Hebrew was not transcribed. Continues: his legacy and vision inspire all freedom-loving
+  democratic nations; 'Yurtta Sulh, Cihanda Sulh' is a message of peace for all humanity. Source: Anıtkabir
+  Özel Defteri (printed compilation, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet
+  başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), page images on ataturkarsivi.com, read on the image
+  by the main agent (4 Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) mosche2 (Hebrew handwriting, 8.7.2003 with Hebrew date), mosche3 (printed
+    Turkish)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Printed Turkish quote verbatim. Date 8.7.2003 on both pages; signer/role correct. Translation consistent
+    with the Hebrew (rare courage, leadership, responsibility; vision and faith; peace at home peace in the
+    world). Hebrew not transcribed by checker beyond structure. Gaze passes (great leader).
+  checked_on: "2026-11-04"

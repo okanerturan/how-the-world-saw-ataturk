@@ -1,0 +1,27 @@
+# Turkish for data/voices/1933/hitler-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hitler-1933
+voice: Adolf Hitler
+role: Führer ve Reich Şansölyesi
+quote: karanlıkta bir yıldız
+quote_kind: translated
+summary: >-
+  Völkischer Beobachter'in ön sayfasında yeniden basıldığı şekliyle, 'karanlıkta bir yıldız' olarak Atatürk
+  Türkiyesi; Nazilerin Türkiye çizgisi haline geldi.
+caveat: Yalnızca ibare mevcut; mülakatın tam metni görülmedi.
+mediated_by: Ihrig 2014 s. 114–115, 144 (kitap içi arama kesitleri)
+verification_note: >-
+  İbare ve VB'nin Temmuz 1933 tarihli ön sayfa yeniden basımı yalnızca ikincil bir kitapla doğrulanmaktadır;
+  özgün mülakat metni görülmedi
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 63c4153a3f03
+  role: 9210c8f8e9f1
+  quote: 9efce70b1ffb
+  summary: c8ce3d7986be
+  caveat: 26364475eb29
+  mediated_by: 43897abc1c26
+  verification_note: ce96b8f77dee
+  verification_method: ad8cee67138e

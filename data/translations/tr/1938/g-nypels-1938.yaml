@@ -1,0 +1,31 @@
+# Turkish for data/voices/1938/g-nypels-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: g-nypels-1938
+voice: G. Nypels
+role: Bataviaasch Nieuwsblad muhabiri
+quote: demir irade, büyük zekâ ve bu Doğu için gerekli olan acımasızlık ile
+quote_kind: translated
+summary: >-
+  1920-21 Ankara anısı: demir irade, büyük zekâ ve bu Doğu için gerekli olan acımasızlık; hocalar, din
+  adamlarına duyduğu nefret; 'Doğu kurnazlığıyla' eski usullerin gizli takipçileri.
+caveat: >-
+  Alıntı bir başlık değil, Felemenkçe gövde metnidir (açıklaması: demir irade, büyük zekâ, bu Doğu için
+  gerekli olan acımasızlık); OCR başlık veya yazar adı döndürmediğinden 'G. Nypels' ve 'Bij den dood van Kemal
+  Atatürk' başlığı doğrulanmamıştır. Sayı bilgisi (Bataviaasch Nieuwsblad, 21 Kasım 1938) KB sayı üst
+  verisinden alınmıştır. Not, hayranlık ve oryantalizmi bir arada okumaktadır.
+verification_note: >-
+  Gövde metninde 'den ijzeren wil, met de groote intelligentie en de voor dit Oosten noodzakelijke
+  meedoogenloosheid' (Felemenkçe, veri kümesi tarafından çevrilmiştir) ile ayrıca hodsja nefreti ve
+  'Oostersche sluwheid' yer alıyor; OCR başlık, yazar adı veya tarih olmadan döndüğü için 'headline', G.
+  Nypels ve 21 Kasım doğrulanmamıştır
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1fa9bd33eff9
+  role: 4eeba9a84610
+  quote: d31b8fd41e12
+  summary: f64b2af05389
+  caveat: 15cab794bf31
+  verification_note: a771a98202c4
+  verification_method: ad8cee67138e

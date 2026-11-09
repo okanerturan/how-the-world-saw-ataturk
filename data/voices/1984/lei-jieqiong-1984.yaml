@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lei-jieqiong-1984
+voice: Lei Jieqiong
+voice_type: person
+role: Standing Committee member, National People's Congress of China
+country: China
+country_now: China
+domain: politics
+date: "1984-12-05"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: emancipator-patriarch
+artifact: speech
+evidence: P
+summary: >-
+  Credits Atatürk's initiative with giving Turkish women the vote and says she holds him in deep respect.
+quote:
+  text: >-
+    Türk kadınına siyasî haklar tanınmasında silinmez katkılar yapan Yüce Atatürk’e derin saygılar duyuyor
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 50 (printed p. 39). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "[We] feel deep respect for the Great Atatürk, who made indelible contributions to the
+  granting of political rights to Turkish women." Speech marked the 50th anniversary of Turkish women's
+  suffrage (1934). Heading: 'Çin Halk Cumhuriyeti Ulusal Halk Kongresi Sürekli Komite Üyesi Lei Jieqiong', 5
+  Aralık 1984.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 50 (printed p. 39); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c50.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Çin Halk Cumhuriyeti Ulusal Halk
+    Kongresi Sürekli Komite Üyesi Lei Jieqiong, 34. Birleşim, 5 Aralık 1984'). Heading and quote on same page.
+    Paraphrase ('Atatürk's initiative') matches 'büyük millî kahraman Kemal Atatürk'ün teşebbüsü ve desteği
+    ile'. Speech marks the 50th anniversary of women's suffrage.
+  checked_on: "2026-11-01"

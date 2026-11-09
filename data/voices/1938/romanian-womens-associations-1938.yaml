@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: romanian-womens-associations-1938
+voice: Romanian women's associations (Hortense de Satmary)
+voice_type: institution
+role: Several Romanian women's associations, signed by Hortense de Satmary
+country: Romania
+country_now: Romania
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: emancipator-patriarch
+artifact: telegram
+evidence: P
+summary: Called him the great victorious saviour of his nation and liberator of Turkish women.
+quote:
+  text: saveur [sauveur] de sa nation et libérateur des femmes turques
+  language: fr
+caveat: >-
+  TBMM vol. 2 (c2) PDF p. 24. Quote in French; the cable reads 'saveur', a telegraph misspelling of 'sauveur'.
+  Translation: 'saviour of his nation and liberator of Turkish women'.
+node: Heads of State Write to the Assembly, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: TBMM Taziyetname 1938, c2.pdf p. 24 (left-hand telegram, Bucuresti)
+  method: >-
+    Own render of the PDF page (PDFKit PNG, read by eye); no OCR relied on; telegraph text is unaccented
+    capitals/lowercase typescript
+  note: >-
+    CORRECTION of page cite: the telegram is on c2 PDF p. 24, not p. 25 (p. 25 holds Horthy and the Budapest
+    legation, no Romanian women). Source text: 'les femmes roumaines pleurent la mort du grand victorieux
+    kamal ataturk saveur de sa nation et liberateur des femmes turques - hortense de satmary au nom de
+    plusieurs associations feminines'. The source has the telegraph misspelling 'saveur'; the record silently
+    corrects it to 'sauveur' and adds accents. Signature form 'hortense' (record: Hortense de Satmary) fine.
+    Right-hand telegram (Bratianu) is a different item.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 10)
+  checked_on: "2026-11-01"

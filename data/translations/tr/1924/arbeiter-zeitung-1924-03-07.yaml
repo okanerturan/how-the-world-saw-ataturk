@@ -1,0 +1,37 @@
+# Turkish for data/voices/1924/arbeiter-zeitung-1924-03-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: arbeiter-zeitung-1924-03-07
+voice: Arbeiter-Zeitung (Viyana)
+role: Günlük Viyana gazetesi, Sosyal Demokrat Parti'nin merkez yayın organı
+quote: >-
+  siyaseten karşıdevrimci bir güç olarak kaldığını ve Mustafa Kemal'in, kendisi tarafından kurulan Cumhuriyeti
+  savunmak için, aynı zamanda
+quote_kind: translated
+summary: >-
+  Hilafetin kaldırılmasını, Mustafa Kemal'in siyaseten karşıdevrimci bir güç olarak kalmış olan dine karşı
+  cumhuriyetini savunması olarak açıkladı.
+caveat: >-
+  Kişisel övgüden ziyade sempatik bir çerçeveleme; kutupluluk çıkarım yoluyla belirlenmiştir. ANNO sayfa metni
+  ve görüntüleri erişim engelli olduğundan alıntı arama dizini OCR parçasıdır (iki arama penceresi);
+  dilbilgisel özne 'die Religion'dur; sayfa görüntüsü yeniden okunmadı.
+verification_note: >-
+  Kesit kayıttaki alıntıyla birebir örtüşmektedir: '...politisch konterrevolutionaere Macht geblieben ist und
+  dass Mustafa Kemal, um die von ihm gegruendete Republik zu verteidigen, auch die religioese Stuetze dieser
+  konterrevolutionaeren Staats...' Yalnızca bir dizin kesiti görülebildiğinden kısmi doğrulama sayılır.
+  Dilbilgisel özne doğrudan doğruya hilafet değil, 'die Religion'dur ('die Religion auch in der Tuerkei eine
+  nicht nur geistige, sondern auch politisch konterrevolutionaere Macht geblieben ist'); what_they_saw
+  dinden/onun kurumsal dayanağından söz etmelidir. Yazar, başlık ve 'drive toward progress' ifadesi görülmedi;
+  çekince notunun da kabul ettiği gibi 'admiring' çıkarıma dayalıdır.
+verification_method: >-
+  ANNO kesit API'si (ücretsiz); sayfa metni ve görüntüleri erişim engelli olduğundan yalnızca OCR kesiti
+  görüldü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 496ed4e2c57d
+  role: 7d977ebb9bd9
+  quote: 3475d11f7a57
+  summary: 4fe3ba2201fb
+  caveat: db27e3dc2820
+  verification_note: 804a8a0b53ba
+  verification_method: 515d1b1935e9

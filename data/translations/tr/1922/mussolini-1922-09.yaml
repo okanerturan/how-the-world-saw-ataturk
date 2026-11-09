@@ -1,0 +1,37 @@
+# Turkish for data/voices/1922/mussolini-1922-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mussolini-1922-09
+voice: Benito Mussolini
+role: >-
+  Faşist lider, gazeteci (Il Popolo d'Italia çevresinde yayımlanan makale; 1930'da yeniden basıldı)
+quote: Mustafa Kemal Paşa'nın zaferi, Anadolu toprakları bakımından nihaidir.
+quote_kind: translated
+summary: >-
+  Kemal'in Yunanistan karşısındaki zaferini Anadolu için nihai, Fransa'nın Britanya'ya karşı
+  silahlandırmasının bir ürünü ve Avrupa'nın kalıcı bir barışa ihtiyaç duyduğuna dair bir ders olarak okur.
+caveat: >-
+  'La luna crescente' makalesi (yaklaşık 2.000 kelime), Benito Mussolini, Tempi della Rivoluzione Fascista
+  (1930), s. 108-110 vd., archive.org TempiDellaRivoluzioneFascista (açık). Çevirisi: 'Mustafa Kemal Paşa'nın
+  zaferi, Anadolu toprakları bakımından nihaidir.' OCR 'cbe' olarak basmıştır, 'che' olarak düzeltildi. Özgün
+  yayım tarihi taramada basılı değildir; Eylül 1922 tarihi, kapanış satırındaki 'İzmir yangınının alevleri'
+  ifadesinden çıkarılmıştır. Mussolini'nin çerçevesi: Kemal'in İzmir'e yürüyüşü, Fransa'nın engellenen Ruhr
+  yürüyüşü için 'bir tür telafi'dir; 'La morale della vittoria kemalista' ise Avrupa'nın elli yıllık barışa
+  ihtiyaç duyduğudur. İzmir yalnızca bir tarih işareti olarak anılır; derleme yangının kendisine dair bir
+  görüş kaydetmez. 1928 mülakat kaydından daha eskidir ve ton olarak ondan ayrılır.
+verification_note: >-
+  s. 109'da birebir: 'La vittoria di Kemal pascià, è definitiva per ciò che riguarda il territorio anatolico'
+  (OCR 'cbe'). Fransız/İngiliz rekabeti okuması ve 'La marcia di Kemal su Smirne è una specie di
+  compensazione' ifadeleri s. 108-109'dadır. Tarih: Ihrig'in Türkçe baskısı makaleyi Benito Mussolini, 'La
+  luna crescente', Gerarchia 9 (1922): 477-479 olarak kaynak gösterir; Gerarchia sayı 9 Eylül sayısıdır,
+  dolayısıyla 1922-09 desteklenmektedir (Opera Omnia XVIII s. 425-27). Araçsal/2 uygun.
+verification_method: açık djvu metninin curl ile çekilmesi, bağlam içinde okundu; tarih için fts
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e8f28c51f778
+  role: 2d052c503081
+  quote: b4579a7e36df
+  summary: 702de4f1fa22
+  caveat: d312f62a60eb
+  verification_note: be883fe45c7b
+  verification_method: 1427b6d844eb

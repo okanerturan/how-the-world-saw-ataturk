@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: john-m-kelly-1983-11-30
+voice: John M. Kelly
+voice_type: person
+role: Fine Gael TD for Dublin South-Central, constitutional lawyer and former Attorney General
+country: Ireland
+country_now: Ireland
+domain: politics
+date: "1983-11-30"
+era: posthumous
+polarity: conflicted
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: S
+summary: >-
+  Turkey's 'great leader' forced Westernisation to end its peripherality: script, veils and fezes scrapped, 'a
+  brutal thing to do to people'.
+quote:
+  text: >-
+    The Turks were under the disadvantages, as their great leader, Ataturk, saw it, of being culturally and
+    economically peripheral to Europe. He made them scrap the Arabic writing which they used for their
+    language, he made them scrap their veils and their fezes, making them dress like western Europeans. That
+    was, I suppose, a brutal thing to do to people.
+  language: en
+mediated_by: >-
+  Database of Parliamentary Speeches in Ireland, 1919–2013 (Herzog and Mikhaylov, Harvard Dataverse
+  doi:10.7910/DVN/6MZN76), speechID 2109508, a transcription of the Dáil official report
+caveat: >-
+  Dáil Éireann, Export Promotion (Amendment) Bill, 1983: Second Stage (Resumed), 30 Nov 1983, col. after 661.
+  He offers Japan and Turkey as models of nations that broke with tradition to sell to the world. The official
+  report on oireachtas.ie sits behind an interactive human-verification check and was not opened, so evidence
+  S. Other Dáil hits in the dataset state no view: Lynch 1973 and Ahern 2003 (a wreath), a 1922 speech on
+  refusing to fight 'the war of the oil owners against Kemal Pasha' (attributed in the dataset to Cosgrave,
+  doubtfully), Kelly 1987 ('isolated as the Turks were before Ataturk'), Higgins 1991 (an ironic comparison),
+  Broughan 2003 (an attributed promise).
+node: John M. Kelly
+sources:
+  - url: https://doi.org/10.7910/DVN/6MZN76
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Database of Parliamentary Speeches in Ireland (Harvard Dataverse doi:10.7910/DVN/6MZN76), speechID 2109508
+  method: >-
+    local grep of the downloaded dataset by the main agent; official report on oireachtas.ie not opened
+    (interactive check); not an independent checker
+  note: Quote verbatim in the dataset transcription; speaker and date from the dataset.
+  checked_on: "2026-11-04"

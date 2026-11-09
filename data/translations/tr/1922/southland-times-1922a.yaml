@@ -1,0 +1,19 @@
+# Turkish for data/voices/1922/southland-times-1922a.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: southland-times-1922a
+voice: Southland Times
+role: Invercargill günlük gazetesi, başyazı
+quote: Kemal'in taahhütleri çok az şey ifade ediyor
+quote_kind: translated
+summary: >-
+  Kemal'in tarafsız bölge hakkındaki güvencesini, böyle bir bölgenin varlığını reddettiği için değersiz gördü
+  ve bir çarpışma bekledi.
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a333def6366d
+  role: 1929cb1fa710
+  quote: 9117c295a085
+  summary: cd54d41db65c
+  verification_method: ad8cee67138e

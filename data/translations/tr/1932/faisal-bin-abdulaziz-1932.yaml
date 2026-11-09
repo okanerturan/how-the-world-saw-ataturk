@@ -1,0 +1,21 @@
+# Turkish for data/voices/1932/faisal-bin-abdulaziz-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: faisal-bin-abdulaziz-1932
+voice: Prens Faisal bin Abdulaziz
+role: Suudi dışişleri bakanı, sonradan Kral Faisal
+quote: İki halkımız kardeştir ve öyle kalacaktır.
+quote_kind: translated
+summary: >-
+  15 günlük bir gezi sırasında Ankara'da Atatürk tarafından kabul edildi; iki halk arasındaki kardeşlikten söz
+  etti. Özoğlu, Türkiye'nin bu yakınlığını Suudileri Haşimilere tercih etmesi olarak yorumlar.
+caveat: Özoğlu'nun gerekçelere dair okuması bir yorumdur.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3a1694d97148
+  role: 99c2b75eb96c
+  quote: 82c5a916ef10
+  summary: 730620a14d6e
+  caveat: 54290a160209
+  verification_method: ad8cee67138e

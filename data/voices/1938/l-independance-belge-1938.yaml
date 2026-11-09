@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: l-independance-belge-1938
+voice: L'Indépendance belge
+voice_type: press
+role: Belgian daily
+country: Belgium
+country_now: Belgium
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Called him the age's most tenacious, unflinching revolutionary who gave his nation national consciousness;
+  urged continuing his work.
+quote:
+  text: is of great importance especially for Turkey and for Europe
+  language: en
+mediated_by: Toksoy 2006 ← Akşam 12 Nov 1938 p. 2 / Ayın Tarihi Nov 1938
+caveat: Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen.
+node: Brussels Stands, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt (Hollanda ve Belçika; İndependance Belge)
+  method: local
+  note: >-
+    Quote is Toksoy's Turkish paraphrase ('Türkiye ve Avrupa adına çok önemli'), not the paper's own words.
+  checked_on: "2026-10-29"

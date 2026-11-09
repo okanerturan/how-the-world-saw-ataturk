@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lyons-1938
+voice: Joseph Lyons
+voice_type: person
+role: Australian Prime Minister
+country: Australia
+country_now: Australia
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Called him an illustrious statesman and founder of the Turkish Republic.
+quote:
+  text: illustrious statesman and founder of the Turkish Republic
+  language: en
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    a local working file (TBMM condolence OCR) (London/Canberra English telegram 'illustrious statesman and
+    founder of the Turkish Republic = lyons prime minister')
+  method: local
+  checked_on: "2026-10-29"

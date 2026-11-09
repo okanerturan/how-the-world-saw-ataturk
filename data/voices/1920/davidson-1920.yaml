@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: davidson-1920
+voice: Major-General Sir John Davidson MP
+voice_type: person
+role: Member of the Commons, Army Estimates debate
+country: United Kingdom
+country_now: United Kingdom
+domain: military
+date: "1920-03-22"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Judged Kemal's Anatolian troops indifferent to the Allied occupation of Constantinople, so no reduction in
+  military spending was possible.
+quote:
+  text: >-
+    I do not believe that the troops under Mustapha Kemal in Anatolia care anything for our occupation of
+    Constantinople
+  language: en
+caveat: An assessment of strength, no moral verdict; coded witness.
+node: Parliament Meets Kemal, February–March 1920
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-03-22/debates/437047e3-3de4-46af-8eff-66422ef77c86/ArmyEstimates192021
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard.parliament.uk/Commons/1920-03-22/debates/437047e3-3de4-46af-8eff-66422ef77c86
+    (contribution 9dbcc6f5-9fdf-4143-845e-dc03abbf1537, Maj-Gen Sir JOHN DAVIDSON)
+  method: api
+  checked_on: "2026-10-29"

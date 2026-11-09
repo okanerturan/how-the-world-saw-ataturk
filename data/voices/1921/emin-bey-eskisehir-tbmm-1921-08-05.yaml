@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: emin-bey-eskisehir-tbmm-1921-08-05
+voice: Emin Bey (Eskişehir)
+voice_type: person
+role: Eskişehir deputy, First Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-08-05"
+era: contemporary
+polarity: admiring
+intensity: 3
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Backed giving Kemal the Assembly's powers outright, accepting him acting as dictator to save the country
+  from the Greeks, even a post above the sultanate.
+quote:
+  text: >-
+    Memleketi Yunandan, düşmandan kurtarıp ta böyle bir müddet için kendisi diktatör olarak icrayı faaliyet
+    ederse, ben bunda memleket için fayda mülâhaza ederim.
+  language: tr
+caveat: >-
+  Printed p. 203. A colleague (Mustafa Bey, Tokat) interjects 'Aldandın' ('you are deceived'). Not to be
+  confused with Emin Bey (Canik) or Emin Bey (Erzincan), other deputies of the same name in the volume.
+node: TBMM Closed Sessions, August 1921 — Three More Voices
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+    archived: https://web.archive.org/web/20250915054819/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Gizli Celse Zabitlari Cilt 2 (62nd sitting, 5 Agustos 1337), text between foot markers 202 and 203 =
+    p.203
+  method: >-
+    pdftotext of Cilt 2 volume; exact match; Mustafa Bey (Tokat) 'Aldandin' interjection present
+  note: Also says 'Padisahliktan yuksek bir makam olsa dahi veririm' as claimed.
+  checked_on: "2026-10-30"

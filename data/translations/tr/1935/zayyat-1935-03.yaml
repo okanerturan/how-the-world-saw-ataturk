@@ -1,0 +1,39 @@
+# Turkish for data/voices/1935/zayyat-1935-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zayyat-1935-03
+voice: Ahmad Hasan al-Zayyat
+role: al-Risala editörü, Kahire
+quote: >-
+  Fakat yenileşmede doğaya aykırı davranarak ve reformda mantıktan uzaklaşarak kendi tarihine haksızlık ettin.
+quote_kind: translated
+summary: >-
+  Büyük Gazi Atatürk'e hitap eder: Hasta Adam'ı dirilttiği için onu över, ardından doğaya ve mantığa aykırı
+  davranarak Türkiye'nin tarihine haksızlık ettiğini söyler.
+caveat: >-
+  Kaynak olarak al-Risala sayı 88, 11 Mart 1935, Wikisource sayfası 'مجلة الرسالة/العدد 88/إلى أين يساق
+  الأتراك؟' gösterilmiştir. Ahmad Hasan al-Zayyat imzalı, ikinci tekil şahısla Atatürk'e hitap eden 'Where Are
+  the Turks Being Driven?' başlıklı başyazı. Alıntının hemen öncesinde: 'Kırık kanadı onardın ve Hasta Adam'ı
+  dirilttin ... adın onun modern tarihinin başlığıdır'. Hemen sonrasında: tarihin Atatürk'ün 'bir devleti
+  diriltip bir milleti öldürdüğünü, bir anayasa kurup bir inancı yıktığını' yazacağından korkar. Veri
+  kümesinde zaten yer alan al-Zayyat'ın 14 Kasım 1938 tarihli vefat başyazısından farklıdır. Wikisource
+  transkripsiyonu; sayfa görüntüsü bağlantısı yoktur.
+verification_note: >-
+  Arapça alıntı birebir aynıdır (sondaki nokta dahil). Üstbilgi tarihi 11-03-1935; şablonda yazar satırı boş
+  ancak başyazı 'أحمد حسن الزيات' imzalıdır. Doğrudan 'فخامة الغازي العظيم أتاتُورك!' hitabı vardır,
+  dolayısıyla kişinin kendisi hakkındaki bir görüştür: 'جبرت الجناح المهيض، وأحييت (الرجل المريض) ... فاسمك
+  العزيز عنوان تاريخها الحديث ... ولكنك ظلمت تاريخك ...'; devamındaki 'أحييت دولة وأمت أمة، وبنيت دستوراً
+  وهدمت عقيدة، وبعثت لغة ودفنت ثقافة' cümlesi uyarı notuyla örtüşmektedir. Çeviri sadıktır. 'al-Risala
+  editörü' bilgisi sayfada yer almamaktadır (dış bilgi, tartışmasız). Çelişkili / 2 yerinde; şema uygun.
+verification_method: >-
+  action=raw çekildi, Arapça alıntının harekeden arındırılmış alt dize eşleştirmesi yapıldı, ardından
+  çevreleyen pasaj, üstbilgi tarihi ve kapanış imzası okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 72356aa467bf
+  role: a2e6b1fff538
+  quote: a4c93441f94f
+  summary: 456e7ed6fe93
+  caveat: 0daf8179910e
+  verification_note: cf4a5cd861ee
+  verification_method: 0d2d412521a8

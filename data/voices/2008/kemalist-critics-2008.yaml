@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kemalist-critics-2008
+voice: Kemalist establishment critics of Mustafa
+voice_type: collective
+role: Defenders of the Atatürk image
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "2008"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: report
+evidence: J
+summary: >-
+  Said the film's scenes degraded Atatürk's historical significance and served the interests of Islamists.
+caveat: >-
+  Paraphrase of reported criticism (Wikipedia, Qantara); the earlier quoted line 'diminishes the image of
+  Atatürk in the minds of young Turks' could not be found verbatim in any source.
+node: Can Dündar
+sources:
+  - url: https://en.wikipedia.org/wiki/Mustafa_(film)
+    archived: https://web.archive.org/web/20260303034446/https://en.wikipedia.org/wiki/Mustafa_(film)
+  - url: https://variety.com/2008/film/news/mustafa-a-hit-in-turkey-1117996210/
+    archived: https://web.archive.org/web/20170903173006/https://variety.com/2008/film/news/mustafa-a-hit-in-turkey-1117996210/
+  - url: https://www.voanews.com/a/a-13-2008-12-01-voa16/403171.html
+    archived: https://web.archive.org/web/20250402063703/https://www.voanews.com/a/a-13-2008-12-01-voa16/403171.html
+  - url: https://qantara.de/en/article/documentary-about-mustafa-kemal-atat%C3%BCrk-film-has-turkey-talking
+    archived: https://web.archive.org/web/20250517113757/https://qantara.de/en/article/documentary-about-mustafa-kemal-atat%C3%BCrk-film-has-turkey-talking
+verification:
+  verdict: partial
+  checked_against: >-
+    https://en.wikipedia.org/wiki/Mustafa_(film) ;
+    https://qantara.de/en/article/documentary-about-mustafa-kemal-atat%C3%BCrk-film-has-turkey-talking ;
+    Variety; VOA
+  method: fetch
+  note: >-
+    Quote 'diminishes the image of Ataturk in the minds of young Turks' not found verbatim in any retrieved
+    copy. Gist supported: critics said scenes degraded Ataturk and served Islamists (Wikipedia), Yigit Bulut
+    boycott call (Qantara).
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"
+  quote_found: false

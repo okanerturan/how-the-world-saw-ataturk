@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zaki-al-arsuzi-1938
+voice: Zaki al-Arsuzi
+voice_type: person
+role: Arab nationalist philosopher; League of National Action representative in Antioch
+country: French Mandate Syria (Sanjak of Alexandretta)
+country_now: Syria / Turkey (Hatay)
+domain: politics
+date: "1938"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: memoir
+evidence: S
+summary: >-
+  Led the Arab claim to the Sanjak against French rule and Turkish control; Tezak calls him one of Turkey's
+  fiercest opponents; reportedly held at Antioch prison by June 1938 (inferred from an Alawite women's protest
+  for his release).
+quote:
+  text: >-
+    I was before that an Arab, I felt that I had been born into an Arab family, I felt that I was different
+    from my neighbors, the Turks, in taste and way of life.
+  language: en
+mediated_by: Tezak thesis <- Watenpaugh 1996 <- Arsuzi, Complete Works vol. 3 (1975)
+caveat: >-
+  No sentence by Arsuzi on Atatürk found; the quote concerns Turks and Arab identity, and 'hostile' toward
+  Atatürk is inference. 'Jailed by June 1938' is inferred from the protest. Retrospective writing (1940s-70s);
+  Tezak is an undergraduate thesis, Watenpaugh read as abstract only.
+node: Zaki al-Arsuzi
+sources:
+  - url: https://ir.vanderbilt.edu/bitstreams/c5ca1883-ed5d-4c24-ba79-de72568df165/download
+  - url: https://academia.edu/3069658/_Creating_Phantoms_Zaki_al_Arsuzi_the_Alexandretta_Crisis_and_the_Formation_of_Modern_Arab_Nationalism_in_Syria
+    archived: https://web.archive.org/web/20260307064128/https://academia.edu/3069658/_Creating_Phantoms_Zaki_al_Arsuzi_the_Alexandretta_Crisis_and_the_Formation_of_Modern_Arab_Nationalism_in_Syria
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    https://ir.vanderbilt.edu/bitstreams/c5ca1883-ed5d-4c24-ba79-de72568df165/download (Tezak thesis p.32
+    quote; fn.106; 'fiercest opponents')
+  method: fetch
+  note: >-
+    Quote found verbatim but it concerns Turks/Arab identity, not Ataturk; no Arsuzi statement about Ataturk,
+    so hostile-toward-Ataturk gaze is inference. Thesis shows arrest/protest at Antioch prison (release
+    campaign) around 1938; 'jailed by June 1938' unconfirmed.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

@@ -1,0 +1,27 @@
+# Turkish for data/voices/1940/chiang-kai-shek-1940-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: chiang-kai-shek-1940-10
+voice: Chiang Kai-shek (蔣中正)
+role: Generalissimo, Milliyetçi hükümet
+quote: >-
+  Bu azimli ve gayretli, zorluklara göğüs gererek sıkı ve somut çalışma ruhu, bütünüyle bizim tarafımızdan
+  örnek alınmalıdır
+quote_kind: translated
+summary: >-
+  Kemal'in on yıllık mücadele, devlet kurma ve reform sürecini, Çin'in direniş savaşında örnek alması gereken
+  bir ruh olarak gösterdi.
+caveat: >-
+  10 Ekim 1940 tarihli Ulusal Gün mesajı; alıntılanan cümle, Türkiye'nin yeniden dirilişi ve Kemal hakkındaki
+  bölümü izler.
+verification_note: Birebir; cümle Türkiye/凱末爾 hakkındaki bölümü (on yıllık 建國建軍, reformlar) izliyor.
+verification_method: ms fetch aracılığıyla Wikisource action=parse
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1443a425de0a
+  role: ef30f4f08f26
+  quote: b521bc955f79
+  summary: 429e8dfd04c8
+  caveat: 2fb3177701b6
+  verification_note: d514c07e7320
+  verification_method: 4c2a76f7d40e

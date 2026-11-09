@@ -1,0 +1,21 @@
+# Turkish for data/voices/1922/pahiatua-herald-1922b.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pahiatua-herald-1922b
+voice: Pahiatua Herald
+role: Wairarapa bölgesi akşam gazetesi, başyazı
+quote: >-
+  Türk lider, nihai bir çözüm için yapılacak toplantı öncesinde koşullar dayatmaya çalışmakta büyük bir
+  inatçılık gösteriyor.
+quote_kind: translated
+summary: >-
+  Türk lideri inatçı olarak nitelendirdi ve fevri Türk eylemlerini sahiplenmeyebilecek olsa da İtilaf
+  Devletleri'nin Kemalistlerin daha fazla diktesine müsamaha göstermeyeceği uyarısında bulundu.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b8ea402c5c12
+  role: f619b75b052f
+  quote: 6a62addd40cb
+  summary: d1dafe9dbc23
+  verification_method: ad8cee67138e

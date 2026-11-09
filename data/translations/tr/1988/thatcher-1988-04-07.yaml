@@ -1,0 +1,35 @@
+# Turkish for data/voices/1988/thatcher-1988-04-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: thatcher-1988-04-07
+voice: Margaret Thatcher
+role: >-
+  Başbakan, Türkiye'ye resmî ziyarette bulunan ilk Britanya Başbakanı; Ankara'daki akşam yemeği konuşması
+quote: Özel saygımız, o olağanüstü asker/devlet adamı Kemal Atatürk'e ayrılmıştır
+quote_kind: translated
+summary: >-
+  Kinross'a atıfla Atatürk'ü olağanüstü bir asker-devlet adamı ve 'tarihin anıtsal şahsiyetlerinden biri'
+  olarak nitelendirir; onun, tarihin büyük adamlar tarafından yapıldığının kanıtı olduğunu söyler.
+caveat: >-
+  Özal'ın verdiği resmî ziyaret yemeğidir; dolayısıyla övgü aynı zamanda konukseverlik gereğidir. Öncesinde
+  Lord Kinross'un biyografisini yeniden okuduğunu söyler, 'I don't act for public opinion, I act for the
+  nation' ifadesini aktarır (Kinross atfı kendisine aittir; Kinross'un kitabı burada incelenmemiştir) ve şunu
+  ekler: 'If ever one needed proof that history is made not by impersonal forces but by great men, Kemal
+  Ataturk provided it.' Tarih, Vakfın katalog tarihidir; belgenin kendisinde yalnızca 'Ankara' ve bir COI
+  transkripti yer alır.
+verification_note: >-
+  Birebir aynı: 'Our particular respect is reserved for that remarkable soldier/statesman Kemal Ataturk - one
+  of the towering figures of history.' Şunlar da birebir aynı: Lord Kinross'un biyografisini yeniden okuması;
+  '"I don't act for public opinion," he said, "I act for the nation"'; 'If ever one needed proof that history
+  is made not by impersonal forces but by great men, Kemal Ataturk provided it.' Sayfanın kendisi yalnızca yer
+  olarak Ankara bilgisini veriyor; 7 Nisan tarihi kataloğa ait. Düzeltme gerekmiyor.
+verification_method: Belge sayfasının tools/ms ile serbest çekimi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bc13e3df7331
+  role: 25f3ce56797e
+  quote: b703e760bfe0
+  summary: 013a1bd9fee0
+  caveat: 46d2a3afd6b9
+  verification_note: f1f20d347118
+  verification_method: a95a03008cc4

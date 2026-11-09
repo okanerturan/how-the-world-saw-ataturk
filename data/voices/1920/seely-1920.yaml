@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: seely-1920
+voice: Major-General Seely MP
+voice_type: person
+role: Commons, Navy Estimates debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-03-18"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Called Kemal, on the Foreign Secretary's word, the source of the trouble and probably of most massacres.
+quote:
+  text: >-
+    whom we now know, from the speech of the Foreign Secretary in the House of Lords, to have been the source
+    of all the trouble, and probably responsible for most of the massacres
+  language: en
+caveat: >-
+  Quoted text prints the name as 'Mustapha Kcmil' (OCR); speaker is printed 'Major-General SEELY' without
+  first name.
+node: Kemal in the Commons, Variant Spellings, 1920–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-03-18/debates/e4618aab-4686-4322-8e6c-cf4d0c4f7779/NavyEstimates192021
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard Commons 1920-03-18 Navy Estimates 1920-21, contribution attributed 'Major-General SEELY'
+  method: Hansard API search, full contribution text
+  note: Verbatim incl. OCR 'Kcmil'. Speaker attribution, date, debate confirmed.
+  checked_on: "2026-10-30"

@@ -1,0 +1,27 @@
+# Turkish for data/voices/1935/la-verita-waterbury-1935-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-verita-waterbury-1935-05
+voice: La Verità (Waterbury)
+role: İtalyanca haftalık gazete, Waterbury, Connecticut
+quote: yeni Türkiye'nin en üst liderinin tartışılmaz meziyetlerini kabul etti
+quote_kind: translated
+summary: >-
+  Türk kadınlarını haremden kurtardığı için 'diktatör' Kemal'i selamlayan Lady Astor'un konuşmasını över;
+  Türkiye'nin siyasi birliğini yeniden kurma payesini ona verir.
+caveat: >-
+  İmzasız köşe yazısı; gazetenin İtalyan Faşizmine bağlılığı bu pasajda görülmez. Alıntılanan yan cümle,
+  gazetenin Astor'un konuşması hakkındaki yorumudur.
+verification_note: >-
+  Birebir aynı (OCR satır sonlarıyla); Astor'u över, tırnak içinde 'dittatore', haremden kurtarılan kadınlar,
+  yeniden kurulan siyasi birlik.
+verification_method: tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 56a4a962f5bd
+  role: f79c789fafaa
+  quote: 0cb8797e323f
+  summary: d86ce92af9a3
+  caveat: bef0f0a81117
+  verification_note: a89722cc510b
+  verification_method: 0e07f3903a84

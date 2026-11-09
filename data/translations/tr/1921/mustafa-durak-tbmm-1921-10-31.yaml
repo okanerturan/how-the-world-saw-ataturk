@@ -1,0 +1,24 @@
+# Turkish for data/voices/1921/mustafa-durak-tbmm-1921-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mustafa-durak-tbmm-1921-10-31
+voice: Mustafa Durak (Erzurum)
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Erzurum milletvekili
+quote: Başkumandan Paşa vazifesine devam etsin ve mesuliyetini müdrik bulunsun.
+quote_kind: original-turkish
+summary: >-
+  Başladığı işi bitirmesi için Başkomutan'ın görevde kalmasını destekledi, ancak hesap verebilir durumda
+  kalmasında ısrar etti: hata yaparsa sorumlu tutulmalıdır.
+caveat: Basılı metin s. 478. 5 Ağustos 1921 tarihli kaydından farklı bir beyandır.
+verification_note: >-
+  s. 478'de birebir; 'Hata ederse mesul edeceğiz' ifadesi hesap verebilirlik iddiasını destekliyor.
+verification_method: Arşivlenmiş baskı PDF'inin pdftotext çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 79f0c943d0b6
+  role: aafe3f6d49de
+  quote: 9518ed940a73
+  summary: b74e82d55844
+  caveat: 36c13f49f18b
+  verification_note: abadd99a9600
+  verification_method: 7b462ab399e7

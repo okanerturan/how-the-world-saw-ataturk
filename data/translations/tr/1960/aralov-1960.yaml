@@ -1,0 +1,46 @@
+# Turkish for data/voices/1960/aralov-1960.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: aralov-1960
+voice: Semyon Aralov
+role: Ankara'daki ilk Sovyet büyükelçisi (1922-23), anı yazarı
+quote: >-
+  Gazi ince, lirik bir yaradılışa sahipti. Vatan ve halk sevgisi, onu Türkiye'nin düşmanlarına karşı acımasız
+  mücadele için gerekli olan sert, metin bir karakteri kendi içinde geliştirmeye mecbur bıraktı.
+quote_kind: translated
+summary: >-
+  Gazi'yi vatan sevgisiyle sertleşmiş lirik bir insan olarak tasvir eder, ancak devriminden yalnızca
+  burjuvazinin kazançlı çıktığı yargısına varır.
+caveat: >-
+  S. I. Aralov, Воспоминания советского дипломата. 1922-1923 (Moskova: Institute of International Relations,
+  1960), s. 215 (veda yemeğinde Kemal'in eşi Latife'den bir Tchaikovsky romansı çalmasını istemesinin ardından
+  gelen lirik yaradılış portresi). Aynı kitap, s. 211, yeni Türkiye'nin lideri olarak Kemal hakkındaki
+  bölümde: 'Но надежды эти не оправдались. Выиграла от национальной революции и военных побед освободительной
+  армии только буржуазия' (çevirisi: 'Fakat bu umutlar gerçekleşmedi. Ulusal devrimden ve kurtuluş ordusunun
+  askeri zaferlerinden yalnızca burjuvazi kazançlı çıktı') ve Kemal'in 'не был последователен в борьбе с
+  феодалами' olduğu belirtilir. Açık archive.org taramasından okundu (djvu metni, sayfa numaraları taramadan).
+  Olaylar 1922-23'e ait olup 1960 Sovyet tarih yazımı altında yazılmış ve yayımlanmıştır; kitabın önsöz
+  düzeyindeki kendi çerçevesi sınıf analizidir. Aralov'un Kemal'in taktik dehasına ve komünistlerin
+  bastırılmasına ilişkin hükmü alıntılanan pasajlarda yer almaz.
+verification_note: >-
+  Alıntı s. 215'te birebir aynı (metin '215' işaretinin üstünde, 'Ханум, сыграй нам на прощание любимый романс
+  Чайковского' ifadesinden sonra yer alıyor; yemek/Latife bağlamı doğru). Çekince pasajı s. 211'de birebir
+  aynı: 'Но надежды эти не оправдались. Выиграла от национальной революции и военных побед освободительной
+  армии только буржуазия' ve 'Мустафа Кемаль не был последователен в борьбе с феодалами' (aynı sayfa, ardından
+  211 işareti). Çeviriler sadık. Çelişkili kutupluluğu uygun; what_they_saw 22 kelime. Şema tamam (alan
+  sırası, enum değerleri). Yalnızca tavsiye niteliğinde: yoğunluk 3 en üst kademedir ve biri hariç başka
+  hiçbir anı kaydı 3 değildir; 2 (sürekli etkileşim) anıların puanlanma biçimine daha uygun düşer, ancak
+  kitabın tamamı Ankara misyonu hakkındadır, bu nedenle 3 savunulabilir. 'Büyükelçi', полпред (tam yetkili
+  temsilci) teriminin karşılığı olarak kullanılmıştır.
+verification_method: >-
+  /download üzerinden djvu metni indirildi, Rusça alıntı taramadaki satır sonu tirelemesi (¬) üzerinden
+  eşleştirildi, sayfa altındaki işaretlerden sayfa numaraları tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1f222af6d210
+  role: b628196bd851
+  quote: 72c5a2f8983a
+  summary: 5dd5ea47af8b
+  caveat: fc41d4f8f183
+  verification_note: a3d30f29c31d
+  verification_method: fea29e1bf2c5

@@ -1,0 +1,34 @@
+# Turkish for data/voices/1924/ckc-jamiat-cable-1924-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ckc-jamiat-cable-1924-03
+voice: Merkezi Hilafet Komitesi ve Jamiat-ul-Ulema (Shaukat Ali, Kifayatullah)
+role: Hint Hilafet liderliği, Türkiye Cumhuriyeti Cumhurbaşkanı'na telgraf
+quote: >-
+  Hilafetin kaldırılmasına ilişkin Türkiye'den şimdiye kadar alınan haberler, Hintli Müslüman kardeşleriniz
+  arasında derin bir üzüntü ve büyük bir şaşkınlık yaratmıştır
+quote_kind: translated
+summary: >-
+  Kemal'e hilafetin kaldırılmasının derin bir üzüntü yarattığını ve beklentilerini yıktığını söylediler,
+  Meclis'e kararı yeniden gözden geçirmesi için yalvardılar, ancak Türkiye'nin işlerine karışma niyetinde
+  olmadıklarını belirttiler.
+caveat: >-
+  'Your Highness' hitabıyla yazılmıştır. İki OCR nüshası sayfa numaralarında farklılık gösterir (yakl. s.
+  507-509). Basılı ciltte önce Ankara'nın açıklayıcı telgrafı yer alır; Modern Review, Kemal'in bu telgrafa
+  hiç yanıt vermediğini belirtir.
+mediated_by: Modern Review, Nisan 1924, Notes (telgrafın tamamını basar)
+verification_note: >-
+  Telgraf metni eşleşiyor ('deep distress and consternation among your Indian Muslim brethren'), Shaukat Ali
+  ve Kifayatullah imzalı, müdahale niyetini reddediyor ve kararın yeniden gözden geçirilmesi için yalvarıyor.
+  'Kemal never answered' bilgisi kontrol edilmedi.
+verification_method: djvu OCR metni (iki nüsha)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 44e65130893c
+  role: d84b4daa7ef0
+  quote: 5684c86cb6fa
+  summary: 970d1d8d7bbe
+  caveat: e989927bcc48
+  mediated_by: 26292dbc457a
+  verification_note: f4525b55ca20
+  verification_method: 8226013cae5e

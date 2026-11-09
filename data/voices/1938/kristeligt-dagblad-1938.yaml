@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kristeligt-dagblad-1938
+voice: Kristeligt Dagblad
+voice_type: press
+role: Danish daily
+country: Denmark
+country_now: Denmark
+domain: press
+date: "1938-11"
+era: funeral
+polarity: conflicted
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  Worker of wonders who crushed every plot; the sword arm is worthy of the sceptre, his motto became the grey
+  wolf's watchword.
+quote:
+  text: >-
+    The arm that wields the sword is worthy of holding the sceptre; his motto became the watchword of the grey
+    wolf.
+  language: en
+mediated_by: Toksoy 2006 ← Akşam 16 Nov 1938 p. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
+caveat: >-
+  Paper titles in Toksoy are phonetic and sometimes garbled; identifications presumed; foreign originals not
+  seen.
+node: Copenhagen and Oslo, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt sec. K (Danimarka/Norvec), 'Cristelig Dagblat',
+    fn.134-135
+  method: local
+  note: >-
+    Quote found in Toksoy's Turkish translation. Passage is wholly laudatory; 'conflicted' polarity is not
+    evident from Toksoy.
+  checked_on: "2026-10-29"

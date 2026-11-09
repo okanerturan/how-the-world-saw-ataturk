@@ -1,0 +1,40 @@
+# Turkish for data/voices/1941/abe-yoshishige-1941.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abe-yoshishige-1941
+voice: Abe Yoshishige
+role: Filozof ve deneme yazarı, sonradan Eğitim Bakanı
+quote: >-
+  Yakın dönem Türkiye'sinin diktatör Kemal sayesinde canlılık kazandığı bir gerçektir ve kendisine gerçekten
+  de "Türkiye'nin Babası" bile denmektedir. Ancak onsuz kalacak Türkiye'nin geleceğinden endişe edilmesinin
+  sebebi, bir ülkenin tek bir kişi sayesinde yükselmesinin geçici bir durum olması olup,
+quote_kind: translated
+summary: >-
+  'Türklerin Babası' diye anılan diktatör Kemal'in Türkiye'yi gerçekten canlandırdığını kabul eder, ancak
+  ondan sonra Türkiye için endişelenir: tek bir adamla yükseliş kısa ömürlüdür.
+caveat: >-
+  Jidai to bunka (1941), 'Shakai to kojin' denemesi, basılı s. 63, NDL görüntü 37 (sayfa görüntüsü okundu).
+  Dönemin diktatörleri hakkında şimdiki zamanda yazılmıştır (deneme muhtemelen 1941'den öncesine aittir);
+  1949'daki yeniden basım aynı satırları tekrarlar. Cenaze dönemi metni değildir. Kontrol: 1941 yayın
+  tarihidir; önsöz denemeleri 1935–40 arasına tarihler ve şimdiki zaman kipi ('彼なき後') Kemal hayattayken
+  yazılmış gibi okunur, dolayısıyla dönem çağdaş olabilir.
+verification_note: >-
+  Alıntı basılı s. 63'te birebir aynı (sol sayfa; virgülde cümle ortasında bitiyor, ancak sonraki yan cümle
+  düşünceyi tamamlıyor: böylesi tek kişilik bir canlanma kısa ömürlüdür). Çeviri sadık. TARİH/DÖNEM SORUNU:
+  önsöz (görüntü 4) denemelerin 'roughly 昭和十年から十五年' (1935-40) yazıldığını söylüyor ve yalnızca diğer iki
+  deneme için tarih veriyor; bu deneme tarihsizdir. Metin Kemal'den şimdiki zamanda söz ediyor ('呼ばれて居る',
+  彼なき後, yani onsuz bir gelecekte Türkiye için endişe), bu da o hayattayken yazılmış gibi okunuyor. Dolayısıyla
+  1941 tarihi yalnızca kitap tarihidir ve 'posthumous' dönemi desteklenmemektedir; en iyi ifade 1935-1940,
+  dönem belirsizdir (muhtemelen çağdaş). Bakış testi geçer (Kemal hakkında kendi görüşü, ikircikli).
+verification_method: >-
+  IIIF sayfa görüntüsü indirildi ve üzerindeki Japonca OKUNDU; yazar/başlık/yıl için NDL öğe üstverisi kontrol
+  edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bceb60492e6d
+  role: d9b52a87941a
+  quote: 7ebaca05d182
+  summary: 211da840f282
+  caveat: 93a437816cd7
+  verification_note: 64b4c56ef232
+  verification_method: 25d671ee4bfd

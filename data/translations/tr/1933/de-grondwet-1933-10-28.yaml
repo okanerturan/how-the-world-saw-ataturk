@@ -1,0 +1,25 @@
+# Turkish for data/voices/1933/de-grondwet-1933-10-28.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-grondwet-1933-10-28
+voice: De Grondwet
+role: Hollanda bölgesel günlük gazetesi
+quote: ülkenin diktatörü Cumhurbaşkanı Mustafa Kemal Paşa, bütünüyle yeni bir devlet oluşturdu
+quote_kind: translated
+summary: >-
+  Onuncu yıldönümünde, diktatörün ortaçağ Türkiye'sinden bütünüyle yeni bir devlet oluşturduğunu söyledi,
+  ancak muhaliflerin suçlu olarak asıldığını da kaydetti.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalandı. Başlık 'Kemal Pascha tien jaar dictator'; asılma
+  ifadesi aynı makalededir. Mezhepsel niteliği kontrol edilmedi.
+verification_note: Mezhepsel niteliği kontrol edilmedi
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 095cc5a99bf4
+  role: 97acc1090a94
+  quote: a0768a365a9f
+  summary: bd74c1d42092
+  caveat: "4038307984e3"
+  verification_note: 0cceedcf8215
+  verification_method: ad8cee67138e

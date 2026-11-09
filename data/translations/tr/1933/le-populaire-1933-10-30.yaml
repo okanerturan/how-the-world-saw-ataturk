@@ -1,0 +1,27 @@
+# Turkish for data/voices/1933/le-populaire-1933-10-30.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-populaire-1933-10-30
+voice: Le Populaire
+role: Paris Sosyalist günlük gazetesi
+quote: Kemalist Cumhuriyet'in yıldönümü
+quote_kind: translated
+summary: >-
+  Cumhuriyetin onuncu yıldönümüne ilişkin haberine 'La République kemaliste' başlığını attı; yakındaki bir
+  metin parçasında kutlamaların 'otoritenin emriyle' yapıldığı belirtiliyor.
+caveat: >-
+  Metin parçası düzeyinde, sayfa 3. 'par les ordres de l'autorité' cümlesi ayrı bir parçadır, muhtemelen aynı
+  habere aittir ancak doğrulanmamıştır; Kemal hakkında açık bir görüş yoktur.
+verification_note: >-
+  Her iki metin parçası da PAG_3 üzerinde; notta belirtildiği gibi aynı habere ait oldukları hâlâ
+  doğrulanmamıştır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6370de81e8c7
+  role: 0d277e8d674f
+  quote: 9d689e67d6e6
+  summary: 9f3ebb849d36
+  caveat: 4f7b5cfba668
+  verification_note: 98d6e578297a
+  verification_method: ad8cee67138e

@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/george-dragos-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: george-dragos-1938
+voice: George Dragoș
+role: Rumen profesör
+summary: >-
+  Kitabının önsözünde Türk uyanışını bir düşünce eylemi olarak gördü; metni Boğaziçi'ne bakan penceresindeki
+  Gazi ile bitirdi.
+caveat: Kitabın tarihi notta belirtilmemiştir; Rumence asılları görülmemiştir.
+mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
+verification_note: >-
+  Atatürk yönetiminde Türkiye'nin uyanışına dair önsöz ve Boğaziçi'ne bakan penceresindeki Gazi'yi anlatan
+  kapanış pasajı mevcuttur. Kitap tarihi Toksoy tarafından verilmemiştir; '1938' tarihi dayanaklı değildir
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 809de09ecd53
+  role: e6bee495a9f5
+  summary: 7140de8cedaa
+  caveat: 4f1b9978ee3e
+  mediated_by: 374a97c5054a
+  verification_note: d850171274d3
+  verification_method: 939bb46a04c3

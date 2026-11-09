@@ -1,0 +1,38 @@
+# Turkish for data/voices/2008/barroso-2008.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: barroso-2008
+voice: José Manuel Barroso
+role: Avrupa Komisyonu Başkanı
+quote: >-
+  Büyük Mustafa Kemal Atatürk onu, Türk halkına geleceği tartışmak ve Türkiye'yi modern bir cumhuriyete
+  dönüştürmek için meşru bir forum sağlamak amacıyla kurdu.
+quote_kind: translated
+summary: >-
+  Atatürk'ün Türk halkının kendi geleceğini tartışmasını sağlamak ve Türkiye'yi modern bir cumhuriyete
+  dönüştürmek amacıyla Meclis'i kurduğunu söyler.
+caveat: >-
+  Özgün dildeki metin (https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_08_188); TBMM tutanakları
+  (Tarihe Düşülen Notlar-2, 2012) Türkçe bir metin yayımlamaktadır: "Büyük Mustafa Kemal Atatürk, Türk halkına
+  meşru bir şekilde geleceklerini tartışma imkânı tanımak adına bu Meclisi kurdu ve Türkiye’yi modern bir
+  cumhuriyete dönüştürmek amacıyla bu Meclisi kurdu". TBMM kitabı PDF s. 240 (basılı s. 229).
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Avrupa Birliği Komisyonu Başkanı
+  Jose Manuel Barroso, 89. Birleşim, 10 Nisan 2008'). Başlık ve alıntı aynı sayfada. ÖZGÜN METİN: 'The great
+  Mustafa Kemal Atatürk founded it to give the Turkish people a legitimate forum for discussing the future,
+  and for transforming Turkey in a modern Republic.' (europa.eu SPEECH/08/188, 'Turkey: Master of the Straits,
+  Master of its Destiny', 10 Nisan 2008). Tutarlı; tutanaklarda tekrarlanan 'bu Meclisi kurdu' ifadesi
+  tercümandan kaynaklanan bir yinelemedir.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracımızla PNG'ye dönüştürülüp (check_png/c240.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı görüntü üzerinde ve kendi bağımsız metin katmanı
+  çıkarımımızla kelimesi kelimesine karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 540ea41d1ba7
+  role: 073d26e854f0
+  quote: 84ce52eeda46
+  summary: 1222e5f73077
+  caveat: afc8de105661
+  verification_note: cc0a564c7692
+  verification_method: a52eaf23d189

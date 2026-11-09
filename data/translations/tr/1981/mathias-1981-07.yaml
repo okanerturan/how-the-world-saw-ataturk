@@ -1,0 +1,39 @@
+# Turkish for data/voices/1981/mathias-1981-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mathias-1981-07
+voice: Charles McC. Mathias
+role: Maryland ABD Senatörü (Cumhuriyetçi)
+quote: >-
+  Olağanüstü kararlılığı, adanmışlığı ve dinamik liderliği, Türkiye'nin dünyadaki rolüne ilişkin sarsılmaz bir
+  vizyonla birleşerek onu Türkiye'nin toplumsal ve siyasal yapısında amansız bir reforma yöneltti. Doğu ile
+  Batı arasında parçalanmış, yenik ve bölünmüş bir hanedandan, Batı'ya sarsılmaz bir bağlılığa sahip modern,
+  demokratik bir cumhuriyet yarattı.
+quote_kind: translated
+summary: >-
+  Yüzüncü yılı anıyor: Atatürk Türkiye'yi 'çökmekte olan bir imparatorluğun yıkıntılarından' şekillendirdi;
+  mirası Türkiye'nin önündeki sınav olan karizmatik bir akılcı ve örgütleyici.
+caveat: >-
+  'Reflections on Ataturk Centenary' başlıklı, Atatürk ve Toynbee'den alıntılar içeren, kendisine ait tam bir
+  beyan (yaklaşık 1.000 kelime). Eyalet ve parti bilgisi pasajdan değil, standart kayıttan alınmıştır. OCR
+  bazı harfleri yanlış okuyor ('Kemv.l'); alıntılar temiz satırlardan alındı. Künye: Senato, 30 Temmuz 1981,
+  'Reflections on Ataturk Centenary', Congressional Record c. 127 (ciltli), s. 18675-18676 (granül
+  CRECB-1981-pt14-2-1).
+verification_note: >-
+  Alıntı birebir aynı (iki cümle tutanakta ardışık olduğundan üç nokta gereksiz ama zararsız); Mathias'ın
+  kendi beyanı; tutanağa eklenen McLain imzalı Baltimore Sun makalesi aynı sayfadaki farklı bir öğedir.
+  Yoğunluk 3 desteklenMİYOR: README 3'ü yaşamı veya devleti şekillendiren kullanımlara (politika, kariyer boyu
+  model, yasa) ayırır; tek seferlik ~1.000 kelimelik bir anma konuşması yoğunluk 2'dir. DÜZELTME: yoğunluk 3
+  -> 2. Kutupluluk ve what_they_saw yerinde.
+verification_method: >-
+  yeni PDF indirmesi, pdftotext, üstbilgi ve sütun okuması; 'REFLECTIONS ON ATATURK CENTENARY / Mr. MATHIAS.
+  Mr. President, this year marks the 100th anniversary...'
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f29067fddce3
+  role: 0d7eed5bd150
+  quote: 511a6aef4788
+  summary: 61bd2257aa1d
+  caveat: 884977a386e6
+  verification_note: dac6b86b98c0
+  verification_method: 5949d2866e1c

@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: aikman-1938-11
+voice: A. Aikman
+voice_type: person
+role: Bengal European member, Central Legislative Assembly
+country: British India
+country_now: India
+domain: politics
+date: "1938-11-14"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  For the European Group, mourns Kemal as soldier, diplomat and above all nation builder, a unique example of
+  what one man's courage can do.
+quote:
+  text: >-
+    in the passing of Kemal Pasha there has been lost to civilization an outstanding figure, a soldier, a
+    diplomat and a nation builder
+  language: en
+caveat: >-
+  Legislative Assembly Debates, vol. VII (Government of India Press, Delhi 1938), 14 Nov 1938, pp. 2955-56.
+  Official report digitised by the Lok Sabha Secretariat / Government of India Press, via archive.org OCR.
+  Initials as printed; full name not given in the report. Text read from the OCR of the official report;
+  obvious OCR slips are silently corrected in the quote.
+node: >-
+  Indian Legislative Assembly Mourns Kemal, 14 November 1938 — Desai, Nairang, Aney, Aikman, Zafar Ali Khan
+  and Sir Abdur Rahim
+sources:
+  - url: https://archive.org/download/in.ernet.dli.2015.13994/2015.13994.The-Legislative-Assembly-Debates--vol-vii-Th-1938_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Legislative Assembly Debates vol. VII (in.ernet.dli.2015.13994), 14 Nov 1938, pp. 2955-56 (quote on 2955,
+    'unique example' sentence on 2956); speaker header 'Mr. A. Aikman (Bengal: European)'
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim. 'For the European Group' is fair (he speaks for 'my Party'). Intensity 1 acceptable for a
+    short speech; 2 defensible.
+  checked_on: "2026-11-03"

@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hari-singh-gour-1946-12
+voice: Hari Singh Gour
+voice_type: person
+role: Jurist, founder of Sagar University; member of the Constituent Assembly (C.P. and Berar)
+country: India
+country_now: India
+domain: politics
+date: "1946-12-19"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: secular-rationalist-prophet
+artifact: speech
+evidence: P
+summary: >-
+  In the Constituent Assembly's first session, tells Muslims that Kemal Pasha saw the unwisdom of mixing
+  religion and politics; urges them to reject Jinnah's Pakistan.
+quote:
+  text: >-
+    Kemal Pasha Ata-Turk saw the futility and unwisdom of combining politics with religion. The first thing he
+    did was to put an end to Pakistan and establish the Republic of Turkey.
+  language: en
+caveat: >-
+  Constituent Assembly of India Debates, vol. I, 19 Dec 1946, p. 149 (page header 150 follows the passage).
+  Official report digitised by the Lok Sabha Secretariat / Government of India Press, via archive.org OCR.
+  Gour's 'Pakistan' here means the old Ottoman Caliphate-Sultanate arrangement (his own use of the word); the
+  vault does not adopt his framing of Muslim politics. Speaker header 'Dr. Sir Hari Singh Gour (C. P. and
+  Berar' precedes the passage. Text read from the OCR of the official report; obvious OCR slips are silently
+  corrected in the quote.
+node: >-
+  Constituent Assembly and Lok Sabha on Atatürk, 1946–1966 — Radhakrishnan, Gour, Kamath, Anthony and
+  Brajeshwar Prasad
+sources:
+  - url: https://archive.org/download/eparlib.nic.in.760449/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Constituent Assembly Debates Book 1 (eparlib.nic.in.760449), vol. I, 19 Dec 1946, p. 149 (OCR has header
+    148 before and 150 after; the passage sits between them); speaker header 'Dr. Sir Hari Singh Gour (C. P.
+    and Berar: General)' with continuous speech and running header '[Dr. Sir Hari Singh Gour]' on p. 150
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim ('Kemal Pasha Ata-Turk saw the futility and unwisdom of combining politics with religion.
+    The first thing he did was to put an end to Pakistan and establish the Republic of Turkey.'). Page 149
+    inferred (the 149 header is missing from the OCR) but unambiguous. Stated view is his own approving
+    reading of Kemal; the record's neutrality hedge about his 'Pakistan' use is appropriate. 'First session'
+    and 'urges them to reject Jinnah's Pakistan' fair.
+  checked_on: "2026-11-03"

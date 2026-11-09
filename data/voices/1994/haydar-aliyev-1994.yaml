@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: haydar-aliyev-1994
+voice: Haydar Aliyev
+voice_type: person
+role: President of Azerbaijan
+country: Azerbaijan
+country_now: Azerbaijan
+domain: politics
+date: "1994-02-09"
+era: posthumous
+polarity: admiring
+intensity: 3
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  Bows before the memory of Mustafa Kemal Atatürk as the great figure of the whole Turkic world, who laid the
+  foundation of the Turkish republic.
+quote:
+  text: >-
+    böyük insan, bütün Türk dünyasının böyük şahsiyeti Mustafa Kemal Atatürk’ü bir daha yâd edirem; onun
+    gördüğü işlere, onun koyduğu yola öz hörmetimi ve ihtiramımı bildirerem, onun hatırası karşısında baş
+    eğirem.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 97 (printed p. 86). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "I remember once again the great man, the great figure of the whole Turkic world,
+  Mustafa Kemal Atatürk; I express my respect and reverence for his work and the road he laid down, and bow
+  before his memory." Printed in Azerbaijani forms with Turkish glosses in brackets, so the speech was
+  delivered in Azerbaijani Turkish. Heading: 'Azerbaycan Cumhurbaşkanı Haydar Aliyev', 9 Şubat 1994 (PDF pp.
+  96-97; this passage on 97). He returned on 6 Mayıs 1997 (PDF p. 106ff: 'Böyük Önder Mustafa Kemal Atatürk',
+  visit to Anıtkabir) and 13 Mart 2001 (PDF p. 149ff: 'beşer tarihinin meydana çıkardığı en büyük insanlardan
+  biri'; announces an Atatürk-heritage research centre, p. 156-157) with the same praise; only the 1994 speech
+  is stored as the record. He also cites Atatürk's tenth-anniversary speech at length (PDF p. 101).
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 97 (printed p. 86); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c97.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Azerbaycan Cumhurbaşkanı Haydar Aliyev,
+    69. Birleşim, 9 Şubat 1994 (heading on PDF p. 96)'). Quote on PDF p. 97 (printed p. 86), Azerbaijani forms
+    as printed (bracketed Turkish glosses omitted by record, as they are not in the quote span).
+  checked_on: "2026-11-01"

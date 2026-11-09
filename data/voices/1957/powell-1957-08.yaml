@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: powell-1957-08
+voice: Adam Clayton Powell Jr.
+voice_type: person
+role: U.S. Representative from New York (Harlem)
+country: United States
+country_now: United States
+domain: politics
+date: "1957-08-27"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Sends Republic Day greetings and sketches Atatürk's revolution, calling the transformation of Turkey since
+  1919 admirable and its modernisation 'the goal of Kemal Ataturk'.
+quote:
+  text: >-
+    No one can fail to admire the courage with which this country has tackled its huge tasks. Turkey, under
+    Mustafa Kemal Ataturk, set out to be a modern nation and became a healthy republic with amazing vitality.
+  language: en
+caveat: >-
+  Delivered as one of his greetings on the anniversaries of the Bandung Conference states ('I announced that I
+  would address the United States Congress each time there was an anniversary'); the account of the reforms
+  reads like embassy-supplied material, so it is a courtesy text as well as a view. Page numbers from the
+  running heads (OCR). Cited as Extensions of Remarks (House), 27 August 1957, Congressional Record vol. 103
+  (bound), pp. ~16181-16182 (granule CRECB-1957-pt12-4-3). Check: the body reads like embassy fact-sheet text;
+  the Record gives no source. Check (round 24): the same sentences appear in his 1956 extension and in an
+  unsigned magazine article printed in the Appendix on 16 May 1956 (p. A4001); likely embassy-supplied text.
+node: Senate and House on Atatürk, 1957–1990 — Powell, Sikes, Mathias and Byrd
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1957-pt12/pdf/GPO-CRECB-1957-pt12-4-3.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    govinfo bound CR PDF (fresh download, pdftotext -layout) GPO-CRECB-1957-pt12-4-3, House Ext. of Remarks 27
+    Aug 1957, p. 16181 (quote) and 16182 (goal of Kemal Ataturk)
+  method: >-
+    fresh PDF download, pdftotext, read the column in context; speaker header 'Mr. POWELL. Mr. Speaker, when I
+    came back from Bandung...'
+  note: >-
+    Both quote sentences verbatim on p. 16181 in Powell's own extension; no insert or unanimous-consent
+    marker. The body is a Republic Day sketch that reads like embassy or fact-sheet text, but the Record gives
+    no source, so it is his under his name. Courtesy text; intensity 2 and what_they_saw fair. Schema OK.
+  checked_on: "2026-11-04"

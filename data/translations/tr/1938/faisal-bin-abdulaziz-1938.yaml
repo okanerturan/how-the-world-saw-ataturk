@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/faisal-bin-abdulaziz-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: faisal-bin-abdulaziz-1938
+voice: Prens Faisal bin Abdulaziz
+role: Suudi dışişleri bakanı, sonradan Kral Faisal
+quote: büyük bir kayıp
+quote_kind: translated
+summary: >-
+  Suudilerin Atatürk'ün ölümünü büyük bir üzüntüyle öğrendiğini Ankara'ya telgrafla bildirdi.
+verification_note: >-
+  Telgraf metni: 'It is with great regret that we learned of the death... It is a great loss.' Faisal,
+  Dışişleri Bakanı olarak tanımlanıyor
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3a1694d97148
+  role: 99c2b75eb96c
+  quote: 01a750526727
+  summary: bc73b2b9c638
+  verification_note: 57f96d15c156
+  verification_method: ad8cee67138e

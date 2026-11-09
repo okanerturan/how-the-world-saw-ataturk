@@ -1,0 +1,23 @@
+# Turkish for data/voices/1937/hamilton-kerr-1937.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hamilton-kerr-1937
+voice: Milletvekili Bay Hamilton Kerr
+role: Avam Kamarası üyesi, Dominyon İşleri görüşmesi
+quote: Mustafa Kemal o sırada Türkiye'nin yeni diktatörü olarak henüz ortaya çıkmıştı
+quote_kind: translated
+summary: >-
+  1922 Çanakkale Olayı'nı yeniden anlattı: Yeni diktatör Kemal, Yunanlıları ezmiş, bir İngiliz ordusuyla karşı
+  karşıya gelmiş ve Dominyonlar destek vermeyi reddetmişti.
+caveat: >-
+  Çanakkale Olayı'nın Dominyonlarla istişare konusunda bir ders olarak anlatısal kullanımı; tek yargı
+  'dictator' ifadesidir.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 16fc04185300
+  role: a25755bcd83a
+  quote: a04171aded38
+  summary: 22b11aaefe21
+  caveat: 85bf39da0b22
+  verification_method: a033a528b603

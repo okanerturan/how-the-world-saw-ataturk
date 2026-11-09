@@ -1,0 +1,25 @@
+# Turkish for data/voices/1922/manitoba-free-press-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: manitoba-free-press-1922
+voice: Manitoba Free Press
+role: Winnipeg günlük gazetesi (editör J.W. Dafoe)
+quote: Free Press'in politikası asker gönderilmesine karşı çıkmak olmalıdır
+quote_kind: translated
+summary: >-
+  Clifford Sifton'ın talimatıyla asker gönderilmesine karşı çıktı; Türk, bir ilgi nesnesi değil, Kanada'nın
+  bağımsızlığı için bir bahane işlevi gördü.
+caveat: >-
+  Alıntı Sifton'ın Dafoe'ya talimatıdır. Stacey 1981 (arama kesitinden okundu); metin kontrol edilmedi
+  (kaynağa erişilemedi, 2026-10-29)
+verification_note: Sifton'ın Dafoe'ya talimatı alıntısı doğrulanmadı.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0c399227f091
+  role: 5e949c66b1ef
+  quote: 024d3ab6af61
+  summary: 1dc2ae3e3dcb
+  caveat: 831a257ea5e5
+  verification_note: c9c4fb87edf7
+  verification_method: ad8cee67138e

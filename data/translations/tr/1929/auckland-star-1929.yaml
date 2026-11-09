@@ -1,0 +1,25 @@
+# Turkish for data/voices/1929/auckland-star-1929.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: auckland-star-1929
+voice: Auckland Star
+role: Auckland akşam gazetesi, 'When Dictators Succeed' başyazısı
+quote: >-
+  Bir devrim ve diktatörlük virtüözü olarak Kemal, Dünya Savaşı'ndan bu yana diğer tüm şahıs ve parti
+  otokrasilerinin açık ara üzerinde yükselmektedir.
+quote_kind: translated
+summary: >-
+  Latin alfabesini ve hilafetin sona ermesini örnek göstererek Kemal'i devrimci bir diktatör olarak Mussolini
+  ve Lenin'in üstünde konumlandırdı; bunu Yunanlara karşı milliyetçi direnişle açıkladı.
+caveat: >-
+  OCR yazım hatası 'partv' korundu; Amanullah'ın düşüşü üzerine başyazı. Hayranlık özgürlüğe değil, değişimin
+  ölçeğinedir.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 92838cbf819b
+  role: ee356d054314
+  quote: cb405132c110
+  summary: 1cb211dc5d73
+  caveat: 70f7f7194e1d
+  verification_method: ad8cee67138e

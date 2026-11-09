@@ -1,0 +1,35 @@
+# Turkish for data/voices/1920/senussi-1920-11-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: senussi-1920-11-25
+voice: Ahmed Sharif as-Senussi
+role: Senusi tarikatı lideri, Türkiye Büyük Millet Meclisi'nin konuğu
+summary: >-
+  Meclis'in konuğu olarak Ankara'ya geldi; verilen ziyafette Kemal, 16 Mart 1920'den sonra milliyetçileri
+  teşvik ettiği ve o zamandan beri hizmet verdiği için kendisine teşekkür etti.
+caveat: >-
+  Desteği, Kemal'in ziyafet konuşmasıyla (25 Kasım 1920) ve Haziran 1921 tarihli, mücadelenin başarısı için
+  dua ettiği ve Kemal'in yanıtında özetlenen kendi Ramazan Bayramı tebrik telgrafıyla belgelenmektedir; kendi
+  sözleri basılı değildir. Kemal, Senusilerin Libya'daki çalışmalarını bizzat gördüğünü hatırlatmıştır; onun
+  hediye ettiği bir kılıç Kemal'in çalışma odasında asılıydı (Vakit, 10 Ocak 1922, ABE c. 12).
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri c. 10 (Kaynak 2004) s. 117–119 ← Hâkimiyeti Milliye 27 Kasım 1920; c. 11 s. 202 ←
+  Hâkimiyeti Milliye 14 Haziran 1921
+verification_note: >-
+  Belirtildiği gibi. Editörlerin notunda 15 Kasım 1920'de Meclis'in konuğu olarak geldiği ve 'Kurtuluş
+  Savaşı'nı yakından izleyen, çeşitli vesilelerle Türkleri destekleyen' biri olduğu belirtiliyor. Konuşmada
+  Kemal, 16 Mart'ta Şeyh'in tutulan yolu hayırla karşılayıp onları teşvik ettiğini ve o zamandan beri onlarla
+  birlikte çalıştığını söylüyor. 1921 telgrafı ülkenin kurtuluşu için dualar içeren bir Ramazan Bayramı
+  tebriğidir; çekince notundaki 'Ramadan telegram' ifadesi gevşektir. Önemli bir dini lider, içeriği dolgun
+  bir görüşme ve eylemleriyle gösterdiği destek söz konusu olduğundan kabul edilir. Hayranlık niteliği
+  Kemal'in anlatımına ve editörlerin notuna dayanmaktadır ve çekince notu da bunu belirtmektedir.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7fe1d3cfc619
+  role: 691d38f95d7e
+  summary: 10c09214ac4e
+  caveat: 3b29dfb2fc2b
+  mediated_by: fd417a0ec764
+  verification_note: f5d11b6c0720
+  verification_method: b152e9063489

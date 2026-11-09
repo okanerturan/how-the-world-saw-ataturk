@@ -1,0 +1,44 @@
+# Turkish for data/voices/1933/sherrill-1933-10-26.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sherrill-1933-10-26
+voice: Charles H. Sherrill
+role: >-
+  ABD'nin Türkiye büyükelçisi (1932–33), emekli general; A Year's Embassy to Mustafa Kemal (1934) kitabının
+  yazarı
+quote: bugün dünyanın iki büyük lideri
+quote_kind: translated
+summary: >-
+  Kemal ile bir yıl süren görüşmelerin ardından Mussolini ve Kemal Paşa'yı dünyanın iki büyük lideri olarak
+  nitelendirdi; kitabı Kemal'i Musa'ya benzetti.
+caveat: >-
+  Kitabın İngilizce aslı (Scribner 1934) HathiTrust'ta (uc1.$b57581) yalnızca arama yapılabilir durumdadır ve
+  okunmamıştır. Alıntı kitapta değil, dönüşünde yaptığı açıklamaya dair Brisbane'in haberinde yer alır. Musa,
+  kalp ve başkentin Ankara'ya taşınması pasajları yalnızca Özdemir'in Türkçe alıntısından okunmuştur, örn. s.
+  77: 'Mustafa Kemal aynı zamanda büyük bir kalp adamı olduğunu da ispat ediyordu' [İngilizce çevirisi:
+  Mustafa Kemal was proving at the same time that he was a man of great heart]. Birinci elden tanıklık: Kemal
+  onun için Ankara ve Yalova'da kroki haritalar çizmiştir (Özdemir s. 78–79). Washington Post'un 28 Ekim 1933
+  tarihli bir başyazısı da onun, Kemal'in 'has a splendid army and uses it as an instrument for peace'
+  (gazetenin ifadeleri) yönündeki görüşünü aktarır.
+mediated_by: >-
+  Arthur Brisbane, 'Today' köşesi, St. Louis Post-Dispatch 26 Ekim 1933, Üçüncü Bölüm (Sherrill'den
+  aktarımla); Özdemir 2014 (ATAM), s. 75–79 <- Sherrill'in kitabının Türkçe çevirisi (Gazi Mustafa Kemal, çev.
+  Alp N., Tercüman 1001 Temel Eser), s. 10–11, 105–106
+verification_note: >-
+  Brisbane: 'Ambassador Sherrill, retiring United States Ambassador to Turkey, says Mussolini and Kemal Pasha
+  are the "two great leaders of the world today." He is writing a biography of Kemal.' İki kez (iki ayrı
+  baskıda) mevcuttur. Özdemir s. 76 (Musa Peygamber, Tercüman çev. s. 105'e atıfla) ve s. 77 (büyük bir kalp
+  adamı, çev. s. 106) birebir mevcuttur; Ankara ve Yalova'daki kroki haritalar s. 79; WP 28 Ekim 'splendid
+  army ... instrument for peace' mevcuttur. Şema notu: alıntı ve tarih kitaba değil 1933'teki açıklamaya
+  aittir, dolayısıyla eser türü olarak 'book' yerine 'quote' daha uygundur.
+verification_method: djvu metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0200e86b0a24
+  role: bb24773a3827
+  quote: 5f8e1635b6fe
+  summary: b13ff242fda6
+  caveat: cbc305252e04
+  mediated_by: 139c6416cf65
+  verification_note: 2adf52606992
+  verification_method: 9d9cd164c6b0

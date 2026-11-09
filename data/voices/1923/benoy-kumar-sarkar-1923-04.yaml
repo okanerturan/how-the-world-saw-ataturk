@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: benoy-kumar-sarkar-1923-04
+voice: Benoy Kumar Sarkar
+voice_type: person
+role: Indian economist and sociologist, writing in the Modern Review
+country: British India
+country_now: India
+domain: science
+date: "1923-04"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: article
+evidence: P
+summary: >-
+  Wrote that the whole East, from Manila to Morocco, had been spiritualized by the Turkish successes under
+  Kemal Pasha, which also inspired Young Germany.
+caveat: >-
+  Section 'The New Germany and Kemal Pasha' in his 'Economics of the Rhineland'. OCR of the standfirst is
+  noisy so no verbatim quote is printed; reading confirmed on the OCR line 'successes under Kemal Pasha'.
+node: The Modern Review on Kemal, 1923–1924
+sources:
+  - url: https://archive.org/details/dli.calcutta.09830
+verification:
+  verdict: confirmed
+  checked_against: Modern Review April 1923 djvu text, 'The New Germany and Kemal Pasha'
+  method: archive.org 1923_v33_djvu.txt grep
+  note: >-
+    No quote stored. Text: 'From Manila to Morocco,—the entire East has been spiritualized by the Turkish
+    successes under Kemal Pasha. Their influence on Young Germany has been no less vital.' Claim supported.
+  checked_on: "2026-10-29"
+  quote_found: false

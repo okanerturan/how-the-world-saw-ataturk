@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dorothy-mills-1926
+voice: Lady Dorothy Mills
+voice_type: person
+role: British novelist and travel writer; visited Angora in 1925 (Beyond the Bosphorus, 1926)
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1926"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Calls him the inspiration and life of new Turkey, 'a God to his followers' with a dictator's power;
+  brilliant, but she doubts his commercial sense.
+quote:
+  text: >-
+    Now he is a God to his followers, that is to say to most of the new Turkey, and though his position is
+    nominally but that of President, his power is that of Dictator.
+  language: en
+caveat: >-
+  Lady Dorothy Mills, Beyond the Bosphorus (London: Duckworth, 1926), ch. 'Angora', p. 35 (the quote); p. 34:
+  'To my great regret I did not have the pleasure of meeting the Ghazi ... The very inspiration and life of
+  new Turkey, he must from all accounts be a man of amazingly powerful personality.' p. 35 goes on:
+  'Undoubtedly a very brilliant man; but ... he is a trifle over-inclined ... "to hitch his waggon to a
+  star"'. She did not meet him, so this is a view from reports and from what she saw in Anatolia; her
+  biographical sketch has errors (e.g. 'Harbin'). p. 36 blames the Turk for 'casting' the Armenians and Greeks
+  'into the sea', a judgement the vault does not adopt.
+node: Western Women Commentators on Atatürk, 1922–1936 — Sheridan, Mills, Woodsmall
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.279689
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org in.ernet.dli.2015.279689 (Beyond the Bosphorus, Duckworth 1926), djvu text
+  method: fresh archive.org djvu full text download (banked round17 file not used)
+  note: >-
+    Quote verbatim on p.35 (running head 'ANGORA 35'). p.34 'To my great regret I did not have the pleasure of
+    meeting the Ghazi... The very inspiration and life of new Turkey' is on p.34; 'hitch his waggon to a star'
+    and the patriotism-not-commerce passage on p.35. She did not meet him (record says so). what_they_saw
+    'doubts his commercial sense' is a fair compression of 'seems inclined to think and to act in terms of
+    patriotism and not of commerce'. Pages in the record are correct.
+  checked_on: "2026-11-03"

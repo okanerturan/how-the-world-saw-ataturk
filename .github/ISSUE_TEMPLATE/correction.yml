@@ -1,0 +1,44 @@
+name: Correction / Düzeltme
+description: Something wrong in a record, with the evidence. / Bir kayıttaki bir hata, kanıtıyla birlikte.
+title: "Correction / Düzeltme: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for a wrong quote, date, name, source, summary or classification. Corrections need a source, like records do. For a Turkish wording problem, use the "Translation fix / Çeviri düzeltmesi" form instead.
+
+        Bu formu yanlış bir alıntı, tarih, ad, kaynak, özet ya da sınıflandırma için kullanın. Düzeltmeler de kayıtlar gibi kaynak gerektirir. Türkçe ifadeyle ilgili bir sorun için "Translation fix / Çeviri düzeltmesi" formunu kullanın.
+
+        You can write in English or Turkish. / İngilizce ya da Türkçe yazabilirsiniz.
+  - type: input
+    id: record
+    attributes:
+      label: Record / Kayıt
+      description: The record's id or file path, or a link to it in the exhibition. / Kaydın kimliği (id) ya da dosya yolu, veya sergideki bağlantısı.
+      placeholder: "lebrun-1938 or / ya da data/voices/1938/lebrun-1938.yaml"
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong / Yanlış olan ne
+      description: Which field, what it says now, and what it should say. / Hangi alan, şu an ne yazıyor ve ne yazması gerekiyor.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / Kanıt
+      description: The source that shows the correct version, with a link or a full citation and the page. If it is the record's own source, quote the passage. / Doğrusunu gösteren kaynak; bağlantı ya da sayfa numarasıyla tam künye. Kaydın kendi kaynağıysa ilgili pasajı aktarın.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation / Onay
+      options:
+        - label: I have read the passage in the source myself / Pasajı kaynağın kendisinde okudum
+          required: true
+        - label: I can make the pull request myself / Çekme isteğini (pull request) kendim açabilirim
+          required: false

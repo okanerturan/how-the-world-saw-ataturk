@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ashida-hitoshi-1939
+voice: Ashida Hitoshi
+voice_type: person
+role: Diplomat-politician, later Prime Minister of Japan (1948)
+country: Japan
+country_now: Japan
+domain: politics
+date: "1939"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: book
+evidence: P
+summary: >-
+  Calls Kemal an extraordinary genius whose courage and strategy in building new Turkey from the Ottoman
+  corpse rival any Western statesman's.
+quote:
+  text: 一九三八年の十一月までこの職に在つたケマルは最も異常な天才であつた。
+  language: ja
+caveat: >-
+  Barukan (1939), ch. 'Torukō no seiji', NDL image 32 (printed ~p. 49–50). OCR only. Also on p. 27 (image):
+  'fortunately there was one Kemal Pasha ... the endurance and patriotism of Turks is truly admirable'.
+  Written after the death (posthumous era). Check: printed p. 50.
+node: Japanese Statesmen on Kemal, 1923–1939 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1877434
+    archived: https://web.archive.org/web/20230102082532/https://dl.ndl.go.jp/pid/1877434
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: NDL pid 1877434 (Barukan), image 32 = printed pp. 50-51
+  method: >-
+    NDL Digital Collections page image (dl.ndl.go.jp IIIF) + lab.ndl.go.jp fulltext-json; viewed image
+  note: >-
+    Quote verbatim on printed p. 50 (right page), and the surrounding sentences (stood in Anatolia, built new
+    Turkey from the Ottoman corpse, courage and strategy not inferior to any great-power statesman) support
+    what_they_saw. Printed page is 50, not 49-50. 1939 date is the book year; posthumous era follows.
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (rounds 26–28)
+  checked_on: "2026-11-05"

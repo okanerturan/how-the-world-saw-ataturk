@@ -1,0 +1,25 @@
+# Turkish for data/voices/1921/bryce-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bryce-1921
+voice: Vikont Bryce
+role: >-
+  Liberal Lordlar Kamarası üyesi, Ermeni davası savunucusu, Britanya mandaları üzerine Lordlar Kamarası
+  görüşmesi
+quote: Angora'da Mustafa Kemal yönetimindeki, isyancı hükümet diyebileceğim hükümet
+quote_kind: translated
+summary: >-
+  Kemal'in Ankara rejimini isyancı bir hükümet olarak nitelendirdi ve her türlü barışı Hristiyan toplulukların
+  güvenliği şartına bağladı.
+caveat: >-
+  'rebel government' nitelemesi Bryce'a aittir; kutupluluk bağlamdan okunmuştur, geçerken yapılan bir
+  değinmedir.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a65b1b722a70
+  role: 7d68553b4a00
+  quote: 3cde818415db
+  summary: 8478797a9c82
+  caveat: 0ed968b34afa
+  verification_method: a033a528b603

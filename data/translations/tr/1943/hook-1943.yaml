@@ -1,0 +1,34 @@
+# Turkish for data/voices/1943/hook-1943.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hook-1943
+voice: Sidney Hook
+role: Amerikalı filozof
+quote: >-
+  Bir yüzyıl sonra, Lenin, Troçki, Mussolini, Hitler, Atatürk, Metaksas ve diktatörlerin ortaya koyduğu
+  kalıbın diğer cüce takipçileri, ya hükümdarlarını gömdüler ya da dünyadaki “en üstün” ailenin soyunu
+  değersiz maiyet hizmetkârlarına dönüştürdüler.
+quote_kind: translated
+summary: Atatürk'ü, hükümdarlarını gömen diktatörler kalıbının 'cüce takipçileri' arasında sayar.
+caveat: >-
+  The Hero in History (John Day, 1943), 3. bölüm, taranmış kitabın Wikisource transkripsiyonu (Page:The Hero
+  in History.djvu/37). Wood'un monarşiye ilişkin gametik kuramının çürütülmesi içinde tek yan tümcelik bir
+  değinme; 'midget' (kutupluluk: düşmanca), aralarında Atatürk'ün de sayıldığı bir tip olarak diktatörlerin
+  küçümsenmesi şeklinde okunmuştur. Hook bölümün başka bir yerinde Atatürk'ü ele almaz. 1943 yılı eserin ilk
+  baskısından, hafızadan (katman M); Wikisource metninde tarih yer almaz. Tarama incelenmedi. 1943 yılı telif
+  hakkı satırıyla doğrulandı.
+verification_note: >-
+  Birebir aynı (kıvrık tırnaklar). 1943 yılı telif hakkı satırıyla doğrulandı (kayıt hafızadan demişti). Bakış
+  sınırda: Wood'a yönelik bir çürütmede tek bir liste değinmesi; 'midget followers of the pattern set by the
+  dictators' Atatürk'ü de içeren grubun aşağılayıcı bir sınıflandırmasıdır, onun hakkında geliştirilmiş bir
+  görüş değildir. Yalnızca yoğunluk 1 düzeyinde tutulmalı.
+verification_method: işlenmiş sayfalar çekildi, dizge eşleştirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c4ceb9564523
+  role: 03a56e20215c
+  quote: a1575c528327
+  summary: bc6b1ce17504
+  caveat: 5d91ba8baafe
+  verification_note: d54f9ae502c9
+  verification_method: 524074133b69

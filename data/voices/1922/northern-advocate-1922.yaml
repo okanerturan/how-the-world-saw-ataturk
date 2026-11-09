@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: northern-advocate-1922
+voice: Northern Advocate
+voice_type: press
+role: Whangarei daily
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1922-09-18"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Leader on Chanak: flushed Nationalists backed by Indian Moslem opinion and Bolsheviks; the Allies' firm
+  policy is the only policy.
+quote:
+  text: The firm policy that they have adopted is the only policy
+  language: en
+node: New Zealand Leaders on Kemal at Chanak, September 1922
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/NA19220918.2.23.1
+    archived: https://web.archive.org/web/20261028234821/https://paperspast.natlib.govt.nz/newspapers/NA19220918.2.23.1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://paperspast.natlib.govt.nz/newspapers/NA19220918.2.23.1
+  method: fetch
+  note: >-
+    Quote verbatim. Note the leader names Mustapha Kemal only incidentally; hostility is to Nationalist demands
+  checked_on: "2026-10-29"

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: limburgsch-dagblad-1924-03-12
+voice: Limburgsch Dagblad
+voice_type: press
+role: Catholic daily of Limburg
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1924-03-12"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Said Ankara risked entangling itself by deposing the caliph, with a wave of religious hatred was over
+  Turkey; credited Kemal with lifting Turkey from humiliation.
+quote:
+  text: Een golf van godsdiensthaat gaat over Turkije
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. Part of the item relays Le Petit Parisien; the quoted
+  sentence is the paper's own. Catholic identity from general knowledge.
+node: Dutch Confessional Press and the Fall of the Caliphate, March 1924
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010932966:mpeg21:a0009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: resolver.kb.nl ddd:010932966:mpeg21:a0009:ocr (Limburgsch dagblad 12 mrt 1924, art. 9)
+  method: fetch
+  note: Quote and 'lifting from humiliation' present; Catholic identity not checked
+  checked_on: "2026-10-29"

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zinoviev-baku-1920
+voice: Grigory Zinoviev
+voice_type: person
+role: Comintern president, opening the Baku Congress
+country: Soviet Russia
+country_now: Russia
+domain: politics
+date: "1920-09-01"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Said Soviet Russia supports Kemal against Britain, but that his Sultan-and-Caliph policy is not communist
+  and the Eastern delegates must not imitate it.
+quote:
+  text: >-
+    We do not for one moment forget that the movement headed by Kemal is not a Communist movement.
+  language: en
+caveat: English translation of the stenographic report as published on marxists.org.
+node: Soviet Leaders on the Kemalists, 1920–1930
+sources:
+  - url: https://www.marxists.org/history/international/comintern/baku/ch01.htm
+    archived: https://web.archive.org/web/20260923162058/https://www.marxists.org/history/international/comintern/baku/ch01.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: marxists.org Baku Congress ch01 (First Session, September 1), fetched via tools/ms fetch
+  method: >-
+    Free fetch; located the sentence and the speaker label (Zinoviev speaks from the 'Zinoviev:' heading to
+    the closing Chairman remarks)
+  note: >-
+    Quote verbatim. Context fits: Zinoviev says the Soviet government supports Kemal, that his movement is not
+    Communist, and that his Sultan/Caliph policy 'you ought not to do'. Date 1 Sept 1920 given by the page
+    heading 'First Session / September 1'. English is the MIA translation of the stenographic report.
+  checked_on: "2026-11-01"

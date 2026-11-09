@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-grondwet-1933-10-28
+voice: De Grondwet
+voice_type: press
+role: Dutch regional daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1933-10-28"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  At the tenth anniversary, said the dictator had formed a wholly new realm out of medieval Turkey, but also
+  recorded opponents hanged as criminals.
+quote:
+  text: heeft president Kemal pasja, de dictator van het land, een volkomen nieuw rijk gevormd
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. Headline 'Kemal Pascha tien jaar dictator'; the hanging
+  remark is in the same article. Confessional character unchecked.
+node: Dutch Dailies on the Dictator, 1924–1937
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=MMGARO01:000177892:mpeg21:a0079
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: resolver.kb.nl MMGARO01:000177892:mpeg21:a0079:ocr (De Grondwet 28 okt 1933, art. 79)
+  method: fetch
+  note: Confessional character not checked
+  checked_on: "2026-10-29"

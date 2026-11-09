@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: elinikon-mellon-1938
+voice: Elinikon Mellon
+voice_type: press
+role: Greek newspaper
+country: Greece
+country_now: Greece
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: article
+evidence: S
+summary: Wrote in the same key as Estia, mourning a friend of Greece.
+mediated_by: Toksoy 2010 §Yunanistan
+node: Salonika Names His Street, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt §Yunanistan: Estia article then "Yine aynı duyguları Elinikon
+    Mollon gazetesi de paylaşmıştır" (fn26)
+  method: local
+  note: >-
+    Toksoy spells it Elinikon Mollon; the Estia article it echoes (great loss, friend of Greece) is supported.
+  checked_on: "2026-10-29"

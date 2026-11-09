@@ -1,0 +1,19 @@
+# Turkish for data/voices/1938/la-nation-belge-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-nation-belge-1938
+voice: La Nation belge
+role: Belçika günlük gazetesi
+summary: Onu, milletini her bakımdan kurtaran büyük bir devlet adamı olarak nitelendirdi.
+caveat: >-
+  Toksoy'daki gazete adları fonetik yazılmıştır ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 12 Kasım 1938 s. 2 / Ayın Tarihi Kasım 1938
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c4fc9278f54e
+  role: 2267de4d9b70
+  summary: 54b631150453
+  caveat: ecc719a2a575
+  mediated_by: 781a20fcb527
+  verification_method: 939bb46a04c3

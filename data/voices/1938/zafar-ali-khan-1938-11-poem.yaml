@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zafar-ali-khan-1938-11-poem
+voice: Zafar Ali Khan
+voice_type: person
+role: Urdu poet and editor of Zamindar
+country: British India
+country_now: India
+domain: letters
+date: "1938-11-12"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: poem
+evidence: P
+summary: >-
+  An elegy mourning the 'supreme mujahid' who eased the community's troubles, restored the Turks' honour
+  against the crusaders and stood from Kabul to Ankara.
+quote:
+  text: دنیا سے وہ مجاہدِ اعظم گزر گیا ... صاحب دلو یہ غم ہے غمِ مصطفیٰ کمال
+  language: ur
+caveat: >-
+  Quote is two half-lines, translation: 'That supreme mujahid has passed from the world ... O men of heart,
+  this grief is the grief of Mustafa Kemal.' Poem titled 'Ataturk Mustafa Kemal, nawwara llahu marqadahu',
+  dated Delhi, 12 Nov 1938. Source: Diwan-e Zafar Ali Khan, ed. Tanvir Ahmad (Ali Hujwiri Publishers, Lahore,
+  1995 ed.), p. 210 (PDF page 210 of the archive.org scan; OCR unusable, page read on the image), read on the
+  image (4 Nov 2026). Distinct from his 14 Nov Assembly speech. A companion poem 'Congressi ulama' (p. 211,
+  Delhi 13 Nov 1938) ends by asking God to send another Mustafa Kemal; not recorded separately. Check:
+  half-lines reordered to follow the page (the grief half-line precedes 'mujāhid-i aʿẓam').
+node: Zafar Ali Khan — Ataturk Mustafa Kemal Nur Allah Marqadahu, Delhi 12 November 1938
+sources:
+  - url: https://archive.org/details/20220402_20220402_2028
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Diwan-e Zafar Ali Khan, archive.org 20220402_20220402_2028, PDF p. 210 (printed 210)
+  method: rendered PDF page and READ Urdu on the image
+  note: >-
+    Title, 'Delhi 12 Nov 1938' and both half-lines are verbatim; translation faithful. Fixes: (1) the quote
+    reverses the poem's order: 'sahib-e-dil o ye gham hai gham-e Mustafa Kamal' is row 3, 'dunya se woh
+    mujahid-e-azam guzar gaya' is row 4, so the ellipsis joins non-adjacent half-lines in reverse order;
+    reorder or mark as two separate half-lines. (2) what_they_saw is 26 words (limit 25). 'Kabul to Ankara for
+    Islam' is a loose reading of the Kabul-to-Angora line about Islam's beauty returning to the eye.
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (rounds 26–28)
+  checked_on: "2026-11-05"

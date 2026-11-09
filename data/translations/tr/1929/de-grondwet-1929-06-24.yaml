@@ -1,0 +1,23 @@
+# Turkish for data/voices/1929/de-grondwet-1929-06-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-grondwet-1929-06-24
+voice: De Grondwet
+role: Hollanda bölgesel günlük gazetesi
+quote: diktatörün reform çalışmasında İslam'ın yok edilişini görenler
+quote_kind: translated
+summary: >-
+  Kemalist basının modern devlet iddiasına kuşkuyla yaklaştı: inananlar diktatörün reformlarını İslam'ı yok
+  etmek olarak görüyor; geçmişten kopuş yalnızca kısmen başarılı oldu.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. De Grondwet'in mezhepsel niteliği kontrol
+  edilmemiştir; pasaj, 'tam diktatörlük' hüküm sürdüğünü kaydederken bağlı inananlara sempati duymaktadır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 095cc5a99bf4
+  role: 97acc1090a94
+  quote: 3b605034bdf2
+  summary: 43c2fdc2ead6
+  caveat: f87771fcc55e
+  verification_method: ad8cee67138e

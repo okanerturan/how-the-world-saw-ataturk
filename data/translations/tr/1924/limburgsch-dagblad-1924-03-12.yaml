@@ -1,0 +1,26 @@
+# Turkish for data/voices/1924/limburgsch-dagblad-1924-03-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: limburgsch-dagblad-1924-03-12
+voice: Limburgsch Dagblad
+role: Limburg Katolik günlük gazetesi
+quote: Türkiye'nin üzerinden bir din nefreti dalgası geçiyor
+quote_kind: translated
+summary: >-
+  Halifeyi makamından indirerek Ankara'nın kendini karmaşık bir duruma sokma riskine girdiğini ve Türkiye'nin
+  üzerinde bir din nefreti dalgası olduğunu söyledi; Türkiye'yi aşağılanmadan kurtarma payesini ise Kemal'e
+  verdi.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Haberin bir kısmı Le Petit Parisien'den
+  aktarımdır; alıntılanan cümle gazetenin kendisine aittir. Katolik kimliği genel bilgiden alınmıştır.
+verification_note: Alıntı ve 'aşağılanmadan kurtarma' ifadesi mevcut; Katolik kimliği kontrol edilmedi
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7e761f59ffd8
+  role: b84468af990b
+  quote: d26a6668663d
+  summary: 317c81fa082c
+  caveat: 67124ea9ac38
+  verification_note: e2b0fdb9da75
+  verification_method: ad8cee67138e

@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: said-nursi-1948
+voice: Said Nursi
+voice_type: person
+role: Islamic scholar, founder of the Nur movement
+country: Turkey
+country_now: Turkey
+domain: religion
+date: "1948-10-29"
+era: posthumous
+polarity: conflicted
+intensity: 1
+artifact: quote
+evidence: S
+summary: >-
+  In an Afyon prison letter, cites Mustafa Kemal's twice-sent cipher requests that he come to Ankara as proof
+  of his own wartime service.
+quote:
+  text: We have to have this heroic hoja here!
+  language: en
+mediated_by: >-
+  Şükran Vahide's biography text hosted by iikv.org (page 330) quoting Nursi's letter to the Afyon governor ←
+  Şualar p. 455 (Eng. tr. Rays, p. 533); the sentence is Nursi's report of Mustafa Kemal's words
+caveat: >-
+  Nursi's own letter, but the quoted sentence is what he says Mustafa Kemal told him, so it shows how Nursi
+  chose to present the relationship, not an independent record. Date inferred: Vahide places the letter on a
+  29 October Republic Day while Nursi was in Afyon Prison (1948–49), which leaves only 29 Oct 1948.
+  Movement-sourced hosting; edition attribution of the hosted text unconfirmed. Distinct from the existing
+  1923 record (the Ankara confrontation). Nursi's 'abominable current of atheism' passage (Lem'alar p. 170,
+  Flashes p. 233) does not name Atatürk and is not stored. Date inferred: c. 29 Oct 1948, the only Republic
+  Day of his Afyon imprisonment (arrested 23 Jan 1948, retrial from 31 Aug 1949).
+node: Islamic Thinkers on Atatürk in Their Own Words
+sources:
+  - url: https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/330
+  - url: https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/329
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    iikv.org/en/kulliyat/bediuzzaman-said-nursi/330 (Vahide biography, letter to the Afyon governor, citing
+    Sualar 455 / Rays 533) plus pp. 316-343 of the same hosted text for dates
+  method: >-
+    tools/ms free fetch of pp. 329-330 and surrounding pages; searched them for arrest, trial and release dates
+  note: >-
+    Quote verbatim on p. 330: 'twice Mustafa Kemal notified me in cypher wanting me to go to Ankara. He even
+    said: "We have to have this heroic hoja here!"' and footnote 327 'Nursi, Sualar, 455 (Eng. tr.: Rays,
+    533)'; p. 329 ends with the 'One Republic Day, that is, 29 October, while Bediuzzaman was in Afyon Prison'
+    flag incident. The source gives no year for the letter. The year is inferred and sound: the hosted text
+    has the Afyon arrest on 23 January 1948 and the Appeal Court decision on 4 June 1949 with retrial from 31
+    Aug 1949, and the sentence ran to Sept 1949, so the only 29 Oct inside prison is 1948. CORRECTION: date
+    '1948-10' should be flagged as inferred ('c. 29 Oct 1948, year inferred from arrest 23 Jan 1948 and
+    release 1949'), not stated by the source. Quote/attribution/page otherwise correct; the hosted edition
+    remains unattributed.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 13)
+  checked_on: "2026-11-01"

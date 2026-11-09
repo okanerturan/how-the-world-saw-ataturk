@@ -1,0 +1,26 @@
+# Turkish for data/voices/1933/hu-shi-1933-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hu-shi-1933-05
+voice: Hu Shi (胡適)
+role: Filozof, Duli pinglun editörü
+quote: >-
+  General Kemal'in karşı koyduğu düşman artık 1918 mütarekesinden önceki İtilaf Devletleri birleşik kuvvetleri
+  değil, yalnızca o açgözlü ve zorba Yunan ordusuydu
+quote_kind: translated
+summary: >-
+  Kemal'in İtilaf Devletleri'yle değil zayıf bir Yunan ordusuyla savaştığını, dolayısıyla Türkiye'nin
+  savaşının Japonya'yla savaşmak için bir emsal oluşturmadığını savundu.
+caveat: >-
+  Wikisource'ta aktarıldığı şekliyle basitleştirilmiş karakterli metin; hedef Kemal değil, kurulan benzetmedir.
+verification_note: Basitleştirilmiş karakterlerle birebir aynı; argüman açıklandığı gibidir.
+verification_method: ms veri çekme yoluyla Wikisource action=parse
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b1260a015ed6
+  role: 1b3fef4dd9de
+  quote: 092286f8af40
+  summary: 0dd5ccf42803
+  caveat: 81d21834a060
+  verification_note: 0fb64065168d
+  verification_method: 4c2a76f7d40e

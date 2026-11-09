@@ -1,0 +1,20 @@
+# Turkish for data/voices/1920/ormsby-gore-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ormsby-gore-1920
+voice: Bay Ormsby-Gore, Milletvekili
+role: Avam Kamarası üyesi, Kilikya katliamları üzerine ek soru
+quote: Mustafa Kemal Paşa, İttihat ve Terakki Cemiyeti'nin ajanıdır
+quote_kind: translated
+summary: >-
+  Kemal'in Jön Türk Cemiyeti'nin ajanı olduğu ve katliamları Cemiyetin örgütlediği savını Hükümete yöneltti.
+caveat: Soru biçiminde ifade edilmiştir.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 68dd32f47f13
+  role: 0617a30d9f82
+  quote: e371b2eabb61
+  summary: d5c30e6decdb
+  caveat: 188800772b2a
+  verification_method: a033a528b603

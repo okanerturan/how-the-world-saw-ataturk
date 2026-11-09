@@ -1,0 +1,50 @@
+# Turkish for data/voices/1922/ziya-gokalp-1922-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ziya-gokalp-1922-10
+voice: Ziya Gökalp
+role: Sosyolog ve şair, Türkçülük kuramcısı; Küçük Mecmua (Diyarbakır) editörü
+quote: Sen dâhisin, buna çoktan inandık.. / Mefküresiz rehberlerden pek yandık..
+quote_kind: original-turkish
+summary: >-
+  Gazi'ye sunduğu manzum dilekçelerde onu dâhi ve Yunanlılardan kurtarıcı olarak selamlar; Türkleri cehaletten
+  ve geri kalmışlıktan kurtarması için yakarır.
+caveat: >-
+  ÇEVİRİ (bu kaydın): 'You are a genius, we long believed it.. / We have suffered enough from guides without
+  an ideal..' Her kıtası 'Kurtar bizi...!' (Bizi kurtar!) diye biten ve 'the Black Sultan'dan (Vahideddin)
+  kurtarılmayı da içeren 'İstid'â — Gazi Paşa Hazretleri'ne' şiiri. Aynı derlemede yeniden basılan makale, iki
+  İstid'â şiirini Küçük Mecmua sayı 20 ve 21'e (Ekim 1922) tarihlendirir. İkincisinde ('İkinci İstid'â')
+  Gökalp, Kemal'in barıştan sonra sade bir vatandaş olma yönündeki beyanına karşı çıkar: 'Bu milletin hâli
+  olur pek yaman, / Kılavuzu olmazsa bir kahraman'. 1923 tarihli Altın Işık eseri 'Mustafa Kemal'dir baş
+  kahramanı!' dizesini ekler. Küçük Mecmua'nın kendisi görülmemiştir. Temas: makale, E. B. Şapolyo'ya atıfla
+  Kemal'in Gökalp'ı Çankaya'ya çağırdığını, bunun ardından Gökalp'ın fırkanın dokuz umdesi üzerine Doğru Yol'u
+  yazdığını belirtir. Arşiv notundaki 'My flesh and bones belong to my parents...' sözü Gökalp'ın bakışı
+  değil, Kemal'in Gökalp hakkındaki sözüdür ve kontrol edilmemiştir.
+mediated_by: >-
+  Kanbak (der.), Ziya Gökalp (archive.org, 2025), s. 20-21, 73-74 ← Devrim Yazarlarının Kalemiyle Milli
+  Mücadele ve Gazi Mustafa Kemal (Kültür Bakanlığı, 1981), s. 1020 ← Küçük Mecmua no. 20-21 (Ekim 1922);
+  tarihlendirme: Cavit Orhan Tütengil, Türk Dili no. 302 (Kasım 1976), yeniden basımı: Kanbak s. 72–74: Küçük
+  Mecmua no. 20–21, Ekim 1922
+verification_note: >-
+  Beyit s. 20'de birebir yer alıyor ('Sen dâhisin, buna çoktan inandık.. / Mefküresiz rehberlerden pek
+  yandık..'); 'Ey kurtaran bizi zâlim Yunan'dan!', 'Kurtar bizi cehâletten, noksândan!' ve 'Kurtar bizi artık
+  Kara Sultan'dan!' dizeleri what_they_saw alanını destekliyor. 'İkinci İstid'â' ve 'Bu milletin hâli olur pek
+  yaman, / Kulâğuzu olmazsa bir kahraman..' mevcut; Altın Işık dizesi 'Mustafa Kemal'dir baş kahramanı!' s.
+  74'te. Tarihlendirme: Tütengil (s. 74) her iki İstid'â'yı Küçük Mecmua sayı 20 ve 21'e, '(ekim 1922)' (OCR
+  'ekim 19—22') olarak yerleştiriyor; Şapolyo'nun Çankaya'ya çağrılma pasajı s. 73'te, E. B. Şapolyo, Fırka
+  Nedir? (Zonguldak 1947), s. 6'dan alınma. Düzeltme: mediated_by tarihlendirme kaynağını adlandırmalı: '... ←
+  Tütengil, Türk Dili no. 302 (Nov 1976), repr. Kanbak pp. 72-74 (dating to Küçük Mecmua nos. 20-21, Oct
+  1922)'. Uyarı notundaki 'essay reprinted in the same compilation' Tütengil'in yazısıdır. Küçük Mecmua'nın
+  kendisi görülmedi, dolayısıyla ay bilgisi Tütengil'e dayanıyor; S katmanı dürüst. Çeviri sadık ('pek yandık'
+  = 'we have been badly burnt'; 'suffered enough' uygun). Şema tamam.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f1ae4564f6e5
+  role: 0cc80cc0b1ee
+  quote: 175330a3098b
+  summary: fa67f9a57bdc
+  caveat: a26293a1a186
+  mediated_by: cc9af3e61175
+  verification_note: e9427dd89c57
+  verification_method: b152e9063489

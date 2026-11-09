@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kondylis-1924-06-21
+voice: Georgios Kondylis
+voice_type: person
+role: Greek general and deputy, later Prime Minister and regent
+country: Greece
+country_now: Greece
+domain: military
+date: "1924-06-21"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  Calls Kemal's resistance to the Greek army 'masterly' and says comparing it shows the difference between the
+  two sides' commanders.
+quote:
+  text: >-
+    Ἀρκεῖ νὰ συγκρίνητε τὴν ἀριστοτεχνικὴν ἀντίστασιν τὴν ὁποίαν ὁ Μουσταφᾶ Κεμὰλ ἀντέταξε κατὰ τοῦ Ἑλληνικοῦ
+    στρατοῦ διὰ νὰ κατανοήσητε τὴν διαφορὰν τῶν Ἀρχηγῶν.
+  language: el
+caveat: >-
+  Δ΄ Εθνοσυνέλευση, Πρακτικά Τόμος 2, session ΞΒ΄ of 21 June 1924 (heading on p. 354), printed pp. 361-362
+  (PDF pages 183-184; page images read). The passage continues Kondylis's reply in the debate on the army's
+  responsibility for the Asia Minor defeat and sits between his rebuttal of Mazarakis (p. 361) and Minister
+  Pangalos's reply (p. 362). The praise serves his argument that Greek command, not the soldiers, failed. Same
+  Kondylis who is cited in 1933 as acting premier (see note); this is the only first-person view of Kemal
+  found for him. Check (main agent, page image p. 362): direct speech in the minutes ('Ἀρκεῖ νὰ συγκρίνητε…'),
+  verbatim.
+node: Greek Parliamentarians on Kemal, 1924–1934 — Hellenic Parliament Library
+sources:
+  - url: https://library.parliament.gr/Συλλογές/Κοινοβουλευτική-Συλλογή/Πρακτικά-Συνεδριάσεων/πρακτικά-βουλής-1910-1935
+    archived: https://web.archive.org/web/20260614102850/https://library.parliament.gr/%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AD%CF%82/%CE%9A%CE%BF%CE%B9%CE%BD%CE%BF%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AE-%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AE/%CE%A0%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AC-%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%B9%CE%AC%CF%83%CE%B5%CF%89%CE%BD/%CF%80%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AC-%CE%B2%CE%BF%CF%85%CE%BB%CE%AE%CF%82-1910-1935
+  - url: https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/ΠΡΒ_Δ.ΕΘΝΟΣΥΝΕΛΕΥΣΗ_Τ.2_1923-1925.pdf
+    archived: https://web.archive.org/web/20220419151126/https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/%CE%A0%CE%A1%CE%92_%CE%94.%CE%95%CE%98%CE%9D%CE%9F%CE%A3%CE%A5%CE%9D%CE%95%CE%9B%CE%95%CE%A5%CE%A3%CE%97_%CE%A4.2_1923-1925.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Δ΄ Εθνοσυνέλευση Πρακτικά Τ.2, PDF page 184, printed p. 362
+  method: >-
+    rendered the page image at 240 dpi and READ the polytonic Greek (main agent, not the builder)
+  note: Quote verbatim on the page image.
+  checked_on: "2026-11-05"

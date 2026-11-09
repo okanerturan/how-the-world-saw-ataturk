@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cap-2016-10
+voice: Josef Cap
+voice_type: person
+role: SPÖ member of the Austrian Nationalrat
+country: Austria
+country_now: Austria
+domain: politics
+date: "2016-10-13"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Criticising Turkey's re-Islamisation, says Atatürk would turn in his grave: he had really tried reforms and
+  to bring Turkey closer to Europe's values.
+quote:
+  text: >-
+    Kemal Atatürk im Grabe umdrehen würde. Er hat nämlich wirklich versucht, Reformen zu setzen und die Türkei
+    stärker an Europa und an die europäischen Werte heranzuführen.
+  language: de
+caveat: >-
+  Foreign-policy remarks after the July 2016 coup attempt, using Atatürk as the measure of Erdoğan's Turkey
+  (instrumental as well as admiring). Speaker line: 'Abgeordneter Dr. Josef Cap (SPÖ)'. [Translation:] Kemal
+  Atatürk would turn in his grave. For he really did try to bring in reforms and to move Turkey closer to
+  Europe and to European values.
+node: Austrian Nationalrat and Bundesrat on Atatürk, 1980–2019 — Schwaiger, Längle, Cap, Lugar
+sources:
+  - url: https://www.parlament.gv.at/dokument/XXV/NRSITZ/148/fnameorig_584143.html
+    archived: https://web.archive.org/web/20250927054939/https://www.parlament.gv.at/dokument/XXV/NRSITZ/148/fnameorig_584143.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.parlament.gv.at/dokument/XXV/NRSITZ/148/fnameorig_584143.html (148. Sitzung NR XXV. GP, 13 Oct
+    2016, Seite 139; 'Abgeordneter Dr. Josef Cap (SPÖ)')
+  method: fresh fetch of parlament.gv.at HTML
+  note: >-
+    Verbatim (quote begins mid-sentence at 'Kemal Atatürk im Grabe...'); speaker, party, date correct;
+    translation faithful. States his own view of what Atatürk tried; passes the gaze test. 'admiring' is mild
+    and used instrumentally, as the caveat says.
+  checked_on: "2026-11-04"

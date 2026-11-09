@@ -1,0 +1,35 @@
+# Turkish for data/voices/1985/kobayashi-1985.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kobayashi-1985
+voice: Susumu Kobayashi
+role: Japonya Temsilciler Meclisi Üyesi
+quote: bu tarihî lidere en derin saygı ve hayranlık hisleriyle dolu bulunmaktayım.
+quote_kind: original-turkish
+summary: >-
+  Anıtkabir ziyaretinin ardından, Türkiye'yi ulusal bir felaketten kurtaran lidere karşı derin saygı ve
+  hayranlıkla dolu olduğunu söyler.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 53 (basılı s. 42). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe basılmıştır. Çeviri: "Bu tarihî lidere karşı en derin saygı ve hayranlık duygularıyla
+  doluyum." Başlık: 'Japonya Temsilciler Meclisi Üyesi Susumu Kobayashi', 23 Nisan 1985; konuşma PDF s. 52'de
+  başlamaktadır.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Japonya Temsilciler Meclisi
+  Üyesi Susumu Kobayashi, 89. Birleşim, 23 Nisan 1985' (başlık PDF s. 52'de)). Anıtkabir ziyareti PDF s. 52'de
+  yer almakta ve alıntı s. 53'te devam etmektedir; her ikisi de uygundur.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracıyla PNG'ye dönüştürülerek (check_png/c53.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı, görsel üzerinde ve kendi bağımsız metin katmanı çıkarımıyla
+  kelime kelime karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 12bcb5553bd1
+  role: 0cf09e163fe5
+  quote: 614f7d648249
+  summary: 2f8f82401316
+  caveat: cc53f3271edd
+  mediated_by: 8e2cc528453b
+  verification_note: 83270d1dc1d9
+  verification_method: 25d710997449

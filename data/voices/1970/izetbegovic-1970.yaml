@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: izetbegovic-1970
+voice: Alija Izetbegović
+voice_type: person
+role: Bosnian Muslim activist, later first President of the Presidency of Bosnia and Herzegovina
+country: Yugoslavia
+country_now: Bosnia and Herzegovina
+domain: religion
+date: "1970"
+era: posthumous
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: book
+evidence: P+J
+summary: >-
+  Says Kemal was more commander than cultural reformer, his merits must be cut down, and his reforms made
+  Turkey a third-rate European copy.
+quote:
+  text: >-
+    Tako na primjer, Mustafa Kemal, koji je očigledno bio veći vojskovođa nego kulturni reformator i čije
+    zasluge za Tursku treba svesti na pravu mjeru, jednom od svojih reformi zabranjuje nošenje fesa.
+  translation: >-
+    Thus, for example, Mustafa Kemal, who was obviously a greater military leader than a cultural reformer and
+    whose merits for Turkey should be reduced to their true measure, bans the wearing of the fez in one of his
+    reforms.
+  language: bs
+caveat: >-
+  Islamska deklaracija, written 1970, circulated in samizdat and published in Sarajevo in 1990; it was the
+  main exhibit in the 1983 Sarajevo trial. Read in a full-text PDF of the work hosted by a site hostile to its
+  author (n-um.com), p. 5; the same sentences are quoted by DEPO Portal/Prometej.ba (2017) and the Preporod
+  yearbook. The text also calls Turkey 'as a European plagiarism' a third-rate country and says abolishing the
+  Arabic script dragged Turkey 'to the borders of barbarism'. A later SDA line ('Atatürk was mostly a great
+  military commander', Google Books snippet) is not staged.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.n-um.com/wp-content/uploads/2017/09/Islamska-Deklaracija-knjiga-o-islamizaciji-muslimana-Alija-Izetbegovic.pdf
+    archived: https://web.archive.org/web/20240808142930/https://www.n-um.com/wp-content/uploads/2017/09/Islamska-Deklaracija-knjiga-o-islamizaciji-muslimana-Alija-Izetbegovic.pdf
+  - url: https://www.depo.ba/clanak/168375/kako-je-alija-izetbegovic-vidio-buducu-bosansku-islamsku-drzavu-izmedu-katastrofe-turske-i-progresa-japana
+    archived: https://web.archive.org/web/20210803204756/https://depo.ba/clanak/168375/kako-je-alija-izetbegovic-vidio-buducu-bosansku-islamsku-drzavu-izmedu-katastrofe-turske-i-progresa-japana
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.n-um.com/wp-content/uploads/2017/09/Islamska-Deklaracija-knjiga-o-islamizaciji-muslimana-Alija-Izetbegovic.pdf
+    (32 pp., pdftotext), p. 5; 'europski plagijat ... trećerazrednu zemlju' p. 3; depo.ba via ms fetch
+  method: curl + pdftotext; ms fetch (free)
+  note: >-
+    Bosnian sentence verbatim on PDF p. 5; translation faithful. 'srozala do granica barbarstva' and 'Danas je
+    Turska trećerazredna zemlja' also present. depo.ba quotes the same passages. The host is hostile to the
+    author, but the text matches the depo.ba quotations.
+  checked_on: "2026-11-05"

@@ -1,0 +1,20 @@
+# Turkish for data/voices/1932/sueter-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sueter-1932
+voice: Milletvekili Tümamiral Sueter
+role: Avam Kamarası üyesi, hava bütçesi görüşmesi
+quote: >-
+  Ekselansları Mustafa Kemal Paşa, bir ulusun ihtiyaç duyduğu orduya sahip olması gerektiğini söyledi.
+quote_kind: translated
+summary: >-
+  Türkiye'nin Silahsızlanma Konferansı'na verdiği tavsiyeyi en iyisi olarak nitelendirdi ve Britanya'nın daha
+  büyük bir hava kuvvetine ihtiyacı olduğunu savunmak için Kemal'in özdeyişini kullandı.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 84b0679c2f81
+  role: bd70d753ac54
+  quote: b9acadb87e98
+  summary: 2fa133f99efa
+  verification_method: a033a528b603

@@ -1,0 +1,28 @@
+# Turkish for data/voices/1929/pedro-maco-1929.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pedro-maco-1929
+voice: Pedro Maco
+role: La Opinión özel muhabiri
+quote: ülkeyi kurtaran kahraman, bir sembolün gücüne sahiptir
+quote_kind: translated
+summary: >-
+  'Crónica de Turquía': turistik yüzeyin ötesinde Kemal demir iradeli bir savaşçıdır, ülkeyi kurtaran
+  kahramandır, bir sembolün gücüne sahiptir.
+caveat: >-
+  'Especial para La Opinión' ibaresiyle basılmıştır; yazar adı OCR'dan okunmuştur. Maco ayrıca gerici bir güce
+  ve Türk'ün 'Avrupa uygarlığını yalnızca kısmen taklit ettiğine' dikkat çeker.
+verification_note: >-
+  'CRÓNICA DE TURQUÍA Por PEDRO MACO (Especial para LA OPINIÓN)'; 'el héroe que salvó al país, posee la fuerza
+  de un símbolo' birebir aynı; 'voluntad de hierro' ve gerici güç mevcut. Yaprak seq 3, loc.gov sayfa
+  görüntüleyicisinden bağımsız olarak doğrulanmamıştır.
+verification_method: curl aracılığıyla loc.gov ALTO full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8f3e3bc9ffcf
+  role: a57cc6692558
+  quote: 1f2dd45e20be
+  summary: 02c00c82eea7
+  caveat: 21406eb75487
+  verification_note: 1c0454b5e1f3
+  verification_method: 66d1884c5811

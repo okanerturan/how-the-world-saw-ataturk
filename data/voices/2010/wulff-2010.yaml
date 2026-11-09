@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: wulff-2010
+voice: Christian Wulff
+voice_type: person
+role: President of Germany
+country: Germany
+country_now: Germany
+domain: politics
+date: "2010-10-19"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Supports Turkey's path toward Europe and says Atatürk opened that road; closes by quoting his peace maxim.
+quote:
+  text: >-
+    …hofft, dass Sie den Weg nach Europa fortsetzen, der durch Ihren großen Staatsmann Mustafa Kemal Atatürk
+    geöffnet worden ist.
+  language: de
+caveat: >-
+  Original-language text
+  (https://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2010/10/20101019_Rede.html); the
+  TBMM minutes (Tarihe Düşülen Notlar-2, 2012) print a Turkish version: "bu yol Büyük Mustafa Kemal Atatürk
+  tarafından açılmıştır.". TBMM book PDF p. 285 (printed p. 274). English: '…hopes that you will continue on
+  the road to Europe opened by your great statesman Mustafa Kemal Atatürk.' Closes with Atatürk's 'peace at
+  home, peace in the world'.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2010/10/20101019_Rede.html
+    archived: https://web.archive.org/web/20251219050155/https://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2010/10/20101019_Rede.html
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 285 (printed p. 274); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c285.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Almanya Federal Cumhuriyeti
+    Cumhurbaşkanı Christian Wulff, 8. Birleşim, 19 Ekim 2010 (heading on PDF p. 282)'). Quote on PDF p. 285
+    (printed p. 274) as cited. ORIGINAL: 'Deutschland als ein Land mit besonderem Interesse an einer Anbindung
+    der Türkei an die Europäische Union hofft, dass Sie den Weg nach Europa fortsetzen, der durch Ihren großen
+    Staatsmann Mustafa Kemal Atatürk geöffnet worden ist.' Closing: 'Ganz im Sinne des großen Mustafa Kemal
+    Atatürk: "Frieden im Lande und Frieden in der Welt."' (bundespraesident.de, Rede 19 Oct 2010). Note the
+    German says 'your great statesman' (Ihren großen Staatsmann) and frames it as a hope Turkey will continue;
+    the Turkish minutes attach 'Büyük' to Mustafa Kemal and say 'we support'. Not material.
+  checked_on: "2026-11-01"

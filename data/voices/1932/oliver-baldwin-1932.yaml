@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: oliver-baldwin-1932
+voice: Oliver Baldwin
+voice_type: person
+role: British journalist and soldier, son of Stanley Baldwin, later Labour MP
+country: United Kingdom
+country_now: United Kingdom
+domain: press
+date: "1932"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: memoir
+evidence: S
+summary: >-
+  Writing of Anatolian peasants, expects things to improve now that Kemal has limited the power of the
+  priesthood.
+quote:
+  text: >-
+    Since Mustapha Kemal has limited the power of the priesthood, things will probably be better in the future,
+  language: en
+caveat: >-
+  Cited as Oliver Baldwin, The Questing Beast: An Autobiography (1932), p. 129 (and p. 130 for the Turks 'may
+  become a very different race'). Open scan (Digital Library of India copy of the 1932 book). A passing view
+  inside a travelogue of 1920s Anatolia; the sentence is a prediction about the peasants. Other 'Kemal's in
+  the book are his Circassian fellow-prisoner Yusuf Kemal, not Mustafa Kemal; the other Kemalist mentions (p.
+  165 the 17 September 1922 march; a later remark that Kemal's portrait hung in Indian Muslim shops) are
+  descriptive. Sentence is cut off at the comma in the printed page; the text continues on p. 130.
+node: Oliver Baldwin on Kemal, 1932
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.176458
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org in.ernet.dli.2015.176458 The Questing Beast (djvu.txt via ia600903 server), printed p. 129
+    (continues p. 130)
+  method: fetched djvu text, string match, read context
+  note: >-
+    Verbatim; sentence cut at comma at foot of p. 129 and continues 'things will probably be better in the
+    future, and if the Turks are allowed a reasonable period of peace, one day they may become a very
+    different race'. Other 'Kemal' in the book is Yusuf Kemal (checked). Own view, brief; gaze OK at intensity
+    1. Note the passage narrates 1920-21 but the clause is written in 1932.
+  checked_on: "2026-11-03"

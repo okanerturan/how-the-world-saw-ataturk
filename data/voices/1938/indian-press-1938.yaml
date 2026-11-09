@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: indian-press-1938
+voice: Indian press
+voice_type: collective
+role: Newspapers of British India
+country: British India
+country_now: India
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: editorial
+evidence: S
+summary: >-
+  Called him creator of independent Turkey and hero-apostle of Asian nationalism, showing all Asian peoples
+  the road to progress and independence.
+quote:
+  text: the Creator of Independent Turkey, the Hero-Apostle of Asian Nationalism
+  language: en
+mediated_by: Toksoy 2010 ← Doğaner, Atatürk Dergisi IV/4 (2005)
+node: India Mourns, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt §Hindistan: "Bağımsız Türkiye'nin Yaratıcısı, Asya'nın
+    Kahraman Milliyetçilik Havarisi" (after Doğaner)
+  method: local
+  checked_on: "2026-10-29"

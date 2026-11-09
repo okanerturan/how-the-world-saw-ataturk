@@ -1,0 +1,81 @@
+---
+type: moc
+tags: [moc]
+---
+
+# MOC — Admirers
+
+Everyone who looked at Ankara and liked what they saw — allies, imitators, students and
+ideological borrowers. The incoherence of this list is the point: see [[Mustafa Kemal Atatürk]].
+
+- [[Abdullah I of Jordan]] — *King of Jordan* · former enemy turned admirer
+- [[Adolf Hitler]] — *Führer of Nazi Germany* · admirer (genuine, foundational)
+- [[Alexander I of Yugoslavia]] — *King of Yugoslavia* · ally, assassinated
+- [[Allama Iqbal]] — *Philosopher-poet, spiritual father of Pakistan* · conflicted admirer
+- [[Amanullah Khan]] — *King of Afghanistan* · imitator (failed)
+- [[Amin al-Rihani]] — *Writer, founder of Arab-American literature* · admirer
+- [[Arnold J. Toynbee]] — *Historian* · propagandist turned advocate
+- [[B.R. Ambedkar]] — *Chief architect of India's Constitution* · legal admirer
+- [[Benito Mussolini]] — *Fascist dictator of Italy* · admirer, rebuffed; then existential threat
+- [[Berthe Georges-Gaulis]] — *French journalist and author; guest of Mustafa Kemal at Ankara, Nov–Dec 1921* · admiring witness — the French reporter who told Paris what Angora was, and whom Kemal asked to do exactly that
+- [[Carl Schmitt]] — *Jurist, chief legal theorist of the Third Reich* · admirer (constitutional)
+- [[Charles de Gaulle]] — *Leader of Free France, founder of the Fifth Republic* · kindred spirit
+- [[Charles H. Sherrill]] — *Olympic sprinter, IOC member, US Ambassador to Turkey* · admirer / biographer
+- [[Chiang Kai-shek]] — *Leader of the Kuomintang and Republic of China* · student of Kemalism
+- [[Claude Farrère and Pierre Loti]] — *French novelists and former naval officers* · advocates inside an enemy power
+- [[David Ben-Gurion]] — *First Prime Minister of Israel* · admirer / template-borrower
+- [[Douglas MacArthur]] — *US Army general* · admirer
+- [[Eleanor Roosevelt]] — *Human rights advocate, US First Lady* · admirer (women's rights)
+- [[Eleftherios Venizelos]] — *Prime Minister of Greece* · former enemy turned admirer
+- [[Faisal I of Iraq]] — *King of Iraq* · former enemy turned ally
+- [[Fidel Castro]] — *Leader of Cuba* · admirer (surprising)
+- [[Franklin D. Roosevelt]] — *President of the United States* · admirer
+- [[Gamal Abdel Nasser]] — *President of Egypt* · imitator
+- [[H.G. Wells]] — *Novelist and historian* · mutual admiration
+- [[Habib Bourguiba]] — *First President of Tunisia* · imitator
+- [[Henry Ford]] — *Industrialist* · industrial idol
+- [[Herbert Melzig]] — *German author; *Kamâl Atatürk: Untergang und Aufstieg der Türkei* (Frankfurt a. M.: Societäts-Verlag, 1937)* · admiring — Atatürk as the stern schoolmaster of a nation, written under National Socialism
+- [[Ho Chi Minh]] — *Vietnamese revolutionary leader* · student
+- [[Huda Sha'arawi]] — *Egyptian feminist and nationalist* · admirer
+- [[Ioannis Metaxas]] — *Fascist dictator of Greece* · pragmatic ally
+- [[Iván Duque]] — *President of Colombia (2018–2022)* · admiring — the late-arriving head of state, praise inside a state visit
+- [[Jawaharlal Nehru]] — *First Prime Minister of India* · admirer
+- [[John F. Kennedy]] — *President of the United States* · admirer
+- [[Josip Broz Tito]] — *Founder and leader of Yugoslavia* · admirer / parallel
+- [[José Carlos Mariátegui]] — *Peruvian Marxist essayist, founder of *Amauta** · admiring analyst — the revolution read as a lesson for the periphery
+- [[Józef Piłsudski]] — *Founding father of the Second Polish Republic* · kindred state-builder
+- [[Kazi Nazrul Islam]] — *National poet of Bangladesh* · admirer
+- [[King Zog I]] — *King of Albania* · imitator (flawed)
+- [[Kliment Voroshilov]] — *Marshal of the Soviet Union* · ally, memorialised
+- [[Mahmud Tarzi]] — *Afghan Foreign Minister, father of Afghan journalism* · imitator; exile sheltered by Turkey
+- [[Marcus Garvey]] — *Founder of the Pan-African movement* · admirer
+- [[Margaret Thatcher]] — *Prime Minister of the United Kingdom, 1979–1990* · admirer (diplomatic)
+- [[Mehmed Emin Resulzade]] — *Founder of the 1918 Azerbaijani Republic; émigré publicist (Istanbul, Warsaw, Berlin, Ankara)* · admiring theorist, expelled by the state he admired
+- [[Mikayıl Müşfik]] — *Azerbaijani lyric poet; victim of the 1937–38 purge* · admiring — a forbidden poem written under Stalin
+- [[Mikhail Frunze]] — *Red Army commander and strategist* · ally
+- [[Muhammad Ali Jinnah]] — *Founder of Pakistan* · admirer (paradoxical)
+- [[Mustafa Çokay]] — *Kazakh Turkestan-autonomy leader; émigré editor of *Yaş Türkistan* (Paris/Berlin)* · admiring, conditional — compared the one-party states
+- [[Nicolae Titulescu]] — *Romanian diplomat, two-time President of the League of Nations* · ally
+- [[Noëlle Roger]] — *French-language travel writer; *En Asie Mineure: la Turquie du Ghazi* (1930; preface by Gabriel Hanotaux)* · admiring — the eyes that make resistance seem folly
+- [[Periyar E. V. Ramasamy]] — *Founder of the Dravidian movement* · messianic admirer
+- [[Pervez Musharraf]] — *President and military ruler of Pakistan* · imitator
+- [[Pietro Canonica]] — *Italian sculptor; modelled Mustafa Kemal's bust at Ankara, 1926* · admiring witness — the sculptor who found a Piedmontese soldier in the Ghazi
+- [[Plaek Phibunsongkhram]] — *Prime Minister of Thailand* · imitator
+- [[Plutarco Elías Calles]] — *President of Mexico* · parallel secularizer
+- [[Pope John XXIII]] — *Vatican envoy to Turkey, later Pope* · admirer (highly surprising)
+- [[Reza Shah Pahlavi]] — *Shah of Iran, founder of the Pahlavi dynasty* · imitator
+- [[Richard Coudenhove-Kalergi]] — *Founder of the Pan-Europe movement* · admirer, with reservations about revisionism
+- [[Sati' al-Husri]] — *Intellectual father of Arab nationalism* · ideological borrower
+- [[Soraya Tarzi]] — *Queen of Afghanistan* · imitator (feminist)
+- [[Subhas Chandra Bose]] — *Indian nationalist leader* · admirer of Atatürk; rebuffed by Hitler
+- [[Sukarno]] — *First President of Indonesia* · imitator
+- [[T.E. Lawrence]] — *British officer, 'Lawrence of Arabia'* · adversary turned admirer
+- [[Taha Hussein]] — *Writer, 'Dean of Arabic Literature'* · admirer
+- [[Tevfik Fikret]] — *Late-Ottoman poet* · posthumous muse
+- [[Vladimir Lenin]] — *Leader of Soviet Russia* · pragmatic ally
+- [[W.B. Yeats]] — *Poet and Nobel laureate* · mystical admirer
+- [[W.E.B. Du Bois]] — *Sociologist and civil rights leader* · observer / admirer
+- [[Winston Churchill]] — *British statesman* · former enemy, admirer
+- [[Yiannis Ritsos]] — *Poet* · ideological admirer
+- [[Ze'ev Jabotinsky]] — *Founder of Revisionist Zionism* · admirer
+- [[Ōkawa Shūmei]] — *Pan-Asianist theorist* · promoter

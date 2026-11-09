@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sun-yat-sen-1924-01
+voice: Sun Yat-sen
+voice_type: person
+role: KMT leader, lecturing on the Three Principles
+country: China
+country_now: China
+domain: politics
+date: "1924-01-27"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Turkey's escape from partition, expulsion of the Greeks and treaty revision were due to Russia's help, an
+  argument that the oppressed would ally with Russia.
+quote:
+  text: 後來俄國出來打不平，助他趕走希臘人，修改一切不平等的條約
+  language: zh
+caveat: >-
+  Names Turkey, not Kemal; text is the Chinese Wikisource transcription of Nationalism lecture 1 (edition not
+  stated on the page). Sun uses Turkey as evidence for Russia's role, not as a model.
+node: Sun Yat-sen
+sources:
+  - url: https://zh.wikisource.org/wiki/三民主義/民族主義第一講
+    archived: https://web.archive.org/web/20260711132006/https://zh.wikisource.org/wiki/%E4%B8%89%E6%B0%91%E4%B8%BB%E7%BE%A9/%E6%B0%91%E6%97%8F%E4%B8%BB%E7%BE%A9%E7%AC%AC%E4%B8%80%E8%AC%9B
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource 三民主義/民族主義第一講 raw wikitext
+  method: curl action=raw, grep
+  note: >-
+    Quote verbatim. Text names Turkey, not Kemal (as caveat says); instrumental polarity is the record's
+    reading. Lecture date 27 Jan 1924 not stated on page.
+  checked_on: "2026-10-29"

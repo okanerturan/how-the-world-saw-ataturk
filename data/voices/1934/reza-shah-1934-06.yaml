@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: reza-shah-1934-06
+voice: Reza Shah Pahlavi
+voice_type: person
+role: Shah of Iran
+country: Iran
+country_now: Iran
+domain: diplomacy
+date: "1934-06"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: nation-forge-template
+artifact: telegram
+evidence: S
+summary: >-
+  Cables Atatürk as 'respected brother' en route, thanking him for an extraordinarily friendly reception on
+  Turkish soil.
+quote:
+  text: >-
+    Türkiye'nin güzel toprağında hakkımda gösterilen fevkalade dostane hüsnü kabulden mütevellit kalbi
+    minnettarlığımı
+  language: tr
+mediated_by: >-
+  Kadıoğlu, Çukurova Üniv. SBE Dergisi 34/1 (2025), p. 241 ← Akşam, 14 June 1934 ('Gazi ve Şahinşah Hz.
+  arasında samimi telgraflar')
+caveat: >-
+  Quoted by Kadıoğlu from Akşam's printed text of the telegram (the article reproduces the clipping as 'Resim
+  1'); the telegram answers one from Atatürk. Opens 'Muhterem kardeşimden ...' (from my respected brother).
+  Protocol-level courtesy; stored because the speaker is a head of state, intensity 1.
+node: Interwar Leaders on Kemal in Their Own Words
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/3950163
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Kadıoğlu, Çukurova Üniv. SBE Dergisi 34/1 (2025), p. 241 (dergipark article-file/3950163)
+  method: >-
+    tools/ms free fetch of the DergiPark PDF; located the quote just before the page header 242
+  note: >-
+    Verbatim on p. 241 (text precedes page header '242'): Pehlevi, Atatürk'e: '…Muhterem kardeşimden …
+    Türkiye'nin güzel toprağında hakkımda gösterilen fevkalade dostane hüsnü kabulden mütevellit kalbi
+    minnettarlığımı…', cited to Akşam 14 June 1934 'Gazi ve Şahinşah Hz. arasında samimi telgraflar' (Resim
+    1). Date 'June 1934' consistent (Akşam 14 June). Small point: 'dear brother' in what_they_saw is a free
+    rendering of 'Muhterem kardeşimden' (respected brother). The quote is a clause fragment, acceptable. No
+    correction needed beyond that wording.
+  checked_on: "2026-11-01"

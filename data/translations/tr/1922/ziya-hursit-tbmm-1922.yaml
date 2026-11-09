@@ -1,0 +1,29 @@
+# Turkish for data/voices/1922/ziya-hursit-tbmm-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ziya-hursit-tbmm-1922
+voice: Ziya Hurşit
+role: Lazistan (Rize) milletvekili; Birinci Meclis muhalefeti
+quote: >-
+  Ankara'da bir imparatorluk mu tesis edeceğiz? Katiyyen reddederiz. Başkumandan kimseyi temsil edemez.
+quote_kind: original-turkish
+summary: >-
+  Trakya'nın devralınmasında hükümet yerine Başkumandan adına hareket edilmesinin Ankara'da bir imparatorluk
+  kurma tehdidi oluşturduğunu söyleyerek itiraz etti.
+caveat: >-
+  Kaynak: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, 133. birleşim, 2. celse,
+  6 Teşrinisani 1338 (1922), s. 1174. İsmen Kemal'e değil, Başkumandanlık makamına (Kemal) ve kabinenin Refet
+  Paşa'nın görevine ilişkin ifadelerine yöneliktir.
+verification_note: >-
+  Bağlam, Refet Paşa'nın Trakya'yı devralmasına ilişkin 'Başkumandan namına' ifadesidir; çekince notunda
+  belirtildiği gibi ismen Kemal'e yönelik değildir.
+verification_method: pdftotext grep; birebir; konuşmacı ZİYA HURŞİT BEY (Lâzistan)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9538ef8bc7ea
+  role: 4a469d69337e
+  quote: cc2b550a119f
+  summary: d08e09bd7cf9
+  caveat: 1912f59ade22
+  verification_note: e7176c0e411b
+  verification_method: 66724f1207f6

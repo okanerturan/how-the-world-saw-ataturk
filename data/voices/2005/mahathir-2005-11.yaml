@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mahathir-2005-11
+voice: Mahathir Mohamad
+voice_type: person
+role: Former Prime Minister of Malaysia; op-ed 'Islam's forsaken renaissance'
+country: Malaysia
+country_now: Malaysia
+domain: politics
+date: "2005-11"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: article
+evidence: S
+summary: >-
+  Defends Atatürk against Muslim critics: asks whether Turkey would be Muslim without him and says his
+  clear-sightedness saved Islam in Turkey.
+quote:
+  text: Mustafa Kamal's clear-sightedness saved Islam in Turkey and saved Turkey for Islam.
+  language: en
+mediated_by: >-
+  Project Syndicate op-ed as printed in the Taipei Times, 10 Nov 2005; Project Syndicate original not opened
+caveat: >-
+  Written after he left office (1981-2003). The surrounding sentences: 'Many Muslims still condemn the founder
+  of modern Turkey, Mustafa Kamal, because he tried to modernize his country. But would Turkey be Muslim today
+  without Ataturk?' The spelling 'Kamal' is his.
+node: Leaders and Thinkers of the Muslim World and Asia on Atatürk in Their Own Words
+sources:
+  - url: http://taipeitimes.com/News/editorials/archives/2005/11/10/2003279592
+    archived: https://web.archive.org/web/20240618093617/https://www.taipeitimes.com/News/editorials/archives/2005/11/10/2003279592
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    http://taipeitimes.com/News/editorials/archives/2005/11/10/2003279592 ('Islam's forsaken renaissance',
+    byline 'By Mahathir Mohamad', Project Syndicate credit, 10 Nov 2005)
+  method: fetch + curl
+  note: >-
+    Verbatim: 'Mustafa Kamal's clear-sightedness saved Islam in Turkey and saved Turkey for Islam.'
+    Surrounding sentences as in caveat. Author confirmed by byline and the closing note 'prime minister of
+    Malaysia from 1981 to 2003'. Project Syndicate original not opened (date is the Taipei Times reprint's).
+  checked_on: "2026-11-03"

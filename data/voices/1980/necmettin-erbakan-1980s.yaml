@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: necmettin-erbakan-1980s
+voice: Necmettin Erbakan
+voice_type: person
+role: Leader of the Milli Görüş (National Vision) movement; later Prime Minister
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1980s"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: internal-mirror
+artifact: quote
+evidence: S
+summary: >-
+  Claims Atatürk, were he alive, would have joined the National Vision movement, recasting Kemalism in
+  Islamist terms.
+quote:
+  text: >-
+    Had he lived today, Atatürk would have become a member of the Islamic Vision (Millî Görüş).
+  language: en
+mediated_by: >-
+  Hanioğlu, Atatürk: An Intellectual Biography (Princeton UP 2011), Introduction, n. 1 (English rendering;
+  footnote not read) ← Erbakan, 'in the 1980s'
+caveat: >-
+  Translation by Hanioğlu; the Turkish wording, speech and exact year were not traced (the footnote and
+  Erbakan's original could not be fetched; dokumen.pub is bot-blocked). Date '1980' is a decade placeholder.
+  Hanioğlu treats the remark as an Islamist adoption of 'an unconventional Kemalism', so polarity
+  'instrumental' follows his reading. Erbakan has no vault person note. Quote is Hanioğlu's English rendering;
+  his footnote (Introduction n. 1) and the Turkish wording are unreached.
+node: Islamic Thinkers on Atatürk in Their Own Words
+sources:
+  - url: https://degruyterbrill.com/document/doi/10.1515/9781400885572-002/html
+    archived: https://web.archive.org/web/20251007091659/https://www.degruyterbrill.com/document/doi/10.1515/9781400885572-002/html
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Hanioglu, Ataturk: An Intellectual Biography (Princeton 2011), Introduction, as quoted in search snippets
+    of doi.org/10.1515/9781400885572-002, dokumen.pub, ebin.pub, scribd; footnote 1 not reached (degruyter
+    fetch fails, dokumen bot_blocked, ebin text did not return the notes)
+  method: one ms search returned the text from five copies; free fetches of degruyter, ebin, dokumen
+  note: >-
+    Hanioglu's sentence is verbatim: 'Necmettin Erbakan, the leader of the Islamist political movement,
+    famously remarked in the 1980s, "Had he lived today, Ataturk would have become a member of the Islamic
+    Vision (Milli Gorus)."' with note marker 1, and he reads it as 'an unconventional Kemalism'. Hanioglu
+    gives only 'the 1980s'; the footnote (the actual source of Erbakan's words) was not seen, and the Turkish
+    original, occasion and year are untraced. CORRECTION: date field should be '1980s' (decade), not '1980';
+    mark the quote as Hanioglu's English rendering relayed second-hand; keep polarity instrumental (follows
+    Hanioglu's reading); do not treat as primary until the footnote is read.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 13)
+  checked_on: "2026-11-01"

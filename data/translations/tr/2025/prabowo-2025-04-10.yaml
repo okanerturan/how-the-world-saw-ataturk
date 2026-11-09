@@ -1,0 +1,36 @@
+# Turkish for data/voices/2025/prabowo-2025-04-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: prabowo-2025-04-10
+voice: Prabowo Subianto
+role: Endonezya Cumhurbaşkanı
+quote: >-
+  Cakarta'daki ofisime gelirseniz, Cakarta'daki evime gelirseniz, ofisimde, evimde bir Mustafa Kemal Atatürk
+  heykeli vardır. Bizim için, yalnızca Endonezya'dan söz etmiyorum, Küresel Güney'de, gelişmekte olan
+  ülkelerde, Mustafa Kemal Atatürk bir ikondur, bir cesaret örneği, liderlik örneği, vatanseverlik örneği,
+  teslim olmayı bilmeyen bir ruh örneğidir.
+quote_kind: translated
+summary: >-
+  Türkiye parlamentosuna Atatürk'ün gençlik kahramanı olduğunu söyler, ofisinde ve evinde onun heykelini
+  bulundurur ve onu Küresel Güney'in cesaret ikonu olarak adlandırır.
+caveat: >-
+  Resmî Endonezce tutanak, Sekretariat Negara (setneg.go.id), 'Pidato Kenegaraan Presiden di Hadapan Parlemen
+  Turki', 10 Nisan 2025, tamamı okundu. Aynı pasajda ayrıca 'sebagai anak muda pahlawan saya, ikon saya adalah
+  Mustafa Kemal Atatürk dan Mehmed Sang Penakluk' denmektedir; Atatürk'ü II. Mehmed ile eşleştirir ve
+  Türkiye'yi Osmanlıların devamı olarak nitelendirir. AA English bunu 'My hero, my icon was Mustafa Kemal
+  Ataturk along with Ottoman Sultan Mehmed II' biçiminde aktarır. BBC Indonesia (16 Nisan 2025), AKP
+  çoğunluklu bir parlamento önünde Atatürk'ün övülmesi üzerine çıkan sosyal medya tartışmasını haberleştirir.
+verification_note: >-
+  Endonezce pasaj kelimesi kelimesine mevcut ('Kalau Saudara datang ke kantor saya ... contoh semangat tidak
+  mengenal menyerah'); öncesinde 'ikon saya adalah Mustafa Kemal Atatürk dan Mehmed Sang Penakluk' yer alıyor.
+  Çeviri sadık. P kademesi dürüst. AA/CNN Indonesia yeniden açılmadı.
+verification_method: curl; tutanağın tamamı okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fc9ca9395f3c
+  role: 68a1492bbf22
+  quote: 0ce6e4498d2e
+  summary: ade0f174da53
+  caveat: 9149fcbb569a
+  verification_note: e1ffcdfe6da1
+  verification_method: 0c447952e745

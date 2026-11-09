@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: strabolgi-1938
+voice: Lord Strabolgi
+voice_type: person
+role: Labour peer
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1938-07-18"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Everyone who knows him admires his qualities as soldier and statesman and as leader and rejuvenator of his
+  people.
+quote:
+  text: >-
+    everyone who knows the Leader of the Turks, Ataturk, or as he was formerly known, Mustapha Kemal, admires
+    his great qualities as a soldier, as well as a statesman, and the Leader and rejuvenator of his people
+  language: en
+node: Hansard After Atatürk, 1938–1939
+sources:
+  - url: https://hansard.parliament.uk/Lords/1938-07-18/debates/3bc64e63-0d16-4836-b296-4a66f58bd544/AngloTurkishArmamentsCreditAgreementBill
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API 18 Jul 1938, Lord Strabolgi (Anglo-Turkish Armaments Credit Agreement Bill)
+  method: fetch
+  checked_on: "2026-10-29"

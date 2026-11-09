@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bryce-1921
+voice: Viscount Bryce
+voice_type: person
+role: Liberal peer, Armenian advocate, Lords debate on British mandates
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1921-06-23"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Called Kemal's Angora regime a rebel government, with any peace conditional on safety for Christian
+  communities.
+quote:
+  text: what I might call the rebel government under Mustapha Kemal at Angora
+  language: en
+caveat: Label 'rebel government' is Bryce's; polarity read from context, passing mention.
+node: Parliament on Kemal and the Greeks, 1921–1922
+sources:
+  - url: https://hansard.parliament.uk/Lords/1921-06-23/debates/904de8c1-8c17-48ee-a9e0-6a2f42d95ec2/BritishMandates
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard-api.parliament.uk/search/contributions/Spoken.json (contribution
+    82f85357-9b42-4ca4-af1c-02178114ae40), Lords 1921-06-23 British Mandates, VISCOUNT BRYCE
+  method: api
+  checked_on: "2026-10-29"

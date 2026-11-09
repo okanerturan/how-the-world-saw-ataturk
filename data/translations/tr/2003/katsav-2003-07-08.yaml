@@ -1,0 +1,37 @@
+# Turkish for data/voices/2003/katsav-2003-07-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: katsav-2003-07-08
+voice: Moshe Katsav
+role: İsrail Cumhurbaşkanı
+quote: >-
+  Milletini nadir görülen bir cesaret, liderlik ve sorumluluk birleşimi içerisinde yönlendirmiş olan büyük bir
+  lider, vizyon ve inanç insanına, şahsım ve İsrail halkı adına derin saygı ve takdirlerimi sunuyorum.
+quote_kind: original-turkish
+summary: >-
+  Nadir görülen bir cesaret, liderlik ve sorumluluk sahibi büyük bir lider; mirası ve 'Yurtta sulh, cihanda
+  sulh' ilkesi özgür uluslara ilham verir.
+caveat: >-
+  İbranice el yazısıyla yazılmış (8 Tammuz 5763 / 8.7.2003 tarihli); alıntı, derlemedeki basılı Türkçe
+  çeviridir ('To a great leader who guided his nation with a rare combination of courage, leadership and
+  responsibility, a man of vision and faith, I offer deep respect on my own behalf and that of the people of
+  Israel'). İbranice metin transkribe edilmemiştir. Şöyle devam eder: mirası ve vizyonu özgürlüksever tüm
+  demokratik uluslara ilham vermektedir; 'Yurtta Sulh, Cihanda Sulh' tüm insanlık için bir barış mesajıdır.
+  Kaynak: Anıtkabir Özel Defteri (basılı derleme, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı
+  heyet başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), ataturkarsivi.com üzerindeki sayfa
+  görüntüleri, ana ajan tarafından görüntü üzerinden okundu (4 Kasım 2026).
+verification_note: >-
+  Basılı Türkçe alıntı birebir aynı. Her iki sayfada da tarih 8.7.2003; imzalayan/görevi doğru. Çeviri
+  İbranice metinle tutarlı (nadir cesaret, liderlik, sorumluluk; vizyon ve inanç; yurtta sulh cihanda sulh).
+  İbranice metin kontrol eden tarafından genel yapısı dışında transkribe edilmedi. Bakış açısı testini geçiyor
+  (büyük lider).
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe metin OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3c22108feb16
+  role: 4660a7be8967
+  quote: 89b745ac7109
+  summary: f7b29d9828d2
+  caveat: f21daeded41b
+  verification_note: 335dd81dcdd5
+  verification_method: "304538629105"

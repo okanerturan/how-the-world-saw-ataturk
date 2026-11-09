@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: politika-1938
+voice: Politika
+voice_type: press
+role: Belgrade-area Yugoslav paper
+country: Yugoslavia
+country_now: Serbia
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  Said history will inscribe his name; a man of the people whose will and intellect made him transformer of
+  the new Turkey.
+quote:
+  text: the transformer of the new Turkey
+  language: en
+mediated_by: Toksoy 2010 §E; Karahasan 1994 as cited
+caveat: >-
+  Quotations via Toksoy's Turkish; Serbo-Croatian originals not seen. City not stated in the note.
+node: Yugoslav Press, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: sources/toksoy-2010-balkan-mideast-press.txt p.197 (Politika, Karahasan)
+  method: local
+  note: Translated from Toksoy Turkish 'yeni Türkiye'nin mübadili'.
+  checked_on: "2026-10-29"

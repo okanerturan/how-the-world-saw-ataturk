@@ -1,0 +1,35 @@
+# Turkish for data/voices/1942/eden-1942-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: eden-1942-01
+voice: Anthony Eden
+role: Britanya Dışişleri Bakanı (Moskova ziyareti hakkındaki raporu)
+quote: >-
+  Rusya ile Türkiye arasında yakın bir anlayış bulunması, modern Türkiye'nin büyük lideri Atatürk tarafından
+  ortaya konulduğu üzere, modern Türkiye politikasının temel bir ilkesiydi. Bu politikanın bilgeliği, savaşın
+  iniş çıkışları ortasında her geçen gün daha da belirginleşmektedir.
+quote_kind: translated
+summary: >-
+  Atatürk'ü 'modern Türkiye'nin büyük lideri' olarak nitelendirir ve onun Türk-Rus anlayışı ilkesini,
+  bilgeliği savaşta giderek artan bir politika olarak anar.
+caveat: >-
+  War Situation, HC Deb 8 Ocak 1942, c171. Resmi Hansard tutanaklarının TheyWorkForYou'daki dökümü.
+  İngiliz-Sovyet görüşmelerinin ardından Türkiye'ye güvence vermek için kullanılmıştır; Atatürk bir bütün
+  olarak değerlendirilmez, Rusya politikası dolayısıyla anılır. Kontrol: alıntı c174'te yer almaktadır
+  (historic-hansard); TWFY konuşmanın başladığı sütunu verir.
+verification_note: >-
+  Birebir aynı, konuşmacı Eden (g171.1, HC Deb 8 Ocak 1942). Sütun düzeltmesi: cümle c174'tedir (konuşma
+  c171'de başlar). 'the great leader of modern Turkey' konuşmacının kendisine ait, açık bir saygı ifadesidir;
+  araçsal 1 savunulabilir olmakla birlikte hayranlık 1 de yerinde olurdu.
+verification_method: >-
+  sayfa çekildi, bağlantılı konuşma bloğu (konuşmacı, tarih, kimlik) içinde alıntının normalleştirilmiş metin
+  eşleşmesi yapıldı; sütun numarası historic-hansard sütun işaretlerinden tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7e560b785d5d
+  role: 0f92933dce8b
+  quote: 6cb42a242ab6
+  summary: 7f6e121f10a2
+  caveat: fbe6fae1135d
+  verification_note: f3ddf11e9ba0
+  verification_method: 59db5bce95bc

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: chen-jitang-1936-12
+voice: Chen Jitang (陳濟棠)
+voice_type: person
+role: Guangdong strongman, touring Europe
+country: China
+country_now: China
+domain: military
+date: "1936-12"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: memoir
+evidence: P
+summary: >-
+  Saw reform and progress in Turkey since Kemal's revolution, with headscarf bans enforced by arrest, but
+  little industry, unemployment and beggars.
+quote:
+  text: 但在凯末尔实行革命后，一切均有改革进步。人民禁用包头巾，违者拘禁，可见其政令之严
+  language: zh
+caveat: >-
+  Memoir written long after (page year 1974); visit placed after the 12 Dec 1936 Xi'an Incident from the
+  memoir's own order.
+node: Kemal as a Chinese Yardstick, 1933–1940
+sources:
+  - url: https://zh.wikisource.org/wiki/陈济棠自传稿
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource.org 陈济棠自传稿 (1974)
+  method: Wikisource parse via ms fetch
+  note: >-
+    Verbatim (simplified characters as on the source page). Turkey leg follows the Xi'an Incident passage;
+    also mentions little industry, unemployment, beggars. Month is inferred.
+  checked_on: "2026-10-30"

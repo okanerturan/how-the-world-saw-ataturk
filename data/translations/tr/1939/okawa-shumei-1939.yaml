@@ -1,0 +1,29 @@
+# Turkish for data/voices/1939/okawa-shumei-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: okawa-shumei-1939
+voice: Ōkawa Shūmei
+role: Japon Pan-Asyacı yazar
+summary: >-
+  Güney Mançurya Demiryolu'nun Doğu Asya Ekonomik Araştırma Bürosu tarafından yayımlanan Shin-Ajia (Yeni Asya)
+  dergisinin 1. cilt 2. sayısında yer alan 'Yeni Türkiye'nin kurucusu Kemal Paşa' başlıklı makalesiyle Japonca
+  basındaki diziyi kapattı.
+caveat: >-
+  Bibliyografya yalnızca başlıkları listelemektedir; hiçbir makale okunmamıştır. 2026-10-29 tarihinde
+  düzeltildi: Shimizu 2013'e göre süreli yayın Shin-Ajia 1(2)'dir (önceki kayıtta Koron, Aralık deniyordu); ay
+  belirtilmemiştir.
+mediated_by: Shimizu 2013 bibliyografyası
+verification_note: >-
+  Başlık/yazar/yıl mevcuttur, ancak süreli yayın Kōron (公論, Aralık sayısı; bunun yerine de Coulson'a yer
+  verir) değil, Güney Mançurya Demiryolu Doğu Asya Ekonomik Araştırma Bürosu yayını olan Shin-Ajia'dır (新亜細亜)
+  1(2). "1939-12" ayı desteklenmemektedir.
+verification_method: getirme (fetch)
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: a0dc18cc6f31
+  role: 4108d2f6828d
+  summary: 8ab5f923fc74
+  caveat: 82dd3fda863d
+  mediated_by: e32d2250c13f
+  verification_note: e8025c2db22a
+  verification_method: ad8cee67138e

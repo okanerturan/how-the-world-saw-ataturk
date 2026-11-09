@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zaki-mubarak-1942
+voice: Zaki Mubarak
+voice_type: person
+role: Egyptian writer and critic
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1942-04-13"
+era: posthumous
+polarity: witness
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  Recalls that 'the late Mustafa Kemal' claimed Adam and Eve were Turks; he found the claim monstrous and
+  wrote to Kemal that they were Arabs.
+quote:
+  text: كان المرحوم مصطفى كمال زعم أن آدم وحواء من أصل تركيّ، وقد أزعجني هذا الزعم الفظيع
+  translation: >-
+    The late Mustafa Kemal claimed that Adam and Eve were of Turkish origin, and this monstrous claim
+    disturbed me.
+  language: ar
+caveat: >-
+  Cited as al-Risala no. 458, 13 Apr 1942, Wikisource page 'مجلة الرسالة/العدد 458/اجتماع الملائكة في مسجد
+  الفردوس'. Mubarak says he then wrote Kemal a letter arguing from etymology that Adam and Eve were Arabs; no
+  reply or copy of the letter is cited, so the letter is his claim only. The Adam-and-Eve claim attributed to
+  Kemal is Mubarak's report of the Turkish History Thesis era, not checked here. Humorous in tone. Wikisource
+  transcription. Check: comic mockery of a claim attributed to Kemal (who is called 'al-marhum', 'may God
+  forgive him'), not shown hostility; the page gives no source for the claim. Polarity hostile → witness.
+node: Egyptian Pens in al-Risala on Atatürk, 1935–1946
+sources:
+  - url: https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_458/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A6%D9%83%D8%A9_%D9%81%D9%8A_%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%81%D8%B1%D8%AF%D9%88%D8%B3
+    archived: https://web.archive.org/web/20260713041232/https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_458/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9_%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A6%D9%83%D8%A9_%D9%81%D9%8A_%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D9%81%D8%B1%D8%AF%D9%88%D8%B3
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: Arabic Wikisource raw page 'مجلة الرسالة/العدد 458/اجتماع الملائكة في مسجد الفردوس'
+  method: >-
+    fetched action=raw, diacritic-normalised substring match of the Arabic quote, then read the surrounding
+    passage, header date and end signature
+  note: >-
+    Arabic quote verbatim; header 'مؤلف= زكي مبارك', date 13-04-1942, signed 'زكي مبارك'. First-person aside
+    ('وبهذه المناسبة أقول') in a comic piece on Adam, right after Abu al-'Ala quotations. He also writes that
+    Kemal never answered 'غفر الله له' and that Turks told him Kemal would not read Arabic script. Translation
+    and what_they_saw faithful. Problem is polarity: the thing he calls 'الفظيع' is the 'claim' (زعم)
+    attributed to Kemal, in jest, and he uses 'المرحوم' and 'غفر الله له'; that is mockery of a thesis, not
+    demonstrated hostility to Atatürk. The Adam-and-Eve claim and the letter are Mubarak's report only (caveat
+    already says so). CORRECTION: polarity 'hostile' is an over-read; use 'witness' (or keep hostile only with
+    an explicit 'comic, mild' hedge), intensity 1; add that the page itself gives no source for Kemal's Adam
+    claim. Era posthumous correct; schema otherwise OK.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 19)
+  checked_on: "2026-11-03"

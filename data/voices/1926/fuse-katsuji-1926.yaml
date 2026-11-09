@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: fuse-katsuji-1926
+voice: Fuse Katsuji (布施勝治)
+voice_type: person
+role: Japanese journalist, read in Chinese translation
+country: Japan
+country_now: Japan
+domain: press
+date: "1926"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: book
+evidence: P
+summary: >-
+  Credited Kemal's bold strategy and the Turks' patriotism with the 1921 victory, noting Russian help and his
+  arrest of Communists.
+quote:
+  text: 遂有英雄出 是爲凱馬爾
+  language: zh
+mediated_by: Chinese translation by 中華民國聖道會 (1926) of Fuse's book on Soviet Eastern policy
+caveat: >-
+  Wording is the translator's; Japanese original not seen; the quote includes the page's own spacing.
+node: Fuse Katsuji
+sources:
+  - url: https://zh.wikisource.org/wiki/世界赤禍之源泉，俄國東方政策/土耳其革命與俄羅斯
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    zh.wikisource.org page via action=parse 世界赤禍之源泉，俄國東方政策/土耳其革命與俄羅斯 and parent page (作者 布施勝治 1926年, 譯者
+    中華民國聖道會)
+  method: ms fetch Wikisource parse
+  note: >-
+    Exact incl. page spacing; chapter also credits 雄略/愛國心, Russian aid and arrest of Communists. Japanese
+    original not seen (translator wording).
+  checked_on: "2026-10-30"

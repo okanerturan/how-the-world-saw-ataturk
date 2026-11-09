@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: amerikai-magyar-hirlap-1938
+voice: Amerikai Magyar Hirlap
+voice_type: press
+role: Hungarian-language newspaper, Youngstown, Ohio
+country: United States
+country_now: United States
+domain: press
+date: "1938-04-28"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: editorial
+evidence: P
+summary: >-
+  Wry line after Kemal's flu recovery: the Turkish dictator pleases us because his name reaches the papers
+  only when he is ill.
+quote:
+  text: A török diktátor tetszik nekünk
+  language: hu
+caveat: >-
+  One-line joke in a column; the implied contrast is with noisier dictators (Hitler is the topic of the
+  preceding paragraph).
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn88078388/1938-04-28/ed-1/?sp=7
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn88078388 1938-04-28 p.7 OCR
+  method: tile.loc.gov full_text
+  note: >-
+    Verbatim across line break; context: Kemal recovered from influenza, 'his name only reaches papers when he
+    is ill'. Implied contrast with Hitler is the record's inference.
+  checked_on: "2026-10-30"

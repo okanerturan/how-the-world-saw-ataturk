@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kenworthy-1922-08
+voice: Lieut.-Commander Kenworthy MP
+voice_type: person
+role: Commons, Near East debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1922-08-04"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Said the Government's 'rebel general' had become Turkey's national hero and Sword of the Faithful after the
+  suppressed Smyrna inquiry roused Turkey.
+quote:
+  text: >-
+    is the great national hero of Turkey, and is looked upon as the wielder of the Sword of the Faithful
+  language: en
+caveat: >-
+  Hansard prints the name as 'Mustapha Kernel' (OCR). Speech is an attack on Lloyd George's Greek policy; same
+  day as Lloyd George's 'great general' remark.
+node: Kemal in the Commons, Variant Spellings, 1920–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1922-08-04/debates/e8c2fe25-f736-4f36-bd19-4375874f4b5b/NearEast
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API Spoken.json 1922-08-04 (Kenworthy, Near East)
+  method: Hansard API full text; 'Mustapha Kernel' OCR confirmed
+  note: >-
+    Quote verbatim; context (suppressed Smyrna inquiry roused Turkey, 'rebel general') supports what_they_saw.
+  checked_on: "2026-10-30"

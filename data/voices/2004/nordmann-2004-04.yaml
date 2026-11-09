@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nordmann-2004-04
+voice: Jean-Thomas Nordmann
+voice_type: person
+role: Member of the European Parliament (ELDR, France)
+country: France
+country_now: France
+domain: politics
+date: "2004-04-01"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: secular-rationalist-prophet
+artifact: speech
+evidence: P
+summary: >-
+  Defending Turkish secularism against the rapporteur, calls it perhaps the most valuable part of Kemal
+  Atatürk's legacy and a recipe for the Union's future.
+quote:
+  text: >-
+    Paragraph 32 of your report seems to me to proceed from a slightly jaundiced view of the secularism which
+    is perhaps the most valuable part of the legacy of Kemal Atatürk.
+  language: en
+caveat: >-
+  One sentence of a short intervention on the Oostlander report. The report prints only 'Nordmann (ELDR)'; the
+  first name is the standard record (M-tier).
+node: European Parliament plenary on Atatürk, 2004–2016 — Nordmann and Weber
+sources:
+  - url: https://www.europarl.europa.eu/doceo/document/CRE-5-2004-04-01-ITM-002_EN.html
+    archived: https://web.archive.org/web/20230122223121/https://www.europarl.europa.eu/doceo/document/CRE-5-2004-04-01-ITM-002_EN.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.europarl.europa.eu/doceo/document/CRE-5-2004-04-01-ITM-002_EN.html (1 April 2004; 'Nordmann
+    (ELDR). - (FR)')
+  method: >-
+    tools/ms render; first name and nationality checked by search against the EP MEP page and Wikidata
+  note: >-
+    Verbatim EP English (interpreted from French). First name Jean-Thomas confirmed: the only MEP Nordmann in
+    the 5th term (France, UDF-Radical, ELDR, 3 July 2002 to 19 July 2004, Committee on Foreign Affairs). FIELD
+    FIX: country and country_now should be 'France', not 'European Union'. Gaze test passes narrowly (explicit
+    praise of the legacy of Kemal Atatürk, but it is chiefly a defence of secularism).
+  resolution: corrected/hedged 2026-11-04 — see LEDGER § Source-check corrections (round 24a)
+  checked_on: "2026-11-04"

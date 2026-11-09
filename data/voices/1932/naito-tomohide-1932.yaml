@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: naito-tomohide-1932
+voice: Naitō Tomohide
+voice_type: person
+role: Japanese writer
+country: Japan
+country_now: Japan
+domain: letters
+date: "1932"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  Wrote pieces comparing Kemal with Mussolini (1930) and titled 'A fascist beyond the fascists' (1932).
+mediated_by: Shimizu 2013 bibliography
+caveat: Bibliography lists titles only; no article has been read.
+node: Japanese Print Culture on Kemal Pasha, 1922–1939
+sources:
+  - url: https://opac.ll.chiba-u.jp/da/curator/900116900/2013no.232_113_132.pdf
+    archived: https://web.archive.org/web/20251202130130/https://opac.ll.chiba-u.jp/da/curator/900116900/2013no.232_113_132.pdf
+verification:
+  verdict: confirmed
+  checked_against: >-
+    https://opac.ll.chiba-u.jp/da/curator/900116900/2013no.232_113_132.pdf (Shimizu 2013 bibliography)
+  method: fetch
+  note: >-
+    Titles confirmed: 1930 Gaiko Jiho 'Kemal to Mussolini', 1932 Sekai Chishiki 'Fashisuto ijo no fashisuto:
+    Kemal Pasha no fubo'. Content of the articles not seen; 'comparing' inferred from title
+  checked_on: "2026-10-29"

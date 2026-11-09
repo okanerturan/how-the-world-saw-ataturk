@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: baumann-1938
+voice: Baumann (President of the Swiss Confederation)
+voice_type: person
+role: Swiss Federal President, for the Federal Council
+country: Switzerland
+country_now: Switzerland
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: telegram
+evidence: P
+summary: Said modern Turkey owes her admirable rise to Atatürk's genius.
+quote:
+  text: au génie duquel la Turquie moderne doit son admirable essor
+  language: fr
+caveat: >-
+  TBMM vol. 2 (c2) PDF p. 19. Quote in French; translation: 'to whose genius modern Turkey owes its admirable
+  rise'. Signed 'Baumann'; first name (Johannes) from memory.
+node: Heads of State Write to the Assembly, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Taziyetname 1938, c2.pdf p. 19 (left telegram)
+  method: >-
+    Own render of the PDF page (PDFKit PNG, read by eye); no OCR relied on; telegraph text is unaccented
+    capitals/lowercase typescript
+  note: >-
+    Berne telegram: 'au genie duquel la turquie moderne doit son admirable essor', signed 'baumann president
+    de la confederation suisse', sent 'au nom du conseil federal'. Accents restored in the record. The
+    right-hand telegram on the same page is a different, Turkish-language item dated 28.10.1924, not part of
+    this record. Baumann's first name is not on the sheet.
+  checked_on: "2026-11-01"

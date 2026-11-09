@@ -1,0 +1,19 @@
+# Turkish for data/voices/1923/nelson-evening-mail-1923.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nelson-evening-mail-1923
+voice: Nelson Evening Mail
+role: Nelson günlük gazetesi, 'The Dictators of Europe' başlıklı başyazı
+quote: Mustafa Kemal komutasındaki ordu her an siyasi durumu kontrol altına alabilir
+quote_kind: translated
+summary: >-
+  Kemal'i Mussolini, Lenin ve Troçki ile birlikte despotlar arasında saydı; Yunanları yenen ordu aracılığıyla
+  Türkleri yönettiğini söyledi.
+verification_method: sayfa çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1c31a78131fd
+  role: e81391c76053
+  quote: ff8959fcc259
+  summary: 2626cb32df80
+  verification_method: ad8cee67138e

@@ -1,0 +1,28 @@
+# Turkish for data/voices/1934/morgen-zhurnal-1934.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: morgen-zhurnal-1934
+voice: Der Morgen Zhurnal (Jewish Morning Journal)
+role: Yidiş dilinde günlük gazete, New York
+quote: Türk diktatörlüğü altındaki kardeşlerimizin acıları
+quote_kind: translated
+summary: >-
+  1934 Trakya pogromları üzerine başyazı: Türkiye Yahudileri ikinci sınıf vatandaş yaptı; Yahudi kuruluşları,
+  Mustafa Kemal Paşa'nın diktatörlüğü altındaki 'kardeşlerimizin acılarını' araştırmalıdır.
+caveat: >-
+  Yidiş OCR kalitesi düşük ('די' yerine 'דו'); alıntı tam olarak OCR'ın verdiği şekildedir. Sayfa düzeni
+  başyazı sayfasına işaret ediyor ancak yazar adı görünmüyor.
+verification_note: >-
+  Pasaj: Türkiye Yahudileri ikinci sınıf vatandaş yaptı, American Jewish Congress/Committee'yi araştırmaya
+  çağırıyor; Mustafa Kemal Paşa rejiminin adı geçiyor.
+verification_method: >-
+  loc.gov JSON + tile OCR; satır sonu tiresi (אונ/זערע) birleştirildikten sonra alıntı eşleşiyor
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4d52b30e89a4
+  role: 916010c8b9ef
+  quote: e67aa5e75f9d
+  summary: bc708bb06f6c
+  caveat: d8bece2e35f8
+  verification_note: f3b9574518f8
+  verification_method: d8c6b06659a9

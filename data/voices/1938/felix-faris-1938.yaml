@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: felix-faris-1938
+voice: Felix Faris
+voice_type: person
+role: Lebanese-Egyptian essayist and polemicist
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1938-06-06"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Calls Atatürk 'the shrewd' who knew the Turkish people's nature, a reformer who weakened every element out
+  of tune with Turkey's spirit.
+quote:
+  text: >-
+    تلك حقائق لم تخف على الداهية أتاتورك فأنه عرف ما هي فطرة الشعب التركي وما هي الحالة الاجتماعية التي تتفق
+    وما كمن في حوافزه.
+  translation: >-
+    These facts were not hidden from the shrewd Atatürk, for he knew what the Turkish people's nature was and
+    what social condition accorded with what lay hidden in its drives.
+  language: ar
+caveat: >-
+  Cited as al-Risala no. 257, 6 Jun 1938, Wikisource page 'مجلة الرسالة/العدد 257/بين الشرق والغرب'. From the
+  first part of 'Between East and West' (continued next issue), signed Felix Faris, replying to an opponent
+  ('al-munazir') who praised Westernising and the end of Ottoman rule; Faris argues the Ottomans did not
+  spread Arab culture, and that Atatürk understood this. Next sentence: 'Thinkers know what this reformer of
+  his state aimed at, weakening every element that did not keep pace with its spirit, so that he made Arabic
+  letters and words his enemy.' Neutral on the Arabic-letters point; reported as the speaker's framing.
+  Wikisource transcription.
+node: Egyptian Pens in al-Risala on Atatürk, 1935–1946
+sources:
+  - url: https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_257/%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D8%B4%D8%B1%D9%82_%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D8%A8
+    archived: https://web.archive.org/web/20260714014808/https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_257/%D8%A8%D9%8A%D9%86_%D8%A7%D9%84%D8%B4%D8%B1%D9%82_%D9%88%D8%A7%D9%84%D8%BA%D8%B1%D8%A8
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Arabic Wikisource raw page 'مجلة الرسالة/العدد 257/بين الشرق والغرب'
+  method: >-
+    fetched action=raw, diacritic-normalised substring match of the Arabic quote, then read the surrounding
+    passage, header date and end signature
+  note: >-
+    Arabic quote verbatim. Template author empty; byline 'للأستاذ فليكس فارس' and closing signature 'فليكس
+    فارس' ('البقية في العدد القادم'); epigraph is Tawfiq al-Hakim's, quoted as the opponent's view, then Faris
+    answers 'ونحن نجيب على هذا موافقين المناظر ...'. So the quote is Faris's own. Date 06-06-1938. The next
+    sentence ('ويعلم المفكرون ما رمى إليه هذا المصلح لدولته من إضعاف كل عنصر لا يجاري روحها حتى أنه ناصب
+    العداء الحروف والألفاظ العربية') matches the caveat and the 'weakened every element' wording. 'الداهية' as
+    'the shrewd' is acceptable (also 'the cunning'). Conflicted / 2 fair. 'Lebanese-Egyptian' is not on the
+    page (outside knowledge). Schema OK.
+  checked_on: "2026-11-03"

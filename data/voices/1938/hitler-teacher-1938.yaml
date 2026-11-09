@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hitler-teacher-1938
+voice: Adolf Hitler
+voice_type: person
+role: Führer and Reich Chancellor
+country: Germany
+country_now: Germany
+domain: politics
+date: "1938"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: volkisch-purifier
+artifact: quote
+evidence: S
+summary: >-
+  Atatürk as the teacher who showed a lost nation can be regenerated; Mussolini his first student, Hitler his
+  second.
+quote:
+  text: Mussolini was his first and I his second student
+  language: en
+mediated_by: Ihrig 2014 p. 116 (search-inside snippet)
+caveat: >-
+  Only this clause visible in search-inside (p. 116); interview date and interviewer unverified.
+node: Hitler's Atatürk, 1933–1938
+sources:
+  - url: https://www.google.com/books?id=4rQyBQAAQBAJ&q=%22second+student%22
+verification:
+  verdict: partial
+  checked_against: Google Books id 4rQyBQAAQBAJ search-inside, Ihrig p. 116 snippet
+  method: fetch
+  note: >-
+    Snippet shows only '...Mussolini was his first and I his second student.' (note 28); opening clause 'In
+    this respect Atatürk was a teacher' not visible. Interview date/interviewer unverified; secondary source
+    only.
+  resolution: fixed before merge
+  checked_on: "2026-10-29"

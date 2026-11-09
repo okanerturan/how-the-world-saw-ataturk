@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rosmer-militant-1930
+voice: Alfred Rosmer
+voice_type: person
+role: French syndicalist-communist, Left Opposition
+country: France
+country_now: France
+domain: press
+date: "1930-01-18"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: internal-mirror
+artifact: article
+evidence: P
+summary: >-
+  Wrote that Kemal governs Turkey as an absolute autocrat through a monolithic party and jails critical
+  workers, and that Stalin envied the model.
+quote:
+  text: >-
+    Kemal governs Turkey as an absolute autocrat by basing himself on a "monolithic" party and having workers
+    who criticize it thrown into prison.
+  language: en
+caveat: Signed 'A.R.'; attribution to Rosmer is the Marxists Internet Archive's filing.
+node: Soviet Leaders on the Kemalists, 1920–1930
+sources:
+  - url: https://marxists.org/archive/rosmer/1930/01/turkey.htm
+    archived: https://web.archive.org/web/20250910182421/https://www.marxists.org/archive/rosmer/1930/01/turkey.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    marxists.org/archive/rosmer/1930/01/turkey.htm (page title 'A.R.: Karakhan Takes a Pleasant Trip to
+    Turkey'; The Militant Vol. III No. 3, 18 January 1930 p. 7)
+  method: Free fetch; sentence found; signature A.R. and Rosmer filing seen in page HTML
+  note: >-
+    Quote verbatim. 'Stalin envied the model' is fair: 'Stalin is not Kemal; but the ... demonstrations
+    ordered for his fiftieth anniversary show that he would like well enough to resemble him.' Attribution to
+    Rosmer rests on the MIA filing of 'A.R.' as the record says.
+  checked_on: "2026-11-01"

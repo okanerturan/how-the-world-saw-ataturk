@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: amerikai-magyar-hirlap-1922
+voice: Pesti Hírlap
+voice_type: press
+role: Budapest daily (reprinted in the Youngstown Amerikai Magyar Hirlap)
+country: Hungary
+country_now: Hungary
+domain: press
+date: "1922-11-23"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Greeting to Angora: Kemal's sword proved a truth; the Angora Assembly likened to Kossuth's 1849 Debrecen
+  parliament.
+quote:
+  text: Kemal villogó kardja alaposan bizonyította be a világnak azt az igazságot
+  language: hu
+mediated_by: reprinted in Amerikai Magyar Hirlap (Youngstown), 23 Nov 1922
+caveat: >-
+  Headed 'ÜDVÖZLET ANGORÁBA', ending '(Pesti Hirlap.)': a reprint, not the US paper's editorial (corrected
+  after check). OCR damaged in places.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn88078388/1922-11-23/ed-1/?sp=4
+    archived: https://web.archive.org/web/20250228075838/https://www.loc.gov/resource/sn88078388/1922-11-23/ed-1/?sp=4
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: Chronicling America sn88078388 1922-11-23 ed-1 (OCR, file 0028)
+  method: loc.gov JSON -> tile.loc.gov full_text OCR
+  note: >-
+    Quote and Kossuth/Debrecen kinship verbatim, BUT the article (headed 'ÜDVÖZLET ANGORÁBA') ends '(Pesti
+    Hirlap.)' - it is a reprint from the Budapest daily, not the Amerikai Magyar Hirlap's own editorial;
+    record's 'Unsigned; ... the paper's own' and 'Editorial' misattribute the voice.
+  resolution: fixed before merge
+  checked_on: "2026-10-30"

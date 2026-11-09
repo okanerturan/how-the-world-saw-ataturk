@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: berthe-georges-gaulis-1922
+voice: Berthe Georges-Gaulis
+voice_type: person
+role: French journalist, guest at Ankara
+country: France
+country_now: France
+domain: press
+date: "1922"
+era: contemporary
+polarity: admiring
+intensity: 3
+artifact: book
+evidence: P
+summary: >-
+  Kemal as the maker of an epoch whose will, patience and disinterest drove Islam's revival; she was asked to
+  correct French legends.
+quote:
+  text: On peut dire que, sans lui, l'Islam aurait mis cinquante ans de plus à trouver sa route.
+  language: fr
+caveat: >-
+  Access was a bargain: Kemal asked her to destroy legends in France (p. 40), so the admiration is also
+  instrumental. Page numbers read from running heads in the OCR.
+node: Berthe Georges-Gaulis
+sources:
+  - url: https://archive.org/details/angoraconstantin00geor
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org angoraconstantin00geor djvu.txt, ch. on Kemal (quote at OCR line ~1080; 'détruire les
+    légendes' line 1729)
+  method: fetch
+  checked_on: "2026-10-29"

@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lugar-2019-05
+voice: Robert Lugar
+voice_type: person
+role: FPÖ member of the Austrian Nationalrat
+country: Austria
+country_now: Austria
+domain: politics
+date: "2019-05-15"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  In the headscarf-ban debate presents Atatürk as neither a Muslim-hater nor right-wing, but a founder who
+  banned the headscarf to end women's oppression.
+quote:
+  text: >-
+    Das war kein Muslimhasser und das war auch kein Rechter. Der Gründer der Türkei hat das Kopftuch verboten,
+    weil es eben genau mit der Unterdrückung der Frau zusammenhängt.
+  language: de
+caveat: >-
+  Argument for the 2019 ban on headscarves in primary schools; Atatürk is invoked as authority, so the record
+  is as much instrumental as admiring. The historical claim (a headscarf ban) is the speaker's, not the
+  vault's. Speaker line: 'Abgeordneter Ing. Robert Lugar (FPÖ)'. [Translation:] That was no Muslim-hater and
+  no right-winger either. The founder of Turkey banned the headscarf precisely because it is bound up with the
+  oppression of women.
+node: Austrian Nationalrat and Bundesrat on Atatürk, 1980–2019 — Schwaiger, Längle, Cap, Lugar
+sources:
+  - url: https://www.parlament.gv.at/dokument/XXVI/NRSITZ/74/fnameorig_779563.html
+    archived: https://web.archive.org/web/20251014063329/https://www.parlament.gv.at/dokument/XXVI/NRSITZ/74/fnameorig_779563.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.parlament.gv.at/dokument/XXVI/NRSITZ/74/fnameorig_779563.html (74. Sitzung NR XXVI. GP, 15 May
+    2019, Seite 228; 'Abgeordneter Ing. Robert Lugar (FPÖ)')
+  method: fresh fetch of parlament.gv.at HTML
+  note: >-
+    Verbatim, two contiguous sentences, preceded in the protocol by 'Atatürk, ein Gründer der Türkei, hat das
+    Kopftuch verboten.'; speaker, party, date correct; translation faithful. Characterises the man ('kein
+    Muslimhasser, kein Rechter') so it passes the gaze test; 'instrumental' is right. The headscarf-ban claim
+    is the speaker's, as the caveat notes.
+  checked_on: "2026-11-04"

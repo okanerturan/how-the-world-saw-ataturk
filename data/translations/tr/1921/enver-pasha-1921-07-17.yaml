@@ -1,0 +1,37 @@
+# Turkish for data/voices/1921/enver-pasha-1921-07-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: enver-pasha-1921-07-17
+voice: Enver Paşa
+role: Eski Osmanlı Harbiye Nazırı, Moskova'da; Mustafa Kemal'e mektup
+quote: >-
+  Şimdi muvaffakiyet belirince tabi'i maksadınızı gösterdiniz. Beni ve arkadaşlarımı şahsi emellerinize engel
+  sayıyorsunuz.
+quote_kind: original-turkish
+summary: >-
+  Hâkimiyet-i Milliye'deki bir makaleye yanıt vererek Kemal'i, kendisini ve arkadaşlarını şahsi hırslarının
+  önünde engel görmekle ve haklarında yalan söylemekle suçlar.
+caveat: >-
+  Türkçe özgün metin; arşivin çevirisi: 'Now that success is in sight you have naturally shown your aim. You
+  regard me and my friends as obstacles to your personal ambitions.' 118 sayılı mektup, Enver'den (Moskova)
+  Mustafa Kemal'e (Ankara), 17 Temmuz 1921; Enver'in İstanbul gazetelerinde Hâkimiyet-i Milliye'nin kendisi
+  aleyhindeki makalesini okumasının ardından gönderilmiştir (Yamauchi'nin arşiv referansı: Klasör 7/Mustafa
+  Kemal Dosyası). Şöyle sona erer: 'Trablus'tan beri bildiğim şahsi karakterinizin ulaştığınız konumda
+  değişmediğini görmekten üzüntü duyuyorum ... Şahsi hırsınıza yenilerek bu kadar küçülmüş olmanıza acıyorum.'
+  Sayfalar: OCR işareti 233 mektubun içine düşer (s. 233-234 olarak atıf yapılmıştır).
+verification_note: >-
+  Birebir aynı: 'Şimdi muvaffakiyet belirince tabi'i maksadınızı gösterdiniz. Beni ve arkadaşlarımı şahsi
+  emellerinize engel sayıyorsunuz.' Mektup 'Enver.' imzalı, 17 Temmuz 1921 tarihli, Hâkimiyet-i Milliye
+  makalesinden sonra; kapanış satırları ('Trablus'tan beri bildiğim ahlâk-ı şahsiyeniz', 'şahsi hırsınıza
+  mağlüb olarak bu kadar küçülmüş gördüğümden dolayı te'essüf ederim') uyarı notundaki gibidir. Alıntı s.
+  233'tedir (mektup 232/233-234 arasındadır). Düşmanca/2 yerinde.
+verification_method: archive.org djvu + PDF sayfa kontrolü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fea41fea54fd
+  role: d2f1f4a0c4a1
+  quote: e08e4ff5da2c
+  summary: 4a47d4c49548
+  caveat: 9663e58f72c3
+  verification_note: 58b3f50ce1d8
+  verification_method: 7e10a62c454b

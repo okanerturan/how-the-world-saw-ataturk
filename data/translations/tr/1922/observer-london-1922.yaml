@@ -1,0 +1,30 @@
+# Turkish for data/voices/1922/observer-london-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: observer-london-1922
+voice: The Observer (Londra)
+role: Yeni Zelanda'ya telgrafla aktarıldığı şekliyle Londra Pazar gazetesi
+quote: >-
+  Can çekişen Koalisyon nihayet öldü; tıpkı serçenin kızılgerdanı öldürdüğü kadar kesin bir biçimde Kemal
+  tarafından öldürüldü.
+quote_kind: translated
+summary: >-
+  Kemal'in Yakın Doğu politikası yüzünden Lloyd George'un Koalisyonunu öldürdüğünü söyledi ve Başbakan'ın
+  emekliye ayrılması çağrısında bulundu.
+caveat: >-
+  İkinci elden alıntı: Evening Post'ta (Wellington) 9 Ekim 1922'de 'Muddled Policy' başlığıyla basılan
+  Observer telgrafı; Wairarapa Age 10 Ekim 1922'de ifadeyi tekrarlar.
+mediated_by: Evening Post (Wellington) 9 Ekim 1922, Londra'dan 7 Ekim tarihli telgraf
+verification_note: >-
+  Evening Post telgrafında aktarıldığı şekliyle birebir alıntı; Observer'ın orijinali görülmedi
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5606c7766d0d
+  role: f1215aae03b1
+  quote: b0f38bdc5e30
+  summary: 3ca47790a967
+  caveat: 0575466a3da8
+  mediated_by: af241c20069f
+  verification_note: 78ae31ba1ffa
+  verification_method: ad8cee67138e

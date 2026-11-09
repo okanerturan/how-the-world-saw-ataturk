@@ -1,0 +1,30 @@
+# Turkish for data/voices/1922/amerikai-magyar-hirlap-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: amerikai-magyar-hirlap-1922
+voice: Pesti Hírlap
+role: Budapeşte günlük gazetesi (Youngstown Amerikai Magyar Hirlap'ta yeniden basılmıştır)
+quote: Kemal'in parıldayan kılıcı o gerçeği dünyaya esaslı biçimde kanıtladı
+quote_kind: translated
+summary: >-
+  Ankara'ya selam: Kemal'in kılıcı bir gerçeği kanıtladı; Ankara Meclisi, Kossuth'un 1849 Debrecen
+  parlamentosuna benzetildi.
+caveat: >-
+  'ÜDVÖZLET ANGORÁBA' başlıklı ve '(Pesti Hirlap.)' ibaresiyle biten yazı: ABD gazetesinin başyazısı değil,
+  yeniden basımdır (kontrolden sonra düzeltildi). OCR yer yer hasarlıdır.
+mediated_by: Amerikai Magyar Hirlap'ta (Youngstown) yeniden yayımlandı, 23 Kasım 1922
+verification_note: >-
+  Alıntı ve Kossuth/Debrecen yakınlığı birebir, ANCAK ('ÜDVÖZLET ANGORÁBA' başlıklı) makale '(Pesti Hirlap.)'
+  ile bitiyor - Amerikai Magyar Hirlap'ın kendi başyazısı değil, Budapeşte günlük gazetesinden yeniden
+  basımdır; kayıttaki 'Unsigned; ... the paper's own' ve 'Editorial' ifadeleri konuşmacıyı yanlış atfediyor.
+verification_method: loc.gov JSON -> tile.loc.gov full_text OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f76f8a496a0f
+  role: 087adf699c80
+  quote: 354e0b3963c5
+  summary: 08bacf3c0c67
+  caveat: 7b777805e16c
+  mediated_by: a9d52782be8e
+  verification_note: d833029f54ce
+  verification_method: 3285e0490d8a

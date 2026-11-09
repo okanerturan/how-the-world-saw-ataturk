@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: emil-ludwig-1942
+voice: Emil Ludwig
+voice_type: person
+role: German biographer, interviewer of the era's dictators
+country: Germany
+country_now: Germany
+domain: letters
+date: "1942"
+era: posthumous
+polarity: admiring
+intensity: 3
+mirror: modernization-poster-child
+artifact: book
+evidence: P
+summary: >-
+  Kemal 'towers above the dictators of our day': he smashed Sèvres, freed women from the harem, and deposed
+  the caliph without taking his place.
+quote:
+  text: >-
+    No new government attracted the admiration of the world immediately after the First World War so much as
+    Turkey under Kemal Pasha, who towers above the dictators of our day.
+  language: en
+caveat: >-
+  Emil Ludwig, The Mediterranean: Saga of a Sea (Whittlesey House/McGraw-Hill, 1942), pp. 548–549, open
+  archive.org scan mediterraneansag027841mbp (running head '548 ] KEMAL PASHA'). Same passage: he describes
+  Kemal 'from personal acquaintance' with 'a blue, dreamy gaze that betrayed a touch of the poet'; freeing
+  women 'would be enough in itself to immortalize him'; 'the new, enlightened despot and lawgiver'; and 'the
+  thing that proved his courageous genius above all was the fact that he deposed the caliph without putting
+  himself in his place'. He also calls the 1923 Greek-Turkish population exchange, 'painful though it be', a
+  success — his framing, not the census's.
+node: Emil Ludwig
+sources:
+  - url: https://archive.org/details/mediterraneansag027841mbp
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Ludwig, The Mediterranean (1942), pp. 548-549, archive.org mediterraneansag027841mbp djvu.txt
+  method: >-
+    curl of open djvu text; read with running heads, by the main agent (also present in DLI scan
+    in.ernet.dli.2015.88345)
+  note: Verbatim on p. 548.
+  checked_on: "2026-11-03"

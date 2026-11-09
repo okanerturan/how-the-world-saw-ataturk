@@ -1,0 +1,28 @@
+# Turkish for data/voices/1930/la-gaceta-tampa-1930.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-gaceta-tampa-1930
+voice: La Gaceta (Tampa)
+role: İspanyolca günlük gazete, Tampa, Florida
+quote: Türkiye, Cumhurbaşkanı Mustafa Kemal Paşa dolayısıyla bir “cumhuriyet”tir
+quote_kind: translated
+summary: >-
+  Diktatörlükler üzerine birinci sayfa köşe yazısı: Türkiye yalnızca adıyla bir 'cumhuriyet'; Kemal ömür boyu
+  cumhurbaşkanlığını reddetti ama işine geldiği sürece cumhurbaşkanı kalacağını 'biliyor'.
+caveat: >-
+  İmzasız birinci sayfa köşe yazısı; OCR, Kemal'in reddine ilişkin satırı bozmuştur. Aynı köşenin diktatör
+  listeleri (27 Haziran 1930, 28 Mayıs 1932, 1 Kasım 1935) kayıt değil, ipucudur.
+verification_note: >-
+  küçük sorun: LoC üstverisi La Gaceta'yı haftalık olarak listeliyor, kayıttaki rol alanı 'daily' diyor
+verification_method: >-
+  alıntı OCR'da mevcut ('Turquia es una republica por el presidente Kemal Pacha'); Kemal ömür boyu
+  cumhurbaşkanlığını reddediyor, 'sabe que sera presidente hasta que le convenga'
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1af7128c59ed
+  role: 68e91204af83
+  quote: 8a4aa24517dc
+  summary: 647ae9e58433
+  caveat: b4c265fccf2d
+  verification_note: 07c4d0f5b72a
+  verification_method: cc4dca0ba11b

@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: johnson-1967-04-03
+voice: Lyndon B. Johnson
+voice_type: person
+role: President of the United States; state dinner and welcome for President Sunay
+country: United States
+country_now: United States
+domain: politics
+date: "1967-04-03"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Says Atatürk's 'energy, vision, and wisdom' set Turkey on the 20th-century path; modern Turkey was 'one of
+  the great revolutions of our age'.
+quote:
+  text: >-
+    The remarkable energy, vision, and wisdom of a great leader, Kemal Ataturk, set his people on the path of
+    20th century accomplishment.
+  language: en
+caveat: >-
+  Two speeches on the same day, both stored here. The South Lawn welcome
+  (https://presidency.ucsb.edu/documents/remarks-welcome-the-white-house-president-sunay-turkey) adds: 'the
+  emergence of modern Turkey, under the guiding genius of Kemal Ataturk, was one of the great revolutions of
+  our age. It remains an inspiration to all who have since won their independence'. Diplomatic occasion, with
+  a visiting head of state.
+node: American, French and Russian Leaders on Atatürk in Their Own Words
+sources:
+  - url: https://presidency.ucsb.edu/documents/toasts-the-president-and-president-sunay-turkey
+    archived: https://web.archive.org/web/20250806094855/https://www.presidency.ucsb.edu/documents/toasts-the-president-and-president-sunay-turkey
+  - url: https://presidency.ucsb.edu/documents/remarks-welcome-the-white-house-president-sunay-turkey
+    archived: https://web.archive.org/web/20251112153807/https://www.presidency.ucsb.edu/documents/remarks-welcome-the-white-house-president-sunay-turkey
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://presidency.ucsb.edu/documents/toasts-the-president-and-president-sunay-turkey (April 03, 1967);
+    remarks-welcome-the-white-house-president-sunay-turkey (April 03, 1967)
+  method: fetch + curl of UCSB pages
+  note: >-
+    Verbatim in the dinner toast; 'guiding genius of Kemal Ataturk, was one of the great revolutions of our
+    age' verbatim in the South Lawn welcome. Admiring/2 fair.
+  checked_on: "2026-11-03"

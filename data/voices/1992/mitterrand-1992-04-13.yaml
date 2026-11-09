@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mitterrand-1992-04-13
+voice: François Mitterrand
+voice_type: person
+role: President of France; state dinner at Çankaya Palace
+country: France
+country_now: France
+domain: politics
+date: "1992-04-13"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Places Turkey in the European sphere and names Atatürk the most valiant protagonist of its long effort to
+  rejoin progress.
+quote:
+  text: >-
+    Turkey's effort to put itself back in the current of progress, begun in the late eighteenth century, and
+    of which Ataturk was, at the start of ours, the most valiant protagonist
+  is_translation: true
+  language: en
+caveat: >-
+  QUOTE IS A TRANSLATION (by the census). French original, vie-publique.fr: "l'effort de la Turquie pour se
+  replacer dans le courant du progrès, qui débuta dès la fin du dix-huitième siècle, et dont Ataturk fut, au
+  début du nôtre, le plus valeureux protagoniste, s'est poursuivi sans relâche." Said to argue that Turkey
+  'relève de l'espace européen', at a time of strained relations with Europe.
+node: American, French and Russian Leaders on Atatürk in Their Own Words
+sources:
+  - url: https://www.vie-publique.fr/discours/127311-francois-mitterrand-13041992-sur-turquie-europe-relation-bilterale
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.vie-publique.fr/discours/127311-francois-mitterrand-13041992-sur-turquie-europe-relation-bilterale
+    ('Prononce le 13 avril 1992', state dinner, Cankaya)
+  method: fetch
+  note: >-
+    French original matches the record verbatim ('l'effort de la Turquie pour se replacer dans le courant du
+    progres, qui debuta des la fin du dix-huitieme siecle, et dont Ataturk fut, au debut du notre, le plus
+    valeureux protagoniste'). Translation faithful and marked as translation; it elides 'des' (from the late
+    18th c.) acceptably. Context 'la Turquie releve de l'espace europeen' correct. Instrumental/1 fair.
+  checked_on: "2026-11-03"

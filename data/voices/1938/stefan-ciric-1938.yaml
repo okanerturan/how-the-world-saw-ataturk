@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: stefan-ciric-1938
+voice: Stefan Ćirić (President of the Yugoslav Chamber of Deputies)
+voice_type: person
+role: President of the Chamber of Deputies, Yugoslavia
+country: Yugoslavia
+country_now: Serbia
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: telegram
+evidence: P
+summary: >-
+  Mourned one of the greatest men of world history and of statesmen, regenerator and creator, and a great
+  friend who worked with King Alexander.
+quote:
+  text: >-
+    un des plus grands hommes histoire mondiale, non seulement un des plus grands hommes de etat régénérateur
+    et créateur
+  language: fr
+caveat: >-
+  TBMM vol. 2 (c2) PDF p. 12. Quote in French (telegraphese; articles dropped); translation: 'one of the
+  greatest men of world history ... one of the greatest statesmen, regenerator and creator'. Signed 'stefan
+  ciric'.
+node: Heads of State Write to the Assembly, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Taziyetname 1938, c2.pdf p. 12 (right-hand telegram signature; main text on the left-hand sheet,
+    Beograd)
+  method: >-
+    Own render of the PDF page (PDFKit PNG, read by eye); no OCR relied on; telegraph text is unaccented
+    capitals/lowercase typescript
+  note: >-
+    Text across two sheets: 'non seulement un des plus grands hommes histoire mondiale non seulement un des
+    plus grands hommes de etat regenerateur et createur mais en plus grand ami qui collabora fidelement avec
+    roi martyr alexandre l unificateur'; signed 'stefan ciric president de la chambre des deputes yougoslave'.
+    Record quote starts after the first 'non seulement' and is faithful; articles missing in source as in the
+    record; accents restored.
+  checked_on: "2026-11-01"

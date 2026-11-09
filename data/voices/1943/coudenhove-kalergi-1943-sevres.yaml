@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: coudenhove-kalergi-1943-sevres
+voice: Richard Coudenhove-Kalergi
+voice_type: person
+role: Founder of the Pan-Europe movement
+country: Austria (exile in the United States)
+country_now: Austria
+domain: politics
+date: "1943"
+era: posthumous
+polarity: conflicted
+intensity: 2
+mirror: nation-forge-template
+artifact: book
+evidence: P
+summary: >-
+  Reads Kemal's refusal of Sèvres as the first great counter-revolution against the Paris treaties, proof that
+  a heroic mind beat diplomacy, and a revisionist's template.
+quote:
+  text: military power and a heroic mind had proved to be stronger than all diplomatic action.
+  language: en
+caveat: >-
+  Crusade for Pan-Europe (Putnam, 1943), ch. VIII 'Dismembered Europe', pp. 67-68 (page header 66 precedes and
+  70 follows in the DLI scan). Same page: 'this victory of Kemal inspired the nationalists in Germany,
+  Hungary, and Bulgaria with new hope ... it would be enforced sooner or later a la Kemal.' The tone is a
+  European federalist's lament that Kemal's success made revisionism fashionable; it is written in 1943,
+  looking back at the 1920s.
+node: Famous Pens on Atatürk — Gunther, Dewey, Nicolson, Coudenhove-Kalergi, West
+sources:
+  - url: https://archive.org/details/dli.ernet.155751
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org/download/dli.ernet.155751 (same book; index entry 68; page headers 66 and 70 bracket Ch. VIII
+    passage)
+  method: curl djvu text
+  note: >-
+    Quote verbatim ('military power and a heroic mind had proved to be stronger than all diplomatic action')
+    plus 'this victory of Kemal inspired the nationalists in Germany, Hungary, and Bulgaria' and 'enforced ...
+    a la Kemal'. Index puts the Ataturk mention on p.68 (record says pp.67-68; fine, cite p.68). Conflicted/2
+    is a fair reading.
+  checked_on: "2026-11-03"

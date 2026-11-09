@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jacques-kayser-1922
+voice: Jacques Kayser
+voice_type: person
+role: French radical journalist
+country: France
+country_now: France
+domain: press
+date: "1922"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Presented Kemal as a pragmatist made by the Treaty of Sèvres, who took Soviet help but kept Moscow's
+  propagandists out; no reproach due.
+quote:
+  text: aurait tort de reprocher à Mustapha Kemal son attitude en cette occasion
+  language: fr
+caveat: >-
+  Gallica ContentSearch fragments only (views 68, 80, 105, 106); stance inferred from the few evaluative
+  passages. Author birth year from Gallica authority record.
+node: Jacques Kayser
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k3403660t
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: >-
+    gallica.bnf.fr/ark:/12148/bpt6k3403660t ContentSearch PAG_106 (reprocher), PAG_105 (propagandistes de
+    Moscou), PAG_64/82 (Sèvres)
+  method: fetch
+  note: Quote verbatim; 'no reproach due' read from a fragment; stance inferred as caveat says
+  checked_on: "2026-10-29"

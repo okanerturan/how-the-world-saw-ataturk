@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lebrun-1938
+voice: Albert Lebrun
+voice_type: person
+role: President of the French Republic
+country: France
+country_now: France
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: telegram
+evidence: P
+summary: >-
+  Praised an ardent patriot and great statesman who devoted his life to his homeland's resurrection, by sound
+  and peaceful methods.
+quote:
+  text: >-
+    l'ardent patriote et le grand homme d'état qui avait consacré sa vie à la glorieuse résurrection de sa
+    patrie
+  language: fr
+caveat: >-
+  TBMM vol. 2 (c2) PDF p. 49. Quote in French; translation: 'the ardent patriot and great statesman who had
+  devoted his life to the glorious resurrection of his homeland'. Also says his work was 'réalisée par de
+  saines et pacifiques méthodes'.
+node: Heads of State Write to the Assembly, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Taziyetname 1938, c2.pdf p. 49
+  method: >-
+    Own render of the PDF page (PDFKit PNG, read by eye); no OCR relied on; telegraph text is unaccented
+    capitals/lowercase typescript
+  note: >-
+    Telegram from Paris via radio, signed 'albert lebrun': "l ardent patriote et le grand homme d etat qui
+    avait consacre sa vie a la glorieuse resurrection de sa patrie"; also 'saines et pacifiques methodes'.
+    Record quote differs only by restored apostrophes and accents (telegram has none). Date not legible on the
+    sheet; '1938-11' rests on the Ankara receipt stamp (1938) and the collection.
+  checked_on: "2026-11-01"

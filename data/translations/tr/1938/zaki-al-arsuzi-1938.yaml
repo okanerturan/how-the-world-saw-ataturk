@@ -1,0 +1,37 @@
+# Turkish for data/voices/1938/zaki-al-arsuzi-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zaki-al-arsuzi-1938
+voice: Zaki al-Arsuzi
+role: Arap milliyetçisi düşünür; Ulusal Eylem Birliği'nin Antakya temsilcisi
+quote: >-
+  Ondan önce de bir Araptım; bir Arap ailesinin içine doğduğumu hissediyordum; zevk ve yaşam biçimi bakımından
+  komşularım olan Türklerden farklı olduğumu hissediyordum.
+quote_kind: translated
+summary: >-
+  Fransız yönetimine ve Türk denetimine karşı Sancak üzerindeki Arap hak iddiasına önderlik etti; Tezak onu
+  Türkiye'nin en sert muhaliflerinden biri olarak nitelendirir; bildirildiğine göre Haziran 1938 itibarıyla
+  Antakya cezaevinde tutuluyordu (serbest bırakılması için yapılan bir Alevi kadınlar protestosundan
+  çıkarılmaktadır).
+caveat: >-
+  Arsuzi'nin Atatürk hakkında bir cümlesi bulunamamıştır; alıntı Türkler ve Arap kimliğiyle ilgilidir ve
+  Atatürk'e karşı 'hostile' tutum bir çıkarımdır. 'Jailed by June 1938' bilgisi protestodan çıkarılmıştır.
+  Geriye dönük yazılar (1940'lar-70'ler); Tezak bir lisans tezidir, Watenpaugh yalnızca özet olarak
+  okunmuştur.
+mediated_by: Tezak tezi <- Watenpaugh 1996 <- Arsuzi, Complete Works c. 3 (1975)
+verification_note: >-
+  Alıntı birebir bulunmuştur ancak Atatürk'le değil Türkler/Arap kimliğiyle ilgilidir; Arsuzi'nin Atatürk
+  hakkında bir beyanı yoktur, dolayısıyla Atatürk'e karşı düşmanca bakış bir çıkarımdır. Tez, 1938 civarında
+  Antakya cezaevinde tutuklama/protestoyu (serbest bırakma kampanyası) göstermektedir; 'jailed by June 1938'
+  doğrulanmamıştır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cbc39e155a77
+  role: ae9177b62bde
+  quote: b95c3ba5a57e
+  summary: c4bf1a461e72
+  caveat: 0f308337e816
+  mediated_by: 4d5210118a94
+  verification_note: d3712c63ab83
+  verification_method: ad8cee67138e

@@ -1,0 +1,38 @@
+# Turkish for data/voices/1934/sirovich-1934-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sirovich-1934-04
+voice: William I. Sirovich
+role: ABD New York Temsilciler Meclisi Üyesi (Demokrat)
+quote: >-
+  Türkiye'nin diktatörü Mustafa Kemal Paşa. Ne büyük etki uyandıran bir isim. … liberalizm ve ilerlemecilik
+  ilkelerine adanmış, yeni ideallere sahip yeni bir ulus
+quote_kind: translated
+summary: >-
+  Mustafa Kemal Paşa'yı 'Türkiye'nin diktatörü' olarak nitelendirir, ancak reformlarının 'liberalizm ve
+  ilerlemecilik ilkelerine adanmış' yeni bir ulus yarattığını teslim eder.
+caveat: >-
+  Kendi sözleri; New Deal'ın bunlardan hiçbiri olmadığını savunmak için kullanılan bir diktatörler
+  değerlendirmesindeki (Mussolini, Hitler, Dollfuss, Stalin, Kemal) tek bir pasaj: Kemal, reformları yine de
+  işe yaramış bir diktatör olarak sınıflandırılır ('Turkey is growing and developing under the benign
+  influence of occidental civilization'). Paragraf, tirelemeleri bozulmuş iki sütunlu OCR'da yer aldığından
+  alıntı bitişik satırlardan yeniden oluşturulmuştur. Sirovich bir hekim ve oyun yazarıydı ve Temsilciler
+  Meclisi Patent Komitesi'ne başkanlık ediyordu. Kaynak: Temsilciler Meclisi, 24 Nisan 1934, bir saatlik özel
+  gündem konuşması 'The Administration of President Roosevelt', Congressional Record c. 78 (ciltli), s.
+  ~7233-7234 (granül CRECB-1934-pt7-v78-6-2).
+verification_note: >-
+  Birebir; iki sütunlu OCR'ın yeniden birleştirilmesi gerekiyor ancak iki parça s. 7233'te tek bir
+  paragraftadır. Sirovich özel gündem konuşmacısıdır ('gentleman from New York [Mr. SIROVICH]'). 'dictator...
+  What a name to conjure with' ile 'liberalism introduced by Kemal Pasha under the strict reign of a dictator'
+  kendi değerlendirmesidir, dolayısıyla ikircikli 2 uygundur. Odak zayıf ile geçer arasında (diktatörler
+  değerlendirmesinde tek bir paragraf); tutulsun, işaretlendi.
+verification_method: govinfo ciltli baskı granülünün pdftotext -layout çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 380848c64605
+  role: d30d345b7f14
+  quote: b4aedd53079b
+  summary: ff02b774dd2d
+  caveat: e88d0ea73423
+  verification_note: c15f9e9fb079
+  verification_method: bcff62915140

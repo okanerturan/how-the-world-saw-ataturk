@@ -1,0 +1,29 @@
+# Turkish for data/voices/1923/riza-nur-hh-1923.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: riza-nur-hh-1923
+voice: Rıza Nur
+role: Lozan delegesi; sonradan sürgünde anı yazarı
+quote: >-
+  Mustafa Kemal zalimini de bütün kayıtlardan azade keyfemâyeşâ, asar, keser, kırar, döker bir zalim yapmış
+  olduk.
+quote_kind: original-turkish
+summary: >-
+  Anılarında, Lozan'da kapitülasyonlar konusundaki çalışmalarının, zalim olarak adlandırdığı Kemal'i her türlü
+  sınırlamadan kurtulmuş halde bıraktığından yakınır.
+caveat: >-
+  Kaynak: Hayat ve Hatıratım, c. 3 (Altındağ, 1967), s. 1224. Geriye dönük, sürgünde yazılmıştır; kendi
+  yargısıdır, bağımsız olarak doğrulanmamıştır.
+verification_note: >-
+  Birebir (yalnızca OCR kaynaklı 'azâde','zalinı' bozulması var); s. 1224 doğrulandı; pasaj Lozan
+  kapitülasyonları yakınmasıdır. Yalnızca Lozan bağlamına dayanılarak 1923'e tarihlendirilmiştir.
+verification_method: djvu OCR metni, satır düzeyinde eşleşme; sayfa numarası 1224/1227 üstbilgilerinden
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: eaee1832b3bb
+  role: 1d82df3b6035
+  quote: 8d2903e6c9da
+  summary: 896ba8dd42e7
+  caveat: 7c9f50dc9fd3
+  verification_note: 07dad68bd0e2
+  verification_method: ce45b25c9667

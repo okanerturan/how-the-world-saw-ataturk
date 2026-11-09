@@ -1,0 +1,27 @@
+# Turkish for data/voices/1930/la-gaceta-tampa-1930-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-gaceta-tampa-1930-11
+voice: La Gaceta (Tampa)
+role: İspanyolca günlük gazete, Tampa, Florida (puro işçisi okur kitlesi)
+quote: Diktatörlük için yasalar, ister iyi ister kötü olsun, yoktur.
+quote_kind: translated
+summary: >-
+  İşçi hakları üzerine köşe yazısı: diktatörlük altında yasa yöneticinin kendisidir; İtalya, Polonya ve
+  Rusya'da olduğu gibi Türkiye'de de 'Sr. Kemal Pasha'dır.
+caveat: >-
+  İmzasız köşe yazısı; alıntılanan cümle genel ilkedir, Mustafa Kemal Paşa cümleciği iki cümle sonra gelir.
+verification_note: >-
+  Birebir aynı. Sonraki cümleler Mussolini, Piłsudski, 'el Sr. Kemal Pasha' ve Stalin'i sıralıyor; hasmane
+  kutupluluk diktatör listesinden çıkarılmıştır; çekince notunda belirtildiği gibi alıntının kendisi genel
+  ilkedir.
+verification_method: tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1af7128c59ed
+  role: ec3228434984
+  quote: 2c58b37d9770
+  summary: 2a26d0c5a1dd
+  caveat: bcfaf7f37dab
+  verification_note: d8aa5f201d31
+  verification_method: 0e07f3903a84

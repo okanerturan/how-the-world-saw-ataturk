@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: faisal-bin-abdulaziz-1938
+voice: Prince Faisal bin Abdulaziz
+voice_type: person
+role: Saudi foreign minister, later King Faisal
+country: Saudi Arabia
+country_now: Saudi Arabia
+domain: diplomacy
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: S+J
+summary: Cabled Ankara that the Saudis learned of Atatürk's death with great regret.
+quote:
+  text: a great loss
+  language: en
+node: Prince Faisal in Ankara, June 1932
+sources:
+  - url: https://mei.edu/wp-content/uploads/2020/02/Aspiring-Powers-Regional-Rivals_Feb.11-2020.pdf
+    archived: https://web.archive.org/web/20261009155554/https://mei.edu/wp-content/uploads/2020/02/Aspiring-Powers-Regional-Rivals_Feb.11-2020.pdf
+  - url: https://gulfif.org/the-emergence-of-saudi-turkish-relations-ataturk-and-ibn-sauds-pragmatism/
+    archived: https://web.archive.org/web/20251215143355/https://gulfif.org/the-emergence-of-saudi-turkish-relations-ataturk-and-ibn-sauds-pragmatism/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://gulfif.org/the-emergence-of-saudi-turkish-relations-ataturk-and-ibn-sauds-pragmatism/
+  method: fetch
+  note: >-
+    Telegram text: 'It is with great regret that we learned of the death... It is a great loss.' Faisal
+    described as Foreign Minister
+  checked_on: "2026-10-29"

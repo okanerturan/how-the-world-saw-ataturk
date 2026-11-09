@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: xelil-rza-uluturk-2003
+voice: Xəlil Rza Ulutürk
+voice_type: person
+role: Azerbaijani poet
+country: Azerbaijan
+country_now: Azerbaijan
+domain: letters
+date: "2003"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: poem
+evidence: S
+summary: >-
+  In 'Dədə Heydər – Atatürk' fused the Azerbaijani president Heydər Əliyev with the Turkish founder.
+node: Azerbaijani Poetry of Atatürk
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/3737657
+    archived: https://web.archive.org/web/20250625234243/https://dergipark.org.tr/en/download/article-file/3737657
+verification:
+  verdict: confirmed
+  checked_against: https://dergipark.org.tr/en/download/article-file/3737657
+  method: fetch
+  note: >-
+    Poem 'Dede Haydar-Atatürk', Azerbaycan gazeti 17 Dec 2003, links Heydar Aliyev with Ataturk as liberator
+  checked_on: "2026-10-29"

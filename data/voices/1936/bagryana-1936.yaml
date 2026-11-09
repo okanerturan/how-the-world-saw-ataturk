@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bagryana-1936
+voice: Elisaveta Bagryana
+voice_type: person
+role: Bulgarian poet
+country: Bulgaria
+country_now: Bulgaria
+domain: letters
+date: "1936"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: poem
+evidence: P
+summary: >-
+  Dedicates 'New Atlantis' to Kemal Atatürk: Ankara reborn from the desert, legend turned into life forged
+  with hammer and sledge.
+quote:
+  text: Легендата става живот (да живее животът!), живот, изкован с млат и чук!
+  language: bg
+caveat: >-
+  TRANSLATION (this record's): 'The legend becomes life (long live life!), life forged with hammer and
+  sledge!' Poem 'Nova Atlantida', dedication 'На Кемал Ататюрк'. DATE NOT ESTABLISHED: the only dated printing
+  found is Amazonka. Izbrana lirika v dva toma (Balgarski pisatel, Sofia, 1973), as given by chitanka.info;
+  the surname Atatürk (adopted 1934) and the present tense ('two piercing eyes do not sleep') suggest
+  composition 1934-1938, but that is inference only (tier M). If an earlier printing is found, re-date to the
+  contemporary era. Turkish translation by Hüseyin Mevsim in 'Dünya Şairlerinden Atatürk Şiirleri' (no. 37).
+  Dated at check: the poem is in Сърце човешко (1932, 1936 editions; bagryana.litclub.bg); 1973 is only the
+  selected-poems edition read.
+node: Poets, Reformers and the Black Press on Atatürk, 1921–1935
+sources:
+  - url: https://litclub.bg/library/bg/bagryana/140.htm
+    archived: https://web.archive.org/web/20260510050645/https://litclub.bg/library/bg/bagryana/140.htm
+  - url: https://chitanka.info/text/11753-nova-atlantida
+    archived: https://web.archive.org/web/20241228092156/https://chitanka.info/text/11753-nova-atlantida
+  - url: https://dunyadaataturk.com/dunya-sairlerinden-ataturk-siirleri
+    archived: https://web.archive.org/web/20260215142326/https://www.dunyadaataturk.com/dunya-sairlerinden-ataturk-siirleri/
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    chitanka.info/text/11753-nova-atlantida; litclub.bg/library/bg/bagryana/140.htm; bagryana.litclub.bg
+    contents page
+  method: free fetch
+  note: >-
+    Quote verbatim, dedication 'На Кемал Ататюрк' present. DATE AND ERA WRONG: 1973 is only the Balgarski
+    pisatel selected-poems edition that chitanka cites for its transcription (chitanka's own year field is
+    '????'). The poem 'Нова Атлантида' belongs to the volume 'Сърце човешко' (1932, 1936) together with
+    'Слънце над Босфора' and 'Експрес в пустинята' (bagryana.litclub.bg). Correction: date '1936', era
+    'contemporary', id 'bagryana-1936' (it uses 'Atatürk', so after 1934; composition 1934-36, publication in
+    the 1936 volume). The record's own caveat said to re-date if an earlier printing were found.
+    Polarity/intensity fine.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

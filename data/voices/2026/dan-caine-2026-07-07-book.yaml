@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dan-caine-2026-07-07-book
+voice: Dan Caine
+voice_type: person
+role: Chairman of the US Joint Chiefs of Staff; entry in the Anıtkabir special book
+country: United States
+country_now: United States
+domain: military
+date: "2026-07-07"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Writes for the delegation of his deep respect and admiration for Atatürk, the great and distinguished leader
+  of the Republic.
+quote:
+  text: >-
+    Out of deep respect and admiration for the great and distinguished leader of the Republic of Türkiye,
+    Mustafa Kemal Atatürk
+  language: en
+mediated_by: >-
+  Dünya, Habertürk (AA), Gazete Gerçek and Haberler, July 2026 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of an entry written in English. Written 'on behalf of the delegation' during the 36th NATO
+  Heads of State and Government Summit in Ankara. Dünya, Habertürk (credited AA), Gazete Gerçek and Haberler
+  (23 Jul 2026 repost) print the same text, one AA wire. The wording resembles Tillerson's 2017 entry ('büyük
+  ve seçkin lideri', 'derin saygı ve hayranlık', 'bir temsilcisi'), probably a protocol template drafted by
+  the embassy. Chairman of the US Joint Chiefs of Staff. English from en.haberler.com (snippet). Near-copy of
+  the Tillerson 2017 template, so not an independent gaze.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.dunya.com/gundem/abd-genelkurmay-baskani-dan-caine-anitkabiri-ziyaret-etti-haberi-831301
+    archived: https://web.archive.org/web/20260709233345/https://www.dunya.com/gundem/abd-genelkurmay-baskani-dan-caine-anitkabiri-ziyaret-etti-haberi-831301
+  - url: https://www.haberturk.com/dunya/abd-genelkurmay-baskani-dan-caine-anitkabir-i-ziyaret-etti-3896794
+    archived: https://web.archive.org/web/20260710011837/https://www.haberturk.com/dunya/abd-genelkurmay-baskani-dan-caine-anitkabir-i-ziyaret-etti-3896794
+  - url: https://www.gazetegercek.com.tr/abd-genelkurmay-baskani-dan-caine-anitkabir-ozel-defterine-ne-yazdi/230082
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Dünya 7 Jul 2026 11:38; Habertürk (Anadolu Ajansı) 7 Jul 2026 12:06; Gazete Gerçek (AA) 7 Jul 2026 12:14;
+    en.haberler.com English (search snippet)
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used; English via
+    free DuckDuckGo snippet
+  note: >-
+    Quote verbatim in all three, 'heyet adına' as stated, during the 36th NATO Summit in Ankara; same AA text,
+    one source; date 7 Jul 2026 correct (the 'Haberler 23 Jul repost' was not checked). Dan Caine is the
+    Chairman of the US Joint Chiefs of Staff (Air Force general). ENGLISH FOUND (en.haberler.com): 'Out of
+    deep respect and admiration for the great and distinguished leader of the Republic of Türkiye, Mustafa
+    Kemal Atatürk, as a representative of the American people, I am deeply honored and proud to extend my
+    respects to the Turkish Nation and this great leader.' This is a near-copy of the Tillerson 2017 English
+    (same opening, same 'great and distinguished leader', same 'representative of the American people',
+    'pay'->'extend'): a US Embassy template, and Kerry 2013 shares its second half. Count Tillerson/Caine as
+    one formula, not two independent gazes; intensity 1-2, not above 2.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

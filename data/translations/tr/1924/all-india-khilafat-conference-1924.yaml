@@ -1,0 +1,18 @@
+# Turkish for data/voices/1924/all-india-khilafat-conference-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: all-india-khilafat-conference-1924
+voice: Tüm Hindistan Hilafet Konferansı
+role: Hint Hilafet hareketi organı
+summary: >-
+  Mart 1924'ten sonra yanlış anlamaları gidermek üzere Ankara'ya bir heyet göndermeye karar verdi; Hindistan
+  Hükümeti pasaport vermeyi reddetti.
+mediated_by: Zaman (Brill böl.) ← Sadiq 1983
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c7ac4debae5d
+  role: 9347af9ed802
+  summary: e29220c5ef74
+  mediated_by: 83327d6c7219
+  verification_method: ad8cee67138e

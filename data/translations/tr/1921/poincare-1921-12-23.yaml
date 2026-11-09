@@ -1,0 +1,33 @@
+# Turkish for data/voices/1921/poincare-1921-12-23.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: poincare-1921-12-23
+voice: Raymond Poincaré
+role: Fransız senatör ve eski Cumhurbaşkanı (Ocak 1922'den itibaren Başbakan)
+summary: >-
+  Mustafa Kemal'den, ilk meyvesi Ankara İtilafnamesi olan Türkiye davasının savunulmasındaki büyük payı için
+  kendisine teşekkür eden bir mektup aldı.
+caveat: >-
+  Temas kaydı: Metin Kemal'in Poincaré'ye yazdığı mektuptur; dolayısıyla Poincaré'nin Türk davasını savunduğu
+  iddiası Kemal'in nitelendirmesidir; Poincaré'den herhangi bir yanıt bulunamamıştır. Aynı gün Kemal, Berthe
+  Georges-Gaulis aracılığıyla Mareşal Lyautey'e de yazmıştır.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri c. 12 (Kaynak 2005) s. 158 ← Şimşir, Atatürk ile Yazışmalar I (1981) s. 162–163 ←
+  Bibliothèque nationale de France (Fransızca aslı)
+verification_note: >-
+  Mektup belirtildiği gibi s. 158'dedir. Metin, Türk davasının savunulmasındaki 'büyük pay'ı için kendisine
+  teşekkür etmekte ve Ankara İtilafnamesi'ni bunun ilk meyvesi olarak nitelendirmekte; ayrıca İzmir ve Trakya
+  konusunda onun otoritesine başvurmaktadır. Mektup BnF'de (alıcı tarafında) muhafaza edilmektedir,
+  dolayısıyla ulaştığı makuldür. Poincaré'nin kendi görüşü yer almamaktadır; dürüst kutupluluk tanıklıktır ve
+  çekince notunda bu belirtilmektedir. Temas kuralı: Önemli bir şahsiyettir (eski Cumhurbaşkanı, Ocak 1922'den
+  itibaren Başbakan) ve mektup basmakalıp bir selamlama değil, özlü bir mektuptur. Sınırda geçer.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4c0f1bec7410
+  role: 16e5940b175a
+  summary: f30d864109b2
+  caveat: 20cd43b45364
+  mediated_by: 8d484bb8682d
+  verification_note: 208805926be7
+  verification_method: b152e9063489

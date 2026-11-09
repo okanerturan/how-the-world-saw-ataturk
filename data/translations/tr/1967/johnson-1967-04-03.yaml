@@ -1,0 +1,34 @@
+# Turkish for data/voices/1967/johnson-1967-04-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: johnson-1967-04-03
+voice: Lyndon B. Johnson
+role: >-
+  Amerika Birleşik Devletleri Başkanı; Cumhurbaşkanı Sunay için verilen resmî akşam yemeği ve karşılama töreni
+quote: >-
+  Büyük bir lider olan Kemal Atatürk'ün olağanüstü enerjisi, vizyonu ve bilgeliği, halkını 20. yüzyıl
+  başarılarının yoluna çıkardı.
+quote_kind: translated
+summary: >-
+  Atatürk'ün 'enerjisi, vizyonu ve bilgeliğinin' Türkiye'yi 20. yüzyıl yoluna çıkardığını; modern Türkiye'nin
+  'çağımızın büyük devrimlerinden biri' olduğunu söyler.
+caveat: >-
+  Aynı gün yapılan iki konuşmanın ikisi de burada kayıtlıdır. South Lawn karşılama konuşması
+  (https://presidency.ucsb.edu/documents/remarks-welcome-the-white-house-president-sunay-turkey) şunu ekler:
+  'the emergence of modern Turkey, under the guiding genius of Kemal Ataturk, was one of the great revolutions
+  of our age. It remains an inspiration to all who have since won their independence'. Ziyarette bulunan bir
+  devlet başkanıyla gerçekleşen diplomatik bir vesiledir.
+verification_note: >-
+  Akşam yemeğindeki kadeh kaldırma konuşmasında birebir aynı; 'guiding genius of Kemal Ataturk, was one of the
+  great revolutions of our age' ifadesi de South Lawn karşılama konuşmasında birebir yer alıyor. Hayran/2
+  değerlendirmesi yerinde.
+verification_method: UCSB sayfalarının fetch + curl ile çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 36f119b4dd28
+  role: f4fc1c93efe3
+  quote: 467d6a9f6912
+  summary: 3a7796c3784a
+  caveat: cf72561a7c24
+  verification_note: 018e730be116
+  verification_method: 4a6b19422edd

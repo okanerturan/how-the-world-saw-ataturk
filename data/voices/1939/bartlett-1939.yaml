@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bartlett-1939
+voice: Vernon Bartlett MP
+voice_type: person
+role: Member of the Commons
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1939-03-02"
+era: posthumous
+polarity: witness
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Remembered as a dictator who once made a speech lasting four days, in a joke about Hitler's length.
+quote:
+  text: there was once a dictator, Kemal Ataturk, who made a speech lasting four days
+  language: en
+node: Hansard After Atatürk, 1938–1939
+sources:
+  - url: https://hansard.parliament.uk/Commons/1939-03-02/debates/08a9f896-7e5d-400f-b583-84ebee007954/PrivySealOffice
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API 2 Mar 1939, Vernon Bartlett
+  method: fetch
+  checked_on: "2026-10-29"

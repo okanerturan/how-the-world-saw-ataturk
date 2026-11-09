@@ -1,0 +1,43 @@
+# Turkish for data/voices/2004/cox-2004.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cox-2004
+voice: Pat Cox
+role: Avrupa Parlamentosu Başkanı
+quote: Burada, Müslüman bir ülke olarak bir denge kurdunuz, Atatürk’ün mirasını taşıyorsunuz.
+quote_kind: original-turkish
+summary: >-
+  Meclis'e, bir denge kurmuş Müslüman bir ülke olan Türkiye'nin Atatürk'ün laik ve demokratik cumhuriyet
+  mirasını taşıdığını söyler.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 210 (basılı s. 199). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe olarak basılmıştır. Çevirisi: "Here, as a Muslim country, you have struck a balance; you
+  carry Atatürk's legacy." Türkiye'nin AB üyeliğine yönelik 'Hristiyan kulübü' ('Christian club') itirazına
+  yanıt vermektedir. Başlık: 'Avrupa Parlamentosu Başkanı Pat Cox', 2 Mart 2004. İngilizce özgün metinde
+  (Avrupa Parlamentosu basın bülteni sp0081, kontrol eden tarafından okundu; URL yeniden doğrulanmadı) şöyle
+  denmektedir: 'you have found a special balance here - the legacy of the vision of Atatürk'.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Avrupa Parlamentosu Başkanı Pat Cox,
+  61. Birleşim, 2 Mart 2004' (başlık PDF s. 206'da)). Başlık PDF s. 206'da; alıntı belirtildiği gibi s. 210'da
+  yer alıyor. ÖZGÜN METİN: 'Yours is a secular democracy and republic, but a predominantly Muslim society, and
+  you have found a special balance here - the legacy of the vision of Atatürk.' Ayrıca: 'Yours is a Turkey
+  preparing for the 21st Century, based on the powerful vision and legacy which Atatürk left to all Turks in
+  the 20th Century' ve kapanışta: 'When you reform and modernise your republic you are the legatees, the
+  inheritors, of the mantle of Atatürk.'
+  (europarl.europa.eu/former_ep_presidents/president-cox/speeches/en/sp0081.htm, Ankara, 2 Mart 2004).
+  Tutanaklarla tutarlı; özgün metin biraz daha zengin ve kapanış cümlesi daha güçlü bir alıntı.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracımızla PNG'ye dönüştürülüp (check_png/c210.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı görüntü üzerinde ve kendi bağımsız metin katmanı
+  çıkarımımızla kelimesi kelimesine karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 06cf6ac37c5b
+  role: fb56bd3298ae
+  quote: 72eaa2cb3d63
+  summary: ea7c8ba356f5
+  caveat: 2e156d67c93e
+  mediated_by: 8e2cc528453b
+  verification_note: 65815e3397a3
+  verification_method: 8fcc9bf6fdf4

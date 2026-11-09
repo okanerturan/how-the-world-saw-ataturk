@@ -1,0 +1,41 @@
+# Turkish for data/voices/1923/rusafi-1923.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rusafi-1923
+voice: Ma'ruf al-Rusafi
+role: Iraklı şair, öğretmen ve milletvekili
+quote: Yunan oğullarına karşı, Batı'yı kargaşa ve karışıklık içinde bırakan bir zafer kazandın.
+quote_kind: translated
+summary: >-
+  Kemal'e, Yunanlılara karşı kazandığı zaferle Batı'yı kargaşaya sürükleyen ve yeni bir Doğu güneşi yakan
+  'Büyük Doğu'nun kahramanı' diye seslenir.
+caveat: >-
+  ÇEVİRİ (bu kayda ait): 'You defeated the sons of Yunan with a victory that left the West in tumult and
+  confusion.' Açılış beytinde 'Mustafa' ve 'Kemal' kelimeleriyle söz oyunu yapılan 'Ila batal al-sharq
+  al-akbar' ('To the hero of the greater East', 'Büyük Doğu'nun Kahramanına') kasidesi; Diwan al-Rusafi (4.
+  basım, Cairo: I'timad, 1953), s. 440'ta basılmıştır ve Mustafa Saka baskısında 'said after Gazi Mustafa
+  Kemal's victory over the Greeks in 1923' başlığını taşır (Al-Chalaby, dipnot 10). Al-Chalaby, 1923 tarihinin
+  1922 yerine olası bir dizgi hatası olduğunu değerlendirir (ya da şiir Lozan veya Cumhuriyet sonrasına
+  aittir). Arapça metin Al-Chalaby 2019, RumeliDE Dil ve Edebiyat Araştırmaları Dergisi, Ö5, s. 176-186'da ve
+  'Dünya Şairlerinden Atatürk Şiirleri' derlemesinde (sayı 46) basıldığı şekliyledir. Kaside ayrıca Kemal'i
+  ulusun İsa benzeri bir şifacısı olarak nitelendirir ve İzmir'in kızlarını 'the hands of every lout' elinden
+  kurtardığını söyler; Al-Chalaby bu zaferleri 'many Arab poets ignored' diye ekler. Rusafi'nin Türkçe
+  eserleriyle karıştırılmamalıdır; şiir klasik Arapçadır.
+verification_note: >-
+  Arapça 'نصرت على بني يونان نصرا / أقام الغرب في هرج ومرج' mısraları tek bir beytin ardışık iki yarısıdır ve
+  bu şekilde basılmıştır; makalenin 10 numaralı dipnotu şiir için 'Mustafa Saka, a.g.e. s.440' kaynağını
+  gösterir; 'said in 1923 after Gazi Mustafa Kemal's victory over the Greeks' şeklindeki başlık notu
+  al-Chalaby'nin kuşkusuyla (1922 veya Lozan sonrası) birlikte aktarılmıştır. İsa-şifacı ve İzmirli kızlar
+  dizeleri mevcuttur. Hayranlık/2 değerlendirmesi yerinde. Diwan sayfası yalnızca al-Chalaby'nin dipnotu
+  üzerinden doğrulanmıştır.
+verification_method: >-
+  yeni DergiPark PDF indirmesi (arşivlenmiş round17 dosyası kullanılmadı); Diwan'ın kendisi görülmedi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: "153332956137"
+  role: 18d91c67ba2c
+  quote: c291b5dd22d0
+  summary: 17c18c80393a
+  caveat: 9491589f4b15
+  verification_note: 0d196486ef59
+  verification_method: c9cc23a2ebd3

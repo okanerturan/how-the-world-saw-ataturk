@@ -1,0 +1,34 @@
+# Turkish for data/voices/1948/hassan-al-banna-1948.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hassan-al-banna-1948
+voice: Hassan al-Banna
+role: Müslüman Kardeşler'in kurucusu
+quote: >-
+  Türkiye tam inkılabını gerçekleştirdi ve Mustafa Kemal Paşa, birkaç yıl öncesine kadar bütün dünyanın
+  kabulünde Müminlerin Emiri'nin makamı olan bir millette hilafetin kaldırıldığını ve devletin dinden
+  ayrıldığını ilan etti
+quote_kind: translated
+summary: >-
+  Türkiye'nin tam darbesini hatırlattı: Mustafa Kemal Paşa, Müminlerin Emiri'nin eski makamında hilafeti
+  kaldırdı ve devleti dinden ayırdı.
+caveat: >-
+  Geriye dönük hatırat, tarih yaklaşık (1940'ların sonu, doğrulanmamış); alıntı basılı sayfadan değil,
+  yalnızca iki bağımsız alıntılayıcı üzerinden doğrulandı; bir yakınma niteliğinde, kişisel hakaret bulunmadı.
+mediated_by: >-
+  Mudhakkirat al-Da'wa wa'l-Da'iya'dan alıntı yapan acrseg.org ve whiteink.info; hilafet konusundaki tutumu
+  için Wagemakers 2020
+verification_note: >-
+  Arapça alıntı acrseg tarafından aktarıldığı şekliyle birebir; basılı hatırat sayfası görülmedi; 1948 tarihi
+  yaklaşık/doğrulanmamış.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 93ea2a33f03c
+  role: ef36573ba5b7
+  quote: e5875767386b
+  summary: 2848f4555d1f
+  caveat: b0e4412d1433
+  mediated_by: 45d5ae6849c0
+  verification_note: 10f3c189db7e
+  verification_method: ad8cee67138e

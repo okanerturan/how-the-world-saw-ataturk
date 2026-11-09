@@ -1,0 +1,24 @@
+# Turkish for data/voices/1932/rabindranath-tagore-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rabindranath-tagore-1932
+voice: Rabindranath Tagore
+role: Şair, Nobel Ödülü sahibi
+summary: >-
+  İran seyahatnamesinde ve bir Modern Review denemesinde Mustafa Kemal Paşa'yı övdü; onu yeni bir Asya
+  devletinin mimarı olarak Rıza Şah ile eşleştirdi.
+caveat: Birincil sayfalar kontrol edilmedi.
+mediated_by: Bhattacharya, Frontier ← Japane Parasye; Modern Review Ekim 1932
+verification_note: >-
+  İkincil kaynak; "pairing him with Reza Shah as architect of new Asian state" ifadesi örtüşmektedir; birincil
+  sayfalar görülmedi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d51ef5f1e69f
+  role: 4335f073f951
+  summary: 2c6a71211f61
+  caveat: d08bda251eee
+  mediated_by: 2cc9ebd335ca
+  verification_note: ea3fb48c0717
+  verification_method: ad8cee67138e

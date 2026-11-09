@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: enver-pasha-1921-05
+voice: Enver Pasha
+voice_type: person
+role: Former Ottoman War Minister, in Moscow; letter to Mustafa Kemal
+country: Soviet Russia
+country_now: Russia
+domain: politics
+date: "1921-05"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: quote
+evidence: P
+summary: >-
+  Writes to Kemal as a brother, praising his ability but begging him not to turn his success into the rule of
+  one person.
+quote:
+  text: >-
+    Şimdi muvaffakiyetinize bakarak, size iğvâ edenlere uyup memlekette bir şahsın veyâ yalnız bir kısmının
+    tahakkümüne doğru gitmeyiniz.
+  language: tr
+caveat: >-
+  Turkish original (Ottoman-style transliteration by Yamauchi); the vault's translation: 'Now that you are
+  succeeding, do not follow those who lead you astray towards the domination of the country by one person or
+  one group.' Letter No. 97, undated (May 1921), Moscow to Ankara, printed in Yamauchi's documents section;
+  OCR page markers 205-207 bracket the letter, the sentence falls just after the marker 207 (cited as pp.
+  205-208). Enver's archive reference given by Yamauchi: Klasör 7/Mustafa Kemal Dosyası. Immediately before,
+  Enver writes that he had valued Kemal's ability since his own War Ministry ('İktidârınızı ... takdir
+  ettim'). The letter also reports his claim that Kemal's circle had made him the dictator of an 'Ankara
+  Communist Party'. Enver's own account of his conduct, written to a man he saw as a rival. Authorship is the
+  editor's inference: Yamauchi's note (1) calls letter No. 97 'anonim' (unsigned) and attributes it to Enver
+  from its content.
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://archive.org/details/masayuki-yamauchi-hosnut-olamams-adam-enver-pasa-0-baglam-libgen.li-1
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    archive.org Yamauchi, Hoşnut Olamamış Adam Enver Paşa (PDF/djvu), letter No. 97 and its note (1)
+  method: archive.org djvu download; page folios tested against the PDF (folios are at page foot)
+  note: >-
+    Quote is verbatim, OCR p.208 (letter runs pp.205-208; heading 'No. 97, Enver Paşa'dan (Moskova) Mustafa
+    Kemal Paşa'ya (Ankara), Târihsiz (Mayıs 1921)'). BUT the letter's own note (1) says: 'Bu mektup Büyük
+    Ermenistan Teşkili Meselesi başlığındaki ANONİM bir mektuptur. Ancak yazar, metnin içindekileri gözönünde
+    bulundurarak, Enver Paşa'ya ait olduğunu zanneder.' So it is an unsigned letter that Yamauchi ATTRIBUTES
+    to Enver from its content (it also has no signature, unlike No. 118, signed 'Enver.'). Content fits Enver
+    (Berlin prison with Radek, flights, Halil, Cemal), but the attribution is the editor's inference. Fix the
+    caveat to say so, keep evidence P for the text but record 'authorship attributed by the editor, letter
+    unsigned' in mediated_by/caveat. Polarity/intensity fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

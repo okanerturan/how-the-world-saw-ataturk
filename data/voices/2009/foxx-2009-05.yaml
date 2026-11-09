@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: foxx-2009-05
+voice: Virginia Foxx
+voice_type: person
+role: U.S. Representative from North Carolina (Republican), co-chair of the Turkish Study Group
+country: United States
+country_now: United States
+domain: politics
+date: "2009-05-19"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  On his 128th birthday calls Atatürk 'a unique and inspirational figure', an impatient reformer, and urges
+  Muslim leaders to take inspiration from his revolution.
+quote:
+  text: >-
+    Ataturk was a unique and inspirational figure who laid the foundation for the Republic of Turkey. … By any
+    measure, Ataturk was an historic reformer.
+  language: en
+caveat: >-
+  Her own statement; near-identical in structure to Tom Lantos's 2006 statement (a staged record), which she
+  follows. She also spoke on 15 Oct 2007 ('the visionary leader of modern Turkey', Armenian resolution
+  debate), 22 Apr 2008 and 28 May 2010 (a birthday-party speech by a 16-year-old, not counted). Cited as
+  Extensions of Remarks (House), 19 May 2009, '128th Anniversary of the Birth of Kemal Ataturk, Founder of
+  Modern Turkey', Congressional Record vol. 155, p. E1196 (granule CREC-2009-05-19-pt1-PgE1196-3).
+node: >-
+  Congressional Record Closing Pass — King, Owen, Davis, Sirovich, Pepper, Knowland and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/CREC-2009-05-19/html/CREC-2009-05-19-pt1-PgE1196-3.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.govinfo.gov/content/pkg/CREC-2009-05-19/html/CREC-2009-05-19-pt1-PgE1196-3.htm - Extensions of
+    Remarks, 19 May 2009, p. E1196
+  method: govinfo daily-edition HTML
+  note: >-
+    Both fragments verbatim, from the first two paragraphs. 128th birthday (1881 + 128) is right. 'impatient
+    reformer', 'wisely understood' support admiring 2. Her statements of 2007, 2008 and 2010 mentioned in the
+    caveat were not checked.
+  checked_on: "2026-11-04"

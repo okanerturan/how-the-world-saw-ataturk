@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-correspondencia-valencia-1924
+voice: La Correspondencia de Valencia
+voice_type: press
+role: Valencia daily
+country: Spain
+country_now: Spain
+domain: press
+date: "1924-02-02"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: P
+summary: >-
+  Series 'Visiones de Oriente': Kemal admirable as military organiser, but his greater act was political, the
+  Angora Assembly that 'forged the new Turkey'.
+quote:
+  text: la gran creación de Mustafá Kemal fué la Asamblea de Angora
+  language: es
+caveat: >-
+  Series author not identified in the OCR of this issue (front page, 2 Feb 1924, no. 19228); OCR is rough and
+  a key sentence on Kemal's place in history is too garbled to quote.
+node: Valencia and Santa Fe Read Kemal, 1924–1933
+sources:
+  - url: https://archive.org/details/LaCorrespondencia_Valencia_19228_19240202
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA LaCorrespondencia_Valencia_19228_19240202 djvu text
+  method: archive.org djvu text
+  note: >-
+    'Pero la gran creación de Mustafá Kemal fué la Asamblea de Angora, la Gran Asamblea Nacional que ha
+    forjado la nueva Turquía' present under 'Visiones de Oriente'; Kemal praised as military organiser in
+    preceding text.
+  checked_on: "2026-10-29"

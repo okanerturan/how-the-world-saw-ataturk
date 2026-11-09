@@ -1,0 +1,31 @@
+# Turkish for data/voices/1938/prince-paul-yugoslavia-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: prince-paul-yugoslavia-1938
+voice: Yugoslavya Prensi Paul
+role: Yugoslavya Naip Prensi (TBMM fihristi onu 'Kral' olarak adlandırır)
+quote: Türk ulusunun büyük lideri ve reformcusu
+quote_kind: translated
+summary: >-
+  Onu Türk ulusunun büyük lideri ve reformcusu olarak nitelendirdi; Türkiye, Yugoslavya'nın aziz ve soylu
+  müttefikidir.
+caveat: >-
+  TBMM c. 2 (c2) PDF s. 10. Alıntı Fransızcadır; çevirisi: 'Türk ulusunun büyük lideri ve reformcusu'. 'Paul'
+  imzalıdır.
+verification_note: >-
+  'le grand chef et reformateur de la nation turque'; 'paul' imzalı; ayrıca 'notre chere et noble alliee'
+  (müttefik ifadesi doğrulanıyor). Sayfanın sol tarafındaki telgraf (Barselona, Azana imzalı) farklı bir
+  belgedir. Ankara damgasında 11.11.1938 okunuyor, dolayısıyla varış tarihi günü 1938-11-11 olarak
+  daraltılabilir. Naip Prens statüsü arka plan bilgisidir, sayfada yer almamaktadır.
+verification_method: >-
+  PDF sayfasının kendi görüntü çıktısı (PDFKit PNG, gözle okundu); OCR'a dayanılmadı; telgraf metni aksansız
+  büyük/küçük harf daktilo yazısıdır
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 525765ca2666
+  role: e3fd6e97cf9b
+  quote: dff4c1b10448
+  summary: 1dc1d30a6b7b
+  caveat: 5b8bc389472e
+  verification_note: 1668d7b622b5
+  verification_method: 7c3ad23fb937

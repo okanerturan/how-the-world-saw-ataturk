@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/stipi-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: stipi-1938
+voice: Stipi
+role: Arnavut gazetesi
+quote: Türk milleti maddi ve manevi refahını ona borçludur
+quote_kind: translated
+summary: >-
+  Son dakikaya kadar milletinin gerçek bir kurtarıcısı; ülkenin çehresini değiştiren ve eski Türkiye'den
+  modern bir devlet çıkaran kişi.
+caveat: >-
+  Gazete adları Toksoy'un bastığı şekildedir (Stipi, Shtypi olabilir); Arnavutça asılları görülmemiştir.
+mediated_by: Toksoy 2010 ← Akşam 14 ve 18 Kasım 1938, Ulus 14 Kasım 1938
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e50f1c9c7579
+  role: 2945e823993a
+  quote: 85e0bc6bbc30
+  summary: "149247665675"
+  caveat: 02a3cfabd589
+  mediated_by: 8e709a452d60
+  verification_method: 939bb46a04c3

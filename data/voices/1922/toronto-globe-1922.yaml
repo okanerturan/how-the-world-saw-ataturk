@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: toronto-globe-1922
+voice: Toronto Globe
+voice_type: press
+role: Toronto daily
+country: Canada
+country_now: Canada
+domain: press
+date: "1922-09"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  Streamer casting Kemal as the monster of imperial pulp as Britain called its dominions to face him.
+quote:
+  text: British Lion Calls Cubs to Face the Beast of Asia
+  language: en
+caveat: >-
+  Stacey 1981 (read in search excerpt); headline only, no editorial text. text unchecked (source unreachable
+  2026-10-29)
+node: Canada Says Not Yet at Chanak, September 1922
+sources:
+  - url: https://doi.org/10.3138/9781442628137
+verification:
+  verdict: unreachable
+  checked_against: https://doi.org/10.3138/9781442628137 (Stacey 1981 book not retrievable)
+  method: fetch
+  note: >-
+    Headline 'British Lion Calls Cubs to Face the Beast of Asia' could not be located in any retrievable text;
+    Globe page not seen
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

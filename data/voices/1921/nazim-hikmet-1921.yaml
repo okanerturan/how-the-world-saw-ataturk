@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nazim-hikmet-1921
+voice: Nâzım Hikmet
+voice_type: person
+role: Young poet who had crossed to Anatolia to join the national struggle
+country: Turkey (Ankara government)
+country_now: Turkey
+domain: letters
+date: "1921"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: meeting
+evidence: S
+summary: >-
+  Received in Ankara with Vâlâ Nureddin as 'two young poets'; Kemal at once turned the conversation to poetry.
+mediated_by: >-
+  Göksu & Timms, *Romantic Communist* (1999), section 'Ankara: poetry with a purpose' (from p. 19) ← Vâlâ
+  Nureddin's memoir, p. 95
+caveat: >-
+  First-hand contact rule (world-famous writer). Read only as archive.org search-inside snippets of a
+  lending-only book ('When they were presented to the great man as two young poets, Kemal immediately turned
+  the subject to poetry'); page not shown, and the 'Va-Nu, 56-67' citation seen attaches to the neighbouring
+  sentence, so the exact source of the meeting passage is not confirmed. Nâzım's own words at the meeting are
+  not given. Date from the context (1921, the poets' arrival in Ankara). Weak: needs the book page or Vâlâ
+  Nureddin's memoir. Check: snippet runs on to Kemal's advice 'I recommend you to write poetry with a purpose'
+  (Va-Nu, 95); the poets sailed from Istanbul on 1 Jan 1921.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/romanticcommunis0000goks
+verification:
+  verdict: secondary-only
+  checked_against: >-
+    archive.org romanticcommunis0000goks (Göksu & Timms, Romantic Communist, St. Martin's 1999;
+    access-restricted), full-text search snippets only (7 queries)
+  method: archive.org FTS snippets (tools/fts.py)
+  note: >-
+    Meeting documented in the secondary source: 'When they were presented to the great man as ‘two young
+    poets’, Kemal immediately turned the subject to poetry. Some young poets (he said) were writing simply for
+    the sake of being modern; ‘I recommend you to write poetry with a purpose’ (Va-Nu, 95).' So the passage's
+    source IS identified: Vâlâ Nureddin's memoir p. 95, which resolves the caveat's 'not confirmed'. Section
+    'Ankara: ‘poetry with a purpose’' starts p. 19 (contents snippet); exact page of the passage not shown.
+    Date: snippets say the poets left Istanbul by ship on 1 Jan 1921 and spent January marching from İnebolu
+    ('almost a fortnight'), so 1921 is supported (early 1921, probably Jan-Feb). Corrections: mediated_by →
+    'Göksu & Timms, Romantic Communist (1999), ch. 1, section ‘Ankara: poetry with a purpose’ (from p. 19) ←
+    Vâlâ Nureddin (Va-Nu), memoir, p. 95'; caveat: drop 'exact source ... not confirmed', state that Va-Nu p.
+    95 is cited for the passage, and that Nâzım's own words are not given; what_they_saw may add that Kemal
+    urged them to write 'poetry with a purpose'. Contact rule applies (world-famous writer); witness/meeting
+    is right. Memoir itself (Va-Nu, title not verified here) not seen.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33)
+  checked_on: "2026-11-06"

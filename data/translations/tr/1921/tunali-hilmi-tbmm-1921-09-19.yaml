@@ -1,0 +1,27 @@
+# Turkish for data/voices/1921/tunali-hilmi-tbmm-1921-09-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tunali-hilmi-tbmm-1921-09-19
+voice: Tunalı Hilmi (Bolu)
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Bolu milletvekili
+quote: Bir gaza ettin ki hoşnudeyledin peygamberi.
+quote_kind: original-turkish
+summary: >-
+  Gazi unvanı için yaptığı teşekkür konuşmasının ardından Kemal'i, 'Öyle bir gaza ettin ki Peygamber'i hoşnut
+  eyledin' dizesini okuyarak selamladı.
+caveat: >-
+  Basılı metin s. 264. 'hoşnudeyledin' tek kelime olarak basılmıştır (muhtemelen hoşnûd eyledin). Bunu
+  'geçmişte söylenmiş' ve şimdi bu çatı altında uyarlanan bir söz olarak sunar. Yoğunluk 1: tek mısra.
+verification_note: >-
+  Alıntı birebir aynı (basıldığı şekliyle 'hoşnudeyledin' tek kelime), doğrudan Kemal'in teşekkürünün ardından
+  geliyor; s. 264.
+verification_method: pdftotext sütun kırpma
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 40e9ad23b11d
+  role: b0536efffe82
+  quote: 93cc3f818ae5
+  summary: 29411a9beccf
+  caveat: 570ddac4cf3b
+  verification_note: 6765dc403f6c
+  verification_method: ec6fb6f23aef

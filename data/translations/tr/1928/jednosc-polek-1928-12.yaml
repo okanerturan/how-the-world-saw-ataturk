@@ -1,0 +1,26 @@
+# Turkish for data/voices/1928/jednosc-polek-1928-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jednosc-polek-1928-12
+voice: Jedność Polek (Cleveland)
+role: Lehçe haftalık kadın gazetesi, Cleveland
+quote: Türkiye'de ülkenin ve ulusun dirilticisi Mustafa Kemal Paşa'dır.
+quote_kind: translated
+summary: >-
+  Kemal'e kral tacı giydirileceği yönündeki, Türk basınının reddettiği bir söylentiyi aktarır; Polonyalıların
+  onun eserini, 'bizim Polonyalı Washington'umuz' Piłsudski'ninki üzerinden kavradığını söyler.
+caveat: >-
+  İmzasız köşe yazısı; Piłsudski benzetmesi gazeteye aittir ve Varşova'daki bir ABD elçisine atfettiği bir
+  söze dayandırılmıştır.
+verification_note: >-
+  Tam eşleşme; taç söylentisi, Türk basınının yanıtı ve Pilsudski 'nasz polski Washington' mevcut.
+verification_method: loc.gov JSON + tile OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a4de90df8c5a
+  role: f069f2cdbd4d
+  quote: 650d623fe1d6
+  summary: 10fab33eab29
+  caveat: 76e2c5f16e4e
+  verification_note: 708ac6fe8f3f
+  verification_method: 363638f20035

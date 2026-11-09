@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/lidove-listy-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lidove-listy-1938
+voice: Lidové listy
+role: Çek günlük gazetesi
+summary: Onu Türk tarihinin en büyük şahsiyeti olarak nitelendirdi.
+caveat: >-
+  Toksoy'daki gazete adları fonetik yazılmıştır; kimlik tespiti 'muhtemelen' şeklindedir; yabancı dildeki
+  asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Cumhuriyet 14 ve 16 Kasım 1938, Ulus 15 Kasım, Ayın Tarihi Kasım 1938
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 89a8e26b06fa
+  role: 43d2e5814e98
+  summary: bd94505611c7
+  caveat: 01e06cd8e0c3
+  mediated_by: a785c4953be0
+  verification_method: 939bb46a04c3

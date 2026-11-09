@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/nationen-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nationen-1938
+voice: Nationen
+role: Norveç günlük gazetesi
+summary: Yeni bir ülke kuran devlet başkanları arasında onu ilk sıraya koydu.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; kimlik tespitleri tahmine dayalıdır; yabancı
+  dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
+verification_note: >-
+  Toksoy 'La Nation Agraire' olarak basmıştır; bunu Nationen ile eşitlemek veri kümesinin tahminidir. İçerik
+  (devlet başkanları arasında ilk sırada yer alması) örtüşmektedir
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b0dd074d1e4b
+  role: ac2e273306cb
+  summary: "666603062680"
+  caveat: 1d0053d25711
+  mediated_by: 272e58105c39
+  verification_note: df8fc34be003
+  verification_method: 939bb46a04c3

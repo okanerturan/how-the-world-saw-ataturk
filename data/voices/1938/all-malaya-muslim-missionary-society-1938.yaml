@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: all-malaya-muslim-missionary-society-1938
+voice: All Malaya Muslim Missionary Society
+voice_type: institution
+role: Singapore Muslim society
+country: Straits Settlements
+country_now: Singapore
+domain: religion
+date: "1938-11-12"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: report
+evidence: P
+summary: >-
+  Members received the death with profound sorrow; Muslim shops closed, mosques prayed; report says Muslim
+  leadership, not the reforms, drew the tribute.
+quote:
+  text: with profound sorrow
+  language: en
+mediated_by: Morning Tribune staff reporter, 12 Nov 1938
+caveat: >-
+  Browse-agent reading of NewspaperSG; body text behind T&C wall; poor OCR; last-sentence wording is paraphrase
+node: Malaya Muslims Mourn Atatürk, November 1938
+sources:
+  - url: https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19381112-1.2.107
+verification:
+  verdict: unreachable
+  checked_against: >-
+    https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19381112-1.2.107 (bot_blocked;
+    render shows T&C wall)
+  method: render
+  note: Quote 'with profound sorrow' and attribution to this society not verified.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

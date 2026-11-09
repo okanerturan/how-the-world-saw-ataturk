@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cai-hesen-1922-10
+voice: Cai Hesen (蔡和森)
+voice_type: person
+role: Early Chinese Communist leader, writing in Xiangdao
+country: China
+country_now: China
+domain: press
+date: "1922-10-04"
+era: contemporary
+polarity: instrumental
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: P
+summary: >-
+  Used Kemal as Sun Yat-sen's template: a national-independence revolutionary, not a Communist, defending
+  Sun's Russian-German policy against the charge of Bolshevism.
+quote:
+  text: 孫中山之爲中華民族獨立運動的革命家，正如基瑪爾之爲土耳其民族獨立運動的革命家而不爲共產主義或「過激主義」運動的革命家一樣
+  language: zh
+caveat: >-
+  Cai's 2 Nov 1922 Fujian piece also calls for 'a revolutionary government like Turkey's'; recorded here once.
+node: Xiangdao Reads Ankara, 1922–1924
+sources:
+  - url: https://zh.wikisource.org/wiki/中德俄三國聯盟與國際帝國主義及陳炯明之反動
+  - url: https://zh.wikisource.org/wiki/福建人民當助革命軍復建革命政府
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    zh.wikisource 中德俄三國聯盟與國際帝國主義及陳炯明之反動 (Cai Hesen, 1922-10-04, Xiangdao); second source 福建人民當助革命軍復建革命政府 (2
+    Nov 1922)
+  method: Wikisource parse text, whitespace-normalised search
+  note: >-
+    Quote verbatim; second page confirms 'China must set up a revolutionary government like Turkey's' (caveat).
+  checked_on: "2026-10-30"

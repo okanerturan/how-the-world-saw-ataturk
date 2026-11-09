@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tsaldaris-1932-03-31
+voice: Panagis Tsaldaris
+voice_type: person
+role: Leader of the People's Party, later Prime Minister
+country: Greece
+country_now: Greece
+domain: politics
+date: "1932-03-31"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Tells Venizelos that Kemal, sworn to the National Pact, lost no war material under Venizelos's treaty and
+  accepted none of the compromises offered.
+quote:
+  text: >-
+    Γνωρίζετε ἐν τούτοις, κύριε Πρόεδρε τῆς Κυβερνήσεως, τὸ Ἐθνικὸν Συμβόλαιον τοῦ Κεμάλ, καὶ γνωρίζετε ἀκόμη
+    ὅτι διὰ τῆς συνθήκης, τὴν ὁποίαν σεῖς εἴχατε κάμει, αὐτὸς δὲν ἐστερήθη οὐδενὸς ὑλικοῦ πρὸς ἐξακολούθησιν
+    τῆς ἐκστρατείας. Δυστυχῶς ὁ Κεμὰλ οὐδὲν ἐκ τούτων ἐδέχετο.
+  language: el
+caveat: >-
+  Βουλή Β΄ περίοδος Δ΄ σύνοδος, Τόμος 1 part 2, session Ν΄ of Thursday 31 March 1932, printed p. 660 (PDF page
+  137; page image read; verbatim stenography). The two sentences are about 20 lines apart (the first runs to
+  the end of the left column, the second is in the right column). In the 1920-22 policy debate with Prime
+  Minister Venizelos, Tsaldaris argues that agreeing terms with Kemal was never easy; Kemal is a means to his
+  argument. Venizelos's reply (p. 671) only reports Tsaldaris's suggestion of peace with Kemal and states no
+  view of Kemal; not staged.
+node: Greek Deputies on Kemal, 1921–1932 — Hellenic Parliament Library
+sources:
+  - url: https://library.parliament.gr/Συλλογές/Κοινοβουλευτική-Συλλογή/Πρακτικά-Συνεδριάσεων/πρακτικά-βουλής-1910-1935
+    archived: https://web.archive.org/web/20260614102850/https://library.parliament.gr/%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AD%CF%82/%CE%9A%CE%BF%CE%B9%CE%BD%CE%BF%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AE-%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AE/%CE%A0%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AC-%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%B9%CE%AC%CF%83%CE%B5%CF%89%CE%BD/%CF%80%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AC-%CE%B2%CE%BF%CF%85%CE%BB%CE%AE%CF%82-1910-1935
+  - url: https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/newΠΡΒ_ΠΕΡ.Β_ΣΥΝ.Δ_T.1_1931-1932_2.pdf
+    archived: https://web.archive.org/web/20210112103532/https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/new%CE%A0%CE%A1%CE%92_%CE%A0%CE%95%CE%A1.%CE%92_%CE%A3%CE%A5%CE%9D.%CE%94_T.1_1931-1932_2.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Βουλή Β΄ Δ΄ Τ.1 part 2, PDF page 137, printed p. 660
+  method: >-
+    rendered the page image at 230 dpi and READ the polytonic Greek (main agent, not the builder)
+  note: >-
+    Quote verbatim on the page image. Verbatim stenography; the two sentences are ~20 lines apart.
+  checked_on: "2026-11-05"

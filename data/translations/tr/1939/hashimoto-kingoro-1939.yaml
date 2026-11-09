@@ -1,0 +1,36 @@
+# Turkish for data/voices/1939/hashimoto-kingoro-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hashimoto-kingoro-1939
+voice: Hashimoto Kingorō
+role: Ordu albayı, Sakura-kai kurucusu, Büyük Japonya Gençlik Partisi başkanı
+quote: >-
+  Örneğin o Kemal gibisi, o Türklerin feodal kıyafetlerini kırk altı saat içinde sertçe düzeltmiş, yazı
+  yazmayı da yatay yazıya çevirtmiş, çok eşliliği tek eşliliğe dönüştürüp bitirmiştir.
+quote_kind: translated
+summary: >-
+  Kemal'i hızlı ve kararlı hükmün modeli olarak gösterir: Türklere 46 saat içinde kıyafet değiştirttiğini,
+  yatay yazdırttığını ve çok eşliliği bıraktırdığını söyler.
+caveat: >-
+  Nihon no yuku michi — senchi kikan daiisshō (1939), sözlü bir metin, basılı s. 4, NDL görüntü 4 (sayfa
+  görüntüsü okundu). Kitap 1939 tarihlidir, dolayısıyla ölüm sonrası dönemdir. 1942'de (Seinen ni uttau, s.
+  99, görüntü 55) 'the late Kemal'i Hitler ile birlikte güçlü bir lider, siyasi bir örgüt ve ordu olmak üzere
+  üç özelliğe sahip kişiler arasında sayar.
+verification_note: >-
+  Alıntı basılı s. 4'te (sağ sayfa) birebir aynı. what_they_saw için düzeltme: sayfada 'within hours' değil,
+  四十六時間 (46 saat) yazıyor; 'in 46 hours' önerilir. Konuşma Çin Olayı ve Mihver ittifakı üzerinedir, Temmuz
+  1939 basımından bir süre önce yapılmıştır; kesin konuşma tarihi verilmemiştir, dolayısıyla 1939 / ölüm
+  sonrası okuma yayına dayalıdır (en erken 1939 başlarından sözlü bir metin olması muhtemeldir, kesin
+  değildir). Bakış: kesin 一刀兩斷 eylemin modeli olarak Kemal; kendi görüşü, geçer.
+verification_method: >-
+  IIIF sayfa görüntüsü indirildi ve üzerindeki Japonca OKUNDU; yazar/başlık/yıl için NDL öğe üstverisi kontrol
+  edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e2307763ed27
+  role: 1622c5a0ae5c
+  quote: 1e348f8e0951
+  summary: 8d5ff6d33a12
+  caveat: 88fbf805c72f
+  verification_note: d19a17e688b8
+  verification_method: 25d671ee4bfd

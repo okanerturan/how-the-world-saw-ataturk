@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: parvanov-2003-10-07
+voice: Georgi Parvanov
+voice_type: person
+role: President of Bulgaria
+country: Bulgaria
+country_now: Bulgaria
+domain: politics
+date: "2003-10-07"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  Respect for the work of the first builder of the Republic of Turkey; wishes Turks to keep and develop his
+  ideological and political legacy.
+quote:
+  text: С почит и уважение към делото на първостроителя на Република Турция!
+  language: bg
+caveat: >-
+  Handwritten in Bulgarian, 7.X.2003 (transcribed from handwriting): 'With respect and esteem for the work of
+  the first builder of the Republic of Turkey! With wishes to the people and the country to preserve and
+  develop the ideological and political legacy of Mustafa Kemal Atatürk!' The compilation's Turkish agrees in
+  substance but is looser ('cause of the Leader and First Founder'). Source: Anıtkabir Özel Defteri (printed
+  compilation, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk
+  hakkındaki duygu ve düşünceleri'), page images on ataturkarsivi.com, read on the image by the main agent (4
+  Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) parvanov2_89cd9a13 (Bulgarian handwriting, identical to the 'Sampaio' file
+    parvanov2_959d6d3f), parvanov3 (printed Turkish)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Gallery label 'Jorge SAMPAIO' is wrong: those images are Parvanov's entry (printed name Georgi Parvanov,
+    Bulgaristan Cumhuriyeti Cumhurbaskani). Bulgarian transcription verified letter by letter: 'С почит и
+    уважение към делото на първостроителя на Република Турция!' and the wish line 'С пожелания към народа и
+    страната да запази и развие идейното и политическо наследство на Мустафа Кемал Ататюрк!'; dated 7.X.2003
+    г.; signed Георги Първанов, Президент на Република България. Correction (minor): caveat says the
+    compilation's Turkish 'agrees'; it is looser (printed: 'Turkiye Cumhuriyetinin Onderi, Ilk Kurucusunun
+    davasina itibarim ve saygilarimla' = 'with my esteem and respect for the cause of the Leader and First
+    Founder of the Republic of Turkey'; wish clause: 'korunmasini ve gelistirmesini dilerim'). Substance
+    matches; suggest wording 'agrees in substance'. Intensity 1 fine.
+  resolution: corrected/hedged 2026-11-04 — see LEDGER § Source-check corrections (round 25)
+  checked_on: "2026-11-04"

@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/latvijas-kareivis-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: latvijas-kareivis-1938
+voice: Latvijas Kareivis
+role: Letonya ordu gazetesi
+summary: Uzun makalelerle birlikte resmini yayımladı.
+caveat: >-
+  Toksoy'daki gazete adları fonetik yazılmıştır; yabancı dildeki asılları görülmemiştir; Türkçe basın özetleri
+  tarafından özetlenmiştir.
+mediated_by: >-
+  Toksoy 2006 ← Akşam ve Kurun 16 Kasım, Ulus 15 Kasım, Cumhuriyet 15–16 Kasım, Tan 16 Kasım 1938, Ayın Tarihi
+verification_note: >-
+  Toksoy'da gazete adı bozulmuştur; Latvijas Kareivis (ordu gazetesi) olarak teşhisi nota aittir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 80aa02c6e100
+  role: 18f95ee4e770
+  summary: cbea47abc0e7
+  caveat: 15b48d70cc5b
+  mediated_by: 64e36ae2f40c
+  verification_note: 2866d97d888f
+  verification_method: 939bb46a04c3

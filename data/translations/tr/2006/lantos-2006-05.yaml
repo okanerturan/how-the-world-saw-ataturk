@@ -1,0 +1,38 @@
+# Turkish for data/voices/2006/lantos-2006-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lantos-2006-05
+voice: Tom Lantos
+role: Kaliforniya'dan ABD Temsilciler Meclisi Üyesi (Demokrat)
+quote: >-
+  Bugün, 19 Mayıs'ta, İslam ile modernliğin tamamen bağdaşabilir olduğunu gösteren Birinci Dünya Savaşı
+  sonrası devrimci lideri, modern Türkiye'nin kurucusu Mustafa Kemal Atatürk'ün doğumunun 125. yıl dönümünü
+  anmak üzere söz alıyorum. Onun örneği, kendi çağımız için yol gösterici ders ve umut sunmaktadır.
+quote_kind: translated
+summary: >-
+  Doğumunun 125. yıl dönümünde Atatürk'ü, İslam ile modernliğin bağdaşabilir olduğunu gösteren devrimci ve
+  'kendi çağımız için' bir örnek olarak onurlandırıyor.
+caveat: >-
+  Extensions of Remarks bölümünde yer alan tam kapsamlı bir anma beyanı (harf devrimi, 'his leadership style',
+  laiklik); Atatürk'ün kendi sözlerinden de alıntı yapar. Lantos'un Türkiye-ABD ilişkilerini aktif biçimde
+  desteklediği ve aynı zamanda —bu beyanda değinilmeyen— Ermeni soykırımının tanınmasına destek verdiği
+  dönemde sunulmuştur. Şöyle kaynak gösterilmiştir: Extensions of Remarks, 19 Mayıs 2006, '125th Anniversary
+  of Birth of Kemal Ataturk, Founder of Modern Turkey', Congressional Record c. 152, sayı 63, s. E917 (granül
+  CREC-2006-05-19-pt1-PgE917-2).
+verification_note: >-
+  Alıntı birebir, Extensions of Remarks, 19 Mayıs 2006 Cuma, Mr. LANTOS, s. E917, c. 152 sayı 63. Beyan,
+  Atatürk'ün kendi sözlerini ve Lantos'un görüşünü ('champion of women's rights', 'right advice for the
+  leaders of every Muslim nation') içeriyor. Hayran/2 yerinde.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizliği yapıldı, alıntının normalleştirilmiş eşleşmesi
+  doğrulandı; konuşmacı, tarih ve sayfa bilgileri Record'un kendi başlıklarından ve sayfa üstbilgilerinden
+  okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2dd551fdab3a
+  role: 231dc1e2f8ca
+  quote: 0ec6ad3d53d9
+  summary: d1381286aca8
+  caveat: a2423e77709f
+  verification_note: d72cb89280e9
+  verification_method: 5594abd6cdd0

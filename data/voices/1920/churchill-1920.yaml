@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: churchill-1920
+voice: Winston Churchill
+voice_type: person
+role: Secretary of State for War, Commons Army debate
+country: United Kingdom
+country_now: United Kingdom
+domain: military
+date: "1920-03-22"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Listed Kemal's Nationalists, repudiating Constantinople's authority, among the anxieties for Mesopotamia and
+  warned of their junction with the Bolsheviks.
+quote:
+  text: the hostile forces of Mustapha Kemal
+  language: en
+caveat: A threat assessment inside a longer speech on Bolshevism; existing note on Churchill.
+node: Parliament Meets Kemal, February–March 1920
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-03-22/debates/8529f900-db16-4d18-924b-a2cb5745973b/NumberOfLandForces
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard API contribution b08af620-6e0f-4925-917f-32dfa46347b9 (Mr Churchill, 1920-03-22, Number Of Land
+    Forces)
+  method: api
+  checked_on: "2026-10-29"

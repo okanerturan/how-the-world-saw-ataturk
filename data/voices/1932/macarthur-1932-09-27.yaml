@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: macarthur-1932-09-27
+voice: Douglas MacArthur
+voice_type: person
+role: US Army Chief of Staff, on a European tour
+country: United States
+country_now: United States
+domain: military
+date: "1932-09-27"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: meeting
+evidence: P+S+J
+summary: >-
+  Received by the Gazi at Dolmabahçe on 27 Sept 1932; recalled talking with him about rebuilding Turkey's
+  armed forces.
+quote:
+  text: In Turkey, I talked with that indomitable leader, Mustapha Kemal Ataturk
+  language: en
+caveat: >-
+  Quote from MacArthur, Reminiscences (1964) p. 98 (archive.org reminiscences00maca, search snippet), written
+  32 years later; the adjective is his later view. Date and timing (17:00 to 18:20, during the Language
+  Congress) from Atatürk'ün Bütün Eserleri vol. 26 p. 37 fn., which shows the long 'Atatürk–MacArthur
+  conversation' text first printed in 1951 is a fabrication. Army and Navy Journal 10 Sept and 1 Oct 1932
+  report the visit.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/reminiscences00maca
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2026%20%281932%20-%201934%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202009%20%281.%20Bas%C4%B1m%29%2C%20470%20sf.pdf
+  - url: https://archive.org/details/sim_armed-forces-journal_1932-10-01_70_5
+  - url: https://archive.org/details/sim_armed-forces-journal_1932-09-10_70_2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org reminiscences00maca (MacArthur, Reminiscences, 1964), index 'Ataturk, Mustapha Kemal, 98' and
+    search-inside snippets; archive.org butuneserler, djvu text of ABE vol. 26, p. 37 fn. 1; archive.org
+    sim_armed-forces-journal_1932-09-10_70_2 snippet
+  method: archive.org full-text search (tools/fts.py); open djvu text read
+  note: >-
+    Snippet: 'In Turkey, I talked with that indomitable leader, Mustapha Kemal Ata- turk, about his firm
+    determination to rebuild his antiquated armed [forces]'. The quote is verbatim (line-break hyphen dropped)
+    and on p. 98 per the index. ABE vol. 26 p. 37 fn. gives the reception on 27 Sept 1932, 17:00 to 18:20, and
+    calls the 1951 'conversation' text a fabrication, as the caveat says. The Army and Navy Journal of 10 Sept
+    1932 has 'to be received at Istanbul by President Mustapha Kemal Pasha'; the 1 Oct issue was not found by
+    search. Evidence would be more exact as P+S+J (the ABE footnote is S).
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31)
+  checked_on: "2026-11-05"

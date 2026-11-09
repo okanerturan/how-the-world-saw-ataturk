@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: byrd-2007-10
+voice: Robert C. Byrd
+voice_type: person
+role: U.S. Senator from West Virginia (Democrat), President pro tempore (President pro tempore)
+country: United States
+country_now: United States
+domain: politics
+date: "2007-10-29"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  On Republic Day, describes Mustafa Kemal, later Atatürk, as a war hero who rejected the outdated modes of
+  empire and chose reform and modernisation.
+quote:
+  text: >-
+    Kemal, who was later given the name Ataturk, meaning "father of the Turks," rejected the crumbling
+    structures and outdated modes of empire and embraced instead a platform of reform and modernization, a
+    legacy that continues in Turkey to this day and to this hour.
+  language: en
+caveat: >-
+  Cosponsor's statement on the 84th anniversary of the Republic, in the week the House was debating an
+  Armenian genocide resolution; the vault does not read a link into the statement. Title and state are from
+  the standard record. Cited as Senate, 29 October 2007, S. Res. 358 (friendship between the United States and
+  Turkey), Congressional Record vol. 153, p. S13524 (granule CREC-2007-10-29-pt1-PgS13524).
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/CREC-2007-10-29/html/CREC-2007-10-29-pt1-PgS13524.htm
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    GovInfo Congressional Record daily-edition HTML CREC-2007-10-29-pt1-PgS13524.htm, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads
+  note: >-
+    Quote verbatim, Senate, Monday 29 October 2007, Mr. BYRD, p. S13524 (S13525 marker later); S. Res. 358 was
+    submitted by Mr. Smith for himself and Mr. Byrd. CORRECTION: role should be 'President pro tempore' (Byrd
+    held that office from January 2007 to June 2010), not 'emeritus'; the title is not printed in the passage.
+    Admiring/2 fair. The caveat's link to the House Armenian resolution debate was not checked.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22c)
+  checked_on: "2026-11-03"

@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: aga-khan-1923-11
+voice: Aga Khan III
+voice_type: person
+role: Imam of the Nizari Ismailis (letter co-signed with Syed Ameer Ali)
+country: British India
+country_now: India
+domain: religion
+date: "1923-11"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: letter
+evidence: P
+summary: >-
+  Writing to Prime Minister İsmet as 'consistent friends of new Turkey', urged keeping the Caliphate, sure
+  President Mustafa Kemal could not calmly accept Islam's disintegration.
+quote:
+  text: >-
+    a contingency which, we are sure, neither the Grand National Assembly nor His Excellency the President,
+    Ghazi Mustafa Kemal Pasha, can view with equanimity
+  language: en
+mediated_by: >-
+  Indian Quarterly Register 1924 vol. I (Calcutta, H. N. Mitra), 'The Khilafat Movement', pp. 85–86,
+  reprinting the letter
+caveat: >-
+  Addressed to Prime Minister İsmet, not to Kemal; letter date not printed in the reprint (published in the
+  Istanbul papers a week after dispatch, a week after dispatch). The register quotes İsmet's remarks to an
+  interviewer objecting to its publication; the Independence Tribunal prosecution of the editors who printed
+  it followed. The Istanbul editors who printed it were soon acquitted.
+node: Writers, Scientists and Artists in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/rbanms.1451.indianquarterlyr0000hnmi
+  - url: https://archive.org/details/in.ernet.dli.2015.45779
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Indian Quarterly Register 1924 vol. 1 no. 1 (Jan–Mar), 'The Khilafat Movement', pp. 85–87 (archive.org
+    rbanms.1451.indianquarterlyr0000hnmi djvu.txt; quote p. 85); same text in the Indian Annual Register 1924
+    vol. 1 (in.ernet.dli.2015.45779)
+  method: archive.org open OCR text read
+  note: >-
+    Quote verbatim (para. 3) in a letter headed 'To His Excellency Ghazi Ismet Pasha, Prime Minister of
+    Turkey', signed by Ameer Ali and the Aga Khan; para. 7 also urges 'the Grand National Assembly and its
+    great and far-sighted leaders'. Corrections: (1) what_they_saw is slightly off: the letter says Kemal
+    could not view with equanimity Islam's disintegration if the Caliphate were diminished or removed, not
+    that he 'could not see [the Caliphate] diminished'; (2) the register does not reprint 'İsmet's reply'. It
+    quotes his remarks 'to an interviewer' objecting to the publication; (3) 'early Dec 1923' is not on the
+    page, which says only that copies went to the Constantinople papers a week after the confidential
+    dispatch; (4) the Independence Tribunal arrested three editors on a treason charge and 'soon acquitted'
+    them, which the caveat should add. Conflicted is fair; P is right. Gaze test: to İsmet, not Kemal, but it
+    invokes Kemal by name. Main agent's keep stands.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31b)
+  checked_on: "2026-11-05"

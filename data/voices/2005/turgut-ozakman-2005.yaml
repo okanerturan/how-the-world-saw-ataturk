@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: turgut-ozakman-2005
+voice: Turgut Özakman
+voice_type: person
+role: Playwright and novelist
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "2005"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: T+J
+summary: >-
+  His documentary novel Şu Çılgın Türkler retold the War of Independence as national scripture, selling
+  622,000 copies in about a year.
+caveat: >-
+  Printing-date conflict across sources; the note frames the gaze as the national epic rather than Atatürk
+  alone.
+node: Turgut Özakman
+sources:
+  - url: https://tr.wikipedia.org/wiki/%C5%9Eu_%C3%87%C4%B1lg%C4%B1n_T%C3%BCrkler
+    archived: https://web.archive.org/web/20260712030040/https://tr.wikipedia.org/wiki/%C5%9Eu_%C3%87%C4%B1lg%C4%B1n_T%C3%BCrkler
+  - url: https://www.malumatfurus.org/lloyd-georgeun-mustafa-kemal-hakkindaki-sozu-ve-kose-yazarlarimiz/
+    archived: https://web.archive.org/web/20260416043933/https://www.malumatfurus.org/lloyd-georgeun-mustafa-kemal-hakkindaki-sozu-ve-kose-yazarlarimiz/
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    tr.wikipedia Şu Çılgın Türkler: Bilgi Yayınevi 2005; "Temmuz 2006 itibarıyla 311. baskı ve 622.000 nüsha
+    basılmıştır"
+  method: fetch
+  note: >-
+    "about a year" is inference (2005 to Jul 2006); malumatfurus page does not mention the book.
+  checked_on: "2026-10-29"

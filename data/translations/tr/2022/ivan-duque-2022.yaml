@@ -1,0 +1,28 @@
+# Turkish for data/voices/2022/ivan-duque-2022.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ivan-duque-2022
+voice: Iván Duque
+role: Kolombiya Cumhurbaşkanı
+quote: >-
+  siyasi kariyerimde, parlamento kariyerimde ve şimdi de Kolombiya cumhurbaşkanı olarak benim için ilham verici
+quote_kind: translated
+summary: >-
+  'Atatürk Düşüncesinin Mirası' başlıklı bir konferans verdi; Gelibolu, eğitim, kadın hakları ve yurtta sulh,
+  cihanda sulh üzerine dersler çıkardı.
+caveat: >-
+  Türkçeye çevrilmiş aktarımlar; konferans, ticaret odaklı bir devlet ziyareti kapsamında yer almıştır (nota
+  göre araçsal-hayran nitelikte).
+verification_note: >-
+  Alıntı, konferansın başlığı ve 'peace at home, peace in the world' destekleniyor. Gelibolu, eğitim ve kadın
+  haklarına dair dersler her iki kaynakta da yer almıyor.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: de1853facddd
+  role: 57c1b84764b2
+  quote: f37076225e4e
+  summary: f6f6082b097b
+  caveat: 24343c73f3a3
+  verification_note: b691b4367c88
+  verification_method: ad8cee67138e

@@ -1,0 +1,44 @@
+# Turkish for data/voices/1983/althammer-1983-06-15.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: althammer-1983-06-15
+voice: Walter Althammer
+role: >-
+  Bundestag CDU/CSU milletvekili (tutanakta basıldığı şekliyle; ön ad DIP metninde verilmemiştir)
+quote: >-
+  Türkiye'deki ordu, bu ülkeyi eskimiş bir yapıdan çıkaran ve ilkeleri aracılığıyla Türkiye'yi modern bir
+  Batılı gelişmeye açmaya çaba göstermiş olan Atatürk'ün ilkelerine onlarca yıllık bir bağlılığa sahiptir.
+quote_kind: translated
+summary: >-
+  Türk ordusunun Atatürk'ün ilkelerine bağlılığını savunur: Türkiye'yi eskimiş bir yapıdan çıkarıp modern
+  Batılı gelişmeye yönelten kişi.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'inde kontrol edildi. Bundestag'da Türkiye üzerine yapılan bir tartışmada
+  1980 sonrası Türk askeri rejimini savunmak için kullanılmıştır, dolayısıyla araçsaldır; aynı tartışmada SPD
+  milletvekili Luuk, Atatürk'ün modern Türkiye'yi 'orduyla birlikte' kurduğunu ve bu geleneğe duyulan umudun
+  'acı biçimde boşa çıktığını' söyleyerek yanıt verir (ayrıca kaydedilmemiştir). Ön ad DIP metninde basılı
+  değildir; basılı adın ötesinde kimlik tespiti girişiminde bulunulmamıştır. Kaynak gösterimi: Deutscher
+  Bundestag, Plenarprotokoll 10/13, 15 Haziran 1983 oturumu, s. 793. Ön ad de.wikipedia'dan alınmıştır
+  (tutanakta yalnızca 'Dr. Althammer' yazılıdır; soyadı 10. Bundestag'da tekildir).
+verification_note: >-
+  Alıntı birebir aynıdır, basılı s. 793, konuşmacı 'Dr. Althammer (CDU/CSU)'; çeviri sadıktır. DÜZELTME: voice
+  alanı 'Walter Althammer' (Dr. jur., CSU; CDU/CSU grubunda yer aldı) ve role alanı 'Bundestag CSU
+  milletvekili (CDU/CSU grubu), grup başkanvekili' olmalıdır. Ön ad tutanakta basılı değildir, dolayısıyla
+  Wikipedia'ya ve soyadının 10. Bundestag'da tekil olmasına dayanmaktadır (Wikipedia J katmanıdır; P kaynağı
+  Bundestag üye veri tabanı olurdu, çekilmedi). Araçsal kutupluluk / yoğunluk 1 yerindedir.
+verification_method: >-
+  dserver PDF'i indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleşmesi yapıldı,
+  konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı çeviriyle
+  karşılaştırılarak okundu; ön ad de.wikipedia'dan alındı (CSU, Augsburg-Land, 1961'den 14 Nisan 1985'teki
+  istifasına kadar Bundestag üyesi, 1982-84 CDU/CSU grup başkanvekili, Dr. Althammer olarak konuşuyor, dizin
+  792 B)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9f064cdbf86e
+  role: 67c11ce6c2d3
+  quote: 2b1ae5a7d035
+  summary: 62f2a60d10fb
+  caveat: 98affe5d31ba
+  verification_note: f02b33e8fdef
+  verification_method: f6ef163086f5

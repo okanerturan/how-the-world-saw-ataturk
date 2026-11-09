@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-ahram-1938
+voice: Al-Ahram
+voice_type: press
+role: Egyptian daily
+country: Egypt
+country_now: Egypt
+domain: press
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  Called him father of the Turkish nation and the greatest man of recent centuries, ranking him above Hitler,
+  Mussolini and Roosevelt.
+quote:
+  text: greater than Hitler, greater than Mussolini, greater than Roosevelt
+  language: en
+mediated_by: Toksoy 2010 ← Cumhuriyet 12 and 20 Nov 1938, Ayın Tarihi no. 194 (Turkish translation)
+caveat: Superlatives and rank order are the paper's own; reaches us via Turkish translation.
+node: Cairo Mourns, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt p.201 (El-Ahram: Hitler'den de Mussolini'den de Ruzvelt'ten
+    de büyüktür; Türk milletinin babası)
+  method: local
+  note: >-
+    Translated from Toksoy Turkish; exact issue date 11 Nov not stated beyond 'all Egyptian papers of 11 Nov'.
+  checked_on: "2026-10-29"

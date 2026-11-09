@@ -1,0 +1,36 @@
+# Turkish for data/voices/1942/connally-1942-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: connally-1942-10
+voice: Tom Connally
+role: ABD Senatörü (Demokrat, Texas); Dış İlişkiler Komitesi Başkanı
+quote: >-
+  Kemal Atatürk'ün reformları ve projeleri dört sağlam ulusal temele dayanıyordu: barış, refah, onur ve güç.
+  Bu temeller, uygulanmaları için tek bir insanın yaşamına ya da popülerliğine bağımlı değildir.
+quote_kind: translated
+summary: >-
+  Cumhuriyet'in 19. yıl dönümünü anar: reformları hiçbiri tek bir insanın yaşamına bağımlı olmayan dört temele
+  dayanan 'merhum büyük Kemal Atatürk'.
+caveat: >-
+  Türkiye'nin tarafsızlığının Müttefik baskısı altında olduğu savaş zamanında, oybirliği onayıyla okunan
+  Türkiye'ye yönelik resmî bir kutlama ('I feel certain that I am voicing the wishes of the United States
+  Senate'); görüş olduğu kadar nezaket niteliğinde. Parti, eyalet ve komite başkanlığı bilgileri pasajdan
+  değil, standart biyografik kayıttan alınmıştır. Kaynak gösterimi: Senato, 29 Ekim 1942, Congressional Record
+  c. 88 (ciltli), s. ~8679-8680 (granül CRECB-1942-pt7-8-1).
+verification_note: >-
+  Alıntı birebir aynı, Senato, 29 Ekim 1942 Perşembe, 'Nineteenth anniversary of the proclamation of the
+  Turkish Republic' başlığı altında Mr. CONNALLY; s. 8680'de (çift sayılı sayfa başlığı s. 8679'u izliyor).
+  'The late great Kemal Ataturk' ifadesi aynı beyanda yer alıyor. Nezaket/araçsallık tonu çekince notunda adil
+  biçimde belirtilmiş; hayran/2 kabul edilebilir. Kesin sayfa 8680, '~8679-8680' yerine yazılabilir.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizleme uygulandı, alıntının normalleştirilmiş eşleştirmesi
+  yapıldı; konuşmacı, tarih ve sayfa Record'un kendi başlıklarından ve üst bilgilerinden okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ee3b45ef5dfe
+  role: b125fc2e0666
+  quote: 471452fcba4e
+  summary: 5d7db900e636
+  caveat: fcd9e0e5823f
+  verification_note: 76918a7bcaf7
+  verification_method: 5594abd6cdd0

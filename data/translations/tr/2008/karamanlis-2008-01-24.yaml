@@ -1,0 +1,41 @@
+# Turkish for data/voices/2008/karamanlis-2008-01-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: karamanlis-2008-01-24
+voice: Kostas Karamanlis
+role: Yunanistan Başbakanı; Anıtkabir Özel Defteri kaydı
+quote: >-
+  Kemal Atatürk ve [dönemin Yunan lideri] Eleftherios Venizelos, geçmişteki çatışma ve trajedilerin iki halkın
+  yararına barış ve işbirliğine dayalı daha iyi bir gelecek inşa etmenin… önünde engel olmasına izin
+  vermeyecek siyasi cesarete, iradeye ve vizyona sahipti.
+quote_kind: translated
+summary: >-
+  1959'dan bu yana bir Yunan başbakanının ilk resmi ziyaretinde, Atatürk ve Venizelos'un geçmişteki
+  trajedilerin barışı engellemesine izin vermeyecek cesaret ve vizyona sahip olduklarını söyler.
+caveat: >-
+  Anıtkabir Özel Defteri kaydı; Anıtkabir ziyaretleri Yunanistan'da bir tabudur ve kendisi Yunanistan'a karşı
+  kazanılan 1922 zaferini kutlayan müzeyi gezmemiştir. Hürriyet'in Türkçe aktarımı: 'Atatürk ve Venizelos'un
+  siyasi irade ve cesareti vardı. Biz de geçmiş trajedilerin bize engel olmaması için gerekli cesarete
+  sahibiz.' Türk-Yunan yakınlaşması çerçevesinde kurgulanmış övgü. Kontrol: Alıntı Reuters'ın İngilizce
+  çevirisidir; Hürriyet'in Türkçesi farklıdır; özgün dildeki kayıt bulunamamıştır.
+mediated_by: >-
+  Cyprus Mail, 25 Ocak 2008 (Reuters, İngilizce, kendi üç noktası ve paranteziyle); Hürriyet, 24 Ocak 2008
+  (Türkçe aktarım)
+verification_note: >-
+  İngilizce alıntı, Reuters'ın kendi köşeli parantezi ve üç noktasıyla birlikte Cyprus Mail'de birebir yer
+  almaktadır; Hürriyet'teki Türkçe metin birebirdir ve müzeyi atlamıştır. İki aktarım ifade bakımından
+  farklılık göstermektedir ve özgün dildeki kayıt bulunamamıştır; dolayısıyla alıntı bir basın çevirisidir ve
+  bu şekilde işaretlenmelidir. Bakış testi: Atatürk'e (Venizelos ile birlikte) cesaret, irade ve vizyon
+  atfettiği için sınırda geçer. Araçsal sınıflandırması uygundur. Hürriyet: amcası 1959'da yalnızca imza
+  atmıştır.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 76bb680e55e0
+  role: f237ec3dd226
+  quote: 1427fba6107f
+  summary: c1be0195bd51
+  caveat: ec5f8be5bebb
+  mediated_by: 1d6f2469afd1
+  verification_note: 6547a1185b5c
+  verification_method: 5300d17a1d69

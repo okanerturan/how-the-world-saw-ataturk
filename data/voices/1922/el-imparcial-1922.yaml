@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: el-imparcial-1922
+voice: El Imparcial
+voice_type: press
+role: Spanish-language daily, San Juan, Puerto Rico
+country: Puerto Rico (US territory)
+country_now: Puerto Rico
+domain: press
+date: "1922-11-11"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: article
+evidence: P
+summary: >-
+  Portrait 'El Caudillo de Angora': Turkey the first betrayed people to rise; Kemal a sober, silent leader
+  acclaimed as saviour, rejecting pan-Turkish folly.
+quote:
+  text: Kemal es aclamado como salvador
+  language: es
+caveat: >-
+  Byline printed in the OCR as 'Camie Rerría' (name unresolved); OCR text garbled in places, quote joined
+  across a line break ('sal vador').
+node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
+sources:
+  - url: https://www.loc.gov/resource/sn88073003/1922-11-11/ed-1/?sp=4
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn88073003 1922-11-11 p.4 full text (tile.loc.gov ALTO text)
+  method: tile.loc.gov full_text via curl
+  note: >-
+    'Kemal es aclamado como sal vador' present (line-break join); headline 'El Caudillo de Angora', 'Turquía
+    es el primero de los pueblos vendidos que se incorpora', sober/silent, anti-pan-Turk all present; byline
+    OCR 'Camie Rerría' as stated.
+  checked_on: "2026-10-29"

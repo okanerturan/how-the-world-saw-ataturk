@@ -1,0 +1,39 @@
+# Turkish for data/voices/1936/bagryana-1936.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bagryana-1936
+voice: Elisaveta Bagryana
+role: Bulgar şair
+quote: Efsane hayat oluyor (yaşasın hayat!), balyoz ve çekiçle dövülmüş bir hayat!
+quote_kind: translated
+summary: >-
+  'Yeni Atlantis' şiirini Kemal Atatürk'e ithaf eder: çölden yeniden doğan Ankara, çekiç ve balyozla dövülmüş
+  hayata dönüşen efsane.
+caveat: >-
+  ÇEVİRİ (bu kayda ait): 'The legend becomes life (long live life!), life forged with hammer and sledge!'
+  'Nova Atlantida' şiiri, ithaf 'На Кемал Ататюрк'. TARİH TESPİT EDİLEMEDİ: bulunan tek tarihli baskı
+  chitanka.info tarafından verildiği şekliyle Amazonka. Izbrana lirika v dva toma (Balgarski pisatel, Sofia,
+  1973) baskısıdır; Atatürk soyadı (1934'te alındı) ve geniş/şimdiki zaman kullanımı ('two piercing eyes do
+  not sleep') 1934-1938 yıllarında yazıldığını düşündürmektedir, ancak bu yalnızca bir çıkarımdır (kademe M).
+  Daha erken bir baskı bulunursa çağdaş döneme yeniden tarihlendirilmelidir. Hüseyin Mevsim'in Türkçe çevirisi
+  'Dünya Şairlerinden Atatürk Şiirleri' (sayı 37) içindedir. Kontrol sırasında tarihlendirildi: şiir Сърце
+  човешко (1932, 1936 baskıları; bagryana.litclub.bg) kitabındadır; 1973 yalnızca okunan seçme şiirler
+  baskısıdır.
+verification_note: >-
+  Alıntı birebir mevcut, 'На Кемал Ататюрк' ithafı yer alıyor. TARİH VE DÖNEM YANLIŞ: 1973 yalnızca
+  chitanka'nın kendi transkripsiyonu için kaynak gösterdiği Balgarski pisatel seçme şiirler baskısıdır
+  (chitanka'nın kendi yıl alanı '????' şeklindedir). 'Нова Атлантида' şiiri, 'Слънце над Босфора' ve 'Експрес
+  в пустинята' ile birlikte 'Сърце човешко' (1932, 1936) cildine aittir (bagryana.litclub.bg). Düzeltme: tarih
+  '1936', dönem 'contemporary', id 'bagryana-1936' ('Atatürk' adını kullandığı için 1934 sonrası; yazılışı
+  1934-36, yayımlanışı 1936 cildinde). Kaydın kendi ihtirazi kaydı da daha erken bir baskı bulunursa yeniden
+  tarihlendirilmesini belirtiyordu. Kutupluluk/yoğunluk uygun.
+verification_method: ücretsiz erişim
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f2a19c10c076
+  role: 5a199ddcd453
+  quote: ab9ba7d6ffaf
+  summary: 7da604d0a52f
+  caveat: 7ba8cb3d8449
+  verification_note: a0326e1348f6
+  verification_method: 2d3844762b8f

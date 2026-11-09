@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rashid-rida-1924
+voice: Rashid Rida
+voice_type: person
+role: Salafi theologian; editor of al-Manar
+country: Egypt
+country_now: Egypt
+domain: religion
+date: "1924"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: S
+summary: >-
+  Turned al-Manar against Ankara's religious policy after the caliphate's abolition; saw the Turkish Qur'an
+  translation as a heretical plot against the Arabic Qur'an.
+quote:
+  text: their heretical idea
+  language: en
+mediated_by: Wilson 2009 (IJMES) ← al-Manar 25 (1924) p. 794
+caveat: Wilson shows Kemal had no hand in the translations; Rida's reading was mistaken.
+node: Rashid Rida
+sources:
+  - url: https://cambridge.org/core/journals/international-journal-of-middle-east-studies/article/first-translations-of-the-quran-in-modern-turkey-192438/05D8453EF5E1169BD777129F0237565B
+    archived: https://web.archive.org/web/20180608082111/https://cambridge.org/core/journals/international-journal-of-middle-east-studies/article/first-translations-of-the-quran-in-modern-turkey-192438/05D8453EF5E1169BD777129F0237565B
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: local a local working file (Wilson 2009 IJMES epigraph, fn.2 al-Manar 25 (1924) p.794)
+  method: local
+  note: >-
+    Quote is Wilson's English rendering of Rida; Wilson stresses Rida's target is the Ankara government and
+    that Kemal had no hand; Rida does not name Kemal in the quote. 'after caliphate abolition' framing not in
+    the passage.
+  checked_on: "2026-10-29"

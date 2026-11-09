@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bhutto-1965-06-13
+voice: Zulfikar Ali Bhutto
+voice_type: person
+role: Foreign Minister of Pakistan (later Prime Minister)
+country: Pakistan
+country_now: Pakistan
+domain: politics
+date: "1965-06-13"
+era: posthumous
+polarity: witness
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Says Atatürk and his companions found a revived Caliphate incompatible with their political ideas and
+  abolished it.
+quote:
+  text: finding a resusciated Caliphate incompatible with their political ideas
+  language: en
+mediated_by: Search-engine snippet of the bhutto.org PDF (direct fetch was blocked); page not known
+caveat: >-
+  A historical account with no stated judgement of Atatürk, hence witness. 'resusciated' is the PDF's own
+  spelling. A second Bhutto sentence on Atatürk, 'We will have to raise from our soil an Ataturk or a Jinnah
+  who will mobilize our people', is in the bhutto.org collection of speeches 1948-1966 but the individual
+  speech and date were not identified, so it is NOT stored (see candidates file).
+node: Postwar and Third World Leaders on Atatürk in Their Own Words
+sources:
+  - url: https://bhutto.org/wp-content/uploads/2020/12/Pakistan-and-the-Muslim-World-Zulfikar-Ali-Bhutto.pdf
+    archived: https://web.archive.org/web/20250516154035/https://bhutto.org/wp-content/uploads/2020/12/Pakistan-and-the-Muslim-World-Zulfikar-Ali-Bhutto.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    bhutto.org PDF 'Pakistan and the Muslim World'
+    (bhutto.org/wp-content/uploads/2020/12/Pakistan-and-the-Muslim-World-Zulfikar-Ali-Bhutto.pdf); direct
+    fetch blocked, text read from search-engine passages of the PDF
+  method: two ms searches; PDF fetch returned target_unreachable
+  note: >-
+    Passage verbatim: 'after 1922, that the founder of modern Turkey, Mustafa Kemal Ataturk and his
+    companions, finding a resusciated Caliphate incompatible with their political ideas, first equated the
+    Caliphate with "spiritual", as opposed to "temporal", power an then finally abolished the institution
+    altogether.' ('resusciated' and 'an' are the PDF's own typos.) The PDF's heading reads 'Speech delivered
+    by Mr. Zulfikar Ali Bhutto, the Foreign Minister of Pakistan to the Pakistan Islamic Council for
+    International Affairs, Karachi, June 13, 1965', so date, role and artifact are correct. Page: the passage
+    is in the opening pages (p. 1-2 of the PDF). Witness polarity fair. Optional: add venue Karachi to the
+    record. No correction required.
+  checked_on: "2026-11-01"

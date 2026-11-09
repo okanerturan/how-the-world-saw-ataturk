@@ -1,0 +1,19 @@
+# Turkish for data/voices/1938/dudley-pound-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dudley-pound-1938
+voice: Dudley Pound
+role: İngiliz amiral, delege
+summary: >-
+  Cenazeye gönderilen yabancı özel heyetler arasında adı geçti; herhangi bir görüş belirtilmedi.
+mediated_by: Havas/Reuter telgrafları (Delpher), 17 Kasım 1938
+verification_note: Cenaze 21 Kasım 1938'deydi; ajans haberi 17-18 Kasım tarihlidir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8762f31716a1
+  role: a001d9b7fde1
+  summary: 20c8245c15db
+  mediated_by: 383926753fae
+  verification_note: c138d69d0ea4
+  verification_method: 939bb46a04c3

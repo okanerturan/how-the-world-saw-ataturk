@@ -1,0 +1,28 @@
+# Turkish for data/voices/1935/la-gaceta-tampa-1935.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-gaceta-tampa-1935
+voice: La Gaceta (Tampa)
+role: İspanyolca günlük gazete, Tampa, Florida
+quote: >-
+  Mustafa Kemal onları Meclis'e çağırdı ve yarın, eğer öyle isterse, onları eve ya da mutfağa geri gönderebilir
+quote_kind: translated
+summary: >-
+  Türk kadın milletvekilleri üzerine 'Changas y Chungas' köşesi: diktatörlük 'mucizeyi yarattı', ancak Kemal
+  yarın onları mutfağa geri gönderebilir; demokrasi bunu yapamaz.
+caveat: >-
+  İmzasız; İspanya Cumhuriyeti'nde kadınların oy hakkı tartışmasında (Kent, Campoamor) argüman olarak
+  kullanılmıştır. Yazının kendi girişi 17 kadın milletvekili sayar; bu yazının kendi rakamıdır, burada
+  doğrulanmamıştır; metin bağımsız kontrolle doğrulanmamıştır (InFlow 2026-10-29'da durdu)
+verification_note: Kontrol edilmedi.
+verification_method: >-
+  ms sarmalayıcısı INFLOW STOPPED döndürdü (durdurma kuralı); loc.gov adresine doğrudan curl Cloudflare 403
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1af7128c59ed
+  role: 68e91204af83
+  quote: 699146bc4aa7
+  summary: "4e1425959915"
+  caveat: 2fb2e48d78cb
+  verification_note: 19ec77d34e93
+  verification_method: 966d5c86f000

@@ -1,0 +1,38 @@
+# Turkish for data/voices/2011/biden-2011-12-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: biden-2011-12-02
+voice: Joe Biden
+role: >-
+  Amerika Birleşik Devletleri Başkan Yardımcısı (sonradan Başkan); Anıtkabir özel defterindeki yazısı
+quote: >-
+  Bugün dünya çapında insanlar nasıl yönetilecekleri konusunda seslerini yükseltmeye çalışırken, Atatürk'ün
+  Türkiye'nin gelişmesinde kullanılan demokrasinin prensiplerini yaptığı vurgudan ilham alabilirler.
+quote_kind: original-turkish
+summary: >-
+  Yönetimde söz sahibi olmak isteyen halkların Atatürk'ün demokrasi vurgusundan ilham alabileceğini söylüyor;
+  onun onuncu yıl sözlerinden alıntı yapıyor.
+caveat: >-
+  Yalnızca İHA'nın tam metni okundu (T24 ve Haberler özet veya kısa bir haber taşıyor). İngilizce bir kaydın
+  Türkçe çevirisi olduğundan cümle bozuktur; İngilizce özgün metne ulaşılamadı. Biden ardından Atatürk'ün
+  onuncu yıl sözlerini 'Yaptıklarımızın yeterli olduğuna asla inanmıyoruz. Daha ulvi ve büyük başarılara
+  ulaşmaya kararlıyız ve mecburuz' (Türkçe çeviri) şeklinde alıntılıyor. O sırada başkan değil, başkan
+  yardımcısıydı.
+mediated_by: İHA 2 Aralık 2011 (kaydın Türkçe çevirisi)
+verification_note: >-
+  Cümle birebir aynı (İHA zaman damgası 2 Aralık 2011 14:43); kayıt ayrıca, bu kayıtta belirtildiği gibi,
+  'Türkiye Cumhuriyeti'nin büyük kurucusu ... en derin saygılarımı sunarım' diye başlıyor ve Atatürk'ün 10.
+  yıl sözünü alıntılıyor. Tek yayın organı okundu; İngilizce özgün metin bulunamadı (bir ücretli arama
+  sonuçsuz kaldı). Türkçe çeviri bozuk olduğundan ifadeleri bir çeviri metin olarak değerlendirin.
+verification_method: >-
+  Alıntılanan sayfanın tools/ms ile (ücretsiz) yeni çekimi, 3 Kasım 2026; bağımsız denetleyici
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6d3786503b45
+  role: ba48cad55b22
+  quote: 2fa864ec5f4b
+  summary: 49cb7bdb9583
+  caveat: e61b15be6d5f
+  mediated_by: eeb42ec9e463
+  verification_note: 29bdd6e9fd54
+  verification_method: 7b5332a2caf8

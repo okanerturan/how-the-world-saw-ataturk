@@ -1,0 +1,51 @@
+# Turkish for data/voices/1921/yahya-kemal-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: yahya-kemal-1921
+voice: Yahya Kemal Beyatlı
+role: Milli Mücadele sırasında İstanbul basını için yazan şair ve deneme yazarı
+quote: >-
+  Bu eser bir şahsın değil bir milletindir. Mustafa Kemal'i bir şahıs zannedenler aldanıyorlar.
+quote_kind: original-turkish
+summary: >-
+  İzmir'e Yunan çıkarmasından bu yana Mustafa Kemal'in artık bir birey değil, ayağa kalkan milletin simgesi
+  olduğunu savunur.
+caveat: >-
+  ÇEVİRİ (bu kaydın): 'This work belongs not to one person but to a nation. Those who take Mustafa Kemal for
+  one person are mistaken.' Şöyle devam eder: 'Mustafa Kemal İzmir'e efzunlar çıktığı günden evvel bir fertti.
+  O günden beri artık bir fert değil bir timsaldir.' Aynı ifadeler ('Efzunlar' ve 'bir fertdi' imlasıyla),
+  anlaşıldığı kadarıyla Atatürk Araştırma Merkezi Dergisi'nden alınmış olan Kanbak (der.), Yahya Kemal
+  Beyatlı, s. 78-79'daki 'Atatürk - Yahya Kemal dostluğu' başlıklı yazıda da yer alır. ÇIKARSANAN TARİH: Eğil
+  Dağlar onun 1919-1922 yazılarını bir araya getirir; 'Eser', hareketin kendi simgesini Mayıs 1919
+  çıkarmasından sonraki 'within one year' zarfında yarattığından söz eder, dolayısıyla yakl. 1920-21'dir;
+  kesin gazete ve tarih tespit edilememiştir. 'Onun Sesi'nde Kemal'in bir konuşmasını şatafattan, benlik
+  iddiasından ve ihtirastan uzak diyerek över (Eğil Dağlar s. 35). Temaslar: 21 Aralık 1933'te Çankaya'da bir
+  barışma yemeği, daha sonraki sofra davetleri ve milletvekili seçilmesi (Kanbak s. 82-84); Afet İnan onun
+  Atatürk'ün sofrasında şiirler okuduğunu hatırlatır (Hatıralar ve Belgeler, s. 396). 1938 cenaze yazıları
+  bulunamamıştır.
+mediated_by: >-
+  Enginün, Yeni Türk Edebiyatı: Tanzimat'tan Cumhuriyet'e 1839-1923 (Dergâh), s. 124-125 ← Eğil Dağlar (1966),
+  s. 31-33, 'Eser' makalesi
+verification_note: >-
+  Alıntı Enginün'de birebir mevcuttur; Enginün cümlelerin 'Eser'den (Eğil Dağlar 1966, s. 31-33) olduğunu ve
+  'Onun Sesi'nin s. 35'te yer aldığını belirtir. Çeviri sadık. TARİH: 1921 bir çıkarımdır, ancak metin içi
+  kanıtlar bunu destekler. Enginün'ün 'Eser'le birlikte aktardığı pasajda, Mayıs 1919 çıkarmasından iki yıl
+  sonrasına işaret ederek 'Evet iki sene evveline kadar ... milli hareket bir sene içinde ... Mustafa Kemal'i
+  milletin timsali olarak yarattı' diye yazar. Sonraki yazılar (s. 35-37) Kemal'in bir konuşmasını ve Londra
+  Konferansı'nı (1921 başı) ele alır. Yakl. 1920-21 geçerlidir; kesin gazete ve gün bilinmemektedir (FTS
+  tarihli bir basım bulamadı). Düzeltme: çekince notundaki 'Same wording ... in Kanbak' → 'near-identical
+  wording'. Kanbak'ta metin 'Evet, Efzunlar İzmir'e çıktığı günden evvel Mustafa Kemal bir fertdi. Ama o
+  günden sonra artık bir fert değil, bir timsaldir' şeklindedir. Kanbak'ta ATAM Dergisi sayı 12 kaydı basılı
+  olarak yer aldığından 'apparently' ifadesi çıkarılabilir. 21 Aralık 1933 Çankaya yemeği mevcuttur (Kanbak).
+  Hayranlık duyan/çağdaş etiketleri doğrudur. Şema uygun.
+verification_method: archive.org açık djvu metin okuması; diğer tanıklıklar için archive.org FTS
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9a82cf6e1c12
+  role: 5eea621bf035
+  quote: b3d669cfafa4
+  summary: 68a161ba3028
+  caveat: 3312fc76e7fa
+  mediated_by: cf9eedd1abef
+  verification_note: bb12be1d6375
+  verification_method: afa2d8ca95a4

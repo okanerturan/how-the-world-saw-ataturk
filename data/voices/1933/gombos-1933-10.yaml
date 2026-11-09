@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: gombos-1933-10
+voice: Gyula Gömbös
+voice_type: person
+role: Prime Minister of Hungary
+country: Hungary
+country_now: Hungary
+domain: politics
+date: "1933-10"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: S
+summary: >-
+  After the Ankara audience said anyone who saw and heard Kemal understood why command and leadership were in
+  his hands.
+quote:
+  text: >-
+    Kemal Paşa ekselanslarını gören ve işiten, komutanlık ve liderliğin niçin onun elinde olduğunu anlıyor.
+  language: tr
+mediated_by: >-
+  Altaş 2022 (Yakın Dönem Türkiye Araştırmaları), section on the 20–22 Oct 1933 visit; the footnotes there
+  cite Çolak p. 387 and Karagülmez 2018 p. 633
+caveat: >-
+  Turkish rendering of a Hungarian statement; which of the two footnoted works carries it is not settled, and
+  no Altaş page is visible in the open copy. Same passage: 'Yeni Türkiye'yi kuranla görüşmek benim için çok
+  büyük bir şerefti' (meeting the founder of the new Turkey was a very great honour). Gömbös's interest was
+  Turanism and Trianon revision.
+node: Heads of State on Atatürk in Their Own Words, 1926–1933
+sources:
+  - url: https://academia.edu/98216923/Macar_Ba%C5%9Fvekili_Gyula_G%C3%B6mb%C3%B6s_%C3%BCn_Atat%C3%BCrk_e_G%C3%B6nderdi%C4%9Fi_Mektup_ve_Kitaplar_%C3%87er%C3%A7evesinde_T%C3%BCrk_Macar_K%C3%BClt%C3%BCrel_M%C3%BCnasebetleri
+    archived: https://web.archive.org/web/20261109085902/https://academia.edu/98216923/Macar_Ba%C5%9Fvekili_Gyula_G%C3%B6mb%C3%B6s_%C3%BCn_Atat%C3%BCrk_e_G%C3%B6nderdi%C4%9Fi_Mektup_ve_Kitaplar_%C3%87er%C3%A7evesinde_T%C3%BCrk_Macar_K%C3%BClt%C3%BCrel_M%C3%BCnasebetleri
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Altaş, 'Macar Başvekili Gyula Gömbös'ün Atatürk'e Gönderdiği Mektup ve Kitaplar Çerçevesinde Türk-Macar
+    Kültürel Münasebetleri', Yakın Dönem Türkiye Araştırmaları 2022 (academia.edu copy), section on the Oct
+    1933 visit
+  method: >-
+    tools/ms free fetch of the academia.edu copy (plain text); read the passage and footnotes 51-53
+  note: >-
+    Quote found verbatim: "...Yeni Türkiye'yi kuranla görüşmek benim için çok büyük bir şerefti. Ankara'da en
+    önemli siyasetçilerin bile bizi akraba olarak düşündüğünden emin oldum." (introduced as Gömbös's remark
+    after being received by Atatürk). Partial because (a) the source of the quotation is unclear in the text
+    copy: footnote 51 is Móricz/Çolak p. 387 (before the quote), footnote 52 after the next sentence is
+    Karagülmez 2018 p. 633, so Çolak is not securely the source; (b) no Altaş page number is visible in the
+    copy; (c) it is a Turkish rendering of a Hungarian statement. The record's 'said Turkish politicians saw
+    Hungarians as kin' is supported by the second sentence. BETTER QUOTE available in the same paragraph,
+    footnote 53: Gömbös 'Kemal Paşa ekselanslarını gören ve işiten, komutanlık ve liderliğin niçin onun elinde
+    olduğunu anlıyor.' CORRECTION: hedge mediated_by (Çolak or Karagülmez 2018 p. 633), keep Altaş page
+    unresolved, consider the second quote.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 11)
+  checked_on: "2026-11-01"

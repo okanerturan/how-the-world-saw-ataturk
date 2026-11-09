@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: noelle-roger-1930
+voice: Noëlle Roger
+voice_type: person
+role: French-language travel writer
+country: France
+country_now: France
+domain: letters
+date: "1930"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Atatürk's slate-blue eyes and will: a gaze that reads hidden intentions and makes all resistance seem folly;
+  he saved Anatolia.
+quote:
+  text: >-
+    un regard droit et clairvoyant qui pénètre les intentions secrètes, et si chargé de volonté que toute
+    résistance semblerait une folie
+  language: fr
+caveat: >-
+  Nationality not stated in the text read; many anecdotes are unattributed hearsay. Pages inferred from
+  running heads (p. 61).
+node: Noëlle Roger
+sources:
+  - url: https://archive.org/details/enasiemineurelat00noel
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://archive.org/download/enasiemineurelat00noel/enasiemineurelat00noel_djvu.txt (two occurrences;
+    later text 'semblerait', preface 'paraîtrait')
+  method: fetch
+  note: "'saved Anatolia' and author nationality not checked"
+  checked_on: "2026-10-29"

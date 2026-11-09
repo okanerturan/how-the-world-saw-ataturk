@@ -1,0 +1,26 @@
+# Turkish for data/voices/1921/cew-bean-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cew-bean-1921
+voice: C.E.W. Bean
+role: Avustralyalı savaş muhabiri ve resmî tarihçi
+quote: zorlu bir liderin emrinde zorlu bir kuvvet
+quote_kind: translated
+summary: >-
+  Kemal'in hızlı kararlılığından söz etti ve eylemlerini Osmanlı başarısı için hayati sayarak bunun Anzak
+  yenilgisini daha onurlu kıldığını belirtti.
+caveat: Cumhurbaşkanı olarak Atatürk'e yönelik tutumu (1948) okunmadı.
+mediated_by: Aktar 2017 (Honest History) ← Bean, Official History c. 1
+verification_note: >-
+  Alıntı, Aktar'ın Bean c. 1'den (1921) yaptığı aktarım olarak yer alıyor; Bean'in özgün cildi görülmedi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1c4acb22ee6e
+  role: 3712530dd619
+  quote: 46012fa24ed1
+  summary: 4fc1533cc59c
+  caveat: 91b748c14f74
+  mediated_by: 8f9517dc6934
+  verification_note: c292c094a511
+  verification_method: ad8cee67138e

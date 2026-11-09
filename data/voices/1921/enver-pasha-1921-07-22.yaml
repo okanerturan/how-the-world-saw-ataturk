@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: enver-pasha-1921-07-22
+voice: Enver Pasha
+voice_type: person
+role: Former Ottoman War Minister, in Moscow; letter to Cemal Pasha in Kabul
+country: Soviet Russia
+country_now: Russia
+domain: politics
+date: "1921-07-22"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  Tells Cemal that in Anatolia Mustafa Kemal personally regards him as a rival, yet he claims no movement
+  against Kemal.
+quote:
+  text: Anadolu'da Mustafa Kemal Paşa şahsen beni rakib telâkki
+  language: tr
+caveat: >-
+  Turkish original; vault translation: 'in Anatolia Mustafa Kemal Pasha personally regards me as a rival'.
+  Letter No. 120, Enver to Cemal Pasha (Kabul), 22 July 1921; the same letter says Kemal had a Hâkimiyet-i
+  Milliye article written 'aimed only at me' and that 'we have no movement against Mustafa Kemal Pasha, on the
+  contrary we try to calm the negative friends'. Written to an ally, not to Kemal; cited as pp. 234-235 (OCR
+  marker 235 follows the sentence). Quote on p. 235; the 'no movement against Kemal' sentence is on p. 236.
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://archive.org/details/masayuki-yamauchi-hosnut-olamams-adam-enver-pasa-0-baglam-libgen.li-1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org Yamauchi, letter No. 120, Enver (Moskova) to Cemal Paşa (Kabil), 22 Temmuz 1921
+  method: archive.org djvu download
+  note: >-
+    Words verbatim ('Bildiğiniz gibi Anadolu'da Mustafa Kemal Paşa şahsen beni rakib telâkki ise burada temâs
+    samimi ve açık anlatmamıza rağmen hattâ Hâkimiyet-i Milliye ile şimdilik yalnız bana müteveccih bir makâle
+    yazdırdı'). Page correction: the letter opens after folio 234, so this sentence is on p.235 (not 234-235);
+    'Mustafa Kemal Paşa aleyhinde bir hareket değil ... menfi olan arkadaşları da teskin' is on p.236. The
+    record's translation is acceptable; the fragment omits 'ise', which makes the sentence look complete when
+    it is not. Enver's own letter to an ally. Conflicted/1 fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

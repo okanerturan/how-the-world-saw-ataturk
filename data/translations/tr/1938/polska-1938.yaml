@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/polska-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: polska-1938
+voice: Polska
+role: Yarı resmî Polonya günlük gazetesi
+quote: Atatürk yeni Türkiye'yi kılıçla kurdu ve dehasıyla düzene koydu.
+quote_kind: translated
+summary: >-
+  Yeni Türkiye'yi kılıçla kurup dehasıyla düzene koyduğunu; onu peçeden ve parçalanmaktan kurtardığını söyledi.
+mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 224d1ec2cc10
+  role: 72369b2af260
+  quote: 847ddaaf3bad
+  summary: 6476f5db12fa
+  mediated_by: aa5a462e96c0
+  verification_method: 939bb46a04c3

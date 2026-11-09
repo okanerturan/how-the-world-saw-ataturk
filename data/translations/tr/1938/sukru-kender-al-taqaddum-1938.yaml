@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/sukru-kender-al-taqaddum-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sukru-kender-al-taqaddum-1938
+voice: Şükrü Kender (Al-Taqaddum)
+role: Halep gazetesi Al-Taqaddum köşe yazarı
+quote: başardıkları mucize niteliğindeydi
+quote_kind: translated
+summary: >-
+  Avrupa'nın 'hasta adamı' Türkiye uçurumun eşiğindeyken, bir adam Türkiye'nin ölmediğini söyledi ve onu büyük
+  devletlerle birlikte yürüttü.
+caveat: >-
+  Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının
+  transliterasyonları tahminidir.
+mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
+verification_note: Toksoy'un Türkçesinden çevrilmiştir ('mucize ve harika kabilindendir').
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e2beea22bd26
+  role: 7273432b2e0c
+  quote: 0398855eaa2c
+  summary: 9ef9066a9a55
+  caveat: f8ae166de916
+  mediated_by: 0d9b58c49a68
+  verification_note: 8d4d54265aaf
+  verification_method: 939bb46a04c3

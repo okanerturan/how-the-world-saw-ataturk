@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mao-zedong-1940-01
+voice: Mao Zedong
+voice_type: person
+role: Chairman of the Chinese Communist Party
+country: China
+country_now: China
+domain: politics
+date: "1940-01"
+era: posthumous
+polarity: hostile
+intensity: 2
+mirror: bourgeois-revolutionary
+artifact: article
+evidence: P
+summary: >-
+  Concedes Turkey's bourgeois Kemalist dictatorship arose from special conditions, but argues China cannot
+  repeat it and that Kemalist Turkey ended a semi-colony.
+quote:
+  text: >-
+    even Kemalist Turkey eventually had to throw herself into the arms of Anglo-French imperialism, becoming
+    more and more of a semi-colony and part of the reactionary imperialist world.
+  language: en
+mediated_by: >-
+  English text of 'On New Democracy' (Selected Works, vol. 2, FLP) via marxists.org; not the Chinese original
+caveat: >-
+  Written in Jan 1940, after Atatürk's death (hence era posthumous). It judges Kemalism and 'China's Kemal',
+  not Atatürk personally. The same passage says the 'petty Kemalist dictatorship of the bourgeoisie' emerged
+  'owing to certain specific conditions (the bourgeoisie's success in repelling Greek aggression and the
+  weakness of the proletariat)'. The vault's person note attributes to Mao a 1936 remark to Edgar Snow ('We
+  are not going to be another Kemal Turkey'); that line was not found in any source read this round and stays
+  unverified.
+node: Interwar Leaders on Kemal in Their Own Words
+sources:
+  - url: https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_26.htm
+    archived: https://web.archive.org/web/20261005080226/https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_26.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_26.htm, 'On New Democracy', January 1940
+    (Selected Works vol. 2, FLP)
+  method: tools/ms free fetch of the marxists.org page
+  note: >-
+    Verbatim: 'Besides, even Kemalist Turkey eventually had to throw herself into the arms of Anglo-French
+    imperialism, becoming more and more of a semi-colony and part of the reactionary imperialist world.' The
+    'petty Kemalist dictatorship of the bourgeoisie' / 'certain specific conditions' sentence and 'where is
+    China's Kemal?' are also verbatim. Date Jan 1940 fine. Polarity 'conflicted' is generous: the passage is
+    dismissive (Kemalism as a dead-end model, 'no second Turkey'); the concession is only that it arose under
+    special conditions. Consider 'critical' if the enum allows, otherwise keep conflicted with intensity 2.
+    Note: the text judges Kemalism and 'China's Kemal', not Atatürk personally (caveat already says so).
+  checked_on: "2026-11-01"

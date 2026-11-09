@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: said-nursi-1923
+voice: Said Nursi
+voice_type: person
+role: Islamic scholar, later founder of the Nur movement
+country: Turkey
+country_now: Turkey
+domain: religion
+date: "1923-01"
+era: contemporary
+polarity: conflicted
+intensity: 3
+artifact: quote
+evidence: S
+summary: >-
+  Came to Ankara hoping for a Qur'an-based republic, found a current of atheism, rebuked Mustafa Kemal over
+  prayer, then refused his offers of office.
+quote:
+  text: >-
+    Pasha! Pasha! After belief, the most elevated truth in Islam is the obligatory prayers. Those who do not
+    perform the prayers are traitors, and the opinions of traitors are to be rejected.
+  language: en
+mediated_by: Vahide biography (iikv.org) <- Nursi, Tarihçe-i Hayat p.128
+caveat: >-
+  Movement-sourced (Nur publisher; Tarihçe, Şahiner); dramatic dialogue is the movement's memory, not an
+  independent record; author/edition attribution of the hosted text to be confirmed.
+node: Nursi in Ankara, 1922–1923
+sources:
+  - url: https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/187
+  - url: https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/186
+    archived: https://web.archive.org/web/20261028235101/https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/186
+  - url: https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/188
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/186 and /187 (Vahide biography, fn Tarihçe 128)
+  method: fetch
+  note: >-
+    Quote verbatim; refusal of offices on p.187. Date 1923-01 not checked on the pages read. Addressee in
+    Vahide is 'president of the Assembly' (Mustafa Kemal).
+  checked_on: "2026-10-29"

@@ -1,0 +1,29 @@
+# Turkish for data/voices/1938/ceske-slovo-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ceske-slovo-1938
+voice: České slovo
+role: Prag günlük gazetesi
+quote: >-
+  çünkü bugün kendimizi, Mustafa Kemal'in dünya sahnesine çıktığı zamanki Türkiye'ninkine benzer bir durumda
+  buluyoruz
+quote_kind: translated
+summary: >-
+  Onu yeni Türkiye'ye ruhunu veren adam olarak gördü; Çeklerin böyle bir lider için Türklere imrendiğini
+  açıkça söyledi.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir; teşhis 'presumably'; yabancı dildeki asılları görülmemiştir. En iyi
+  belgelenmiş satır; Toksoy bunu iki kez basar. Ayna yorumu nota aittir.
+mediated_by: Toksoy 2006 ← Cumhuriyet 14 ve 16 Kasım 1938, Ulus 15 Kasım, Ayın Tarihi Kasım 1938
+verification_note: Çevrilmiştir; gazete adı Toksoy'da Ceska Slova olarak yazılmıştır.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 31a0fa4dd346
+  role: 3e4b4000e61a
+  quote: 8bb4067d130f
+  summary: 126698bcc5ce
+  caveat: 3aca68895f91
+  mediated_by: a785c4953be0
+  verification_note: 1611a9b68312
+  verification_method: 939bb46a04c3

@@ -1,0 +1,34 @@
+# Turkish for data/voices/2004/prodi-2004.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: prodi-2004
+voice: Romano Prodi
+role: Avrupa Komisyonu Başkanı
+quote: Onun vizyonu, Türkiye'nin Avrupa uluslar ailesinin tam bir parçası olmasıydı.
+quote_kind: translated
+summary: >-
+  Atatürk'ün çağdaş uygarlık standartlarına ulaşmayı en açık hedef olarak belirlediğini ve vizyonunun Avrupa
+  uluslar ailesinde tam bir yer edinmek olduğunu söyler.
+caveat: >-
+  Özgün dildeki metin (https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_04_16); TBMM tutanakları
+  (Tarihe Düşülen Notlar-2, 2012) Türkçe bir metin yayımlamaktadır: "O’nun Türkiye vizyonu, Avrupa uluslar
+  ailesi içerisinde tam olarak yer almaktı.". TBMM kitabı PDF s. 180 (basılı s. 169).
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Avrupa Birliği Komisyonu Başkanı
+  Romano Prodi, 43. Birleşim, 15 Ocak 2004' (başlık PDF s. 180'de)). Başlık ve alıntı aynı sayfada. ÖZGÜN
+  METİN: 'Meeting the standards of the contemporary civilisation was the paramount objective assigned by the
+  founder of modern Turkey, Mustapha Kemal Atatürk. ... His vision was for Turkey to be fully part of the
+  European family of nations.' (europa.eu SPEECH/04/16, Ankara, 15 Ocak 2004). Tutanaklarla tutarlı.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracımızla PNG'ye dönüştürülüp (check_png/c180.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı görüntü üzerinde ve kendi bağımsız metin katmanı
+  çıkarımımızla kelimesi kelimesine karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ee42a48d1a42
+  role: 073d26e854f0
+  quote: e0eb3644c889
+  summary: 4d42e0b14d40
+  caveat: f01e6d25e6b7
+  verification_note: c594deed1a3e
+  verification_method: 3c7357fe32a5

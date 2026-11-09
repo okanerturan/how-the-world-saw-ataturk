@@ -1,0 +1,25 @@
+# Turkish for data/voices/1922/oeconomos-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: oeconomos-1922
+voice: Lysimachos Oeconomos
+role: Yunan tarihçi, Londra Üniversitesi King's College'da öğretim görevlisi
+quote: >-
+  Mustafa Kemal Paşa'nın birlikleri için Hristiyan Smyrna, Gâvur İzmir, yıkmaları gereken bir başka Kartaca
+  gibiydi
+quote_kind: translated
+summary: >-
+  Cui bono'dan hareketle, Kemal'in birliklerinin ve Ankara'daki liderlerin, Kartaca'ya benzettiği Hristiyan
+  İzmir'i yıkmakta her türlü çıkarı olduğunu savunur.
+caveat: >-
+  Felaketten haftalar sonra yazılmış, derlenip önsöz eklenmiş dosya; kendi görüşü Önsöz'dedir (s. 14). Yazar
+  için ülke Yunanistan olarak verilmiştir; Londra'da çalışıyordu.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bbface2d8033
+  role: 8c07cf80e6ab
+  quote: ca26e611a9b2
+  summary: d14a8026eae8
+  caveat: 73e515b85a9c
+  verification_method: ad8cee67138e

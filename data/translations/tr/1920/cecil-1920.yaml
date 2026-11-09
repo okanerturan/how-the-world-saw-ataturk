@@ -1,0 +1,25 @@
+# Turkish for data/voices/1920/cecil-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cecil-1920
+voice: Lord Robert Cecil, Milletvekili
+role: Avam Kamarası sorusu, Kilikya katliamları
+quote: >-
+  Mustafa Kemal Paşa'nın Türk Harbiye Nezareti ile sürekli ve yakın iletişim içinde olduğu gerçeği değil midir
+quote_kind: translated
+summary: >-
+  Kemal'i katliamlarla ilişkilendirerek, Hükümeti onun İstanbul'daki Harbiye Nezareti ile yakın temas halinde
+  olduğunu kabul etmeye zorladı.
+caveat: Ek bir soru; görüş açıkça dile getirilmemiş, ima edilmiştir.
+verification_note: >-
+  Alıntı birebir aynı ('la it not the fact that Mustapha Kemal Pasha ...'); örtük görüş uyarısı yerindedir.
+verification_method: Hansard API tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a86a4b5fc247
+  role: a2a1371366a3
+  quote: 0aeeee13a8c6
+  summary: eff38ca8ea78
+  caveat: 30e4339ed761
+  verification_note: 7c8418ef3cb1
+  verification_method: bbf1d6465de4

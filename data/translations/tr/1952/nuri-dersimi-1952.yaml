@@ -1,0 +1,30 @@
+# Turkish for data/voices/1952/nuri-dersimi-1952.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nuri-dersimi-1952
+voice: Nuri Dersimi
+role: Koçgiri/Dersim Kürt milliyetçisi ve hatırat yazarı
+quote: Bu kadın ve çocukların binlercesi can verdi
+quote_kind: translated
+summary: >-
+  Ordunun 1938 Dersim harekâtını anlattı: mağara girişleri duvarla örüldü, aşiretler tuzağa çekilip imha
+  edildi; görgü tanığı değildir ve şahsen Atatürk hakkında bir cümle yoktur.
+caveat: >-
+  Harekât başlamadan önce Dersim'den ayrıldı; zehirli gaz iddiası van Bruinessen'e göre kanıtlanmamıştır;
+  bakışı bir kişi olarak Atatürk'e değil, devlete ve orduya yönelir. 'Düşmanca' kutupluluğu arşivin
+  çıkarımıdır; Dersimi'nin Atatürk hakkında herhangi bir cümlesi bulunamadı.
+mediated_by: van Bruinessen (çeviri) <- Dersimi, Kürdistan tarihinde Dersim (Halep 1952)
+verification_note: >-
+  Alıntı bulundu ('Thousands of these women and children perished ... army bricked up the entrances of the
+  caves'). Atatürk hakkında cümle yok; Atatürk'e karşı 'düşmanca' oluşu çıkarımdır (kaydın kendi şerhi).
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e2573877dc56
+  role: eccc8e415ad7
+  quote: 557bd98a7a27
+  summary: d448b9cecfe1
+  caveat: 953a5b4b9d53
+  mediated_by: 457f82e4e0bb
+  verification_note: fbd8b11489f2
+  verification_method: ad8cee67138e

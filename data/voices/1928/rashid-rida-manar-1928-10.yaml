@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rashid-rida-manar-1928-10
+voice: Rashid Rida
+voice_type: person
+role: Salafi theologian; editor of al-Manar
+country: Egypt
+country_now: Egypt
+domain: religion
+date: "1928-10-14"
+era: contemporary
+polarity: conflicted
+intensity: 3
+mirror: apostate
+artifact: article
+evidence: P
+summary: >-
+  Alphabet reform as the Kemalists' attack on Islam, yet grants Kemal a great soul and far-reaching ambition.
+quote:
+  text: >-
+    by my life, it is a great soul and a far-reaching ambition, though we Muslims abhor this new plan
+  language: en
+caveat: >-
+  Unsigned first-person editorial, attributed to Rida. Quote is the note author's English translation of the
+  Arabic original, which the note prints.
+node: Al-Manar 26–29 (1926–1928) — Rida on Kemal's Reforms
+sources:
+  - url: https://archive.org/details/Almanar
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA Almanar almanar29.pdf, pdf 383 and 393 (pp.456, 466; cover pdf 328: 30 Rabi II 1347 / 14 Oct 1928)
+  method: >-
+    curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
+  note: >-
+    Arabic on p.466 sec.3 'ma yatma' fihi Mustafa Kamal bi-najahih'; p.456 opens first-person 'urid al-yawm an
+    uwajjih...' with no byline; translation drops the trailing 'many wise think unsound' clause (fine);
+    conflicted holds; article end/byline not read.
+  checked_on: "2026-10-30"

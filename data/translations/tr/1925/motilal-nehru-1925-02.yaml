@@ -1,0 +1,41 @@
+# Turkish for data/voices/1925/motilal-nehru-1925-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: motilal-nehru-1925-02
+voice: Motilal Nehru
+role: Swaraj Partisi lideri, Birleşik Eyaletler Şehirleri üyesi
+quote: >-
+  İşte halkın kendi kendini yönettiği bir hükümet budur ve Mustafa Kemal Paşa gibi seçkin, ülkede yönetimin
+  başı konumundaki bir kişi, o makama bağlı tüm saygınlığı ayda 40 sterlinle koruyabiliyorsa
+quote_kind: translated
+summary: >-
+  Mütevazı bir Başkan maaşını savunurken, Türk yönetiminin başında ayda 40 sterlin alan Kemal'i halk hükümeti
+  örneği olarak gösterir.
+caveat: >-
+  Legislative Assembly Debates, c. I, kısım II, 11 Şubat 1925, President's Salary Bill, s. 975. Lok Sabha
+  Secretariat / Government of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR
+  üzerinden. Sözlerine 'I do not know how far it is correct' (bir gazete haberi) diyerek başlar. Kemal'in
+  tutumlu cumhuriyetçi liderlik modeli olarak araçsal kullanımı; 'Pasha' kelimesi OCR'daki 'Fasha'dan
+  düzeltilmiştir. Jawaharlal Nehru'nun babası. Metin resmi tutanağın OCR çıktısından okunmuştur; bariz OCR
+  hataları alıntıda sessizce düzeltilmiştir.
+verification_note: >-
+  OCR düzeltmelerinden ('Fasha'=Pasha) sonra alıntı birebir aynı; Nehru'nun kesintisiz konuşması, konuşmacı
+  değişikliği yok; 'I do not know how far it is correct' ihtiyat kaydı ve 'drew a salary of only 40 pounds a
+  month' şeklindeki gazete haberi çerçevesi doğrulandı. 'vol. I pt. II' cilt ibaresi OCR ön sayfalarında
+  görünmüyor ('Second Session of the Second Legislative Assembly 1925' yazıyor); bağımsız olarak kontrol
+  edilmedi. SORUN: 'admiring' kutupluluğu, kaydın kendi uyarı notuyla ('Instrumental use of Kemal as a model
+  of frugal republican leadership') ve README tanımıyla çelişiyor; zira övgü, Başkan maaşı hakkındaki
+  argümanına hizmet ediyor. Düzeltme: kutupluluk -> 'instrumental' (yoğunluk 1 kalır). Bakış sınırda ama geçer
+  ('a person of the distinction of Mustapha Kemal Pasha ... a government of the people').
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden indirildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa üstbilgileri ve konuşma okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 12c9e25f6d07
+  role: ef5a73f392b3
+  quote: 79c7c7215f4e
+  summary: 8ca0907e34cb
+  caveat: 9c5f313cadd7
+  verification_note: 3ddf4a916ea9
+  verification_method: 634050edd257

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-tijd-1930-06-16
+voice: De Tijd
+voice_type: press
+role: Catholic 'godsdienstig-staatkundig dagblad'
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1930-06-16"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: poem
+evidence: P
+summary: >-
+  Mocked Kemal as a dictator who wants no criticism, with Turkish journalists vanishing into cells.
+quote:
+  text: Doch critiek wil hij niet hebben
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. Comic verse signed Martin Berden; the paper's subtitle is
+  the KB's.
+node: Dutch Dailies on the Dictator, 1924–1937
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010532214:mpeg21:a0148
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: resolver.kb.nl ddd:010532214:mpeg21:a0148:ocr (De Tijd 16 jun 1930, art. 148)
+  method: fetch
+  checked_on: "2026-10-29"

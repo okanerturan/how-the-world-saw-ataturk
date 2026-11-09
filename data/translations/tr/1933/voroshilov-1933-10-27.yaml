@@ -1,0 +1,38 @@
+# Turkish for data/voices/1933/voroshilov-1933-10-27.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: voroshilov-1933-10-27
+voice: Kliment Voroshilov
+role: >-
+  Sovyet Askerî ve Deniz İşleri Halk Komiseri, Cumhuriyet'in 10. yıl dönümü heyetinin başkanı
+quote: >-
+  Konuşmamı bitirirken, şanlı adı hem yeni Türkiye'nin kendi bağımsızlığı uğrundaki muzaffer mücadelesiyle hem
+  de kültürel ve ekonomik yeniden doğuşuna yönelik azimli yaratıcı çalışmayla bağlantılı olan, Türk halkının
+  ulusal kurtuluş mücadelesinin önderi, Türkiye Cumhuriyeti Cumhurbaşkanı Gazi Mustafa Kemal Paşa'ya SSCB
+  halklarının derin saygısını ifade ediyorum.
+quote_kind: translated
+summary: >-
+  Ankara'da İsmet Paşa'ya verdiği cevabı bitirirken, Kemal'i hem zaferle hem de kültürel yeniden doğuşla
+  bağlantılı ulusal kurtuluş mücadelesinin önderi olarak selamlar.
+caveat: >-
+  Правда sayı 299 (5825), 29 Ekim 1933, s. 2, 'Ответная речь тов. Ворошилова' (Ankara'dan 27 Ekim tarihli TASS
+  haberi; varış akşamı yemekte İsmet Paşa'ya verilen cevap; cümle, 'за здоровье президента республики' kadeh
+  kaldırma sözünden önce konuşmayı kapatır). Sayfa görüntüsünden okundu (archive.org taramasının 300 dpi
+  kırpımı; arşivin kendi OCR'ı berbattır). Devlet ziyaretinde resmî kadeh konuşması olduğundan kutupluluk
+  'araçsal'; metin stenogram değil, Pravda'nın TASS'tan yayımladığı şekliyledir. Sayfa ve sayı tarihi
+  üstbilgide basıldığı gibidir.
+verification_note: >-
+  Alıntı birebir aynıdır ('Zakanchivaya svoyu rech ... k vozhdyu natsionalno-osvoboditelnoi borby turetskogo
+  naroda ... Gazi Mustafa Kemal-pashe, so slavnym imenem kotorogo svyazany ... vozrozhdeniem'); üstbilgi,
+  'Otvetnaya rech tov. Voroshilova' başlığı ve sayfa doğrulandı; çeviri sadıktır. Resmî kadeh konuşması:
+  araçsal doğrudur.
+verification_method: PDF sayfası 250 dpi çözünürlükte işlendi ve görüntü üzerindeki Rusça OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ed5045773f78
+  role: 99e488415c76
+  quote: 0384591b1454
+  summary: ba2640c46007
+  caveat: 258e3b121dcb
+  verification_note: 74dc11d0d71e
+  verification_method: d8c78ee06983

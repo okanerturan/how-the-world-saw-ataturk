@@ -1,0 +1,18 @@
+# Turkish for data/voices/1938/vladimir-potemkin-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: vladimir-potemkin-1938
+voice: Vladimir Potemkin
+role: Sovyet Dışişleri Birinci Komiser Yardımcısı
+summary: >-
+  Sovyet heyetine başkanlık etti, çelenkler koydu; İnönü'nün isteği üzerine Ankara'dan ayrılan son yabancı
+  temsilci oldu ve Sovyet-Türk görüşmelerini başlattı.
+mediated_by: Hollanda basını (Havas, NRC) 25–26 Kasım 1938
+verification_method: web erişimi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d9e12ca25046
+  role: 301428300f87
+  summary: 0fa7e8419d72
+  mediated_by: 9a33d6e1a08c
+  verification_method: ad8cee67138e

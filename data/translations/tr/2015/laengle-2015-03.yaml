@@ -1,0 +1,33 @@
+# Turkish for data/voices/2015/laengle-2015-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: laengle-2015-03
+voice: Christoph Längle
+role: Avusturya Federal Konseyi (Bundesrat) FPÖ üyesi (Vorarlberg)
+quote: >-
+  Benim görüşüme göre o dönemde çok ilerici bir devlet adamı olan Mustafa Kemal Atatürk, yeni Türk devlet
+  yapısının “altı ok”unu da getirmiştir.
+quote_kind: translated
+summary: >-
+  Başörtüsü ve laiklik konulu bir tartışmada, kendi görüşüne göre Atatürk'ü yeni Türkiye'yi Batılı ilkeler
+  doğrultusunda yönlendiren çok ilerici bir devlet adamı olarak nitelendirir.
+caveat: >-
+  Türkiye'nin mevcut gidişatına karşı, laik kurucunun fesi ve başörtüsünü yasakladığını savunmak için
+  kullanılmıştır; bu övgü Avusturya'daki İslam hakkında bir argümana hizmet etmektedir. İddiasını şu sözlerle
+  destekler: 'dass gerade Mustafa Kemal Atatürk sich sehr wohl total nach westlichen Prinzipien ausgerichtet
+  hat'. [Çeviri:] Benim görüşüme göre o dönemde çok ilerici bir devlet adamı olan Mustafa Kemal Atatürk, yeni
+  Türk devlet yapısının 'altı ok'unu da getirmiştir.
+verification_note: >-
+  Almanca tırnak işaretleri dahil birebir aynı; destekleyici cümle de mevcut; konuşmacı, parti, tarih doğru.
+  Çeviri sadık ('damals' ifadesi 'for his time' olarak karşılanmış). Kişiye yönelik kendi görüşünü belirten
+  bir övgü olduğundan bakış testini geçiyor; hayranlık bildiren / yoğunluk 1 yerinde.
+verification_method: parlament.gv.at HTML sayfasının yeni çekimi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 703cf002bb26
+  role: 46cf51b27b9d
+  quote: b872a4e46b37
+  summary: 93bb2b522ff2
+  caveat: a2babb601e5a
+  verification_note: 356cea3e3d32
+  verification_method: f4548f3ae88d

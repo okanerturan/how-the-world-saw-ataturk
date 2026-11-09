@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: franklin-bouillon-1922-09
+voice: Henry Franklin-Bouillon
+voice_type: person
+role: French politician and former minister who signed the Ankara Agreement of 1921
+country: France
+country_now: France
+domain: diplomacy
+date: "1922-09-24"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  Before meeting Kemal, says their telegrams, friendship and his knowledge of the man lead him to hope, though
+  dangers remain.
+quote:
+  text: >-
+    Our exchange of telegrams. our reciprocal friendship and my knowledge of the man leads me to hope
+  translation: "(already English: the New York Times's rendering of his French remarks)"
+  language: en
+mediated_by: New York Times 25 Sep 1922 (English rendering)
+caveat: >-
+  Cited as 'Paris Acclaims Peace in Near East; Will Send Franklin-Bouillon by Fast Cruiser to Advise the
+  Turks', New York Times, 25 September 1922 (Paris dispatch of 24 Sept). Single source (J): read only as the
+  archive snippet returned by search, the article itself is paywalled; the quotation is the NYT's English
+  rendering of a French statement, and the OCR full stop after 'telegrams' is kept as printed in the snippet.
+  Wire/press report of a statement, not his own text. Diplomatic purpose (selling Allied terms to Kemal)
+  colours it; he adds that dangers remain. Check: the snippet breaks off at 'leads me to hope'; 'every
+  confidence in Kemal's discretion and wisdom' is the reporter's indirect speech.
+node: >-
+  French Pens on Kemal, 1920–1944 — Herriot, Pernot, Pinon, Delarue-Mardrus and Franklin-Bouillon
+sources:
+  - url: https://nytimes.com/1922/09/25/archives/paris-acclaims-peace-in-near-east-will-send-franklinbouillon-by.html
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    nytimes.com/1922/09/25/archives/paris-acclaims-peace-in-near-east-will-send-franklinbouillon-by.html
+    (search snippet via tools/ms, 1 call); article body paywalled
+  method: tools/ms search, read returned snippet
+  note: >-
+    Words 'Our exchange of telegrams. our reciprocal friendship and my knowledge of the man leads me to hope,'
+    he said' are in the NYT snippet (OCR full stop kept). But: (1) the quote breaks off mid-sentence; (2)
+    'every confidence in Kemal's discretion and wisdom' is the NYT reporter's indirect speech, not his words,
+    yet what_they_saw presents it as his statement; (3) English rendering of a French remark in a press
+    dispatch. Single J-tier, press-reported statement; weakest record in the batch. Suggest what_they_saw:
+    'Before leaving to meet Kemal, says their telegrams, friendship and knowledge of the man lead him to hope,
+    while admitting dangers remain'.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (rounds 21–22)
+  checked_on: "2026-11-03"

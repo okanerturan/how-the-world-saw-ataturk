@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sabiha-gokcen-1982
+voice: Sabiha Gökçen
+voice_type: person
+role: Military pilot, Atatürk's adopted daughter
+country: Turkey
+country_now: Turkey
+domain: military
+date: "1982"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: emancipator-patriarch
+artifact: memoir
+evidence: S
+summary: >-
+  Recalls persuading Atatürk to let her fly in the 1937 Dersim operation; he consented and handed her his own
+  pistol to guard her honour.
+quote:
+  text: erişilmeze erişmiştim
+  translation: I had reached the unreachable
+  note: on meeting him in 1925
+  language: tr
+mediated_by: >-
+  Altınay, in Vatan Millet Kadınlar (İletişim, 2000), pp. 268-269 ← Gökçen, Atatürk'le Bir Ömür (1996
+  printing), pp. 111, 117-118, 122
+caveat: >-
+  TRANSLATION (this record's): 'Should such bad luck happen, do not worry, I will not surrender myself to them
+  alive.' Her reply to Kemal, who warned that a forced landing among the rebels would be worse than death. The
+  memoir is 'Oktay Verel'in kaleminden' (ghost-written); bibliographies give printings of 1984 and 1994 as
+  well, so the first date is not settled. The chapter title is 'Dersim Harekâtı ve Namusumu Koruyacak Silah!'.
+  NUANCES vault claim: the vault says he 'deployed her'; in her account she learned of the operation late and
+  asked him for permission, which he gave subject to Marshal Çakmak's consent. She says she does not dwell on
+  the operation's causes or results (p. 125). Check: first edition *Atatürk'ün İzinde Bir Ömür Böyle Geçti*,
+  written by Oktay Verel (Türk Hava Kurumu, 1982); later printings 1996. Quote as cited by Altınay 2000, p.
+  262; the Dersim episode is narration about herself.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/yakintarihhh2
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    archive.org yakintarihhh2, 'Ayşe Gül Altınay Vatan Millet Kadınlar_djvu.txt': Altınay's chapter pp.
+    262-269 (quote p. 268; bibliographic note p. 262 n. 1); editor's introduction p. 20
+  method: archive.org open djvu text read
+  note: >-
+    Quote verbatim (Gökçen 1996: 117), with Kemal's warning and pistol speech (117), his words to friends
+    (118), chapter title 'Dersim Harekâtı ve Namusumu Koruyacak Silah!' (111), flights (122) and 'nedenleri ve
+    sonuçları üzerinde duracak değilim' (125). Altınay confirms she learned of the operation late, flew to
+    Ankara and asked him; he made it subject to Marshal Çakmak. DATE: Altınay p. 262 n. 1 gives the first
+    edition as 'Atatürk'ün İzinde Bir Ömür Böyle Geçti, Kaleme Alan Oktay Verel, Türk Hava Kurumu Yayınları,
+    1982'. Her quotations are from 'Atatürk'le Bir Ömür, Oktay Verel'in Kaleminden, 2. Basım, İstanbul, Altın
+    Kitaplar, 1996'. Corrections: date 1996 → 1982 (id → sabiha-gokcen-1982); mediated_by → '... ← Gökçen,
+    Atatürk'le Bir Ömür (2nd pr., Altın Kitaplar 1996), pp. 111, 117-118, 122, 125; 1st ed. Atatürk'ün İzinde
+    Bir Ömür Böyle Geçti (THK 1982)'; caveat: replace 'printings of 1984 and 1994 ... not settled' with the
+    1982 first edition. Ghost-written ('kaleme alan Oktay Verel') must stay in the caveat. Strict test: the
+    episode is narration and the quote is her vow, not a view of Kemal. Admiring rests on the memoir's frame.
+    A quote that is her view: '“erişilmeze erişmiştim”' on meeting him in 1925 (Gökçen 1996: 21, Altınay p.
+    262). Schema ok.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33)
+  checked_on: "2026-11-06"

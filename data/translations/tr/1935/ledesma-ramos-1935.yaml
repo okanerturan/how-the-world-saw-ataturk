@@ -1,0 +1,36 @@
+# Turkish for data/voices/1935/ledesma-ramos-1935.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ledesma-ramos-1935
+voice: Ramiro Ledesma Ramos ('Roberto Lanzas' adıyla)
+role: İspanyol faşist ideolog, JONS'un kurucusu
+quote: >-
+  Çağımızda, yani bizzat kendi günlerimizde, ulusal devrimler de şaşırtıcı bir başarıyla gelişmektedir.
+  Bunları temsil eden şu isimlere bakınız: Mussolini, Kemal, Hitler ve -neden olmasın?- Stalin.
+quote_kind: translated
+summary: >-
+  İspanya'yla karşılaştırarak Kemal'i Mussolini, Hitler ve Stalin'in yanında şaşırtıcı başarıya ulaşmış çağdaş
+  'ulusal devrimler' arasında sayar.
+caveat: >-
+  'Roberto Lanzas' imzalı ¿Fascismo en España? (Madrid, önsöz tarihi Kasım 1935); archive.org kayıt başlığına
+  ve metnin La Conquista del Estado hakkındaki kendi anlatımına göre Ledesma Ramos'un takma adıdır; OCR'ın
+  altbilgi dizisine göre s. 12 (ulusal devrim ve sağ üzerine bölüm). Aynı cümle 1942 tarihli Ledesma seçkisi
+  Breviarios del Pensamiento Español içinde de yer alır. Tek bir sıralamadır ama Kemal'i başarılı milliyetçi
+  devrimler panteonuna yerleştirir. La Conquista del Estado sayı 23'teki (24 Ekim 1931, yazar belirtilmemiş)
+  daha erken bir yazı 'la victoria presente del Gasi'den ve 'Mustafá Kemal supo uncirse a la lejanía'dan söz
+  eder; Ledesma'ya ait olarak kaydedilmemiştir.
+verification_note: >-
+  Birebir aynı (yalnızca satır sonu bölünmesi var); çeviri sadık; sayfa 12 doğrulandı (öncesinde altbilgi 11,
+  sonrasında 12 geliyor). Önsöz Kasım 1935 tarihli. 'Roberto Lanzas' takma adının Ledesma olduğu bilgisi kitap
+  metnine değil, archive.org kayıt başlığına ve genel bilgiye dayanıyor. Değerlendirici ('éxito pasmoso'),
+  dolayısıyla yoğunluk 1'de bakış uygun.
+verification_method: djvu metni çekildi, dizge eşleştirildi, sayfa altbilgileri sayıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f09086047088
+  role: 5a93c72f08e9
+  quote: e06570658172
+  summary: 0b729e504637
+  caveat: 22c12ad27432
+  verification_note: af3d1775b37b
+  verification_method: b9824f0e1528

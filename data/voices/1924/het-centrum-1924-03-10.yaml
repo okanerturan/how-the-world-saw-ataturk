@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: het-centrum-1924-03-10
+voice: Het Centrum
+voice_type: press
+role: Utrecht Catholic daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1924-03-10"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Said Kemal's modernism, 'alas' equated with anti-religious ideas, had hurt Easterners in what they hold
+  dearest: their faith.
+quote:
+  text: heeft vele Oosterlingen geraakt aan wat hun zeer dierbaar is
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. Surrounding clause ('wat helaas gelijk staat met
+  anti-religieuse begrippen') is OCR-garbled and not quoted.
+node: Dutch Confessional Press and the Fall of the Caliphate, March 1924
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010001280:mpeg21:a0120
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    KB resolver ddd:010001280:mpeg21:a0120:ocr (Het Centrum, 1924-03-10, 'Kijkjes op de Wereld')
+  method: fetch
+  checked_on: "2026-10-29"

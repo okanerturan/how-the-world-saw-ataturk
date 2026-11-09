@@ -1,0 +1,35 @@
+# Turkish for data/voices/2026/guterres-2026-03-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: guterres-2026-03-12
+voice: António Guterres
+role: BM Genel Sekreteri
+quote: >-
+  Zorluklar ve liderlik yoluyla Atatürk, barışın tesadüfen ortaya çıkmadığını anladı. Barış bilinçli bir
+  tercihtir – toplumsal uyuma dayanır ve uluslararası işbirliğiyle sürdürülür.
+quote_kind: translated
+summary: >-
+  Atatürk Barış Ödülü'nü kabul ederken, Atatürk'ün barışı bilinçli bir tercih olarak anladığını ve 'yurtta
+  barış' şiarının BM Şartı'nın ruhunu yansıttığını söyler.
+caveat: >-
+  Genel Sekreter'in Cumhurbaşkanı Erdoğan'dan 2025 Atatürk Uluslararası Barış Ödülü'nü alırken yaptığı
+  konuşmanın resmî metni, Cumhurbaşkanlığı Külliyesi, Ankara, 12 Mart 2026 (UN in Türkiye). Ayrıca Atatürk
+  için 'commitment to social progress, equality, and the welfare of all resonates deeply with the mission of
+  the United Nations' diye ekler. Ödül kabul konuşması; aynı gün Anıtkabir'i ziyaret etmiştir. Kontrol: atıf
+  yapılan BM sayfaları ödül yılını veya o günkü bir Anıtkabir ziyaretini belirtmemektedir; bu ayrıntıları
+  kaynaksız sayın.
+verification_note: >-
+  Alıntı kelimesi kelimesine mevcut; 'peace at home' ve 'resonates deeply with the mission of the United
+  Nations' ifadeleri de yer alıyor. P dürüst. Araştırma notundaki iki ayrıntı atıf yapılan sayfalarca
+  desteklenmiyor: ödül '2025' ödülü olarak adlandırılmıyor ve herhangi bir Anıtkabir ziyaretinden söz
+  edilmiyor. Ödül kabul bağlamı: tartışmaya açık biçimde araçsal, ancak hayranlık ifade ettiği savunulabilir.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1147b0daa3d7
+  role: 284c7eabb5c5
+  quote: fe10c42d0d08
+  summary: 337813173a8f
+  caveat: fa42790f963c
+  verification_note: faa4dcd1746a
+  verification_method: 5300d17a1d69

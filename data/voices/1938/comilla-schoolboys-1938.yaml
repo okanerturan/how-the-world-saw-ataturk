@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: comilla-schoolboys-1938
+voice: Four schoolboys of Comilla Zilla School
+voice_type: collective
+role: Schoolboys in Bengal
+country: British India
+country_now: Bangladesh
+domain: letters
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: S
+summary: Wrote after the death hoping his soul would sleep in peace.
+mediated_by: Dağlı 2023 ← Presidential Archive (Cumhurbaşkanlığı Arşivi)
+node: Foreign Delegations at the Funeral, November 1938
+sources:
+  - url: https://doi.org/10.30794/pausbed.1170334
+verification:
+  verdict: confirmed
+  checked_against: >-
+    sources/yabanci-ulkeler-hastalik-vefat.pdf (Dağlı 2023) §4 (Comilla Zilla School, CA 01016478-142)
+  method: local
+  note: Four class-2 students; wish that his soul sleep in peace is in Dağlı.
+  checked_on: "2026-10-29"

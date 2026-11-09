@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/romania-paper-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: romania-paper-1938
+voice: România
+role: Rumen gazetesi
+quote: bir kalemde Doğu'nun küflenmiş geleneklerini silip süpürdü
+quote_kind: translated
+summary: >-
+  Az siyaset ve çok çalışma yapılan bir ülke yönündeki ilk dönem arzusunu hatırlattı ve küflenmiş Doğu
+  geleneklerini bir kalemde silip süpürdüğünü söyledi.
+caveat: Rumence asılları görülmemiştir; Toksoy'un Türkçesinden çevrilmiştir.
+mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
+verification_note: >-
+  Toksoy'un Türkçesinden çevrilmiştir ('Bir kalemde doğunun küflenmiş geleneklerini silip süpürdü').
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 781162cb7202
+  role: 0afc8d6e7c93
+  quote: f836162677e1
+  summary: 187413f4d5cf
+  caveat: b97d8599df31
+  mediated_by: 374a97c5054a
+  verification_note: 33b6f393589b
+  verification_method: 939bb46a04c3

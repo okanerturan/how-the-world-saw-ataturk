@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-gaceta-tampa-1930
+voice: La Gaceta (Tampa)
+voice_type: press
+role: Spanish-language daily, Tampa, Florida
+country: United States
+country_now: United States
+domain: press
+date: "1930-10-14"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: editorial
+evidence: P
+summary: >-
+  Front-page column on dictatorships: Turkey a 'republic' in name; Kemal declined a perpetual presidency but
+  'knows' he stays president as long as it suits him.
+quote:
+  text: Turquía es una “república” por el presidente Kemal Pacha
+  language: es
+caveat: >-
+  Unsigned front-page column; OCR garbles the line about Kemal's refusal. The same column's dictator lists (27
+  Jun 1930, 28 May 1932, 1 Nov 1935) are leads, not records.
+node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
+sources:
+  - url: https://www.loc.gov/resource/sn86002403/1930-10-14/ed-1/?sp=1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn86002403 1930-10-14 p.1 (tile.loc.gov full_text)
+  method: >-
+    quote present in OCR ('Turquia es una republica por el presidente Kemal Pacha'); Kemal refuses perpetual
+    presidency, 'sabe que sera presidente hasta que le convenga'
+  note: "minor: LoC metadata lists La Gaceta as weekly, record role says 'daily'"
+  checked_on: "2026-10-29"

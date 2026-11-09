@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: arbeiter-zeitung-1930-08-21
+voice: Arbeiter-Zeitung (Vienna)
+voice_type: press
+role: Vienna daily, central organ of the Social Democratic Party
+country: Austria
+country_now: Austria
+domain: press
+date: "1930-08-21"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Called him 'the Turkish dictator' yet reported him sitting amicably with the opposition leaders of the new
+  Free Party and encouraging them.
+quote:
+  text: der türkische Diktator Kemal-Pascha
+  language: de
+caveat: >-
+  Dateline Istanbul, mid-August, from Yalova; headline too garbled in OCR to quote. ANNO page not openable
+  (bot gate): fragment from the search index only, page image not re-read. Hyphenation 'Kemal- Pascha'
+  rejoined.
+node: Vorwärts and the Arbeiter-Zeitung on the Dictator, 1924–1930
+sources:
+  - url: https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19300821&seite=2
+    archived: https://web.archive.org/web/20261109090007/https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19300821&seite=2
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    ANNO search snippet endpoint, Arbeiter-Zeitung 21 Aug 1930, p. 2 (documentId ANNO_aze19300821)
+  method: ANNO snippet API (free); page text and images gated, so only OCR snippets seen
+  note: >-
+    Snippets show 'In dem kleinen Badeort Jalowa bei Stambul, wo der tuerkische Diktator Kemal-Pascha die
+    heissen Sommermonate verbringt' and 'Kemal-Pascha sitzt mit den Fuehrern der Opposition gegen seine Partei
+    freundschaftlich beisammen, ermutigt sie'. Quote and date and page found as snippet only. Dateline and
+    'new Free Party' wording not seen in snippets. Conflicted polarity is fair on the snippets.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 10)
+  checked_on: "2026-11-01"

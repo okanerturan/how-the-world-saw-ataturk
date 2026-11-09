@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: great-umayyad-mosque-congregation-damascus-1938
+voice: Great Umayyad Mosque congregation, Damascus
+voice_type: collective
+role: Friday congregation and preacher
+country: Syria (French Mandate)
+country_now: Syria
+domain: religion
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: ceremony
+evidence: S
+summary: >-
+  Preacher announced the death; the mosque resounded with sobbing; call to prayer sounded in every city mosque
+  and a funeral prayer in absentia held.
+mediated_by: >-
+  Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)
+caveat: >-
+  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural.
+node: Damascus and Beirut Weep, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt fn94: Büyük Emevi Camii Friday prayer, hatip announced,
+    "hıçkırıklarla çınlamıştır", ezan in all mosques, gaip namazı
+  method: local
+  checked_on: "2026-10-29"

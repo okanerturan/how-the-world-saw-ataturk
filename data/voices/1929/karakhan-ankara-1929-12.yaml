@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: karakhan-ankara-1929-12
+voice: Lev Karakhan
+voice_type: person
+role: Soviet Deputy Commissar for Foreign Affairs
+country: Soviet Union
+country_now: Russia
+domain: diplomacy
+date: "1929"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: visit
+evidence: J
+summary: >-
+  On arriving in Ankara praised the new Turkey as self-reliant and said its ideas and state of mind matched
+  the Soviet Union's.
+quote:
+  text: They are the same ideas and the same state of mind that prevails in our country.
+  language: en
+mediated_by: Rosmer, The Militant, 18 Jan 1930, p. 7 (English rendering of Karakhan's Ankara remark)
+caveat: >-
+  Praise of Turkey, not of Kemal by name; known only via Rosmer's English rendering, which gives neither date
+  nor title (role and the 1929 date are from the article context).
+node: Soviet Leaders on the Kemalists, 1920–1930
+sources:
+  - url: https://marxists.org/archive/rosmer/1930/01/turkey.htm
+    archived: https://web.archive.org/web/20250910182421/https://www.marxists.org/archive/rosmer/1930/01/turkey.htm
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: marxists.org/archive/rosmer/1930/01/turkey.htm (A.R., The Militant 18 Jan 1930 p. 7)
+  method: >-
+    Free fetch; quote found inside Rosmer's own article quoting Karakhan on arrival at Angora; no Karakhan or
+    Turkish primary text seen
+  note: >-
+    Quote verbatim, but the only witness is Rosmer's English rendering of a reported remark. The sentence
+    given is the second half of Karakhan's remark (preceded by 'What I have seen ... is not strange to me').
+    The page gives no date: 'December 1929' is not supported by this source (only 'has just made a triumphal
+    voyage', January 1930 publication). Karakhan's title is not on the page either. Rosmer's own comment on
+    the remark is hostile; the record rightly keeps it as Karakhan's instrumental praise.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 10)
+  checked_on: "2026-11-01"

@@ -1,0 +1,31 @@
+# Turkish for data/voices/1985/australia-memorial-1985.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: australia-memorial-1985
+voice: Avustralya (Atatürk Anıtı, Canberra)
+role: Avustralya devleti ve Anzak hafızası
+quote: >-
+  Burada, bizim bu ülkemizde yan yana yattıkları yerde, bizim için Johnnie'ler ile Mehmetler arasında hiçbir
+  fark yoktur…
+quote_kind: translated
+summary: >-
+  Anzac Parade'de Atatürk Anıtı'nı dikerek, Türkiye ile dostluğun temeli olarak kutsal mekânlarına saygılı bir
+  Atatürk yerleştirdi.
+caveat: >-
+  Taşa kazınan metin karma bir metindir; Atatürk'e aidiyeti kanıtlanmamıştır (Honest History:
+  Johnnies-ve-Mehmets ibaresi 1978'de Avustralya'da eklenmiştir). Honest History'nin 1984-85 anlatımına göre
+  anıtın açılışı 25 Nisan 1985'te yapılmıştır.
+verification_note: >-
+  Honest History, Avustralya'da eklenen Johnnies-ve-Mehmets ibaresini (1978) içeren 'Those heroes' sözlerinin
+  kanıtlanabilir biçimde Atatürk'e ait olmadığını doğrular. 1985 Canberra anıtını, 25 Nisan 1985 tarihini ya
+  da tam olarak o 'There is no difference...' ifadesini göstermez; listelenen ikinci kaynak yanlış sayfadır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4be6e7cd370b
+  role: 71d5407f9f17
+  quote: 54b6db7b775f
+  summary: a1c5ac109f96
+  caveat: 9e3553f002b4
+  verification_note: 1b8d4889ea3d
+  verification_method: ad8cee67138e

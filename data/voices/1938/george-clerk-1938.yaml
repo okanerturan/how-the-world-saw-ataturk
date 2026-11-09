@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: george-clerk-1938
+voice: George Clerk
+voice_type: person
+role: "British diplomat (index: 'London, George Clerk'); ex-ambassador to Turkey (from memory)"
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: >-
+  Shared the grief at the loss of the great man whose memory will be immortal in Turkish hearts.
+quote:
+  text: the great man whose memory will ever be immortal in your hearts
+  language: en
+caveat: >-
+  TBMM vol. 2 (c2) PDF p. 43. Role is not on the sheet; identity inferred from name and index.
+node: Heads of State Write to the Assembly, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Taziyetname 1938, c2.pdf p. 43 (right-hand telegram, London)
+  method: >-
+    Own render of the PDF page (PDFKit PNG, read by eye); no OCR relied on; telegraph text is unaccented
+    capitals/lowercase typescript
+  note: >-
+    English: 'the great man whose memory will ever be immortal in your hearts', signed 'george clerk', 'please
+    believe that I share with your excellency and all my Turkish friends and the whole Turkish people your
+    grief at the loss of'. Quote verbatim. Role (Sir George Clerk, ex-ambassador) is not on the sheet;
+    identity inferred as the record says. The left telegram (Lichtenburg) is a different item.
+  checked_on: "2026-11-01"

@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: morning-tribune-1938
+voice: Morning Tribune
+voice_type: press
+role: Singapore daily
+country: Straits Settlements
+country_now: Singapore
+domain: press
+date: "1938-11-12"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Reported local Muslim mourning under the headline 'LOCAL MUSLIMS MOURN ATATURK'S DEATH'; no editorial view
+  of its own.
+quote:
+  text: LOCAL MUSLIMS MOURN ATATURK'S DEATH
+  language: en
+caveat: >-
+  Report of others' reaction; browse-agent retrieval; text unchecked (source unreachable 2026-10-29)
+node: Malaya Muslims Mourn Atatürk, November 1938
+sources:
+  - url: https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19381112-1.2.107
+verification:
+  verdict: unreachable
+  checked_against: >-
+    https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19381112-1.2.107 (bot_blocked;
+    render shows T&C wall)
+  method: render
+  note: Headline not verified.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

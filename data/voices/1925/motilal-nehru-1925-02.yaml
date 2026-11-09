@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: motilal-nehru-1925-02
+voice: Motilal Nehru
+voice_type: person
+role: Leader of the Swaraj Party, member for the Cities of the United Provinces
+country: British India
+country_now: India
+domain: politics
+date: "1925-02-11"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Arguing for a modest President's salary, holds up Kemal, head of the Turkish administration on £40 a month,
+  as a government of the people.
+quote:
+  text: >-
+    Now that is a government of the people by themselves, and if a person of the distinction of Mustapha Kemal
+    Pasha and his position in the country as the head of the administration, can keep all the dignity attached
+    to that position on £40 a month
+  language: en
+caveat: >-
+  Legislative Assembly Debates, vol. I pt. II, 11 Feb 1925, President's Salary Bill, p. 975. Official report
+  digitised by the Lok Sabha Secretariat / Government of India Press, via archive.org OCR. He prefaces it 'I
+  do not know how far it is correct' (a newspaper report). Instrumental use of Kemal as a model of frugal
+  republican leadership; 'Pasha' OCR-corrected from 'Fasha'. Father of Jawaharlal Nehru. Text read from the
+  OCR of the official report; obvious OCR slips are silently corrected in the quote.
+node: Indian Legislative Assembly on Kemal, 1924–1925 — Chaman Lall and Motilal Nehru
+sources:
+  - url: https://archive.org/download/eparlib.nic.in.761482/
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Legislative Assembly Debates 1925 2nd session (eparlib.nic.in.761482, clad_02_02_11-02-1925), 11 Feb 1925,
+    p. 975 (header 'PRESIDENT'S SALARY BILL. 975' precedes the passage); speaker header 'Pandit Motilal Nehru
+    (Cities of the United Provinces: Non-Muhammadan Urban)' at start of the speech
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim after OCR fixes ('Fasha'=Pasha); continuous speech by Nehru, no change of speaker; the 'I
+    do not know how far it is correct' hedge and the 'drew a salary of only 40 pounds a month'
+    newspaper-report framing confirmed. Volume label 'vol. I pt. II' not shown in the OCR front matter (reads
+    'Second Session of the Second Legislative Assembly 1925'); not independently checked. PROBLEM: polarity
+    'admiring' contradicts the record's own caveat ('Instrumental use of Kemal as a model of frugal republican
+    leadership') and the README definition, since the praise serves his argument about the President's salary.
+    Fix: polarity -> 'instrumental' (intensity 1 stays). Gaze is marginal but passes ('a person of the
+    distinction of Mustapha Kemal Pasha ... a government of the people').
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 23a)
+  checked_on: "2026-11-03"

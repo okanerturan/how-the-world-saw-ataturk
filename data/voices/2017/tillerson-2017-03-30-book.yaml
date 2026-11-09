@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tillerson-2017-03-30-book
+voice: Rex Tillerson
+voice_type: person
+role: US Secretary of State; entry in the Anıtkabir special book
+country: United States
+country_now: United States
+domain: diplomacy
+date: "2017-03-30"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Calls Atatürk the great and eminent leader of the Republic and speaks of his deep respect and admiration.
+quote:
+  text: >-
+    Out of deep respect and admiration for the great and distinguished leader of the Turkish Republic, Mustafa
+    Kemal Ataturk
+  language: en
+mediated_by: >-
+  Sözcü (DHA), İHA via Haberler and AA via Haberler/Sondakika, 30 Mar 2017 (three different Turkish
+  translations)
+caveat: >-
+  Turkish rendering of an entry written in English. The quote is the DHA wire as printed by Sözcü. Three
+  agencies give three different Turkish renderings: AA ('büyük ve seçkin lideri ... derin saygı ve takdirle
+  ... bu harika lidere'), İHA ('büyük lideri ... hayranlıklarımla') and DHA (as quoted), so the exact English
+  wording cannot be fixed. Tillerson read the entry aloud (AA). The date 30 Mar 2017 is from the sondakika.com
+  stamp of the DHA copy. English from the US Embassy Ankara post (snippet). A State Department template: Kerry
+  2013 shares its second half, and Caine 2026 repeats it almost word for word.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.sozcu.com.tr/rex-tillerson-buyuk-ve-ustun-lider-mustafa-kemal-ataturke-saygilarimi-sunuyorum-wp1766193
+  - url: https://www.haberler.com/guncel/tillerson-anitkabir-i-ziyaret-etti-9439396-haberi/
+  - url: https://www.haberler.com/guncel/abd-disisleri-bakani-tillerson-turkiye-de-9439388-haberi/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Sözcü (DHA) 31 Mar 2017 08:03 (repost); Haberler/İHA 30 Mar 2017 17:43; Haberler/AA 30 Mar 2017 17:40; US
+    Embassy Ankara Facebook post (search snippet with English)
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used; English via
+    free DuckDuckGo snippet
+  note: >-
+    Quote verbatim in the Sözcü/DHA copy; AA and İHA give different Turkish, as the caveat says. ORIGINAL
+    ENGLISH FOUND (US Embassy Ankara, Facebook snippet): 'Out of deep respect and admiration for the great and
+    distinguished leader of the Turkish Republic, Mustafa Kemal Ataturk, I am deeply honored and proud as a
+    representative of the American people to pay my respects to the Turkish nation and to this great leader.'
+    Replace the Turkish with this; the DHA 'Türk halkına' is really 'Turkish nation'. I saw the English only
+    as a search snippet, not the page itself. Date 30 Mar 2017 correct (Haberler stamps). AA says he read it
+    aloud.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

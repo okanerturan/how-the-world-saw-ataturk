@@ -1,0 +1,22 @@
+# Turkish for data/voices/1924/bataviaasch-nieuwsblad-1924-03-13.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bataviaasch-nieuwsblad-1924-03-13
+voice: Bataviaasch Nieuwsblad
+role: Batavia günlük gazetesi
+quote: Nitekim buradan, Jön Türklerden ne bekleneceği ortaya çıkmaktadır
+quote_kind: translated
+summary: >-
+  Halifenin sınır dışı ediliş biçiminden, bunun Jön Türklerden ne beklenebileceğini gösterdiği sonucuna vardı.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. 'Jong-Turken' gazetenin Ankara liderliği için
+  kullandığı adlandırmadır; Kemal aynı yazının önceki kısımlarında teklif sahibi olarak anılmaktadır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9c4b7acd03b0
+  role: db3557e3c92e
+  quote: ff6b7030b1c7
+  summary: 5596185aead3
+  caveat: 37f1557cde43
+  verification_method: ad8cee67138e

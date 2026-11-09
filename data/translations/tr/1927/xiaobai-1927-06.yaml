@@ -1,0 +1,27 @@
+# Turkish for data/voices/1927/xiaobai-1927-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: xiaobai-1927-06
+voice: 小白 (takma ad)
+role: Chiang karşıtı broşür yazarı, Haziran 1927
+quote: >-
+  Bu, apaçık Türkiye'nin Kemal'i, İtalya'nın Mussolini'si olmak istemek ve kişisel bir askeri diktatörlüğün
+  otokratik rejimini kurmak değil midir?
+quote_kind: translated
+summary: >-
+  Chiang'ın Nisan konuşmasının açıkça Türkiye'nin Kemal'i ve İtalya'nın Mussolini'si olmak, yani kişisel bir
+  askeri diktatörlük kurmak istediği anlamına geldiğini söyledi.
+caveat: >-
+  Hedef Chiang'dır; Kemal, tek adam askeri diktatörü için kullanılan bir etikettir, dolayısıyla düşmanca bir
+  tip kullanımıdır.
+verification_note: Alıntı birebir; bağlam Chiang'ın 18 Nisan tarihli ziyafet konuşmasıdır.
+verification_method: Wikisource metin ayrıştırma
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: abeecda376de
+  role: 5fd62f0d8055
+  quote: 940e593ccd60
+  summary: fedef450a82b
+  caveat: 38ad1f592a8a
+  verification_note: d632d31d7e69
+  verification_method: f12146cd977f

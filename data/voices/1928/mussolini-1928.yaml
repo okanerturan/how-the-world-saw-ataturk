@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mussolini-1928
+voice: Benito Mussolini
+voice_type: person
+role: Prime Minister of Italy (Duce)
+country: Italy
+country_now: Italy
+domain: politics
+date: "1928"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: quote
+evidence: S
+summary: >-
+  Tells a Turkish journalist that Kemal is a great personage who has given Turkey its supreme benefit, and
+  praises the Ankara model farm.
+quote:
+  text: >-
+    His Excellency Gazi Mustafa Kemal is a great personage who has bestowed the supreme boon and benefit upon
+    Turkey.
+  language: en
+mediated_by: >-
+  Doğar 2026 (Contemporary European History 35, fn. 95) ← Çelebi, Türkiye–İtalya Ekonomik İlişkileri
+  1923–1939, p. 89 ← interview with Yunus Nadi (English rendering of the Turkish text)
+caveat: >-
+  Second-hand and twice translated; the Yunus Nadi interview itself (Cumhuriyet, 1928; day not given) was not
+  read, so the wording is the article's English. Doğar notes the praise came while Mussolini was courting
+  Ankara and the same year Kemal sent his sons a gift; in Nov 1929 Mussolini sent a tractor to Kemal.  The
+  1920s Antalya/Anatolia rivalry is not covered by this record. Translation chain: Mussolini (Italian) → Yunus
+  Nadi's Turkish interview → Çelebi p. 89 → Doğar 2026's English; interview day unknown. Yunus Nadi was later
+  financially entangled with the fascist regime (1931–32).
+node: Interwar Leaders on Kemal in Their Own Words
+sources:
+  - url: https://www.cambridge.org/core/journals/contemporary-european-history/article/turkish-fields-italian-wheels-mussolinis-gift-of-a-tractor-to-mustafa-kemal-in-1929/06163E26A5C2B34C09F75C05B1482AFE
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Doğar, 'Turkish Fields, Italian Wheels', Contemporary European History 2026 (Cambridge Core HTML), main
+    text before fn 95 and fn 95 itself
+  method: tools/ms free fetch of the Cambridge Core HTML; read the passage and footnote 95
+  note: >-
+    Quote is verbatim in Doğar: 'In an interview in 1928 with Turkish journalist and MP Yunus Nadi Bey, he
+    praised the Ankara farm as an exemplary institution, stating: ‘His Excellency Gazi Mustafa Kemal is a
+    great personage who has bestowed the supreme boon and benefit upon Turkey.’' Footnote 95 reads only 'As
+    quoted in Çelebi, Türkiye–İtalya Ekonomik İlişkileri, 89.' The Yunus Nadi interview (Cumhuriyet) was not
+    found in one search; nothing earlier than Doğar's English rendering is reachable, so Mussolini's words are
+    twice translated (Italian > Turkish > English) and the interview day is unknown. The 'Ankara model farm'
+    praise is Doğar's gloss, not in the quote. Context supports caution: the abstract of 'Gifting books,
+    bribing elites, reaching the masses: Italian fascist propaganda in Turkey, 1923-38' (tandfonline
+    10.1080/00263206.2024.2415058, search excerpt only) says Yunus Nadi had a financial entanglement with the
+    fascist regime in 1931-32, and Doğar says Nadi told Mussolini Turkey's methods were 'akin to your own' (fn
+    105). Doğar's sons detail: in Sept 1928 Kemal gave Bruno and Vittorio Mussolini a 'small gift' (fn 17).
+    CORRECTION: keep as secondary-only; mediated_by and caveat should say 'English of a Turkish rendering of
+    an Italian interview, quoted via Çelebi p. 89'; do not put the English in quotation marks as Mussolini's
+    wording without 'in translation'; date stays '1928' (day unknown).
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 12)
+  checked_on: "2026-11-01"

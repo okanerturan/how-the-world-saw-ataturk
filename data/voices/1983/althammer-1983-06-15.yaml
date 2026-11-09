@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: althammer-1983-06-15
+voice: Walter Althammer
+voice_type: person
+role: >-
+  CDU/CSU member of the Bundestag (as printed in the protocol; first name not given in the DIP text)
+country: West Germany
+country_now: Germany
+domain: politics
+date: "1983-06-15"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Defends the Turkish army's tie to Atatürk's principles: the man who led Turkey out of an outdated structure
+  towards modern Western development.
+quote:
+  text: >-
+    Das Militär in der Türkei hat eine jahrzehntealte Verpflichtung an die Grundsätze Atatürks, der dieses
+    Land aus einer veralteten Struktur herausgeführt und sich bemüht hat, durch seine Grundsätze die Türkei
+    einer modernen westlichen Entwicklung zu öffnen.
+  translation: >-
+    The military in Turkey has a decades-old commitment to the principles of Atatürk, who led this country out
+    of an outdated structure and tried through his principles to open Turkey to a modern Western development.
+  language: de
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
+  documentation page; printed page checked in the dserver PDF. Used to defend the post-1980 Turkish military
+  regime in a Bundestag debate on Turkey, hence instrumental; the SPD member Luuk replies in the same debate
+  that Atatürk made modern Turkey 'together with the army' and that the hope of that tradition has been
+  'bitterly disappointed' (not recorded separately). First name not printed in the DIP text; identification
+  beyond the printed name is not attempted. Cited as Deutscher Bundestag, Plenarprotokoll 10/13, session of
+  1983-06-15, S. 793. First name from de.wikipedia (the protocol prints only 'Dr. Althammer'; the surname is
+  unique in the 10th Bundestag).
+node: German Parliaments on Atatürk — Hitler's Reichstag 1941 and the Bundestag 1983–2025
+sources:
+  - url: https://dserver.bundestag.de/btp/10/10013.pdf
+    archived: https://web.archive.org/web/20260304082732/https://dserver.bundestag.de/btp/10/10013.pdf
+  - url: https://dip.bundestag.de/
+    archived: https://web.archive.org/web/20261020200949/https://dip.bundestag.de/
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Bundestag plenary-protocol PDF 10/10013.pdf (WP10 sitting 13) from dserver.bundestag.de, fetched fresh;
+    de.wikipedia 'Walter Althammer' for the first name
+  method: >-
+    downloaded the dserver PDF, pdftotext, whitespace/hyphenation-normalised match of the quote, speaker
+    header and running-head page number read from the printed protocol; German read against the stored
+    translation; first name from de.wikipedia (CSU, Augsburg-Land, Bundestag 1961 to resignation 14 Apr 1985,
+    deputy chair of the CDU/CSU group 1982-84, speaks as Dr. Althammer, index 792 B)
+  note: >-
+    Quote verbatim, printed p. 793, speaker 'Dr. Althammer (CDU/CSU)'; translation faithful. CORRECTION: voice
+    should be 'Walter Althammer' (Dr. jur., CSU; he sat in the CDU/CSU group), and role 'CSU member of the
+    Bundestag (CDU/CSU group), deputy chair of the group'. The first name is not printed in the protocol, so
+    it rests on Wikipedia plus the unique surname in the 10th Bundestag (Wikipedia is tier J; the Bundestag
+    member database would be the P source, not fetched). Polarity instrumental / intensity 1 fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22c)
+  checked_on: "2026-11-03"

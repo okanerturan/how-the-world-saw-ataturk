@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/politika-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: politika-1938
+voice: Politika
+role: Belgrad bölgesi Yugoslav gazetesi
+quote: yeni Türkiye'nin dönüştürücüsü
+quote_kind: translated
+summary: >-
+  Tarihin onun adını yazacağını; iradesi ve zekâsıyla kendisini yeni Türkiye'nin dönüştürücüsü yapan bir halk
+  adamı olduğunu söyledi.
+caveat: >-
+  Alıntılar Toksoy'un Türkçesi üzerindendir; Sırp-Hırvatça asılları görülmemiştir. Notta şehir
+  belirtilmemiştir.
+mediated_by: Toksoy 2010 §E; aktarıldığı şekliyle Karahasan 1994
+verification_note: Toksoy'un Türkçesindeki 'yeni Türkiye'nin mübadili' ifadesinden çevrilmiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c2bb4fb4334d
+  role: 1ed91d30ed50
+  quote: f9d28e55c78b
+  summary: e372804543b7
+  caveat: 34f708f3ab43
+  mediated_by: 59d4438d35b2
+  verification_note: 3510d8dc20d4
+  verification_method: 939bb46a04c3

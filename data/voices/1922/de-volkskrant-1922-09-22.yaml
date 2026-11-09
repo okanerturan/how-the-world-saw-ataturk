@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-volkskrant-1922-09-22
+voice: De Volkskrant
+voice_type: press
+role: Catholic daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1922-09-22"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: report
+evidence: P
+summary: >-
+  Reported Kemal's promise to protect the American oil company's banks at Smyrna while the paper's Smyrna news
+  concerned church property and Christians led inland.
+quote:
+  text: Kemal heeft beloofd dat de banken van die maatschappij door hem zullen worden beschermd
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. No stated view of Kemal; recorded as witness. In the same
+  item the paper reports the archbishop's house destroyed but cathedral spared.
+node: Dutch Dailies at Smyrna, September 1922
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=MMKB12:000132218:mpeg21:a00020
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: resolver.kb.nl MMKB12:000132218:mpeg21:a00020:ocr (De Volkskrant 22 sep 1922, art. 20)
+  method: fetch
+  checked_on: "2026-10-29"

@@ -1,0 +1,46 @@
+# Turkish for data/voices/2009/obama-2009.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: obama-2009
+voice: Barack Obama
+role: Amerika Birleşik Devletleri Başkanı
+quote: >-
+  Tarihin akışını şekillendirmek için böylesine çok şey yapmış bir adama adanmış bu güzel anıttan derinden
+  etkilendim. Ancak şu da açıktır ki Atatürk'ün yaşamının en büyük anıtı, taş ve mermere dökülebilecek bir şey
+  değildir. Onun en büyük mirası Türkiye'nin güçlü, canlı, laik demokrasisidir ve bugün bu meclisin sürdürdüğü
+  çalışma da budur.
+quote_kind: translated
+summary: >-
+  Mozoleyi ziyaret ettikten sonra, Atatürk'ü tarihin şeklini değiştiren ve en büyük mirası Türkiye'nin yaşayan
+  laik demokrasisi olan bir lider olarak nitelendirir.
+caveat: >-
+  Özgün dildeki metin
+  (https://obamawhitehouse.archives.gov/the-press-office/remarks-president-obama-turkish-parliament); TBMM
+  tutanakları (Tarihe Düşülen Notlar-2, 2012) Türkçe bir metin yayımlamaktadır: "kendisi tarihin şeklini
+  değiştiren bir liderdir. Ama Atatürk’ün yaşamına ait en büyük anıt hiçbir şekilde taştan ya da mermerden
+  inşa edilemez, kendisinin bırakmış olduğu en büyük miras Türkiye’nin canlı laik demokrasisidir". TBMM kitabı
+  PDF s. 254 (basılı s. 243).
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Amerika Birleşik Devletleri Başkanı
+  Barack Hussein Obama, 72. Birleşim, 6 Nisan 2009'). Başlık ve alıntı aynı sayfada. ÖZGÜN METİN: 'This
+  morning I had the great privilege of visiting the tomb of your extraordinary founder of your republic. And I
+  was deeply impressed by this beautiful memorial to a man who did so much to shape the course of history. But
+  it is also clear that the greatest monument to Ataturk's life is not something that can be cast in stone and
+  marble. His greatest legacy is Turkey's strong, vibrant, secular democracy, and that is the work that this
+  assembly carries on today.' (obamawhitehouse.archives.gov, Remarks By President Obama To The Turkish
+  Parliament, 6 Nisan 2009). Tutanaklardaki 'tarihin şeklini değiştiren bir lider' ifadesi 'did so much to
+  shape the course of history' sözünü serbest biçimde çeviriyor ve 'strong' kelimesini atlıyor; esaslı bir
+  fark değil.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracımızla PNG'ye dönüştürülüp (check_png/c254.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı görüntü üzerinde ve kendi bağımsız metin katmanı
+  çıkarımımızla kelimesi kelimesine karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: "215865868473"
+  role: e98cef73a6c9
+  quote: a35e54679738
+  summary: f1c889933109
+  caveat: 8008eb4be9f5
+  verification_note: 0a557c245010
+  verification_method: 99eef0c44e29

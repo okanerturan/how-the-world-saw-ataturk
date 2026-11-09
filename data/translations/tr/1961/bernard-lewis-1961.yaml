@@ -1,0 +1,38 @@
+# Turkish for data/voices/1961/bernard-lewis-1961.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bernard-lewis-1961
+voice: Bernard Lewis
+role: Britanyalı-Amerikalı Orta Doğu tarihçisi; The Emergence of Modern Turkey (1961)
+quote: >-
+  Sert ve parlak bir asker, sıkı bir içkici ve kadın düşkünü olarak her bakımdan muazzam bir irade ve taşkın
+  bir canlılık adamıydı. ... Onunki, omuz üzerinden atılan tedirgin bakışın, kapı zili dehşetinin, toplama
+  kampının karanlık tehdidinin olmadığı bir diktatörlüktü.
+quote_kind: translated
+summary: >-
+  Muazzam iradeli, sert ve parlak bir asker, sıkı bir içkici ve kadın düşkünü; terör veya kamplar olmaksızın
+  edebe ve yasallığa saygı gösteren bir diktatör.
+caveat: >-
+  The Emergence of Modern Turkey, böl. VIII 'The Kemalist Republic', 2. baskıda (OUP/RIIA 1968) s. 290; açık
+  archive.org metninden (THEEMERGENCEOFMODERNTURKEY) okundu. Aynı ifadeler 1961 tarihli ilk baskıda da yer
+  almaktadır (archive.org metin içi araması: emergenceofmoder0000bern_d0k7 ve diğerleri); sayfa numarası
+  doğrulanmamıştır. Paragrafta ayrıca 'By his contemporaries he was often called a dictator, and in a sense he
+  certainly was' denmekte ve onun 'a respect for decency and legality, for human and political standards'
+  sergilediği belirtilmektedir. Hayranlık çekincelidir: rejime karşı siyasi faaliyet yasaklanmış ve basın sıkı
+  biçimde denetim altına alınmıştı.
+verification_note: >-
+  Her iki cümle de s. 290'da (2. baskı) birebir yer almakta; beraberinde 'By his contemporaries he was often
+  called a dictator, and in a sense he certainly was', 'respect for decency and legality' ifadeleri ve basın
+  denetimi çekincesi bulunmaktadır. 1961 basımları da aynı 'dictator-ship without the uneasy over-the-shoulder
+  glance' ifadesini taşımaktadır (sayfa görünmüyor). Belirtilen çekinceyle birlikte hayranlık içeren yaklaşım
+  desteklenmektedir.
+verification_method: djvu metni; archive.org tam metin araması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8d66659e184e
+  role: 52686c68c815
+  quote: c555797fd8f4
+  summary: 2186d81f32dc
+  caveat: 1466ac94bf7c
+  verification_note: d3ee35549224
+  verification_method: 02496026b4b4

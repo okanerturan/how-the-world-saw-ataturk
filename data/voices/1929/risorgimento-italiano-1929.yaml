@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: risorgimento-italiano-1929
+voice: Il Risorgimento Italiano nel Maryland
+voice_type: press
+role: Italian-language weekly, Baltimore
+country: United States
+country_now: United States
+domain: press
+date: "1929-01-12"
+era: contemporary
+polarity: instrumental
+intensity: 2
+mirror: modernization-poster-child
+artifact: editorial
+evidence: P
+summary: >-
+  Welcoming the Italo-Turkish pact: Turkey's rebirth and return to European history owed above all to Kemal's
+  energy, intuition and will.
+quote:
+  text: >-
+    rinascita e vitalità dovute sopra tutto all’energia, all’intuito, alla volontà di Kemal Pascià
+  language: it
+caveat: >-
+  Praise framed to celebrate Italy's pact policy (Fascist-era Italian diplomacy), hence instrumental; unsigned.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn89060332/1929-01-12/ed-1/?sp=4
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn89060332 1929-01-12 ed-1 (OCR, file 0213)
+  method: loc.gov JSON -> tile.loc.gov full_text OCR
+  note: >-
+    Quote verbatim (headed 'Politica Italiana e Nuova Turchia'); OCR file number 0213 vs sp=4 not
+    independently mapped.
+  checked_on: "2026-10-30"

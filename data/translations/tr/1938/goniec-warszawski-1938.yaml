@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/goniec-warszawski-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: goniec-warszawski-1938
+voice: Goniec Warszawski
+role: Varşova günlük gazetesi
+quote: uluslararası nitelikte bir olay
+quote_kind: translated
+summary: >-
+  Onun ölümünü uluslararası nitelikte bir olay olarak nitelendirdi; o, on beş yılda Türkiye'yi, ordusunu ve
+  dış politikasını modernleştirmişti.
+mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
+verification_note: Alıntı metni Kurun'un Goniec haberinde yer alıyor; ikinci elden ama belirtildiği gibi.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1169b62239be
+  role: a45f555cf357
+  quote: df5c64b34891
+  summary: b83beeca9a84
+  mediated_by: aa5a462e96c0
+  verification_note: cd3bba0d74de
+  verification_method: 939bb46a04c3

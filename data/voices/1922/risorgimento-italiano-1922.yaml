@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: risorgimento-italiano-1922
+voice: Il Risorgimento Italiano nel Maryland
+voice_type: press
+role: Italian-language weekly, Baltimore
+country: United States
+country_now: United States
+domain: press
+date: "1922-10-21"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Profile: Kemal is no longer a rebel but 'the recognised dictator'; unlike Enver and Talaat he is an
+  incorruptible patriot saving his country.
+quote:
+  text: >-
+    un patriota che lavora, indomito ed incorrotto, per salvare quanto è salvabile del suo povero paese
+  language: it
+caveat: >-
+  Unsigned front-page item (the same page calls him 'il dittatore riconosciuto'); OCR has minor artefacts.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn89060332/1922-10-21/ed-1/?sp=1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn89060332 1922-10-21 ed-1 seq 1 OCR
+  method: loc.gov JSON + tile.loc.gov full_text
+  note: Verbatim; page also has 'il dittatore riconosciuto' and the Enver/Talaat contrast.
+  checked_on: "2026-10-30"

@@ -1,0 +1,36 @@
+# Turkish for data/voices/2017/buhari-2017-10-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: buhari-2017-10-19
+voice: Muhammadu Buhari
+role: Nijerya Devlet Başkanı; Anıtkabir Özel Defteri kaydı
+quote: >-
+  Ankara'ya gerçekleştirdiğim resmi çalışma ziyareti ve İstanbul'daki dokuzuncu D-8 zirvesi vesilesiyle,
+  modern Türkiye'yi şekillendiren büyük bir yurtsever, vizyoner ve cesur liderin mozolesi olan Anıtkabir'i
+  ziyaret etmek bir onur ve ayrıcalıktır.
+quote_kind: translated
+summary: >-
+  Atatürk'ü modern Türkiye'yi şekillendiren büyük bir yurtsever, vizyoner ve cesur lider olarak nitelendirir
+  ve kendisine derin saygılarını sunar.
+caveat: >-
+  Cumhurbaşkanlığı tarafından yayımlanan şekliyle Anıtkabir Şeref Defteri kaydı; yazının geri kalanı
+  Nijerya-Türkiye ilişkileri hakkındadır. Aynı basın açıklamasına dayanılarak Punch ve The Sun (Nijerya)
+  tarafından da haberleştirilmiştir.
+mediated_by: Garba Shehu imzalı Nijerya Devlet Başkanlığı basın açıklaması, 19 Ekim 2017
+verification_note: >-
+  Kayıt metni State House açıklamasında ve Punch'ta birebir aynıdır; metin 'I pay my profound respect to
+  Mustafa Kemal Atatürk, founder of the Republic...' şeklinde devam eder. P+J kabul edilebilir
+  (cumhurbaşkanlığının kendi yazılı metnini yayımlaması). Bakış testi: değerlendirici sıfatlar ('patriotic,
+  visionary and courageous leader') üzerinden sınırda geçer, ancak kalıplaşmış özel defter üslubudur; ana
+  etmen bunu May ile tutarlı biçimde ele almalıdır.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c1df1982babf
+  role: 540910a8e68f
+  quote: f94444ff4836
+  summary: 40d318268f04
+  caveat: e1d682982a4d
+  mediated_by: b54b49618b4b
+  verification_note: 819d75086d45
+  verification_method: 5300d17a1d69

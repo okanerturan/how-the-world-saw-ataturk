@@ -1,0 +1,37 @@
+# Turkish for data/voices/1957/muzaffar-ali-1957.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: muzaffar-ali-1957
+voice: Nawab Muzaffar Ali
+role: Pakistan Parlamento Heyeti Başkanı
+quote: >-
+  Bu ilham membaını Türkiye ve Pakistan’ın büyük şahsiyetleri olan Atatürk ve Mehmet Ali Cinnah’a karşı
+  duyduğumuz derin hayranlık teşkil etmektedir.
+quote_kind: original-turkish
+summary: >-
+  Atatürk ve Cinnah'ı Pakistan'ın ilham kaynakları olarak anar; her ikisinin de ülkelerinin bağımsızlığı için
+  çalışıp öldüğünü söyler.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 18 (basılı s. 7). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe basılmıştır. Çeviri: "Bu ilhamın kaynağı, Türkiye ve Pakistan'ın büyük şahsiyetleri olan
+  Atatürk ve Muhammed Ali Cinnah'a duyduğumuz derin hayranlıktır." Kitaptaki başlık: 'Pakistan Parlamento
+  Heyeti Reisi Nevvab Muzaffer Ali', 7 Haziran 1957. İsmin yazılışı kitabı izlemektedir.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Pakistan Parlamento Heyeti Reisi
+  Nevvab Muzaffer Ali, 7 Haziran 1957'). Başlık ve alıntı aynı sayfadadır. Kitap ismi 'Muzaffer Ali' olarak
+  yazar; kayıtta Muzaffar Ali geçmektedir (kabul edilebilir, kitaptaki yazılışı not edin).
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracıyla PNG'ye dönüştürülerek (check_png/c18.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı, görsel üzerinde ve kendi bağımsız metin katmanı çıkarımıyla
+  kelime kelime karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 307a68e6d2bf
+  role: 983b1221722d
+  quote: 3475b7a5635f
+  summary: ed08c1e7622d
+  caveat: 657b75b0feae
+  mediated_by: 8e2cc528453b
+  verification_note: 8f32ae1f1825
+  verification_method: bb57a1b2989c

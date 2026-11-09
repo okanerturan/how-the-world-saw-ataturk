@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: patijn-1938
+voice: Patijn
+voice_type: person
+role: Netherlands minister
+country: Netherlands
+country_now: Netherlands
+domain: diplomacy
+date: "1938-11-11"
+era: funeral
+polarity: instrumental
+intensity: 1
+artifact: visit
+evidence: P
+summary: >-
+  Called at the Turkish legation in The Hague to convey the Netherlands Government's condolences.
+mediated_by: Aneta-ANP wire ← De Sumatra Post 11 Nov 1938
+caveat: Courtesy call; no personal view stated.
+node: Dutch East Indies Press, November 1938
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010382452:mpeg21:a0118
+    label: De Sumatra Post, 11 Nov
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010382459:mpeg21:a0143
+    label: De Sumatra Post, 19 Nov
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010382465:mpeg21:a0200
+    label: De Sumatra Post, 28 Nov
+verification:
+  verdict: confirmed
+  checked_against: >-
+    Delpher ddd:010382452:mpeg21:a0118 (Sumatra Post): "Den Haag, 10 Nov (Aneta-ANP). ... minister Patijn
+    bracht een bezoek aan de Turksche legatie ter betuiging van deelneming"
+  method: fetch
+  note: Record has empty sources list; wire dateline is 10 Nov, record dates 11 Nov (publication).
+  checked_on: "2026-10-29"

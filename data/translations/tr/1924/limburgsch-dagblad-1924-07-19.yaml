@@ -1,0 +1,24 @@
+# Turkish for data/voices/1924/limburgsch-dagblad-1924-07-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: limburgsch-dagblad-1924-07-19
+voice: Limburgsch Dagblad
+role: Limburg Katolik günlük gazetesi
+quote: Şurası kesindir ki fanatizm artacaktır
+quote_kind: translated
+summary: >-
+  Ankara'nın İslami gelenekten kopuşunun fanatizmi artıracağını öngördü ve 'modern putperestliğin' eskisine
+  eklenerek Müslümanları Hristiyanlaştırma umudunu daha da çaresiz hale getirmesinden korktu.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. 'De Islam' başlıklı uzun yazı, görünüşe göre bir
+  misyoner değerlendirmesidir; yazarı belirsizdir ve yeniden basım olabilir. Katolik kimliği genel bilgiden
+  alınmıştır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7e761f59ffd8
+  role: b84468af990b
+  quote: 883d46de3aa4
+  summary: 54991e4b71bf
+  caveat: a669fd961cbf
+  verification_method: ad8cee67138e

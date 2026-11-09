@@ -1,0 +1,30 @@
+# Turkish for data/voices/1922/inc-gaya-1922-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: inc-gaya-1922-12
+voice: Hindistan Ulusal Kongresi, Gaya oturumu
+role: Sarojini Naidu tarafından sunulan Kongre kararı
+quote: Bu Kongre, Gazi Kemal Paşa'yı ve Türk milletini son başarılarından dolayı tebrik eder
+quote_kind: translated
+summary: >-
+  Gazi Kemal Paşa'yı ve Türk milletini başarılarından dolayı tebrik etti; Türkiye'nin özgür statüsü ve
+  Müslüman kontrolündeki bir Arabistan mücadelesi için Hindistan adına taahhütte bulundu.
+caveat: >-
+  Sayfa numarası OCR üstbilgilerinden okunmuştur (yakl. s. 129-130). 'by a large majority' ile kabul edilmiş;
+  'non-Muslim control' ifadesini 'foreign control' ile değiştiren değişiklik önergesi reddedilmiştir.
+mediated_by: Modern Review, Ocak 1923, Kongre tutanakları
+verification_note: >-
+  'CONGRATULATION TO KEMAL PASHA' — karar önergesini Bayan Sarojini Naidu sundu, metin eşleşiyor; Gupta'nın
+  değişiklik önergesi reddedildikten sonra büyük çoğunlukla kabul edildi; üstbilgi sayfa numaralarına göre s.
+  130.
+verification_method: djvu OCR metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 775e66004cf8
+  role: c5142b9c60bd
+  quote: 41780a818f10
+  summary: a03ab3f4ccc4
+  caveat: 2729a3b9c498
+  mediated_by: ebb109e43cf1
+  verification_note: ddb5a69e75c5
+  verification_method: 8f3db4510e6b

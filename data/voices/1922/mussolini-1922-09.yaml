@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mussolini-1922-09
+voice: Benito Mussolini
+voice_type: person
+role: Fascist leader, journalist (article in Il Popolo d'Italia circle; reprinted 1930)
+country: Italy
+country_now: Italy
+domain: politics
+date: "1922-09"
+era: contemporary
+polarity: instrumental
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: P
+summary: >-
+  Reads Kemal's victory over Greece as definitive for Anatolia, the product of French arming against Britain,
+  and a lesson that Europe needs a lasting peace.
+quote:
+  text: La vittoria di Kemal pascià, è definitiva per ciò che riguarda il territorio anatolico.
+  language: it
+caveat: >-
+  Article 'La luna crescente' (about 2,000 words), Benito Mussolini, Tempi della Rivoluzione Fascista (1930),
+  pp. 108-110ff, archive.org TempiDellaRivoluzioneFascista (open). Translation: 'Kemal Pasha's victory is
+  definitive as regards Anatolian territory.' The OCR printed 'cbe', corrected to 'che'. The original
+  publication date is not printed in the scan; September 1922 is inferred from the closing line about 'the
+  flames of the burning of Smyrna'. Mussolini's frame: Kemal's march on Smyrna is 'a sort of compensation' for
+  France's thwarted Ruhr march; 'La morale della vittoria kemalista' is that Europe needs fifty years of
+  peace. Smyrna is mentioned only as a date marker; the census records no view of the fire itself. Predates
+  and differs in tone from the 1928 interview record.
+node: Statesmen on Atatürk in Their Own Words, Memoirs and Speeches
+sources:
+  - url: https://archive.org/details/TempiDellaRivoluzioneFascista
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Mussolini, Tempi della Rivoluzione Fascista (1930), archive.org TempiDellaRivoluzioneFascista djvu.txt;
+    Ihrig-derived bibliography on yakintarihhh2 (fts snippet)
+  method: curl of the open djvu text, read in context; fts for the date
+  note: >-
+    Verbatim on p. 109: 'La vittoria di Kemal pascià, è definitiva per ciò che riguarda il territorio
+    anatolico' (OCR 'cbe'). The reading of the French/British contest and 'La marcia di Kemal su Smirne è una
+    specie di compensazione' are on pp. 108-109. Date: a Turkish edition of Ihrig cites the article as Benito
+    Mussolini, 'La luna crescente', Gerarchia 9 (1922): 477-479; Gerarchia no. 9 is the September issue, so
+    1922-09 is supported (Opera Omnia XVIII pp. 425-27). Instrumental/2 fair.
+  checked_on: "2026-11-03"

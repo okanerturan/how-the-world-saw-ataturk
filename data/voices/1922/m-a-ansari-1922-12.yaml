@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: m-a-ansari-1922-12
+voice: M. A. Ansari
+voice_type: person
+role: Congress and Khilafat leader, president of the Khilafat Conference at Gaya
+country: British India
+country_now: India
+domain: politics
+date: "1922-12"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Doubted reports of Angora splitting Sultanate from Khilafat, trusted the Kemalists to obey religious rules,
+  and would press for correction if Turks erred.
+quote:
+  text: He was sure that the Kemalists would obey the religious injunctions
+  language: en
+mediated_by: Modern Review, Jan 1923 (indirect report of his presidential address)
+caveat: >-
+  Indirect speech in the Modern Review's report; delivered weeks after the Sultanate was abolished (Nov 1922)
+  and before the Caliphate's abolition. Page c. 182.
+node: Gaya to Angora — Indian Voices on Kemal, 1922–1924
+sources:
+  - url: https://archive.org/details/dli.calcutta.09830
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Modern Review vol 33 (Jan-Jun 1923) djvu text, p. 182
+  method: archive.org 1923_v33_djvu.txt grep
+  note: >-
+    Verbatim 'He was sure that the Kemalists would obey the religious injunctions'; also disbelief in
+    Sultanate/Khilafat separation reports and 'would do their best to get it rectified' present.
+  checked_on: "2026-10-29"

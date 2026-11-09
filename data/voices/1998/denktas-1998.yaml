@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: denktas-1998
+voice: Rauf Denktaş
+voice_type: person
+role: President of the Turkish Republic of Northern Cyprus
+country: Northern Cyprus (TRNC)
+country_now: Northern Cyprus (TRNC)
+domain: politics
+date: "1998-04-23"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  Calls the Assembly 'Atatürk's Assembly' and says Turkish Cypriots, as Atatürk's children, have lived by his
+  peace principle while defending their rights.
+quote:
+  text: Atatürk çocukları olarak, ömrümüzü, bu düstur uğruna, mücadeleyle geçirdik.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 131 (printed p. 120). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "As Atatürk's children, we have spent our lives in struggle for this maxim." Maxim is
+  'yurtta sulh, cihanda sulh'. Cyprus-negotiation context (the claim of sovereignty for Turkish Cypriots).
+  Heading: 'Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı Rauf Denktaş', 23 Nisan 1998. Denktaş also spoke on 21
+  Ocak 1997 (PDF p. 124, an Atatürk saying on sovereignty) and 15 Nisan 2004 (PDF p. 204, 'Büyük Atatürk’ün
+  Yüce Meclisinde').
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 131 (printed p. 120); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c131.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Kuzey Kıbrıs Türk Cumhuriyeti
+    Cumhurbaşkanı Rauf Denktaş, 81. Birleşim, 23 Nisan 1998 (heading on PDF p. 128)'). 'Atatürk's Assembly' is
+    on the heading page ('Atatürk'ün Meclisine geldim'). Minor internal oddity: the last page speaks of the
+    '25th year' of the 1974 operation, which would be 1999; the book's heading date 23 April 1998 is used.
+  checked_on: "2026-11-01"

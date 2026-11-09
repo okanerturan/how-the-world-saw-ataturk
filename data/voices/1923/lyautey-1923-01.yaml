@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lyautey-1923-01
+voice: Hubert Lyautey
+voice_type: person
+role: Marshal of France, Resident-General in Morocco
+country: France
+country_now: France
+domain: military
+date: "1923-01"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: quote
+evidence: S
+summary: >-
+  Told Berthe Georges-Gaulis he had admired the Kemalists' struggle and told them so, but no longer understood
+  men breaking with five centuries' history.
+quote:
+  text: >-
+    Mücadelelerinde onlara hayran oldum ve bunu kendilerine bildirdim. Fakat bugün onları anlıyamıyorum
+  language: tr
+mediated_by: >-
+  F. Pekin, 'Atatürk ve Lyautey', Belleten XX/80 (Oct 1956) p. 642 ← B. Georges-Gaulis, La question turque
+  (1931)
+caveat: >-
+  Turkish translation of remarks Gaulis recorded years later. Translation: 'I admired them in their struggle
+  and told them so. But today I do not understand them.' The same conversation praises their sincerity, energy
+  and military worth but says such men 'grow weak once they succeed'. The PDF text layer drops Turkish letters
+  (printed as 'onlar~~anhyam~yorum'); quote restored from the page.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://belleten.gov.tr/tam-metin-pdf/1240/tur
+    archived: https://web.archive.org/web/20250419044142/https://belleten.gov.tr/tam-metin-pdf/1240/tur
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://belleten.gov.tr/tam-metin-pdf/1240/tur (F. Pekin, 'Atatürk ve Lyautey', Belleten XX/80, 1956), p.
+    642 (running head)
+  method: curl + pdftotext
+  note: >-
+    On p. 642 the text layer reads 'Mücadele-lerinde onlara hayran oldum ve bunu kendilerine bildirdim. Fakat
+    bugün onlar~~anhyam~yorum'. The restoration to 'onları anlıyamıyorum' is honest. 'Beş yüz yıllık tarihten
+    yüz çevirmeyi', 'samimilik, aksyon, askeri kıymet, enerji' and 'başarı elde edince de zaafa düşerler' are
+    all present. Note 13 gives the source as La Question Turque (1931), and the conversation is dated January
+    1923. The view is of 'them' (the Kemalists) rather than of Kemal by name; what_they_saw says 'Kemalists',
+    which is right. Conflicted fits.
+  checked_on: "2026-11-05"

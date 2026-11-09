@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: senussi-1920-11-25
+voice: Ahmed Sharif as-Senussi
+voice_type: person
+role: Head of the Senussi order, guest of the Grand National Assembly
+country: Libya (Senussi order, in exile in Anatolia)
+country_now: Libya
+domain: religion
+date: "1920-11-25"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: meeting
+evidence: J+S
+summary: >-
+  Came to Ankara as the Assembly's guest; at the banquet Kemal thanked him for urging the nationalists on
+  after 16 March 1920 and serving since.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri vol. 10 (Kaynak 2004) pp. 117–119 ← Hâkimiyeti Milliye 27 Nov 1920; vol. 11 p. 202
+  ← Hâkimiyeti Milliye 14 June 1921
+caveat: >-
+  His support is attested by Kemal's banquet speech (25 Nov 1920) and by his own Eid (Ramazan Bayramı)
+  greeting telegram of June 1921 praying for the struggle's success, summarised in Kemal's reply; his own
+  words are not printed. Kemal recalled seeing the Senussis' work in Libya himself; a sword he gave hung in
+  Kemal's study (Vakit, 10 Jan 1922, ABE vol. 12).
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2010%20%281920%20-%201921%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202004%20%282.%20Bas%C4%B1m%29%2C%20391%20sf.pdf
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2011%20%281921%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202005%20%282.%20Bas%C4%B1m%29%2C%20452%20sf.pdf
+verification:
+  verdict: confirmed
+  checked_against: >-
+    archive.org butuneserler, djvu text of ABE vol. 10, pp. 117–119 (banquet speech, 25 Nov 1920; ← Hâkimiyeti
+    Milliye 27 Nov 1920); ABE vol. 11 p. 202 (to the Sheikh at Diyarbekir, 12 Jun 1921; ← Hâkimiyeti Milliye
+    14 Jun 1921)
+  method: archive.org open djvu text read
+  note: >-
+    As cited. The editors' note says he arrived 15 Nov 1920 as the Assembly's guest, 'Kurtuluş Savaşı'nı
+    yakından izleyen, çeşitli vesilelerle Türkleri destekleyen'. In the speech Kemal says that on 16 March the
+    Sheikh blessed the course taken and urged them on, and has worked with them since. The 1921 telegram is a
+    Ramazan Bayramı (Eid) greeting with prayers for the country's salvation; 'Ramadan telegram' in the caveat
+    is loose. A major religious leader, a meeting of substance and support shown by his acts, so it passes.
+    Admiring rests on Kemal's account plus the editors' note, and the caveat says so.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31)
+  checked_on: "2026-11-05"

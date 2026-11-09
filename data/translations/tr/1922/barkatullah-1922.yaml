@@ -1,0 +1,21 @@
+# Turkish for data/voices/1922/barkatullah-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: barkatullah-1922
+voice: Muhammad Barkatullah
+role: Hintli Müslüman aktivist
+summary: >-
+  1922'de seçilmiş meclise dayalı hilafete geçiş konusunda ihtiyatlı bir iyimserlik içindeydi.
+mediated_by: Zaman (Brill böl.)
+verification_note: >-
+  Zaman: Barkatullah 1922 cumhuriyetçi/seçilmiş hilafeti konusunda 'cautiously optimistic'. İddia hilafet
+  hakkındadır, yalnızca dolaylı olarak Atatürk hakkındadır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 83a47dec3d57
+  role: 3c2af207f662
+  summary: 39f921776446
+  mediated_by: ec82eb035f59
+  verification_note: 340684bb72f9
+  verification_method: ad8cee67138e

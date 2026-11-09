@@ -1,0 +1,35 @@
+# Turkish for data/voices/1934/ozaki-yukio-1934.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ozaki-yukio-1934
+voice: Ozaki Yukio
+role: Kıdemli Japon Diyeti üyesi, 'anayasanın babası'
+quote: >-
+  Mussolini ile Kemal'in her ikisi de on yılı aşkın bir süreyi geride bıraktıkları için, şahsiyetleri,
+  karakter ve tutumları ile icraatları artık bütün dünyada iyi bilinmekte olup dünyada ender görülen bir
+  başarı göstermektedirler.
+quote_kind: translated
+summary: >-
+  Kemal'i, Mussolini ve Hitler ile birlikte savaş sonrası dünyanın diktatör-kahramanları arasında sayar ve
+  Kemal'in on yılı aşkın 'ender görülen başarısına' dikkat çeker.
+caveat: >-
+  Kindai kairaku-roku (1934), basılı s. 268 (NDL görüntü 77). Yalnızca OCR. Ozaki, ahlaki bir onay olmaksızın
+  onları 'başarılı diktatörler' olarak adlandırır; hayranlık yalnızca başarıya yöneliktir. Kontrol: 268 değil,
+  basılı s. 126–127 (NDL görüntü 77).
+verification_note: >-
+  Alıntı birebir aynıdır, ancak kaydedildiği gibi s. 268'de DEĞİL, basılı s. 127'dedir (görüntü 77'nin sol
+  sayfası; s. 126 Mussolini, Kemal ve Hitler'i diktatör olarak başarıya ulaşmış üç dünya şahsiyeti olarak
+  tanıtır): sayfayı düzeltin. Kemal hakkındaki yargı ('on yılı aşkın ... ender görülen başarı') açıktır ve
+  Mussolini ile eşleştirilmiştir; dolayısıyla sıkı testi zayıf bir hayranlık bakışı olarak geçer. Tutulsun,
+  yoğunluk 1.
+verification_method: >-
+  NDL Digital Collections sayfa görüntüsü (dl.ndl.go.jp IIIF) + lab.ndl.go.jp fulltext-json; görüntü incelendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4319dc1f3e9f
+  role: 87d6b0d7cfde
+  quote: 7a2b00d0278e
+  summary: abbee1daaeee
+  caveat: f4e0d5d3b95e
+  verification_note: 97596c33d678
+  verification_method: bfa97e982497

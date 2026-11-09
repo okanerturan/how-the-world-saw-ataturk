@@ -1,0 +1,43 @@
+# Turkish for data/voices/2017/tillerson-2017-03-30-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tillerson-2017-03-30-book
+voice: Rex Tillerson
+role: ABD Dışişleri Bakanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Türkiye Cumhuriyeti'nin büyük ve seçkin lideri Mustafa Kemal Atatürk'e derin saygı ve hayranlıkla
+quote_kind: translated
+summary: >-
+  Atatürk'ü Cumhuriyet'in büyük ve seçkin lideri olarak nitelendirir; derin saygı ve hayranlığından söz eder.
+caveat: >-
+  İngilizce yazılmış bir metnin Türkçe çevirisi. Alıntı, Sözcü tarafından yayımlanan DHA haberidir. Üç ajans
+  üç farklı Türkçe çeviri verir: AA ('büyük ve seçkin lideri ... derin saygı ve takdirle ... bu harika
+  lidere'), İHA ('büyük lideri ... hayranlıklarımla') ve DHA (alıntılandığı şekliyle); dolayısıyla tam
+  İngilizce ifadeler buradan sabitlenemez. Tillerson yazıyı yüksek sesle okumuştur (AA). 30 Mart 2017 tarihi,
+  DHA metninin sondakika.com zaman damgasından alınmıştır. İngilizce metin ABD Ankara Büyükelçiliği
+  paylaşımındandır (kesit). Bir Dışişleri Bakanlığı şablonudur: Kerry 2013 bunun ikinci yarısını paylaşır,
+  Caine 2026 ise neredeyse kelimesi kelimesine tekrarlar.
+mediated_by: >-
+  Sözcü (DHA), Haberler üzerinden İHA ve Haberler/Sondakika üzerinden AA, 30 Mart 2017 (üç farklı Türkçe
+  çeviri)
+verification_note: >-
+  Alıntı Sözcü/DHA nüshasında birebir aynıdır; şerhte belirtildiği gibi AA ve İHA farklı Türkçe çeviriler
+  verir. ÖZGÜN İNGİLİZCE METİN BULUNDU (ABD Ankara Büyükelçiliği, Facebook kesiti): 'Out of deep respect and
+  admiration for the great and distinguished leader of the Turkish Republic, Mustafa Kemal Ataturk, I am
+  deeply honored and proud as a representative of the American people to pay my respects to the Turkish nation
+  and to this great leader.' Türkçe metni bununla değiştirin; DHA'daki 'Türk halkına' ifadesi aslında 'Turkish
+  nation' şeklindedir. İngilizce metni sayfanın kendisinde değil, yalnızca bir arama kesiti olarak gördüm. 30
+  Mart 2017 tarihi doğrudur (Haberler zaman damgaları). AA, metni yüksek sesle okuduğunu belirtir.
+verification_method: >-
+  Atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı; İngilizce metin ücretsiz DuckDuckGo kesiti üzerinden elde edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cd71ea97d0b9
+  role: 8472cad9609a
+  quote: f108e8409944
+  summary: 04c5f9b8bff1
+  caveat: f4eae98cde99
+  mediated_by: 72943e1c3680
+  verification_note: 0711781206c9
+  verification_method: b49a20dd2a0f

@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nahhas-pasha-1938
+voice: Nahhas Pasha
+voice_type: person
+role: Wafd leader
+country: Egypt
+country_now: Egypt
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: telegram
+evidence: P
+summary: Framed the loss as a loss for Turkey and the East.
+quote:
+  text: >-
+    perte prématurée grand homme Turquie et Orient Atatürk … son nom son œuvre vivront pour toujours
+  language: fr
+caveat: >-
+  French telegraphese (c2, PDF p. 26), as president of the Wafd; English: premature loss of the great man of
+  Turkey and the East… his name and his work will live forever.
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  checked_against: >-
+    a local working file (TBMM condolence OCR) (French: 'perte prématurée grand homme Turquie et Orient',
+    Nahas Pacha, Wafd)
+  method: local
+  checked_on: "2026-10-29"

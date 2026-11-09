@@ -1,0 +1,40 @@
+# Turkish for data/voices/1924/ghalayini-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ghalayini-1924
+voice: Mustafa al-Ghalayini
+role: Lübnanlı âlim, gramerci ve şair
+quote: Ey Araplar! İçinizde mücadele ateşini tutuşturacak bir Mustafa Kemal yok mu?
+quote_kind: original-turkish
+summary: >-
+  Dağılmış bir milleti bir araya getirip zincirlerini kıran bir komutan olarak Mustafa Kemal ve arkadaşlarını
+  Arapların yoksun olduğu örnek diye gösterir.
+caveat: >-
+  YALNIZCA ÇEVİRİ ve çevirinin çevirisi: alıntılanan dize, al-Ghalayini'nin Arapça metninin Ali Benli
+  tarafından yapılan Türkçe çevirisidir (darulfunun ilahiyat 32/1, 2021, s. 29; Divan dipnot 74, s. 83);
+  Arapça beyte ulaşılamamıştır. Çevirisi: 'O Arabs! Is there not among you a Mustafa Kemal to kindle the fire
+  of struggle?' Fransızlar tarafından hapsedilmesinden sonra yazılan şiir, Dîvânu'l-Galâyînî (Haifa:
+  al-Matba'a al-'Abbasiyya, 1924/1925; Benli her iki yılı da verir), s. 80-83'te yer alır. 1924 tarihi
+  Divan'ın olası en geç tarihidir, dolayısıyla şiir en geç o tarihte yazılmıştır; kesin yıl tespit
+  edilememiştir. Kontrol: dize Arapça özgün metin değil, Benli'nin Türkçe çevirisidir; 1924 bir üst sınırdır;
+  'after his imprisonment' bağlamı Benli'de yer almaz.
+verification_note: >-
+  Türkçe 'Ey Araplar! İçinizde mücadele ateşini tutuşturacak bir Mustafa Kemal yok mu?' dizesi makalenin s.
+  29'unda (28 ve 29. yapraklar arasında) Benli'nin çevirisi olarak birebir yer almaktadır; Arapçasına
+  ulaşılamamıştır, dolayısıyla bunlar şairin değil çevirmenin sözleridir. 74 numaralı 'Dîvân, 83' dipnotu bir
+  önceki kıtayı ('Vatanımın evlatları...') izler; 'Ey Araplar' beytinin kendine ait bir dipnotu yoktur, bu
+  yüzden Divan s. 83 yaklaşıktır. Benli şiire tarih vermez; Divan Haifa'da 21 Temmuz 1924 tarihlidir
+  (1924/1925 baskıları), dolayısıyla 1924 yalnızca bir üst sınırdır. İhtirazi kayıttaki 'written after his
+  imprisonment by the French' ifadesi okunan şekliyle Benli'nin metninde yoktur (Divan'daki s. 72-83
+  sıralamasından çıkarılmıştır). Yalnızca ikincil kaynak olarak tutulmalı; dize onun Arapça ifadeleri gibi
+  sunulmamalıdır.
+verification_method: DergiPark PDF indirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b10ed3c7b169
+  role: 10922fc2fc56
+  quote: 167da22ddabd
+  summary: 9b2dd655aedf
+  caveat: a764fe2c1785
+  verification_note: 9ef0875d23ce
+  verification_method: cea48849d01b

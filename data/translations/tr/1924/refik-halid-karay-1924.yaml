@@ -1,0 +1,42 @@
+# Turkish for data/voices/1924/refik-halid-karay-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: refik-halid-karay-1924
+voice: Refik Halid Karay
+role: >-
+  Hiciv yazarı, 1919'da Damad Ferid kabinesinin Posta ve Telgraf Umum Müdürü, 1922-1938 yıllarında sürgünde
+quote: Mustafa Kemal Paşa'nın rakipleri bu kudrette, bu idrakte adamlardı!
+quote_kind: original-turkish
+summary: >-
+  1919'u hatırlayarak, Kemal'e karşı hükümeti elde tutmaya çalışan İstanbul yetkililerinin sınırlı kudret ve
+  kavrayışta insanlar olduğunu söyler.
+caveat: >-
+  Türkçe özgün metin; Minelbab İlelmihrab ilk olarak 1924'te tefrika edilmiş (baskı notuna göre) ve 1964'te
+  notlarla kitap halinde yayımlanmıştır (buradaki metin bunu belirten 2009 İnkılâp baskısıdır). Karay, Sivas
+  Kongresi'nden önceki haftalarda İstanbul'u anlatır ve bu cümle Kemal hakkında bir yargı değil, İstanbul
+  tarafı hakkındadır. O sırada İstanbul'da bir nazırın memuruydu ve bu anlamda Kemal'in rakibiydi; 1922'de
+  Ankara hükümeti tarafından sürgüne gönderildi ve 1938'de dönmesine izin verildi. OCR pasajı varak 282-283
+  civarına yerleştirir; kesin sayfa belirli değildir. Geçerken değinilen bir görüş, yoğunluk düzeyi 1'de
+  tutuldu. Kontrolde tarihlendirildi: Minelbab İlelmihrab 1924 başlarından itibaren Akşam'da tefrika
+  edilmiştir (10.1.1924 tarihli telgraf; 'Lübnan-3 Şubat 1924'); 1964, sonradan eklenen notları içeren kitap
+  baskısıdır. Sayfa 283.
+verification_note: >-
+  Alıntı birebir mevcut: 'Mustafa Kemal Paşa'nın rakipleri bu kudrette, bu idrakte adamlardı!' s. 283'te
+  bölümü kapatıyor (sonraki başlık '17') (varak 282 cümlenin bulunduğu sayfadan hemen önceye düşüyor;
+  dipnotlar varak numarasından önce geldiği için cümle 'belirsiz 282-283'te değil, s. 283'tedir). TARİH/DÖNEM
+  YANLIŞ: metin Lübnan'da yazılmış ve 1924 başlarından itibaren Akşam'da tefrika edilmiştir (10.1.1924 tarihli
+  telgraf 'Hatıratın mabadini yollayınız'; baskı notu: ilkinden 24 yıl sonra, 1948'de ikinci tefrika;
+  'Lübnan-3 Şubat 1924'); 1964 yalnızca yazarın 1964 notları olarak işaretlenmiş dipnotlar eklediği kitap
+  baskısıdır. Düzeltme: tarih '1924', dönem 'contemporary', id 'refik-halid-karay-1924' (sayfa 283). Pasaj
+  1964 notunda değil, ana metindedir. İfade Kemal hakkında değil, İstanbul yetkilileri hakkındadır; ikircikli
+  kutupluluk cömert bir yorumdur ama kabul edilebilir.
+verification_method: archive.org djvu indirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ae0a8b63bba9
+  role: ec2720e4c1f9
+  quote: 113af1d7d9fc
+  summary: 5838b672dd00
+  caveat: 1191aca2543a
+  verification_note: 3bacf62878dc
+  verification_method: 0b1464308eaa

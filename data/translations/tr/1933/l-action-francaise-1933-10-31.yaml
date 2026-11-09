@@ -1,0 +1,25 @@
+# Turkish for data/voices/1933/l-action-francaise-1933-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: l-action-francaise-1933-10-31
+voice: L'Action française
+role: Kralcı-milliyetçi günlük gazete
+quote: Mustafa Kemal'in zaferi feci iflasa yol açtı
+quote_kind: translated
+summary: >-
+  Türk-Yunan dostluğunun arka planı olarak, Mustafa Kemal'in 1922'deki zaferinin Yunan megalomanisinin 'feci
+  başarısızlığına' yol açtığını hatırlattı.
+caveat: >-
+  Metin parçası düzeyinde, sayfa 1, 'mèga' (muhtemelen 'mégalomanie') ifadesinden sonra kesilmiş; OCR 'provo
+  qua' kelimesini bölmüş. Nötr ile onaylayıcı arası bir okuma görülmediğinden tanık olarak kaydedildi.
+verification_note: OCR 'provo qua' kelimesini bölmüş; yalnızca metin parçası
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5935eec82225
+  role: 15eee0b2b72c
+  quote: a18fbc8a1691
+  summary: ed0672de7dae
+  caveat: 5da627256b66
+  verification_note: 41f0f8ab76ed
+  verification_method: ad8cee67138e

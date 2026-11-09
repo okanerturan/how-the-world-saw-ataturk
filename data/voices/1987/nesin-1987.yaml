@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nesin-1987
+voice: Aziz Nesin
+voice_type: person
+role: Turkish satirist and writer
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1987-05"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: memoir
+evidence: P
+summary: >-
+  In a private letter, counts Mustafa Kemal among Turkey's marvels and the one that astonishes him most, a
+  genius 'despite all his human shortcomings'.
+quote:
+  text: Ben en çok Mustafa Kemal'e şaşarım
+  language: tr
+caveat: >-
+  TRANSLATION of the gloss only; the quote is Turkish. 'I am most astonished by Mustafa Kemal, how such a
+  genius could climb out of that rotten swamp ... despite all his human shortcomings.' Letter of 9/10 May 1987
+  to the critic Tahsin Saraç, in Aziz Nesin - Tahsin Saraç Mektuplaşmaları (Düşün Yayıncılık, 1995), pp.
+  131-132 (archive.org aziz-nesin-kac-aptaliz, OCR). Nesin adds: 'Biz küçümencik, adını anmaya değmez işleri
+  kotaramazken - hem de ondan altmış yıl sonra - nasıl yaratmış o mucizeyi' (we cannot manage tiny things
+  sixty years later, how did he create that miracle). The letter's context is the row over claiming Ibn Sina
+  and Mimar Sinan as Turks; Nesin jokes that someday they will take 'Bosnian-descended Mustafa Kemal' too. A
+  different letter in the same book (7 Dec 1988) calling Atatürk 'gerçekten dahi' is Saraç's, not Nesin's, and
+  is not used. Nesin, a satirist who spent years in prison and was otherwise sharp about Atatürk-worship, is
+  the ambivalent internal voice here.
+node: Famous Pens on Atatürk II — Farrère, Halide Edib, Toynbee, Pamuk, Nesin
+sources:
+  - url: https://archive.org/details/aziz-nesin-kac-aptaliz
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Aziz Nesin - Tahsin Saraç Mektuplaşmaları (Düşün 1995), archive.org aziz-nesin-kac-aptaliz djvu.txt
+  method: curl of the open djvu text; read the whole letter and its neighbours
+  note: >-
+    Writer is Nesin: the letter is headed '9/10 Mayıs 1987 / Can dostum Tahsin' and speaks of 'Nesin Vakfı',
+    his new book 'Maçinli Kız İçin Ev' (Saraç's 21 May reply thanks him for it). Verbatim: 'İyi ki bir
+    Nasrettin Hoca, bir Yunus, bir Sinan, bir Nâzım ve bir de Mustafa Kemal var. Ben en çok Mustafa Kemal'e
+    şaşarım, o pis [OCR garbled: '«okuşmuş'] bataklıktan nasıl çikabilmiş öyle bir deha... Bütün insansal
+    eksikliklerine karşın.' (one word of the swamp adjective is garbled in the OCR; the record's quote, which
+    stops at 'şaşarım', is unaffected). Printed on pp. 131-132. The next page break splits 'Biz küçümencik ...
+    kota-/ramazken'. Fair.
+  checked_on: "2026-11-03"

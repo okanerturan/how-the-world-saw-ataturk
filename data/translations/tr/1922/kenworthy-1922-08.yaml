@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/kenworthy-1922-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kenworthy-1922-08
+voice: Deniz Binbaşısı Kenworthy (Milletvekili)
+role: Avam Kamarası, Yakın Doğu görüşmesi
+quote: >-
+  Türkiye'nin büyük ulusal kahramanıdır ve Müminlerin Kılıcı'nı elinde tutan kişi olarak görülmektedir
+quote_kind: translated
+summary: >-
+  Örtbas edilen İzmir soruşturmasının Türkiye'yi ayağa kaldırmasının ardından, Hükümet'in 'asi general'inin
+  Türkiye'nin ulusal kahramanı ve Müminlerin Kılıcı haline geldiğini söyledi.
+caveat: >-
+  Hansard ismi 'Mustapha Kernel' olarak basmıştır (OCR). Konuşma, Lloyd George'un Yunan politikasına yönelik
+  bir saldırıdır; Lloyd George'un 'great general' sözüyle aynı gündedir.
+verification_note: >-
+  Alıntı birebir; bağlam (örtbas edilen İzmir soruşturmasının Türkiye'yi ayağa kaldırması, 'rebel general')
+  what_they_saw alanını destekliyor.
+verification_method: Hansard API tam metin; 'Mustapha Kernel' OCR okuması doğrulandı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5c480457a1be
+  role: 6cf8b2d575e2
+  quote: 2c201c920b96
+  summary: 4e66aa9f06a1
+  caveat: b20d85753757
+  verification_note: b55597fe6ef6
+  verification_method: f55d611bde65

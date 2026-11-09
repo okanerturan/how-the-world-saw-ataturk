@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tbmm-assembly-1923-10-29
+voice: Turkish Grand National Assembly (158 voting members)
+voice_type: institution
+role: Parliament of the Turkish state
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1923-10-29"
+era: contemporary
+polarity: admiring
+intensity: 3
+mirror: internal-mirror
+artifact: nomination
+evidence: P
+summary: >-
+  Elected Mustafa Kemal the first President of the Republic by 158 votes with no dissent, on the day the
+  Republic was declared.
+quote:
+  text: >-
+    Yüz elli sekiz âza müttefikan Ankara Mebusu Gazi Mustafa Kemal Paşa Hazretlerini Cumhuriyet Riyasetine
+    intihabetmişlerdir.
+  language: tr
+caveat: >-
+  Announced by the sitting's Reis; the secret ballot was by roll call. Printed p. 99 of vol. 3 of the second
+  term (cilt 3, 43rd sitting).
+node: Republic Day in the Assembly, 29 October 1923
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/tbmm02003043.pdf
+    archived: https://web.archive.org/web/20251028220712/https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/tbmm02003043.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: tbmm02003043.pdf (d02 c003, 43rd sitting 29 Teşrinievvel 1339), p.99
+  method: pdftotext
+  note: Verbatim; Reis announces 158 voters, unanimous. Page footer 99 follows.
+  checked_on: "2026-10-30"

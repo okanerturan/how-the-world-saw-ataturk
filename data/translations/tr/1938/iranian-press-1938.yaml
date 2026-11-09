@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/iranian-press-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: iranian-press-1938
+voice: İran gazeteleri
+role: Tahran gazeteleri (notta adları belirtilmemiştir)
+summary: >-
+  Siyah çerçeveli birinci sayfalarla geniş yer ayırarak yeni Türkiye'nin yaratıcısını övdü ve İran'ın yasını
+  anlattı.
+caveat: >-
+  Notta tek tek gazete adları belirtilmemiştir. 29 Ekim 2026'da düzeltildi: 'guardian of independence, its
+  head for twenty years' ifadesi İran gazetelerinin değil, al-Ahram'ın satırıdır (Toksoy'da İran başlığının
+  hemen öncesinde yer alır).
+mediated_by: Toksoy 2010 §C İran Basını
+verification_note: >-
+  Geniş yer ayrılması, yeni Türkiye'nin 'yaratıcısı' ifadesi ve ayrıntılı övgü doğrulanmaktadır. 'Guardian of
+  independence' ve 'its head for twenty years' ifadeleri İran gazetelerinden değil, İran başlığının hemen
+  öncesindeki Al-Ahram alıntısından gelmektedir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 310d8c967180
+  role: 73d5a21e3ca2
+  summary: 7c298ff47695
+  caveat: 50820dce2158
+  mediated_by: 4a29cf48e8f3
+  verification_note: 66eb8c89b915
+  verification_method: 939bb46a04c3

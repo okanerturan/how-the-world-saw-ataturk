@@ -1,0 +1,23 @@
+# Turkish for data/voices/1924/het-centrum-1924-03-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: het-centrum-1924-03-06
+voice: Het Centrum
+role: Utrecht Katolik günlük gazetesi
+quote: Kemal Paşa, Türklerin Mussolini'si
+quote_kind: translated
+summary: >-
+  Onu Padişah'ı tahttan indiren ve İslam dünyasını şoke eden 'Türklerin Mussolini'si' olarak nitelendirdi;
+  Katolik misyonlarına inanç işaretlerini kaldırmalarının söylendiğini belirtti.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Katolik okulları bölümü OCR nedeniyle
+  bozulmuştur; gazetenin Katolik kimliği KB kaydından değil, genel bilgiden alınmıştır.
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e7358114ba70
+  role: 464ddf04b1ce
+  quote: a10231075df5
+  summary: db7966cd8b15
+  caveat: 9c20d9cc5dbf
+  verification_method: ad8cee67138e

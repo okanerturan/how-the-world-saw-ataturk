@@ -1,0 +1,23 @@
+# Turkish for data/voices/1922/berthe-georges-gaulis-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: berthe-georges-gaulis-1922
+voice: Berthe Georges-Gaulis
+role: Fransız gazeteci, Ankara'da konuk
+quote: Denilebilir ki, o olmasaydı İslam'ın kendi yolunu bulması elli yıl daha sürerdi.
+quote_kind: translated
+summary: >-
+  İradesi, sabrı ve çıkar gözetmezliği İslam'ın uyanışına yön veren bir çağ kurucu olarak Kemal; kendisinden
+  Fransız efsanelerini düzeltmesi istenmişti.
+caveat: >-
+  Erişim bir pazarlığa dayanıyordu: Kemal ondan Fransa'daki efsaneleri yıkmasını istemişti (s. 40),
+  dolayısıyla hayranlık aynı zamanda araçsaldır. Sayfa numaraları OCR'daki üstbilgilerden okunmuştur.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1e7989bb2063
+  role: af2d3a96c7e9
+  quote: 5371119ef9e8
+  summary: d5c6b15ad15d
+  caveat: 64eb6e07fbe8
+  verification_method: ad8cee67138e

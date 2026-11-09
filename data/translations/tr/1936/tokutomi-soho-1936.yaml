@@ -1,0 +1,33 @@
+# Turkish for data/voices/1936/tokutomi-soho-1936.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tokutomi-soho-1936
+voice: Tokutomi Sohō
+role: Japon gazeteci-tarihçi, Kokumin Shimbun yayıncısı
+quote: >-
+  En azından Kemal Paşa, kesinlikle Japonya'yı ideal edinerek ayağa kalkmıştır; bu, asla şüphe götürmez.
+quote_kind: translated
+summary: >-
+  Mısır, Türkiye ve Hindistan'ın Japonya'yı kopyaladığı iddiasının bir parçası olarak, en azından Kemal
+  Paşa'nın Japonya'yı ideal edinerek ayağa kalktığında ısrar eder.
+caveat: >-
+  Warera no Nihon seishin (1936), basılı s. 110, sayfa görüntüsünden okundu (NDL görüntü 65); bir konferans
+  metni. Aynı iddia Gendai Nihon to sekai no ugoki'de de yer alır (1931, pid 1268736, 'Kemal Paşa ... da
+  Japonya'dan öğrendi'). Bu, Kemal'in kendi görüşünün aktarımı değil, Tokutomi'nin Japonya merkezli
+  sahiplenmesidir.
+verification_note: >-
+  Alıntı s. 110'da (görüntü 65) birebir aynıdır; Mısır, Türkiye ve Hindistan'ın hepsinin Japonya'yı
+  kopyaladığı ifadesi de aynı sayfadadır. Bu bir değerlendirme değil, Tokutomi'nin Kemal'in saiki hakkındaki
+  iddiasıdır: sıkı testte sınırda kalır, yalnızca 'araçsal' (Kemal'i Japonya'nın öğrencisi olarak gören
+  imgesi) olarak geçer. Araçsal olarak tutulsun, yoğunluk 2 cömerttir (1 daha güvenlidir).
+verification_method: >-
+  NDL Digital Collections sayfa görüntüsü (dl.ndl.go.jp IIIF) + lab.ndl.go.jp fulltext-json; görüntü incelendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a8ba0257d66e
+  role: 34de7c9e0bec
+  quote: c55c04e3fc42
+  summary: 256107c62e9e
+  caveat: 90b06406302b
+  verification_note: a2631f5ea3ea
+  verification_method: bfa97e982497

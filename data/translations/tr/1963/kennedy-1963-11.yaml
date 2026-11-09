@@ -1,0 +1,53 @@
+# Turkish for data/voices/1963/kennedy-1963-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kennedy-1963-11
+voice: John F. Kennedy
+role: Amerika Birleşik Devletleri Başkanı
+quote: >-
+  Ulusal çapta kendi gücüne dayanmanın, Türkiye Cumhuriyeti'nin doğuşundan ve o zamandan beri Türkiye ile
+  Atatürk tarafından başlatılan köklü değişimlerden daha başarılı bir örneği kuşkusuz yoktur.
+quote_kind: translated
+summary: >-
+  Ölümünün 25. yıldönümünde Atatürk'ü yüzyılın büyük bir insanı, Türkiye'nin doğuşunu ise kendi gücüne
+  dayanmanın en iyi örneği olarak nitelendirir.
+caveat: >-
+  Ses kaydı mevcuttur: JFK Library JFKWHA-237-001, 'Remarks on the 25th Anniversary of the Death of Kemal
+  Atatürk, 4 November 1963' (yalnızca katalog açıklaması; sayfa otomatik çekimi engelliyor). İfadeler, Türk
+  Hükümeti tarafından yayımlanan plağın Wikimedia Commons'taki PDF dökümünden alınmıştır; bu döküm metni 10
+  Kasım 1963 olarak tarihler ve 'then' dizgi hatasını korur; dökümde ayrıca Kennedy'nin Atatürk'ten yaptığı
+  bir alıntı ('We are friends now and we will be much closer friends in the future') yer alır,
+  doğrulanmamıştır. Mevcut arşiv taslağı konuşmanın Atatürk'ü eğitimi vurgulayan bir 'intellectual
+  revolutionary' olarak çerçevelediğini söylüyor: bu ifade bu metinde YOKTUR. İttifak bağlamı. Tarih:
+  derleyicinin okuduğu şekliyle JFK Library kataloğuna göre 4 Kasım; Commons dökümü (Türk hükümetince yeniden
+  daktilo edilmiş metin) 'Washington D.C., November 10, 1963' başlığını taşır. Kennedy'nin anma konuşması
+  içinde aktardığı Atatürk sözleri doğrulanmamıştır.
+mediated_by: >-
+  Wikimedia Commons'taki metin dökümü ← Türk Hükümeti (Cemal Gürsel) tarafından yayımlanan ses kaydı
+verification_note: >-
+  Alıntı, 'then' dizgi hatası da dahil olmak üzere Commons dökümünde birebir yer alıyor: 'Certainly there is
+  no more successful example of national self reliance then the birth of the Turkish republic and the profound
+  changes initiated since then by Turkey and Ataturk.' Dökümün üstbilgisinde 'Washington D.C., November 10,
+  1963 (Text of his message to the Turkish People on the occasion of 25th Anniversary of the Death of Mustafa
+  Kemal Ataturk and the 40th anniversary of the Turkish Republic ...' yazıyor; yani tarih taşıyan tek metin 4
+  Kasım değil 10 Kasım diyor. JFK Library açıklaması (arama özeti üzerinden), 25. yıldönümü konuşmasına ait ve
+  'characterizes the Turkey's independence as an example of national self-reliance' ifadesini içeren bir ses
+  kaydını bağımsız olarak doğruluyor, ancak özette tarih görünmüyor; dolayısıyla 4 Kasım 1963 tarafımdan
+  doğrulanmadı ve 10 Kasım tarihi kütüphanenin değil Türk hükümeti dökümünün tarihidir. Ayrıca: döküm,
+  kütüphanenin kendi dökümü değil, Türkiye kaynaklı bir yeniden daktilo metnidir (dilbilgisi sürçmeleri: 'one
+  of the great man'). 'great man of this century' ifadesi metinde mevcut (what_they_saw uygun). DÜZELTME:
+  tarihi '1963-11' olarak ayarlayın (gün çözümlenmedi: derleyicilerin okuduğu şekliyle kütüphane kataloğuna
+  göre 4 Kasım, döküme göre 10 Kasım; 10 Kasım ölüm yıldönümüdür, 4 Kasım kayıt tarihi olabilir) ve birincil
+  kaynak olarak kütüphane kaydını gösterin; mediated_by alanında Commons dökümünü koruyun; metin içindeki 'We
+  are friends now...' şeklindeki Atatürk alıntısının doğrulanmamış olduğunu ekleyin.
+verification_method: Commons PDF'i için curl + pdftotext; JFK Library açıklaması için bir tools/ms araması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f38c504520c5
+  role: e98cef73a6c9
+  quote: 01587913e2ee
+  summary: 48020d812d98
+  caveat: 863418bb99fa
+  mediated_by: 5239b02701c9
+  verification_note: e2e89ef47fee
+  verification_method: 7d83260e17ce

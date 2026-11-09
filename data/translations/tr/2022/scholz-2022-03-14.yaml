@@ -1,0 +1,36 @@
+# Turkish for data/voices/2022/scholz-2022-03-14.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: scholz-2022-03-14
+voice: Olaf Scholz
+role: Almanya Şansölyesi; Anıtkabir Özel Defteri'ndeki kayıt
+quote: >-
+  Modern Türkiye'nin kurucusu büyük Avrupalı devlet adamı Mustafa Kemal Atatürk'e derin saygıyla.
+quote_kind: original-turkish
+summary: >-
+  'Modern Türkiye'nin kurucusu ve büyük Avrupalı devlet adamı' Atatürk'e derin saygılarını sunar ve zor
+  zamanlarda Türk-Alman bağlarına değer verdiğini belirtir.
+caveat: >-
+  Almanca bir kaydın Türkçe çevirisidir. Yeniçağ ve Panorama News aynı metni yayımlamaktadır; Almanya
+  Büyükelçiliği'nin Instagram paylaşımı (14 Mart 2022) farklı bir Türkçe ifade sunmaktadır ('Çağdaş
+  Türkiye'nin kurucusu ve Avrupalı büyük devlet adamı ... en derin saygılarımla'), ki bu da her ikisinin de
+  çeviri olduğunu gösterir. Almanca özgün metne ulaşılamamıştır. Ukrayna savaşının başlamasından günler sonra
+  yazılmıştır (kaydın kendisinde 'in such difficult times' denmektedir).
+mediated_by: Yeniçağ ve Panorama News 14–15 Mart 2022 (maddenin Türkçe çevirisi)
+verification_note: >-
+  Kaydın ilk cümlesi her ikisinde de birebir aynıdır ('Modern Türkiye'nin kurucusu büyük Avrupalı devlet adamı
+  Mustafa Kemal Atatürk'e derin saygıyla'). Yeniçağ ve Panorama aynı ajans haberinden alınan özdeş metni
+  taşıdığından birbirinden bağımsız değildir; Almanca özgün metin bulunamamıştır. Instagram paylaşımı
+  çekilememiştir (kontrol edilmedi). 14 Mart 2022 tarihi doğrulandı.
+verification_method: >-
+  Alıntılanan sayfanın taze tools/ms fetch (ücretsiz) çekimi, 3 Kasım 2026; bağımsız kontrolör
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 326f3c3c2f60
+  role: 14914ed6b30f
+  quote: bce3c92f4c98
+  summary: 5f83a43908df
+  caveat: 1a02117e597d
+  mediated_by: a0e194384ed1
+  verification_note: 0a8f703200a6
+  verification_method: 7b5332a2caf8

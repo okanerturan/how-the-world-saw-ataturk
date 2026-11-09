@@ -1,0 +1,32 @@
+# Turkish for data/voices/1928/sukarno-1928-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sukarno-1928-07
+voice: Sukarno
+role: PNI başkanı, milliyetçi yazar
+quote: >-
+  Mustafa Kemal Paşa'nın Afyonkarahisar savaş meydanındaki zaferi de bütün Asya dünyası tarafından Doğu'nun
+  Batı karşısındaki bir zaferi olarak hissedildi
+quote_kind: translated
+summary: >-
+  Kemal'in Afyonkarahisar zaferini, Japonya'nın 1905 galibiyetiyle birlikte bütün Asya'nın kendi zaferi gibi
+  hissettiği Doğu'nun Batı karşısındaki bir zaferi olarak sıraladı.
+caveat: >-
+  'Indonesianisme dan Pan-Asiatisme' (9 Temmuz tarihli Keng Po'dan naklen); DBR c. 1 yılı yalnızca bitişikteki
+  yazı için basar (Suluh Indonesia Muda, 1928), dolayısıyla ay bilgisi Keng Po tarihinden çıkarılmıştır.
+  Archive.org yaprak n88.
+verification_note: >-
+  Birebir 'kemenangan Mustafa Kemal Pasha dipadang peperangan Afiun Karahisar oleh seluruh dunia Asia
+  dirasakan pula sebagai suatu kemenangan Timur di atas Barat'; Japonya'nın 1905 zaferiyle eşleştirilmiş. Yazı
+  'Keng Po 9 Juli yang lalu' ifadesiyle başlıyor; yıl/ay, çekince notunda belirtildiği gibi çıkarım yoluyla
+  (1928) belirlenmiş.
+verification_method: archive.org djvu metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 252b8547a012
+  role: 6f01431b7d51
+  quote: 39b561dbea6f
+  summary: 7adfb3408cef
+  caveat: 4069cf3df7bc
+  verification_note: ec7fa53cf806
+  verification_method: d18ffac52866

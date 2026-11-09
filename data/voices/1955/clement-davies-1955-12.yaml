@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: clement-davies-1955-12
+voice: Clement Davies
+voice_type: person
+role: Leader of the Liberal Party, MP (Montgomeryshire)
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1955-12-05"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Says the Turks established 'their great tradition under that amazing man, Ataturk', but that Turkey should
+  not decide Cyprus.
+quote:
+  text: >-
+    Certainly, ever since the Turks established their great tradition under that amazing man, Ataturk, one has
+    had great admiration for these people.
+  language: en
+caveat: >-
+  Cyprus, HC Deb 5 Dec 1955, c91. Transcription at TheyWorkForYou of the official Hansard. Cyprus debate
+  (sensitive thread): the praise is a preface to an argument against Turkish interference; recorded as the
+  speaker's framing. Check: the quote falls at c92 (historic-hansard); TWFY gives the column where the speech
+  starts.
+node: >-
+  Westminster on Atatürk, 1941–1957 — Eden, Selwyn Lloyd, Noel-Baker, Wigg, Davies and Hollis
+sources:
+  - url: https://www.theyworkforyou.com/debates/?id=1955-12-05a.32.0#g91.1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TheyWorkForYou debate page (fresh curl), speaker block at the anchor; column cross-checked on
+    api.parliament.uk/historic-hansard where available
+  method: >-
+    fetched page, normalised-text match of the quote inside the anchored speech block (speaker, date, id);
+    column located from historic-hansard column markers
+  note: >-
+    Verbatim, spoken by Clement Davies (g91.1, HC Deb 5 Dec 1955). Column correction: sentence at c92 (speech
+    starts c91). Own view ('that amazing man, Ataturk', 'great admiration'). Liberal leader 1945-56 correct.
+    Framing in Cyprus debate neutral.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

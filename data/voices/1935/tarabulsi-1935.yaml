@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tarabulsi-1935
+voice: Amjad al-Tarabulsi
+voice_type: person
+role: Damascene poet and writer (signed 'Damascus')
+country: Syria (French mandate)
+country_now: Syria
+domain: letters
+date: "1935-08-05"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: poem
+evidence: S
+summary: >-
+  Rebukes Atatürk by name over Hagia Sophia: casting off the Arabs was ugly, casting off the faith uglier, and
+  the West will devour him.
+quote:
+  text: لئِنْ كان قُبحاً نَبْذكَ العُرْبَ جانباً ... فَنَبْذُك للدينِ المقَدَّسُ أقبح
+  language: ar
+caveat: >-
+  TRANSLATION (this record's): 'If your casting the Arabs aside was ugly, your casting aside the sacred faith
+  is uglier.' Poem 'Ayasufya' (Hagia Sophia), a long qasida opening with an epigraph by Hafiz Ibrahim
+  ('Ayasofya, the hour of parting has come'), printed in al-Risala (Cairo) no. 109, 5 Aug 1935, text from the
+  Arabic Wikisource transcription of the issue; page number not given there. Atatürk is addressed twice by
+  name ('Atatürk, do not let your command deceive you'; 'Atatürk, beware a leap from the sons of the West')
+  and the second half of the poem is aimed at him, so he is the addressee, though the occasion is the
+  church-mosque. Closes: 'Beware the West ... their peace is an armed peace.' The author is identified only by
+  the signature 'Amjad al-Tarabulsi, Damascus'; his dates were not established.
+node: Four Poems on Atatürk — Melbourne, Damascus, Cairo and Hyderabad, 1933–1939
+sources:
+  - url: https://ar.wikisource.org/wiki/مجلة_الرسالة/العدد_109/أياصوفيا
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Arabic Wikisource, majallat al-Risala, issue 109, 'Ayasufya' (action=raw)
+  method: fresh fetch of the raw wikitext via the Wikisource API; read the whole poem
+  note: >-
+    Couplet verbatim ('لئِنْ كان قُبحاً نَبْذكَ العُرْبَ جانباً ... فَنَبْذُك للدينِ المقَدَّسُ أقبح'); header
+    gives 05-08-1935, author line 'بقلم أمجد الطرابلسي', signed Damascus. Atatürk IS the addressee: vocative
+    'أتاتُورْكُ لا يغررْك أنك حاكمٌ مطاع' and 'أتاتُورْكُ حاذِرْ مِنْ بنِي الغَرْبِ وَثْبةً', with 2nd-person
+    address throughout the second half; closing 'wolf and sheep' and 'armed peace' lines match what_they_saw.
+    Translation in caveat is correct. Issue date 5 Aug 1935 is also consistent with weekly numbering from 15
+    Jan 1933. Page number not given on Wikisource (transcription, scan not viewed). Schema OK.
+  checked_on: "2026-11-03"

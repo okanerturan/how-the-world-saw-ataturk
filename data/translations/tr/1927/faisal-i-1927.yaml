@@ -1,0 +1,37 @@
+# Turkish for data/voices/1927/faisal-i-1927.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: faisal-i-1927
+voice: I. Faisal (Irak)
+role: Irak Kralı
+quote: Bütün Asyaî milletlere nümune-i imtisal olacağınız şüphesizdir.
+quote_kind: original-turkish
+summary: >-
+  Londra'daki Türkiye büyükelçisine Türkiye'nin reformlarını takip ettiğini, Gazi'nin dehasına ancak hürmet
+  duyabileceğini ve Türkiye'nin her Asya milletine örnek olacağını söyledi.
+caveat: >-
+  Çeviri: 'There is no doubt that you will be a model to be followed by all Asian nations.' Aynı pasajda: 'it
+  is not possible ... not to revere [the Gazi's] genius' denilmekte ve milli hareketin başlangıcında böyle
+  sonuçlar beklemediği belirtilmektedir. Sözler bize bir Türk elçisinin raporu aracılığıyla, iki kademe
+  dolaylı olarak ulaşmaktadır.
+mediated_by: >-
+  Saygı, Yalova Sosyal Bilimler Dergisi 7/15 (2017) s. 215 ← Balkaya 2015 s. 572 (Londra görüşmesine ilişkin
+  Türk diplomatik raporu)
+verification_note: >-
+  Alıntı, Balkaya 2015 s. 572'ye atıfla s. 215'te birebir yer almaktadır. 'dehasına hürmet etmemek kabil
+  değildir' ve 'harekâtı milliyenin bidayetinde, bu kadar parlak neticelere varacağınızı ümit etmiyordum'
+  ifadeleri aynı pasajdadır. Ortam 1927 yılı, Londra'daki oteli ve davet edilen Türkiye büyükelçisi olarak
+  verilmektedir (pasaj s. 214'ün alt kısmında başlar). İki kademeli dolaylı aktarım dürüstçe belirtilmiştir.
+  Pasaj 'our wish is to follow your work' şeklinde devam etmekte olup bu da ayna (model alma) temasını
+  desteklemektedir.
+verification_method: curl + pdftotext
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2bc6c18159fa
+  role: 9a7f7404dd1a
+  quote: 5b54e4278d72
+  summary: 47433ee9376e
+  caveat: e0849572dbfd
+  mediated_by: 909f943b3a78
+  verification_note: dc4999583522
+  verification_method: b4b3491d6dae

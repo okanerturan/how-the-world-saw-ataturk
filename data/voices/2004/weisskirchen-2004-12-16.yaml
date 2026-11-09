@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: weisskirchen-2004-12-16
+voice: Gert Weisskirchen
+voice_type: person
+role: SPD member of the Bundestag, foreign-policy spokesman
+country: Germany
+country_now: Germany
+domain: politics
+date: "2004-12-16"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Reads Atatürk's 1920s concept as the attempt to Europeanise Turkey and link it to European values, a break
+  with the Ottoman Empire.
+quote:
+  text: >-
+    Das Konzept, das Kemal Atatürk in den 20er-Jahren entwickelt hat, ist der Versuch, die Türkei zu
+    europäisieren und den Anschluss an Europa – das betrifft auch die europäischen Werte – zu erreichen.
+  translation: >-
+    The concept that Kemal Atatürk developed in the 1920s is the attempt to Europeanise Turkey and to gain
+    connection to Europe — which also concerns European values.
+  language: de
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
+  documentation page; printed page checked in the dserver PDF. Debate on the opening of EU accession talks
+  with Turkey (the Bundestag session before the Council of 16-17 December 2004); he continues that the
+  Republic made a 'break with the Ottoman Empire' and that the struggle inside Turkey over this concept is
+  difficult. Speaker per the protocol (last speaker named by the chair, Gert Weisskirchen (Wiesloch)). Printed
+  page 13807 from the PDF header. Cited as Deutscher Bundestag, Plenarprotokoll 15/148, session of 2004-12-16,
+  S. 13807.
+node: German Parliaments on Atatürk — Hitler's Reichstag 1941 and the Bundestag 1983–2025
+sources:
+  - url: https://dserver.bundestag.de/btp/15/15148.pdf
+    archived: https://web.archive.org/web/20260418104155/https://dserver.bundestag.de/btp/15/15148.pdf
+  - url: https://dip.bundestag.de/
+    archived: https://web.archive.org/web/20261020200949/https://dip.bundestag.de/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Bundestag plenary-protocol PDF 15/15148.pdf (WP15 sitting 148) from dserver.bundestag.de, fetched fresh
+  method: >-
+    downloaded the dserver PDF, pdftotext, whitespace/hyphenation-normalised match of the quote, speaker
+    header and running-head page number read from the printed protocol; German read against the stored
+    translation
+  note: >-
+    Verbatim on printed p. 13807 under 'Gert Weisskirchen (Wiesloch) (SPD)'. Translation faithful. The role
+    detail 'foreign-policy spokesman' is not in the protocol passage and was not checked.
+  checked_on: "2026-11-03"

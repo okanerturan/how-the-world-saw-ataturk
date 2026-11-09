@@ -1,0 +1,24 @@
+# Turkish for data/voices/1924/de-banier-1924-03-13.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-banier-1924-03-13
+voice: De Banier
+role: Staatkundig-gereformeerd (Kalvinist) günlük gazetesi
+quote: >-
+  Cumhuriyetin bununla güçlendiği mi yoksa zayıfladığı mı hâlâ büyük bir soru olarak kalmaktadır
+quote_kind: translated
+summary: >-
+  Kilise ile devletin ayrılmasını Kemal'in ısrarıyla yapılmış olarak aktardı ve bunun cumhuriyeti güçlendirip
+  güçlendirmediğinden kuşku duydu.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Yazı, dini bir kıssadan hisseyle kapanan haftalık
+  dış haberler özetinde yer almaktadır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2e05b51b5ae4
+  role: 914052e2a944
+  quote: db5944e60cc6
+  summary: deb8eeec80e2
+  caveat: cd090795e10a
+  verification_method: ad8cee67138e

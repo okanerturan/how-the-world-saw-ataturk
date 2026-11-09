@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: selwyn-lloyd-1956-07
+voice: Selwyn Lloyd
+voice_type: person
+role: British Foreign Secretary
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1956-07-19"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  Foreign Secretary credits Kemal Ataturk and Venizelos with building a new Greek-Turkish friendship,
+  jeopardised by the Cyprus dispute.
+quote:
+  text: >-
+    Everyone will bear in mind the work of Kemal Ataturk and Venizelos in building up a new relationship,
+    friendship and alliance.
+  language: en
+caveat: >-
+  Cyprus, HC Deb 19 Jul 1956, c1403. Transcription at TheyWorkForYou of the official Hansard. Cyprus debate
+  (sensitive thread): speaker's framing. Mirror label is the closest of the ten (the reconciling former
+  enemy); not forced beyond that. Check: the quote falls at c1404 (historic-hansard); TWFY gives the column
+  where the speech starts.
+node: >-
+  Westminster on Atatürk, 1941–1957 — Eden, Selwyn Lloyd, Noel-Baker, Wigg, Davies and Hollis
+sources:
+  - url: https://www.theyworkforyou.com/debates/?id=1956-07-19a.1391.7#g1403.1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TheyWorkForYou debate page (fresh curl), speaker block at the anchor; column cross-checked on
+    api.parliament.uk/historic-hansard where available
+  method: >-
+    fetched page, normalised-text match of the quote inside the anchored speech block (speaker, date, id);
+    column located from historic-hansard column markers
+  note: >-
+    Verbatim, spoken by Selwyn Lloyd, Foreign Secretary (g1403.1, HC Deb 19 Jul 1956). Column correction:
+    sentence at c1404 (speech starts c1403). Own view of Kemal's work; mirror 'chivalrous-enemy' is a poor fit
+    (reconciler, not enemy) but already flagged in caveat.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

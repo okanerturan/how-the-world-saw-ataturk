@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sharawi-1935
+voice: Huda Sha'arawi
+voice_type: person
+role: Egyptian feminist, president of the Egyptian Feminist Union
+country: Egypt
+country_now: Egypt
+domain: politics
+date: "1935-04"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: emancipator-patriarch
+artifact: memoir
+evidence: S
+summary: >-
+  At the Istanbul women's congress she tells Atatürk that 'Father of the Turks' is not enough: for the East he
+  is 'Atasharq'.
+quote:
+  text: فأنا أقول إن هذا لا يكفي بل أنت بالنسبة لنا أتاشرق
+  language: ar
+mediated_by: Muqaddam, 'Awdat al-hijab (Islamist critique) quoting Sha'arawi's memoirs
+caveat: >-
+  TRANSLATION (this record's): 'I say that this is not enough: for us you are Atasharq [Father of the East].'
+  Arabic as quoted from her memoirs (Mudhakkirat) by Muhammad Ahmad Isma'il al-Muqaddam, 'Awdat al-hijab,
+  section on Huda Sha'arawi (archive.org 06.0_20210520_20210520_1158; OCR, hamza missing in 'anta'), who cites
+  her memoirs and a Hawwa' article of 1980; he quotes her to condemn her. Not seen in the memoir itself (the
+  Arabic Mudhakkirat Huda Sha'rawi, Dar al-Hilal 1981, is not open). Independent corroboration of the saying:
+  Libal, 'Staging Turkish Women's Emancipation: Istanbul, 1935', JMEWS 4(1), 2008, n. 13 ('reportedly asserted
+  ... Father of the East (Atasark)'). Her speech was in Turkish, without interpreter, at the reception given
+  by Atatürk for the delegates of the 12th IAW congress. Check: the Arabic is verbatim as quoted from her
+  memoirs by a hostile critic (al-Muqaddam); the memoir itself not seen.
+node: Poets, Reformers and the Black Press on Atatürk, 1921–1935
+sources:
+  - url: https://archive.org/details/06.0_20210520_20210520_1158
+  - url: https://read.dukeupress.edu/jmews/article/4/1/31/42971/Staging-Turkish-Women-s-EmancipationIstanbul-1935
+    archived: https://web.archive.org/web/20240711210554/https://read.dukeupress.edu/jmews/article/4/1/31/42971/Staging-Turkish-Women-s-EmancipationIstanbul-1935
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    archive.org 06.0_20210520_20210520_1158 (al-Muqaddam, 'Awdat al-hijab, section on Huda Sha'arawi), djvu
+    OCR; Libal JMEWS 2008 not reachable (bot_blocked)
+  method: archive.org djvu download + attempted Duke fetch
+  note: >-
+    Arabic found verbatim (OCR 'أنت' with missing hamza): 'فأنا أقول إن هذا لا يكفي بل انت بالنسبة لنا
+    أتاشرق', inside a block introduced 'تقول (هدى) في مذكراتها:' = she says in her memoirs, first person, with
+    the scene dated by him to the 12th IAW congress, Istanbul, 18 April 1935. So the words are given as her
+    own, but via a hostile critic who cites her memoirs and Hawwa' 18 Oct 1980 (n.218); the memoir itself was
+    not seen and Libal could not be opened. Source evidence J is right; mediated_by correct. No change to the
+    record except that it should stay hedged.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

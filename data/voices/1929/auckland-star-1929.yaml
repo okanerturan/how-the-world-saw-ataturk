@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: auckland-star-1929
+voice: Auckland Star
+voice_type: press
+role: Auckland evening daily, leader 'When Dictators Succeed'
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1929-03-06"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: editorial
+evidence: P
+summary: >-
+  Ranked Kemal above Mussolini and Lenin as a revolutionary dictator, citing the Latin alphabet and the
+  Caliphate's end, explained by nationalist resistance to the Greeks.
+quote:
+  text: >-
+    As a virtuoso of revolution and dictatorship Kemal towers head and shoulders above all other personal and
+    partv autocracies since the World War.
+  language: en
+caveat: >-
+  OCR typo 'partv' kept; leader on Amanullah's fall. Admiration is of scale of change, not liberty.
+node: New Zealand Editors on the Dictator, 1929–1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/AS19290306.2.26
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    paperspast.natlib.govt.nz/newspapers/AS19290306.2.26 (Auckland Star 6 Mar 1929, 'When Dictators Succeed')
+  method: fetch
+  checked_on: "2026-10-29"

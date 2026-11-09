@@ -1,0 +1,40 @@
+# Turkish for data/voices/1927/chang-naide-1927.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: chang-naide-1927
+voice: Chang Naide (常乃惪, Chang Yansheng)
+role: Çinli tarihçi ve gazeteci, Gençlik Partisi (Xingshi) ideoloğu
+quote: >-
+  tıpkı General Kemal'in tek bir muharebede Yunanistan'ı yenerek Türkiye'yi birleştirebilmesi ve eski mirası
+  yeniden canlandırabilmesi gibi
+quote_kind: translated
+summary: >-
+  General Kemal'in Yunanistan karşısındaki tek zaferini hızlı ulusal diriliş örneği olarak gösterir, ardından
+  Çin'in devasa büyüklüğünün bu yolu bir hayal kıldığını savunur.
+caveat: >-
+  Xingshi Zhoubao (醒獅週報), 'Lianzhi jiuguo de buzhou' yazı dizisi, Ekim 1927'den itibaren (Wikisource notu),
+  Wikisource sayfası '聯治救國的步驟' olarak kaynak gösterilmiştir. Federal özyönetim üzerine uzun bir yazı dizisinin
+  Wikisource transkripsiyonu (textquality %50 olarak işaretli, basitleştirilmiş karakterler); üstbilgi yazarı
+  常乃惪 olarak verir, notlar ise onu 常燕生 ile özdeşleştiren Wei Xiumei'nin çalışmasına ve dizinin Ekim 1927'den
+  itibaren Xingshi'de yayımlanmasına atıfta bulunur. Tam sayı belirtilmediğinden tarih yalnızca yıl olarak
+  verilmiştir. Kemal burada kendi başına övülen ya da eleştirilen biri değil, Çin'deki savaş ağalığına karşı
+  bir mukayese unsurudur: cümlenin devamında Çin'in koşullarının çok daha büyük ve farklı olduğu belirtilir.
+verification_note: >-
+  Alıntı basitleştirilmiş karakterlerle birebir aynı, şu pasajın içinde yer alıyor:
+  '我们通常看见欧洲各国的革新运动,都是一呼百应...如同基玛尔将军,一战胜了希腊,便可统一土耳其而复兴旧业,因此以为中国的国事也是如此简单易决,殊不知中国全国大于...不知若干倍...故于此时而犹作武力统一之梦,殆真可谓为梦想'.
+  Üstbilgi yıl olarak 1927'yi veriyor, ay/gün yok; Japonca notlar (Wei Xiumei) yazı dizisinin Ekim 1927'de
+  başladığını ve düzensiz yayımlandığını belirtiyor, dolayısıyla yalnızca yıl verilmesi doğru hassasiyet
+  düzeyidir (sonraki bir bölüm ilke olarak 1928'e sarkmış olabilir, ancak sayfanın kendisi 1927 diyor). Çeviri
+  sadık; araçsal / 1 ve 'mukayese unsuru' okuması uygun; what_they_saw 21 kelime. 常乃惪 ile 常燕生 özdeşleştirmesi
+  yazar satırına değil, sayfanın kendi notlarına (Wei Xiumei) dayanmaktadır. Şema tamam.
+verification_method: >-
+  User-Agent ile action=raw alındı, Çince alıntının tam eşleşmesi yapıldı, cümlenin tamamı ve üstbilgi okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: eb3e745beedb
+  role: a64c9d37ee84
+  quote: f01b0c758c6d
+  summary: ac3a7e3e45ee
+  caveat: 61ba80c5416b
+  verification_note: 32fc60edf66a
+  verification_method: 07c93f7797c5

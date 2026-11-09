@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: philip-ireland-1938
+voice: Philip W. Ireland
+voice_type: person
+role: Harvard government scholar of the Middle East (F.R.G.S., M.A. Oxon, Ph.D.)
+country: United States
+country_now: United States
+domain: science
+date: "1938-10"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Names national unity together with Atatürk's leadership as one of the primary elements of strength of the
+  new Turkey.
+quote:
+  text: >-
+    national unity, which together with the leadership of Atatürk, has been one of the primary elements of
+    strength of the new Turkey
+  language: en
+caveat: >-
+  Published in La Turquie kémaliste, the illustrated review of the Turkish Press Directorate (Direction
+  Générale de la Presse, Ministry of the Interior), a Kemalist state propaganda venue that chose and printed
+  (and for some items translated) what it ran; read in the OCR of archive.org item la_turquie_kemaliste.
+  Signed English original, 'Land of Pioneers', no. 27 (October 1938, the fifteenth-anniversary number,
+  published a month before Atatürk's death); a Turkish translation ('Öncüler ülkesi') is in the archive.org
+  item. The byline gives him as of the Department of Government, Harvard University; nothing else is verified
+  about him. A passing evaluative clause inside a travel-and-development article (he also speaks of 'the many
+  reforms instituted by Atatürk'); intensity 1. Page not shown in the OCR. Cited as La Turquie kémaliste no.
+  27 (October 1938), 'Land of Pioneers'.
+node: La Turquie kémaliste 1935–1938 — Haşim, Wright, Pittard, Ireland and Belge
+sources:
+  - url: https://archive.org/details/la_turquie_kemaliste
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org la_turquie_kemaliste 27_djvu.txt (no. 27, Octobre 1938)
+  method: fetched djvu text, string match
+  note: >-
+    Verbatim (hyphen-wrapped 'lea-dership'). Byline 'Philip W. Ireland, F.R.G.S., M.A. (Oxon), Ph.D.,
+    Department of Government, Harvard University'. One evaluative clause plus 'reforms instituted by Atatürk';
+    gaze passes at intensity 1. Not a notable name.
+  checked_on: "2026-11-03"

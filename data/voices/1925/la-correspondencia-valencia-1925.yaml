@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-correspondencia-valencia-1925
+voice: La Correspondencia de Valencia
+voice_type: press
+role: Valencia daily
+country: Spain
+country_now: Spain
+domain: press
+date: "1925-03-24"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Front-page 'La Turquía nueva': a mocking Angora portrait of a fortified, nervous Ghazi, unimpressive in
+  person, whose dreamer's eyes might be an alcoholic's.
+quote:
+  text: su pobre cerebro, que el alcohol no ha respetado
+  language: es
+mediated_by: >-
+  Unnamed foreign traveller's sketch (the writer says he was refused an interview), translated; byline not
+  visible in OCR
+caveat: >-
+  The voice is a translated traveller; the Valencia paper's stance is its decision to run it on page one. OCR
+  noisy.
+node: Valencia and Santa Fe Read Kemal, 1924–1933
+sources:
+  - url: https://archive.org/details/LaCorrespondencia_Valencia_19583_19250324
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA LaCorrespondencia_Valencia_19583_19250324 djvu
+  method: djvu OCR text
+  note: >-
+    'La Turquía nueva' article; 'su pobre cerebro, que el alcohol no ha respetado' (line-break hyphenation
+    only); 'ojos de soñador... o de alcohólico'; interview refused ('la interviú que me ha rehusado').
+    Front-page placement not verified.
+  checked_on: "2026-10-29"

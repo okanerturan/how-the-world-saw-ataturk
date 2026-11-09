@@ -1,0 +1,29 @@
+# Turkish for data/voices/1923/el-tucsonense-1923.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: el-tucsonense-1923
+voice: El Tucsonense
+role: İspanyolca haftalık gazete, Tucson, Arizona
+summary: >-
+  Portre: bir 'gerçek diktatör', savaşın yıktığı ulusların umudu ve korkusu; henüz kimsenin ona Yakın Doğu'nun
+  Napolyon'u demediğini, ancak gazetecilerin diyeceğini söylüyor.
+caveat: >-
+  17 Şubat 1923 tarihli sayının 7. sayfasındaki Seccion Editorial sayfasında yer alan imzasız, ajans yazısı
+  tarzında portre; soy iddiası (İspanyol Yahudisi kökenli olduğu) bir söylencedir ve ihtiyat payı bırakılmadan
+  aktarılmıştır; kontrol sonrası düzeltildi: Napolyon yakıştırması kullanılmamış, ileride kullanılacağı
+  öngörülmüştür
+verification_note: >-
+  İfade geçiyor ancak olumsuzlanmış olarak: 'Nadie, hasta ahora, lo ha llamado "el Napoleón del Cercano
+  Oriente" pero los periodistas ... lo harán tarde o temprano ... se dice que recuerda a Napoleón'. Gazete
+  henüz kimsenin ona böyle demediğini söylüyor; yakıştırma olarak alıntılanması yanıltıcıdır. Geri kalanı
+  (QUIEN ES MUSTAFA KEMAL PASHA başlığı, gerçek diktatör, esperanza y terror, İspanyol-Yahudi soyu)
+  destekleniyor.
+verification_method: tile.loc.gov OCR metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a585ca93ca7a
+  role: 55e0a175a3e3
+  summary: 96b34ed5856a
+  caveat: ed8ac6860c35
+  verification_note: 2cab9a59fa43
+  verification_method: 8f538a31eec9

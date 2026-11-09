@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: salonika-city-council-1938
+voice: Salonika city council
+voice_type: institution
+role: Municipal council, Atatürk's birth city
+country: Greece
+country_now: Greece
+domain: politics
+date: "1938-11-12"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: monument
+evidence: P+S
+summary: >-
+  Voted to give Atatürk's name to the street where he was born, choosing mourning over grievance.
+mediated_by: Havas wire from Athens via Delpher OCR; Toksoy 2010
+caveat: Delpher urn not a URL; only Toksoy link listed.
+node: Salonika Names His Street, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  checked_against: https://resolver.kb.nl/resolve?urn=ddd:010664491:mpeg21:a0074:ocr (Havas Athene 12 Nov)
+  method: fetch
+  note: >-
+    Council decided to give Ataturk's name to street of his birth; 'mourning over grievance' is editorial
+    gloss. Toksoy had no Selanik hit in the text searched. Delpher urn missing from record sources
+  checked_on: "2026-10-29"

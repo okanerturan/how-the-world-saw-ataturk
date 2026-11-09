@@ -1,0 +1,19 @@
+# Turkish for data/voices/1929/waikato-times-1929.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: waikato-times-1929
+voice: Waikato Times
+role: Hamilton günlük gazetesi, 'The New Turkey' başyazısı
+quote: Terör, modern zamanlardakilerin herhangi biri kadar insanlık dışıydı
+quote_kind: translated
+summary: >-
+  Kemal yönetimindeki batılılaşmanın etkin olduğunu kabul etti ancak acımasız olduğunu, hiçbir muhalefete
+  tahammül etmediğini ve muhalif siyasetçileri astığını söyledi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a4fad67fedc3
+  role: 6308a730407a
+  quote: 3063b4122322
+  summary: f0f8efad636c
+  verification_method: ad8cee67138e

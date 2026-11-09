@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: gao-junyu-1922-09
+voice: 君宇 (pen name, conventionally Gao Junyu)
+voice_type: person
+role: Writer in Xiangdao
+country: China
+country_now: China
+domain: press
+date: "1922-09"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: article
+evidence: P
+summary: >-
+  Read the Ankara victory as an oppressed nation's defeat of imperialism, not Muslim over Christian; said
+  Kemal's success was half owed to Soviet help.
+quote:
+  text: 誰都曉得，基瑪爾能有如此成功，是一半得力於蘇俄帮助的緣故
+  language: zh
+caveat: >-
+  Pen-name attribution is M-tier; issue no. 3, month inferred from the weekly's run (no. 3 = 27 Sep 1922).
+node: Xiangdao Reads Ankara, 1922–1924
+sources:
+  - url: https://zh.wikisource.org/wiki/土耳其國民軍勝利的國際價値
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource 土耳其國民軍勝利的國際價値 (作者 君宇, 嚮導第三期)
+  method: Wikisource action=parse via ms fetch
+  note: >-
+    Verbatim. Text also says victory is not Muslim over Christian. Month is inferred (no month on page);
+    pen-name attribution not checkable here.
+  checked_on: "2026-10-30"

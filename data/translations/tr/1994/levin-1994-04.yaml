@@ -1,0 +1,43 @@
+# Turkish for data/voices/1994/levin-1994-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: levin-1994-04
+voice: Carl Levin
+role: ABD Michigan Senatörü (Demokrat)
+quote: >-
+  Nitekim modern Türkiye'nin kurucusu Kemal Atatürk, Osmanlı İmparatorluğu tarafından işlenen suçları kabul
+  etmişti. Bu genel kurulda daha önce de ele aldığım gibi, 1926 tarihli bir mülakatta bizzat Atatürk,
+  sorumluların "evlerinden acımasızca kitleler halinde sürülen ve katledilen milyonlarca Hristiyan tebaamızın
+  hayatlarının hesabını vermeye mecbur edilmiş olmaları gerektiğini" ifade etmiştir.
+quote_kind: translated
+summary: >-
+  Bir Ermeni soykırımı anmasında, Atatürk'ün verdiğini söylediği 1926 tarihli bir mülakattan alıntı yaparak,
+  Atatürk'ü bu suçları kabul etmiş biri olarak örnek gösterir.
+caveat: >-
+  Hassas konu (Ermeni soykırımı): Senatörün çerçevelemesi ve atfıdır, arşiv bunu burada onaylamaz veya
+  sınamaz; 1926 mülakatı onun kaynak gösterimidir ('Chistian', Record'un dizgi hatasıdır). Günümüz
+  Türkiye'sini Osmanlı suçlarından ayırmak için Atatürk'ü kullanır. Kaynak gösterimi: Senato, 19 Nisan 1994,
+  'The Genocide of Armenians', Congressional Record c. 140, sayı 43, s. S38 (granül
+  CREC-1994-04-19-pt1-PgS38). Basılı sayfa numarası yok (yalnızca granül soneki S38). Atıfta bulunduğu 1926
+  mülakatının (Los Angeles Examiner) gerçekliği tartışmalıdır; arşivin değil, kendisinin atfıdır.
+verification_note: >-
+  Record'daki 'Chistian' dizgi hatası dahil alıntı birebir aynı; Senato, 19 Nisan 1994 Salı, Mr. LEVIN, 'The
+  Genocide of Armenians'. Sözleri 1926 tarihli bir mülakatta Atatürk'e atfediyor (burada sınanmadı; bu,
+  gerçekliği tartışmalı olan Los Angeles Examiner mülakatıdır, dolayısıyla 'kendisinin atfı' olarak
+  çerçevelenmesi doğrudur). DÜZELTME: 's. S38' yalnızca GovInfo granül sonekidir; günlük HTML numarasız olarak
+  '[Page S]' basmaktadır, dolayısıyla gerçek sayfa çözümlenmemiştir. Sayfa numarası olmadan 'Congressional
+  Record c. 140, sayı 43, 19 Nisan 1994 (granül CREC-1994-04-19-pt1-PgS38)' olarak kaynak gösterilmeli.
+  Araçsal/2 yerinde.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizleme uygulandı, alıntının normalleştirilmiş eşleştirmesi
+  yapıldı; konuşmacı, tarih ve sayfa Record'un kendi başlıklarından ve üst bilgilerinden okundu; bu granül
+  için PDF mevcut değil
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 193638c0960b
+  role: 1fe4dcd84825
+  quote: 92817b1695bc
+  summary: 843c8705e552
+  caveat: a3e1781b006a
+  verification_note: eec5be97a47b
+  verification_method: e669f3478c0a

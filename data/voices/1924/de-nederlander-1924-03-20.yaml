@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-nederlander-1924-03-20
+voice: De Nederlander
+voice_type: press
+role: Protestant-Christian (CHU) daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1924-03-20"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Judged abolishing the caliphate unwise: church-state separation suits Eastern Muslim peoples poorly; the
+  Turks threw away their trumps for a Western abstraction.
+quote:
+  text: Heel verstandig schijnt dat niet. Scheiding van Kerk en Staat klinkt heel aardig
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. The judgement is on the Turks' (Ankara's) act; Kemal is
+  named elsewhere in the same column ('meer krijgsman dan staatsman'). CHU identity from general knowledge.
+node: Dutch Confessional Press and the Fall of the Caliphate, March 1924
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=MMKB15:000693068:mpeg21:a00001
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    KB resolver MMKB15:000693068:mpeg21:a00001:ocr (De Nederlander 1924-03-20, 'Sultan en Khalief'; 'meer
+    krijgsman dan staatsman' present)
+  method: fetch
+  note: Judgement is on the Turks' act, Kemal named only in closing line; fine as caveated.
+  checked_on: "2026-10-29"

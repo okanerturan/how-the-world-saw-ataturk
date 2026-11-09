@@ -1,0 +1,36 @@
+# Turkish for data/voices/1931/ferhat-abbas-1931.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ferhat-abbas-1931
+voice: Ferhat Abbas
+role: >-
+  Cezayirli eczacı ve reformcu yazar; daha sonra Cezayir Cumhuriyeti Geçici Hükümeti'nin (GPRA) ilk başkanı
+summary: >-
+  Le Jeune Algérien'de İslam dünyasının uyanışını memnuniyetle karşılarken Abduh ve İbn Suud'un yanı sıra
+  Mustafa Kemal'e hayranlık duydu; 'Kémal Abencérages' müstear adıyla yazdı.
+caveat: >-
+  Yalnızca ikincil kaynaktan dolaylı aktarım: 'Il admire Mohammed Abdou, Ibn Séoud et Mustapha Kémal, en dépit
+  de leurs divergences'. Abbas'ın kendi sözleri okunmamıştır: Le Jeune Algérien archive.org'da bulunamamış ve
+  Gallica'ya erişilememiştir. Pervillé 'Kémal Abencérages' müstear adına tarih vermez ve 1936'ya gelindiğinde
+  Abbas'ın bir Cezayir milletinin varlığını inkâr ettiğini kaydeder. Abbas, Kemal ile hiç karşılaşmamıştır.
+mediated_by: >-
+  Guy Pervillé, 'Le sentiment national des étudiants algériens de culture française de 1912 à 1962', Relations
+  internationales no. 2 (Kasım 1974), s. 233–259 (2 Temmuz 2007'de yeniden yayımlandı) <- Abbas, Le Jeune
+  Algérien (1931)
+verification_note: >-
+  Pervillé: 'Abbas a foi dans l'avenir glorieux du monde musulman, et se réjouit de son réveil. Il admire
+  Mohammed Abdou, Ibn Séoud et Mustapha Kémal, en dépit de leurs divergences. Mais, en 1936, il nie ...' ve
+  müstear ad 'Kémal Abencerages' (tarihsiz). Bu, bir tarihçinin tek cümleciklik dolaylı aktarımıdır; Le Jeune
+  Algérien (1931) ile bağlantı çevreleyen paragraftan gelmektedir. Abbas'ın kendi metnine ulaşılamamıştır
+  (FTS, yazar Abbas altında Kemal için sonuç döndürmemektedir; Gallica SRU sonuç döndürmemiştir). Kendi
+  sözleriyle ifade edilmiş bir görüş yoktur.
+verification_method: djvu metni; archive.org tam metin araması; Gallica SRU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: db27f4cdc327
+  role: 46c3434576e7
+  summary: feb1cbd15780
+  caveat: af0eda255cf0
+  mediated_by: ecba2654516a
+  verification_note: c5d1491bfee8
+  verification_method: bf864b42ac88

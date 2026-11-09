@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abbott-2015-04-22
+voice: Tony Abbott
+voice_type: person
+role: Prime Minister of Australia (2013–2015)
+country: Australia
+country_now: Australia
+domain: politics
+date: "2015-04-22"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: quote
+evidence: P
+summary: >-
+  Calls Atatürk's message to the grieving mothers of Australia wise and magnanimous, from a 'truly great
+  inspirational leader' whose legacy lives on.
+quote:
+  text: >-
+    That was the wise and magnanimous message of a truly great inspirational leader whose legacy lives on in
+    modern Turkey.
+  language: en
+caveat: >-
+  Spoken beside the Turkish prime minister on the eve of the Gallipoli centenary; occasion-bound praise. The
+  'Johnnies and Mehmets' / 'your sons are now lying in our bosom' text that Anzac speakers attribute to
+  Atatürk is itself contested: no 1934 original has been found, it first appears in print in 1953 via Interior
+  Minister Şükrü Kaya's recollection, and the 'Johnnies and Mehmets' clause is a 1978 Australian addition (see
+  [[Johnnies and Mehmets]]). So this is a speaker's view of the Atatürk of the Anzac legend, spoken at a
+  commemorative or diplomatic occasion that rewards praise. Cited as: Joint press conference with Prime
+  Minister Davutoğlu, Ankara, 22 April 2015.
+node: Anzac Day Leaders on Atatürk, 1990–2024 — Australian and New Zealand Speeches
+sources:
+  - url: https://pmtranscripts.pmc.gov.au/release/transcript-24389
+    archived: https://web.archive.org/web/20221116004129/https://pmtranscripts.pmc.gov.au/release/transcript-24389
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: pmtranscripts.pmc.gov.au XML query?transcript=24389
+  method: >-
+    fetched source fresh, normalised-text match of the quote; speaker, date and title read from metadata/byline
+  note: >-
+    Verbatim in transcript 24389 (Abbott, joint press conference with Davutoglu, Ankara, 22 Apr 2015). Own
+    view: 'wise and magnanimous message of a truly great inspirational leader'. Admiring 2 fair; artifact
+    could be 'speech' but 'quote' is acceptable.
+  checked_on: "2026-11-03"

@@ -1,0 +1,42 @@
+# Turkish for data/voices/2004/jettou-2004-04-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jettou-2004-04-20
+voice: Driss Jettou
+role: Fas Başbakanı
+quote: >-
+  Allah, bu büyük devlet adamına mağfiret etsin. Zamanımızın en büyük insanlarından biriydi ve günümüzde
+  evrensel ışıltısı olan bir ülke kurdu.
+quote_kind: original-turkish
+summary: >-
+  Büyük bir devlet adamı, 'zamanımızın en büyük insanlarından biri'; günümüzde evrensel ışıltısı olan bir ülke
+  kurdu.
+caveat: >-
+  Arapça el yazısı, 20.04.2004; alıntı derlemenin Türkçesidir ('Allah bu büyük devlet adamını bağışlasın.
+  Zamanımızın en büyük insanlarından biriydi ve bugün evrensel ışıltısı olan bir ülke kurdu'). 'Büyük devlet
+  adamı', derlemenin 'rajul' (bir adam) kelimesini çevirisidir; 'bağışlasın' ise 'rahmetiyle kuşatsın'
+  ifadesini karşılar. Arapça metnin okunuşu (3. satırın son kelimesi belirsiz): 'رجل تغمده الله برحمته كان من
+  أعظم رجال هذا العصر وبنى بلدا له إشعاع …'. Kaynak: Anıtkabir Özel Defteri (basılı derleme, '1953'ten
+  günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk hakkındaki duygu ve
+  düşünceleri'), ataturkarsivi.com adresindeki sayfa görüntüleri, ana ajan tarafından görüntü üzerinden okundu
+  (4 Kasım 2026).
+verification_note: >-
+  Basılı Türkçe alıntı birebir aynı; 20.04.2004 tarihi ve görevi (Fas Krallıgı Basbakani) basılı. Arapça okuma
+  kontrol edildi: 1. satır 'رجل تغمده الله برحمته', 2. satır 'كان من أعظم رجال هذا العصر', 3. satır 'وبنى بلدا
+  له إشعاع ...' (son kelime belirsiz, 'عالمي' ile uyumlu): ana ajanın okuması doğru. Çeviri çekincesi: Arapça
+  metin 'rajul' (bir adam) ile başlıyor ve Allah'ın onu rahmetiyle kuşatmasını diliyor; basılı Türkçe bunları
+  'bu buyuk devlet adamina magfiret etsin' (bu büyük devlet adamı; bağışlasın) olarak çeviriyor. Dolayısıyla
+  'büyük devlet adamı' derlemenin 'adam' kelimesini çevirisidir; özü (bu çağın en büyük insanlarından biri
+  olduğu, ışıltılı bir ülke kurduğu) geçerliliğini koruyor. what_they_saw alanındaki 'büyük devlet adamı'
+  Türkçeye dayanmaktadır; çekince notunda ihtiyatlı ifade edilmesi düşünülebilir. Arapça metin Atatürk'ün
+  adını anmıyor ancak onun sayfasında yer alıyor. Bakış geçerli.
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8b4b6381a4e4
+  role: be345df7de28
+  quote: dd8b59e3a58e
+  summary: 6f20df96dccc
+  caveat: fbb534c65c9f
+  verification_note: bb5906d1cf17
+  verification_method: "304538629105"

@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ben-bella-1984-07
+voice: Ahmed Ben Bella
+voice_type: person
+role: First President of Algeria (in exile)
+country: Algeria
+country_now: Algeria
+domain: politics
+date: "1984-07"
+era: posthumous
+polarity: conflicted
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: quote
+evidence: J
+summary: >-
+  Calls Mustafa Kemal extraordinary for defying the Greeks and Western powers and admires him, but says
+  treating Turks as Western was a vital mistake.
+quote:
+  text: >-
+    Türkleri Batılı sayması, çok hayati bir hataydı. Fakat bu bir yana, benim kendisine büyük hayranlığım var.
+  translation: >-
+    His counting the Turks as Western was a very vital mistake. But that aside, I have great admiration for
+    him.
+  language: tr
+mediated_by: >-
+  Cumhuriyet, 16 Jul 1984 p. 8, series 'Ben Bella anlatıyor' (Geneva interview, printed in Turkish translation)
+caveat: >-
+  Q&A interview printed in the newspaper (the 15 July instalment is bylined Cengiz Çandar), read in the
+  Cumhuriyet e-archive OCR text of the page (OCR slips corrected: 'hayranhğım'). He also says Mustafa Kemal
+  became 'olağanüstü bir insan' by resisting the Greeks and the Western powers behind them when Turkey was to
+  be wiped off the map, that he admires his military personality, and, after 'Ancak' (however), that they do
+  not share his later remedies (OCR 'getirdiği çarelerle ayru fikirde değiliz', read as 'aynı fikirde
+  değiliz'). Says Algerian activists studied Kemal in the 1930s-40s.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://egazete.cumhuriyet.com.tr/en/catalog/192/1984/07/16/8
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://egazete.cumhuriyet.com.tr/en/catalog/192/1984/07/16/8 (Cumhuriyet 16 Jul 1984 p. 8, 'Ben Bella
+    anlatıyor', Cenevre; OCR)
+  method: curl
+  note: >-
+    Turkish quote verbatim (OCR 'hayranhğım'); 'olağanüstü bir insan oldu' and 'getirdiği çarelerle ayru
+    [aynı] fikirde değiliz' present, as is the 1930s-40s study answer. TIER: this is a newspaper Q&A printed
+    in Turkish translation, so it is press, not his own text. Evidence P → J. mediated_by is correctly filled.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 30)
+  checked_on: "2026-11-05"

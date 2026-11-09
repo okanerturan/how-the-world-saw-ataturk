@@ -1,0 +1,35 @@
+# Turkish for data/voices/1919/harbord-1919-10-16.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: harbord-1919-10-16
+voice: James G. Harbord
+role: ABD Tümgenerali, Ermenistan Amerikan Askeri Heyeti Başkanı
+quote: >-
+  Lider Mustafa Kemal Paşa, Türk Ordusunda eski bir generaldir; Çanakkale'de bir kolorduya üstün başarıyla
+  komuta etmiştir ve güçlü, keskin zekâlı genç bir adam görünümündedir.
+quote_kind: translated
+summary: >-
+  Eylül 1919'da Sivas'ta Kemal ile görüştü; onu seçkin bir Çanakkale komutanı, 'güçlü ve keskin zekâlı genç
+  bir adam' olarak rapor etti; kendisine Ermeniler hakkında mektup yazdı.
+caveat: >-
+  Harbord'un Dışişleri Bakanı'na raporu, 16 Ekim 1919, FRUS 1919 c. II, belge 828, s. 858. Ek D (Exhibit D),
+  gösterilen nezaket için teşekkür eden ve hareketin Hristiyanlara düşman olmadığına dair güvencenin daha
+  geniş çapta duyurulmasını telkin eden 9 Ekim 1919 tarihli Kemal'e mektubudur. Övgü ölçülüdür ve aktardığı
+  Ermeni endişelerinin yanında yer alır; Sivas görüşmesi 22 Eylül 1919'da yapılmıştır.
+verification_note: >-
+  s. 858'de birebir yer almaktadır. Rapor USS Martha Washington gemisinde 16 Ekim 1919 tarihlidir. Ek D
+  (Exhibit D, 9 Ekim 1919) tarif edildiği gibidir: gösterilen nezaket için teşekkür, Ermenilerin hâlâ 'very
+  apprehensive' oluşu ve 'a wider circulation of the information that your organization is in no way inimical
+  to the Christian population' önerisi. Sivas görüşmesinin tarihi (22 Eylül) bu belgede bulunamamıştır.
+  İkincil bir şahsiyettir ancak açık bir görüş belirttiği için kayıt geçer. Çekince notundaki 'measured'
+  kaydıyla birlikte 1 yoğunluğunda hayranlık değerlendirmesi adildir.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 434a9ce817e9
+  role: 3be1447e94bd
+  quote: cce6a43663c4
+  summary: 9a5edb8e43ba
+  caveat: ed5042def607
+  verification_note: a0bcff6d52be
+  verification_method: 5300d17a1d69

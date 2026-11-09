@@ -1,0 +1,25 @@
+# Turkish for data/voices/1938/morning-tribune-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: morning-tribune-1938
+voice: Morning Tribune
+role: Singapur günlük gazetesi
+quote: YEREL MÜSLÜMANLAR ATATÜRK'ÜN ÖLÜMÜNÜN YASINI TUTUYOR
+quote_kind: translated
+summary: >-
+  'LOCAL MUSLIMS MOURN ATATURK'S DEATH' başlığı altında yerel Müslümanların yasını haberleştirdi; kendi
+  editoryal görüşü yok.
+caveat: >-
+  Başkalarının tepkisinin haberi; tarayıcı aracısı ile erişim; metin kontrol edilmedi (kaynağa erişilemedi, 29
+  Ekim 2026)
+verification_note: Başlık doğrulanmadı.
+verification_method: sayfa işleme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8a3b791f48b8
+  role: d44651cd35f7
+  quote: 7ef99f3806cb
+  summary: d6d6fa525679
+  caveat: b8f9bd1facd0
+  verification_note: e6d151b2df87
+  verification_method: 37eca5751d1f

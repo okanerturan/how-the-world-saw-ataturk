@@ -1,0 +1,33 @@
+# Turkish for data/voices/1962/yul-brynner-1962-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: yul-brynner-1962-04
+voice: Yul Brynner
+role: Planlanan bir filmde Atatürk'ü canlandırmak üzere seçilen Amerikalı sinema oyuncusu
+quote: Atatürk, gerçek bir kahramandır. Kendimi onun yerine koyabilmek bana ürperti veriyor.
+quote_kind: original-turkish
+summary: >-
+  Onu sinemada canlandırmaya hazırlanırken Atatürk'ü 'gerçek bir kahraman' olarak nitelendiriyor ve rolün
+  hakkını verememekten korkuyor.
+caveat: >-
+  Gazete haberinin Türkçesi ('Atatürk gerçek bir kahramandır. Kendimi onun yerine koymak beni ürpertiyor').
+  Anıtkabir özel defterine 'Size karşı büyük bir saygı ve hürmet duyuyorum' ('Size karşı büyük bir saygı ve
+  hürmet hissediyorum') yazmıştır. Film hiçbir zaman çekilmedi. Tez, archive.org üzerinde açık tam metin
+  olarak okundu (öğe gelisiguzelkitapo2, 'Anıtkabir mekan').
+mediated_by: >-
+  Milliyet, 13 Nisan 1962, aktaran: Tunç Boran, Mekân ve Siyaset İlişkisi Bağlamında Anıtkabir (1938-1973),
+  doktora tezi, Ankara Üniversitesi, 2011, s. ~315 (dn. 1503)
+verification_note: >-
+  Alıntı tezde birebir aynı; orijinali (Koloğlu 2004 üzerinden Milliyet 1962 / NZZ 1938) görülmedi.
+verification_method: >-
+  tez tam metni ana ajan tarafından okundu; orijinal gazete görülmedi; bağımsız bir denetleyici değil
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 31b745879ebd
+  role: 6f7f7ccb8ba2
+  quote: c8b654fb1925
+  summary: d7cf4b1af303
+  caveat: d08f05d3300d
+  mediated_by: 8b8883ca8672
+  verification_note: 0b5d1185372a
+  verification_method: fc670d957b2d

@@ -1,0 +1,25 @@
+# Turkish for data/voices/1924/shakib-arslan-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: shakib-arslan-1924
+voice: Shakib Arslan
+role: Panislamist fikir yazarı, 'Belagat Prensi'
+summary: >-
+  Özellikle hasmane: Batı'yı taklit etmek için kullanılacaksa bağımsızlık değersizdir; hilafetin kaldırılması
+  Kemalizmi onun olumsuz kutbu olarak sabitledi.
+caveat: >-
+  Notta herhangi bir Arslan metni alıntılanmamıştır; tarih 1924'teki kaldırma kararından alınmıştır. Metin
+  kontrol edilmedi (kaynağa 29 Ekim 2026'da ulaşılamadı)
+verification_note: >-
+  Yalnızca bir Goodreads incelemesine ulaşıldı: Arslan'ın Kemalistleri Avrupa'yı körü körüne taklit ettikleri
+  için eleştirdiği ve hilafeti savunduğu belirtiliyor. Akademik bir kaynak değil; 'independence worthless if
+  used to imitate the West' ifadesi ve 1924 tarihi kontrol edilmiş bir metinle desteklenmiyor
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 23c9a36a57b5
+  role: ba10d60a22bf
+  summary: 77a3fe81f795
+  caveat: 9607ad0c2f0b
+  verification_note: 2997c37a9c25
+  verification_method: ad8cee67138e

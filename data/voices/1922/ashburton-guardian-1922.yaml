@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ashburton-guardian-1922
+voice: Ashburton Guardian
+voice_type: press
+role: NZ provincial daily
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1922-09-19"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Profile leader: Kemal is the mainspring of Turkish Nationalism and Gallipoli victor over NZ troops at Suvla,
+  yet his eyes have always turned to Britain.
+quote:
+  text: All through his career his eyes have turned to Britain
+  language: en
+node: New Zealand Leaders on Kemal at Chanak, September 1922
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/AG19220919.2.16
+    archived: https://web.archive.org/web/20261028234931/https://paperspast.natlib.govt.nz/newspapers/AG19220919.2.16
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://paperspast.natlib.govt.nz/newspapers/AG19220919.2.16 "THE TURKISH LEADER", 19 Sep 1922: "All
+    through his career his eyes have turned to Britain"; Suvla/NZ passage present
+  method: fetch
+  checked_on: "2026-10-29"

@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/manuel-azana-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: manuel-azana-1938
+voice: Manuel Azaña
+role: İspanya Cumhuriyeti Cumhurbaşkanı
+quote: Türkiye Cumhuriyeti'nin kurucusu … büyük eserinin sürekliliği
+quote_kind: translated
+summary: Ölümü dolayısıyla Cumhuriyet adına taziyelerini bildirmek üzere yazdı.
+caveat: >-
+  Fransızca özgün metin (c2, PDF s. 10), İç Savaş sırasında Barselona'dan gönderilmiş; bir taziye telgrafı,
+  övgü kısa.
+verification_note: Telgraf metni, eserinin sürekliliği için iyi dilekleri içeriyor.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6f291799d96b
+  role: 85123d1e1ee6
+  quote: b6cb75bdd614
+  summary: 79f1d14e9368
+  caveat: fe791b8d8e51
+  verification_note: 41be327c3a84
+  verification_method: ad8cee67138e

@@ -1,0 +1,29 @@
+# Turkish for data/voices/1978/unesco-20th-general-conference-1978.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: unesco-20th-general-conference-1978
+voice: UNESCO 20. Genel Konferansı
+role: BM kültür örgütü
+quote: sömürgecilik ve emperyalizme karşı verilen ilk mücadelenin lideri
+quote_kind: translated
+summary: >-
+  Olağanüstü bir reformcuyu ve sömürgecilik ile emperyalizme karşı verilen erken bir mücadelenin liderini
+  tanıyarak, doğumunun yüzüncü yılı olan 1981'i anma kararı aldı.
+caveat: >-
+  Karar numarası belirlenemedi; 'adopted unanimously by 152 members' ifadesi bir Türk süslemesidir. İfade,
+  ataturktoday.com adresindeki İngilizce metindir; buradaki Türkçe aktarımı 'one of the first leaders' der ve
+  resmi UNESCO metnine ulaşılamadığından (2026-10-29) tam metin kesinleşmemiştir.
+verification_note: >-
+  Karar (27 Kasım 1978) doğrulandı, ancak oradaki İngilizce metinde 'one of the earliest' değil, 'the leader
+  of the first struggle given against colonialism and imperialism' yazmaktadır. Türkçe aktarımı 'ilk
+  liderlerinden biri' der. Resmi UNESCO belgesine ulaşılamadı.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cdd4e53e3ddf
+  role: 741a42ab46af
+  quote: 1eb200bdefd4
+  summary: 680a3a53315a
+  caveat: d69f827c0afe
+  verification_note: a45211795709
+  verification_method: ad8cee67138e

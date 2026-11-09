@@ -1,0 +1,51 @@
+# Turkish for data/voices/1935/mehmet-akif-1935-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mehmet-akif-1935-08
+voice: Mehmet Âkif Ersoy
+role: İstiklâl Marşı şairi, Kahire'de yaşayan eski Burdur milletvekili
+quote: >-
+  Zira Gazi paşa Rauf beyi çekemez. Çünki Gazi paşa def'atla hayatını, şerefini ve mevkiini Rauf beye
+  medyundur.
+quote_kind: original-turkish
+summary: >-
+  Aktarıldığına göre Antakya'da, Gazi'nin hayatını, şerefini ve mevkiini defalarca Rauf'a borçlu olduğunu,
+  buna rağmen onu mahvetmeye çalıştığını söyledi.
+caveat: >-
+  ÇEVİRİ (bu kaydın): 'For the Gazi cannot bear Rauf Bey. Because the Gazi has owed his life, his honour and
+  his position to Rauf Bey time and again.' Düşmanca ve çıkar gözetir nitelikteki bir kaynak olan bir polis
+  muhbirinin raporunda yer alan kulaktan dolma aktarım; rapor bunu 'Şair Akif ... Atatürk hakkında demişdir'
+  şeklinde sunar. OCR düzeltilmiştir ('mevki- ini' → 'mevkiini'). Âkif yaklaşık üç hafta Antakya'da (o sırada
+  Fransız mandası altındaki Sancak) bulunmuş ve 31 Ağustos 1935'te ayrılmıştır. Aynı raporlar onun hilafetin
+  kaldırılmasını 'en büyük bir dinsizlik' olarak nitelendirdiğini ve Abdülmecid'i övdüğünü belirtir; bunlar
+  şahsen Kemal'le değil rejimle ilgilidir. Aynı TBMM cildi, Kemal'in Âkif'in Burdur'dan seçilmesini ayarlayan
+  1920 tarihli telgrafını da basar (Kemal tarafından bir temas). Âkif'in Mısır'dan yazdığı mektuplar açık
+  kaynaklarda bulunamamıştır.
+mediated_by: >-
+  TBMM, İstiklâl Marşı ve Mehmet Âkif Ersoy: Belgeler (2021), belge 8.3 (s. 84'ten) ← İstanbul Valiliği'nden
+  İçişleri Bakanı'na ← muhbir '117', 6 Eylül 1935 tarihli 5 sayılı rapor
+verification_note: >-
+  Alıntı birebir aynı (OCR'daki 'Rauf be- yi', 'mevki- ini' bölünmeleri birleştirilmiş): 'Şair Akif, Türkiye
+  ricalinden de yeğân yeğân bahsederek Atatürk hakkında demişdir ki ( Rauf bey Türkiyeye avdet eylemiş, Fakat
+  ... bir mevki ihraz edemez. Zira Gazi paşa Rauf beyi çekemez. Çünki Gazi paşa def'atla hayatını, şerefini ve
+  mevkiini Rauf beye medyundur ... Rauf beyi mahva çalışmıştır'. Aynı rapor bir telgraftan sonra 31 Ağustos
+  1935'te Antakya'dan ayrıldığını belirtiyor; 28 Ağustos 1935 tarihli 3 sayılı rapor orada üç haftadır
+  bulunduğunu söylüyor. Yalnızca bir muhbirin kulaktan dolma aktarımı olarak atfetmek adil olur ve kayıt da
+  bunu belirtiyor (mediated_by, uyarı notu, 'Reportedly'). Rapor ona karşı düşmanca ('boş boğazlığile',
+  'zehirler saçmıştır'), dolayısıyla bu gözle tartılmalı. Düzeltme: what_they_saw alanında 'told Antakya
+  notables' → 'said in Antakya'. Rapor onun genel konuşmalarını eşrafla yapılan ziyafetlere bağlıyor ancak bu
+  sözü kimin duyduğunu söylemiyor. Düşmanca (hostile) nitelemesi aktarılan sözlerle destekleniyor; yoğunluk
+  (intensity) 1 doğru. Belge 8.3, valinin 1936 ortasında yazdığı (bakanın talebi olan 8.2, 26/6/936
+  tarihlidir) ve 1935 raporlarını aktaran yanıtıdır, dolayısıyla mediated_by içindeki zincir doğrudur. Şema
+  tamam.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8968ed2d41cb
+  role: fd1279f52cd7
+  quote: eb61b65af903
+  summary: 69c6857891f5
+  caveat: 87a63f660d87
+  mediated_by: b5e86f5fb50d
+  verification_note: 11d5b1956f79
+  verification_method: b152e9063489

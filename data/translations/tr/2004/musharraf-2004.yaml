@@ -1,0 +1,39 @@
+# Turkish for data/voices/2004/musharraf-2004.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: musharraf-2004
+voice: Pervez Musharraf
+role: Pakistan Cumhurbaşkanı
+quote: >-
+  Kemal Atatürk bir kahramandı. (Alkışlar) Bizim bölgemizde bulunan Müslümanların sık sık kendi çocuklarına
+  verdiği ismin sahibiydi.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ü bir kahraman olarak nitelendirir ve alt kıtadaki Müslümanların çocuklarına sık sık onun adını
+  verdiğini söyler.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 187 (basılı s. 176). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe olarak basılmıştır. Çevirisi: "Kemal Atatürk was a hero. (Applause) He was the bearer of a
+  name that Muslims in our region often gave their own children." Aynı konuşma barış konusunda Jinnah ile
+  Atatürk'ü bir arada anmaktadır (PDF s. 191). Arşivin mevcut notunda Atatürk'ün genel anlamda onun kahramanı
+  olduğu belirtilmektedir; bu ise TBMM'de dile getirdiği görüştür. Başlık: 'Pakistan Cumhurbaşkanı Pervez
+  Müşerref', 20 Ocak 2004.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Pakistan Cumhurbaşkanı Pervez
+  Müşerref, 44. Birleşim, 20 Ocak 2004' (başlık PDF s. 186'da)). Özgün dildeki metin arama bütçesi dâhilinde
+  bulunamadı (muhtemelen İngilizce); doğrulanan tek metin tutanaklardaki Türkçedir.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracımızla PNG'ye dönüştürülüp (check_png/c187.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı görüntü üzerinde ve kendi bağımsız metin katmanı
+  çıkarımımızla kelimesi kelimesine karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b9196cba4001
+  role: bc3d836c0647
+  quote: ba12e52a5dfe
+  summary: fc416a21ce6f
+  caveat: fa3c52c284b9
+  mediated_by: 8e2cc528453b
+  verification_note: 3030f361cab7
+  verification_method: 49e6b4255104

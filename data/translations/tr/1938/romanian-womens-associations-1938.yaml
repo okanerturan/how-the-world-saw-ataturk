@@ -1,0 +1,32 @@
+# Turkish for data/voices/1938/romanian-womens-associations-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: romanian-womens-associations-1938
+voice: Rumen kadın dernekleri (Hortense de Satmary)
+role: Hortense de Satmary imzasıyla çeşitli Rumen kadın dernekleri
+quote: milletinin kurtarıcısı ve Türk kadınlarının özgürleştiricisi
+quote_kind: translated
+summary: >-
+  Onu milletinin büyük muzaffer kurtarıcısı ve Türk kadınlarının özgürleştiricisi olarak nitelendirdi.
+caveat: >-
+  TBMM c. 2 (c2) PDF s. 24. Alıntı Fransızcadır; telgrafta 'sauveur' kelimesinin telgraf yazım hatası olan
+  'saveur' yer alır. Çevirisi: 'milletinin kurtarıcısı ve Türk kadınlarının özgürleştiricisi'.
+verification_note: >-
+  Sayfa atfı DÜZELTMESİ: telgraf c2 PDF s. 25'te değil, s. 24'tedir (s. 25'te Horthy ve Budapeşte elçiliği yer
+  alır, Rumen kadınları yoktur). Kaynak metin: 'les femmes roumaines pleurent la mort du grand victorieux
+  kamal ataturk saveur de sa nation et liberateur des femmes turques - hortense de satmary au nom de plusieurs
+  associations feminines'. Kaynakta telgraf yazım hatası olarak 'saveur' geçer; kayıt bunu sessizce 'sauveur'
+  olarak düzeltir ve aksanları ekler. İmza biçimi 'hortense' (kayıtta: Hortense de Satmary) uygundur. Sağdaki
+  telgraf (Bratianu) farklı bir maddedir.
+verification_method: >-
+  PDF sayfasının kendi görüntü çıktısı (PDFKit PNG, gözle okundu); OCR'a dayanılmadı; telgraf metni aksansız
+  büyük/küçük harf daktilo yazısıdır
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8ab956c9a102
+  role: 19297e24465e
+  quote: 5a81c67e04a5
+  summary: 233db94bcc81
+  caveat: 326e01c9c88c
+  verification_note: 4a7a488d28ac
+  verification_method: 7c3ad23fb937

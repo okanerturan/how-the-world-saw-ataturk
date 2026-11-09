@@ -1,0 +1,43 @@
+# Turkish for data/voices/2016/merkel-2016-02-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: merkel-2016-02-08
+voice: Angela Merkel
+role: Almanya Şansölyesi; Anıtkabir özel defterindeki yazısı
+quote: >-
+  Modern Türkiye Cumhuriyeti'nin babası ve Avrupa'ya giden yolun öncüsü Mustafa Kemal Atatürk'ün anısına.
+  Alman ve Türk halkları arasındaki özel dostluk ruhuyla.
+quote_kind: translated
+summary: >-
+  Atatürk'ü modern Türkiye Cumhuriyeti'nin babası ve Avrupa'ya giden yolun öncüsü olarak onurlandırıyor.
+caveat: >-
+  Almanya'nın Ankara Büyükelçiliği'nin kayda ilişkin kendi paylaşımından alınan Almanca özgün metin (Facebook,
+  'Gedenkbucheintrag von Bundeskanzlerin Merkel in Anıtkabir', 8 Şubat 2016, 05:17; sayfanın fotoğrafıyla
+  birlikte Almanca ve Türkçe metinler; Monid çıktısı üzerinden okundu, 5 Kasım 2026). Türk yayın organları
+  (Yeni Asır, Ensonhaber) büyükelçiliğin 'Wegbereiter' (yol açıcı) ifadesini 'mimarı' (mimar) ve 'Vater'
+  ifadesini 'Ata' olarak aktaran Türkçe versiyonunu yayımlıyor. Davutoğlu'na yapılan mülteci anlaşması
+  ziyareti gününde yazılmıştır.
+mediated_by: Deutsche Botschaft Ankara, kaydın resmî paylaşımı (Almanca ve Türkçe), 8 Şubat 2016
+verification_note: >-
+  Türkçe metin her iki yayın organında da birebir aynı (aynı ifadeler, aynı ajans haberi). Ancak Alman
+  Büyükelçiliği'nin 'Gedenkbucheintrag' başlıklı Facebook paylaşımının bir kesiti Almanca özgün metni veriyor:
+  'In Gedenken an den Vater der modernen Republik Türkei, Mustafa Kemal Atatürk, und Wegbereiter nach Europa.'
+  Dolayısıyla 'Ata'sı' = 'Vater' olup 'mimarı' (mimar) çevirmenlerin 'Wegbereiter' (öncü/yol açıcı) için
+  kullandığı kelimedir. Kaydın what_they_saw alanındaki 'architect of the road to Europe' ifadesi çeviriyi
+  izliyor; çekince notundaki 'Ata' kelimesinin çevirmene ait olduğu tespitiyse yalnızca yarı yarıya doğru
+  ('Vater' kelimesinin karşılığıdır). Düzeltme: Almanca metni alıntıla (tam metin henüz paylaşımdan okunacak),
+  what_they_saw alanını 'father of the modern Republic of Turkey and a pioneer of the way to Europe' yap. 8
+  Şubat 2016 tarihi doğrulandı.
+verification_method: >-
+  Alıntılanan sayfanın tools/ms ile (ücretsiz) yeni çekimi, 3 Kasım 2026; bağımsız denetleyici; Almanca metin
+  için 1 ücretli arama
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 075509292ff4
+  role: 14914ed6b30f
+  quote: 34156f08cf3a
+  summary: 241cf309d9f5
+  caveat: 629ae245e510
+  mediated_by: 71fe804ef22e
+  verification_note: b1733c45f1a8
+  verification_method: 1c751be553c6

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mears-1924
+voice: Eliot Grinnell Mears
+voice_type: person
+role: American author and editor of Modern Turkey; formerly a government official in Turkey
+country: United States
+country_now: United States
+domain: letters
+date: "1924"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Credits Kemal's genius with Turkey's independent position, and explains why Muslims admire a powerful,
+  accessible ruler who is expected to be arbitrary.
+quote:
+  text: >-
+    Turkey of the present day owes its independent position to the genius of Mustafa Kemal Pasha.
+  language: en
+caveat: >-
+  Praise serves a commercial-interpretation thesis; only the General Introduction (p. 29) is Mears's own
+  voice, other chapters are by contributors.
+node: Eliot Grinnell Mears
+sources:
+  - url: https://archive.org/details/ModernTurkey?q=genius+of+Mustafa+Kemal
+  - url: https://archive.org/download/ModernTurkey/ModernTurkey_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://archive.org/download/ModernTurkey/ModernTurkey_djvu.txt (OCR hyphenation 'posi-tion')
+  method: fetch
+  checked_on: "2026-10-29"

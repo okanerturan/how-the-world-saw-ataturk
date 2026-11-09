@@ -1,0 +1,50 @@
+# Turkish for data/voices/1928/mussolini-1928.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mussolini-1928
+voice: Benito Mussolini
+role: İtalya Başbakanı (Duce)
+quote: >-
+  Ekselansları Gazi Mustafa Kemal, Türkiye'ye en yüce nimet ve faydayı bahşetmiş büyük bir şahsiyettir.
+quote_kind: translated
+summary: >-
+  Bir Türk gazeteciye Kemal'in Türkiye'ye en yüce faydayı sağlamış büyük bir şahsiyet olduğunu söyler ve
+  Ankara'daki örnek çiftliği över.
+caveat: >-
+  İkinci elden ve iki kez çevrilmiş; Yunus Nadi mülakatının kendisi (Cumhuriyet, 1928; gün belirtilmemiş)
+  okunmadığından ifadeler makalenin İngilizcesidir. Doğar, bu övgünün Mussolini'nin Ankara'ya kur yaptığı
+  sırada ve Kemal'in onun oğullarına bir hediye gönderdiği yıl geldiğini belirtir; Kasım 1929'da Mussolini,
+  Kemal'e bir traktör göndermiştir. 1920'lerdeki Antalya/Anadolu rekabeti bu kaydın kapsamında değildir.
+  Çeviri zinciri: Mussolini (İtalyanca) → Yunus Nadi'nin Türkçe mülakatı → Çelebi s. 89 → Doğar 2026'nın
+  İngilizcesi; mülakat günü bilinmiyor. Yunus Nadi daha sonra faşist rejimle mali ilişkilere girmiştir
+  (1931–32).
+mediated_by: >-
+  Doğar 2026 (Contemporary European History 35, dn. 95) ← Çelebi, Türkiye–İtalya Ekonomik İlişkileri
+  1923–1939, s. 89 ← Yunus Nadi ile mülakat (Türkçe metnin İngilizce aktarımı)
+verification_note: >-
+  Alıntı Doğar'da kelimesi kelimesine yer alıyor: 'In an interview in 1928 with Turkish journalist and MP
+  Yunus Nadi Bey, he praised the Ankara farm as an exemplary institution, stating: ‘His Excellency Gazi
+  Mustafa Kemal is a great personage who has bestowed the supreme boon and benefit upon Turkey.’' Dipnot 95
+  yalnızca şöyledir: 'As quoted in Çelebi, Türkiye–İtalya Ekonomik İlişkileri, 89.' Yunus Nadi mülakatı
+  (Cumhuriyet) tek aramada bulunamadı; Doğar'ın İngilizce çevirisinden daha eski hiçbir metne ulaşılamıyor,
+  dolayısıyla Mussolini'nin sözleri iki kez çevrilmiştir (İtalyanca > Türkçe > İngilizce) ve mülakat günü
+  bilinmemektedir. 'Ankara örnek çiftliği' övgüsü alıntıda değil, Doğar'ın açıklamasındadır. Bağlam ihtiyatlı
+  olmayı destekliyor: 'Gifting books, bribing elites, reaching the masses: Italian fascist propaganda in
+  Turkey, 1923-38' makalesinin özeti (tandfonline 10.1080/00263206.2024.2415058, yalnızca arama kesiti) Yunus
+  Nadi'nin 1931-32'de faşist rejimle mali bir bağlantısı olduğunu söylüyor ve Doğar da Nadi'nin Mussolini'ye
+  Türkiye'nin yöntemlerinin 'akin to your own' olduğunu söylediğini aktarıyor (dipnot 105). Doğar'daki oğullar
+  ayrıntısı: Eylül 1928'de Kemal, Bruno ve Vittorio Mussolini'ye bir 'small gift' vermiştir (dipnot 17).
+  DÜZELTME: yalnızca ikincil kaynak olarak tutun; mediated_by ve çekince notu 'English of a Turkish rendering
+  of an Italian interview, quoted via Çelebi p. 89' demeli; İngilizce metni 'çeviride' ibaresi olmadan
+  Mussolini'nin kendi sözleriymiş gibi tırnak içine almayın; tarih '1928' olarak kalır (gün bilinmiyor).
+verification_method: Cambridge Core HTML sayfasının tools/ms ile ücretsiz çekimi; pasaj ve dipnot 95 okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e8f28c51f778
+  role: d3d1fd5086fb
+  quote: 2c10de6962a9
+  summary: 7f66174f2b98
+  caveat: d59abe4eb8ae
+  mediated_by: 525db535053b
+  verification_note: 4f35753c328e
+  verification_method: 20e726d2274f

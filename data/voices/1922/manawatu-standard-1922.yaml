@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: manawatu-standard-1922
+voice: Manawatu Standard
+voice_type: press
+role: Palmerston North evening paper, leader
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1922-10-03"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Welcomed Kemal's acceptance of the conference, saw Russia behind him, and cited 13,000 New Zealand
+  volunteers ready to resist his attempt.
+quote:
+  text: the attempt made by Kemal Pasha to subvert the victory of the Allies in the late war
+  language: en
+node: New Zealand Editors on Kemal, September 1922 – 1923
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/MS19221003.2.11
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Papers Past MS19221003.2.11 via wrapper fetch
+  method: fetch
+  checked_on: "2026-10-29"

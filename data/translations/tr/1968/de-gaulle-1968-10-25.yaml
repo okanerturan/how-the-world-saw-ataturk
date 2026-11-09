@@ -1,0 +1,41 @@
+# Turkish for data/voices/1968/de-gaulle-1968-10-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-gaulle-1968-10-25
+voice: Charles de Gaulle
+role: Fransa Cumhurbaşkanı, Türkiye'ye devlet ziyareti
+quote: Bütün şanlar arasında Atatürk en büyüğüne, ulusal yenilenme şanına ulaşmıştır
+quote_kind: translated
+summary: >-
+  Anıtkabir defterine yazarken, Atatürk'ün bütün şanların en büyüğüne, ulusal yenilenmeye ulaştığını söyler.
+caveat: >-
+  İkinci elden: Belleten yazarı defter kaydını yayımlamaktadır; defter sayfasının kendisi görülmemiştir ve
+  Türkçe aktarım 'The greatest of glories and honours for a man is to give his nation a new life. Atatürk did
+  this.' şeklindedir. Aynı makale, de Gaulle'ün Atatürk'e duyduğu hayranlığın zaten bilindiğini ve ziyaret
+  sırasında bunu açıkça gösterdiğini belirtir. INA altyazısı (fresques.ina.fr) mozoleye çelenk konulmasını
+  doğrulamaktadır.
+mediated_by: >-
+  Belleten 51/200 (Ağustos 1987), de Gaulle ziyareti üzerine TTK konferans metni, Anıtkabir Özel Defteri'nden
+  alıntıyla (Türkçe bir aktarımın ardından parantez içinde Fransızcası verilmiş)
+verification_note: >-
+  Belleten tarafından basıldığı haliyle, 25 Ekim Cuma günü Çankaya'ya varışın ardından de Gaulle'ün Anıtkabir
+  özel defterine yazdığı kayıt olarak Türkçe aktarımın ardından parantez içinde birebir şöyledir: '(De toutes
+  les gloires Ataturk a atteint la plus grande celle de renouveau national)'. Ayrıca birebir: 'De Gaulle'un
+  Ataturk'e olan hayranligi da otedenberi biliniyordu. Bunu Turkiye'yi ziyareti sirasinda acikca
+  gosterecekti.' Belleten web metninde basılı sayfa numarası vermemektedir; özel defterin kendisi ve INA
+  altyazısı görülmemiştir: bu, kaydın tek bir akademik aktarımıdır (tek aramada bağımsız ikinci bir kaynak
+  bulunamadı). Kutupluluk ve what_they_saw yerindedir. İsteğe bağlı: 'French as printed in brackets by
+  Belleten' notu eklenebilir.
+verification_method: >-
+  tam metnin tools/ms ile ücretsiz çekilmesi; Fransızca metnin, Türkçe aktarımın ve ziyaret anlatısındaki
+  sıralarının aranması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3a136c4049d6
+  role: c803018be80c
+  quote: 89ca9ddaee33
+  summary: 23e983b019b5
+  caveat: 7caf81677345
+  mediated_by: 83dda1e48a6e
+  verification_note: 45b99e7d8329
+  verification_method: 828fa5712518

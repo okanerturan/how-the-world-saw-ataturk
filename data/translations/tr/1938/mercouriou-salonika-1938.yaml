@@ -1,0 +1,32 @@
+# Turkish for data/voices/1938/mercouriou-salonika-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mercouriou-salonika-1938
+voice: C. Mercouriou (Selanik Belediye Başkanı)
+role: Selanik Belediye Başkanı
+quote: yeni Türkiye'nin reformcusu ve Yunanistan'ın sadık dostu
+quote_kind: translated
+summary: >-
+  Şehrin öz evladını yeni Türkiye'nin bir reformcusu ve Yunanistan'ın sadık bir dostu olarak nitelendirdi.
+caveat: >-
+  TBMM c. 1 (c1) PDF s. 11. Alıntı Fransızcadır (telgraf dili); çevirisi: 'yeni Türkiye'nin reformcusu ve
+  Yunanistan'ın sadık dostu'. Belediye meclisinin cadde adlandırmasından (salonika-city-council-1938) ayrıdır.
+verification_note: >-
+  Kaynakta 'enfant kemal ataturk reformateur nouvelle turque et ami fidele grece' yazılıdır, 'c mercouriou
+  maire thessalonik' imzalıdır. Kayıttaki 'réformateur nouvelle Turquie et ami fidèle Grèce' alıntısı 'turque'
+  kelimesini sessizce 'Turquie' olarak değiştirir (muhtemel telgraf sürçmesi) ve aksanları tamamlar. DÜZELTME:
+  ya 'reformateur nouvelle turque et ami fidele grece' şeklinde alıntılayın ya da düzeltmeyi [sic]/köşeli
+  parantezle belirtin. Belgede ayrıca 'öz evladı' açıklamasını destekleyen 'son illustre enfant' ifadesi yer
+  alır.
+verification_method: >-
+  PDF sayfasının kendi görüntü çıktısı (PDFKit PNG, gözle okundu); OCR'a dayanılmadı; telgraf metni aksansız
+  büyük/küçük harf daktilo yazısıdır; 4000 pikselde yakınlaştırılmış kırpma
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 181d7545edbd
+  role: 1c1d282452b6
+  quote: 35aad5c1fd89
+  summary: 8899bd7489cd
+  caveat: 6a05fa8be7e5
+  verification_note: "41686e260177"
+  verification_method: 6cb3f7fb0b59

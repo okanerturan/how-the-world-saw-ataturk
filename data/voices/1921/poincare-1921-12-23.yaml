@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: poincare-1921-12-23
+voice: Raymond Poincaré
+voice_type: person
+role: French senator and former President (Prime Minister from Jan 1922)
+country: France
+country_now: France
+domain: politics
+date: "1921-12-23"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: letter
+evidence: S
+summary: >-
+  Received a letter from Mustafa Kemal thanking him for his large share in defending Turkey's cause, whose
+  first fruit was the Ankara Agreement.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri vol. 12 (Kaynak 2005) p. 158 ← Şimşir, Atatürk ile Yazışmalar I (1981) pp. 162–163
+  ← Bibliothèque nationale de France (French original)
+caveat: >-
+  Contact record: the text is Kemal's letter to Poincaré, so the claim that Poincaré championed the Turkish
+  cause is Kemal's characterisation; no reply from Poincaré was found. Same day Kemal wrote to Marshal Lyautey
+  via Berthe Georges-Gaulis.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2012%20%281921%20-%201922%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202005%20%282.%20Bas%C4%B1m%29%2C%20424%20sf.pdf
+verification:
+  verdict: confirmed
+  checked_against: >-
+    archive.org butuneserler, djvu text of ABE vol. 12, p. 158 (Kemal to Poincaré, 23 Dec 1921; footnote: BnF
+    Paris ← Şimşir, Atatürk ile Yazışmalar I pp. 162–163)
+  method: archive.org open djvu text read
+  note: >-
+    Letter on p. 158 as cited. The text thanks him for his 'büyük pay' in defending the Turkish cause and
+    calls the Ankara Agreement its first fruit; it also looks to his authority on İzmir and Thrace. The letter
+    survives in the BnF (the recipient's side), so receipt is plausible. Poincaré's own view is not shown;
+    witness is the honest polarity and the caveat says so. Contact rule: he is a major figure (former
+    President, PM from Jan 1922) and the letter is one of substance, not a form greeting. A borderline pass.
+  checked_on: "2026-11-05"

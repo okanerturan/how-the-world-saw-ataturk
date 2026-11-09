@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-gaulle-1968-10-25
+voice: Charles de Gaulle
+voice_type: person
+role: President of France, state visit to Turkey
+country: France
+country_now: France
+domain: politics
+date: "1968-10-25"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: quote
+evidence: S
+summary: >-
+  Writing in the Anıtkabir book, says Atatürk reached the greatest of all glories, national renewal.
+quote:
+  text: De toutes les gloires Atatürk a atteint la plus grande celle de renouveau national
+  language: fr
+mediated_by: >-
+  Belleten 51/200 (Aug 1987), TTK conference text on the de Gaulle visit, quoting the Anıtkabir special book
+  (French given in brackets after a Turkish rendering)
+caveat: >-
+  Second-hand: the Belleten author prints the entry; the book page itself was not seen and the Turkish
+  rendering reads 'The greatest of glories and honours for a man is to give his nation a new life. Atatürk did
+  this.' The same article says de Gaulle's admiration for Atatürk was already known and that he showed it
+  openly during the visit. The INA caption (fresques.ina.fr) confirms the wreath-laying at the mausoleum.
+node: Western Statesmen and Churchmen on Atatürk in Their Own Words
+sources:
+  - url: https://belleten.gov.tr/tam-metin/1980/tur
+    archived: https://web.archive.org/web/20260218123219/https://belleten.gov.tr/tam-metin/1980/tur
+  - url: https://dergipark.org.tr/en/pub/ttkbelleten/article/977862
+  - url: https://fresques.ina.fr/de-gaulle/fiche-media/Gaulle00146/voyage-en-turquie.html
+    archived: https://web.archive.org/web/20260109131206/https://fresques.ina.fr/de-gaulle/fiche-media/Gaulle00146/voyage-en-turquie.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Belleten 51/200 (Aug 1987), 'General De Gaulle'un Turkiye'yi Ziyareti (25-30 Ekim 1968)',
+    belleten.gov.tr/tam-metin/1980/tur
+  method: >-
+    tools/ms free fetch of the full text; searched for the French and the Turkish rendering and their sequence
+    in the visit narrative
+  note: >-
+    Verbatim as printed by Belleten, in brackets after the Turkish rendering, as the entry de Gaulle wrote in
+    the Anitkabir special book after arrival at Cankaya on Friday 25 Oct: '(De toutes les gloires Ataturk a
+    atteint la plus grande celle de renouveau national)'. Also verbatim: 'De Gaulle'un Ataturk'e olan
+    hayranligi da otedenberi biliniyordu. Bunu Turkiye'yi ziyareti sirasinda acikca gosterecekti.' Belleten
+    gives no printed page numbers in the web text and the guest book itself, and the INA caption, were not
+    seen: this is one scholarly relay of the entry (no independent second source found in one search).
+    Polarity and what_they_saw fair. Optional: add 'French as printed in brackets by Belleten'.
+  checked_on: "2026-11-01"

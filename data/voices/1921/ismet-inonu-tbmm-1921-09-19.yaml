@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ismet-inonu-tbmm-1921-09-19
+voice: İsmet İnönü
+voice_type: person
+role: West Front commander and Edirne deputy
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-09-19"
+era: contemporary
+polarity: admiring
+intensity: 3
+mirror: internal-mirror
+artifact: policy
+evidence: P
+summary: >-
+  Co-signed the proposal crediting Kemal's battlefield measures with the Sakarya victory and asking the
+  Assembly for the Marshal's rank and the title Gazi.
+quote:
+  text: >-
+    Bizzat muharebe meydanındaki tedabir ile muzafferiyetin âmil ve müessiri olmuş olan Başkumandan Mustafa
+    Kemal Paşa Hazretlerine müşirlik rütbesi ve gazilik unvanı tevcihini teklif ve istirham ederiz.
+  language: tr
+caveat: Joint motion with Fevzi Çakmak; see the Fevzi record. Printed p. 263.
+node: Gazi and Marshal — The Assembly's Vote of 19 September 1921
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012079.pdf
+    archived: https://web.archive.org/web/20240917105714/https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012079.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM d01/c012/tbmm01012079.pdf (19 Eylul 1337), p.263 (marker on same PDF page)
+  method: pdftotext two-column crop; exact (OCR 'Ismet' as 'ismet')
+  note: Joint motion with Fevzi, Garp Cephesi header; matches.
+  checked_on: "2026-10-30"

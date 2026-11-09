@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: postimees-1938
+voice: Postimees
+voice_type: press
+role: Estonian daily
+country: Estonia
+country_now: Estonia
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  Said he fulfilled a historic task, brought the Muslim world closer to modern civilisation and raised the
+  social level of women.
+mediated_by: >-
+  Toksoy 2006 ← Akşam and Kurun 16 Nov, Ulus 15 Nov, Cumhuriyet 15–16 Nov, Tan 16 Nov 1938, Ayın Tarihi
+caveat: >-
+  Paper titles in Toksoy are phonetic; foreign originals not seen; summarised by Turkish digests.
+node: Riga, Tallinn and Kaunas, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: confirmed
+  checked_against: "sources/toksoy-2006-atatürk-yolu-european-press.txt (Estonia: Postimees)"
+  method: local
+  checked_on: "2026-10-29"

@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kennedy-1963-11
+voice: John F. Kennedy
+voice_type: person
+role: President of the United States
+country: United States
+country_now: United States
+domain: diplomacy
+date: "1963-11"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: broadcast
+evidence: P+J
+summary: >-
+  On the 25th anniversary of his death, calls Atatürk a great man of the century and Turkey's birth the best
+  example of self-reliance.
+quote:
+  text: >-
+    Certainly there is no more successful example of national self reliance then the birth of the Turkish
+    republic and the profound changes initiated since then by Turkey and Ataturk.
+  language: en
+mediated_by: Transcript on Wikimedia Commons ← audio released by the Turkish Government (Cemal Gürsel)
+caveat: >-
+  The recording exists: JFK Library JFKWHA-237-001, 'Remarks on the 25th Anniversary of the Death of Kemal
+  Atatürk, 4 November 1963' (catalogue description only; the page blocks automated fetch). The wording is
+  taken from a Wikimedia Commons PDF transcript of the Turkish-Government-issued record, which dates the text
+  10 Nov 1963 and keeps the typo 'then'; the transcript also has Kennedy quote Atatürk ('We are friends now
+  and we will be much closer friends in the future'), not checked. The existing vault stub says the speech
+  framed Atatürk as an 'intellectual revolutionary' stressing education: that is NOT in this text. Alliance
+  context. Date: 4 Nov per the JFK Library catalogue as read by the builder; the Commons transcript (a
+  Turkish-government re-typing) is headed 'Washington D.C., November 10, 1963'. The Atatürk words Kennedy
+  quotes inside the tribute are unchecked.
+node: John F. Kennedy
+sources:
+  - url: https://www.jfklibrary.org/asset-viewer/archives/jfkwha-237-001
+    archived: https://web.archive.org/web/20261016003414/https://www.jfklibrary.org/asset-viewer/archives/jfkwha-237-001
+  - url: https://upload.wikimedia.org/wikipedia/commons/c/ce/JFKennedy_on_Ataturk_1963.pdf
+    archived: https://web.archive.org/web/20251205234824/https://upload.wikimedia.org/wikipedia/commons/c/ce/JFKennedy_on_Ataturk_1963.pdf
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Wikimedia Commons PDF JFKennedy_on_Ataturk_1963.pdf (downloaded with curl and read with pdftotext); JFK
+    Library catalogue description JFKWHA-237-001 as returned by a search excerpt (page itself bot_blocked)
+  method: curl + pdftotext of the Commons PDF; one tools/ms search for the JFK Library description
+  note: >-
+    Quote is verbatim in the Commons transcript, including the typo 'then': 'Certainly there is no more
+    successful example of national self reliance then the birth of the Turkish republic and the profound
+    changes initiated since then by Turkey and Ataturk.' The transcript's header reads 'Washington D.C.,
+    November 10, 1963 (Text of his message to the Turkish People on the occasion of 25th Anniversary of the
+    Death of Mustafa Kemal Ataturk and the 40th anniversary of the Turkish Republic ...' i.e. the only dated
+    text says 10 Nov, not 4 Nov. The JFK Library description (via search excerpt) independently confirms a
+    sound recording of remarks on the 25th anniversary that 'characterizes the Turkey's independence as an
+    example of national self-reliance', but the excerpt shows no date, so 4 Nov 1963 is not verified by me and
+    the 10 Nov date is the Turkish-government transcript's, not the library's. Also: the transcript is a
+    Turkish-issued re-typing (grammar slips: 'one of the great man'), not the Library's own transcript. 'great
+    man of this century' is in the text (what_they_saw OK). CORRECTION: set date to '1963-11' (day unresolved:
+    4 Nov per the library catalogue as the builders read it, 10 Nov per the transcript; 10 Nov is the
+    anniversary of death, 4 Nov may be the recording date) and cite the library recording as the primary; keep
+    mediated_by Commons transcript; add that the embedded Atatürk quote 'We are friends now...' is unverified.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 12)
+  checked_on: "2026-11-01"

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: wu-zhihui-1927-12
+voice: Wu Zhihui (吳敬恆)
+voice_type: person
+role: KMT elder and Central Supervisory Committee member
+country: China
+country_now: China
+domain: politics
+date: "1927-12"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: nation-forge-template
+artifact: article
+evidence: P
+summary: >-
+  Argued the party might be handed to its armed comrades: with a Kemal it succeeds, with a Zhang Zuolin the
+  second Kuomintang dies.
+quote:
+  text: 幸而有凱馬爾其人，國民黨就算成功，不幸而有張作霖其人，就讓第二個國民黨死
+  language: zh
+mediated_by: >-
+  Wang Jingwei, letter of 7 Apr 1928 (汪精衛全集 初集, 1929, pp. 136-157) ← Wu's Dec 1927 article 讀了汪先生的兩件大事
+caveat: >-
+  Second-hand: Wu's words are as Wang quotes them; the article itself was not seen. Wang quotes to show Wu
+  panders to militarists.
+node: Kemal in the Kuomintang's Quarrels, 1924–1928
+sources:
+  - url: https://zh.wikisource.org/wiki/覆駐法總支部函
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: zh.wikisource 覆駐法總支部函 (Wang Jingwei, 民國十七年四月七日, 汪精衛全集 初集 pp.136-157)
+  method: Wikisource action=parse via ms fetch
+  note: >-
+    Quote verbatim inside Wang's letter, which cites Wu's 讀了汪先生的兩件大事 (Dec 1927) in 『』; Wu's own article not
+    seen, so attribution to Wu rests on Wang. Record already flags mediation.
+  checked_on: "2026-10-30"

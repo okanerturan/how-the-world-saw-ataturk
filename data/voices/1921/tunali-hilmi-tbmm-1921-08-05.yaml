@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tunali-hilmi-tbmm-1921-08-05
+voice: Tunalı Hilmi (Bolu)
+voice_type: person
+role: Bolu deputy, First Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-08-05"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  In closed session on the Commander-in-Chief law, said he would kiss the Pasha's forehead on the Assembly's
+  behalf and find any praise too little.
+quote:
+  text: >-
+    Meclis namına Reis Paşa’nın, Başkumandan Paşa’nın alnından öperek ne tabirler varsa hepsini
+  language: tr
+caveat: >-
+  The quoted clause is on p. 192 and ends mid-sentence at a page break and editor's footnote; it continues 'az
+  görürüm' ('I would find it too little'), p. 193. The same speech also urges the Pasha to 'trespass on the
+  Assembly's authority', reported in the edition as 'ey Paşa sen Meclisin salahiyetine tecavüz et'.
+node: TBMM Closed Sessions, August 1921 — Three More Voices
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+    archived: https://web.archive.org/web/20250915054819/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Gizli Celse Zabıtları (acikerisim bitstream 6d06856b), 62nd sitting 5 Ağustos 1337, printed p.191/192
+  method: pdftotext of banked edition PDF
+  note: >-
+    Verbatim; clause is at foot of p.192 ending at page break, 'az görürüm' begins p.193 as stated.
+    Praise-too-little reading supported.
+  checked_on: "2026-10-30"

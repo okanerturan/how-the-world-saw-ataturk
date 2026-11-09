@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: radhakrishnan-1947-01
+voice: S. Radhakrishnan
+voice_type: person
+role: >-
+  Philosopher; member of the Constituent Assembly (United Provinces), later President of India
+country: India
+country_now: India
+domain: politics
+date: "1947-01-20"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: secular-rationalist-prophet
+artifact: speech
+evidence: P
+summary: >-
+  Arguing against partition, names Kemal Pasha's 'defiant creation of a secular Turkey' as proof that the days
+  of religious states are over.
+quote:
+  text: >-
+    Allenby's liberating campaigns in Egypt, Lawrence's adventures in Arabia, Kemal Pasha's defiant creation
+    of a secular Turkey, point out that the days of religious States are over.
+  language: en
+caveat: >-
+  Constituent Assembly of India Debates, vol. II, 20 Jan 1947 (Objectives Resolution), p. 272. Official report
+  digitised by the Lok Sabha Secretariat / Government of India Press, via archive.org OCR. Speaker identified
+  from the nearest preceding speaker line ('Sir S. Radhakrishnan (United Provinces: General)'); the page
+  header 272 precedes the passage. Text read from the OCR of the official report; obvious OCR slips are
+  silently corrected in the quote.
+node: >-
+  Constituent Assembly and Lok Sabha on Atatürk, 1946–1966 — Radhakrishnan, Gour, Kamath, Anthony and
+  Brajeshwar Prasad
+sources:
+  - url: https://archive.org/download/eparlib.nic.in.760449/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Constituent Assembly Debates Book 1 (eparlib.nic.in.760449), vol. II, 20 Jan 1947, p. 272 (header '272 ...
+    20TH JAN. 1947' at the top of the page; passage follows); speaker header '[Sir S. Radhakrishnan]' on
+    running headers 270 and 272, speech begins 'Sir S. Radhakrishnan (United Provinces: General)'
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim (curly apostrophe). Speaker, date, page and era confirmed; no OCR correction needed. Gaze
+    is a one-clause example, intensity 1; polarity admiring is defensible, instrumental also arguable. Note
+    the cover page lists the 20-25 Jan 1947 volume as 'Volume I' (a misprint); the book labels it Vol. II, as
+    the record has it.
+  checked_on: "2026-11-03"

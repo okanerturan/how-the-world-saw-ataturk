@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dominion-wp-1922
+voice: Dominion (Wellington), 'Without Prejudice' column
+voice_type: press
+role: Wellington daily, editorial column
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1922-09-15"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: editorial
+evidence: P
+summary: >-
+  Joked that the Greeks were learning Kemal was a tough nut to crack, in a column that also passes on Clair
+  Price's portrait.
+quote:
+  text: Kemal Pasha is an unusually tough nut to crack
+  language: en
+caveat: >-
+  Humorous column, partly quoting Clair Price; the quoted sentence is the column's own comment.
+node: New Zealand Editors on Kemal, September 1922 – 1923
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/DOM19220915.2.41
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    paperspast.natlib.govt.nz/newspapers/DOM19220915.2.41 (Dominion 15 Sep 1922, Without Prejudice)
+  method: fetch
+  note: Sentence is the columnist's own, following a Claire Price quotation
+  checked_on: "2026-10-29"

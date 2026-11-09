@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zhigong-shanghai-1933
+voice: 中國致公黨上海第一支部 (China Zhigong Party, Shanghai No. 1 Branch)
+voice_type: institution
+role: Overseas-Chinese party branch, funeral couplet for Chen Jiongming
+country: China
+country_now: China
+domain: politics
+date: "1933"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: poem
+evidence: P
+summary: >-
+  Couplet lists Kemal among the dictators Chen Jiongming would not be: in politics he did not favour
+  dictatorship, so how could he be a Kemal.
+quote:
+  text: 政治不主獨裁凱末爾豈可作
+  language: zh
+caveat: Elliptical couplet; translation tentative; year of Chen's death (Sept 1933) is M-tier.
+node: Kemal as a Chinese Yardstick, 1933–1940
+sources:
+  - url: https://zh.wikisource.org/wiki/陳公競存榮哀錄/輓章
+    archived: https://web.archive.org/web/20260309085238/https://zh.wikisource.org/wiki/%E9%99%B3%E5%85%AC%E7%AB%B6%E5%AD%98%E6%A6%AE%E5%93%80%E9%8C%84/%E8%BC%93%E7%AB%A0
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: zh.wikisource 陳公競存榮哀錄/輓章
+  method: Wikisource parse text
+  note: >-
+    Couplet verbatim ('政治不主獨裁凱末爾豈可作'), paired with Shanghai No.1 branch attribution. Reading is interpretive:
+    couplet names Kemal in line 1 and Hitler in line 2 ('希德婁何足云'); 'lists Kemal among dictators' is a gloss.
+    1933 date not in page text (M-tier as caveat says).
+  checked_on: "2026-10-30"

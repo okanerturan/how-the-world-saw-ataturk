@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: oconnor-1922b
+voice: T. P. O'Connor MP
+voice_type: person
+role: MP for Liverpool Scotland, private-notice question
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1922-06-26"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Asked what the Government would do about Kemal's Ismid speech, which he said justified atrocities against
+  Greeks and refused the inquiry.
+quote:
+  text: >-
+    a strong indictment of the policy of the British Government towards Turkey and justified the atrocities of
+    the Turks committed against the Greeks on the ground of military necessity
+  language: en
+caveat: Question put to the Government; characterises Kemal's 20 June speech.
+node: Parliament on Kemal and the Greeks, 1921–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1922-06-26/debates/05b935e7-5dd8-4c3a-8d26-ce88e0377d87/GreeceAndTurkey
+    archived: https://web.archive.org/web/20221204132805/https://hansard.parliament.uk/Commons/1922-06-26/debates/05b935e7-5dd8-4c3a-8d26-ce88e0377d87/GreeceAndTurkey
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API 1922-06-26 Greece And Turkey, debate 05b935e7, Mr. T. P. O'CONNOR
+  method: api
+  checked_on: "2026-10-29"

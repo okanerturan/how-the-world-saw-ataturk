@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nuri-dersimi-1952
+voice: Nuri Dersimi
+voice_type: person
+role: Koçgiri/Dersim Kurdish nationalist and memoirist
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1952"
+era: posthumous
+polarity: hostile
+intensity: 2
+artifact: memoir
+evidence: S
+summary: >-
+  Chronicled the army's 1938 Dersim campaign: cave entrances bricked up, tribes lured and annihilated; not an
+  eyewitness, and no sentence on Atatürk personally.
+quote:
+  text: Thousands of these women and children perished
+  language: en
+mediated_by: van Bruinessen (translation) <- Dersimi, Kürdistan tarihinde Dersim (Aleppo 1952)
+caveat: >-
+  Left Dersim before operations began; poison-gas claim not substantiated per van Bruinessen; gaze falls on
+  the state and army, not Atatürk as a person. Polarity 'hostile' is the vault's inference; no sentence of
+  Dersimi's about Atatürk was found.
+node: Nuri Dersimi
+sources:
+  - url: https://web.archive.org/web/20130521155242/http:/www.let.uu.nl/~Martin.vanBruinessen/personal/publications/Dersim_rebellion.pdf
+    archived: https://web.archive.org/web/20250828231036/https://web.archive.org/web/20130521155242/http:/www.let.uu.nl/~Martin.vanBruinessen/personal/publications/Dersim_rebellion.pdf
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    https://web.archive.org/web/20130521155242/http:/www.let.uu.nl/~Martin.vanBruinessen/personal/publications/Dersim_rebellion.pdf
+    (van Bruinessen, Dersimi extracts)
+  method: fetch
+  note: >-
+    Quote found ('Thousands of these women and children perished ... army bricked up the entrances of the
+    caves'). No sentence on Ataturk; 'hostile' toward Ataturk is inference (record's own caveat).
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

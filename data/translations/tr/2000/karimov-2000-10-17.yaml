@@ -1,0 +1,38 @@
+# Turkish for data/voices/2000/karimov-2000-10-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: karimov-2000-10-17
+voice: Islam Karimov
+role: Özbekistan Cumhurbaşkanı
+quote: >-
+  Kim ki Türkiye'de Atatürk'ün düşmanıdır; o kişi benim de düşmanımdır. Kim ki Atatürk'ü sever; o benim de
+  dostumdur. Benim yolum Atatürk'ün yoludur. Kendime Atatürk'ü model aldım.
+quote_kind: original-turkish
+summary: >-
+  Türk gazetecilere kendi yolunun Atatürk'ün yolu olduğunu, Atatürk'ü kendine model aldığını ve Türkiye'deki
+  Atatürk düşmanlarının kendi düşmanları olduğunu söyler.
+caveat: >-
+  Cumhurbaşkanı Sezer'in ziyareti sırasında Taşkent'te, Timurlular Tarihi Müzesi'nde, Sezer'in Türkmenistan'a
+  ayrıldığı gün söylenmiştir. Cumhuriyet'teki ifadeler farklıdır: 'Büyük Kemal Atatürk'ün yolu bizim için
+  makbul yol... Türkiye'de kim ki Kemal Atatürk'e karşı çıkarsa, o bana karşı çıkmış demektir.' Aynı
+  açıklamalarda Türk Genelkurmayı'nın 'irtica' ile mücadelesini över ve İstanbul'daki Özbek İslamcı
+  sürgünlerden yakınır; övgünün çerçevesini laik otoriterliği oluşturur. 1998 tarihli bir açıklama ('follows
+  Ataturk's precepts', Jamestown Monitor 14 Nisan 1998, ajanslar) tek kaynaklıdır ve seçkiye alınmamıştır.
+mediated_by: Hürriyet, 18 Ekim 2000 ve Cumhuriyet, 18 Ekim 2000 s. 10 (Türk basınındaki aktarımlar)
+verification_note: >-
+  Türkçe alıntı Hürriyet'te kelimesi kelimesine mevcut; Cumhuriyet haber metni: 'Büyük Kemal Atatürk'ün yolu
+  bizim için makbul yol ... kim ki Kemal Atatürk'e karşı çıkarsa, o bana karşı çıkmış demektir' (spot başlıkta
+  'Büyük Atatürk'ün' yer alıyor). Her iki gazete de sözleri 17 Ekim'de Sezer Türkmenistan'a ayrılmadan önce
+  Timurlular müzesine yerleştiriyor. Her ikisi de başka bir dilde yapılmış açıklamaların Türkçe
+  aktarımlarıdır; J+J dürüst. Jamestown sayfası metin içermeyen 5 KB'lık eksik bir kayıt olarak çekildi.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 41adbec8e339
+  role: 747626c1777b
+  quote: 305a5662a35b
+  summary: 3632dc9d4010
+  caveat: d920de39ea13
+  mediated_by: 35cc22b63263
+  verification_note: 983c351ff532
+  verification_method: 5300d17a1d69

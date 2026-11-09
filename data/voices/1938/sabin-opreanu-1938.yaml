@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sabin-opreanu-1938
+voice: Sabin Opreanu
+voice_type: person
+role: Romanian professor who visited Turkey in 1938
+country: Romania
+country_now: Romania
+domain: letters
+date: "1938"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: S
+summary: Made him the front-line general who saved the nation from Western imperialism.
+mediated_by: Toksoy 2010 (Romanian originals not seen)
+caveat: Form and date of the piece not given in the note.
+node: Romania Hangs the Black Flags, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: paraphrase-ok
+  checked_against: sources/toksoy-2010-balkan-mideast-press.txt pp.194-195 (Opreanu para)
+  method: local
+  note: >-
+    Supported: Opreanu wrote on Atatürk, front-line clever brave commander, saved nation from imperialists.
+    Form/date of the piece not stated by Toksoy.
+  checked_on: "2026-10-29"

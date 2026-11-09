@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: feilding-star-1933
+voice: Feilding Star
+voice_type: press
+role: Manawatu country weekly-daily, leader 'New Turkey's Decade'
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1933-11-01"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: editorial
+evidence: P
+summary: >-
+  Marked ten years of the republic and the dictatorship, crediting one man with abolishing the harem, polygamy
+  and brigandage, and likened it to Italy's redemption.
+quote:
+  text: one man is responsible
+  language: en
+node: New Zealand Editors on the Dictator, 1929–1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/FS19331101.2.11
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Papers Past FS19331101.2.11 ('New Turkey's Decade')
+  method: fetch
+  checked_on: "2026-10-29"

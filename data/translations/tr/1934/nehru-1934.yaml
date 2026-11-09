@@ -1,0 +1,23 @@
+# Turkish for data/voices/1934/nehru-1934.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nehru-1934
+voice: Jawaharlal Nehru
+role: Hapishaneden yazan Hintli milliyetçi lider
+quote: Bir diktatörün iktidar iştahı, onu kullandıkça her zaman büyür
+quote_kind: translated
+summary: >-
+  Kemal'in Yunanlara karşı zaferini ve modernleşmesini kutlar, ancak bir diktatörün iktidar iştahının
+  kullanıldıkça büyüdüğü uyarısında bulunur ve onun muhalefeti ezdiğini kaydeder.
+caveat: >-
+  Mevcut (hayran etiketli) bir notun GÜNCELLENMESİ: Glimpses of World History, Kitabistan 1934, c. II, 1933'te
+  yazılan mektuplar; s. 1076, 1103, 1108-1109. Cümle sayfa sonundan diğer sayfaya sarkmaktadır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3d5887fabb9e
+  role: de5add6a0bc2
+  quote: 44b1dfe0c520
+  summary: 1fd6e866f5b6
+  caveat: 6dde62da7c68
+  verification_method: ad8cee67138e

@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: deng-zhongxia-1923-12
+voice: Deng Zhongxia
+voice_type: person
+role: Early Chinese Communist and labour-movement leader (writing in Zhongguo Qingnian)
+country: China
+country_now: China
+domain: politics
+date: "1923-12-29"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: article
+evidence: S
+summary: >-
+  Cites Kemal's Turkish revolution as proof that peasants make revolutions: Kemal 'and the others' had much
+  peasant help, the whole country following him.
+quote:
+  text: 土耳其的革命，基玛尔等得农民的帮助不小。
+  translation: In Turkey's revolution, Kemal and the others had no small help from the peasants.
+  language: zh
+caveat: >-
+  Cited as Zhongguo Qingnian no. 11, signed 中夏, dated 29 Dec 1923 (Wikisource note), Wikisource page '論農民運動'.
+  From 'On the Peasant Movement' (论农民运动), Wikisource transcription in simplified characters; the page header
+  names the author as 鄧中夏 and the notes field gives the date 1923-12-29 and the original venue (Zhongguo
+  Qingnian no. 11). Later in the piece he asks why, with no serfdom, 'the whole country followed the
+  Nationalist Party leader Kemal' to drive the Greek army across the straits: 'why Turkey too had no serfdom,
+  yet the whole country followed ... Kemal'. Kemal is an argument, not the subject; spelled 基玛尔. Instrumental
+  use in a recruiting argument for the peasant movement.
+node: Kemal in the Chinese Peasant and Federalist Debates, 1923–1927
+sources:
+  - url: https://zh.wikisource.org/wiki/%E8%AB%96%E8%BE%B2%E6%B0%91%E9%81%8B%E5%8B%95
+    archived: https://web.archive.org/web/20241201165724/https://zh.wikisource.org/wiki/%E8%AB%96%E8%BE%B2%E6%B0%91%E9%81%8B%E5%8B%95
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chinese Wikisource raw page '论农民运动' (title redirect from 論農民運動)
+  method: >-
+    fetched action=raw with User-Agent and 8 s sleep, exact match of the Chinese quote, read header and footer
+  note: >-
+    Quote verbatim in simplified characters: '俄国的革命,列宁等得农民的帮助不小;土耳其的革命,基玛尔等得农民的帮助不小。' (the record uses the
+    clause only; the preceding Lenin clause is the parallel). Header: author 鄧中夏, notes 1923年12月29日; footer
+    '原载《中国青年》第11期 署名:中夏'. So no. 11 and the date come from two different fields of the page; both present.
+    Weekly numbering from 20 Oct 1923 is consistent with no. 11 on 29 Dec. Later passage
+    '全国都跟着国民党首领基玛尔起来革命,把希腊军队驱渡君士但丁海峡' present. Translation faithful; instrumental / 1 fair; what_they_saw 23
+    words; era contemporary right. Schema OK. Trivial: caveat says the notes field names the venue; it is the
+    footer.
+  checked_on: "2026-11-03"

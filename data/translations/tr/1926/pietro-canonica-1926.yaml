@@ -1,0 +1,34 @@
+# Turkish for data/voices/1926/pietro-canonica-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pietro-canonica-1926
+voice: Pietro Canonica
+role: İtalyan heykeltıraş
+quote: >-
+  O sade, tavırlarıyla tıpkı eski kuşak Lombardiyalı ve Piemonteli askerlerimiz gibi son derece seçkin bir
+  adamdı.
+quote_kind: translated
+summary: >-
+  Ankara'da az konuşan ve delici bakışlı, eski kuşak bir Piemonteli asker gibi sade ve seçkin bir adam buldu;
+  büstün taslağını bir saat içinde çıkardı ve dördüncü günde tamamladı.
+caveat: >-
+  Poz verme oturumları 1926'daydı ancak bu sözler, yalnızca arşivdeki bir daktilo metninden alıntı yapan
+  ikincil bir makale aracılığıyla görülen geç dönem bir anıdandır (yakl. 1945–50); anının kendisi
+  görülmemiştir.
+mediated_by: >-
+  Scicchitano 2025 (IIC İstanbul) ← Canonica, Ricordi della mia vita (daktilo metni, yakl. 1945–50)
+verification_note: >-
+  Alıntı birebir aynı (belirtildiği üzere daktilo metninden alıntı yapan ikincil makale). 'Modelled bust in an
+  hour' ifadesi abartılıdır: anıda büstün bir saat sonra taslağının çıkarıldığı/pozlandırıldığı, 4. günde
+  tamamlandığı belirtiliyor.
+verification_method: kaynak getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1db324a6cd4a
+  role: 7e574564f926
+  quote: 6700c828ce15
+  summary: ca2734f8f5a2
+  caveat: eb49dd97c508
+  mediated_by: abb428a0e347
+  verification_note: 425a466c12e0
+  verification_method: ad8cee67138e

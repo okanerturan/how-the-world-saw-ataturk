@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-opinion-1929-reformas
+voice: La Opinión
+voice_type: press
+role: Spanish-language daily, Los Angeles (Mexican exile readership)
+country: United States
+country_now: United States
+domain: press
+date: "1929-02-03"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: article
+evidence: P
+summary: >-
+  Angora dispatch headed 'Kemal Pasha ha obtenido sonado triunfo': the boldest renovator imaginable,
+  modernising a traditionalist country, though by caprice and a dictator's sword.
+quote:
+  text: no cabe negarle que es el campeón de la renovación
+  language: es
+caveat: >-
+  Unsigned Angora dispatch dated 27 Jan, printed in Los Angeles; the headline's OCR is garbled but the
+  sentence quoted is clean.
+node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
+sources:
+  - url: https://www.loc.gov/resource/sn81004351/1929-02-03/ed-1/?sp=2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn81004351 1929-02-03 p.2 full text (tile.loc.gov, 0290.xml)
+  method: tile.loc.gov full_text via curl
+  note: >-
+    'no cabe negarle que es el campeón de la renovación' present, dispatch ANGORA Enero 27, headline about
+    triunfo and modernising a traditionalist country; dictator's-sword remark in snippets.
+  checked_on: "2026-10-29"

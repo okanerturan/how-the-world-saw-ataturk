@@ -1,0 +1,49 @@
+# Turkish for data/voices/1981/hoxha-1981-09-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hoxha-1981-09-08
+voice: Enver Hoxha
+role: AEP Birinci Sekreteri; Gölcük belediye başkanı ve belediye meclisine mektup
+quote: Mustafa Kemal Atatürk, büyük bir devlet önderi ve seçkin bir siyasi şahsiyetti
+quote_kind: translated
+summary: >-
+  Atatürk'ün bronz bir portresi için Gölcük'e teşekkür ederken, onu Türkleri modernleşmeye yönelten büyük bir
+  devlet adamı ve seçkin bir siyasi şahsiyet olarak nitelendirir.
+caveat: >-
+  Çeviri (arşivin): 'Mustafa Kemal Atatürk was a great statesman-leader and an outstanding political
+  personality.' Arnavutça özgün metin: Enver Hoxha, Letra të zgjedhura, c. 2 (Tiranë: 8 Nëntori, 1986), Gölcük
+  belediye başkanına mektup, 8 Eylül 1981, s. 375–376 (cümle s. 375'tedir); portre 'Rozafa' topluluğu
+  aracılığıyla gelmiştir. Kontrolde düzeltildi: kaydı oluşturan kişi bunu, Atatürk'ten söz etmeyen, Pakistanlı
+  bir adaşı Mustafa Kemal Pasha'ya yazılmış 30 Nisan 1973 tarihli bir mektuba bağlamıştı. Pasaj onun
+  demokratik düşüncesini, 'progress and modernization' anlayışını, gençliğe güvenini ve Arnavutlara yönelik
+  iyi niyetini över.
+verification_note: >-
+  YANLIŞ MEKTUP. Arnavutça cümle birebir aynıdır ('Mustafa Kemal Ataturku ka qene nje udhe-heqes i madh
+  shteteror e personalitet i shquar politik'), ancak Pakistan-Arnavutluk Dostluk Derneği başkanı Mustafa Kemal
+  Pasha'ya yazılan 30 Nisan 1973 tarihli mektupta (s. 265-266) YER ALMAMAKTADIR. O mektup Atatürk'ten hiç söz
+  etmez: Pakistanlı bir adaşa teşekkür eder ve Pakistan ile anti-emperyalist dostluktan bahseder. Cümle, 8
+  Eylül 1981 tarihli 'Leter drejtuar kryetarit te bashkise se Golxhykut' (Gölcük belediye başkanına mektup)
+  içindedir, c. 2, s. 375-376 (cümle s. 375'tedir; 375 alt bilgisi 'demokra-' ifadesinden sonraya düşer).
+  Hoxha, 'Rozafa' şarkı ve dans topluluğu tarafından gönderilen, 'udheheqesit tuaj te dashur, Mustafa Kemal
+  Ataturkut'un bronz bir portresi için Gölcük belediyesine teşekkür eder; mektup şöyle devam eder: Atatürk
+  demokratik düşünceleri ve 'qe kishin per synim ta conin popullin turk ne rrugen e perparimit e te
+  modernizimit' niteliğindeki cesur eseriyle, genç kuşağa duyduğu güvenle ve 'edhe ndaj popullit shqiptar' iyi
+  niyetiyle tanınır. 'Botohet per here te pare sipas origjinalit' (Merkez Parti Arşivi'ndeki aslından ilk kez
+  yayımlanmıştır). DÜZELTMELER: id hoxha-1981-09-08; tarih 1981-09-08; role 'letter to the mayor and municipal
+  council of Golcuek'; what_they_saw 'Thanking the Golcuek municipality for a bronze portrait ...'; belge türü
+  telgraf değil mektup; sayfa s. 375-376; 'Pakistan-Albania Friendship Association' ifadesini ve Bay Mustafa
+  Kemal Pasha açıklamasını kaldırın; arşiv notunu da aynı hata açısından kontrol edin. Ölüm sonrası dönem
+  değişmedi; karşılıklılık, kutupluluk (hayranlık belirten) ve yoğunluk 2 geçerliliğini koruyor. Bu kayıt, 1
+  Kasım 1981 tarihli Kongre raporundan (hoxha-1981-11-01) ayrıdır.
+verification_method: >-
+  açık djvu metninin curl ile çekilmesi; djvu.xml yaprak sonları folyoların sayfa altında olduğunu
+  göstermektedir
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e81e77196f81
+  role: 22fc20a7166c
+  quote: 4af6478c0c4b
+  summary: e109e54e16dd
+  caveat: 5b1947448459
+  verification_note: 62c2dfa6285c
+  verification_method: 16bd9b1db307

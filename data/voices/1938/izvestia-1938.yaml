@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: izvestia-1938
+voice: Izvestia
+voice_type: press
+role: Soviet government daily
+country: Soviet Union
+country_now: Russia
+domain: press
+date: "1938-11-11"
+era: funeral
+polarity: instrumental
+intensity: 2
+artifact: article
+evidence: S+J+T
+summary: >-
+  Ran a long laudatory biography stressing his friendliness to the USSR (per NYT); said the independence
+  movement of the new Turkey depended totally on him.
+quote:
+  text: >-
+    the independence movement of the new Turkey depended totally on Kemal Atatürk… all sincere friends of
+    independent Turkey feel sorrow
+  language: en
+mediated_by: >-
+  Turkish Ministry of Culture and Tourism compilation of foreign quotes (T); NYT 13 Nov 1938 (J)
+caveat: >-
+  Quote from a Turkish compilation (T-tier) whose first line is misattributed to Khrushchev; it is captioned
+  Izvestia, 11 Nov 1938 (corrected 2026-10-29, earlier credited to Pravda). A further undated 1938 Izvestia
+  item reads 'one of the sincere friends of Turkey, the Soviet Union is in deep sorrow'. Obituaries
+  deliberately skipped the late 1930s (Montreux strain).
+node: Moscow Mourns, November 1938
+sources:
+  - url: https://history.jes.su/s207987840033211-1-1
+    archived: https://web.archive.org/web/20260512190009/https://history.jes.su/s207987840033211-1-1
+  - url: https://nytimes.com/1938/11/13/archives/russians-hail-inounu-as-turkish-president-moscow-newspapers-stress.html
+  - url: https://ktb.gov.tr/EN-104224/russia.html
+    archived: https://web.archive.org/web/20250425024334/https://ktb.gov.tr/EN-104224/russia.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://ktb.gov.tr/EN-104224/russia.html
+  method: fetch
+  note: >-
+    Quote 'one of the sincere friends of Turkey, the Soviet Union is in deep sorrow' verbatim, labelled
+    Izvestia 1938 (undated); the 11 Nov Izvestia item is the other line. 'Long laudatory biography' from NYT
+    not retrieved
+  checked_on: "2026-10-29"

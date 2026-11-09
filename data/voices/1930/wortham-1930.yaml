@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: wortham-1930
+voice: H. E. Wortham
+voice_type: person
+role: British author, Mustapha Kemal of Turkey (Makers of the Modern Age)
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1930"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Calls Kemal a great idealist and iconoclast but states plainly that he has been entirely ruthless, hanging
+  enemies and friends alike.
+quote:
+  text: The Ghazi Pasha has been entirely ruthless.
+  language: en
+caveat: >-
+  Book p. 159 (index: 'his ruthlessness, 159'); idealist/iconoclast line pp. 1-3. Author's biography not
+  checked.
+node: H. E. Wortham
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.72607?q=entirely+ruthless
+  - url: https://archive.org/download/in.ernet.dli.2015.72607/2015.72607.Mustapha-Kemal-Of-Turkey_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org in.ernet.dli.2015.72607 djvu.txt; 'great idealist and a great iconoclast' on intro page;
+    ruthless line after page marker 159
+  method: fetch
+  note: Page marker adjacent to quote reads 159; caveat says p.160 (index). Minor.
+  checked_on: "2026-10-29"

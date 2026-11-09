@@ -1,0 +1,24 @@
+# Turkish for data/voices/1932/naito-tomohide-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: naito-tomohide-1932
+voice: Naitō Tomohide
+role: Japon yazar
+summary: >-
+  Kemal'i Mussolini ile karşılaştıran (1930) ve 'Faşistlerin ötesinde bir faşist' başlıklı (1932) yazılar
+  kaleme aldı.
+caveat: Kaynakçada yalnızca başlıklar listelenmektedir; hiçbir makale okunmamıştır.
+mediated_by: Shimizu 2013 kaynakçası
+verification_note: >-
+  Başlıklar doğrulandı: 1930 Gaiko Jiho 'Kemal to Mussolini', 1932 Sekai Chishiki 'Fashisuto ijo no fashisuto:
+  Kemal Pasha no fubo'. Makalelerin içeriği görülmedi; 'comparing' ifadesi başlıktan çıkarılmıştır
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 71c918a28ce6
+  role: 649f162f11d3
+  summary: d7007901fcff
+  caveat: 47e186f1a0cc
+  mediated_by: e32d2250c13f
+  verification_note: "729102219e13"
+  verification_method: ad8cee67138e

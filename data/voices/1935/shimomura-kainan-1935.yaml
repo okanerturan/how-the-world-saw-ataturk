@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: shimomura-kainan-1935
+voice: Shimomura Kainan
+voice_type: person
+role: Asahi Shimbun executive, later minister and NHK president
+country: Japan
+country_now: Japan
+domain: press
+date: "1935"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Kemal is 'certainly great', but Japanese admirers only cheer his stage performance and do not know the toil
+  behind the script reform.
+quote:
+  text: いふまでもなくたしかに彼等はエライ、しかしそれは思ひ切つてズバ〳〵やつてのける、舞臺の上の武者振りだけ見て遠くからヤンヤ〳〵といふに止まつてる。
+  language: ja
+caveat: >-
+  Honkegaeri (Shijō Shobō, 1935), essay 'Mussolini ya Kemal Pasha', printed pp. 502-503 (NDL image 271, read
+  on the page image). 'They' = Mussolini, Hitler, Kemal. The facing page praises Kemal's resolve in replacing
+  the Arabic script (not quoted). Also p. 447/NDL image 243 wishes for 'a Mussolini, a Hitler, a Kemal Pasha'
+  for Japan. Essay date not shown; book year used. Translation of gist is the vault's.
+node: More Japanese Voices on Kemal, 1928–1935 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1273386
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: NDL pid 1273386 (Honkegaeri), image 271 = printed pp. 502-503
+  method: >-
+    NDL Digital Collections page image (dl.ndl.go.jp IIIF) + lab.ndl.go.jp fulltext-json; viewed image
+  note: >-
+    Quote verbatim on p. 502 (essay 'Mussolini ya Kemal Pasha'); p. 503 praises Kemal's resolve and script
+    reform, supporting intensity 2. 'They' = Mussolini, Hitler, Kemal; the point (admirers only see the stage
+    performance) is stated about all three, but the essay then discusses Kemal individually. Keep.
+  checked_on: "2026-11-05"

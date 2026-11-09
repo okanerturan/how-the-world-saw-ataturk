@@ -1,0 +1,21 @@
+# Turkish for data/voices/1938/abdullah-i-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abdullah-i-1938
+voice: I. Abdullah (Ürdün)
+role: Mavera-yı Ürdün Emiri
+summary: >-
+  Atatürk'ün rahatsızlığını gazetede okudu ve telgraf çekerek merak ve üzüntü içinde olduğunu bildirdi.
+mediated_by: Dağlı 2023 ← Cumhurbaşkanlığı Arşivi
+verification_note: >-
+  Nisan 1938 tarihli telgraf, CA 01008484-2: 'rahatsizliklarini gazetede okudum. Merak ve teessur icindeyim'
+  eşleşiyor
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8cbbbb67791c
+  role: bf8d6b39d8bc
+  summary: 03dca5291d00
+  mediated_by: db69299c65ed
+  verification_note: 10c133208469
+  verification_method: 939bb46a04c3

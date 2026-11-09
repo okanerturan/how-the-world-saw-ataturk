@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sukarno-1940
+voice: Sukarno
+voice_type: person
+role: Exile at Bengkulu, writing in Panji Islam
+country: Dutch East Indies
+country_now: Indonesia
+domain: letters
+date: "1940"
+era: posthumous
+polarity: admiring
+intensity: 3
+mirror: secular-rationalist-prophet
+artifact: article
+evidence: P
+summary: >-
+  Called Kemal a giant who cleared the Ottoman remnant and separated religion from state; he explains the
+  Kemalists' reasons while insisting he only reports them.
+quote:
+  text: datang tokoh raksasa Mustafa Kemal Pasya
+  language: id
+caveat: >-
+  'Apa sebab Turki memisah agama dari negara?', Panji Islam 1940. Sukarno says he only 'reports' Turkey's
+  reasons and replies to critics (Adil) that Kemal was a statesman, not a cleric. Posthumous era. Archive.org
+  leaf n484.
+node: Sukarno Reads Kemal, 1928–1940
+sources:
+  - url: https://archive.org/details/soekarno-dibawah-bendera-revolusi-1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA soekarno-dibawah-bendera-revolusi-1 djvu text, 'Apa sebab Turki memisah agama dari negara?'
+  method: archive.org djvu text
+  note: >-
+    Verbatim 'datang tokoh raksasa Mustafa Kemal Pasya. Ia bersihkan restan kerajaan Usmaniah ... ia pisahkan
+    agama dari negara'; opening says article is only 'bahan-pertimbangan' on pros/cons, supports 'reports'
+    caveat.
+  checked_on: "2026-10-29"

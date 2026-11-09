@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abd-al-aziz-shawish-1924
+voice: Abd al-Aziz Shawish
+voice_type: person
+role: Egyptian writer for al-Akhbar
+country: Egypt
+country_now: Egypt
+domain: press
+date: "1924"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Kemal could have kept the middle course of Abdulmecid's day; he once aspired to the Caliphate himself, held
+  back only by fear of unrest.
+quote:
+  text: >-
+    Mustafa Kemal could have been content, on the caliphate question, with the middle way that stood in the
+    days of the Caliph Abdülmecid
+  language: en
+mediated_by: al-Akhbar (Cairo), articles from 6 Mar 1924, as quoted in al-Manar 25(4) p. 290
+caveat: >-
+  Mediated by Rida's reprint; which of the three al-Akhbar articles is quoted is unknown. Quote is the note
+  author's English translation of the Arabic original, which the note prints.
+node: Abd al-Aziz Shawish
+sources:
+  - url: https://archive.org/details/Almanar
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: al-Manar vol. 25 pt 4 (almanar25.pdf), printed p. 290, pdf p. 215; intro p. 289
+  method: rendered PDF page images and READ Arabic
+  note: >-
+    Arabic 'لقد كان يمكن أن يكتفي مصطفى كمال في مسألة الخلافة بالنحو الوسط الذي كان قائماً لعهد جلالة الخليفة
+    عبد المجيد' present; translation faithful. p.289 attributes it to Shawish in al-Akhbar, issue of 3 Rajab /
+    6 March.
+  checked_on: "2026-10-29"

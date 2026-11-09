@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: barroso-2008
+voice: José Manuel Barroso
+voice_type: person
+role: President of the European Commission
+country: European Union
+country_now: European Union
+domain: diplomacy
+date: "2008-04-10"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Says Atatürk founded the Assembly to let the Turkish people debate their future and to turn Turkey into a
+  modern republic.
+quote:
+  text: >-
+    The great Mustafa Kemal Atatürk founded it to give the Turkish people a legitimate forum for discussing
+    the future, and for transforming Turkey in a modern Republic.
+  language: en
+caveat: >-
+  Original-language text (https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_08_188); the TBMM
+  minutes (Tarihe Düşülen Notlar-2, 2012) print a Turkish version: "Büyük Mustafa Kemal Atatürk, Türk halkına
+  meşru bir şekilde geleceklerini tartışma imkânı tanımak adına bu Meclisi kurdu ve Türkiye’yi modern bir
+  cumhuriyete dönüştürmek amacıyla bu Meclisi kurdu". TBMM book PDF p. 240 (printed p. 229).
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_08_188
+    archived: https://web.archive.org/web/20250503202345/https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_08_188
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 240 (printed p. 229); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c240.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Avrupa Birliği Komisyonu Başkanı Jose
+    Manuel Barroso, 89. Birleşim, 10 Nisan 2008'). Heading and quote on same page. ORIGINAL: 'The great
+    Mustafa Kemal Atatürk founded it to give the Turkish people a legitimate forum for discussing the future,
+    and for transforming Turkey in a modern Republic.' (europa.eu SPEECH/08/188, 'Turkey: Master of the
+    Straits, Master of its Destiny', 10 April 2008). Consistent; the minutes' repeated 'bu Meclisi kurdu' is
+    the interpreter's doubling.
+  checked_on: "2026-11-01"

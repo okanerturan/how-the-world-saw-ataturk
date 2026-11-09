@@ -1,0 +1,44 @@
+# Turkish for data/voices/1994/haydar-aliyev-1994.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: haydar-aliyev-1994
+voice: Haydar Aliyev
+role: Azerbaycan Cumhurbaşkanı
+quote: >-
+  böyük insan, bütün Türk dünyasının böyük şahsiyeti Mustafa Kemal Atatürk’ü bir daha yâd edirem; onun gördüğü
+  işlere, onun koyduğu yola öz hörmetimi ve ihtiramımı bildirerem, onun hatırası karşısında baş eğirem.
+quote_kind: original-turkish
+summary: >-
+  Türkiye Cumhuriyeti'nin temelini atan, bütün Türk dünyasının büyük şahsiyeti Mustafa Kemal Atatürk'ün
+  hatırası önünde baş eğer.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 97 (basılı s. 86). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe basılmıştır. Çeviri: "Büyük insanı, bütün Türk dünyasının büyük şahsiyeti Mustafa Kemal
+  Atatürk'ü bir kez daha anıyorum; yaptığı işlere ve çizdiği yola saygı ve hürmetimi sunuyor, hatırası önünde
+  baş eğiyorum." Köşeli parantez içinde Türkçe karşılıklarla birlikte Azerbaycan Türkçesi biçimleriyle
+  basılmıştır; dolayısıyla konuşma Azerbaycan Türkçesiyle yapılmıştır. Başlık: 'Azerbaycan Cumhurbaşkanı
+  Haydar Aliyev', 9 Şubat 1994 (PDF s. 96-97; bu bölüm 97'de). 6 Mayıs 1997 (PDF s. 106 vd.: 'Böyük Önder
+  Mustafa Kemal Atatürk', Anıtkabir ziyareti) ve 13 Mart 2001 (PDF s. 149 vd.: 'beşer tarihinin meydana
+  çıkardığı en büyük insanlardan biri'; Atatürk mirasını araştırma merkezi kurulacağını duyurur, s. 156-157)
+  tarihlerinde de aynı övgülerle tekrar gelmiştir; kayıt olarak yalnızca 1994 konuşması saklanmıştır. Ayrıca
+  Atatürk'ün Onuncu Yıl Nutku'ndan uzun alıntı yapar (PDF s. 101).
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Azerbaycan Cumhurbaşkanı Haydar
+  Aliyev, 69. Birleşim, 9 Şubat 1994' (başlık PDF s. 96'da)). Alıntı PDF s. 97'dedir (basılı s. 86);
+  Azerbaycan Türkçesi biçimleri basıldığı şekliyledir (köşeli parantez içindeki Türkçe karşılıklar, alıntı
+  aralığında yer almadığı için kayda alınmamıştır).
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracıyla PNG'ye dönüştürülerek (check_png/c97.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı, görsel üzerinde ve kendi bağımsız metin katmanı çıkarımıyla
+  kelime kelime karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 16af43dc761d
+  role: 09529b17aace
+  quote: 884e68d3c92a
+  summary: 4d746f46c8a8
+  caveat: e4b57adf21ec
+  mediated_by: 8e2cc528453b
+  verification_note: 817adb72a049
+  verification_method: b7cccc69ffe9

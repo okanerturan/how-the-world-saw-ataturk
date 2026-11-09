@@ -1,0 +1,35 @@
+# Turkish for data/voices/2012/cohen-2012-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cohen-2012-11
+voice: Steve Cohen
+role: >-
+  ABD Tennessee Temsilciler Meclisi Üyesi (Demokrat), Kongre Türkiye Dostluk Grubu eş başkanı
+quote: >-
+  O ülkeyi geçmişe sıkışıp kalmış bir tarım toplumundan modern, laik ve ileriye bakan bir Batı modeline
+  dönüştüren modern Türkiye'nin lideri Kemal Atatürk. … Büyük bir insana ve büyük bir lidere saygılarını sunan
+  dostlarıma katılıyorum.
+quote_kind: translated
+summary: >-
+  Atatürk'ün ölüm yıl dönümünü anarken, onu bir tarım toplumunu modern, laik, yüzü Batı'ya dönük bir modele
+  dönüştüren lider olarak nitelendiriyor: 'büyük bir insan'.
+caveat: >-
+  Atatürk hakkında Kennedy'den ve kaynağı doğrulanmamış bir Churchill sözünden de alıntı yapan kendi
+  açıklaması (dahil edilmemiştir). Cohen 19 Mayıs 2011, 17 Mayıs 2012, 17 Kasım 2010 ve 26 Ekim 2023
+  tarihlerinde de benzer açıklamalar yapmıştır. Kaynak: Extensions of Remarks (Temsilciler Meclisi), 13 Kasım
+  2012, 'Remembering Kemal Ataturk', Congressional Record c. 158, s. E1741 (granül
+  CREC-2012-11-13-pt1-PgE1741-2).
+verification_note: >-
+  Her iki parça da birebir; Cohen'in kendi sözleridir (ortadaki Kennedy ve Churchill bloğu ayrı bir
+  alıntıdır). Ölüm yıl dönümü çerçevesi (10 Kasım) doğrudur. 'a great man and a great leader' açık bir
+  görüştür. Hayranlık 2 uygun.
+verification_method: govinfo günlük baskı HTML'i
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fc7504c5725c
+  role: 5da72de4694b
+  quote: 81da1014315f
+  summary: 5234ed870896
+  caveat: "7342936745e3"
+  verification_note: e5a6ab3ea00f
+  verification_method: de40218292ca

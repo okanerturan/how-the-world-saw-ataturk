@@ -1,0 +1,32 @@
+# Turkish for data/voices/1925/la-correspondencia-valencia-1925.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-correspondencia-valencia-1925
+voice: La Correspondencia de Valencia
+role: Valencia günlük gazetesi
+quote: alkolün acımadığı zavallı beyni
+quote_kind: translated
+summary: >-
+  Birinci sayfadaki 'La Turquía nueva': tahkimat ardındaki, gergin, şahsen etkileyici olmayan ve hayalperest
+  gözleri bir alkoliğinkiler olabilecek bir Gazi'ye dair alaycı bir Ankara portresi.
+caveat: >-
+  Konuşan ses, metni çevrilmiş bir gezgindir; Valencia gazetesinin tutumu ise yazıyı birinci sayfadan
+  yayımlama kararıdır. OCR gürültülü.
+mediated_by: >-
+  İsimsiz bir yabancı gezginin izlenim yazısı (yazar mülakat talebinin reddedildiğini söylüyor), çeviri; yazar
+  imzası OCR'da görünmüyor
+verification_note: >-
+  'La Turquía nueva' makalesi; 'su pobre cerebro, que el alcohol no ha respetado' (yalnızca satır sonu
+  tirelemesi farkıyla); 'ojos de soñador... o de alcohólico'; röportaj reddedilmiş ('la interviú que me ha
+  rehusado'). Birinci sayfada yer aldığı doğrulanmadı.
+verification_method: djvu OCR metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 18810f3f0165
+  role: 45c6a6f7fa1e
+  quote: 97d6ebb43e84
+  summary: 87a696c40fe2
+  caveat: 60fbcf60e7d1
+  mediated_by: ffb4cf3d4e7f
+  verification_note: 75bec0647521
+  verification_method: 8f3db4510e6b

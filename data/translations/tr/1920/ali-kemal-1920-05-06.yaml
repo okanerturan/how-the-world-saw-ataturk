@@ -1,0 +1,45 @@
+# Turkish for data/voices/1920/ali-kemal-1920-05-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ali-kemal-1920-05-06
+voice: Ali Kemal
+role: Gazeteci, Peyam-ı Sabah editörü, eski Dahiliye Nazırı
+quote: >-
+  sahte bir taraftar, bir riya kisvesine bürünerek, haça karşı hilal cihadını açmış, ehli imanın safdillerini
+  aldatan
+quote_kind: original-turkish
+summary: >-
+  Kemal'i ikiyüzlülük kisvesine bürünen, haça karşı hilal cihadı ilan etmiş olan ve saf müminleri aldatan
+  sahte bir taraftar olarak nitelendirir.
+caveat: >-
+  Fevzi Çakmak'ın (mareşal değil, tarihçi) 'Peyam-ı Sabah, 6 Mayıs 1920' künyeli 15. dipnota atıfla aktardığı
+  Türkçe özgün metin: 'Milli Mücadele Dönemi Türk Mizahında Muhalif Bir Kimlik: Ali Kemal', Tarih İncelemeleri
+  Dergisi 34/2 (2019), 413-441, DOI 10.18513/egetid.661569. Arşiv çevirisi: 'a false partisan, who, wrapped in
+  the cloak of hypocrisy, has opened a crescent jihad against the cross, deceiving the simple-hearted of the
+  faithful'. Çakmak bu ifadeyi Havza'daki Kemal hakkında kurduğu kendi cümlesinin içine yerleştirir;
+  dolayısıyla bu, başyazının tam metni değil, ondan yapılmış bir alıntıdır. Aynı makale, Ali Kemal'in Ankara
+  mebuslarına 'küçük herifler' dediğini (23 Nisan 1920) ve Kemal'i İttihat ve Terakki çevresinin 'kanlı ve
+  zalim' mensupları arasında saydığını (7 Mayıs 1920) belirtir. Ali Kemal 6 Kasım 1922'de linç edilmiştir.
+  Kontrol: s. 415; ifade Peyam-ı Sabah dipnotuyla Çakmak'ın kendi cümlesinin içinde yer aldığından kırpılmış
+  veya sadeleştirilmiş olabilir; özgün metin görülmedi.
+mediated_by: Çakmak 2019, s. 416 ← Peyam-ı Sabah, 6 Mayıs 1920
+verification_note: >-
+  İfade Çakmak'ın metninde birebir mevcut, ancak s. 416'da değil s. 415'te (sayfa başında 415 üst numarası yer
+  alıyor; 416, 19. dipnottan sonra başlıyor). Çakmak, 15. dipnotta 'Peyam-ı Sabah, 6 Mayıs 1920' atfıyla 'Ali
+  Kemal'in gözünde Mustafa Kemal ... Havza'dan başlayarak yayınladığı beyannameleriyle, "sahte bir taraftar
+  ... aldatan" biriydi' diye yazıyor: alıntılanan sözcükler kendi cümlesinin içine yedirilmiş (fiil yok,
+  'biriydi'), dolayısıyla başyazının tam metninden ziyade kırpılmış veya sadeleştirilmiş bir alıntı olabilir.
+  Peyam-ı Sabah'taki özgün metne ulaşılamadı ve ifadeyi alıntılayan ikinci bir kaynak bulunamadı (arandı).
+  Sayfayı 415 olarak düzeltin ve ifadenin gazetede görülmediğini, Çakmak'ın alıntısı olduğunu belirtin. Diğer
+  unsurlar (23 Nisan 'küçük herifler', 7 Mayıs 'kanlı katil') aynı paragrafta, 13 ve 17. dipnotlardadır.
+verification_method: DergiPark PDF indirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fe66a69d344c
+  role: 327876571c10
+  quote: 2125f5c1666e
+  summary: ef14463aa72b
+  caveat: 4128649e17c0
+  mediated_by: 31e5eb495618
+  verification_note: 7f59b76b9645
+  verification_method: cea48849d01b

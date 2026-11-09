@@ -1,0 +1,30 @@
+# Turkish for data/voices/1922/svet-cleveland-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: svet-cleveland-1922
+voice: Svět (Cleveland)
+role: Çekçe günlük gazete, Cleveland, Ohio
+quote: eşkıya Türk, Avrupa'nın kaderini ellerinde tutuyor
+quote_kind: translated
+summary: >-
+  Plain Dealer başyazısını çeviriyor: eşkıyavari Kemal Avrupa'nın kaderini elinde tutuyor, yine de Müslümanlar
+  ve Hindular için göz kamaştırıcı bir kahraman.
+caveat: >-
+  Dolaylı aktarım: başyazı Plain Dealer'a aittir, Svět tarafından günün değerlendirmesi olarak çevrilip
+  yayımlanmıştır; OCR sütunları birbirine karıştırdığı için alıntılanan cümle iki satırdan birleştirilmiştir.
+mediated_by: Cleveland Plain Dealer başyazısı 'War is Imminent' (15 Eylül 1922), Çekçe çevirisiyle
+verification_note: >-
+  Alıntı birebir aynı, OCR satır bölünmesi birleştirilmiş (Ke-/mal, zbůjnický Turek, drží ve svých rukou osud
+  Evropy). Makale, Plain Dealer'ın 'War is Imminent' başlıklı başyazısının çevirisidir; metinde hem Hinduların
+  hem de Müslümanların Kemal'i 'zářící hrdina' olarak gördüğü belirtiliyor.
+verification_method: loc.gov JSON + tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ce04da9282e4
+  role: d6666ca9a7d5
+  quote: c839911afa6c
+  summary: 0aad73fa8c16
+  caveat: 0c776d9efe08
+  mediated_by: d6fc5b0f4e55
+  verification_note: 647ba8ef221c
+  verification_method: 28ee7781d3b6

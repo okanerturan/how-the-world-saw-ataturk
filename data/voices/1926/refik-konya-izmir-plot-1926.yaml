@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: refik-konya-izmir-plot-1926
+voice: Refik Bey (Konya)
+voice_type: person
+role: Konya deputy
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1926-11-03"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  The Gazi is the nation's great genius and saviour; the plot against him was a plot against the homeland.
+quote:
+  text: >-
+    Aziz Müncimiz ve büyük dahimiz Reisicumhur Gazi Mustafa Kemal Paşa Hazretlerinin hayatına müteveccih
+    olarak tertip edilen mel'un suikastın akim kalmasından ve binnetice vatanın muhakkak bir felâketten
+    kurtulmasından Milletçe duyulan nihayetsiz meserretleri bir defa daha izhar eden Meclisi Âlinin kalbi
+    memnuniyet ve tebrikâtını Reisicumhur Hazretlerine iblağ etmek üzere...
+  language: tr
+caveat: >-
+  Text layer OCR-degraded ('Müncilmi'Z', 'mıel'un', 'ıb'ir felalkeltitlen kürtulma'sından', 'hiçin'); quote
+  normalised, the felâketten/kurtulmasından words being a heavier reconstruction. The ellipsis marks the cut
+  before the motion's procedural close.
+node: The Assembly Congratulates the Gazi after the İzmir Plot, 1 and 3 November 1926
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c027/tbmm02027002.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Zabıt Ceridesi PDF, Dönem 2, cilt 27, 3 Kasım 1926, printed pp. 17–18
+  method: pdftotext; verbatim after de-hyphenation and OCR normalisation
+  note: >-
+    Raw OCR: 'Müncilmi'Z' (Müncimiz), 'mıel'un' (mel'un), 'ıb'ir felalkeltitlen kürtulma'sından' (bir
+    felâketten kurtulmasından; heavier reconstruction, flagged), 'hiçin' (niçin). Speaker printed as 'REFİK
+    BEY (Konya)'; no further identification in the minutes.
+  checked_on: "2026-10-31"

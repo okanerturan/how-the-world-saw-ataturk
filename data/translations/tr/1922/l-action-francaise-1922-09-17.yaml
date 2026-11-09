@@ -1,0 +1,32 @@
+# Turkish for data/voices/1922/l-action-francaise-1922-09-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: l-action-francaise-1922-09-17
+voice: L'Action française
+role: Paris'te yayımlanan monarşist günlük gazete
+quote: Mustafa Kemal kuşku duyuyor ve haklı
+quote_kind: translated
+summary: >-
+  Kesit: Kemal temkinli ve öyle olmakta haklı; giriş kısmı kesik olduğundan nesnesi ve editoryal ses
+  görülmüyor.
+caveat: >-
+  Görünüm 3. Kısa kesit; giriş kısmı kesik. 'Moustapha ... raison' için OCR'da 'Moyistapha ... rai son'
+  çıkmış. Gazetenin kendi görüşü olarak okunması, satırın birinci şahıs üslubuna dayanmaktadır. Gallica
+  ContentSearch kesiti, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya aittir, basılı sayfa
+  numarası olmayabilir. Kontrol sonrası: bağlam (tarafsız bölge ültimatomu) ve gazetenin kendi görüşü olduğu
+  okuması kesit tarafından desteklenmemektedir; kırpıldı.
+verification_note: >-
+  OCR kesiti 'Moyistapha Kémal se méfie et il a rai son' mevcut, ancak kesit bağlam vermiyor: 'threatened him
+  over neutral zone' ifadesi ve gazetenin kendi tutumu görünmüyor (yalnızca İtilaf hükümetlerinin yüksek
+  komiserlere Mustapha-Kemal'e bildirimde bulunma talimatı verdiğine dair PAG_1 satırı var). Tarih
+  doğrulanmadı.
+verification_method: ms fetch ContentSearch (ilk çağrı bot_blocked, yeniden deneme başarılı)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5935eec82225
+  role: 7babd1156f28
+  quote: de511ad9f61d
+  summary: 2b67a66c86b3
+  caveat: e5f07f3ee74b
+  verification_note: 0e19d24c0c8c
+  verification_method: de54fd9baffb

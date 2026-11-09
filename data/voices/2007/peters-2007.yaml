@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: peters-2007
+voice: Winston Peters
+voice_type: person
+role: New Zealand Foreign Minister (2005–2008; later Deputy Prime Minister)
+country: New Zealand
+country_now: New Zealand
+domain: politics
+date: "2007-04-25"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  Says Atatürk, a divisional commander at Gallipoli and later founder of the Republic, paved the way for
+  reconciliation with generous words.
+quote:
+  text: >-
+    it was Mustafa Kemal Atatürk, a divisional commander at Gallipoli and later founder of the Turkish
+    Republic, who paved the way for reconciliation.
+  language: en
+caveat: >-
+  Not a prime minister at the time (Foreign Minister, delivering the government's address). A near-identical
+  passage appears in Nathan Guy's 2012 Gallipoli speech, i.e. the ministry's stock text. The 'Johnnies and
+  Mehmets' / 'your sons are now lying in our bosom' text that Anzac speakers attribute to Atatürk is itself
+  contested: no 1934 original has been found, it first appears in print in 1953 via Interior Minister Şükrü
+  Kaya's recollection, and the 'Johnnies and Mehmets' clause is a 1978 Australian addition (see [[Johnnies and
+  Mehmets]]). So this is a speaker's view of the Atatürk of the Anzac legend, spoken at a commemorative or
+  diplomatic occasion that rewards praise. Cited as: Anzac Day Dawn Service address, Gallipoli, 25 April 2007.
+node: Anzac Day Leaders on Atatürk, 1990–2024 — Australian and New Zealand Speeches
+sources:
+  - url: https://www.beehive.govt.nz/speech/anzac-day-dawn-service-address-gallipoli
+    archived: https://web.archive.org/web/20240913013402/https://www.beehive.govt.nz/speech/anzac-day-dawn-service-address-gallipoli
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Beehive page via tools/ms fetch (direct curl blocked by Incapsula)
+  method: >-
+    fetched source fresh, normalised-text match of the quote; speaker, date and title read from metadata/byline
+  note: >-
+    Verbatim on the Beehive page 'ANZAC Day Dawn Service Address, Gallipoli' dated 25 April 2007, byline
+    Winston Peters, Foreign Affairs. Own words ('paved the way for reconciliation', 'generous words ... will
+    never be forgotten'). Role correct as NZ Foreign Minister, not PM. The 'Nathan Guy 2012' stock-text remark
+    was not checked.
+  checked_on: "2026-11-03"

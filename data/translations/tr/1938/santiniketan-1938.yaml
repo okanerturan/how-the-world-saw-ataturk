@@ -1,0 +1,18 @@
+# Turkish for data/voices/1938/santiniketan-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: santiniketan-1938
+voice: Santiniketan (Tagore'un okulu)
+role: Tagore tarafından kurulan Bengal okulu
+summary: "'Büyük Paşa'nın ölümünü anmak üzere 18 Kasım 1938'de derslere ve etkinliklere ara verdi."
+mediated_by: Bhattacharya, Frontier 51(45)
+verification_note: "'The great Pasha', Bandyopadhyaya 3:143'e atıf yapan Bhattacharya'nın ifadesidir."
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 820d2bb45b76
+  role: bd1efa9aad18
+  summary: c2d504eee4b9
+  mediated_by: "899412862055"
+  verification_note: 42a7b1251375
+  verification_method: ad8cee67138e

@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mahmut-esat-bozkurt-1940
+voice: Mahmut Esat Bozkurt
+voice_type: person
+role: Former Minister of Justice (1924-30), professor at the Institute of the Turkish Revolution
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1940"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: book
+evidence: P
+summary: >-
+  Presents Atatürk as a man of great self-denial who resigned his command to enter Erzurum as a plain citizen
+  and became the nation's saviour.
+quote:
+  text: >-
+    Bu Türk oğlu, bu sade vatandaş, yarınki hür ve müstakil Türk milletinin, Türk ulusunun kurtarıcısı
+    olacaktı. Ve oldu.
+  language: tr
+caveat: >-
+  TRANSLATION (this record's): 'This son of the Turks, this plain citizen, was to become the saviour of the
+  free and independent Turkish nation of tomorrow. And so he did.' Atatürk İhtilali, I (İstanbul Üniversitesi
+  Yayınları, İnkılâp Enstitüsü lectures; İstanbul: Burhaneddin Matbaası, 1940), p. 129 (archive.org OCR). The
+  same page begins 'Atatürk büyük ferağet sahibi idi' and adds first-hand: 'Atatürkten bir çok defalar
+  işittim', quoting Kemal on feeling himself the strongest man once he became a plain citizen. The vault
+  note's 'realities of life, not revelations from the sky' (Civil Code) is not about Kemal and was not
+  checked.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/ataturk-ihtilali
+  - url: https://archive.org/download/ataturk-ihtilali/Atat%C3%BCrk%20%C4%B0htilali%20%281940%29_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org ataturk-ihtilali, 'Atatürk İhtilali (1940)_djvu.txt' (title page: İstanbul Üniversitesi
+    Yayınları, İnkılâp Enstitüsü, Dr. Mahmut Esat Bozkurt, İstanbul 1940, Bürhaneddin Matbaası)
+  method: >-
+    archive.org open djvu text read; page located from running page numbers (headers, verified against
+    footnote positions)
+  note: >-
+    Quote verbatim, but on p. 129, not p. 130. The OCR page header '— 129 —' precedes 'Atatürk büyük ferağet
+    sahibi idi ... Bu Türk oğlu, bu sade vatandaş ... kurtarıcısı olacaktı. Ve oldu.' followed by footnote '!
+    Lârousse Üniversel'. '— 130 —' then opens with 'Atatürkten bir çok defalar işittim, diyordu ki: ...'.
+    Corrections: caveat 'p. 130' → 'p. 129'; 'The same page begins ... and adds first-hand: Atatürkten bir çok
+    defalar işittim' → 'p. 129 has the ferağet passage; p. 130 opens Atatürkten bir çok defalar işittim'.
+    Strict test passes: his own evaluation ('büyük ferağet sahibi idi'), not only narration.
+    Admiring/posthumous are right. Schema ok.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33)
+  checked_on: "2026-11-06"

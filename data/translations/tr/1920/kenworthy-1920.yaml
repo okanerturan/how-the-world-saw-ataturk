@@ -1,0 +1,26 @@
+# Turkish for data/voices/1920/kenworthy-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kenworthy-1920
+voice: Deniz Binbaşısı Kenworthy, Milletvekili
+role: Avam Kamarası, Binbaşı Tryon'ın açıklaması üzerine görüşme
+quote: >-
+  Bununla birlikte, Karadeniz'den yeni uzun menzilli uçaklarımızla baskın düzenlenebilecek, Mustafa Kemal'in
+  komutası altında askerî kamplar vardır
+quote_kind: translated
+summary: >-
+  Kemal'in askerî kamplarına Karadeniz'den uzun menzilli uçaklarla baskın düzenlenmesini önerdi.
+caveat: >-
+  Alıntı Hansard'ın OCR yazımını ('arc') olduğu gibi yansıtmaktadır. Kenworthy daha sonra Kemal'i övmüştür (14
+  Aralık 1922, 4 Ağustos 1922); konuşmacının tutumu değişir.
+verification_note: OCR kaynaklı 'arc' ve 'Kemil' dahil birebir aynı.
+verification_method: Hansard API araması, konuşmanın tam metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5c480457a1be
+  role: 181a40b705cd
+  quote: f9847ed87435
+  summary: cea4c9ac9d00
+  caveat: ee22154c3c09
+  verification_note: aa212b9429b5
+  verification_method: 419e56aa2f6d

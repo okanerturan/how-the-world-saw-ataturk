@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/rauf-orbay-tbmm-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rauf-orbay-tbmm-1922
+voice: Rauf Orbay
+role: Başbakan (Heyeti Vekile Reisi), Ankara hükümeti
+quote: Mustafa Kemal Paşa Meclisi Âliniz tarafından intihap edilmiş Başkumandandır.
+quote_kind: original-turkish
+summary: >-
+  Başbakan olarak gizli oturumda, kabinenin Meclis'in seçtiği Başkomutan'a ordunun rehberi sıfatıyla danışması
+  gerektiğini söyledi.
+caveat: >-
+  Kaynak: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, 104. birleşim (hafi), 2.
+  celse, 18 Eylül 1338 (1922), s. 905. Kemal ile 1924-26'daki kopuşundan önceki resmi, saygılı üslup; ayrıca
+  s. 904 ('bize rehberlik eden Başkumandan Paşa Hazretleri').
+verification_note: >-
+  s. 905'te birebir aynı (Heyeti Vekile Reisi konuşuyor); s. 904'teki 'rehberlik eden Başkumandan' ifadesi de
+  doğrulandı; Başkomutan'a danışma çerçevesi destekleniyor.
+verification_method: pdftotext; sayfa işaretleri 904/905
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6a991cffd133
+  role: 8faa6b70c066
+  quote: e13398b76dc7
+  summary: 64fe385035c0
+  caveat: 6e90f397f51e
+  verification_note: 9980e00044de
+  verification_method: 308c186721f1

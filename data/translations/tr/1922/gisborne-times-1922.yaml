@@ -1,0 +1,22 @@
+# Turkish for data/voices/1922/gisborne-times-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: gisborne-times-1922
+voice: Gisborne Times
+role: Gisborne günlük gazetesi, başyazı
+quote: Mustafa Kemal Paşa askeri bir liderden daha fazlasıdır
+quote_kind: translated
+summary: >-
+  Kemal'i, Anadolu zaferiyle Türklere cesaret veren doğuştan bir siyasi stratejist olarak değerlendirdi; ancak
+  ilerleyişini bir blöf, daha geniş çaplı bir sorun çıkacağı söylentilerini ise abartılı buldu.
+caveat: >-
+  Alıntı başyazıya aittir; devamı ('lie is a born political strategist') OCR nedeniyle bozulmuştur.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7ac5575ff19a
+  role: cf6909021bf4
+  quote: b3ab335ab882
+  summary: 048beacdbc2d
+  caveat: 42340c8b89aa
+  verification_method: ad8cee67138e

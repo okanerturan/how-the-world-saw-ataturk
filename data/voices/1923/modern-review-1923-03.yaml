@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: modern-review-1923-03
+voice: The Modern Review
+voice_type: press
+role: Calcutta English monthly (editor Ramananda Chatterjee), editorial Notes
+country: British India
+country_now: India
+domain: press
+date: "1923-03"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Objected to the Indian Muslim fund to buy Kemal an aeroplane: bombing from the air kills civilians, so
+  silence would be indirect support.
+quote:
+  text: >-
+    the Fund that is being raised by the Musalmans in India to buy and present Mustapha Kemal Pasha with an
+    aeroplane
+  language: en
+caveat: >-
+  Editorial Notes are unsigned; attribution to the editor is by role. Page c. 396-397 from OCR heads. Targets
+  the fund and its consequences, not Kemal's person; the same Notes elsewhere side with Turkey on
+  international justice.
+node: The Modern Review on Kemal, 1923–1924
+sources:
+  - url: https://archive.org/details/dli.calcutta.09830
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Modern Review March 1923 djvu text, Notes 'Bombing and Angora Aeroplane Fund'
+  method: archive.org 1923_v33_djvu.txt grep
+  note: >-
+    Verbatim (OCR line-breaks only); 'cannot even indirectly support the project by our silence' confirms the
+    claim.
+  checked_on: "2026-10-29"

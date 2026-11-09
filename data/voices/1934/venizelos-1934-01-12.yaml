@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: venizelos-1934-01-12
+voice: Eleftherios Venizelos
+voice_type: person
+role: Former Greek prime minister; signed the 1930 Greek-Turkish pact
+country: Greece
+country_now: Greece
+domain: diplomacy
+date: "1934-01-12"
+era: contemporary
+polarity: admiring
+intensity: 3
+mirror: chivalrous-enemy
+artifact: nomination
+evidence: J
+summary: >-
+  Credited Kemal with ending Ottoman instability and making Turkey a pillar of peace; nominated him for the
+  Nobel Peace Prize.
+quote:
+  text: >-
+    The man to whom this invaluable contribution to the cause of peace is due is, of course, the President of
+    the Turkish Republic, Moustafa Kemal Pasha.
+  language: en
+mediated_by: English translation (S. Colston) of the French letter, Greek World Media 2017
+caveat: >-
+  English web translation, French original unseen; the speaker commanded the 1919-22 Greek policy Kemal
+  defeated and the letter serves the Greek-Turkish settlement, so a reader may weigh it as instrumental; Nobel
+  archive record not re-read.
+node: Venizelos Nominates Kemal for the Nobel Peace Prize, 1934
+sources:
+  - url: https://greekworldmedia.com/2017/03/19/nomination-letter-by-eleftherios-k-venizelos-for-the-conferral-of-the-nobel-peace-prize-upon-mustafa-kemal-pasha-ataturk
+    archived: https://web.archive.org/web/20250414143713/https://greekworldmedia.com/2017/03/19/nomination-letter-by-eleftherios-k-venizelos-for-the-conferral-of-the-nobel-peace-prize-upon-mustafa-kemal-pasha-ataturk/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    greekworldmedia.com English translation (S. Colston) of Venizelos's French letter, Athens 12 Jan 1934;
+    Nobel Nomination Archive entry (Peace 1934, nominee Mustafa Pascha Kemal, nominator E K Venizelos, id
+    7872) seen as a search snippet
+  method: Free fetch of the translation; one tools/ms search for the Nobel archive record
+  note: >-
+    Quote verbatim in the English translation; date confirmed by the letter heading. The nomination's
+    existence, year and nominator are corroborated by the Nobel archive snippet, but the French original and
+    the archive's text were not seen, so the wording is a translator's. Nobel archive lists nominator
+    profession as 'Member of the Greek parliament', not former PM.
+  checked_on: "2026-11-01"

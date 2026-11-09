@@ -1,0 +1,23 @@
+# Turkish for data/voices/1933/genaro-estrada-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: genaro-estrada-1933
+voice: Genaro Estrada
+role: Meksikalı şair-diplomat
+summary: Atatürk'e güven mektubunu sundu, ikisi Fransızca konuştu; kaydedilmiş bir görüş yok.
+caveat: >-
+  Tarih (17 Ekim 1933) ve Fransızca sohbet, inep.org inceleme sayfası aracılığıyla Orgaz Martinez 2021'den
+  alınmıştır; kontrol edenin tamamını okuduğu Temel 2017 makalesinde yer almamaktadır.
+mediated_by: "Orgaz Martinez 2021 (önsöz: Martinez Assad)"
+verification_note: >-
+  1933-10-17 güven mektubu tarihi ve Fransızca sohbet, atıf yapılan kaynaklarca desteklenmemektedir.
+verification_method: getirme (fetch)
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 34808a6bc7e0
+  role: 3ca825a5ad90
+  summary: 2b02cb323a68
+  caveat: 1194a7524999
+  mediated_by: ed5934a1830e
+  verification_note: d572dcab1b69
+  verification_method: ad8cee67138e

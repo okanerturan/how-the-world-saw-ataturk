@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: von-leers-1933
+voice: Johann von Leers
+voice_type: person
+role: Nazi propagandist and writer
+country: Germany
+country_now: Germany
+domain: letters
+date: "1933"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: nation-forge-template
+artifact: book
+evidence: P
+summary: >-
+  Argued National Socialism made Germans immune to communism, just as the Ghazi's work had made modern Turkey
+  immune to it.
+quote:
+  text: >-
+    Die wirkliche Neugestaltung, wie der Nationalsozialismus sie verwirklicht, macht das deutsche Volk
+    innerlich immun gegen weitere Beeinflussung durch die kommunistische Idee, wie die moderne Türkei durch
+    das Werk des Ghazi Mustapha Kemal Pascha gegen den Kommunismus immun geworden ist.
+  translation: >-
+    The real reshaping that National Socialism is carrying out makes the German people inwardly immune to
+    further influence by the communist idea, as modern Turkey has become immune to communism through the work
+    of the Ghazi Mustapha Kemal Pasha.
+  language: de
+caveat: >-
+  Deutschlands Stellung in der Welt (Leipzig: Quelle & Meyer, 1933, series 'Das Dritte Reich'), p. 85; scan
+  hosted by a revisionist uploader on archive.org, text checked in its OCR. The 1932 Hitler biography (Ihrig's
+  lead) is not online; also untested: his 1934 article 'Mustafa Kemal Pascha', Zeitschrift für Politik 24, pp.
+  4–27, and his 1934 novel Kanonen über der Steppe.
+node: Writers, Scientists and Artists in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/geschichtszweifel216
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org geschichtszweifel216 Leers_Deutschland_Bild_djvu.txt, p. 85
+  method: djvu text
+  note: >-
+    Verbatim (long-s Fraktur OCR). Page numbers sit at the foot of each page, so the passage falls between the
+    '84' and '85' markers: p. 85, as cited. Title page: 'Das Dritte Reich ... Dr. Johann von Leers, Quelle &
+    Meyer, Leipzig'. The book mentions the October 1933 tenth-anniversary honours, so it is late 1933 or
+    later. Instrumental is supported.
+  checked_on: "2026-11-06"

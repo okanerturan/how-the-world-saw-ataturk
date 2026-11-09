@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lototsky-1966
+voice: Oleksandr Lototsky
+voice_type: person
+role: Ukrainian People's Republic envoy to Constantinople (1919), minister, memoirist
+country: Ukrainian People's Republic (émigré)
+country_now: Ukraine
+domain: diplomacy
+date: "1966"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: memoir
+evidence: S
+summary: >-
+  Calls the 'rebel general' Mustafa Kemal gifted in military, political, social and cultural fields, who
+  raised Turkish national feeling and renewed the people's psyche.
+quote:
+  text: >-
+    Ставши на чолі визвольного руху, він здолав піднести національне почуття турецького народу до найвищого
+    ступня. [translation: Having put himself at the head of the liberation movement, he managed to raise the
+    national feeling of the Turkish people to its highest degree.] … Той характер Кемалевого діла оновив
+    психіку народу, оспалого за дотеперішніх політичних та культурних умовин, і подвигнув той народ до
+    великого самосвідомого чину.
+  translation: >-
+    That character of Kemal's work renewed the psyche of a people drowsy under the former political and
+    cultural conditions and moved that people to a great self-conscious deed.
+  needs_split: true
+  language: uk
+caveat: >-
+  Wikisource transcription (proofread level 3) of O. Lototsky, Сторінки минулого, Part 4 'В Царгороді' (1966),
+  chapter 'Внутрішнє положення в Туреччині по замиренні', scan pages 24-27 of the linked djvu; the page does
+  not give the composition date. The passage uses the name 'Ататюрк', so it was written after 1934, and the
+  author died in 1939 (his death date is from memory, tier M): the text was probably written 1934-39 and
+  published posthumously in 1966. A second passage in the chapter 'По війні та мировій конференції' quotes
+  Kemal's Ankara speech that Turkey became 'the only victor among the vanquished'. Scan not viewed.
+  Translation is the vault's own. Check: 1966 is the publication date (US Orthodox Church edition); Lototsky
+  died in 1939 and the text says 'Ататюрк', so written c. 1934–39.
+node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
+sources:
+  - url: https://uk.wikisource.org/wiki/%D0%A1%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8_%D0%BC%D0%B8%D0%BD%D1%83%D0%BB%D0%BE%D0%B3%D0%BE_(1966)/4/%D0%92%D0%BD%D1%83%D1%82%D1%80%D1%96%D1%88%D0%BD%D1%94_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B2_%D0%A2%D1%83%D1%80%D0%B5%D1%87%D1%87%D0%B8%D0%BD%D1%96_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%BC%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%96
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    uk.wikisource Сторінки минулого (1966)/4/Внутрішнє положення в Туреччині по замиренні (render) and main
+    page; tools/ms search (1 call)
+  method: fetched rendered page, string match, read edition header
+  note: >-
+    Both Ukrainian passages verbatim; translation faithful; gaze OK. DATE: Wikisource edition is the 1966 US
+    Orthodox Church publication (a reprint note refers to the 1932 Warsaw edition of the series). Lototsky
+    died 1939; the text names 'Ататюрк' so was written after 1934; a Polish library list of the Ukrainian
+    Scientific Institute shows the Constantinople part only as 'ready for print', consistent with first
+    publication in 1966. So 1966 is the publication date, the utterance date is 1934-39 (unknown); era
+    'posthumous' follows the publication date only. Keep date 1966 but say in caveat 'written c.1934-39' and
+    do not treat as contemporary.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (rounds 21–22)
+  checked_on: "2026-11-03"

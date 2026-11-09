@@ -1,0 +1,23 @@
+# Turkish for data/voices/1926/ibn-saud-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ibn-saud-1926
+voice: Ibn Saud
+role: Suudi Arabistan'ın kurucu kralı
+summary: >-
+  Kemalist Türkiye'ye bir devlet kurucusunun diğerine baktığı gibi yaklaştı: yakınlık kurdu ve ondan
+  yararlandı ama asla taklit etmedi; Türkiye'yi Mekke Kongresi'ne davet etti ve 1929'da bir antlaşma imzaladı.
+caveat: Saik çıkarıma dayalıdır; saiklere ilişkin kaynak azdır.
+verification_note: >-
+  Mekke Kongresi daveti ve 3 Ağustos 1929 tarihli Hicaz-Türkiye dostluk antlaşması doğrulandı; 'courted and
+  used, never mimicked' bir yorumdur. MEI PDF'si okundu, somut bir şey bulunamadı; gulfif ilişkileri belirsiz
+  biçimde tarihlendiriyor, dolayısıyla davet için '1926' yılı belirtilmemiş
+verification_method: kaynak getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 384de7bd7842
+  role: cf7cff054d65
+  summary: 2b93c9ad68b3
+  caveat: 61f8f4c8196f
+  verification_note: ba87c4ab929f
+  verification_method: ad8cee67138e

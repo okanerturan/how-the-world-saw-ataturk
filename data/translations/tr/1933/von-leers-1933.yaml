@@ -1,0 +1,36 @@
+# Turkish for data/voices/1933/von-leers-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: von-leers-1933
+voice: Johann von Leers
+role: Nazi propagandacısı ve yazar
+quote: >-
+  Nasyonal Sosyalizmin gerçekleştirdiği biçimiyle gerçek yeniden şekillendirme, Alman halkını komünist fikrin
+  daha fazla etkisine karşı içsel olarak bağışık kılar; tıpkı modern Türkiye'nin Gazi Mustafa Kemal Paşa'nın
+  eseri sayesinde komünizme karşı bağışık hale gelmiş olması gibi.
+quote_kind: translated
+summary: >-
+  Tıpkı Gazi'nin eserinin modern Türkiye'yi komünizme karşı bağışık kılması gibi, Nasyonal Sosyalizmin de
+  Almanları komünizme karşı bağışık kıldığını savundu.
+caveat: >-
+  Deutschlands Stellung in der Welt (Leipzig: Quelle & Meyer, 1933, 'Das Dritte Reich' dizisi), s. 85; tarama
+  archive.org'da revizyonist bir yükleyici tarafından barındırılmaktadır, metin OCR üzerinden kontrol
+  edilmiştir. 1932 tarihli Hitler biyografisi (Ihrig'in ipucu) çevrimiçi değildir; ayrıca sınanmayanlar: 1934
+  tarihli 'Mustafa Kemal Pascha' makalesi, Zeitschrift für Politik 24, s. 4–27 ve 1934 tarihli Kanonen über
+  der Steppe romanı.
+verification_note: >-
+  Birebir aynı (uzun s'li Fraktur OCR). Sayfa numaraları her sayfanın altında yer almaktadır, dolayısıyla
+  pasaj '84' ve '85' işaretleri arasına düşmektedir: atıfta belirtildiği gibi s. 85. İç kapak: 'Das Dritte
+  Reich ... Dr. Johann von Leers, Quelle & Meyer, Leipzig'. Kitap Ekim 1933'teki onuncu yıl
+  onurlandırmalarından söz etmektedir; dolayısıyla 1933 sonu veya sonrasına aittir. Araçsal yaklaşım
+  desteklenmektedir.
+verification_method: djvu metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 63caf2b55172
+  role: e908c05f8494
+  quote: 287df00b0262
+  summary: 9854a5a565e4
+  caveat: d1898c5889c2
+  verification_note: 06e38f2dde6d
+  verification_method: 9d9cd164c6b0

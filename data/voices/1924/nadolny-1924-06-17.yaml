@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nadolny-1924-06-17
+voice: Rudolf Nadolny
+voice_type: person
+role: German envoy (ambassador) to Turkey, presenting credentials
+country: Germany
+country_now: Germany
+domain: diplomacy
+date: "1924-06-17"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Told Kemal the German people had followed Turkey's fate 'with a feeling of admiration' and came from a new
+  Germany to a new Turkey.
+quote:
+  text: >-
+    Das deutsche Volk hat das Schicksal des türkischen Volkes in diesen letzten Jahren mit lebhafter und
+    herzlicher Anteilnahme und mit dem Gefühl der Bewunderung verfolgt.
+  language: de
+mediated_by: >-
+  WTB wire text, printed in Vorwärts 19 Jun 1924 p. 3, Kölnische Zeitung 19 Jun 1924 p. 9, Rheinische
+  Volkswacht 20 Jun 1924 p. 2
+caveat: >-
+  Credentials speech: diplomatic register, so recorded as instrumental although the wording is admiring.
+  'Rudolf' Nadolny identified from the post (one caption misprints 'Gustav'). Wire datelines differ: Vorwärts
+  17 June, Kölnische Zeitung and Rheinische Volkswacht 18 June.
+node: German Statesmen Address Kemal, 1924 and 1933
+sources:
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/ZUITNJRLCN7JKLURZWDEKBZOREYKQKX2?issuepage=3
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/JT7BKOJKP7HPVLA5FOTHMKHRWKKUNZWL?issuepage=9
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/CDLZ7KDOZQ2NVMQ5IJR52RPFM6IIVANB?issuepage=2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    DDB: Vorwaerts 19 Jun 1924 (issue p. 3), Koelnische Zeitung 19 Jun 1924 (issue p. 9), Rheinische
+    Volkswacht 20 Jun 1924 (issue p. 2)
+  method: >-
+    Deutsche Digitale Bibliothek newspaper Solr (plainpagefulltext), full page OCR, fetched directly; read the
+    page text in all three
+  note: >-
+    Quote verbatim in Koelnische Zeitung and Rheinische Volkswacht ('lebhafter und herzlicher Anteilnahme und
+    mit dem Gefuehl der Bewunderung'); Vorwaerts OCR reads 'lebhaftester herzlicher' (OCR or wire variant), so
+    the record's note that all three agree is slightly off. DATE FLAG: the wires are datelined Angora 17 June
+    (Vorwaerts, 'heute') but 18 June (Koelnische Zeitung, Rheinische Volkswacht); the record's 1924-06-17
+    follows Vorwaerts only. Speech calls him 'Gesandte (Botschafter)'; 'Rudolf' is not in the text.
+    Instrumental polarity is fair.
+  checked_on: "2026-11-01"

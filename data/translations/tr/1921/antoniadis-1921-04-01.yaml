@@ -1,0 +1,32 @@
+# Turkish for data/voices/1921/antoniadis-1921-04-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: antoniadis-1921-04-01
+voice: A. Antoniadis
+role: Yunan milletvekili (basılı metinde yalnızca A. baş harfiyle)
+quote: "ve bütün Yunanların parolasının şu olması gerektiğini ekler: «Kemal ezilsin»."
+quote_kind: translated
+summary: >-
+  Düşmanın irtibatını kesip Kemal'i zararsız hale getirmek için Eskişehir'in alınmasını ve her Yunan'ın
+  parolasının 'Kemal ezilsin' olmasını ister.
+caveat: >-
+  Γ΄ Εθνοσυνέλευση, Πρακτικά Τόμος 1, 1 Nisan 1921 tarihli ΚΘ΄ birleşimi (başlık s. 476), basılı s. 485 (PDF
+  sayfası 243; sayfa görüntüsü okundu). Sevr Antlaşması'nı revize etmeye yönelik İtilaf Devletleri (Londra)
+  önerileri üzerine yapılan tartışmada bir milletvekilinin konuşmasının üçüncü şahıs özeti; Cato tarzı
+  'Delenda Carthago' sloganı kendisine aittir. Tali milletvekili; ön adı verilmemiştir.
+mediated_by: >-
+  Πρακτικά'da özetlendiği şekliyle (konuşmanın üçüncü şahıs aktarımı; alıntılanan cümle tutanakçının
+  ifadesidir)
+verification_note: Alıntı sayfa görüntüsünde birebir aynı. Tali milletvekili; üçüncü şahıs Πρακτικά özeti.
+verification_method: >-
+  sayfa görüntüsü 230 dpi çözünürlükte işlendi ve politonik Yunanca OKUNDU (derleyici değil, ana ajan)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 28f078a1bcd5
+  role: eee3203c050b
+  quote: 060e8d101440
+  summary: 51b708c042cf
+  caveat: 055925d61375
+  mediated_by: bed8f4edd5eb
+  verification_note: c52339697b34
+  verification_method: adc1a10a8ce8

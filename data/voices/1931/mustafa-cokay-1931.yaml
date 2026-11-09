@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mustafa-cokay-1931
+voice: Mustafa Çokay
+voice_type: person
+role: Kazakh Turkestan-autonomy leader, émigré editor
+country: Turkestan (émigré in France and Germany)
+country_now: Kazakhstan
+domain: politics
+date: "1931"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: S
+summary: >-
+  Compared three one-party states, was satisfied with Kemalist Turkey's progressive policies (the abstract's
+  wording: a country reborn from its ashes by a miracle), and kept praising Atatürk's moral support for
+  Turkestan after his journal was banned.
+caveat: >-
+  'From its ashes by a miracle' is the abstract author's wording, not Çokay's. Abstract and references only:
+  the 1931 date is from the Prométhée entry in the reference list; the claimed 1938 obituary is unverified.
+node: Mustafa Çokay
+sources:
+  - url: https://mtad.humanity.ankara.edu.tr/39-1042013-633.php
+    archived: https://web.archive.org/web/20241114060818/https://mtad.humanity.ankara.edu.tr/39-1042013-633.php
+verification:
+  verdict: partial
+  checked_against: https://mtad.humanity.ankara.edu.tr/39-1042013-633.php (Turkish abstract + references)
+  method: fetch
+  note: >-
+    Abstract only. 'from its ashes by a miracle' is the abstract author's wording ('bir mucize ile küllerinden
+    yeniden doğan'), not Çokay's words. The 1931 date and the Prométhée piece are not verifiable from the
+    abstract (Prométhée Jul 1931 only appears in reference list).
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

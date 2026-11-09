@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-fath-1936
+voice: Al-Fath
+voice_type: press
+role: Cairo Salafi weekly (Muhibb al-Din al-Khatib)
+country: Egypt
+country_now: Egypt
+domain: press
+date: "1936-03"
+era: contemporary
+polarity: hostile
+intensity: 1
+mirror: apostate
+artifact: editorial
+evidence: P
+summary: Atatürk banished Arabic from Turkish; Persia's Shah followed, purging Arab words.
+quote:
+  text: Atatürk expelled Arabic from the Turks' language in the worst of expulsions
+  language: en
+caveat: >-
+  Issue date inferred (1 Muharram 1355 cover leaf; cites 17 Mar 1936). Quote is the note author's English
+  translation of the Arabic original, which the note prints.
+node: Al-Fath (Cairo), 1927–1938 — Khatib's Weekly on Ankara
+sources:
+  - url: https://archive.org/details/efath-moheb-elden-elkheeb
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Al-Fath, IA 426_530 PDF, pdf p. 1395, printed p. 950
+  method: rendered page image and READ Arabic
+  note: >-
+    Arabic 'فإن «أتاتورك» طرد العربية من لغة الأتراك شر طردة وقفاه في العام الماضي شاه العجم' present;
+    faithful; page cites al-Balagh 23 Dhu'l-Hijja 1354 = 17/3/1936, so date inference sound.
+  checked_on: "2026-10-29"

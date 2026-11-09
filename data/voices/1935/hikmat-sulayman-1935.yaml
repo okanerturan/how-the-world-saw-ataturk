@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hikmat-sulayman-1935
+voice: Hikmat Sulayman
+voice_type: person
+role: Prime minister of Iraq 1936–37
+country: Iraq
+country_now: Iraq
+domain: politics
+date: "1935"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: S
+summary: >-
+  Took Kemal's paternalistic authoritarianism as his reform model; after a 1935 Turkey visit wrote articles
+  urging secularism and modernization on Turkish lines.
+caveat: Single scholarly source (Sorby 2015); the articles themselves not read.
+node: Hikmat Sulayman
+sources:
+  - url: https://journals.pan.pl/Content/82263
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://journals.pan.pl/Content/82263 (Sorby 2015, para on Hikmat Sulayman model of Mustafa Kemal)
+  method: fetch
+  checked_on: "2026-10-29"

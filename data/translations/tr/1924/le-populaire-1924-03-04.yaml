@@ -1,0 +1,30 @@
+# Turkish for data/voices/1924/le-populaire-1924-03-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-populaire-1924-03-04
+voice: Le Populaire
+role: Paris sosyalist günlük gazetesi
+quote: >-
+  Mustafa Kemal, Türk milletinin cumhuriyet rejimine sağlam temeller sağlama konusundaki kararlı iradesine
+  dikkat çekti
+quote_kind: translated
+summary: >-
+  Kemal'in açılış konuşmasında milletin cumhuriyete sağlam temeller kazandırma konusundaki kararlı iradesini
+  vurguladığını aktardı.
+caveat: >-
+  Görünüm 3. 'Kernel', Kemal kelimesinin OCR hatasıdır. Haber aktarımı; belirtilmiş bir görüş yok. Gallica
+  ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya aittir, basılı sayfa
+  numarası olmayabilir.
+verification_note: >-
+  OCR 'Kernel' ile birebir aynı; 'Le discours de Kemal' başlığı mevcut. ark'tan alınan sayı tarihi bağımsız
+  olarak doğrulanmadı.
+verification_method: "ms fetch ContentSearch (sorgu: Kernel)"
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6370de81e8c7
+  role: 0d277e8d674f
+  quote: 31274c0f5bcc
+  summary: f8f90a373044
+  caveat: 340d14986987
+  verification_note: a729a66beb45
+  verification_method: d55c95a6b0a6

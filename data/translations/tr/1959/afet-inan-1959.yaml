@@ -1,0 +1,41 @@
+# Turkish for data/voices/1959/afet-inan-1959.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: afet-inan-1959
+voice: Afet İnan
+role: Tarihçi, Atatürk'ün manevi kızı, Türk Tarih Kurumu kurucu üyesi
+quote: >-
+  Savaşta kumandan, devlet kurmada siyasi bir şahsiyet, inkılap hareketlerinde ise devrimci bir fikir adamı
+  olarak karşımıza çıkıyor.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ü yalnızca bir komutan ve kurucu cumhurbaşkanı olarak değil, devrimlerini bir ömür boyu planlamış
+  bir fikir insanı olarak görür.
+caveat: >-
+  ÇEVİRİ (bu kaydın): 'He appears before us as a commander in war, a political figure in founding the state,
+  and a revolutionary man of ideas in the movements of reform.' Atatürk Hakkında Hatıralar ve Belgeler'in (1.
+  basım Ankara 1959) oğlu Arı İnan tarafından gözden geçirilmiş İş Bankası baskısından (2007; 8. baskı 2009)
+  okunan Önsöz'ü (s. xvi); bu baskının dili sadeleştirildiğinden 1959 metnindeki ifadeler küçük farklılıklar
+  gösterebilir. Son 13 yılının birinci elden tanığıdır; kitapta Atatürk'ün ona Savarona'dan yazdığı 14 Haziran
+  1938 tarihli mektup yer alır. Arşiv notunun çerçevelemesi ('engineered academic') yorumdur, burada
+  sınanmamıştır. Kontrol: alıntı yalnızca editörünün (Arı İnan) dili sadeleştirdiği 2007 baskısında
+  doğrulanmıştır; 1959'daki ifadeler doğrulanmamıştır.
+verification_note: >-
+  Alıntı 2007 gözden geçirilmiş baskının s. xvi'sında birebir mevcuttur. Arı İnan'ın Sunuş yazısı, 'kitabın
+  dili'ni daha anlaşılır kılmaya çalıştığını ve köşeli parantez içinde güncel karşılıklar eklediğini belirtir.
+  Bu nedenle 1959'daki ifadeler DOĞRULANMAMIŞTIR ve farklılık gösterebilir (örn. 'devrimci' / 'inkılap'); FTS
+  2007 öncesi bir metin bulamadı. Çeviri sadık. Sıkı ölçütü geçiyor: Önsöz salt anlatı değil, kendi
+  değerlendirmesidir ('Atatürk bu devrimlerini bir ömür boyunca düşünmüş...'). Düzeltmeler: tarih '1959' →
+  '1959-05-31' (Önsöz tarihi); çekince notu Arı İnan'ın sadeleştirilmiş dil hakkındaki açıklamasına atıfta
+  bulunmalıdır. Rol alanındaki 'founding member of the Turkish Historical Society' ifadesi okunan metinde
+  görülmemektedir (kademe M). Şema uygun.
+verification_method: archive.org açık djvu metin okuması; daha eski bir baskı için archive.org FTS (bulunamadı)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7da7bc774342
+  role: b71a599f34d8
+  quote: 9188a89bea2f
+  summary: d74a5db88d51
+  caveat: e0a33c1543e6
+  verification_note: 80b5d3d03d26
+  verification_method: d57f9b083261

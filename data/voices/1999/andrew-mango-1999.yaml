@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: andrew-mango-1999
+voice: Andrew Mango
+voice_type: person
+role: Biographer; former BBC Turkish service head
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1999"
+era: posthumous
+polarity: admiring
+intensity: 3
+artifact: book
+evidence: T+J
+summary: >-
+  Wrote the standard modern English biography, cooler and deeper than Kinross yet still respectful.
+caveat: No LEDGER row found; tier taken from the note's source types (Wikipedia, obituaries).
+node: Andrew Mango
+sources:
+  - url: https://en.wikipedia.org/wiki/Andrew_Mango
+    archived: https://web.archive.org/web/20261005010709/https://en.wikipedia.org/wiki/Andrew_Mango
+  - url: https://www.hurriyetdailynews.com/opinion/ozdem-sanberk/obituary-for-andrew-mango-1926-2014-68798
+    archived: https://web.archive.org/web/20260207230407/https://www.hurriyetdailynews.com/opinion/ozdem-sanberk/obituary-for-andrew-mango-1926-2014-68798
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://www.hurriyetdailynews.com/opinion/ozdem-sanberk/obituary-for-andrew-mango-1926-2014-68798 ;
+    https://en.wikipedia.org/wiki/Andrew_Mango
+  method: fetch
+  note: >-
+    Obit: 'cooler, deeper, but still highly respectful view'. 'Standard' and 'than Kinross' are the note's
+    additions; both sources tier-weak.
+  checked_on: "2026-10-29"

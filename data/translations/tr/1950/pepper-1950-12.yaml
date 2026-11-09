@@ -1,0 +1,34 @@
+# Turkish for data/voices/1950/pepper-1950-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pepper-1950-12
+voice: Claude Pepper
+role: ABD Florida Senatörü (Demokrat), yurt dışı gezisi hakkında rapor sunarken
+quote: >-
+  Birinci Dünya Savaşı'ndan sonra Mustafa Kemal Paşa tarafından kurulan görkemli yapının üzerinde yükselmiş,
+  Batı'ya yönelmiş yeni bir Türkiye vardır.
+quote_kind: translated
+summary: >-
+  Bir gezi hakkında bilgi verirken, 'Batı'ya yönelmiş yeni Türkiye'nin Birinci Dünya Savaşı'ndan sonra Mustafa
+  Kemal Paşa'nın inşa ettiği 'görkemli yapı'ya dayandığını söyler.
+caveat: >-
+  Yunanistan, Türkiye ve İsrail üzerine uzun bir raporda tek cümlelik bir ara söz; sayfa numarası OCR üst
+  bilgilerinden alındı (tarama sütunları iç içe geçiriyor). Konuşmacı tutanak akışından okundu (Pepper,
+  Brewster ile karşılıklı konuşmada). Kaynak gösterimi: Senato, 22 Aralık 1950, Congressional Record c. 96
+  (ciltli), s. ~16974 (granül CRECB-1950-pt12-20-1). Sayfa 16992.
+verification_note: >-
+  Alıntı birebir aynı, Senato, 22 Aralık 1950 Cuma, Mr. PEPPER'ın gezisi hakkındaki raporu (konuşma 'Senators
+  will recall the famous words' paragrafında başlıyor). DÜZELTME: cümle 's. ~16974'te değil, s. 16992'dedir
+  (üst bilgi 16992). Hayran/1 yerinde.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizleme uygulandı, alıntının normalleştirilmiş eşleştirmesi
+  yapıldı; konuşmacı, tarih ve sayfa Record'un kendi başlıklarından ve üst bilgilerinden okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 252f28e121d3
+  role: c78875a8d231
+  quote: e69cf49ccd25
+  summary: 716f062616eb
+  caveat: a7ec5b7ca549
+  verification_note: bad58be7f8bc
+  verification_method: 5594abd6cdd0

@@ -1,0 +1,40 @@
+# Turkish for data/voices/1924/vahideddin-1924-03-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: vahideddin-1924-03-11
+voice: VI. Mehmed Vahideddin
+role: Son Osmanlı Padişahı, San Remo'da sürgünde; Mısır uleması başkanına mektup
+quote: >-
+  Mustafa Kemal ve hempaları Müslümanlar'ın sevgisi, Osmanlılar'ın şehameti ve Allah'ın inayetiyle Yunanlılara
+  galip geldi
+quote_kind: original-turkish
+summary: >-
+  Hilafetin kaldırılmasının ardından, Kemal ve arkadaşlarının Müslümanların sevgisiyle Yunanlılara galip
+  geldiğini, sonra da şeriata cephe aldığını söyler.
+caveat: >-
+  Mısır Ulema Birliği başkanı Sheikh Muhammad Farraj al-Minyawi'ye yazılmış (muhtemelen Arapça) bir mektubun
+  Bardakçı tarafından yapılan Türkçe çevirisi. Cümle ('(...ama)' işaretiyle) şöyle devam eder: 'fakat bunun
+  kaynağı olan şeriata derhal karşı çıktılar'. OCR'da kısmen bozulmuş olan sonraki satırlar peçenin
+  kaldırılmasını, bar ve kafelerde kadınları, Müslüman-Hristiyan evliliğine izin verilmesini, çok eşliliğin
+  kaldırılmasını, haccın 'bir bahane' haline getirilmesini ve Kemal'in 'hilafeti ve Âl-i Osman'ı
+  aşağıladığını' sıralar. Vahideddin'in kendi şikâyet listesidir; arşiv bunu onaylamaz. Alıntı: s. 377 (OCR
+  varak).
+mediated_by: Vahideddin'in 11 Mart 1924 tarihli mektubu ← Bardakçı 2006
+verification_note: >-
+  s. 377'de birebir mevcut: 'Mustafa Kemal ve hempaları Müslümanlar'ın sevgisi, Osmanlılar'ın şehameti ve
+  Allah'ın inayetiyle Yunanlılara galip geldi (...ama) bunun kaynağı olan şeriata hemen karşı çıktılar.' 11
+  Mart 1924'te San Remo'dan Mısır Ulema Birliği başkanı Şeyh Muhammed Farrac el-Minyevi'ye gönderilmiş bir
+  mektup olarak sunuluyor; ardından liste (peçenin kaldırılması, bar ve kafelerde kadınlar, karma evlilik, çok
+  eşlilik) geliyor. Bardakçı özgün dili belirtmiyor ve özgün metni vermiyor; Türkçe kendisinindir. Kanıt
+  düzeyi P değil S: doğru. Düşmanca/2 adil.
+verification_method: archive.org djvu indirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 27985884d598
+  role: 777e0713aa50
+  quote: aeb6c7a6070e
+  summary: 8be8474b17e3
+  caveat: ccef996d9a30
+  mediated_by: c629507a3ae3
+  verification_note: 52d9c1909057
+  verification_method: 0b1464308eaa

@@ -1,0 +1,35 @@
+# Turkish for data/voices/1934/nicolson-1934.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nicolson-1934
+voice: Harold Nicolson
+role: İngiliz diplomat ve yazar; Lord Curzon'un biyografi yazarı
+quote: >-
+  muazzam talihini, uzlaştırıp kazanabildiği dostluklara değil, uyandırdığı düşmanlıklara borçluydu.
+quote_kind: translated
+summary: >-
+  Mesafeli bir diplomat-tarihçinin portresi: Kemal'in kariyeri tipik bir Jön Türk kariyeridir ve şansı
+  kazandığı dostlardan değil, edindiği düşmanlıklardan gelmiştir.
+caveat: >-
+  Curzon: The Last Phase 1919-1925 (Constable, 1934), böl. IV 'Smyrna', s. 116 (sayfa numaraları DLI taraması
+  in.ernet.dli.2015.208069'un sayfa başlıklarından alınmıştır; diğer DLI taraması 190097'de bu satırın OCR'ı
+  bozuktur). Bunu, bir 'detailed estimate' sunmanın 'beyond the range of this study' olduğunu söyleyen bir
+  diplomat-tarihçi olarak yazar. S. 352'de Poincare'yi 'an adversary more potent and more skilled than any
+  Ismet, than any Mustapha Kemal' olarak nitelendirir (OCR'da 'Msutapha' olarak geçer).
+verification_note: >-
+  Alıntı s. 116'da satır sonu tirelemesi ('friend- ships') üzerinden birebir mevcut (cümlenin öncesinde
+  'SMYRNA 116' sayfa başlığı yer alır); 'beyond the range of this study to give any detailed estimate' ve 'His
+  biography is typically Young Turk' ifadeleri doğrulandı. what_they_saw alanındaki 'deflates the legend'
+  ifadesi ve 'çelişkili' ('conflicted') kutupluluğu taramanın kendi yorumudur (metin mesafeli, hafifçe büyüyü
+  bozan bir biyografik taslaktır; 'legend' kelimesi metinde geçmez). Kutupluluğu 'tanık'/nötr olarak
+  değiştirmeyi veya ifadeyi yumuşatmayı düşünün.
+verification_method: djvu metnini curl ile çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 46777fe6b3f8
+  role: 297f9b5177df
+  quote: 4bf09132e16d
+  summary: 7b3d7c22863c
+  caveat: 14226a356d72
+  verification_note: f9df8a46e5e4
+  verification_method: bac8b144a275

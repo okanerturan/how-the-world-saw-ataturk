@@ -1,0 +1,30 @@
+# Turkish for data/voices/1919/karabekir-istiklal-1919.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: karabekir-istiklal-1919
+voice: Kâzım Karabekir
+role: XV. Kolordu Komutanı, Erzurum
+quote: Mustafa Kemal Paşa kongreye yalnız murahhas değil, reis dahi yapılmalıdır.
+quote_kind: original-turkish
+summary: >-
+  Hatıratında, Temmuz 1919'da Erzurum delegelerine Kemal'i başkan olarak kabul ettirdiğini söylerken, ona
+  yönelik kişisel ihtiras suçlamasını da tekrarlar.
+caveat: >-
+  Kaynak: Karabekir, İstiklal Harbimiz, c. 1 (İstanbul: YKY, haz. Ziver Öktem, 2008), s. 80-81. Daha sonraki
+  geriye dönük bir anlatıda yeniden kurgulanmıştır (1919 tarihli bir belge değildir); s. 81'de ayrıca
+  Erzurum'daki muhaliflerin, Kemal'in üniformasını 'ihtiras' yüzünden ('ihtirasına delilmiş') çıkarmadığını
+  söyledikleri aktarılır.
+verification_note: >-
+  Alıntı s. 81'de Karabekir'in delegelere söylediği kendi sözleri olarak birebir yer alıyor; 'ihtirasına
+  delilmiş' ifadesi kendisine ait değil, Erzurum'daki muhaliflerin AKTARILAN suçlamasıdır; what_they_saw
+  alanındaki 'repeating the charge' ifadesi onun tutumunu biraz abartmaktadır (suçlamayı aktarmaktadır).
+verification_method: DjVu OCR metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b591037e33b7
+  role: b12414d4c969
+  quote: 93c7ee655c37
+  summary: be741dc812de
+  caveat: dd9295ba6614
+  verification_note: 268b891ba130
+  verification_method: 8f3db4510e6b

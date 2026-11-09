@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bertrand-bareilles-1923
+voice: Bertrand Bareilles
+voice_type: person
+role: French author
+country: France
+country_now: France
+domain: letters
+date: "1923"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Mocked the Angora constitution as Levantine acrobatics and Kemal as having confiscated all powers, yet cast
+  him as Islam's modern Saladin-type standard-bearer.
+quote:
+  text: Mustapha Kemal a confisqué tous les pouvoirs qu'il a partagés avec ses lieutenants
+  language: fr
+caveat: >-
+  Read as Gallica ContentSearch fragments (view numbers 193, 196, 198), not the whole book; polarity is
+  hostile-leaning, arguably conflicted.
+node: Bertrand Bareilles
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k9734946p
+    archived: https://web.archive.org/web/20240624204448/https://gallica.bnf.fr/ark:/12148/bpt6k9734946p
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Gallica ContentSearch bpt6k9734946p PAG_196 (quote), acrobatie levantine, Salaheddine/porte-drapeaux de
+    l'Islam; title page: Le drame oriental d'Athenes a Angora, Bossard 1923
+  method: fetch
+  checked_on: "2026-10-29"

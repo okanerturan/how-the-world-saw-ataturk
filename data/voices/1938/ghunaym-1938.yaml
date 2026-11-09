@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ghunaym-1938
+voice: Mahmud Ghunaym
+voice_type: person
+role: Egyptian poet and essayist (signs 'Kom Hamada')
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1938-11-21"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: poem
+evidence: S
+summary: >-
+  Elegy: Kemal 'died on his bed like Ibn al-Walid', reviver of a dead nation above Mussolini and Hitler,
+  though the caliphate troubles him.
+quote:
+  text: ما مات فرد وورى بل هوى ... من أفقه فلك من الأفلاك
+  language: ar
+caveat: >-
+  TRANSLATION (this record's): 'It was no mere man who died and was buried: a sphere fell from its horizon
+  among the spheres.' The essay-elegy 'Atatürk' (three verses, then prose) in al-Risala no. 281, 21 Nov 1938;
+  Arabic from the Wikisource transcription of the issue, page not given there. Prose, verbatim: 'Mustafa died
+  the death of Ibn al-Walid on his bed' (مات مصطفى ميتة ابن الوليد على فراشه). Admiring with reservations: he
+  asks whether the Caliphate's end was an act of heresy or of surgery and leaves it to history, calls the
+  Latin alphabet and hat 'imposed' and the regime a dictatorship he leans to approve while fearing for Turkey
+  after him. Not the same issue or author as the al-Zayyat editorial of 14 Nov 1938, which is already in the
+  dataset. Right after the caliphate question he acquits 'the translator of the Quran' of atheism.
+node: Four Poems on Atatürk — Melbourne, Damascus, Cairo and Hyderabad, 1933–1939
+sources:
+  - url: https://ar.wikisource.org/wiki/مجلة_الرسالة/العدد_281/أتاتورك
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Arabic Wikisource, majallat al-Risala, issue 281, 'Atatürk' by Mahmud Ghunaym (action=raw)
+  method: fresh fetch of the raw wikitext via the Wikisource API; read the whole piece
+  note: >-
+    Verse verbatim ('ما مات فرد وورى بل هوى ... من أفقه فلك من الأفلاك'); header 21-11-1938, author 'محمود
+    غنيم', signed (كوم حماده). Prose quote 'مات مصطفى ميتة ابن الوليد على فراشه' present. Mussolini/Hitler
+    comparison (reviving the dead vs the living), the 'heresy or surgery?' caliphate question left to history,
+    imposed Latin alphabet and hat, and 'I lean toward dictatorship ... fear for Turkey without a successor'
+    all present. One omission worth adding to the caveat: right after the caliphate question he writes that he
+    'acquits of atheism the translator of the Quran'. Era funeral correct (21 Nov 1938). Page not given on
+    Wikisource (transcription, scan not viewed). Schema OK.
+  checked_on: "2026-11-03"

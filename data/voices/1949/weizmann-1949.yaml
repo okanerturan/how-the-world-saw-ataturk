@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: weizmann-1949
+voice: Chaim Weizmann
+voice_type: person
+role: Zionist leader, first President of Israel; memoir of his Nov 1938 Turkey visit
+country: Britain/Palestine (memoir 1949)
+country_now: Israel
+domain: politics
+date: "1949"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: memoir
+evidence: P
+summary: >-
+  Recalls Atatürk sending officials to Palestine to see if Zionist methods could revive Turkey, and why he
+  sought Turkish mediation with the Arabs in 1938.
+quote:
+  text: >-
+    Ataturk had sent a number of Government representatives to Palestine to see whether our methods could not
+    be applied to the revival of Turkey.
+  language: en
+caveat: >-
+  Written in 1949 about events up to 1938, so era is posthumous although the claim is about Atatürk's
+  lifetime. Weizmann reports Atatürk's act and Turkey's 'progressive record'; he states no personal verdict on
+  Atatürk and his purpose is to explain why Turkish mediation with the Arabs seemed worth trying. The sentence
+  runs over the page break 459/460 ('Kemal' ends p. 459). Text read from the open Digital Library of India
+  scan (OCR). No mention of Atatürk's death (he reached Istanbul on 27 Nov 1938).
+node: Postwar and Third World Leaders on Atatürk in Their Own Words
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.475020
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Weizmann, Trial and Error (1949), archive.org in.ernet.dli.2015.475020 djvu.txt, pp. 459-460
+  method: curl of archive.org djvu text; read around the page break
+  note: >-
+    Verbatim across the break: p. 459 '... arid Kemal' / p. 460 'Ataturk had sent a number of Government
+    representatives to Palestine to see whether our methods could not be applied to the revival of Turkey.'
+    (OCR 'arid' = 'and'). Context confirms the 1938 Turkish-mediation purpose, 'Its progressive record'
+    phrase, arrival in Istanbul 27 Nov 1938, and that Weizmann states no personal verdict. Index lists 'Kemal
+    Ataturk, Mustapha, 459-60'. Instrumental polarity fair. No correction.
+  checked_on: "2026-11-01"

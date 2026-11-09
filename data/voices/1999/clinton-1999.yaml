@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: clinton-1999
+voice: Bill Clinton
+voice_type: person
+role: President of the United States
+country: United States
+country_now: United States
+domain: politics
+date: "1999-11-15"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Recalls Atatürk as the republic's great founder who captured American imagination and says everyone in the
+  chamber is there thanks to him.
+quote:
+  text: >-
+    In a sense, we are all here today because of Kemal Ataturk. Not only because he chose Ankara to be the
+    capital, not only because he chose Ankara to be your capital, but because he pledged Turkey's future to
+    the democracy symbolized by this proud assembly.
+  language: en
+caveat: >-
+  Original-language text
+  (https://www.presidency.ucsb.edu/documents/remarks-the-turkish-grand-national-assembly-ankara); the TBMM
+  minutes (Tarihe Düşülen Notlar-2, 2012) print a Turkish version: "Bugün, hepimiz, Mustafa Kemal Atatürk’ün
+  sayesinde buradayız.". TBMM book PDF p. 143 (printed p. 132).
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://www.presidency.ucsb.edu/documents/remarks-the-turkish-grand-national-assembly-ankara
+    archived: https://web.archive.org/web/20251012020300/https://www.presidency.ucsb.edu/documents/remarks-the-turkish-grand-national-assembly-ankara
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 143 (printed p. 132); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c143.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Amerika Birleşik Devletleri Başkanı
+    William Jefferson Clinton, 19. Birleşim, 15 Kasım 1999 (heading on PDF p. 142)'). Paraphrase items checked
+    on p. 142-143. Delivered in English. ORIGINAL: 'In a sense, we are all here today because of Kemal
+    Ataturk. Not only because he chose Ankara to be the capital, not only because he chose Ankara to be your
+    capital, but because he pledged Turkey's future to the democracy symbolized by this proud assembly.'
+    (American Presidency Project / Clinton White House archive / Public Papers 1999 II p. 2093). Differences
+    from the minutes: the Turkish drops the hedge 'In a sense' and adds 'Mustafa'; the original also continues
+    'Ironically, he accomplished much of what he did with no help from the Western powers, indeed, against the
+    opposition of most of them.' Also original: 'the great founder of the Turkish Republic, Kemal Ataturk,
+    captured America's imagination with his bold reforms. He was called a second George Washington.' Not
+    materially different, but store the English.
+  checked_on: "2026-11-01"

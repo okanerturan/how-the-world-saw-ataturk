@@ -1,0 +1,36 @@
+# Turkish for data/voices/1943/rodney-adamson-1943-07-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rodney-adamson-1943-07-01
+voice: Rodney Adamson
+role: Kanada Avam Kamarası York West İlerici Muhafazakâr Milletvekili
+quote: >-
+  Her bakımdan mutlak bir diktatördü; Almanya ve İtalya'nın diktatörleri kadar diktatördü. Ancak kadınların
+  özgürleşmesi konusunda onlardan farklı bir fikre sahipti.
+quote_kind: translated
+summary: >-
+  Hitler ve Mussolini gibi mutlak bir diktatör, ancak onların aksine Türkiye'yi ilerleyen ve barışçıl bir ülke
+  haline getiren bir kadın özgürleştiricisi.
+caveat: >-
+  House of Commons Debates, 19. Parlamento, 4. Oturum, 1 Temmuz 1943, s. 4245 (War Appropriation—Labour, savaş
+  dönemi gündüz bakımevleri üzerine); 4 Kasım 2026'da ana etmen tarafından Canadiana'daki sayfa görüntüsünden
+  (oop.debates_HOC1904_04, görüntü 1129) okundu. Şöyle devam eder: 'He did not believe that woman's part was
+  kirchen, kuchen, kindern, as Hitler did, and to-day we find as a consequence that Turkey is an advancing,
+  go-ahead country that is capable of living at peace with its neighbours.' Konuşmacı LiPaD tarafından 'Mr.
+  ADAMSON' olarak tanımlanmıştır (konuşma s. 4244'ten devam etmektedir). Okan tarafından sağlanan LiPaD arama
+  sonuçları aracılığıyla bulundu (LiPaD etkileşimli bir Cloudflare doğrulamasının arkasında yer alıyor). Diğer
+  LiPaD sonuçları (Stockwell Day 2004, Nicholls 2013, Assadourian 2001, Reed 1999, Genuis 2015) Atatürk
+  hakkında bir görüş belirtmemektedir.
+verification_note: Alıntı birebir aynı; konuşma s. 4244'ten devam etmektedir.
+verification_method: >-
+  sayfa görüntüsü ana etmen tarafından okundu; konuşmacı LiPaD üstbilgisinden alındı; bağımsız bir denetleyici
+  değil
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a4c0e87e16d9
+  role: 12f959e3a41a
+  quote: 686f2b57251a
+  summary: b10d531de6d6
+  caveat: 43b52926db6d
+  verification_note: d5664133c522
+  verification_method: c3e8fb10fefb

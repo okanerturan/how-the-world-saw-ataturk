@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: yugoslav-senate-1938
+voice: Yugoslav Senate (President Dr Mažuranić)
+voice_type: institution
+role: Senate of the Kingdom of Yugoslavia
+country: Yugoslavia
+country_now: Serbia
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: telegram
+evidence: P
+summary: >-
+  Mourned the great statesman and father of the fatherland; Yugoslavia will never forget its sincere and
+  faithful friend.
+quote:
+  text: grand homme d'état et père de la patrie
+  language: fr
+caveat: >-
+  TBMM vol. 2 (c2) PDF p. 11. Quote in French; translation: 'the great statesman and father of the
+  fatherland'. Signature printed 'dr zlimir mazuranic'; identity of the Senate president not independently
+  checked.
+node: Heads of State Write to the Assembly, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Taziyetname 1938, c2.pdf p. 11
+  method: >-
+    Own render of the PDF page (PDFKit PNG, read by eye); no OCR relied on; telegraph text is unaccented
+    capitals/lowercase typescript
+  note: >-
+    'du grand homme d etat et pere de la patrie'; 'oubliera jamais son ami sincere et fidele'. Signature typed
+    'dr zlimir mazuranic president du senat du royaume de yougoslavie'. Accents restored. Identity of the
+    Senate president is only as printed on the sheet, still not independently checked.
+  checked_on: "2026-11-01"

@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abe-yoshishige-1941
+voice: Abe Yoshishige
+voice_type: person
+role: Philosopher and essayist, later Education Minister
+country: Japan
+country_now: Japan
+domain: letters
+date: "1941"
+era: posthumous
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Concedes dictator Kemal really revived Turkey, called 'Father of the Turks', but fears for Turkey after him:
+  one man's rise is brief.
+quote:
+  text: >-
+    近時のトルコが獨裁者ケマルによつて生氣を得たのは事實であり、彼は實に「トルコの父」とさへ呼ばれて居る。併し彼なき後のトルコの將來が憂慮せられるのは、一國が一人によつて興るのは一時のことであり、
+  language: ja
+caveat: >-
+  Jidai to bunka (1941), essay 'Shakai to kojin', printed p. 63, NDL image 37 (page image read). Written in
+  the present tense about the dictators of the day (essay probably earlier than 1941); the republication in
+  1949 repeats the lines. Not a funeral-era text. Check: 1941 is the publication date; the preface dates the
+  essays 1935–40, and the present tense ('彼なき後') reads as written while Kemal lived, so the era may be
+  contemporary.
+node: Japanese Writers and Activists on Kemal, 1922–1947 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1882546
+    archived: https://web.archive.org/web/20240519173951/https://dl.ndl.go.jp/pid/1882546
+  - url: https://dl.ndl.go.jp/pid/1158825
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    NDL pid 1882546 (Jidai to bunka, Iwanami, 1941-03, author Abe Yoshishige [Yoshishige]), image 37
+  method: >-
+    downloaded IIIF page image and READ the Japanese on it; checked NDL item metadata for author/title/year
+  note: >-
+    Quote verbatim on printed p.63 (left page; ends mid-sentence at comma, but the next clause completes the
+    thought: such a one-man revival is brief). Translation faithful. DATE/ERA PROBLEM: the preface (image 4)
+    says the essays were written 'roughly 昭和十年から十五年' (1935-40) and gives dates only for two other essays; this
+    one is undated. The text speaks of Kemal in the present tense ('呼ばれて居る', worry about Turkey 彼なき後, i.e. a
+    future without him), which reads as written while he lived. So date 1941 is only the book date and era
+    'posthumous' is not supported; best statement is 1935-1940, era unresolved (probably contemporary). Gaze
+    test passes (own view of Kemal, conflicted).
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (round 29)
+  checked_on: "2026-11-05"

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: latvijas-kareivis-1938
+voice: Latvijas Kareivis
+voice_type: press
+role: Latvian army paper
+country: Latvia
+country_now: Latvia
+domain: press
+date: "1938-11"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: article
+evidence: S
+summary: Ran his picture with long articles.
+mediated_by: >-
+  Toksoy 2006 ← Akşam and Kurun 16 Nov, Ulus 15 Nov, Cumhuriyet 15–16 Nov, Tan 16 Nov 1938, Ayın Tarihi
+caveat: >-
+  Paper titles in Toksoy are phonetic; foreign originals not seen; summarised by Turkish digests.
+node: Riga, Tallinn and Kaunas, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: confirmed
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt (Latvia: army paper Latvijas Korelvisletu, photo and
+    long articles)
+  method: local
+  note: Name garbled in Toksoy; identification as Latvijas Kareivis (army paper) is the note's.
+  checked_on: "2026-10-29"

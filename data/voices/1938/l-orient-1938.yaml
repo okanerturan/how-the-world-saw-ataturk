@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: l-orient-1938
+voice: L'Orient
+voice_type: press
+role: Beirut daily
+country: Lebanon (French Mandate)
+country_now: Lebanon
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: article
+evidence: S
+summary: Called Atatürk the miracle of humanity.
+quote:
+  text: Atatürk is the miracle of humanity
+  language: en
+mediated_by: >-
+  Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)
+caveat: >-
+  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural.
+node: Damascus and Beirut Weep, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt sec. Suriye ve Lubnan Basini ('Loryan' gazetesi 'Ataturk
+    Insanligin Mucizesidir', fn.98)
+  method: local
+  note: "'Loryan' = L'Orient is the note's identification; translated."
+  checked_on: "2026-10-29"

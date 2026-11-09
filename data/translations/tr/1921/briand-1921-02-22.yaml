@@ -1,0 +1,37 @@
+# Turkish for data/voices/1921/briand-1921-02-22.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: briand-1921-02-22
+voice: Aristide Briand
+role: Fransa Başbakanı ve Dışişleri Bakanı, Londra Konferansı'nda
+quote: >-
+  Mustafa Kemal, Fransızlara karşı usulünce kabul görmüş biçimde savaş yürüten açık bir düşmandı.
+quote_kind: translated
+summary: >-
+  Faysal ile masaya oturmayı reddederken, Mustafa Kemal'i Fransa'ya karşı kabul görmüş usullerle savaşan açık
+  bir düşman, bir araya gelebileceği onurlu bir düşman olarak nitelendirir.
+caveat: >-
+  Briand'ın kendi metni değil, İngiliz tutanaklarındaki dolaylı aktarımdır. Lloyd George'un Faysal'ın Kemal
+  kadar Fransız kanı dökmediği yönündeki sözüne yanıt olarak söylenmiştir; sonraki cümlelerde Briand'ın 'quite
+  ready to meet and discuss matters with honourable enemies' olduğu belirtilir. Tarama: archive.org
+  ingiliz-belgelerinde-ataturk kaydı, dosya #3 (djvu metni).
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk c. III (TTK 1973) No. 68, s. 176 ← British Secretary's Notes of an
+  Allied Conference, 10 Downing Street, 22 Şubat 1921, 11.00 (DBFP 1. seri c. XV s. 160–165 No. 18)
+verification_note: >-
+  s. 176'da birebir yer alır; Lloyd George'un Faysal'ın Mustafa Kemal kadar Fransız kanı dökmediği yönündeki
+  sözüne yanıt olarak söylenmiştir. Bir sonraki cümle ('quite ready to meet and discuss matters with
+  honourable enemies, but he could not contemplate meeting a traitor like Feisal'), 'honourable enemy' dolaylı
+  aktarımını destekler. Belge no., tarih ve yer eşleşmektedir. Bakış testi: geçer (bir hükümet başkanının
+  açıkça belirttiği görüş). Çelişkili ve chivalrous-enemy etiketleri uygundur.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 66de19a51b1f
+  role: 3acfdc20b70e
+  quote: a82ca693cabd
+  summary: 5ac5707c7439
+  caveat: 1fb88c6f1271
+  mediated_by: e14bd8879c5f
+  verification_note: 86b4c9f90f44
+  verification_method: b152e9063489

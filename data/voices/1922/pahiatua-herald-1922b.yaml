@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pahiatua-herald-1922b
+voice: Pahiatua Herald
+voice_type: press
+role: Wairarapa-region evening paper, leader
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1922-09-30"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Called the Turkish leader obstinate and warned that the Allies would not tolerate further Kemalist
+  dictation, though he might disavow rash Turkish acts.
+quote:
+  text: >-
+    The Turkish leader is showing much obstinancy in endeavouring to impose conditions antecedent to the
+    meeting for a final settlement.
+  language: en
+node: New Zealand Editors on Kemal, September 1922 – 1923
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/PAHH19220930.2.11
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Papers Past PAHH19220930.2.11
+  method: fetch
+  checked_on: "2026-10-29"

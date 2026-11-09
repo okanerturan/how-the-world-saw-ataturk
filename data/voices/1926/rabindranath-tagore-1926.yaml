@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rabindranath-tagore-1926
+voice: Rabindranath Tagore
+voice_type: person
+role: Poet, Nobel laureate
+country: British India
+country_now: India
+domain: letters
+date: "1926-11"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: quote
+evidence: S+J
+summary: >-
+  In Istanbul he told the press the Turkish president showed the way to civilization, and held the revolution
+  in high regard for the Eastern world.
+quote:
+  text: showed us the way to civilization
+  language: en
+mediated_by: Özveren in Jassal & Turan ← Cumhuriyet 23 Nov 1926; Rozana Hamdard Dec 1926
+caveat: They never met; the only contact was the 1926 stopover.
+node: Rabindranath Tagore
+sources:
+  - url: https://dailysabah.com/arts/portrait/when-rabindranath-tagore-first-visited-istanbul
+    archived: https://web.archive.org/web/20260807174504/https://dailysabah.com/arts/portrait/when-rabindranath-tagore-first-visited-istanbul
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    dailysabah.com Aug 2026 citing Özveren: "The President of Türkiye showed us the way to civilization..."
+    (Cumhuriyet 23 Nov 1926) and Rozana Hamdard 22 Nov 1926 "hold the Turkish Revolution in high regard ...
+    Eastern world"
+  method: fetch
+  note: >-
+    Journalistic secondary; quote is back-translation Turkish->English; "they never met" not checked.
+  checked_on: "2026-10-29"

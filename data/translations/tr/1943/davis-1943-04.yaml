@@ -1,0 +1,38 @@
+# Turkish for data/voices/1943/davis-1943-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: davis-1943-04
+voice: James J. Davis
+role: ABD Senatörü (Pennsylvania)
+quote: >-
+  Yirmi dört yıl önce bugün, Türkiye'nin hemen her yerinden temsilciler merhum büyük Türk lideri Kemal
+  Atatürk'ün daveti üzerine Ankara'ya geldiler ve yeni bir Türkiye'nin temellerini attılar
+quote_kind: translated
+summary: >-
+  Türkiye Büyük Millet Meclisi'nin 24. yıl dönümünü anar: Atatürk'ün liderliği, faşist rozetler ya da kitle
+  histerisi olmaksızın 'gerçek bir toplumsal devrim' gerçekleştirmiştir.
+caveat: >-
+  Başlık 'Twenty-fourth anniversary of foundation of the Turkish National Assembly'; aynı konuşma Wendell
+  Willkie'nin Türkiye üzerine *One World* adlı eserinden alıntı yapar (dahil edilmedi). Senatörün eyaleti
+  pasajdan değil, standart kayıttan alınmıştır (1943'te görev yapan tek bir Senatör Davis vardı). Kaynak
+  gösterimi: Senato, 22 Nisan 1943, Congressional Record c. 89 (ciltli), s. ~3693 (granül
+  CRECB-1943-pt3-15-1).
+verification_note: >-
+  Alıntı birebir aynı, Senato, 22 Nisan 1943 Perşembe, Mr. DAVIS, 'Twenty-fourth anniversary of foundation of
+  the Turkish National Assembly' başlığı altında, s. 3693 ('veritable social revolution ... without Fascist
+  badges' cümlesi s. 3694'e taşıyor). Kayıtlı alıntı yalnızca kuruluş cümlesini içeriyor, ancak what_they_saw
+  aynı konuşmanın sonraki satırlarıyla destekleniyor; 'effected a veritable social revolution' kısmından bir
+  alıntı daha iyi örtüşürdü. Konuşmacının Pennsylvania'dan James J. Davis olduğu bilgisi sayfadan değil,
+  standart kayıttandır.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizleme uygulandı, alıntının normalleştirilmiş eşleştirmesi
+  yapıldı; konuşmacı, tarih ve sayfa Record'un kendi başlıklarından ve üst bilgilerinden okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6e275b6ba8aa
+  role: c3a6449ceb52
+  quote: cc36f99a0b5f
+  summary: 06cf02b9718c
+  caveat: 9b1825b07a45
+  verification_note: 1779ea4f899c
+  verification_method: 5594abd6cdd0

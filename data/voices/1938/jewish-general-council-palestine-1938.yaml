@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jewish-general-council-palestine-1938
+voice: Jewish General Council of Palestine
+voice_type: institution
+role: Jewish community body, chairman Isaac Ben-Zvi
+country: Palestine
+country_now: Israel
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Called him the great founder and regenerator of new Turkey.
+quote:
+  text: great founder, regenerator of new Turkey
+  language: en
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    a local working file telegram London (Jewish General Council of Palestine, Isaac Ben-Zvi): "ataturk great
+    founder regenerator new turkey"
+  method: local
+  note: Telegraph date header OCR unclear ("31.10"); November date taken from event.
+  checked_on: "2026-10-29"

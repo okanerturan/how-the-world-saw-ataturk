@@ -1,0 +1,23 @@
+# Turkish for data/voices/1921/stoddard-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: stoddard-1921
+voice: Lothrop Stoddard
+role: Amerikalı yazar, The New World of Islam
+quote: belirgin askeri yeteneğe sahip genç bir subay, Mustafa Kemal Paşa
+quote_kind: translated
+summary: >-
+  Kemal'i takdire değer bir ordu kuran, İtilaf Devletleri'ne meydan okuyan ve Batı denetimine karşı Arap ve
+  Bolşevik desteğini çeken yetenekli bir subay olarak tasvir eder.
+caveat: >-
+  Yazarın pan-İslamcı ve ırksal yeniden diriliş tezi çerçevesinde sunulmuştur (bkz. Rising Tide of Color);
+  kutupluluk arşivin üslup okumasıdır. Sayfa 228-233, 336-337.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 27779c9a149c
+  role: 85b5c9c88c8a
+  quote: 49fbd34c6194
+  summary: eafc474bd7cb
+  caveat: 84a9781832dd
+  verification_method: ad8cee67138e

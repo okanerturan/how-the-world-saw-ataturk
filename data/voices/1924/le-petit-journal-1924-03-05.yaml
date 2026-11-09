@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-petit-journal-1924-03-05
+voice: Le Petit Journal
+voice_type: press
+role: Paris popular daily
+country: France
+country_now: France
+domain: press
+date: "1924-03-05"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Explained Kemal's reasoning on the caliphate as simple, and noted he and the Assembly had not dared to
+  overturn it earlier.
+quote:
+  text: Le raisonnement de Mustapha Kemal pacha et de ses partisans est des plus simples
+  language: fr
+caveat: >-
+  View 1. Second clause ('n'avaient pas osé bou[le]verser') is cut by OCR; no judgment of Kemal shown. Gallica
+  ContentSearch fragment, OCR copied as given; view number is Gallica's, not necessarily the printed page.
+node: Paris Dailies and the Abolition of the Caliphate, March 1924
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k628753x
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica ContentSearch ark bpt6k628753x (PAG_1)
+  method: ms fetch ContentSearch
+  note: >-
+    Quote verbatim; second clause fragment ('n'avaient pas osé bouleverser') present with OCR break; 'earlier'
+    not visible in fragment. Date not confirmed.
+  checked_on: "2026-10-30"

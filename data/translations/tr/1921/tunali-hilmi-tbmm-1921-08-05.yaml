@@ -1,0 +1,29 @@
+# Turkish for data/voices/1921/tunali-hilmi-tbmm-1921-08-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tunali-hilmi-tbmm-1921-08-05
+voice: Tunalı Hilmi (Bolu)
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Bolu milletvekili
+quote: >-
+  Meclis namına Reis Paşa’nın, Başkumandan Paşa’nın alnından öperek ne tabirler varsa hepsini
+quote_kind: original-turkish
+summary: >-
+  Başkumandanlık kanunu hakkındaki gizli celsede, Meclis adına Paşa'nın alnından öpeceğini ve her türlü övgüyü
+  yetersiz bulacağını söyledi.
+caveat: >-
+  Alıntılanan ibare s. 192'dedir ve sayfa sonu ile editör dipnotunda cümle ortasında kesilir; s. 193'te 'az
+  görürüm' ('yetersiz bulurum') diye devam eder. Aynı konuşma Paşa'yı 'Meclis'in yetkisine tecavüz etmeye' de
+  çağırır; bu ifade edisyonda 'ey Paşa sen Meclisin salahiyetine tecavüz et' şeklinde aktarılmıştır.
+verification_note: >-
+  Birebir aynı; ibare s. 192'nin sonunda sayfa geçişinde kesiliyor, belirtildiği gibi s. 193 'az görürüm' ile
+  başlıyor. Övgüyü yetersiz bulma okuması destekleniyor.
+verification_method: Arşivlenmiş edisyon PDF'sinin pdftotext çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 40e9ad23b11d
+  role: b0536efffe82
+  quote: d764c5bc0f5f
+  summary: 1012b63fd31c
+  caveat: fa284a25f370
+  verification_note: 60333f4e7d71
+  verification_method: 7b462ab399e7

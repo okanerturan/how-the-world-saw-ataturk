@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: poppe-1992-01-23
+voice: Gerd Poppe
+voice_type: person
+role: Bündnis 90/Die Grünen member of the Bundestag
+country: Germany
+country_now: Germany
+domain: politics
+date: "1992-01-23"
+era: posthumous
+polarity: conflicted
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Names the Kemalist dogma of one nation in one state as a founding birth defect of modern Turkey, behind the
+  Kurdish conflict.
+quote:
+  text: >-
+    Der Dauerkonflikt mit der kurdischen Minderheit ist der deutlichste Ausdruck für einen der schwersten
+    Geburtsfehler der modernen Türkei: das kemalistische Dogma, die Fiktion von einer Nation in einem Staat.
+  translation: >-
+    The permanent conflict with the Kurdish minority is the clearest expression of one of the gravest birth
+    defects of modern Turkey: the Kemalist dogma, the fiction of one nation in one state.
+  language: de
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
+  documentation page; printed page checked in the dserver PDF. Sensitive thread (Kurdish question): the vault
+  records the speaker's framing, not its own. Poppe adds that the 'so-called Father of the Turks, Kemal
+  Atatürk' saw this as the only chance to prevent the further break-up of the multi-ethnic state (his words,
+  same page range). The target is the 'Kemalist dogma' and Atatürk by name; polarity conflicted. Cited as
+  Deutscher Bundestag, Plenarprotokoll 12/73, session of 1992-01-23, S. 6171.
+node: German Parliaments on Atatürk — Hitler's Reichstag 1941 and the Bundestag 1983–2025
+sources:
+  - url: https://dserver.bundestag.de/btp/12/12073.pdf
+    archived: https://web.archive.org/web/20260417000116/https://dserver.bundestag.de/btp/12/12073.pdf
+  - url: https://dip.bundestag.de/
+    archived: https://web.archive.org/web/20261020200949/https://dip.bundestag.de/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Bundestag plenary-protocol PDF 12/12073.pdf (WP12 sitting 73) from dserver.bundestag.de, fetched fresh
+  method: >-
+    downloaded the dserver PDF, pdftotext, whitespace/hyphenation-normalised match of the quote, speaker
+    header and running-head page number read from the printed protocol; German read against the stored
+    translation
+  note: >-
+    Verbatim on printed p. 6171 under 'Gerd Poppe (Buendnis 90/GRUENE)', whose speech starts p. 6170.
+    Translation faithful ('Geburtsfehler' = birth defect). The 'so-called Father of the Turks' clause is in
+    his words as the caveat says. Framing is neutral: record keeps it as the speaker's view and the target is
+    the 'Kemalist dogma'. Polarity conflicted is fair since he also says Ataturk saw it as the only way to
+    stop the multi-ethnic state breaking up.
+  checked_on: "2026-11-03"

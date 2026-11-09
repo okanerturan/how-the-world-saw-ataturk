@@ -1,0 +1,36 @@
+# Turkish for data/voices/2023/blinken-2023-02-20-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: blinken-2023-02-20-book
+voice: Antony Blinken
+role: ABD Dışişleri Bakanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Türk ulusu ve Büyük Önder Mustafa Kemal Atatürk'e saygılarımı sunmaktan büyük bir onur duyuyorum.
+quote_kind: original-turkish
+summary: >-
+  Türk ulusuna ve Atatürk'e saygılarını sunmaktan onur duyar; yazı ağırlıklı olarak deprem dayanışması ve
+  halklar arasındaki bağ hakkındadır.
+caveat: >-
+  İngilizce yazılmış bir metnin Türkçe çevirisi. Kahramanmaraş depremlerinden iki hafta sonra yazılmıştır;
+  yazının geri kalanı halklar arasındaki bağdan ('since the birth of the Republic') söz eder. TGRT Haber ve
+  Şehitler Ölmez metni yayımlar; ikisinin de tek bir ajans haberini tekrarlayıp tekrarlamadığı kontrol
+  edilmedi. Atatürk hakkında bir değerlendirme içermeyen nezaket cümlesidir.
+mediated_by: TGRT Haber ve Şehitler Ölmez, 20 Şubat 2023 (kaydın Türkçe çevirisi)
+verification_note: >-
+  Alıntı, dört cümlelik bir yazının birebir ilk cümlesidir; tarih doğrudur. İki yayın organı da aynı metni
+  yayımlamaktadır ve Şehitler Ölmez kaynak olarak T24'ü göstermektedir, dolayısıyla birbirinden bağımsız
+  değillerdir. Özgün İngilizce metin bulunamadı. Atlanan cümlelerde 'strategic partner and NATO ally' ifadesi
+  ve deprem acısı yer alır; kayıt özeti yerindedir. Araçsal/1 yerindedir.
+verification_method: >-
+  Atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 47de41813587
+  role: 8472cad9609a
+  quote: 0f8935010ace
+  summary: eb1bdd22123b
+  caveat: 8e0e350bff23
+  mediated_by: ab1f385ba3b8
+  verification_note: 505b9db454f5
+  verification_method: 8505ab605bfa

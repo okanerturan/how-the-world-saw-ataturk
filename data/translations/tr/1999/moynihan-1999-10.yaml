@@ -1,0 +1,35 @@
+# Turkish for data/voices/1999/moynihan-1999-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: moynihan-1999-10
+voice: Daniel Patrick Moynihan
+role: ABD New York Senatörü (Demokrat)
+quote: >-
+  Türkiye, efsanevi Mustafa Kemal "Atatürk"ün çökmüş 600 yıllık Osmanlı İmparatorluğu'nun küllerinden Batı
+  yönelimli, laik bir devlet inşa ettiği 1923 yılından bu yana Doğu ile Batı'nın kavşağında eşsiz bir rol
+  oynamıştır.
+quote_kind: translated
+summary: >-
+  Türkiye serbest ticaret yasa tasarısını Atatürk'ü 'efsanevi' diye niteleyerek açar: Osmanlı
+  İmparatorluğu'nun yıkıntılarından Batı yönelimli, laik bir devlet inşa etmiştir.
+caveat: >-
+  Bir ticaret yasa tasarısının giriş çerçevelemesi (tasarının amacı Türkiye ile bir serbest ticaret anlaşması
+  üzerine görüşmeleri başlatmaktı); dolayısıyla övgü, tasarı için gerekçe zemini oluşturur. Kaynak gösterimi:
+  Senato, 18 Ekim 1999, S. 1746'nın (U.S.-Turkey Free Trade Agreement Act of 1999) sunuşu, Congressional
+  Record c. 145, sayı 141, s. S12786 (granül CREC-1999-10-18-pt1-PgS12786).
+verification_note: >-
+  S. 1746'yı sunan Moynihan'ın açılış konuşmasında birebir aynı, Senato, 18 Ekim 1999 Pazartesi, s. S12786
+  (S12787 işareti daha sonra geliyor). Konuşmacı 'Mr. MOYNIHAN'. Ticaret yasa tasarısı bağlamıyla birlikte
+  hayran/1 yerinde.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizleme uygulandı, alıntının normalleştirilmiş eşleştirmesi
+  yapıldı; konuşmacı, tarih ve sayfa Record'un kendi başlıklarından ve üst bilgilerinden okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f604829fb4e4
+  role: 2de042d5a716
+  quote: e84760a79f07
+  summary: dc633c32b436
+  caveat: b8e86b11a7a8
+  verification_note: ab85c3d9fad5
+  verification_method: 5594abd6cdd0

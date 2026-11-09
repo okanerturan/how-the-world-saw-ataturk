@@ -1,0 +1,25 @@
+# Turkish for data/voices/1927/wang-jingwei-1927-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: wang-jingwei-1927-09
+voice: Wang Jingwei (汪精衛)
+role: KMT sol kanat lideri
+quote: >-
+  Türkiye'ye gelince, Meclis onu yıkımın eşiğinden kurtardığı halde Kemal neden yine de Komünist Partisi'ni
+  kovdu?
+quote_kind: translated
+summary: >-
+  Komünizmin yurt dışında neden başarısız olduğunu sıralarken, Meclis Türkiye'yi kurtardıktan sonra Kemal'in
+  komünistleri kovmasını örnek gösterdi.
+caveat: Wuhan Siyasi Şubesi'nde yaptığı konuşma, 22 Eylül 1927.
+verification_note: Birebir; bağlam komünizmin yurt dışında neden başarısız olduğunu sıralıyor.
+verification_method: ms veri çekme aracılığıyla Wikisource ayrıştırma
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6557ed8a4542
+  role: d755148e5b1e
+  quote: 65acdfeb4b4e
+  summary: 16690590bebd
+  caveat: bc0d39b3b09f
+  verification_note: c2a3779e78b3
+  verification_method: 1680f6b23b3d

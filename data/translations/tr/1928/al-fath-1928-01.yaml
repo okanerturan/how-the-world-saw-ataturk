@@ -1,0 +1,33 @@
+# Turkish for data/voices/1928/al-fath-1928-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-fath-1928-01
+voice: Al-Fath (sayı 79), al-Akhbar'dan yeniden basım
+role: Kahire Selefi haftalık dergisi
+quote: >-
+  kendisinin enine boyuna yeryüzünün adamı haline geldiğini ve söylediği her şeyin gökten indirilmiş ayetler
+  haline geldiğini sandı
+quote_kind: translated
+summary: >-
+  Yunanları yendikten sonra Kemal kendisini yeryüzünün efendisi, sözlerini ise kutsal metin sandı; onun
+  Rousseau dersini alaya alıyor.
+caveat: >-
+  İmzasız yeniden basım. Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılmış
+  İngilizce çevirisidir.
+mediated_by: İsimsiz bir 'belagat prensi'nin al-Akhbar makalesi
+verification_note: >-
+  s. 452'de Arapça 'al-Maghrur', 'min maqal fi al-Akhbar li-amir min umara' al-bayan yunimm qalamuhu alayh'
+  ifadeleri mevcut; imzasız yeniden basım; Rousseau alayı mevcut; düşmanca tutum geçerli.
+verification_method: >-
+  curl ile tam IA PDF'i indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
+  künyeler/kapaklar oluşturuldu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bd0585148957
+  role: abf29e803c77
+  quote: 979d99b41fc1
+  summary: ab6925281ffc
+  caveat: 20058a05439b
+  mediated_by: 1e92cd6f1552
+  verification_note: 4fe4de3a817a
+  verification_method: 6190bebdb3a6

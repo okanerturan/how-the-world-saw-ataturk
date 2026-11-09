@@ -1,0 +1,34 @@
+# Turkish for data/voices/1955/chamoun-1955-04-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: chamoun-1955-04-02
+voice: Camille Chamoun
+role: >-
+  Lübnan Cumhurbaşkanı; resmî ziyareti sırasında Dışişleri Bakanlığı konutunda Ankara Valisi ve Belediye
+  Başkanı Kemal Aygün'e cevabı
+quote: >-
+  Ankara şehrinin tarihini ve Atatürk'ün burada İstiklâl Harbini nasıl hazırladığını ve nasıl muvaffakiyetle
+  neticelendirdiğini yakinen bilmekteyim.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ün Kurtuluş Savaşı'nı hazırladığı yer olarak Ankara ve savaşı 'nasıl başarıyla sonuçlandırdığı'.
+caveat: >-
+  Sıkı ölçüte göre sınırda: tek değer yargısı 'muvaffakiyetle' (başarıyla) sözcüğüdür. Daha önce Ankara'da beş
+  gün geçirdiğini ekler. Anıtkabir ziyareti yalnızca anlatımdır. Okuyucu ajan tarafından sayfa görüntüsünden
+  (Okan'ın Milliyet arşivi girişi) okundu; ana ajan tarafından yeniden okunmadı.
+mediated_by: >-
+  Milliyet, 3 Nisan 1955, s. 7 ('Türk-Lübnan ticaret anlaşması yapıldı' devamı, 'Şamoun'un mukabelesi'
+  bölümü): gazetenin Türkçe aktarımı
+verification_note: >-
+  Tek okuyucu tarafından yazıya geçirildi, ana ajan tarafından yeniden okunmadı; kutupluluk sınırda.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: dd2fd9d64f46
+  role: 20f4d7ac0f9e
+  quote: 70815f308962
+  summary: 1f4085d6932a
+  caveat: 30f385f05d88
+  mediated_by: d740c93f9465
+  verification_note: af2d278fd1e2
+  verification_method: 1c3478366c90

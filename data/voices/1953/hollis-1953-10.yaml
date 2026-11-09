@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hollis-1953-10
+voice: Christopher Hollis
+voice_type: person
+role: Conservative MP and writer
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1953-10-28"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Credits 'the statesman Kemal Ataturk' with ending the ancient enmity between Greece and Turkey by exchange
+  of populations, a model for Trieste.
+quote:
+  text: >-
+    We all know the history of how the ancient enmity between Greece and Turkey was ended by an agreement
+    between those two countries for exchange of populations brought about by the statesman Kemal Ataturk.
+  language: en
+caveat: >-
+  European Affairs and Trieste, HC Deb 28 Oct 1953, c2835. Transcription at TheyWorkForYou of the official
+  Hansard. Sensitive thread (the 1923 population exchange): this is Hollis's framing, as a precedent for
+  Trieste; the vault does not adopt it. Check: the quote falls at c2839 (historic-hansard); TWFY gives the
+  column where the speech starts.
+node: >-
+  Westminster on Atatürk, 1941–1957 — Eden, Selwyn Lloyd, Noel-Baker, Wigg, Davies and Hollis
+sources:
+  - url: https://www.theyworkforyou.com/debates/?id=1953-10-28a.2808.0#g2835.3
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TheyWorkForYou debate page (fresh curl), speaker block at the anchor; column cross-checked on
+    api.parliament.uk/historic-hansard where available
+  method: >-
+    fetched page, normalised-text match of the quote inside the anchored speech block (speaker, date, id);
+    column located from historic-hansard column markers
+  note: >-
+    Verbatim, spoken by Christopher Hollis (Devizes) (g2835.3, HC Deb 28 Oct 1953). Column correction:
+    sentence at c2839 (speech starts c2835). Calls Kemal 'the statesman' and credits him with the exchange;
+    his own framing, sensitive thread correctly flagged, not adopted. Gaze passes at admiring 1.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

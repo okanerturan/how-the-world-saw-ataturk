@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cecil-1921
+voice: Lord Robert Cecil MP
+voice_type: person
+role: Commons debate on the Christian population of Asia Minor
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1921-12-19"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Reported that the French deal with Kemal abandoned Cilician Christians, who would be singled out once
+  Turkish rule resumed.
+quote:
+  text: >-
+    they have made an arrangement with Mustapha Kemal which involves the complete abandonment of the Christian
+    population in that part
+  language: en
+caveat: Reported from hearsay ("we are told"); Kemal is the counterparty, not the main target.
+node: Parliament on Kemal and the Greeks, 1921–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1921-12-19/debates/0f108a5d-d7c6-450b-89bd-962e008fa23c/ChristianPopulationInAsiaMinor
+    archived: https://web.archive.org/web/20241201205134/https://hansard.parliament.uk/Commons/1921-12-19/debates/0f108a5d-d7c6-450b-89bd-962e008fa23c/ChristianPopulationInAsiaMinor
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard.parliament.uk/Commons/1921-12-19/debates/0f108a5d-d7c6-450b-89bd-962e008fa23c
+    (contribution a0f79c60-3c8b-48fb-b20e-f76ed27ba308, Lord ROBERT CECIL)
+  method: api
+  checked_on: "2026-10-29"

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: el-tucsonense-1923
+voice: El Tucsonense
+voice_type: press
+role: Spanish-language weekly, Tucson, Arizona
+country: United States
+country_now: United States
+domain: press
+date: "1923-02-17"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Profile: a 'real dictador', the hope and terror of war-broken nations; says no one yet calls him the Near
+  East's Napoleon, but journalists will.
+caveat: >-
+  Unsigned syndicated-style profile on the Seccion Editorial page, page 7 of the 17 Feb 1923 issue; the
+  ancestry claim (Spanish Jewish descent) is legend, reported without caution.; corrected after check: the
+  Napoleon epithet is anticipated, not used
+node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
+sources:
+  - url: https://www.loc.gov/resource/sn95060694/1923-02-17/ed-1/?sp=7
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    El Tucsonense 17 Feb 1923 p.7 via tile.loc.gov full_text (batch_az_dyingcowboy_ver02
+    .../1923021701/1049.xml)
+  method: tile.loc.gov OCR text
+  note: >-
+    Phrase occurs but negated: 'Nadie, hasta ahora, lo ha llamado "el Napoleón del Cercano Oriente" pero los
+    periodistas ... lo harán tarde o temprano ... se dice que recuerda a Napoleón'. The paper says nobody has
+    yet called him that; quote as epithet is misleading. Rest (heading QUIEN ES MUSTAFA KEMAL PASHA, real
+    dictator, esperanza y terror, Spanish-Jewish ancestry) supported.
+  resolution: fixed before merge
+  checked_on: "2026-10-29"

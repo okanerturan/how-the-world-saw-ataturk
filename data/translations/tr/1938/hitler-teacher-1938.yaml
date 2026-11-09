@@ -1,0 +1,30 @@
+# Turkish for data/voices/1938/hitler-teacher-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hitler-teacher-1938
+voice: Adolf Hitler
+role: Führer ve Reich Şansölyesi
+quote: Mussolini onun birinci, ben ise ikinci öğrencisiydim
+quote_kind: translated
+summary: >-
+  Atatürk'ü kaybedilmiş bir ulusun yeniden var edilebileceğini gösteren öğretmen olarak gördü; Mussolini onun
+  birinci, Hitler ise ikinci öğrencisiydi.
+caveat: >-
+  Kitap içi aramada (s. 116) yalnızca bu cümlecik görünmektedir; mülakat tarihi ve mülakatı yapan kişi
+  doğrulanmamıştır.
+mediated_by: Ihrig 2014 s. 116 (kitap içi arama kesiti)
+verification_note: >-
+  Kesitte yalnızca '...Mussolini was his first and I his second student.' (not 28) görünmektedir; giriş
+  cümleciği olan 'In this respect Atatürk was a teacher' görünmemektedir. Mülakat tarihi/mülakatı yapan kişi
+  doğrulanmamıştır; yalnızca ikincil kaynaktır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 63c4153a3f03
+  role: 9210c8f8e9f1
+  quote: f0ab038cb991
+  summary: 62c3d6b39d7b
+  caveat: 4e6ba9a65afd
+  mediated_by: d06513caaf0a
+  verification_note: b9e4c55f6b3b
+  verification_method: ad8cee67138e

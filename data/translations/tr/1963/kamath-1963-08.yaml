@@ -1,0 +1,38 @@
+# Turkish for data/voices/1963/kamath-1963-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kamath-1963-08
+voice: Hari Vishnu Kamath
+role: Lok Sabha üyesi (Praja Sosyalist), Hoshangabad
+quote: >-
+  Unutmayın ki Türkiye'nin Kemal Atatürk'ü iktidara gelir gelmez, sokaklara tükürmeyi önlemek gibi küçük bir
+  reform için kırbaç cezası öngörmüştü
+quote_kind: translated
+summary: >-
+  Yolsuzluk konulu güvensizlik önergesi tartışmasında, Kemal'in tükürmeye kırbaç cezası öngördüğünü ve altı
+  kişiyi ibretlik şekilde cezalandırarak bu alışkanlığa son verdiğini söyler.
+caveat: >-
+  Lok Sabha Debates, 22 Ağustos 1963 (güvensizlik önergesi), sütun yakl. 2174-75 (OCR 2175). Lok Sabha
+  Secretariat / Government of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR
+  üzerinden. Kamath aynı hikâyeyi 17 Nisan 1963 ve 25 Ağustos 1966'da da (kırbaç cezası yasa tasarısı
+  görüşmeleri) her defasında sert ceza modeli olarak tekrarlar. Sütun bilgisi OCR sayfa üstbilgisi '2175
+  Motion'dan alınmıştır. Metin resmi tutanağın OCR çıktısından okunmuştur; bariz OCR hataları alıntıda
+  sessizce düzeltilmiştir.
+verification_note: >-
+  Tireyle bölünmüş satır sonları ('spit-/ting') boyunca alıntı birebir aynı. 'made an example of six people
+  ... habit vanished' cümlesi sütun 2175'te yer alıyor, dolayısıyla kaydın 'cols. 2174-75' ibaresi doğru;
+  alıntılanan cümlenin kendisi 2174'te. Kayıttaki 'Praja Socialist, Hoshangabad' bilgisi ile 17 Nisan 1963 /
+  25 Ağustos 1966 tekrarları kontrol edilen sayfada görünmüyor ve burada doğrulanmadı. Bakış: yolsuzluğu
+  cezalandırmak için bir model ortaya koyuyor; sınırda, yoğunluk 1, instrumental uygun.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden indirildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa üstbilgileri ve konuşma okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d5cfd66bad9d
+  role: 55d77e6dedaf
+  quote: 91d0884cabdf
+  summary: 492a5e242abd
+  caveat: 3f632eaebb60
+  verification_note: 92c84fd215b3
+  verification_method: 634050edd257

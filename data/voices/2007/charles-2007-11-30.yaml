@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: charles-2007-11-30
+voice: Charles, Prince of Wales (later King Charles III)
+voice_type: person
+role: Heir to the British throne; entry in the Anıtkabir special book
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "2007-11-30"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Pays homage to Atatürk at his tomb and pledges continued Turkish-British work for peace and friendship.
+quote:
+  text: I am pleased to pay homage to Mustafa Kemal Ataturk here by his tomb.
+  language: en
+mediated_by: İHA and Milliyet (two different Turkish translations)
+caveat: >-
+  Not yet a head of state in 2007. Two Turkish renderings of the English entry differ (İHA as quoted;
+  Milliyet: 'Mustafa Kemal'in mezarında ona saygılarımı sunmaktan mutluluk duyuyorum'); the English original
+  is not located. No evaluation of Atatürk beyond the courtesy line. Date from Turkish Wikipedia's visitor
+  list; the press pieces carry no day. English original seen only as a LondonNet snippet (cut after 'Turkey
+  and Great Britain will continue to'); İHA and Milliyet give two different Turkish renderings. Date 30 Nov is
+  probable (departure day); a Getty caption says 28 Nov.
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.iha.com.tr/haber-charlesin-son-duragi-anitkabir-5153
+  - url: https://www.milliyet.com.tr/pembenar/prens-charles-anitkabirde-225519
+    archived: https://web.archive.org/web/20250123183816/https://www.milliyet.com.tr/pembenar/prens-charles-anitkabirde-225519
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    İHA (iha.com.tr/haber-charlesin-son-duragi-anitkabir-5153); Milliyet 30.11.2007; LondonNet 30 Nov 2007
+    (search snippet); CBS/Getty caption
+  method: >-
+    tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker; 1 paid search for the
+    English
+  note: >-
+    Turkish text verbatim in İHA, but it is a translation: the English original, as printed by LondonNet,
+    reads 'I am pleased to pay homage to Mustafa Kemal Ataturk here by his tomb. Turkey and Great Britain will
+    continue to...' (rest cut off). The Turkish 'büyük mutluluk' and 'huzurunda' are the translator's.
+    Milliyet gives a different Turkish version, so the two are independent translations, not a second source
+    for the wording. Date: İHA says he leaves 'bugün', LondonNet (30 Nov) says he signed before departing, so
+    30 Nov is plausible; a Getty caption says 28 Nov (probably wrong, it also puts Eyüp Mosque on the same
+    day). Correction: replace quote with the English; mark date 2007-11-30 as probable.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 15)
+  checked_on: "2026-11-03"

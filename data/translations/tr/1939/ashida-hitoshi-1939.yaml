@@ -1,0 +1,32 @@
+# Turkish for data/voices/1939/ashida-hitoshi-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ashida-hitoshi-1939
+voice: Ashida Hitoshi
+role: Diplomat-siyasetçi, sonradan Japonya Başbakanı (1948)
+quote: >-
+  1938 yılının Kasım ayına kadar bu görevde bulunan Kemal, son derece olağanüstü bir dahiydi.
+quote_kind: translated
+summary: >-
+  Kemal'i, Osmanlı cesedinden yeni Türkiye'yi inşa ederken gösterdiği cesaret ve stratejisi her Batılı devlet
+  adamıyla boy ölçüşebilecek olağanüstü bir dahi olarak nitelendirir.
+caveat: >-
+  Barukan (1939), 'Torukō no seiji' bölümü, NDL görüntü 32 (basılı ~s. 49–50). Yalnızca OCR. Ayrıca s. 27'de
+  (görüntü): 'neyse ki bir Kemal Paşa vardı ... Türklerin dayanıklılığı ve vatanseverliği gerçekten takdire
+  şayandır'. Ölümünden sonra yazılmıştır (ölüm sonrası dönem). Kontrol: basılı s. 50.
+verification_note: >-
+  Alıntı basılı s. 50'de (sağ sayfa) birebir aynıdır ve çevreleyen cümleler (Anadolu'da ortaya çıktı, Osmanlı
+  cesedinden yeni Türkiye'yi inşa etti, cesareti ve stratejisi hiçbir büyük güç devlet adamından aşağı
+  değildi) what_they_saw alanını destekler. Basılı sayfa 49-50 değil, 50'dir. 1939 tarihi kitabın yılıdır;
+  ölüm sonrası dönem buna dayanır.
+verification_method: >-
+  NDL Digital Collections sayfa görüntüsü (dl.ndl.go.jp IIIF) + lab.ndl.go.jp fulltext-json; görüntü incelendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fb9f246b6592
+  role: 252bbbe99d36
+  quote: f855184b7442
+  summary: 8001075cd6a6
+  caveat: f361494048b8
+  verification_note: bacf2f2ac4fa
+  verification_method: bfa97e982497

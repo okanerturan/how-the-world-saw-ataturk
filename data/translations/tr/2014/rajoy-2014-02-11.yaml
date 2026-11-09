@@ -1,0 +1,35 @@
+# Turkish for data/voices/2014/rajoy-2014-02-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rajoy-2014-02-11
+voice: Mariano Rajoy
+role: İspanya Başbakanı; Anıtkabir Özel Defteri kaydı
+quote: >-
+  Birleşik ve modern bir Türkiye kurmayı başarmış olmasıyla sunduğu örnek, kararlılık, çalışma ve azimle her
+  türlü güçlüğün üstesinden gelmenin mümkün olduğunu bilmemiz için bize referans olsun.
+quote_kind: translated
+summary: >-
+  Kendisinin ve İspanyol halkının hayranlığını dile getirir; Atatürk'ün birleşik ve modern bir Türkiye kurma
+  örneğinin İspanya'ya referans olmasını umar.
+caveat: >-
+  İspanya-Türkiye üst düzey toplantısının ilk gününde Anıtkabir Şeref Defteri'ne yazılan metin. EFE ve La
+  Razón aynı cümleyi aktarır (La Razón bir virgülü atlar) ve her ikisi de kendisinin ve İspanyol halkının
+  'admiración'unu dile getirdiğini belirtir. Habertürk (12 Şubat 2014), İspanyol basınının bunu Katalan ve
+  Bask ayrılıkçılığı bağlamında okuduğunu bildirir; bu okuma Rajoy'a değil basına aittir.
+mediated_by: EFE (Antena 3 üzerinden, 11 Şubat 2014) ve La Razón, 12 Şubat 2014
+verification_note: >-
+  İspanyolca cümle her ikisinde de birebir aynıdır (EFE 'determinación,trabajo' şeklinde basar; La Razón
+  'saber que' sonrasındaki virgülü düşürür); her ikisi de kendisinin ve İspanyol halkının 'admiración'unu
+  aktarır. Bir şeref defteri kaydıdır, ancak açıkça belirtilmiş bir görüş içerdiğinden (birleşik ve modern bir
+  Türkiye kurma örneği) bakış testini geçer. J+J dürüst.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d01ca0d5c181
+  role: df709facdeca
+  quote: 376d9f3485f4
+  summary: ed6905da03c6
+  caveat: 6937b55e4b2a
+  mediated_by: c3cdf685f420
+  verification_note: 233bc1168ab1
+  verification_method: 5300d17a1d69

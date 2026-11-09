@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: gyula-gombos-1932
+voice: Gyula Gömbös
+voice_type: person
+role: Prime Minister of Hungary
+country: Hungary
+country_now: Hungary
+domain: politics
+date: "1932-10"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: speech
+evidence: S
+summary: >-
+  Told Turkey's envoy of ties of race and war respect and admired the revolution; later visited Ankara, though
+  his aim was Trianon revision.
+quote:
+  text: the great revolution made by your great leader's genius.
+  language: en
+mediated_by: Erdem 2009 ← Budapest embassy reports
+caveat: Source dates premiership differently (1930 in abstract vs Oct 1932 in Erdem; 1932 used).
+node: Gyula Gömbös
+sources:
+  - url: https://erdem.gov.tr/tam-metin/223/tur
+    archived: https://web.archive.org/web/20251208105705/https://erdem.gov.tr/tam-metin/223/tur
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://erdem.gov.tr/tam-metin/223/tur (II.1 Gombos'un Turkiye Ziyareti; 14 Oct 1932 statement to Turkish
+    envoy)
+  method: fetch
+  note: >-
+    Quote is English rendering of Turkish translation: 'Buyuk reisinizin dehasi ile yapilan buyuk inkilap'.
+  checked_on: "2026-10-29"

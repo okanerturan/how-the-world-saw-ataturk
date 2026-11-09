@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: aubrey-herbert-1922
+voice: Aubrey Herbert MP
+voice_type: person
+role: Commons question, Near East
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1922-06-22"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Asked whether the Government had considered discussing settlement terms immediately with Kemal at Ismid; on
+  25 May he had urged the same conference.
+quote:
+  text: discussing terms of settlement immediately with Mustapha Kemal Pasha at Ismid
+  language: en
+caveat: >-
+  A question; stance is that Kemal is the necessary interlocutor. 25 May 1922 question (Greece and Turkey) is
+  the earlier instance.
+node: Kemal in the Commons, Variant Spellings, 1920–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1922-06-22/debates/b43dde77-8b22-4aff-81aa-7ce81ca0ae76/NearEast
+    archived: https://web.archive.org/web/20241114142352/https://hansard.parliament.uk/Commons/1922-06-22/debates/b43dde77-8b22-4aff-81aa-7ce81ca0ae76/NearEast
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard Commons 1922-06-22 Near East, 'Mr. AUBREY HERBERT'; 1922-05-25 Greece And Turkey, same member
+  method: Hansard API search
+  note: >-
+    Quote verbatim (a question). 25 May question about a conference at Ismid suggested by Kemal also confirmed.
+  checked_on: "2026-10-30"

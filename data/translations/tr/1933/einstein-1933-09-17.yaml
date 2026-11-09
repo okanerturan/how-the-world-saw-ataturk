@@ -1,0 +1,48 @@
+# Turkish for data/voices/1933/einstein-1933-09-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: einstein-1933-09-17
+voice: Albert Einstein
+role: Fizikçi; OSE (Yahudilerin Sağlığını Koruma Birliği) onursal başkanı
+quote: >-
+  Bu bilim insanları, Hükümetinizin emirleri doğrultusunda kurumlarınızın herhangi birinde bir yıl boyunca
+  hiçbir ücret almaksızın çalışmaya hazırdır.
+quote_kind: translated
+summary: >-
+  Atatürk'e değil Başbakan İnönü'ye yazarak, Almanya'da çalışmaları yasaklanan kırk bilim insanının Türkiye'de
+  bir yıl ücretsiz çalışmasını istedi; bakanlık reddetti.
+caveat: >-
+  Önemli şahsiyetler için birinci elden temas kuralı kapsamında dahil edildi (Okan, 5 Kasım 2026). Mektup (17
+  Eylül 1933, OSE onursal başkanı sıfatıyla) Atatürk'e değil Başbakan İsmet İnönü'ye hitaben yazılmıştır ve ne
+  Atatürk'ün ne de reformlarının adını anar. İnönü mektubu 9 Ekim 1933'te Eğitim Bakanlığı'na gönderdi;
+  derkenar notları teklifi reddetti ('incompatible…', 'impossible to accept…') — Reisman bu notları bakan
+  Reşit Galip'e atfeder (Galip Ağustos 1933'te görevden ayrılmış olabilir). İki Einstein arşivi de (Princeton,
+  Hebrew University) mektubu görmemişti; bir arşivci Einstein'ın OSE tarafından kaleme alınmış bir metni
+  imzaladığını öne sürdü. Türkiye 1933'te başka kanallar aracılığıyla çok sayıda Alman göçmen bilim insanını
+  kabul etmiştir.
+mediated_by: >-
+  İnönü Vakfı transkripsiyonu ← Başbakanlık arşivindeki aslı; bakanlık notları için Reisman (HNN)
+verification_note: >-
+  Alıntı İnönü Vakfı metninde birebir yer alıyor ('Your Excellency' hitabıyla; site, mektubun diş hekimi Sami
+  Günzberg aracılığıyla Başbakan İsmet İnönü'ye gönderildiğini belirtiyor). Reisman: İnönü mektubu 9 Ekim
+  1933'te Eğitim Bakanlığı'na iletti ve derkenar notlarında 'this proposal is incompatible with clauses [in
+  the existing laws]' ile 'impossible to accept it due to prevailing conditions' ifadeleri yer alıyor. Ana
+  ajanın istediği düzeltmeler: (1) what_they_saw mektubun Atatürk'e değil İnönü'ye gittiğini ve reddedildiğini
+  belirtmeli; (2) mektup 'German-Jewish' demiyor, yalnızca 'cannot practice further in Germany on account of
+  the laws' durumundaki bilim insanlarından söz ediyor; (3) uyarı notu, Reisman'ın ne Princeton ne de Hebrew
+  University Einstein arşivcisinin mektubu gördüğü ve birinin Einstein'ın OSE tarafından hazırlanmış bir metni
+  ya da önceden imzalanmış antetli kâğıdı imzalamış olabileceğini öne sürdüğü noktasını atlıyor. İpucu (M
+  katmanı, kullanılmadı): Reşit Galip'in genellikle Ağustos 1933'te Eğitim Bakanlığı'ndan ayrıldığı söylenir,
+  dolayısıyla notların ona atfı Reisman'a aittir ve böyle ifade edilmelidir. Temas kuralı kapsamında (Kemal'e
+  değil, Kemal'in hükümetine) witness/letter doğrudur.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7303d2c9c8d9
+  role: 5307d7c062e5
+  quote: a29db5fbe474
+  summary: 01ab618eaa56
+  caveat: 98d5a1af89ca
+  mediated_by: 255edaf8ba2e
+  verification_note: 3fbb03963708
+  verification_method: 5300d17a1d69

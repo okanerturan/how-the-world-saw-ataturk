@@ -1,0 +1,40 @@
+# Turkish for data/voices/1938/zafar-ali-khan-1938-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zafar-ali-khan-1938-11
+voice: Zafar Ali Khan
+role: Urduca şair ve Zamindar editörü, Doğu Orta Pencap Müslüman Birliği üyesi
+quote: modern çağın en büyük şahsiyetlerinden biri -- daha doğrusu en büyük şahsiyeti
+quote_kind: translated
+summary: >-
+  Urduca bir mersiye okur ve Kemal'i 'modern çağın en büyük şahsiyetlerinden biri' diye nitelendirip kendini
+  'en büyüğü' diyerek düzeltir; tatil ilan edilmesini ister.
+caveat: >-
+  Legislative Assembly Debates, c. VII (Government of India Press, Delhi 1938), 14 Kasım 1938, s. 2956-57. Lok
+  Sabha Secretariat / Government of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR
+  aracılığıyla. Urduca dizeler tutanakta Latin harfli çeviriyazıyla basılmıştır; burada alıntılanmamıştır.
+  Meclis oturuma ara vermezse Müslüman Birliği'nin salonu terk edeceği tehdidinde bulunur. Metin resmi
+  tutanağın OCR çıktısından okunmuştur; bariz OCR hataları alıntıda sessizce düzeltilmiştir. Daha önceki
+  çerçeveleme cümlesi (önceden kaydedilen): Mustafa Kemal Paşa'nın ölümü Müslüman dünyası için insanlığın
+  diğer herhangi bir kesiminden daha fazla anlam ifade etmektedir.
+verification_note: >-
+  Alıntı, 'as Mustafa Kemal Pasha's death means more to the Mussalman world than to any other section of
+  humanity' cümlesinin alt dizisi olarak birebir (OCR 'Kemai'). Zayıf nokta: alıntılanan cümle bir çerçeveleme
+  ifadesidir ve tek başına Kemal hakkındaki görüşünü belirtmez; bakış ölçütü s. 2957'deki kendi sözleriyle
+  ('one of the greatest figures of the modern age -- I mean the greatest figure of the modern age')
+  karşılanmaktadır ve what_they_saw alanının aktardığı da budur. Alıntının bu cümleyle değiştirilmesi veya o
+  cümleyi kapsayacak şekilde genişletilmesi önerilir. Dizeler çeviriyazı halindedir, alıntılanmamıştır. Salonu
+  terk etme tehdidi 'we shall not be able to take part ... and will leave the House' şeklinde ifade
+  edilmiştir; Müslüman Birliği adı Başkan'ın yanıtından gelmektedir. Tümü yerinde.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden çekildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa başlıkları ile konuşma metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7d9ce798586c
+  role: 34604d5399cd
+  quote: 9221a07a332b
+  summary: 6e79505a7070
+  caveat: 0dd2f5c19390
+  verification_note: 0ce47e3bc3ea
+  verification_method: 634050edd257

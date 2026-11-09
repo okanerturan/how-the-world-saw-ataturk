@@ -1,0 +1,33 @@
+# Turkish for data/voices/1922/tjokroaminoto-1922-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tjokroaminoto-1922-11
+voice: H. O. S. Tjokroaminoto
+role: Sarekat Islam lideri, Cheribon Al-Islam Kongresi başkanı
+quote: >-
+  ne kendisinin ne de kongre yönetiminin, o taslak telgrafın Mustafa Kemal Paşa'ya gönderilmesinin muhtemelen
+  beraberinde getireceği sonuçlarla hiçbir ilgisi olmadığını
+quote_kind: translated
+summary: >-
+  Bir komite üyesi tarafından Mustafa Kemal Paşa'ya gönderilen taslak sempati telgrafının sonuçlarını kendisi
+  ve kongre yönetimi adına üstlenmedi.
+caveat: >-
+  Kendi sözleri değil, genelgesinin gazetedeki özeti; taslak, Hollanda'nın Yunanistan'a karşı tarafsızlığını
+  ihlal ettiği söylenen iki kelime ('ennemi décimé') içeriyordu. Sömürge sansürü altında ihtiyat; mutlaka
+  Kemal'e duyulan bir şüphe değil.
+mediated_by: Sumatra-Bode 27 Kasım 1922, Oetoesan Hindia'daki genelgesini özetleyerek
+verification_note: >-
+  Felemenkçe cümle birebir; Oetoesan Hindia'da basılan genelgeyi özetliyor; 'ennemi décimé' ayrıntısı mevcut.
+  Yönelimin 'conflicted' olarak değerlendirilmesi bir yorumdur; metin gazetenin özetidir (çekince notunda
+  belirtildiği gibi).
+verification_method: Delpher OCR + sayfa başlığı kontrolü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9f4debd28804
+  role: bd83c219c7c8
+  quote: 3d4094c468ec
+  summary: 2e049736c346
+  caveat: f583dbd0ce20
+  mediated_by: 6219a481dd9d
+  verification_note: 6593587c50b4
+  verification_method: bc822f4441b6

@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nazarbayev-2009
+voice: Nursultan Nazarbayev
+voice_type: person
+role: President of Kazakhstan
+country: Kazakhstan
+country_now: Kazakhstan
+domain: politics
+date: "2009-10-22"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  Calls Atatürk a genius whose foresight foretold independence for the other Turkic states; announces his
+  statue in Astana.
+quote:
+  text: >-
+    Türkiye Cumhuriyeti’nin kurucusu, dâhi şahsiyet Atatürk daha o zamanlarda bile diğer Türk devletlerinin
+    günün birinde bağımsızlıklarına kavuşacağını büyük bir öngörüşle ifade etmişti.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 268 (printed p. 257). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "The founder of the Republic of Turkey, the genius Atatürk, even then expressed with
+  great foresight that the other Turkic states would one day gain their independence." On PDF p. 269 he
+  reports unveiling a large statue of Mustafa Kemal Atatürk on the Esil river in Astana before his visit.
+  Heading: 'Kazakistan Cumhurbaşkanı Nursultan Nazarbayev', 22 Ekim 2009.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 268 (printed p. 257); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c268.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Kazakistan Cumhurbaşkanı Nursultan
+    Nazarbayev, 10. Birleşim, 22 Ekim 2009'). Heading and quote on same page; statue in Astana confirmed on
+    PDF p. 269. Delivery language not stated (probably Russian or Kazakh); original not looked for.
+  checked_on: "2026-11-01"

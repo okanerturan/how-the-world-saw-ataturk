@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: elifba-1938
+voice: Elifba
+voice_type: press
+role: Damascus daily, one of Syria's oldest
+country: Syria (French Mandate)
+country_now: Syria
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  Lead article: a great genius who steered Turkey to safety and asked neither throne nor heir; an
+  international man.
+quote:
+  text: one of the greatest personalities and most formidable geniuses of a century
+  language: en
+mediated_by: >-
+  Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)
+caveat: >-
+  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural.
+node: Damascus and Beirut Weep, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: sources/toksoy-2010-balkan-mideast-press.txt (Suriye ve Lubnan, Elifba lead article)
+  method: local
+  note: Toksoy places Elifba in both Syria/Beirut and Sam; 'asked neither throne nor heir' present
+  checked_on: "2026-10-29"

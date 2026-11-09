@@ -1,0 +1,17 @@
+---
+type: event
+when: 20–29 October 1921
+tags: [event, verified, obituary-corpus]
+---
+
+# Paris Press and the Franklin-Bouillon Accord, October 1921
+
+The Franco-Turkish (Ankara) agreement was initialled by Henry Franklin-Bouillon and Yusuf Kemal Bey on 20 October 1921, ending the Cilicia war on terms that handed Ankara the evacuated zone. The press fought over it, but through the fragments Gallica returns the dailies of 21–29 October are almost all dispatch and parliamentary reporting; Kemal himself is rarely named and no editorial voice on him survives the search. Recorded as a dry end so that nobody repeats it. Every quotation below is a Gallica `ContentSearch` fragment copied exactly as the OCR gives it (so "Moustapha", "Mustapha", "Kernal" for Kemal and other OCR slips are kept, marked [OCR] where they matter). Fragments are short and are cut with "(...)"; "PAG_n" is Gallica's view number (the n-th image of the issue, not always the printed page). Only what a fragment shows is claimed.
+
+What the fragments do show. *Le Temps*, 23 October, view 2 ([issue](https://gallica.bnf.fr/ark:/12148/bpt6k2445369)) heads its dispatch "L'accord franco-turc ... L'accord franco-kémaliste a été signé hier", and view 3 carries Briand's Chamber statement that "l'Assemblée d'Angora a accepté de régler, en accord avec nous, nos intérêts particuliers de frontière en Syrie et en Cilicie". *Le Figaro*, 23 October, view 3 ([issue](https://gallica.bnf.fr/ark:/12148/bpt6k293010q)) prints the Turkish information bureau's note on what the accord covers. *L'Action française*, 25 October, view 3 ([issue](https://gallica.bnf.fr/ark:/12148/bpt6k761020t)): "La satisfaction règne à Constantinople". *Le Populaire*, 26 October, view 3 ([issue](https://gallica.bnf.fr/ark:/12148/bpt6k817852r)), relays the Turkish papers' report that the "convention franco-kémaliste" was ratified in Angora by a large majority and adds: "Il faut espérer que l'accord d'Angora ne restera pas lettre morte comme celui qui fut signé à Londres avec Bekir Sami" — hope with a memory of the broken London agreement, aimed at the Allies' good faith rather than at Kemal. *Le Temps*, 28 October, view 3 ([issue](https://gallica.bnf.fr/ark:/12148/bpt6k244541r)) records a deputy in the Chamber debate rejecting Franklin-Bouillon's "politique absolue, magnifique sur le papier" for a "politique libérale ... plus humaine et par conséquent plus française". *L'Humanité*, 22 October, view 3 ([issue](https://gallica.bnf.fr/ark:/12148/bpt6k400193b)) reports the rumoured French promise to help Turkey retake Smyrna and Thrace and an official denial. None of these is a judgment of Kemal, so none is recorded.
+
+Next step (not done, Gallica's fetch route began returning 429 rate limits with retry-after times of 10–13 minutes): look for the October–November 1921 leaders in *Le Matin* (issues not loaded for 1921), *L'Écho de Paris*, *Le Journal des débats* and *L'Œuvre*, and the Chamber debate of 28 October in the *Journal officiel* rather than the press.
+
+## Sources
+- Le Temps [23 Oct](https://gallica.bnf.fr/ark:/12148/bpt6k2445369) · [28 Oct 1921](https://gallica.bnf.fr/ark:/12148/bpt6k244541r). Le Figaro [23 Oct 1921](https://gallica.bnf.fr/ark:/12148/bpt6k293010q). L'Action française [25 Oct 1921](https://gallica.bnf.fr/ark:/12148/bpt6k761020t). Le Populaire [26 Oct 1921](https://gallica.bnf.fr/ark:/12148/bpt6k817852r). L'Humanité [22 Oct 1921](https://gallica.bnf.fr/ark:/12148/bpt6k400193b).
+- Tier **P** (Gallica `ContentSearch` OCR fragments).

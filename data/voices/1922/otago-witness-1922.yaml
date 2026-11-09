@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: otago-witness-1922
+voice: Otago Witness
+voice_type: press
+role: Dunedin weekly
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1922-09-19"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Weekly leader: Kemal flushed with victory and intent on territory, but Allied division and delay over
+  Constantinople largely caused the crisis; wants a conference.
+quote:
+  text: dilly-dallying
+  language: en
+node: New Zealand Leaders on Kemal at Chanak, September 1922
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/OW19220919.2.122
+    archived: https://web.archive.org/web/20261028234958/https://paperspast.natlib.govt.nz/newspapers/OW19220919.2.122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://paperspast.natlib.govt.nz/newspapers/OW19220919.2.122
+  method: fetch
+  checked_on: "2026-10-29"

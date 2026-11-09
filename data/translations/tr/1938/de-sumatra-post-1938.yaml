@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/de-sumatra-post-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-sumatra-post-1938
+voice: De Sumatra Post
+role: Medan günlük gazetesi
+summary: >-
+  John Gunther'ın, Atatürk'ün diktatörler arasında kabadayı olduğu ve yanında Hitler'in muhallebi çocuğu
+  kaldığı yönündeki ifadesini, ayrıca bir yemek tadımcısı hikayesini yeniden yayımladı.
+caveat: Alıntılanmış metin; gazetenin kendi tutumu belirtilmemiş.
+mediated_by: Gunther'in Bataviaasch Nieuwsblad üzerinden ödünç alınan ifadesi
+verification_note: >-
+  Gunther 'roughneck' / Hitler 'melkmuil' ifadeleri ve yemek tadımcısı hikayesi mevcut; yemek tadımcısı kısmı
+  Bat. Nwsbld kaynaklı gösterilmiş, Gunther cümlesi ise doğrudan Gunther'a atfedilmiş
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 400756dbae98
+  role: 4fb1516229a7
+  summary: dd93cc709a6f
+  caveat: 86f278922a9e
+  mediated_by: 1a45547d42d9
+  verification_note: 98a3ba3507d9
+  verification_method: ad8cee67138e

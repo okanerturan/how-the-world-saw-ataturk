@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: l-action-francaise-1938
+voice: L'Action française
+voice_type: press
+role: Paris royalist-nationalist daily
+country: France
+country_now: France
+domain: press
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: P
+summary: >-
+  His secret: behind the Ottoman lace stood only men ready to defend national soil; he died as the West
+  watched the Dardanelles.
+quote:
+  text: il n'y avait plus rien, sinon des hommes prêts à défendre le sol national
+  language: fr
+caveat: >-
+  Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. Next day's press-review
+  item (12 Nov) relays other papers; the paper's own stance there is partly inferred.
+node: Paris Reads the Death, 11–12 November 1938
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k767243x
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k7672449
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Gallica ark bpt6k767243x: only search-hit snippet a local working file cs2.out) "il n'y avait plus rien,
+    sinon des hommes prêts à défendre le sol national"; Gallica blocked
+  method: fetch
+  note: >-
+    Full article/date 11 Nov 1938 and "West watched Dardanelles" not checkable; quote is a search fragment.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

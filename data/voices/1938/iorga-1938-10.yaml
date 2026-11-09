@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: iorga-1938-10
+voice: Nicolae Iorga
+voice_type: person
+role: Romanian historian, former prime minister, university professor
+country: Romania
+country_now: Romania
+domain: politics
+date: "1938-10-31"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: speech
+evidence: S
+summary: >-
+  Cites the Turks' grief when Atatürk fell ill as proof that a nation can concentrate in one man who restored
+  the Empire's glory.
+quote:
+  text: >-
+    Cînd s'a îmbolnăvit în urmă d. Atatürk, ce adînc sentiment de îngrijorare, de durere a fost în sufletul
+    tuturor Turcilor: pare că ar fi crezut că dispariția aceluia care a restabilit gloria de odinioară a
+    Imperiului, devenit național acum, ar însemna prăbușirea patriei și dispariția națiunii din rîndul
+    popoarelor care înseamnă ceva în lume.
+  translation: >-
+    When Mr Atatürk recently fell ill, what a deep feeling of worry and grief there was in the soul of all the
+    Turks: it seems they believed that the disappearance of the man who restored the former glory of the
+    Empire, now become national, would mean the collapse of the homeland and the disappearance of the nation
+    from among the peoples that mean something in the world.
+  language: ro
+caveat: >-
+  Opening lecture at the University of Bucharest, 31 Oct 1938 (ten days before Atatürk's death); printed
+  Vălenii-de-Munte, Datina Românească, 1939, extract from Revista Istorică, year XXV, nos. 1-3 (all stated on
+  the Wikisource page). Iorga uses Atatürk as one example (with Hitler and Mussolini) in an argument that
+  nations gather in one leader, and goes on to urge rallying round the Romanian king: the praise serves that
+  argument. Wikisource transcription of the printed pamphlet; scan not viewed. Translation is the vault's own.
+node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
+sources:
+  - url: https://ro.wikisource.org/wiki/Ce_%C3%AEnseamn%C4%83_ast%C4%83zi_concep%C8%9Bia_istoric%C4%83
+    archived: https://web.archive.org/web/20230607224515/https://ro.wikisource.org/wiki/Ce_%C3%AEnseamn%C4%83_ast%C4%83zi_concep%C8%9Bia_istoric%C4%83
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    ro.wikisource Ce înseamnă astăzi concepția istorică (render), dateline '(31 OCTOMBRE 1938)'
+  method: fetched rendered page, string match
+  note: >-
+    Verbatim (old orthography î/â as printed); translation faithful. Dateline 31 October 1938 confirmed on the
+    page, so contemporary is right. Own evaluative view ('a restabilit gloria de odinioară a Imperiului'),
+    used inside an argument for rallying round the Romanian king; gaze OK, instrumental/admiring both
+    defensible.
+  checked_on: "2026-11-03"

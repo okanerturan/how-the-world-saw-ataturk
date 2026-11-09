@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: huddleston-1924
+voice: Sisley Huddleston
+voice_type: person
+role: Journalist and author, Those Europeans
+country: United Kingdom
+country_now: United Kingdom
+domain: press
+date: "1924"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Credits Kemal with playing the Allies' divisions at Lausanne with real skill, but doubts his power and asks
+  if he led Turks into worse bondage.
+quote:
+  text: >-
+    Now Mustapha Kemal has done well in bringing the Turks out of bondage; but has he led them into a bondage
+    which in the end will be even worse?
+  language: en
+caveat: >-
+  Nationality inferred from catalogue/bio, not the book; his forecast that Kemal might be displaced (p. 262)
+  proved wrong. Book p. 266; scan leaf n274.
+node: Sisley Huddleston
+sources:
+  - url: https://archive.org/details/thoseeuropeansst0000hudd/page/n274/mode/2up?q=bondage
+  - url: https://archive.org/download/thoseeuropeansst0000hudd/thoseeuropeansst0000hudd_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org thoseeuropeansst0000hudd_djvu.txt (copyright 1924; p.266 quote; 'played them with real skill'
+    re Lausanne)
+  method: fetch
+  checked_on: "2026-10-29"

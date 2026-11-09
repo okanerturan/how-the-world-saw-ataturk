@@ -1,0 +1,27 @@
+# Turkish for data/voices/1932/gyula-gombos-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: gyula-gombos-1932
+voice: Gyula Gömbös
+role: Macaristan Başbakanı
+quote: büyük liderinizin dehasıyla yapılan büyük devrim.
+quote_kind: translated
+summary: >-
+  Türkiye elçisine ırk bağlarından ve savaştan gelen saygıdan söz etti ve devrime hayranlığını dile getirdi;
+  amacı Trianon'un revizyonu olsa da daha sonra Ankara'yı ziyaret etti.
+caveat: >-
+  Kaynak, başbakanlık tarihini farklı verir (özette 1930, Erdem'de ise Ekim 1932; 1932 esas alındı).
+mediated_by: Erdem 2009 ← Budapeşte büyükelçilik raporları
+verification_note: >-
+  Alıntı, Türkçe çevirinin İngilizceye aktarımıdır: 'Buyuk reisinizin dehasi ile yapilan buyuk inkilap'.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b958300c580a
+  role: 3e643a2cde63
+  quote: 2c93f083da68
+  summary: 4da843a73a4e
+  caveat: f108e335c5f9
+  mediated_by: be0cb56d03ab
+  verification_note: a588c4e63d03
+  verification_method: ad8cee67138e

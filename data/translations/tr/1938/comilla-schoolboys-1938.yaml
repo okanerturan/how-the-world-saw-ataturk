@@ -1,0 +1,18 @@
+# Turkish for data/voices/1938/comilla-schoolboys-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: comilla-schoolboys-1938
+voice: Comilla Zilla School'un dört erkek öğrencisi
+role: Bengal'de erkek öğrenciler
+summary: Ölümünün ardından ruhunun huzur içinde uyuması dileğiyle yazdılar.
+mediated_by: Dağlı 2023 ← Cumhurbaşkanlığı Arşivi
+verification_note: 2. sınıftan dört öğrenci; ruhunun huzur içinde uyuması dileği Dağlı'da yer almaktadır.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: faac4f4f0e16
+  role: 2690bd2958e4
+  summary: 5405ee31c4f7
+  mediated_by: db69299c65ed
+  verification_note: 0bfdbe645816
+  verification_method: 939bb46a04c3

@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: falih-rifki-atay-cankaya-1924
+voice: Falih Rıfkı Atay
+voice_type: person
+role: Journalist, deputy, Kemal's companion
+country: Turkey
+country_now: Turkey
+domain: press
+date: "1961"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: memoir
+evidence: P
+summary: >-
+  Recalls the night of the Nov 1924 resignations of Karabekir and Ali Fuat at Çankaya: Kemal would meet even
+  an armed revolt without hesitation.
+quote:
+  text: Bir askerî isyan da olsa, hiç tereddütsüz karşılıyacağı belli idi.
+  language: tr
+caveat: >-
+  Cite: Atay, Çankaya (Cumhuriyet ed., 1999 reprint; IA scan 'Falih Rıfkı Atay - Çankaya.pdf'), PDF p. 292 of
+  386 (chapter 'İç Didişme'); the scan carries no printed folio. The same chapter defends the Progressive
+  Republican founders as serious and not merely jealous; retrospective (1952/1961).
+node: Falih Rıfkı Atay
+sources:
+  - url: https://archive.org/details/falih-rifki-atay-cankaya
+  - url: https://archive.org/download/falih-rifki-atay-cankaya/Falih%20R%C4%B1fk%C4%B1%20Atay%20-%20%C3%87ankaya.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA falih-rifki-atay-cankaya PDF text layer, PDF p.292, chapter 'Ic Didisme'
+  method: >-
+    pdftotext; quote verbatim; context is the Nov 1924 Karabekir/Ali Fuat resignations at Cankaya
+  checked_on: "2026-10-29"

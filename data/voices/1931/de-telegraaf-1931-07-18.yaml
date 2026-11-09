@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-telegraaf-1931-07-18
+voice: De Telegraaf
+voice_type: press
+role: Amsterdam daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1931-07-18"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Printed Count Sforza's essay calling Kemal the one post-war dictator who seems a success, because he
+  practised self-restraint and dropped caliphate pretensions.
+quote:
+  text: SLECHTS één van de na-oorlogsche dictators, Moestafa Kemal, schijnt een succes te zijn
+  language: nl
+mediated_by: Carlo Sforza (by-line) via De Telegraaf 18 Jul 1931
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. The view is Sforza's, not the paper's editorial line;
+  recorded under Sforza too (node 'Carlo Sforza').
+node: Dutch Dailies on the Dictator, 1924–1937
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:110570965:mpeg21:a0001
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Delpher ddd:110570965:mpeg21:a0001 OCR (De Telegraaf 18 jul 1931 art.1, Sforza byline)
+  method: fetch
+  checked_on: "2026-10-29"

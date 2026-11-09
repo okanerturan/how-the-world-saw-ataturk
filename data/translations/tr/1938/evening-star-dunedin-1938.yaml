@@ -1,0 +1,21 @@
+# Turkish for data/voices/1938/evening-star-dunedin-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: evening-star-dunedin-1938
+voice: Evening Star (Dunedin)
+role: Dunedin günlük gazetesi
+quote: >-
+  Batı'ya karşı Doğu'nun, Hristiyanlığa karşı İslam'ın, efendilerine karşı tâbi ırkların savunucusu olmayı
+  reddetti.
+quote_kind: translated
+summary: >-
+  Başyazı: yozlaşmış Türkiye'ye dair eski tablo, ardından 'en büyük' diktatör başarıları, 'Türkiye'nin
+  Kurtarıcısı', özel hayatı kusurlu, yapının tek başına ayakta kalacağından kuşkulu.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8afebd00c9d2
+  role: 92bc68c5eb76
+  quote: 6217fab0e0f7
+  summary: 6266243537c4
+  verification_method: ad8cee67138e

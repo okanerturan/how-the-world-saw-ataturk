@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cemal-pasha-1922
+voice: Cemal Pasha
+voice_type: person
+role: Young Turk triumvir; commander of the Fourth Army in Syria; memoirist
+country: Ottoman Empire
+country_now: Turkey
+domain: military
+date: "1922"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: memoir
+evidence: P
+summary: >-
+  Judged in 1917 that Kemal was entirely right in his dispute with von Falkenhayn, and hoped Kemal's national
+  rising would save Stamboul and Smyrna.
+quote:
+  text: came to the conclusion that Kemal Pasha was entirely in the right
+  language: en
+caveat: >-
+  Memoir English edition 1922 (Hutchinson); Cemal was assassinated July 1922. Pages: p. 192 (Gaza chapter),
+  pp. 237-238 (end of Arab Rebellion chapter).
+node: Cemal Pasha
+sources:
+  - url: https://archive.org/details/39020025953798-memoriesofaturk?q=Mustafa+Kemal
+  - url: https://archive.org/download/39020025953798-memoriesofaturk/HighRes_39020025953798_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org 39020025953798-memoriesofaturk djvu.txt (Falkenhayn passage; closing line 'saving proud
+    Stamboul and beautiful Smyrna ... national rising under Mustafa Kemal Pasha')
+  method: fetch
+  note: Page numbers not independently confirmed.
+  checked_on: "2026-10-29"

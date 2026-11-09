@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: riza-nur-hh-1923
+voice: Rıza Nur
+voice_type: person
+role: Lausanne delegate; later exile memoirist
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1923"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: internal-mirror
+artifact: memoir
+evidence: P
+summary: >-
+  Memoir laments that his Lausanne work on capitulations left Kemal, whom he calls a tyrant, free of all
+  restraints.
+quote:
+  text: >-
+    Mustafa Kemal zalimini de bütün kayıtlardan azade keyfemâyeşâ, asar, keser, kırar, döker bir zalim yapmış
+    olduk.
+  language: tr
+caveat: >-
+  Cite: Hayat ve Hatıratım, c. 3 (Altındağ, 1967), p. 1224. Retrospective, written in exile; his own
+  judgement, not independently verified.
+node: Rıza Nur
+sources:
+  - url: https://archive.org/details/riza-nur-hayat-ve-hatiratim-iii.-cild
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA djvu txt riza-nur-hayat-ve-hatiratim-iii.-cild (printed p. 1224 running head)
+  method: djvu OCR text, line-level match; page from running heads 1224/1227
+  note: >-
+    Verbatim (OCR 'azâde','zalinı' noise only); p. 1224 confirmed; passage is Lausanne capitulations lament.
+    Dated 1923 only by Lausanne context.
+  checked_on: "2026-10-29"

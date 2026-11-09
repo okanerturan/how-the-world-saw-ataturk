@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: king-2016-01
+voice: Steve King
+voice_type: person
+role: U.S. Representative from Iowa (Republican)
+country: United States
+country_now: United States
+domain: politics
+date: "2016-01-11"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Praising Egypt's Sisi, recalls Atatürk as a bridge between East and West and hopes Sisi can become 'the
+  Ataturk for the world'.
+quote:
+  text: >-
+    When I look at the work that was done by Ataturk in Turkey, how he provided a bridge between the East and
+    the West, and that has been drifting back a bit the other way under Erdogan … could become the Ataturk for
+    the world to bring about that bridge between the Muslim world and the Christian world and the West
+  language: en
+caveat: >-
+  One-minute-style floor speech on Egypt; Atatürk is the template for what he wants Sisi to be. The second
+  fragment follows after the page break to H267. A second King remark, 13 July 2017 (p. H5823), says Atatürk
+  'for 40 years, moved Turkey to the West' (not staged separately). Cited as House of Representatives, 11
+  January 2016, 'Egypt Talking Points', Congressional Record vol. 162, pp. H264-H267 (granule
+  CREC-2016-01-11-pt1-PgH264).
+node: >-
+  Congressional Record Closing Pass — King, Owen, Davis, Sirovich, Pepper, Knowland and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/CREC-2016-01-11/html/CREC-2016-01-11-pt1-PgH264.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.govinfo.gov/content/pkg/CREC-2016-01-11/html/CREC-2016-01-11-pt1-PgH264.htm - House, 11 Jan
+    2016, pp. H266-H267
+  method: govinfo daily-edition HTML
+  note: >-
+    Verbatim; Steve King speaks as the majority leader's designee (Mr. KING of Iowa). Quote starts on H266 and
+    crosses to H267 ('could become the Ataturk for the world'). 'the work that was done by Ataturk in Turkey,
+    how he provided a bridge between the East and the West' is a stated view of his achievement; instrumental
+    1 fair. Second remark of 13 Jul 2017 not checked.
+  checked_on: "2026-11-04"

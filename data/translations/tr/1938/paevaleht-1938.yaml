@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/paevaleht-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: paevaleht-1938
+voice: Päevaleht
+role: Estonya günlük gazetesi
+summary: >-
+  Emil Ludwig'in biyografisinden bölümleri 'Halkının Hizmetkârı ve Efendisi' başlığı altında yayımladı.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir; yabancı dildeki asılları görülmemiştir; Türkçe derlemeler tarafından
+  özetlenmiştir.
+mediated_by: >-
+  Toksoy 2006 ← Akşam ve Kurun 16 Kasım, Ulus 15 Kasım, Cumhuriyet 15–16 Kasım, Tan 16 Kasım 1938, Ayın Tarihi
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 42c6087b49d6
+  role: eb6c6908d528
+  summary: 12e8adaf4bf8
+  caveat: 15b48d70cc5b
+  mediated_by: 64e36ae2f40c
+  verification_method: 939bb46a04c3

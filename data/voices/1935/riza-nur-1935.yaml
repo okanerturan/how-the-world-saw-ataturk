@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: riza-nur-1935
+voice: Rıza Nur
+voice_type: person
+role: Lausanne delegate, minister; memoirist in exile
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1935"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: internal-mirror
+artifact: memoir
+evidence: S
+summary: >-
+  Wrote memoirs, deposited sealed in the British Museum, giving a hostile, personal and frequently unreliable
+  view of Mustafa Kemal and his circle.
+caveat: Scholars call the memoirs frequently unreliable.
+node: Rıza Nur
+sources:
+  - url: https://islamansiklopedisi.org.tr/riza-nur
+    archived: https://web.archive.org/web/20260615175250/https://islamansiklopedisi.org.tr/riza-nur
+  - url: https://www.milliyet.com.tr/gundem/riza-nur-un-gizemli-hatirati-2186985
+    archived: https://web.archive.org/web/20260803004757/https://www.milliyet.com.tr/gundem/riza-nur-un-gizemli-hatirati-2186985
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    islamansiklopedisi.org.tr/riza-nur: memoirs to 1935 deposited with British Museum, sealed to 1960; banned
+    for heavy criticism of Atatürk and subjective judgments
+  method: fetch
+  note: '"frequently unreliable" is not TDV wording (it says subjective). Fine otherwise.'
+  checked_on: "2026-10-29"

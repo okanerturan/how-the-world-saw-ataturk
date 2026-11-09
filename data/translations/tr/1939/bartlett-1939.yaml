@@ -1,0 +1,19 @@
+# Turkish for data/voices/1939/bartlett-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bartlett-1939
+voice: Milletvekili Vernon Bartlett
+role: Avam Kamarası üyesi
+quote: bir zamanlar, dört gün süren bir konuşma yapan bir diktatör, Kemal Atatürk vardı
+quote_kind: translated
+summary: >-
+  Hitler'in sözü uzatması hakkındaki bir şakada, bir zamanlar dört gün süren bir konuşma yapmış bir diktatör
+  olarak anıldı.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6b1095c44672
+  role: 41aaba10c80a
+  quote: 3fd56d7e62b3
+  summary: 865e1f36208f
+  verification_method: ad8cee67138e

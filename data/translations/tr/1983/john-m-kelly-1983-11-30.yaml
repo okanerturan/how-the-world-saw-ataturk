@@ -1,0 +1,41 @@
+# Turkish for data/voices/1983/john-m-kelly-1983-11-30.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: john-m-kelly-1983-11-30
+voice: John M. Kelly
+role: Dublin South-Central Fine Gael Milletvekili (TD), anayasa hukukçusu ve eski Başsavcı
+quote: >-
+  Türkler, büyük liderleri Atatürk'ün gözünde, Avrupa'ya kültürel ve ekonomik bakımdan kenarda kalmış olmanın
+  dezavantajları altındaydı. Onlara dilleri için kullandıkları Arap yazısını kaldırıp attırdı, peçelerini ve
+  feslerini kaldırıp attırdı, Batı Avrupalılar gibi giyinmelerini sağladı. Sanırım bu, insanlara yapılacak
+  acımasızca bir şeydi.
+quote_kind: translated
+summary: >-
+  Türkiye'nin 'büyük lideri', ülkenin kenarda kalmışlığına son vermek için zorla Batılılaştırma uyguladı:
+  yazı, peçe ve fes kaldırılıp atıldı; 'insanlara yapılacak acımasızca bir şey'.
+caveat: >-
+  Dáil Éireann, Export Promotion (Amendment) Bill, 1983: Second Stage (Resumed), 30 Kasım 1983, sütun 661
+  sonrası. Dünyaya satış yapabilmek için gelenekten kopan uluslara model olarak Japonya ve Türkiye'yi sunar.
+  oireachtas.ie üzerindeki resmi tutanak etkileşimli bir insan doğrulaması kontrolünün arkasında yer
+  aldığından açılmadı; dolayısıyla kanıt düzeyi S. Veri kümesindeki diğer Dáil sonuçları bir görüş
+  belirtmemektedir: Lynch 1973 ve Ahern 2003 (bir çelenk), 'the war of the oil owners against Kemal Pasha'
+  savaşında çarpışmayı reddetmek üzerine 1922 tarihli bir konuşma (veri kümesinde şüpheli biçimde Cosgrave'e
+  atfedilmiştir), Kelly 1987 ('isolated as the Turks were before Ataturk'), Higgins 1991 (ironik bir
+  karşılaştırma), Broughan 2003 (atfedilen bir vaat).
+mediated_by: >-
+  Database of Parliamentary Speeches in Ireland, 1919–2013 (Herzog ve Mikhaylov, Harvard Dataverse
+  doi:10.7910/DVN/6MZN76), speechID 2109508, Dáil resmî tutanağının transkripsiyonu
+verification_note: Veri kümesi dökümünde alıntı birebir aynı; konuşmacı ve tarih veri kümesinden alındı.
+verification_method: >-
+  ana etmen tarafından indirilen veri kümesinde yerel grep araması; oireachtas.ie üzerindeki resmi tutanak
+  açılmadı (etkileşimli doğrulama); bağımsız bir denetleyici değil
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6030ead9dbba
+  role: 5052623dbcf5
+  quote: 2a6e5a223ae2
+  summary: 45d9b70a66c6
+  caveat: "772068111150"
+  mediated_by: f96d2f4cc7f4
+  verification_note: a2ab3f542da9
+  verification_method: 2348ce249823

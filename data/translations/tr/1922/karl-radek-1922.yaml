@@ -1,0 +1,30 @@
+# Turkish for data/voices/1922/karl-radek-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: karl-radek-1922
+voice: Karl Radek
+role: Bolşevik Komintern lideri
+quote: >-
+  Eğer teslim olurlarsa Mustafa Kemal Paşa'nın rolü biter, Türkiye'nin kaderi üzerindeki pazarlık yeniden
+  başlar ve Türk halkı bahşiş karşılığında satılır.
+quote_kind: translated
+summary: >-
+  Zulme uğrayan Türk komünistlerine kendilerini savunmalarını, ancak kendi kurtuluş mücadelelerinin zamanı
+  henüz gelmediği için Türkiye'nin egemenliğini savunmayı sürdürmelerini söyledi.
+caveat: Çeviri; Türk komünistleri zulme uğrarken Ankara liderliği hakkında verilen koşullu hüküm.
+mediated_by: >-
+  Riddell (ed.), Toward the United Front (2012), Dördüncü Kongre tutanağının İngilizce çevirisi
+verification_note: >-
+  Bakış Türkiye'nin egemenliğine/Ankara'ya yöneliktir, Atatürk ismen anılmaz; WSWS, Komintern tutanağının
+  taraflı bir aktarımıdır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8bc65d351c24
+  role: 9319d631b63c
+  quote: 23a606384689
+  summary: 4566d94ae4a3
+  caveat: 076cac4e471b
+  mediated_by: 6659461d3254
+  verification_note: dcc2879538fd
+  verification_method: ad8cee67138e

@@ -1,0 +1,42 @@
+# Turkish for data/voices/1927/liman-von-sanders-1927.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: liman-von-sanders-1927
+voice: Otto Liman von Sanders
+role: Alman general, Gelibolu'da Beşinci Ordu komutanı; anı kitabı Five Years in Turkey
+quote: Onun enerjisine tam güvenim vardı.
+quote_kind: translated
+summary: >-
+  Ağustos 1915'te enerjisine güvenerek 19. Tümen komutanına Anafartalar Grubu'nu verir ve Ekim 1918'de Ordu
+  Grubu'nu Kemal'e devreder.
+caveat: >-
+  Five Years in Turkey (İngilizce çeviri, US Naval Institute, 1927), s. 86 (üst başlık '86 FIVE YEARS IN
+  TURKEY'); açık DLI taraması in.ernet.dli.2015.24341. Aynı pasaj, s. 85: 'Mustapha Kemal, who earned his
+  first military laurels in Cyrenaica, was a leader that delighted in responsibility' (OCR 'reponsibility'
+  olarak okur). 31 Ekim 1918 tarihli veda emri (s. 320), komutayı 'proved in many a glorious battle'
+  ifadeleriyle 'H. E. General Mustapha Kemal'e devreder. Almanca özgün metin Fünf Jahre Türkei'dir (1920).
+  Aynı kitapta Liman, 1918'deki Yedinci Ordu komutanlığına ilişkin Kemal için 'did not want' ve 'did not keep
+  it' der. Kemal'in komutanı ve daha sonra yenilmiş bir müttefik olarak yazar; cumhurbaşkanı hakkında daha
+  sonraki bir değerlendirmesi yoktur.
+verification_note: >-
+  Birebir aynı, sayfa sonuyla bölünmüş: '...tenaciously and inflexibly resisting all attacks. [86 FIVE YEARS
+  IN TURKEY] I had full confidence in his energy.' s. 86'da ('Mustapha Kemal ... delighted in reponsibility'
+  [sic, OCR] cümlesi s. 85'tedir). Bağlam: 19. Tümen komutanına o akşam tüm Anafartalar birliklerinin
+  verilmesi (Ağustos 1915). s. 320'deki Adana, 31 Ekim 1918 tarihli veda emri ('placing the command of the
+  Army Group into the hands, proved in many a glorious battle, of H. E. General Mustapha Kemal') ve Yedinci
+  Ordu değerlendirmesi ('did not want the command and did not keep it') ikisi de doğrulandı. Kutupluluk
+  hayranlık belirten, yoğunluk 2 uygun. DÖNEM DÜZELTMESİ: dönem 'posthumous' değil, 'contemporary' (1927,
+  Kemal Cumhurbaşkanı olarak hayatta) olmalıdır. Not: 1927 telif tarihi İngilizce çeviriye aittir; Almanca
+  özgün metin Fuenf Jahre Tuerkei 1920 tarihlidir, dolayısıyla bu yargı ilk kez Kemal savaş dönemi/cumhuriyet
+  dönemi bir şahsiyetken basılmıştır; dönem her iki durumda da çağdaştır.
+verification_method: >-
+  açık djvu metninin curl ile çekilmesi, bağlam içinde okunması; sayfa numarası üst başlıktan
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8359e777539c
+  role: 30bd93bb5a59
+  quote: 185097d36c83
+  summary: 9a12e0205642
+  caveat: f99d7e292839
+  verification_note: e6e312293e97
+  verification_method: ecca85580fe6

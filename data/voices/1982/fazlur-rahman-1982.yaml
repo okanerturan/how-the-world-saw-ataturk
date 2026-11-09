@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: fazlur-rahman-1982
+voice: Fazlur Rahman
+voice_type: person
+role: >-
+  Pakistani-born Islamic modernist scholar, University of Chicago; Islam and Modernity (1982)
+country: Pakistan
+country_now: Pakistan
+domain: religion
+date: "1982"
+era: posthumous
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Names Atatürk and Inönü architects of a purely secular school system that expunged religion; says religion's
+  subjugation to politics forced secularism, which is no answer.
+quote:
+  text: >-
+    whose two chief architects, Kemal Ataturk and Ismet Inonu, considered it a violation of the sanctity of
+    the secularist principle even to mention the word "Allah" in public!
+  language: en
+caveat: >-
+  Islam and Modernity: Transformation of an Intellectual Tradition (University of Chicago Press, 1982), p. 63
+  (archive.org scan, printed page headers). Other passages: p. 54 ('despite Atatürk's personal allergy to
+  religion Islam returned to national education — via nationalism'); p. 62 (Atatürk's government, 'under the
+  claim of unifying all education, eliminated the traditional schools'); p. 91 ('Even the great and powerful
+  Atatürk could not reform traditional education'); p. 140 ('it was this pernicious phenomenon [subjugation of
+  religion to politics] that forced Kemal Ataturk to opt for secularism. Secularism is not the answer').
+  Polarity 'conflicted' because he sees both causes and failure; the dominant tone on education is critical.
+  The scan's OCR spells the name 'Atatiirk'; the quote above is from a clean line.
+node: Leaders and Thinkers of the Muslim World and Asia on Atatürk in Their Own Words
+sources:
+  - url: https://archive.org/details/FazlurRahmanIslamandModernity
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org/download/FazlurRahmanIslamandModernity/FazlurRahmanIslamandModernity_djvu.txt (printed headers)
+  method: curl djvu text
+  note: >-
+    Quote verbatim on p.63 (header 'Classical Islamic Modernism 63'). Other cited pages verified: p.54
+    ('personal allergy to religion'), p.91 ('Even the great and powerful Ataturk could not reform traditional
+    education'), p.140 ('it was this pernicious phenomenon that forced Kemal Ataturk to opt for secularism.
+    Secularism is not the answer'). Conflicted/2 fair.
+  checked_on: "2026-11-03"

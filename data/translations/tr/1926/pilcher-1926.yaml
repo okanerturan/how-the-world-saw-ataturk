@@ -1,0 +1,24 @@
+# Turkish for data/voices/1926/pilcher-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pilcher-1926
+voice: Milletvekili Mr Pilcher
+role: Milletvekili, İngiliz-Irak Antlaşması görüşmesi
+quote: >-
+  Hintli Müslüman, Angora'daki Mustafa Kemal Paşa rejiminin gerçek mahiyetini tam olarak keşfetmiştir.
+quote_kind: translated
+summary: >-
+  Hintli Müslümanların artık Kemal rejiminin fes takanlara ve Müslüman ibadet biçimlerine zulmettiğini ve
+  yöneticilerinin 'kesinlikle librepenseurs ve Müslüman karşıtı' olduğunu bildiklerini ileri sürdü.
+caveat: >-
+  Hansard metninde ilk adı ve partisi verilmemiştir; yalnızca API üye adı olan 'Mr. PILCHER' üzerinden tespit
+  edilmiştir.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 78d98ccde962
+  role: 0ec86c2a8af5
+  quote: 749eb1530fdd
+  summary: eca079553b65
+  caveat: bcee05646015
+  verification_method: a033a528b603

@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: king-1923-01
+voice: William H. King
+voice_type: person
+role: U.S. Senator from Utah (Democrat)
+country: United States
+country_now: United States
+domain: politics
+date: "1923-01-26"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Answering Owen, calls Kemal Pasha's appeal to America 'a most adroit and intriguing document' meant to
+  soften criticism of Kemalist treatment of Christians.
+quote:
+  text: >-
+    The appeal by Kemal Pasha, to which the Senator refers, is a most adroit and intriguing document. … the
+    barbarities perpetrated by the Kemalists and the Turks upon Christian minorities
+  language: en
+caveat: >-
+  His own words in reply to Owen; he goes on to review the Armenian case. Sensitive thread (Armenians,
+  Greeks): the speaker's framing. Two-column OCR; the second fragment is taken from the next lines of the same
+  speech and joined with an ellipsis. Cited as Senate, 26 January 1923, Congressional Record vol. 64 (bound),
+  p. ~2488 (granule CRECB-1923-pt3-v64-4-1).
+node: >-
+  Congressional Record Closing Pass — King, Owen, Davis, Sirovich, Pepper, Knowland and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1923-pt3-v64/pdf/GPO-CRECB-1923-pt3-v64-4-1.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.govinfo.gov/content/pkg/GPO-CRECB-1923-pt3-v64/pdf/GPO-CRECB-1923-pt3-v64-4-1.pdf - Senate, 26
+    Jan 1923, p. 2488
+  method: pdftotext -layout of the govinfo bound-edition granule
+  note: >-
+    Both fragments verbatim, same speech and page (second fragment about 30 lines later). Gaze is the
+    judgement of Kemal's appeal ('adroit and intriguing', schooled-in-democracy pose); the 'barbarities'
+    fragment names 'the Kemalists and the Turks' collectively, not Kemal personally, so it should stay clearly
+    a charge in King's framing (sensitive thread, neutral voice needed). Hostile 2 fair.
+  checked_on: "2026-11-04"

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: goniec-warszawski-1938
+voice: Goniec Warszawski
+voice_type: press
+role: Warsaw daily
+country: Poland
+country_now: Poland
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  Called his death an event of international character; in fifteen years he modernised Turkey, its army and
+  its foreign policy.
+quote:
+  text: an event of international character
+  language: en
+mediated_by: Toksoy 2006 ← Turkish press digests (Ayın Tarihi Nov 1938, Ulus, Akşam)
+node: Warsaw Compares Him to Washington, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt sec. Polonya (Kurun quoting Goniec Warszawski, fn.96)
+  method: local
+  note: Quote text sits in Kurun's report of Goniec; second-hand but as stated.
+  checked_on: "2026-10-29"

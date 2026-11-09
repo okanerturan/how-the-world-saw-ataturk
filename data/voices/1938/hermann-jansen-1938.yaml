@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hermann-jansen-1938
+voice: Hermann Jansen
+voice_type: person
+role: German architect and urban planner, author of the Ankara plan
+country: Germany
+country_now: Germany
+domain: arts
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Mourned the death of the highly ingenious state president.
+quote:
+  text: hochgenialen Staatspräsidenten Kemal Atatürk
+  language: de
+caveat: >-
+  TBMM vol. 2 (c2) PDF p. 15. Quote in German; translation: 'highly ingenious state president'. Role from the
+  index entry 'Prof. Hermann Jansen' plus background knowledge (Ankara plan 1928); not stated on the sheet.
+node: Heads of State Write to the Assembly, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Taziyetname 1938, c2.pdf p. 15 (right-hand telegram, Berlin)
+  method: >-
+    Own render of the PDF page (PDFKit PNG, read by eye); no OCR relied on; telegraph text is unaccented
+    capitals/lowercase typescript
+  note: >-
+    'herzliches beileid zum schweren verlust des hochgenialen staatspraesidenten kamalatatuerk = tiefbewegt
+    professor hermann jansen'. Record 'hochgenialen Staatspräsidenten Kemal Atatürk' normalises umlaut and
+    spaces the fused name 'kamalatatürk' (source spelling 'Kamal'). Role (architect, Ankara plan) is not on
+    the sheet, as the record admits. The left telegram on the page is Goering's, not this record. Record
+    phrase 'death' is 'verlust' (loss) in the source; harmless.
+  checked_on: "2026-11-01"

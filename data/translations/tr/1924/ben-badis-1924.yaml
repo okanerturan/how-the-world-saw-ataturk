@@ -1,0 +1,26 @@
+# Turkish for data/voices/1924/ben-badis-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ben-badis-1924
+voice: Abdelhamid Ben Badis
+role: Cezayirli reformist âlim; al-Shihab editörü
+quote: >-
+  İslam birliğini korumak için kötülüklerine göz yumduk — ve hilafeti kaldıracaklarını asla hayal etmedik.
+quote_kind: translated
+summary: >-
+  Kemalistleri hilafete, halifeye, Osmanlı Hanedanı'na ve bizzat dine karşı suç işlemekle itham etti; daha
+  önceki övgülerini kabul etti.
+caveat: Birincil kaynak tıpkıbasım olarak görülmedi; Guenn ve al-Sallabi üzerinden aktarılmıştır.
+verification_note: >-
+  Alıntı, Arapçadan ikincil kaynak aracılığıyla yapılan İngilizce çeviridir; "1924-03" ay bilgisi kaynakta yer
+  almıyor (yalnızca "after the 1924 abolition" geçiyor); birincil kaynak görülmedi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9e4b3f43b1a4
+  role: 0ee037d5fa73
+  quote: 671be043f1b6
+  summary: 0148a8c96b48
+  caveat: 931ee1672377
+  verification_note: 99050e558ed9
+  verification_method: ad8cee67138e

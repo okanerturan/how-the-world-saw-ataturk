@@ -1,0 +1,23 @@
+# Turkish for data/voices/1923/auckland-star-1923.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: auckland-star-1923
+voice: Auckland Star
+role: Auckland akşam gazetesi, 'The New Turkish Era' başlıklı başyazı
+quote: Mustafa Kemal askeri bir diktatörden pek de fazlası değildir
+quote_kind: translated
+summary: >-
+  Türklerin herhangi bir şekilde yeniden doğuşundan kuşku duydu, Kemal'i askeri bir diktatörden pek de fazlası
+  olmamakla niteledi ve Türkiye'nin Batı'yı dışarıda bırakacağından korktu.
+caveat: >-
+  Cümle şöyle devam eder: 'they have virtually got rid of the Sultanate, for Mustapha Kemal is little more
+  than a military dictator'.
+verification_method: sayfa çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 92838cbf819b
+  role: d4733be63fc9
+  quote: 5d902c3b9667
+  summary: a807e127f388
+  caveat: b46ee5d2fef8
+  verification_method: ad8cee67138e

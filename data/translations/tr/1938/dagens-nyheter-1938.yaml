@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/dagens-nyheter-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dagens-nyheter-1938
+voice: Dagens Nyheter
+role: İsveç günlük gazetesi
+summary: >-
+  Önce Türkiye'yi kurtardığını, ardından yeni bir anayasa, kültür ve ülküyle yeni bir devlet yarattığını
+  belirtti; savaş sonrasının en dikkate değer devlet başkanı.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki özgün nüshalar görülmemiştir.
+mediated_by: Toksoy 2006 ← Cumhuriyet (İsveç gazeteleri bölümü)
+verification_note: Toksoy bunu ortaklaşa olarak Social Demokraten ve Dagens Nyheter'e atfeder.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 81d60dad3f32
+  role: 64409c633f80
+  summary: 7185c69367b2
+  caveat: ecc719a2a575
+  mediated_by: 8bd77e33cab2
+  verification_note: ff04eecb7b6f
+  verification_method: 939bb46a04c3

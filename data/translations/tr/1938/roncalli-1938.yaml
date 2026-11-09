@@ -1,0 +1,51 @@
+# Turkish for data/voices/1938/roncalli-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: roncalli-1938
+voice: Angelo Roncalli (daha sonra Papa XXIII. John)
+role: Türkiye ve Yunanistan Apostolik Delegesi
+quote: Şimdi göçüp gitmiş olan bu iki hayatın beslediği soğuk duyguları paylaşmıyorum.
+quote_kind: translated
+summary: >-
+  Başkalarının beslediği soğuk duyguları reddederek Atatürk ve Rum Ortodoks patriği için dua eder; hükmü,
+  yumuşak huylu ve şefkatli olduğunu düşündüğü Rabbe bırakır.
+caveat: >-
+  Vakıf müdürü tarafından Roncalli'nin günlüğünden İngilizce çevirisiyle alıntılanmıştır; İtalyanca orijinale
+  ve Journal of a Soul metnine ulaşılamamıştır. Verilen günlük tarihi .. died' şeklindedir - konuşmada bir dil
+  sürçmesi; tarih yalnızca 1938 olarak kaydedilmiştir. Kayıt Atatürk'ü Rum Patriği Chrysostomos ile bir araya
+  getirir; konuşmacı Roncalli'nin naaşı ziyaret edip dua ettiğini ekler. Papa XXIII. John hakkındaki mevcut
+  not yalnızca Roma'ya dünyanın büyük bir adamı kaybettiğini söylediğini belirtir; bu kayıt ise günlüğe
+  dayanmaktadır. Aktarılan '19 Oct 1938' günlük tarihi imkânsızdır (Atatürk 10 Kasım'da, Chrysostomos yaklaşık
+  22 Ekim'de ölmüştür); kayıt 10 Kasım sonrasına aittir. Kayıt Atatürk ile ilgilidir: pasaj 'the leader of the
+  Turks, secular reformer of that people' ifadesini kullanır. İngilizce bir çevirinin tekil ikincil
+  aktarımıdır (Bolis, EWTN); İtalyanca orijinal görülmemiştir.
+mediated_by: >-
+  Ezio Bolis (Direktör, Pope John XXIII Foundation, Bergamo), 'What Was John XXIII Really Like?', EWTN,
+  günlüğü İngilizce alıntılayarak
+verification_note: >-
+  Alıntı EWTN konuşmasında birebir yer almaktadır, ancak konuşma günlük kaydını '19 October 1938' olarak
+  tarihlendirir. 'these two lives which have now passed away' ifadesini kullanan bir metin için bu tarih doğru
+  olamaz: Atatürk 10 Kasım 1938'de ölmüştür ve Yunan din adamı Chrysostomos (Atina Başpiskoposu, ikinci isim)
+  18-22 Ekim 1938 civarında (Wikipedia 22 Ekim verir), yani yine 19 Ekim'den sonra ölmüştür. Kaydın kendisi
+  (alıntılandığı şekliyle) 'The leader of the Turks, secular reformer of that people' ve 'the religious leader
+  of the Greek Orthodox' ifadelerini kullanır; dolayısıyla Atatürk ile ilgilidir ancak yalnızca bu tanım
+  üzerinden, ve gerçek tarihi bilinmemektedir (10 Kasım 1938'den sonra olmalıdır). Sonuç olarak kişi,
+  konuşmanın açıklaması artı günlüğün kendi tanımıyla tespit edilmektedir, kaynaktaki tarih hatalıdır ve
+  orijinal metin görülmemiştir. DÜZELTME: tarihi '1938' (veya işaretlenmiş olarak '1938-11?') şeklinde tutun;
+  günlük tarihi olarak '19 Oct 1938' ifadesini silin ve konuşmanın tarihlendirmesinin imkânsız olduğunu
+  belirtin; kimliği belirleyen cümleyi ('The leader of the Turks, secular reformer of that people, and the
+  religious leader of the Greek Orthodox ...') notta alıntılayın; kanıt durumu S-doğrulamalı günlük değil, bir
+  çevirinin tekil ikincil aktarımı olarak geçmelidir; 'funeral' dönemi makuldür ancak kanıtlanmamıştır.
+verification_method: >-
+  EWTN konuşmasının tools/ms ile ücretsiz çekilmesi; pasajın bağlam içinde okunması; günlük kaydı için
+  İngilizce ve İtalyanca aramalar; Chrysostomos'un ölüm tarihinin kontrol edilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9ceca0e554c8
+  role: 84f65f38401d
+  quote: 3ac6d14c31d2
+  summary: b8d9e8f304fb
+  caveat: 6c41c95cff52
+  mediated_by: a2db130fb9a6
+  verification_note: 966388f1e5f6
+  verification_method: 0a6c684f2f89

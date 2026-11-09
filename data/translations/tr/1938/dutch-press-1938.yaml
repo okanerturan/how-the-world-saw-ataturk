@@ -1,0 +1,30 @@
+# Turkish for data/voices/1938/dutch-press-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dutch-press-1938
+voice: Hollanda günlük basını (Delpher derlemi)
+role: Hollanda ulusal günlük gazeteleri
+quote: Cumhurbaşkanı Kemal Atatürk vefat etti.
+quote_kind: translated
+summary: >-
+  Ölümü Reuter acil haberiyle, Galata Köprüsü'ndeki kalabalıkları, yarıya indirilen bayrakları ve onun
+  cumhuriyetçi ilkelerini savunmaya ant içen öğrencileri herhangi bir editoryal yargıda bulunmaksızın
+  bildirdi.
+caveat: >-
+  Not, Hollandalıları tarafsız bir kontrol grubu olarak çerçeveliyor; tutum, yorum yokluğundan çıkarılmış.
+  Galata Köprüsü, yarıya indirilen bayraklar ve öğrenci andı MMRHCG03:163502019:mpeg21:a00052 kaydında yer
+  alıyor; 12 Kasım tarihi KB üst verisinden geliyor (OCR'da tarih yok).
+verification_note: >-
+  'President Kemal Ataturk is overleden' şeklindeki Reuter acil haberi doğrulandı (Istanboel, 10 Kasım).
+  Galata Köprüsü kalabalıkları, yarıya indirilen bayraklar, öğrenci andı ve 12 Kasım tarihi okunan makalede
+  bulunamadı; kayıtta kaynak URL listelenmemiş
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 42f4c56b504b
+  role: 40595211409a
+  quote: 1bc6854db779
+  summary: f443af62e039
+  caveat: 08185454dff8
+  verification_note: 08a0f58ec9a8
+  verification_method: ad8cee67138e

@@ -1,0 +1,40 @@
+# Turkish for data/voices/1921/frunze-1921-12-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: frunze-1921-12-25
+voice: Mikhail Frunze
+role: >-
+  Ukrayna SSC'nin Ankara olağanüstü temsilcisi, Kızıl Ordu komutanı (daha sonra Sovyet savaş komiseri)
+quote: >-
+  Hâkimiyetten söz ederken, sizi —Paşa'yı— göz önüne alıyorum ve sizin hiçbir mal ve mülkünüzün olmadığını ve
+  kendi hizmetiniz ve emeğinizle geçindiğinizi biliyorum. Buradan, komünist ihtilal olsa bile sizin hiçbir şey
+  kaybetmeyeceğiniz sonucu çıkmaktadır.
+quote_kind: original-turkish
+summary: >-
+  Kemal ile görüşmelerinde Türkiye'nin mücadelesini devlet sosyalizmine doğru ilerleyen ulusal-demokratik bir
+  hareket olarak nitelendirdi ve mülksüz Paşa'nın komünist bir devrimden hiçbir şey kaybetmeyeceğini söyledi.
+caveat: >-
+  Rusça bir kaydın Türkçe çevirisi. Çeviri: 'When I speak of power I have you, the Pasha, in mind, and I know
+  you have no property and live by your own service and labour. It follows that even if there were a communist
+  revolution you would lose nothing.' 4 Ocak 1922'de ikinci bir görüşme izlemiştir.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri c. 12 s. 177–179 ← Mustafa Kemal ile Abilov–Frunze görüşmesinin Sovyet kaydı, 25
+  Aralık 1921 (Azerbaycan Yakın Tarih Devlet Arşivi, f. 28, op. 1, d. 68, ll. 10–16) ← Y. Aslan, Mustafa
+  Kemal–M. Frunze Görüşmeleri (2002) s. 35–46
+verification_note: >-
+  Alıntı, s. 179'da Frunze'nin üçüncü soruya (komünistlerin Doğu'ya bakışı) verdiği yanıtta birebir yer
+  almaktadır. Bağlam what_they_saw alanını desteklemektedir: 'national-liberationist and democratic' mücadele,
+  yukarıdan 'state socialism' yönünde ilerleyiş. Arşiv referansı ve Aslan sayfa numaraları uyuşmaktadır.
+  Araçsal (instrumental) nitelemesi doğrudur ve burjuva-devrimci okuması Sovyet çerçevesinin yerinde bir
+  yorumudur.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d2a0d592c1da
+  role: c01f12eb3fef
+  quote: 643c1401e2da
+  summary: aedef1fc9585
+  caveat: db770d4595be
+  mediated_by: b2a9ba439104
+  verification_note: 94bd1d911bc2
+  verification_method: b152e9063489

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: riza-nur-hh-1921
+voice: Rıza Nur
+voice_type: person
+role: Deputy and minister; later exile memoirist
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: internal-mirror
+artifact: memoir
+evidence: P
+summary: >-
+  Memoir says he judged Kemal unfit as commander yet opposed a coup in 1921 because every possible successor
+  looked worse.
+quote:
+  text: >-
+    Hasılı Mustafa Kemal atılınca kimin geleceği ve onun ne olacağı malûm değildir, iyisi mi böyle gitsin
+  language: tr
+caveat: >-
+  Cite: Rıza Nur, Hayat ve Hatıratım, c. 3 (İstanbul: Altındağ, 1967), pp. 888-890 (quote p. 890). Entry set
+  in the weeks around Sakarya (1921); memoir compiled in exile, partisan and treated by scholars with caution.
+node: Rıza Nur
+sources:
+  - url: https://archive.org/details/riza-nur-hayat-ve-hatiratim-iii.-cild
+  - url: https://archive.org/download/riza-nur-hayat-ve-hatiratim-iii.-cild/R%C4%B1za%20Nur-Hayat%20ve%20Hat%C4%B1rat%C4%B1m-III.Cild.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA djvu text of Hayat ve Hatiratim III (OCR), printed p. 890 (running head 8Y0)
+  method: archive.org djvu text; context pp. 888-890 read
+  note: >-
+    Verbatim ('Hasılı Mustafa Kemal atılınca kimin geleceği ... İyisi mi böyle gitsin'); p.889 'Başkumandan
+    lâyık bir adam değil' supports unfit-as-commander; coup-opposition reasoning on p.890.
+  checked_on: "2026-10-29"

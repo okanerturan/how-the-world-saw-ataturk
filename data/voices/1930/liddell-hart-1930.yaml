@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: liddell-hart-1930
+voice: B. H. Liddell Hart
+voice_type: person
+role: British military historian and strategist; The Real War 1914-1918
+country: United Kingdom
+country_now: United Kingdom
+domain: military
+date: "1930"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: chivalrous-enemy
+artifact: book
+evidence: P
+summary: >-
+  Counts Kemal, with Liman von Sanders, among the 'able commanders' Allenby had to outwit in 1918; at Anzac,
+  the 'then unknown' officer.
+quote:
+  text: in 1918 Allenby had to outwit such able commanders as Liman von Sanders and Mustapha Kemal
+  language: en
+caveat: >-
+  The Real War 1914-1918 (Faber, 1930), p. 468 (footer '467' precedes the head 'ANNIHILATION OF THE TURKISH
+  ARMIES'; the book's index gives Megiddo 470 ff.); open DLI scan in.ernet.dli.2015.57906. In the Gallipoli
+  chapter, p. 184: 'the initiative of one opponent, the then unknown Mustapha Kemal, contributed to its
+  unfulfilment' (of the Anzac landing's opportunity). A short remark inside a military history: the record is
+  intensity 1. The existing person note on Liddell Hart already carries a general characterisation without a
+  cited page; this record is the sourced one.
+node: Soldiers on Mustafa Kemal in Their Own Words, 1915–1940
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.57906
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Liddell Hart, The Real War 1914-1918 (Faber 1930, first published MCMXXX), archive.org
+    in.ernet.dli.2015.57906, 2015.57906.Real-War-1914-1918_djvu.txt
+  method: curl of the open djvu text, read in context; page from the folios
+  note: >-
+    Verbatim: 'in 1918 Allenby had to outwit such able commanders as Liman von Sanders and Mustapha Kemal, not
+    such men as those who thrust their heads into the sack at Sedan.' Folio 467 closes the previous page, so
+    the sentence is p. 468 (head ANNIHILATION OF THE TURKISH ARMIES); the book index lists Kemal at 177, 184,
+    186 and 'Megiddo 470 ff.' only. P. 184 confirmed (folio 184 follows it): 'the initiative of one opponent,
+    the then unknown Mukapha [OCR for Mustapha] Kemal, contributed to its unfulfilment'. Judgement 'able
+    commanders' is explicit; intensity 1 fair. ERA FIX: 'contemporary' (1930, Kemal alive), not 'posthumous'.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

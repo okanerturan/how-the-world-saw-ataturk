@@ -1,0 +1,36 @@
+# Turkish for data/voices/1959/khrushchev-1959-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: khrushchev-1959-10-31
+voice: Nikita Khrushchev
+role: Sovyet Başbakanı; SSCB Yüksek Sovyeti'ne sunulan rapor, 31 Ekim 1959
+quote: >-
+  İlişkilerimizin, Türkiye politikasının Kemal Atatürk gibi seçkin bir lider tarafından şekillendirildiği
+  oldukça yakın geçmişe özgü dostluk ve işbirliği ruhu içinde inşa edilmesini içtenlikle istiyoruz,
+quote_kind: translated
+summary: >-
+  ABD üsleri konusunda Türkiye'ye sitem ederken, politikasının 'Kemal Atatürk gibi seçkin bir lider'
+  tarafından şekillendirildiği daha dostane günleri hatırlatır.
+caveat: >-
+  'The international situation and Soviet foreign policy: report given at the third session of the U.S.S.R.
+  Supreme Soviet on October 31, 1959' (Crosscurrents Press, 1960), s. 17 (sayfa numarası pasajdan sonra
+  basılıdır), açık tarama TheInternationalSituationAndSovietForeignPolicyReportGivenAtThe (dosya
+  ISSFP_djvu.txt). Resmî İngilizce çeviri. Menderes dönemi hükümetine bir sitem olarak kullanılmıştır,
+  dolayısıyla araçsaldır. Pasaj aynı zamanda Khrushchev Speaks kitabından da (dizin 'Ataturk, Mustafa Kemal,
+  402') alınmıştır. Khrushchev Remembers tarandı: hiçbir sonuç yok.
+verification_note: >-
+  Birebir: 'We sincerely want our relations to be built in the spirit of friendliness and cooperation typical
+  of the fairly recent past when the policy of Turkey was shaped by such an outstanding leader as Kemal
+  Ataturk,'. '17' sayfa numarası pasajın hemen ardından basılmıştır; OCR numaraların sayfa başında mı yoksa
+  sonunda mı yer aldığını göstermediğinden 's. 16-17' olarak kaynak gösterin. Konuşma tarihi 31 Ekim 1959
+  doğrulandı. Araçsal/1 uygun.
+verification_method: açık djvu metninin curl ile çekilmesi, bağlam içinde okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f42c837d992e
+  role: 6642508d0804
+  quote: cc85c770de4c
+  summary: 9ad6ccf9717e
+  caveat: 0bf75e6eb947
+  verification_note: bca0a14033f9
+  verification_method: fc5e0bd9a728

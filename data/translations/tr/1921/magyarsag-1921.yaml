@@ -1,0 +1,20 @@
+# Turkish for data/voices/1921/magyarsag-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: magyarsag-1921
+voice: Magyarság
+role: Budapeşte günlük gazetesi, kuruluşu Aralık 1920
+summary: >-
+  Kendi muhabirlerini gönderdi, düşmanca haberlere inanmadı, Kemal Paşa'ya büyük sempati gösterdi; başında bir
+  Kemal Paşa bulunduğu için Türkiye'nin antlaşmalara direndiğini söyledi.
+caveat: Kaynakta tam sayı tarihi verilmemiştir.
+mediated_by: Rásonyi, Belleten XLV, s. 79–86 (Macarcadan Türkçe aktarımlar)
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 161892e8f5c5
+  role: 2d85aa5cc034
+  summary: 53cc249bf267
+  caveat: ceef98694069
+  mediated_by: 117adc40ebfe
+  verification_method: ad8cee67138e

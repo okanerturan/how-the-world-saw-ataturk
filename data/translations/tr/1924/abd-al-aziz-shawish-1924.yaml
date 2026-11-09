@@ -1,0 +1,33 @@
+# Turkish for data/voices/1924/abd-al-aziz-shawish-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abd-al-aziz-shawish-1924
+voice: Abd al-Aziz Shawish
+role: al-Akhbar için yazan Mısırlı yazar
+quote: >-
+  Mustafa Kemal, hilafet meselesinde, Halife Abdülmecid günlerinde var olan orta yolla yetinebilirdi
+quote_kind: translated
+summary: >-
+  Kemal, Abdülmecid dönemindeki orta yolu koruyabilirdi; bir zamanlar bizzat kendisi de hilafete talip olmuş,
+  bundan yalnızca huzursuzluk çıkması korkusuyla geri durmuştu.
+caveat: >-
+  Rida'nın yeniden basımı aracılığıyla aktarılmıştır; üç al-Akhbar makalesinden hangisinden alıntı yapıldığı
+  bilinmiyor. Alıntı, notta basılı olan Arapça özgün metnin not yazarı tarafından yapılmış İngilizce
+  çevirisidir.
+mediated_by: >-
+  al-Akhbar (Kahire), 6 Mart 1924 tarihli makaleler, al-Manar 25(4) s. 290'da aktarıldığı şekliyle
+verification_note: >-
+  Arapça 'لقد كان يمكن أن يكتفي مصطفى كمال في مسألة الخلافة بالنحو الوسط الذي كان قائماً لعهد جلالة الخليفة
+  عبد المجيد' ifadesi mevcut; çeviri sadık. s. 289 bunu al-Akhbar'ın 3 Recep / 6 Mart tarihli sayısında
+  Shawish'e atfediyor.
+verification_method: işlenmiş PDF sayfa görüntüleri ve Arapça okuma
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1c188cb776a3
+  role: 9c7878e68858
+  quote: 7b4996c52265
+  summary: 2e49f5431819
+  caveat: 669a454a5504
+  mediated_by: 8f19017d4172
+  verification_note: fcfbac1f6431
+  verification_method: 54f3a294f263

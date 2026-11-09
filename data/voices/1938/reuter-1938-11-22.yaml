@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: reuter-1938-11-22
+voice: Ernst Reuter
+voice_type: person
+role: German Social Democrat in exile, teaching in Ankara; later Governing Mayor of West Berlin
+country: Germany
+country_now: Germany
+domain: politics
+date: "1938-11-22"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: letter
+evidence: P
+summary: >-
+  Wrote his mother after the burial that he had filed past Atatürk's coffin with his school's staff; everyone
+  felt the greatness of the loss.
+quote:
+  text: >-
+    Es ist eine große und allgemeine Trauer, und jeder fühlt wohl die Größe des Verlustes, die gemildert wird
+    dadurch, daß die Nachfolgerfrage ganz glatt und selbstverständlich gelöst worden …
+  translation: >-
+    It is a great and general mourning, and everyone surely feels the greatness of the loss, which is softened
+    by the succession question having been settled quite smoothly and as a matter of course.
+  language: de
+mediated_by: >-
+  Reuter, Schriften – Reden, Bd. 2 (letters 1922–1946, ed. Hirschfeld), letter No. 106 'An die Mutter, Ankara,
+  den [22. November 1938]', read as archive.org search-inside snippets
+caveat: >-
+  Lending-only scan (schriftenreden0000reut_d8g2, catalogued as the 1972 set); page not shown. The letter
+  heading and the Atatürk passage ('Gestern haben wir Atatürk beerdigt, und vorgestern bin ich im Lehrkörper
+  meiner Schule an dem Sarg vorbeidefiliert') come from separate snippets, so their being in the same letter
+  is inferred from the text running on. The date is the editors' bracketed date and fits the Ankara ceremony
+  of 21 Nov 1938. A short private remark: the view is of a shared loss, not a judgement of Kemal's work.
+  Check: p. 497; overlapping snippets show the heading and the Atatürk passage are one letter.
+node: Funeral Voices — Round 32
+sources:
+  - url: https://archive.org/details/schriftenreden0000reut_d8g2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org FTS snippets, schriftenreden0000reut_d8g2 (lending), letter [106], pp. 496–497
+  method: archive.org full-text search (overlapping snippets)
+  note: >-
+    Snippets now chain without a gap: '[106] AN DIE MUTTER Ankara, den [22. November 1938] Liebe Mutter, nach
+    langen trüben und unfreundlichen Tagen bricht die Sonne wie-|497|der durch, die sich hier niemals
+    unterkriegen läßt, und wir hoffen, die nächsten Tage ... Feiertage sind, schönes Wetter zu haben. Gestern
+    haben wir Atatürk beerdigt, und vorgestern bin ich im Lehrkörper meiner Schule an dem Sarg
+    vorbeidefiliert. Es ist eine große und allgemeine Trauer ...' So it is one letter (inference confirmed),
+    and the passage is on p. 497. Quote verbatim. Polarity 'admiring' is thin: the sentence describes the
+    general mourning ('jeder fühlt wohl'). Node 'Funeral Voices — Round 32' is not in the vault yet (created
+    by b39_sweeps.py).
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33b)
+  checked_on: "2026-11-06"

@@ -1,0 +1,39 @@
+# Turkish for data/voices/1945/nazim-hikmet-1945-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nazim-hikmet-1945-11-10
+voice: Nâzım Hikmet
+role: Türk şair ve komünist, o sırada Bursa'da mahpus
+quote: Sarışın bir kurda benziyordu / Ve mavi gözleri çakmak çakmaktı
+quote_kind: original-turkish
+summary: >-
+  Kurtuluş Savaşı destanından dizelerde, 1922 taarruzu öncesinde Kocatepe'deki Kemal'i çakmak çakmak mavi
+  gözlü sarışın bir kurt olarak betimler.
+caveat: >-
+  ÇEVİRİ (bu kaydın): 'He looked like a blond wolf / And his blue eyes flashed like flint.' Haftalık Gün
+  dergisinde, sayı 2 (10 Kasım 1945, Atatürk ölüm yıldönümü sayısı), 'İstiklal Savaşı Destanından: Atatürk'
+  başlığı altında, 'Nazım HİKMET' imzasıyla yayımlanmıştır (archive.org OCR; 'çak- maktı' satır sonu bölünmesi
+  burada birleştirilmiştir). Bu metin, daha sonra Kuvâyi Milliye adıyla yayımlanan destanın Kocatepe
+  bölümüdür; Bursa Hapishanesi'nde yakl. 1939-41 yıllarında yazıldığı bilgisi M katmanıdır, kontrol
+  edilmemiştir. Hâlâ hapisteyken yayımlanan ve tespit edilen bu ilk basıma göre tarihlendirilmiştir. Gün'de
+  imzanın ardından gelen Atatürk hakkındaki imzasız düzyazı ona ait değildir ve kullanılmamıştır. Kemal
+  hakkındaki eleştirel satırları (hapishane mektupları, Moskova dönemi açıklamaları) açık kaynaklarda
+  bulunamamıştır.
+verification_note: >-
+  'İSTİKLAL SAVAŞI DESTANINDAN : ATATÜRK' başlığı altında Kocatepe bölümü 'Sarışın bir kurda benziyordu / Ve
+  mavi gözleri çakmak çak- maktı' dizelerini içeriyor ve 'Nazım HİKMET' imzasını taşıyor; kaydın belirttiği
+  gibi imzasız düzyazı ('Atatürk, bu memlekette Tanzimatta doğup...') imzanın ardından geliyor. Çeviri sadık.
+  Tarih öğe başlığından alınmış; sayfanın kendi künye başlığı OCR'da bozuk çıkmış, ancak ön sayfadaki
+  İnönü'nün 1945 Atatürk anma yazısı bir yıldönümü sayısına uyuyor. Ölüm sonrası (posthumous) nitelemesi
+  doğru. Kendi dizelerinde kahramanca bir portre, dolayısıyla hayran (admiring) nitelemesi sıkı testi geçiyor.
+  Şema tamam.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5753fd011b63
+  role: f1b064ce6d37
+  quote: ca32bed7806c
+  summary: a34518cca4e1
+  caveat: ee8431e43b58
+  verification_note: 157c0912ee6a
+  verification_method: b152e9063489

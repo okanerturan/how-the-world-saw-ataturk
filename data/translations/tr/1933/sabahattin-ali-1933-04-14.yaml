@@ -1,0 +1,45 @@
+# Turkish for data/voices/1933/sabahattin-ali-1933-04-14.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sabahattin-ali-1933-04-14
+voice: Sabahattin Ali
+role: Türk romancı ve şair; Konya Hapishanesi'nde tutuklu Almanca öğretmeni
+quote: >-
+  Beni en çok üzen yediğim ceza değil, sizin büyük isminizin şahsî intikam vasıtası olarak kullanılabilmesi ve
+  buna müsamaha edilmesi keyfiyetidir.
+quote_kind: original-turkish
+summary: >-
+  Gazi'ye hakaret ettiği söylenen bir şiir yüzünden hapse atılınca ona mektup yazarak suçlamayı reddeder,
+  büyük isminin şahsi intikama alet edilmesinden üzüntü duyduğunu belirtir ve af diler.
+caveat: >-
+  ÇEVİRİ (bu kaydın): 'What grieves me most is not the sentence I received, but that your great name could be
+  used as an instrument of personal revenge, and that this is tolerated.' 'Reisicumhur Gazi Mustafa Kemal
+  Hazretlerine' başlıklı, '14- IV - 1933' tarihli, 'Konya Hapisanesinde mevkuf, Konya Muhtelit Ortamektep
+  almanca muallimi Sabahattin Ali' imzalı, damga pullu, kalem kayıtlı ve 'Cumhurbaşkanlığı Arşivi' damgalı
+  daktilo dilekçe. Tıpkıbasımdan (Wikimedia Commons, kaynak 10 Ağustos 2018 tarihli bir Habertürk görseli
+  olarak verilmiş) ve tashih edilmiş tr.wikisource transkripsiyonundan (kalite düzeyi 4) okunmuştur; ikisi
+  birbiriyle uyuşmaktadır. Bir şiirde Cumhurbaşkanı'na 'implicitly and allusively insulting' suçundan bir
+  yıllık hapis cezasını çekiyordu; önce kendisine inanılmasını ('Ben böyle bir şey yapmadım'), ardından af
+  ('Beni affedecek kadar büyük ve iyi kalpli olduğunuzdan eminim') talep eder. Af dilekçesi içinde övgü
+  niteliğindedir, bu nedenle araçsaldır (instrumental). Kemal'in yanıt verip vermediği burada tespit
+  edilmemiştir (1933 affıyla serbest bırakılması M katmanıdır, doğrulanmamıştır). Şiirin kendisi
+  bulunamamıştır.
+verification_note: >-
+  Alıntı hem tıpkıbasımda hem de transkripsiyonda birebir aynı; 'Reisicumhur Gazi Mustafa Kemal Hazretlerine'
+  başlığı, 'I4- IV - 1933' tarihi, imza bloğu, damga pulu ve 'CUMHURBAŞKANLIĞI ARŞİVİ' damgasının tümü görünür
+  durumda. Çeviri sadık. 'Ben böyle bir şey yapmadım' ve 'Beni affedecek kadar büyük ve iyi kalpli
+  olduğunuzdan eminim' ifadeleri mevcut. Küçük ayrıntı: tıpkıbasımda 'imaen ve telmihen' (wikisource'ta
+  'îmmen') ve küçük harfle 'muhtelit' okunuyor. Sıkı test geçiyor: bir yakarış içindeki övgüyle birlikte
+  Kemal'e kendi sözleri, dolayısıyla araçsal (instrumental) nitelemesi yerinde. Şema tamam.
+verification_method: >-
+  curl (wikisource action=raw, Commons API imageinfo) + tıpkıbasım indirildi ve daktilo edilmiş Türkçe metin
+  OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f31a7a964bc4
+  role: eb9b811f0cbb
+  quote: 0b0059efb52d
+  summary: 1c809d3a5a07
+  caveat: d67d1206afe4
+  verification_note: 9606d49fce9a
+  verification_method: 473da4b8c9f2

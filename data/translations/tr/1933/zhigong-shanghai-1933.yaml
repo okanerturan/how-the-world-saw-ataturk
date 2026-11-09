@@ -1,0 +1,26 @@
+# Turkish for data/voices/1933/zhigong-shanghai-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zhigong-shanghai-1933
+voice: 中國致公黨上海第一支部 (Çin Zhigong Partisi, Şanghay 1 No'lu Şubesi)
+role: Denizaşırı Çinlilerin parti şubesi, Chen Jiongming için cenaze beyti
+quote: Siyasette diktatörlüğü savunmadı, nasıl bir Kemal olabilirdi ki
+quote_kind: translated
+summary: >-
+  Beyit, Kemal'i Chen Jiongming'in olmayacağı diktatörler arasında sayar: siyasette diktatörlükten yana
+  değildi, öyleyse nasıl bir Kemal olabilirdi.
+caveat: Eksiltili beyit; çeviri kesin değildir; Chen'in ölüm yılı (Eylül 1933) M-tier'dir.
+verification_note: >-
+  Beyit birebir aynıdır ('政治不主獨裁凱末爾豈可作') ve Şanghay 1 No'lu şube atfıyla eşleştirilmiştir. Okuma yoruma
+  dayalıdır: beyit 1. dizede Kemal'i, 2. dizede Hitler'i ('希德婁何足云') anar; 'lists Kemal among dictators'
+  ifadesi bir açımlamadır. 1933 tarihi sayfa metninde yer almaz (çekince notunda belirtildiği gibi M-tier).
+verification_method: Wikisource ayrıştırılmış metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4bd6a55fb4fb
+  role: 458bf174c20e
+  quote: 3e8f7911aae2
+  summary: f15f07cf6585
+  caveat: b1e570dc2959
+  verification_note: 251d181b5ca9
+  verification_method: f12146cd977f

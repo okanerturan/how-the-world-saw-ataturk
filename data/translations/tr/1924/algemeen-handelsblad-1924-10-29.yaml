@@ -1,0 +1,23 @@
+# Turkish for data/voices/1924/algemeen-handelsblad-1924-10-29.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: algemeen-handelsblad-1924-10-29
+voice: Algemeen Handelsblad
+role: Amsterdam liberal günlük gazetesi
+quote: Mustafa Kemal aşırı faşistlerden çok şey almış
+quote_kind: translated
+summary: >-
+  Kemal'in aşırı faşistlerden çok şey aldığı ve bir parlamento komedisinin ardında diktatörlük uyguladığı
+  yargısında bulundu.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. 'Özel bir muhabir' imzalıdır; gazetenin liberal
+  profili genel bilgiden alınmıştır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b6eb0c5dcae9
+  role: 4ca2ee848ed4
+  quote: e88658d23eda
+  summary: d1becf3cc09d
+  caveat: 2e9cf82ef6d6
+  verification_method: ad8cee67138e

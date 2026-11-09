@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zayyat-1935-03
+voice: Ahmad Hasan al-Zayyat
+voice_type: person
+role: Editor of al-Risala, Cairo
+country: Egypt
+country_now: Egypt
+domain: press
+date: "1935-03-11"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: apostate
+artifact: editorial
+evidence: S
+summary: >-
+  Addresses the great Ghazi Atatürk: praises him for reviving the Sick Man, then says he wronged Turkey's
+  history against nature and logic.
+quote:
+  text: ولكنك ظلمت تاريخك الخاص بمخالفة الطبيعة في التجديد، ومجانبة المنطق في الاصلاح.
+  translation: >-
+    But you wronged your own history by going against nature in renewal and shunning logic in reform.
+  language: ar
+caveat: >-
+  Cited as al-Risala no. 88, 11 Mar 1935, Wikisource page 'مجلة الرسالة/العدد 88/إلى أين يساق الأتراك؟'.
+  Editorial 'Where Are the Turks Being Driven?', signed Ahmad Hasan al-Zayyat, addressed to Atatürk in the
+  second person. Just before the quote: 'You mended the broken wing and revived the Sick Man ... your name is
+  the title of its modern history'. Just after: he fears history will record that Atatürk 'revived a state and
+  killed a nation, built a constitution and demolished a creed'. Distinct from al-Zayyat's 14 Nov 1938
+  obituary editorial already in the dataset. Wikisource transcription; no page image linked.
+node: Egyptian Pens in al-Risala on Atatürk, 1935–1946
+sources:
+  - url: https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_88/%D8%A5%D9%84%D9%89_%D8%A3%D9%8A%D9%86_%D9%8A%D8%B3%D8%A7%D9%82_%D8%A7%D9%84%D8%A3%D8%AA%D8%B1%D8%A7%D9%83%D8%9F
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Arabic Wikisource raw page 'مجلة الرسالة/العدد 88/إلى أين يُساق الأتراك؟'
+  method: >-
+    fetched action=raw, diacritic-normalised substring match of the Arabic quote, then read the surrounding
+    passage, header date and end signature
+  note: >-
+    Arabic quote verbatim (final full stop included). Header date 11-03-1935; byline empty in template but the
+    editorial is signed 'أحمد حسن الزيات'. Direct address 'فخامة الغازي العظيم أتاتُورك!' so it is a view of
+    the man: 'جبرت الجناح المهيض، وأحييت (الرجل المريض) ... فاسمك العزيز عنوان تاريخها الحديث ... ولكنك ظلمت
+    تاريخك ...'; following sentence 'أحييت دولة وأمت أمة، وبنيت دستوراً وهدمت عقيدة، وبعثت لغة ودفنت ثقافة'
+    matches the caveat. Translation faithful. 'Editor of al-Risala' is not on the page (outside knowledge,
+    uncontroversial). Conflicted / 2 fair; schema OK.
+  checked_on: "2026-11-03"

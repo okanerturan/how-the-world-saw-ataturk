@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: l-humanite-1922-09-11
+voice: L'Humanité
+voice_type: press
+role: Paris Communist daily
+country: France
+country_now: France
+domain: press
+date: "1922-09-11"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Read Kemal's victory as a possible blow at British imperialism in Asia, through the Arabs or Afghanistan.
+quote:
+  text: Kemal peut cependant '.atteindre l'impérialisme britannique en Asie
+  language: fr
+caveat: >-
+  View 3. Fragment is a mid-sentence cut; no praise or blame of Kemal as a person appears in it. Gallica
+  ContentSearch fragment, OCR copied as given; view number is Gallica's, not necessarily the printed page.
+node: Paris Dailies on Kemal's Victory, 11–17 September 1922
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k400518q
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica ContentSearch ark bpt6k400518q, PAG_3 fragment
+  method: ms fetch ContentSearch
+  note: Exact OCR fragment; issue date taken from record/ark, not independently confirmed.
+  checked_on: "2026-10-30"

@@ -1,0 +1,37 @@
+# Turkish for data/voices/1938/philip-ireland-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: philip-ireland-1938
+voice: Philip W. Ireland
+role: Harvardlı Orta Doğu siyaset bilimi araştırmacısı (F.R.G.S., M.A. Oxon, Ph.D.)
+quote: >-
+  Atatürk'ün liderliğiyle birlikte yeni Türkiye'nin başlıca güç unsurlarından biri olan ulusal birlik
+quote_kind: translated
+summary: >-
+  Ulusal birliği, Atatürk'ün liderliğiyle birlikte yeni Türkiye'nin başlıca güç unsurlarından biri olarak
+  adlandırır.
+caveat: >-
+  Türk Basın Genel Müdürlüğü'nün (Direction Générale de la Presse, İçişleri Bakanlığı) resimli dergisi olan ve
+  yayımladıklarını seçip basan (ve bazı yazıları tercüme eden) bir Kemalist devlet propaganda mecrası
+  niteliğindeki La Turquie kémaliste'te yayımlanmıştır; archive.org'daki la_turquie_kemaliste kaydının OCR
+  metninden okunmuştur. İmzalı İngilizce özgün metin, 'Land of Pioneers', sayı 27 (Ekim 1938, Atatürk'ün
+  ölümünden bir ay önce yayımlanan on beşinci yıldönümü sayısı); archive.org kaydında Türkçe çevirisi
+  ('Öncüler ülkesi') yer almaktadır. Yazar satırında Harvard Üniversitesi Yönetim Bölümü mensubu olarak
+  gösterilmektedir; hakkında başka hiçbir şey doğrulanmamıştır. Bir gezi ve kalkınma yazısı içinde geçen
+  değerlendirici bir yan cümlecik ('the many reforms instituted by Atatürk' ifadesini de kullanır); yoğunluk
+  1. OCR metninde sayfa numarası görünmemektedir. Kaynak gösterimi: La Turquie kémaliste sayı 27 (Ekim 1938),
+  'Land of Pioneers'.
+verification_note: >-
+  Birebir aynı (satır sonu tirelemesiyle 'lea-dership'). Yazar satırı: 'Philip W. Ireland, F.R.G.S., M.A.
+  (Oxon), Ph.D., Department of Government, Harvard University'. Bir değerlendirme yan tümcesi artı 'reforms
+  instituted by Atatürk'; bakış yoğunluk 1 düzeyinde geçerlidir. Tanınmış bir isim değil.
+verification_method: djvu metni çekildi, dizge eşleşmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 548bf12caec2
+  role: fc46ebb78f41
+  quote: b380a23eabec
+  summary: 7d7391bf8575
+  caveat: 4c5f56654116
+  verification_note: 102a09f329ee
+  verification_method: 8d8522007a86

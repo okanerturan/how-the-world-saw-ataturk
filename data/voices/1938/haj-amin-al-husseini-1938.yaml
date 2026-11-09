@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: haj-amin-al-husseini-1938
+voice: Haj Amin al-Husseini
+voice_type: person
+role: Palestinian Arab leader (cabled from Beirut)
+country: Palestine
+country_now: Palestine
+domain: religion
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: >-
+  Conveyed the Arab nation of Palestine's condolences for the irreparable loss of the great Atatürk.
+quote:
+  text: >-
+    the Arab nation of Palestine presents through you to the noble Turkish people its moved condolences for
+    the irreparable loss … the great Atatürk
+  language: en
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    a local working file (TBMM condolence OCR) (French cable from Beyrouth 12/11, signed Amin Husseni)
+  method: local
+  note: French original translated in record.
+  checked_on: "2026-10-29"

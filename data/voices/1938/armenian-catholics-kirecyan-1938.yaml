@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: armenian-catholics-kirecyan-1938
+voice: Archbishop Boğos Kireçyan and Dr André Pirim
+voice_type: person
+role: Spiritual head of Turkey's Armenian Catholics and a community representative
+country: Turkey
+country_now: Turkey
+domain: religion
+date: "1938-04"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: S
+summary: >-
+  Wished Atatürk health and prayed he would shelter the young republic for years under his wings.
+quote:
+  text: for years under your wings
+  language: en
+mediated_by: Dağlı 2023 ← Presidential Archive (Cumhurbaşkanlığı Arşivi)
+node: Foreign Delegations at the Funeral, November 1938
+sources:
+  - url: https://doi.org/10.30794/pausbed.1170334
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Dağlı 2023 pdf (sources/yabanci-ulkeler-hastalik-vefat.pdf) p.121: Kireçyan telegram 3 Apr 1938
+    "kanatların altında muhafaza etmeni"; Dr André Pirim 2 Apr 1938 (CA 01019988-106,-116)
+  method: local
+  note: Quote is Turkish-to-English translation; Pirim sent a separate telegram on 2 Apr.
+  checked_on: "2026-10-29"

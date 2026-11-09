@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/jaunakas-zinas-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jaunakas-zinas-1938
+voice: Jaunākās Ziņas
+role: Letonya günlük gazetesi
+summary: >-
+  'Ankara'nın Büyük Kurucusu' başlıklı biyografi: eseri ebedidir, mirası daha iyi bir gelecek için temeldir ve
+  Türk gençliğine hayal bile edilemeyecek bir yaşam sunmuştur.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir; yabancı dildeki özgün metinler görülmemiştir; Türkçe derlemelerce
+  özetlenmiştir.
+mediated_by: >-
+  Toksoy 2006 ← Akşam ve Kurun 16 Kasım, Ulus 15 Kasım, Cumhuriyet 15–16 Kasım, Tan 16 Kasım 1938, Ayın Tarihi
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9270a966ad16
+  role: efae05650ca2
+  summary: 8b2ea9670c73
+  caveat: 15b48d70cc5b
+  mediated_by: 64e36ae2f40c
+  verification_method: 939bb46a04c3

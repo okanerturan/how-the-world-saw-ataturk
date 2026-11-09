@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mohamed-ali-1923-12
+voice: Mohamed Ali Jauhar
+voice_type: person
+role: Khilafat leader, president of the Indian National Congress at Cocanada
+country: British India
+country_now: India
+domain: politics
+date: "1923-12"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Cast Britain as the 'chief obstacle' in Ghazi Mustafa Kemal Pasha's path at Lausanne, in a presidential
+  address defending Turkey's cause.
+quote:
+  text: >-
+    it was Great Britain herself that was the chief obstacle in the path of Ghazi Mustafa Kemal Pasha to the
+    very end of this tragic tale
+  language: en
+caveat: >-
+  Delivered at the Cocanada session (title page: held December 26, 1923) — three months before the Caliphate's
+  abolition. Anti-British framing: Kemal is the victim of British policy, not the speaker's subject.
+node: Mohamed Ali Jauhar
+sources:
+  - url: https://archive.org/details/selectedwritings02afza
+  - url: https://archive.org/details/dli.ministry.18951
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: IA dli.ministry.18951 (Presidential Address) djvu text, printed p. 86
+  method: archive.org djvu text
+  note: >-
+    Quote present verbatim (OCR 'KemalPasha'). But caveat says date not printed in OCR; the title page prints
+    'Annual Session ... Cocanada, December, 26, 1923', contradicting the record date 2023-12-28 (historical
+    session opened 28 Dec). Date field/caveat need hedging; quote and polarity fine.
+  resolution: fixed before merge
+  checked_on: "2026-10-29"

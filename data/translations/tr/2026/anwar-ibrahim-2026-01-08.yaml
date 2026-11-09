@@ -1,0 +1,40 @@
+# Turkish for data/voices/2026/anwar-ibrahim-2026-01-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: anwar-ibrahim-2026-01-08
+voice: Anwar Ibrahim
+role: Malezya Başbakanı
+quote: >-
+  Elbette benim de güçlü kişisel görüşlerim var, çünkü o liderlik ederken ve yönetimi elinde tutarken, İslam,
+  dil değişikliği, yazı ve benzeri konularda benim görüşlerimle bağdaşmadığını düşündüğüm bazı kararlar vardı.
+  …fakat bu durum, ülkelerini eritip Avrupalı sömürgecilerin idaresindeki toprakların bir parçası haline
+  getirme girişimlerinden kurtarmayı başaran büyük bir şahsiyete ilişkin katkıyı, rolü ve Türkiye halkının
+  tutumunu silemez.
+quote_kind: translated
+summary: >-
+  İslam, dil ve yazı konularında Atatürk'le aynı fikirde olmadığını, ancak bunun onun Türkiye'yi özgürleştirme
+  rolünü silemeyeceğini söyler.
+caveat: >-
+  Anıtkabir'e çelenk koyarken çekilen fotoğraflarının Malezya'da eleştiri toplamasının ardından, üç günlük
+  resmi ziyaretin sonunda İstanbul'da düzenlenen basın toplantısı. FMT'nin İngilizce aktarımı: 'While I may
+  personally have differing views on certain reforms implemented during his leadership, such as language and
+  religious policies, this does not diminish his role.' Kendisinden önceki Mahathir ve Najib için olduğu gibi,
+  bu törenin ziyaret eden her lider için zorunlu protokol olduğunu söyler.
+mediated_by: Bernama, 8 Ocak 2026; Free Malaysia Today, 9 Ocak 2026 (İngilizce)
+verification_note: >-
+  Malayca alıntı Bernama'da birebir mevcut, FMT İngilizce metni mevcut, protokol ve Mahathir/Najib ifadeleri
+  mevcut. Nüans: 'seorang tokoh besar yang berjaya membebaskan negara mereka' ifadesi 'sumbangan, peranan dan
+  sikap rakyat Turkiye tentang ...' (Türk halkının bakışı) ifadesinin içinde yer alır; dolayısıyla 'calls him
+  a great figure' biraz abartılı kalır; kendi sözleri görüş ayrılığı ve rolünü 'cannot erase' yönündedir.
+  Çelişkili sınıflandırması adildir. Bakış testini geçer.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 83f34953eda1
+  role: d3aea24d3923
+  quote: de797c60ee4d
+  summary: 829ceff06d5e
+  caveat: 13d674b4d501
+  mediated_by: 0003d69e1fba
+  verification_note: 80b1c8ad7ef0
+  verification_method: 5300d17a1d69

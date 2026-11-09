@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: faisal-saudi-foreign-minister-1938
+voice: Faisal (Saudi Foreign Minister)
+voice_type: person
+role: Saudi Foreign Minister
+country: Saudi Arabia
+country_now: Saudi Arabia
+domain: diplomacy
+date: "1938-11"
+era: funeral
+polarity: instrumental
+intensity: 1
+artifact: telegram
+evidence: S+J
+summary: Sent a telegram on Atatürk's death calling it a great loss.
+quote:
+  text: It is a great loss.
+  language: en
+caveat: Courtesy within a pragmatic relationship.
+node: Ibn Saud
+sources:
+  - url: https://mei.edu/wp-content/uploads/2020/02/Aspiring-Powers-Regional-Rivals_Feb.11-2020.pdf
+    archived: https://web.archive.org/web/20261009155554/https://mei.edu/wp-content/uploads/2020/02/Aspiring-Powers-Regional-Rivals_Feb.11-2020.pdf
+  - url: https://gulfif.org/the-emergence-of-saudi-turkish-relations-ataturk-and-ibn-sauds-pragmatism/
+    archived: https://web.archive.org/web/20251215143355/https://gulfif.org/the-emergence-of-saudi-turkish-relations-ataturk-and-ibn-sauds-pragmatism/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    gulfif.org Saudi-Turkish relations: Faisal telegram "It is with great regret that we learned of the death
+    of the President of Turkey... It is a great loss."
+  method: fetch
+  note: mei.edu PDF not fetched; gulfif suffices.
+  checked_on: "2026-10-29"

@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zahir-ismail-1988
+voice: Tan Sri Dato Mohd Zahir Hacı İsmail
+voice_type: person
+role: Speaker of the Malaysian House of Representatives
+country: Malaysia
+country_now: Malaysia
+domain: politics
+date: "1988-04-23"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Says news of Atatürk's deeds reached colonial Malaya, his pictures hung in homes, and he was himself a
+  fervent admirer in his youth.
+quote:
+  text: >-
+    Ben kendim, gençliğimde, ateşli bir Atatürk hayranı idim. Atatürk bir dahi ve en çok muhtaç olduğu anda
+    Türk Milletine Tanrı’nın bir ihsanıdır.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 61 (printed p. 50). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "I myself, in my youth, was an ardent admirer of Atatürk. Atatürk is a genius and a
+  gift of God to the Turkish nation at its moment of greatest need." Same speech: 'O bizi özgür olmağa
+  cesaretlendirdi' (he encouraged us to be free); The minutes print 1947 for liberation from colonial rule;
+  Malaya's independence was 1957. Heading: 'Malezya Millet Meclisi Başkanı Tan Sri Dato Mohd Zahir Hacı
+  İsmail', 23 Nisan 1988.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 61 (printed p. 50); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c61.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Malezya Millet Meclisi Başkanı Tan Sri
+    Dato Mohd Zahir Hacı İsmail, 62. Birleşim, 23 Nisan 1988 (heading on PDF p. 60)'). The same page says 'biz
+    de mücadele ettik ve 1947'de sömürge olmaktan kurtulduk' (Malaya's independence was 1957): a slip in the
+    minutes, so do not repeat the year.
+  checked_on: "2026-11-01"

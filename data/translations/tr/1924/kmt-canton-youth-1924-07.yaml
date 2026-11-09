@@ -1,0 +1,29 @@
+# Turkish for data/voices/1924/kmt-canton-youth-1924-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kmt-canton-youth-1924-07
+voice: KMT Kanton Belediyesi Özel Parti Şubesi, gençlik üyeleri kongresi
+role: Kuomintang gençlik kolu, Kanton
+quote: >-
+  Rusya'nın Lenin'i ve Türkiye'nin Kemal'i ile karşılaştırıldığında, onun hiç de aşağı kalır yanı olmadığını
+  gerçekten hissediyoruz
+quote_kind: translated
+summary: >-
+  Sun Yat-sen'i Lenin ve Kemal ile olumlu biçimde karşılaştırdı ve Çin'in Rusya ile Türkiye'ye gıptayla bakmak
+  zorunda kalmasından yakındı.
+caveat: >-
+  Kemal burada asıl konu değil, Sun için bir ölçüttür; manifesto tarihi başlıkta verildiği gibidir
+  (民國十三年七月二十日).
+verification_note: >-
+  Birebir aynı; metinde ayrıca 'bugün Rusya ve Türkiye'ye gıptayla bakıyoruz' (向俄土而生其羨慕) ifadesi yer
+  almaktadır. Tarih başlıkla uyuşmaktadır. Kemal, Sun için bir ölçüttür.
+verification_method: ms veri çekme yoluyla Wikisource ayrıştırması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 682d7e3c6df2
+  role: 4611d9171000
+  quote: a4b82faff7ce
+  summary: 9dc731cdead5
+  caveat: 4c389d1822ff
+  verification_note: b820abd44243
+  verification_method: 1680f6b23b3d

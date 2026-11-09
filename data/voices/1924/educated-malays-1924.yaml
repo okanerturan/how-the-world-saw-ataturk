@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: educated-malays-1924
+voice: Educated Malays
+voice_type: collective
+role: Malay intelligentsia
+country: British Malaya
+country_now: Malaysia
+domain: religion
+date: "1924"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: report
+evidence: S
+summary: >-
+  Took a negative stance toward Turkish nationalism after the dissolution, as contrary to Islamic law, yet
+  responded positively to some elements of it.
+quote:
+  text: led educated Malays to take a negative stance towards Turkish nationalism
+  language: en
+mediated_by: Al-Shajarah textbook article
+caveat: >-
+  Secondary-on-secondary; the claim is the textbook's. text unchecked (source unreachable 2026-10-29)
+node: Malay Press and the Fall of the Caliphate
+sources:
+  - url: https://journals.iium.edu.my/shajarah/index.php/shaj/article/view/1719
+    archived: https://web.archive.org/web/20250802140936/https://journals.iium.edu.my/shajarah/index.php/shaj/article/view/1719
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Al-Shajarah article view/1719 (Consciousness of Türkiye in Malaysia): search-hit snippet in a local
+    working file s9.json contains the quote; fetch of the article URL returned invalid_url
+  method: fetch
+  note: >-
+    Quote is the 1989-2022 textbook-article summary of Malay reaction, not a 1924 Malay source; gaze is on
+    Turkish nationalism/caliphate abolition, not Atatürk by name. Full text not reached.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

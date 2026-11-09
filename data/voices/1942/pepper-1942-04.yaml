@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pepper-1942-04
+voice: Claude Pepper
+voice_type: person
+role: U.S. Senator from Florida (Democrat)
+country: United States
+country_now: United States
+domain: politics
+date: "1942-04-23"
+era: posthumous
+polarity: admiring
+intensity: 3
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Praises Atatürk's 'thorough and radical revolution' and says that under him and Inönü the Turks made
+  'greater strides forward than any other people'.
+quote:
+  text: >-
+    The astute Kemal Atatürk had perceived that the progressive Turkish people, who had been in constant
+    contact with western civilization, were ripe for these innovations. … Thus, under the leadership of Kemal
+    Atatürk and Ismet Inonu, the Turks have made greater strides forward than any other people in the years
+    following the World War.
+  language: en
+caveat: >-
+  His own speech (about 450 words) in the first year of America's war, when Turkey's neutrality mattered; he
+  lists the reforms (religious courts abolished, Latin letters, Christian calendar) and warns of a German
+  drive on Turkey. Not found in round 22 because the OCR prints the name as 'Atattirk'/'Atatiirk' (the GovInfo
+  search hit the day on 'Kemal'). A third Pepper record after those of 17 April 1947 and 22 December 1950. The
+  OCR prints 'Atattirk'; spelled Atatürk here. Cited as Senate, 23 April 1942, 'Twenty-third Anniversary of
+  the Turkish National Assembly', Congressional Record vol. 88 (bound), pp. 3670-3671 (granule
+  CRECB-1942-pt3-19-1). Check: the fragments were reordered to follow the speech.
+node: >-
+  Congressional Record Closing Pass — King, Owen, Davis, Sirovich, Pepper, Knowland and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1942-pt3/pdf/GPO-CRECB-1942-pt3-19-1.pdf
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    https://www.govinfo.gov/content/pkg/GPO-CRECB-1942-pt3/pdf/GPO-CRECB-1942-pt3-19-1.pdf - Senate, 23 Apr
+    1942, p. 3670
+  method: pdftotext -layout of the govinfo bound-edition granule
+  note: >-
+    Both sentences are verbatim in Pepper's own speech (Mr. PEPPER, 'today marks the twenty-third
+    anniversary'; OCR 'Atattirk' is Atatürk), but the stored quote reverses their order: in the speech 'The
+    astute Kemal Ataturk had perceived that the progressive Turkish people... were ripe for these innovations'
+    comes first, and 'Thus, under the leadership of Kemal Ataturk and Ismet Inonu, the Turks have made greater
+    strides forward than any other people in the years following the World War' comes after it (with the
+    'thorough and radical revolution' of the what_they_saw line a few lines earlier: 'under the able
+    leadership of the great Ataturk gradually effected a thorough and radical revolution'). Fix: swap the two
+    fragments. Gaze is a clear view ('great', 'astute', 'genius'). Admiring 3 is defensible, 2 safer.
+  resolution: corrected/hedged 2026-11-04 — see LEDGER § Source-check corrections (round 24b)
+  checked_on: "2026-11-04"

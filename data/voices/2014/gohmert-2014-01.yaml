@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: gohmert-2014-01
+voice: Louie Gohmert
+voice_type: person
+role: U.S. Representative from Texas (Republican)
+country: United States
+country_now: United States
+domain: politics
+date: "2014-01-15"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: secular-rationalist-prophet
+artifact: speech
+evidence: P
+summary: >-
+  Argues, on Egypt's constitution, that Atatürk defeated radical Islam in Turkey and that Turkey rose because
+  of it.
+quote:
+  text: >-
+    this is something that Ataturk fought against and was able to overcome in Turkey so many decades ago. And
+    because he was able to overcome and overwhelm radical Islam in Turkey, Turkey has surged to the forefront
+    over the past decades in all kinds of areas.
+  language: en
+caveat: >-
+  A floor aside in a special-order speech about the Egyptian referendum; Atatürk is used as proof for
+  Gohmert's argument about the Muslim Brotherhood and the Egyptian constitution. On 7 January (p. H9) he says
+  Atatürk 'overran radical Islam' and Turkey 'bloomed'. Cited as House of Representatives, 15 January 2014,
+  'Conflict in the Middle East', Congressional Record vol. 160, p. H468 (granule CREC-2014-01-15-pt1-PgH468);
+  the same theme in his 7 January 2014 floor speech (p. H9). Passage on p. H469.
+node: >-
+  Congressional Record Pens on Atatürk — Connally, Pepper, Levin, Moynihan, Byrd, Lantos and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/CREC-2014-01-15/html/CREC-2014-01-15-pt1-PgH468.htm
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    GovInfo Congressional Record daily-edition HTML CREC-2014-01-15-pt1-PgH468.htm, fetched fresh
+  method: >-
+    downloaded the GovInfo file, pdftotext/HTML strip, normalised match of the quote; speaker, date and page
+    read from the Record's own headings and running heads
+  note: >-
+    Quote verbatim, House, Wednesday 15 January 2014, Mr. GOHMERT (recognised for 30 minutes under 'Conflict
+    in the Middle East'). CORRECTION: the passage falls after the [[Page H469]] marker, so cite p. H469 (H468
+    is only the granule start). The 7 January 2014 remark ('overran radical Islam and Turkey bloomed') exists
+    in CREC-2014-01-07 (granule PgH9). 'Radical Islam' is Gohmert's wording and the record keeps it as his
+    framing; he also says 'this great leader Ataturk' in the same speech, so admiring is supported.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22c)
+  checked_on: "2026-11-03"

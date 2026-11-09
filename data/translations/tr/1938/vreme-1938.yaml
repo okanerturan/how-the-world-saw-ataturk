@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/vreme-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: vreme-1938
+voice: Vreme
+role: Yugoslav günlük gazetesi
+quote: Seferberlik ilan edeyim mi?
+quote_kind: translated
+summary: >-
+  Başyazı, Kral Alexander'ın 1934'teki suikastının ardından Atatürk'ün seferberlik ilan edip etmemeyi sormak
+  için telgraf çektiğini ve bunun Yugoslavya'nın asla unutmayacağı bir ifade olduğunu hatırlattı.
+caveat: >-
+  Seferberlik telgrafı iddiası Vreme'nin kendisine aittir; telgraf metni görülmemiştir. Alıntılar Toksoy'un
+  Türkçesi üzerindendir; Sırp-Hırvatça asılları görülmemiştir. Şehir belirtilmemiştir.
+mediated_by: Toksoy 2010 §E; aktarıldığı şekliyle Karahasan 1994
+verification_note: Toksoy'un Türkçesinden çevrilmiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b2019b811c4a
+  role: "898984525582"
+  quote: 1a9543bfbd4f
+  summary: e7d83b51dbc8
+  caveat: 28f45960cd4a
+  mediated_by: 59d4438d35b2
+  verification_note: bc034f29a022
+  verification_method: 939bb46a04c3

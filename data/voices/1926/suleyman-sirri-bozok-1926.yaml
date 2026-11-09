@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: suleyman-sirri-bozok-1926
+voice: Süleyman Sırrı Bey (Bozok)
+voice_type: person
+role: Bozok deputy
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1926-11-03"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: Proposed that deputies go in groups to Çankaya to congratulate the Gazi in person.
+quote:
+  text: Gazi Paşa Hazretleri Çankaya'dadır. Kafile kafile gider, arzı tebrikât eyleriz.
+  language: tr
+node: The Assembly Congratulates the Gazi after the İzmir Plot, 1 and 3 November 1926
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c027/tbmm02027002.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Zabıt Ceridesi PDF, Dönem 2, cilt 27, 3 Kasım 1926, printed p. 18
+  method: pdftotext -layout; verbatim
+  checked_on: "2026-10-31"

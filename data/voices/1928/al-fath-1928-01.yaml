@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-fath-1928-01
+voice: Al-Fath (no. 79), reprinting al-Akhbar
+voice_type: press
+role: Cairo Salafi weekly
+country: Egypt
+country_now: Egypt
+domain: press
+date: "1928-01-12"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  After beating the Greeks Kemal imagined himself master of the earth and his words scripture; mocks his
+  Rousseau lecture.
+quote:
+  text: >-
+    thought himself to have become the man of the earth in length and breadth, and that all he says has become
+    verses sent down from heaven
+  language: en
+mediated_by: al-Akhbar article by an unnamed 'prince of eloquence'
+caveat: >-
+  Unsigned reprint. Quote is the note author's English translation of the Arabic original, which the note
+  prints.
+node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
+sources:
+  - url: https://archive.org/details/efath-moheb-elden-elkheeb
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA efath-moheb-elden-elkheeb 001_125 PDF, pdf 1252 (p.452; masthead pdf 1249 no.79, 12 Jan 1928)
+  method: >-
+    curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
+  note: >-
+    Arabic on p.452 'al-Maghrur', 'min maqal fi al-Akhbar li-amir min umara' al-bayan yunimm qalamuhu alayh';
+    unsigned reprint; Rousseau mockery present; hostile holds.
+  checked_on: "2026-10-30"

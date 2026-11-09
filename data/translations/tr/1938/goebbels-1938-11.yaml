@@ -1,0 +1,36 @@
+# Turkish for data/voices/1938/goebbels-1938-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: goebbels-1938-11
+voice: Joseph Goebbels
+role: Reich Propaganda Bakanı; günlük
+quote: Bize karşı olumlu bir tutum içinde, ki Mustafa Kemal Paşa için bu her zaman söylenemezdi.
+quote_kind: translated
+summary: >-
+  İsmet İnönü'nün seçilmesi üzerine, onun Almanya'ya karşı olumlu bir tutum içinde olduğunu ve 'Mustafa Kemal
+  Paşa için bunun her zaman söylenemeyeceğini' kaydeder.
+caveat: >-
+  Die Tagebücher von Joseph Goebbels: sämtliche Fragmente kitabının metin içi arama kesiti (archive.org
+  dietagebuchervon0003goeb; kesit 'gewählt.', yani 'seçildi' kelimesinden başlıyor); dolayısıyla günlük
+  kaydının tarihi (yaklaşık 11-12 Kasım 1938, İnönü'nün seçimi) çıkarımla bulunmuştur ve sayfa görülmemiştir.
+  Çevirisi: 'Bize karşı olumlu bir tutum içinde, ki Mustafa Kemal Paşa için bu her zaman söylenemezdi.' Aynı
+  kitapta daha erken bir kayıt (12 Haziran 1937): 'Über Kemal Paschas abenteuerliches Leben weiter gelesen'
+  (Kemal'in bir biyografisini okuyor) — yargı yok. İngilizce Goebbels Diaries 1942-43 kitabında ise Atatürk
+  üzerine yalnızca bir editör notu vardır.
+verification_note: >-
+  Birebir ve eksiksiz: '... 4. Dezember festgelegt. Ismet Inönü als Nachfolger Atatürks gewählt. Er ist gut zu
+  uns eingestellt, was man von Kemal Pascha nicht immer sagen konnte.' Aynı kesit 4 Aralık için belirlenen
+  Reichstag oylamasını ve İnönü'nün seçilmesini gösterir; bu da kaydı 11 Kasım 1938'den sonraki günlere
+  sabitler, dolayısıyla 1938-11 desteklenmektedir (kesin gün, 11 veya 12 Kasım ve sayfa desteklenmemektedir).
+  Yalnızca kesit. 'Çelişkili' kutupluluğu zorlamadır: Atatürk'ün Almanya'ya karşı tutumu hakkında hafif
+  olumsuz tek bir ara sözdür (yoğunluk 1); 'tanık' veya hafif-hasmane bir etiket daha adil olurdu.
+verification_method: tools/fts.py kesitleri, 3 sorgu (ödünç nüsha; sayfa numarası yok)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b648dd45e329
+  role: d96a1a02d797
+  quote: 9134ee970f05
+  summary: e46d2be4f8e9
+  caveat: 3526b81f2836
+  verification_note: 71d2f01218b1
+  verification_method: 02476f17190e

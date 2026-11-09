@@ -1,0 +1,30 @@
+# Turkish for data/voices/1988/reagan-1988-06-27.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: reagan-1988-06-27
+voice: Ronald Reagan
+role: Amerika Birleşik Devletleri Başkanı; Cumhurbaşkanı Evren'i karşılama töreni
+quote: >-
+  Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk bir keresinde, "Ne mutlu kendine Türk diyebilene."
+  demişti.
+quote_kind: translated
+summary: >-
+  Konuşmasına Atatürk'ün 'Ne mutlu kendine Türk diyebilene' sözünü aktararak başlar ve Türkiye'yi Atatürk'ün
+  ideallerine bağlı tutma başarısını Evren'e atfeder.
+caveat: >-
+  1980 darbesine liderlik eden generale yönelik nezaket karşılaması; Reagan ayrıca 'We are well aware of your
+  own distinguished role, Mr. President, in maintaining Turkey's devotion to the ideals of Ataturk' der ve
+  böylece Atatürk'ü Evren yönetiminin ölçütü hâline getirir.
+verification_note: >-
+  Birebir açılış alıntısı ve 'maintaining Turkey's devotion to the ideals of Ataturk' ifadesinin her ikisi de
+  mevcut. Araçsal/1 değerlendirmesi yerinde.
+verification_method: UCSB sayfasının curl ile çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 55ced80d333c
+  role: 334ecc951416
+  quote: 2ea85b6f4367
+  summary: 8f8a0b68b3af
+  caveat: 4ed1ae8fa842
+  verification_note: 10954d303099
+  verification_method: 276843750f96

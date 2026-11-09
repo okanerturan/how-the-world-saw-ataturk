@@ -1,0 +1,29 @@
+# Turkish for data/voices/1940/sukarno-1940.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sukarno-1940
+voice: Sukarno
+role: Bengkulu'da sürgün, Panji Islam'da yazıyor
+quote: dev şahsiyet Mustafa Kemal Paşa geldi
+quote_kind: translated
+summary: >-
+  Kemal'i Osmanlı kalıntısını temizleyen ve dini devletten ayıran bir dev olarak nitelendirdi; yalnızca
+  aktardığında ısrar ederek Kemalistlerin gerekçelerini açıklar.
+caveat: >-
+  'Apa sebab Turki memisah agama dari negara?', Panji Islam 1940. Sukarno Türkiye'nin gerekçelerini yalnızca
+  'aktardığını' söyler ve eleştirmenlere (Adil) Kemal'in bir din adamı değil, bir devlet adamı olduğu yanıtını
+  verir. Ölümünden sonraki dönem. Archive.org yaprak n484.
+verification_note: >-
+  Birebir 'datang tokoh raksasa Mustafa Kemal Pasya. Ia bersihkan restan kerajaan Usmaniah ... ia pisahkan
+  agama dari negara'; giriş kısmı yazının lehte/aleyhte görüşler üzerine yalnızca 'bahan-pertimbangan'
+  olduğunu söylüyor, 'aktarma' şerhini destekliyor.
+verification_method: archive.org djvu metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 252b8547a012
+  role: f063d9911352
+  quote: a2772ff3b7d6
+  summary: c5ce47cf4b1e
+  caveat: 5515f3b12b84
+  verification_note: 6ca56cca3c0a
+  verification_method: d18ffac52866

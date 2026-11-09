@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nehru-1946
+voice: Jawaharlal Nehru
+voice_type: person
+role: Indian National Congress leader; The Discovery of India (written 1944, published 1946)
+country: British India
+country_now: India
+domain: politics
+date: "1946"
+era: posthumous
+polarity: conflicted
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: book
+evidence: P
+summary: >-
+  Says Atatürk's secular reforms cost him orthodox Moslem admiration but won the young, and that eliminating
+  the Khilafat's core collapsed the Indian Khilafat movement.
+quote:
+  text: >-
+    This very policy, however, made him more popular among the younger generation of both Hindus and Moslems.
+  language: en
+caveat: >-
+  The Discovery of India, ch. 'Kemal Pasha; Nationalism in Asia: Iqbal', pp. 416-417 (the book's index: 'Kemal
+  Pasha, The Ataturk, 416-17'); open scans dli.scoerat.12288 (clean text) and in.gov.ignca.14765. Same
+  passage: 'Kemal Pasha was naturally popular in India with Moslems and Hindus alike. He had not only rescued
+  Turkey from foreign domination and disruption but had foiled the machinations of European imperialist
+  powers, especially England'; 'The Ataturk partly destroyed the dream structure that had gradually grown up
+  in the Indian Moslem mind'; 'when the core itself was eliminated by the Ataturk the superstructure
+  collapsed'. Written in Ahmadnagar Fort 1944. Nehru's existing record is 1934 (Glimpses). A later Nehru
+  letter to chief ministers (c. Aug 1951, Letters to Chief Ministers vol. 2, p. 459) says Kamal Ataturk 'drove
+  out the allied occupation forces from Turkey and later defeated the Greek Army, which was supported by the
+  British' (context only, not stored).
+node: Statesmen on Atatürk in Their Own Words, Memoirs and Speeches
+sources:
+  - url: https://archive.org/details/dli.scoerat.12288jawaharlalnehruthediscoveryofindia9aug1942to28march1945
+  - url: https://archive.org/details/in.gov.ignca.14765
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Nehru, The Discovery of India (1946), archive.org dli.scoerat.12288 and in.gov.ignca.14765 djvu.txt
+  method: curl of both open djvu texts; index checked
+  note: >-
+    Verbatim: 'This very policy, however, made him more popular among the younger generation of both Hindus
+    and Moslems.' Surrounding text matches what_they_saw. Pages: the OUP/JNMF 1981 impression (ignca) indexes
+    'Kemal Pasha, The Ataturk, 416-17'; in the dli.scoerat scan the same passage is p. 349-350 (different
+    impression), so the page depends on the edition. Written 1942-45, first published 1946. Conflicted/2 fair.
+  checked_on: "2026-11-03"

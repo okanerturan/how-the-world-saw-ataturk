@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: stalin-pravda-1920-11
+voice: Joseph Stalin
+voice_type: person
+role: Bolshevik commissar for nationalities
+country: Soviet Russia
+country_now: Russia
+domain: politics
+date: "1920-11-30"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Said the Kemalists fight the Entente and Russia will back them, but flagged a likely swing to the Right and
+  a betrayal of colonial liberation.
+quote:
+  text: >-
+    this struggle will lead to victory together with the Kemalists, if they do not betray the cause of the
+    liberation of the oppressed peoples, or in spite of them, if they should land in the camp of the Entente.
+  language: en
+caveat: >-
+  Names 'the Kemalists', not Kemal himself; interview with a Pravda correspondent, Works vol. 4.
+node: Soviet Leaders on the Kemalists, 1920–1930
+sources:
+  - url: https://www.marxists.org/reference/archive/stalin/works/1920/11/30.htm
+    archived: https://web.archive.org/web/20261014081827/https://www.marxists.org/reference/archive/stalin/works/1920/11/30.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    marxists.org Stalin Works vol. 4, 'The Policy of the Entente in the East' interview, Pravda No. 269, 30
+    Nov 1920
+  method: Free fetch; sentence found
+  note: >-
+    Quote verbatim (record begins mid-sentence after 'and that'). 'Right swing' and 'betray' wording matches.
+    Names the Kemalists, not Kemal, as the record says.
+  checked_on: "2026-11-01"

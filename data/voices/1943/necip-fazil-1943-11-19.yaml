@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: necip-fazil-1943-11-19
+voice: Necip Fazıl Kısakürek
+voice_type: person
+role: Poet, editor of Büyük Doğu, later the best-known Islamist-conservative critic of Kemalism
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1943-11-19"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Imagines Atatürk rising from his tomb in the Ethnographic Museum, in marshal's uniform, to lead the nation
+  when the world is reckoned up.
+quote:
+  text: Bir gün Atatürk dirilecektir!!!
+  language: tr
+mediated_by: >-
+  Gültekin 2025, p. 52 ← Büyük Doğu, 1st series, no. 10, 19 Nov 1943, p. 2 ('Atatürk Dirilecektir!')
+caveat: >-
+  Turkish original, as printed in Deniz Gültekin's 2025 Istanbul University doctoral thesis 'Necip Fazıl
+  Kısakürek'in Perspektifinden Atatürk ve Cumhuriyet Devrimlerinin Yansımaları' (p. 52, footnote 122). In the
+  war year the article is wholly admiring: 'On that day the person at our head ... will be none other than
+  Atatürk'. Gültekin notes the contrast with Necip Fazıl's later, opposition phase in the second series of
+  Büyük Doğu (from 1948), when he serialised Rıza Nur's Hayat ve Hatıratım. Stored as the 1943 face of a voice
+  usually counted hostile; the 1967 record is the other. Footnote 122 is on p. 53.
+node: Rivals, Exiles and Islamist Critics on Mustafa Kemal in Their Own Words, 1920–1967
+sources:
+  - url: https://archive.org/details/yakintarihhh2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org yakintarihhh2 (Gültekin 2025 thesis), p.52 and n.122; ekşi sözlük 'atatürk dirilecektir',
+    veryansintv.com, dikgazete.com (DuckDuckGo snippets)
+  method: archive.org djvu download + free DuckDuckGo
+  note: >-
+    Quote verbatim: 'Bir gün Atatürk dirilecektir!!!' opens the passage printed on p.52 (Ethnographic Museum
+    sarcophagus, 'sırtında mareşal üniforması', 'Atatürk'ten başkası olmıyacaktır'); n.122 (on the next page,
+    p.53) gives Büyük Doğu, birinci devre, sayı 10, '19 İkinci teşrin 1943', s.2. Three independent web pages
+    reproduce the same text and name issue 10, so the thesis is reliable here and the words are Necip Fazıl's.
+    Admiring/2 fair; posthumous era right. (The record says 'p.52, footnote 122': the footnote is on p.53.)
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: manitoba-free-press-1922
+voice: Manitoba Free Press
+voice_type: press
+role: Winnipeg daily (editor J.W. Dafoe)
+country: Canada
+country_now: Canada
+domain: press
+date: "1922-10"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  On Clifford Sifton's orders opposed sending troops; the Turk served as pretext for Canadian independence,
+  not an object of interest.
+quote:
+  text: the policy of the Free Press must be one of opposition to sending troops
+  language: en
+caveat: >-
+  Quote is Sifton's instruction to Dafoe. Stacey 1981 (read in search excerpt); text unchecked (source
+  unreachable 2026-10-29)
+node: Canada Says Not Yet at Chanak, September 1922
+sources:
+  - url: https://doi.org/10.3138/9781442628137
+verification:
+  verdict: unreachable
+  checked_against: https://doi.org/10.3138/9781442628137 (Stacey) bot_blocked; no other copy found
+  method: fetch
+  note: Sifton instruction to Dafoe quote not verified.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

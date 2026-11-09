@@ -1,0 +1,38 @@
+# Turkish for data/voices/1957/wigg-1957-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: wigg-1957-02
+voice: George Wigg
+role: İşçi Partisi Milletvekili, Ordu sözcüsü (sonradan Lord Wigg)
+quote: >-
+  Bugün sayın Beyefendiler Kemal Atatürk'ten büyük saygı ifadeleriyle söz ediyorlar. Kemal Atatürk'ü devirmeye
+  çalıştığımız bir zaman vardı.
+quote_kind: translated
+summary: >-
+  Britanya 1922'de onu yerinden etmeye çalışıp yalnızca daha da güçlendirmiş olsa da, Muhafazakârların artık
+  Kemal Atatürk'e saygı duyduğunu kaydeder.
+caveat: >-
+  Army Supplementary Estimate, 1956-57, HC Deb 5 Şubat 1957, c332. Resmi Hansard tutanaklarının
+  TheyWorkForYou'daki dökümü. Nasır'ı güç kullanarak devirmeye karşı bir emsal olarak kullanılmıştır (Süveyş
+  sonrası): Wigg'in savı, Orta Doğu'daki seçeneğin 'authoritarian regimes based upon the army and chaos'
+  olduğudur. 1923'te İstanbul'da görev yapmış olan Wigg, 1946-57 yılları arasında altı konuşmasında Kemal'den
+  söz eder (24 Mayıs 1946, 16 Mart 1953, Türklerin iyi niyeti üzerine 29 Temmuz 1954, Nasır hakkında 'another
+  Kemal or ... Enver Pasha' ifadesiyle 24 Ocak 1956, 8 Kasım 1956); en kapsamlı beyanı budur. Kontrol: alıntı
+  c334'te yer almaktadır (historic-hansard); TWFY konuşmanın başladığı sütunu verir.
+verification_note: >-
+  Her iki cümle de birebir aynı, konuşmacı George Wigg (g332.1, HC Deb 5 Şubat 1957). Sütun düzeltmesi: c334
+  (konuşma c332'de başlar). Çevreleyen metin: Britanya 'tried to knock Kemal Ataturk off his perch in 1922,
+  and they failed. All they did was to make him stronger.' Kemal'in emsal olarak konuşmacıya ait kullanımı
+  (Süveyş/Nasır); araçsal sınıflandırması doğrudur. Yoğunluk 2 cömert bir değerlendirmedir; 1 savunulabilir.
+verification_method: >-
+  sayfa çekildi, bağlantılı konuşma bloğu (konuşmacı, tarih, kimlik) içinde alıntının normalleştirilmiş metin
+  eşleşmesi yapıldı; sütun numarası historic-hansard sütun işaretlerinden tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f11103bcd890
+  role: ab3d3794ec64
+  quote: daba8d35430b
+  summary: f5960c85f1e3
+  caveat: 90d374e12a10
+  verification_note: 9cf931b0c1da
+  verification_method: 59db5bce95bc

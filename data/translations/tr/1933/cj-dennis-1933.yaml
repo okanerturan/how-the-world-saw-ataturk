@@ -1,0 +1,47 @@
+# Turkish for data/voices/1933/cj-dennis-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cj-dennis-1933
+voice: C. J. Dennis
+role: Avustralyalı şair ('The Sentimental Bloke'), Melbourne Herald manzume yazarı
+quote: Erkekleri sevindirerek Boğaziçi güzellerinin yüzlerinden peçeleri sürgün etti.
+quote_kind: translated
+summary: >-
+  'Kemal - The Posh Pasha'ya mizahi kaside: padişahların palaları ve kementleri gitmiş, peçeler sürgün
+  edilmiş, bir millet tek bir adam tarafından 'uyanık, zamana uygun' hale getirilmiş.
+caveat: >-
+  Dennis'in 'Den' imzasıyla 1933'te Melbourne Herald'da yayımlanan mizahi manzume (middlemiss.org dizini bunu
+  'Works in the Herald 1933' altında listeler; gün belirtilmemiştir). Üst notu şiiri Türkiye Cumhuriyeti'nin
+  'the 10th anniversary' kutlamasına bağlar (yani Ekim sonu veya Kasım 1933) ve Kemal hakkında 'fought against
+  the Anzacs at Gallipoli, is spoken of by General Sir Harry Chauvel as a very great man' der (üst not, yani
+  Dennis'e veya Herald'a aittir ve Chauvel'in sözü aktarılmış olup burada kaynağı verilmemiştir). Şarklı
+  klişeler (haremler, nargileler, falaka) şiirin kendisine aittir. Metin, Perry Middlemiss'in Herald
+  transkripsiyonundan doğrulanmıştır; Herald sayfa görüntüsünün kendisi (Trove) görülmemiştir. Kontrol:
+  Middlemiss 'Den', Herald (Melbourne), 1 Kasım 1933, s. 6 bilgisini verir; Trove sayfasının kendisi görülmedi
+  (bot kontrolü), dolayısıyla kanıt S. GÜNCELLEME 4 Kasım 2026: Trove'un otomatik kontrolünü geçen arayüzlü
+  bir tarayıcı aracılığıyla Trove üzerinden okundu (makale 243202439; The Herald, Melbourne, 1 Kasım 1933, s.
+  6, 'Den' imzalı 'KEMAL — THE POSH PASHA'); üst not Chauvel'in Kemal'i 'a very great man' olarak
+  nitelendirdiğini aktarır. Kanıt S → P.
+verification_note: >-
+  Alıntı transkripsiyonda birebir aynıdır (To the joy of the males he has banished the veils / From the faces
+  of Bosphorous belles); 5 kıtanın tamamının kafiyesi ve vezni sağlamdır, dolayısıyla transkripsiyon hatası
+  olası değildir, ancak Herald sayfa görüntüsünün kendisi görülmemiştir (Trove erişilemez durumda) ve diğer
+  kopyalar (poetry.com vb.) türevdir. Sayfa tarihi VERMEKTEDİR: 'Den', Herald, 1 Kasım 1933, s. 6 - kayıttaki
+  'day not given' ifadesi yanlıştır. DÜZELTMELER: tarih '1933-11-01'; uyarı notu: 'the day was not given'
+  ifadesini 'Herald 1 Nov 1933, p. 6 per Middlemiss' ile değiştirin; Trove sayfası kontrol edilene kadar kanıt
+  P -> S (Herald transkripsiyonu, sayfa görüntüsü görülmedi). Üst not (10. yıl dönümü; Chauvel'in sözü)
+  belirtildiği gibi sayfadadır. what_they_saw içindeki 'sultans' scimitars' ifadesi biraz serbesttir (pala
+  dizesi geneldir; sultanlar 1. kıtada geçer); what_they_saw tam 25 kelimedir, izin verilen sınırdadır.
+  GÜNCELLEME 2026-11-04 (ana ajan): Trove makale 243202439'da (Herald, 1 Kasım 1933, s. 6) birebir aynıdır.
+verification_method: >-
+  Middlemiss sayfasının yeni çekimi; Trove arama sayfası Anubis tarafından engellenmiş durumda, 2 ücretli
+  aramada 1 Kasım 1933 tarihli Trove makale sayfası bulunamadı (yalnızca ilgisiz Herald sayfaları bulundu)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: daf6e4a6ce56
+  role: 36194d9d3d53
+  quote: 03a8e2b064b2
+  summary: 855ea2ff2ab4
+  caveat: f2d7fb2c25ef
+  verification_note: 6a996ceb5470
+  verification_method: c56a601452ea

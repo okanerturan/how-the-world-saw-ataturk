@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/elinikon-mellon-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: elinikon-mellon-1938
+voice: Elinikon Mellon
+role: Yunan gazetesi
+summary: Estia ile aynı tonda yazarak bir Yunanistan dostunun yasını tuttu.
+mediated_by: Toksoy 2010 §Yunanistan
+verification_note: >-
+  Toksoy bunu Elinikon Mollon olarak yazar; yankıladığı Estia yazısı (büyük kayıp, Yunanistan dostu)
+  desteklenmektedir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5d318a21bf53
+  role: 5e3f5e9ffd0a
+  summary: f354aed4c063
+  mediated_by: 260873f7d960
+  verification_note: bab243fea369
+  verification_method: 939bb46a04c3

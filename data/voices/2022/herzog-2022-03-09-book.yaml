@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: herzog-2022-03-09-book
+voice: Isaac Herzog
+voice_type: person
+role: President of Israel; entry in the Anıtkabir special book
+country: Israel
+country_now: Israel
+domain: politics
+date: "2022-03-09"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: quote
+evidence: J
+summary: >-
+  Calls Atatürk a great visionary and speaks of the wisdom of his legacy of progress and peace.
+quote:
+  text: >-
+    Büyük vizyoner Mustafa Kemal Atatürk`ü ebedileştiren bu tarihi mekânı ziyaret etmek farklı bir ayrıcalık.
+  is_translation: true
+  language: tr
+mediated_by: Cumhuriyet and Yurt Gazetesi, 10 Mar 2022 (AA; Turkish translation of the entry)
+caveat: >-
+  Turkish rendering (AA) of an entry written partly in English and partly in Hebrew; the Hebrew line is a
+  verse from the Psalms ('Depart from evil and do good; seek peace and pursue it'), reported as such by
+  Cumhuriyet. The entry continues: following the wisdom of this great leader's legacy of progress and peace,
+  'let us sincerely embrace the many truths of the promise of a safer, more stable world'. Cumhuriyet is dated
+  10 Mar 2022; the visit date 9 Mar 2022 is taken from the Turkish Wikipedia visitor list, so check against an
+  agency stamp. Cumhuriyet and Yurt Gazetesi are the same AA copy.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.cumhuriyet.com.tr/turkiye/israil-cumhurbaskani-isaac-herzog-anitkabir-defterine-ne-yazdi-1914579
+    archived: https://web.archive.org/web/20261005055638/https://www.cumhuriyet.com.tr/turkiye/israil-cumhurbaskani-isaac-herzog-anitkabir-defterine-ne-yazdi-1914579
+  - url: https://www.yurtgazetesi.com.tr/guncel/israil-cumhurbaskani-isaac-herzog-anitkabir-defterine-bunlari-yazdi-h196216.html
+    archived: https://web.archive.org/web/20220313051244/https://www.yurtgazetesi.com.tr/guncel/israil-cumhurbaskani-isaac-herzog-anitkabir-defterine-bunlari-yazdi-h196216.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Cumhuriyet 10 Mar 2022 09:26; Yurt Gazetesi 10 Mar 2022 09:42; Getty photo captions and Times of Israel
+    GPO caption (search snippets) dated 9 Mar 2022
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used; date check
+    via DuckDuckGo
+  note: >-
+    Quote verbatim as the first sentence of the entry (Yurt has spelling variants mekan/iş birliği, so lightly
+    edited copies of one AA text). DATE: 9 March 2022 is right; Getty/AA captions read 'Ankara, Turkiye on
+    March 09, 2022' and the ToI/GPO caption gives March 9. The articles are stamped 10 Mar and give no visit
+    date, so the 9 Mar rests on the captions. Hebrew line = Psalms 34:14 as reported. The 'progress and peace'
+    wording in what_they_saw comes from the next sentence, not the quoted one. I could not fetch ToI
+    (bot-blocked), so no English original. Admiring/2 fair.
+  checked_on: "2026-11-03"

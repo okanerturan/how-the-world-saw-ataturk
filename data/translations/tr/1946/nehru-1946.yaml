@@ -1,0 +1,42 @@
+# Turkish for data/voices/1946/nehru-1946.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nehru-1946
+voice: Jawaharlal Nehru
+role: Hindistan Ulusal Kongresi lideri; The Discovery of India (yazılışı 1944, yayımlanışı 1946)
+quote: >-
+  Bununla birlikte, tam da bu politika onu hem Hinduların hem de Müslümanların genç kuşağı arasında daha
+  popüler hale getirdi.
+quote_kind: translated
+summary: >-
+  Atatürk'ün laik reformlarının ona ortodoks Müslümanların hayranlığına mal olduğunu ama gençleri
+  kazandırdığını ve hilafetin çekirdeğini ortadan kaldırmasının Hindistan Hilafet hareketini çökerttiğini
+  söyler.
+caveat: >-
+  The Discovery of India, 'Kemal Pasha; Nationalism in Asia: Iqbal' bölümü, s. 416-417 (kitabın dizini: 'Kemal
+  Pasha, The Ataturk, 416-17'); açık taramalar dli.scoerat.12288 (temiz metin) ve in.gov.ignca.14765. Aynı
+  pasaj: 'Kemal Pasha was naturally popular in India with Moslems and Hindus alike. He had not only rescued
+  Turkey from foreign domination and disruption but had foiled the machinations of European imperialist
+  powers, especially England'; 'The Ataturk partly destroyed the dream structure that had gradually grown up
+  in the Indian Moslem mind'; 'when the core itself was eliminated by the Ataturk the superstructure
+  collapsed'. 1944'te Ahmadnagar Kalesi'nde yazılmıştır. Nehru'nun mevcut kaydı 1934 tarihlidir (Glimpses).
+  Nehru'nun eyalet başbakanlarına yazdığı daha sonraki bir mektupta (yakl. Ağustos 1951, Letters to Chief
+  Ministers c. 2, s. 459) Kamal Ataturk'ün 'drove out the allied occupation forces from Turkey and later
+  defeated the Greek Army, which was supported by the British' ifadeleri yer alır (yalnızca bağlam için,
+  kaydedilmedi).
+verification_note: >-
+  Birebir: 'This very policy, however, made him more popular among the younger generation of both Hindus and
+  Moslems.' Çevreleyen metin what_they_saw ile örtüşmektedir. Sayfalar: OUP/JNMF 1981 baskısı (ignca)
+  dizininde 'Kemal Pasha, The Ataturk, 416-17' yer alır; dli.scoerat taramasında aynı pasaj s. 349-350'dedir
+  (farklı basım), dolayısıyla sayfa baskıya göre değişmektedir. 1942-45'te yazıldı, ilk kez 1946'da
+  yayımlandı. Çelişkili/2 uygun.
+verification_method: her iki açık djvu metninin curl ile çekilmesi; dizin kontrol edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3d5887fabb9e
+  role: 351cb0d66962
+  quote: 59b0cdc00f18
+  summary: bd7f85367080
+  caveat: 0821f2d1c759
+  verification_note: fe0118229edd
+  verification_method: 8f00e173d3f8

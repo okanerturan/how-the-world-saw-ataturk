@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tunali-hilmi-izmir-plot-1926
+voice: Tunalı Hilmi (Bolu)
+voice_type: person
+role: Bolu deputy (1921–23), Zonguldak deputy (1923–27)
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1926-11-03"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Turned the plot into a loyalty test: the banned Progressives would rather die than face the Gazi.
+quote:
+  text: >-
+    Türk'ün tarihi bir sözü vardır: Ölümlerden ölüm beğen. Ben yerlerinde olsa idim idamı tercih ederdim. Yani
+    terakkiperverler namı altında yaşamış olanlar Gazi'nin huzuruna çıkmak için bilmem bu ölümü tercih
+    edebilirler mi?
+  language: tr
+caveat: >-
+  Text layer OCR-degraded ('Gazi' nirı'); quote normalised. The jab targets the Terakkiperver (Progressive
+  Republican) Party, not Atatürk; recorded as an instrument of loyalty. Printed as 'Tunalı Hilmi Bey
+  (Zonguldak)'; the voice string follows the earlier records.
+node: The Assembly Congratulates the Gazi after the İzmir Plot, 1 and 3 November 1926
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c027/tbmm02027002.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Zabıt Ceridesi PDF, Dönem 2, cilt 27, 3 Kasım 1926, printed p. 18
+  method: pdftotext -layout; verbatim
+  note: >-
+    Raw OCR: 'Gazi' nirı' (Gazi'nin), 'tercih • edebilirler'. Aimed at the banned Terakkiperver party, not at
+    Atatürk; the record is an instrument of loyalty, not a direct appraisal.
+  checked_on: "2026-10-31"

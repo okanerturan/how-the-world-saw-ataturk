@@ -1,0 +1,28 @@
+# Turkish for data/voices/1924/de-nederlander-1924-03-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-nederlander-1924-03-20
+voice: De Nederlander
+role: Protestan-Hristiyan (CHU) günlük gazetesi
+quote: Bu pek akıllıca görünmüyor. Kilise ile Devletin ayrılması kulağa pek hoş geliyor
+quote_kind: translated
+summary: >-
+  Hilafetin kaldırılmasını akılsızca buldu: kilise-devlet ayrımı Doğulu Müslüman halklara pek uymaz; Türkler
+  Batılı bir soyutlama uğruna eldeki kozlarını çöpe attılar.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Yargı Türklerin (Ankara'nın) eylemine yöneliktir;
+  Kemal aynı sütunun başka bir yerinde anılmaktadır ('meer krijgsman dan staatsman'). CHU kimliği genel
+  bilgiden alınmıştır.
+verification_note: >-
+  Yargı Türklerin eylemine yöneliktir, Kemal yalnızca kapanış satırında anılmaktadır; şerh düşüldüğü haliyle
+  uygundur.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 83e44b369dad
+  role: d1e426b9b89c
+  quote: ea787ce55b4e
+  summary: ec3a53c979b4
+  caveat: cda90a5e09f9
+  verification_note: 19472d3b1962
+  verification_method: ad8cee67138e

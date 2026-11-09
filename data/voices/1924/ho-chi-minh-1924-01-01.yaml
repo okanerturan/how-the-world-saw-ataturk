@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ho-chi-minh-1924-01-01
+voice: Nguyen Ai Quoc (Ho Chi Minh)
+voice_type: person
+role: Vietnamese Comintern organiser, writing in L'Humanité
+country: French Indochina (exile in Paris/Moscow)
+country_now: Vietnam
+domain: politics
+date: "1924-01-01"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: bourgeois-revolutionary
+artifact: article
+evidence: S
+summary: >-
+  Admires the Turks for tearing up Sèvres and founding a republic, but calls it a bourgeois revolution that
+  serves only the moneyed class.
+quote:
+  text: >-
+    But like all bourgeois revolutions, the Turkish revolution is profitable only to one class: the moneyed
+    class.
+  language: en
+mediated_by: >-
+  English text of the L'Humanité article as printed in Selected Works of Ho Chi Minh, vol. 1 (FLPH), via
+  marxists.org; the French original was not read
+caveat: >-
+  Kemal is not named in the article; it judges the revolution and the Ankara government (which refused to
+  recognise the Istanbul workers' federation). Entered as the Indochinese communist reading of the Kemalist
+  state. Signed in L'Humanité; the pen-name Nguyen Ai Quoc is inferred from the Selected Works attribution.
+node: Interwar Leaders on Kemal in Their Own Words
+sources:
+  - url: https://www.marxists.org/reference/archive/ho-chi-minh/works/1924/01/01.htm
+    archived: https://web.archive.org/web/20251206073452/https://www.marxists.org/reference/archive/ho-chi-minh/works/1924/01/01.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    marxists.org/reference/archive/ho-chi-minh/works/1924/01/01.htm, 'The Workers’ Movement In Turkey',
+    L'Humanité, 1 Jan 1924 (Selected Works vol. 1, FLPH)
+  method: tools/ms free fetch of the marxists.org page; matched the sentence
+  note: >-
+    Verbatim: 'But like all bourgeois revolutions, the Turkish revolution is profitable only to one class: the
+    moneyed class.' The text is about the Turkish republic of 1923-24: 'torn up the odious Sevres treaty',
+    'overthrown the throne of the Sultans', 'united and strong republic', 'since the Lausanne event', and the
+    Ankara Government's refusal to recognise the Istanbul workers' birlik. So it does concern Kemalist Turkey,
+    though Kemal is never named and no 'Kemalist' label is used. The page carries no signature line; the
+    Nguyen Ai Quoc authorship comes from the Ho Chi Minh Archive/Selected Works placement (caveat already says
+    so). Polarity conflicted is fair (admiring first paragraph, class critique after). No page number (web
+    edition). Suggest recording the article title 'The Workers’ Movement in Turkey'. No correction needed.
+  checked_on: "2026-11-01"

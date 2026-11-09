@@ -1,0 +1,37 @@
+# Turkish for data/voices/1938/lloyd-george-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lloyd-george-1938
+voice: David Lloyd George
+role: Eski Başbakan; anı kitabı The Truth About the Peace Treaties (1938)
+quote: >-
+  Suvla Koyu'ndaki etkisiz ve beceriksizce yürütülen İngiliz saldırısının durdurulması ve Büyük Savaş'ta
+  Çanakkale Boğazı'nı zorlama yönündeki son umudun sonsuza dek yitirilmesi, onun hızlı ve cüretkâr liderliği
+  sayesinde olmuştu.
+quote_kind: translated
+summary: >-
+  Kemal'i Konferans'ta beklenmedik bir 'alamet', Suvla'da İngilizleri durduran Gelibolu komutanı ve Türk
+  gururunu ayağa kaldıran kişi olarak betimler; İtilaf istihbaratı ise 'zekâdan yoksun'dur.
+caveat: >-
+  C. II, s. 1285 (üst başlıklar 'EUROPEAN AND ASIATIC TURKEY 1285'; alıntı bu başlık ile '1286' arasında yer
+  alır), açık DLI taraması in.ernet.dli.2015.523826. Aynı bölüm, s. 1292: 'Kemal roused the pride of a
+  governing caste'; başka bir yerde Türkiye'nin yönetimini yüzyıllar süren bir 'misgoverning' olarak
+  adlandırır. 1920 hakkında 1938'de yazılmıştır; bizzat Parlamento'da desteklemiş olduğu Yunan girişimine
+  karşı hasmane bir tavır içindedir (bkz. 1920 ve 1922 kayıtları). Bölüm başlıkları: 'Mustapha Kemal takes the
+  field', 'Kemal the strong man of Turkey'.
+verification_note: >-
+  s. 1285'te birebir (pasajdan önce üst başlık 'TURKEY 1285', sonrasında 1286): 'It was owing to his prompt
+  and daring leadership that the ineffective and bungled British attack at Suvla Bay had been checked, and the
+  last hope of forcing the Dardanelles in the Great War for ever lost.' Ayrıca 'a new portent ... in the form
+  of Mustapha Kemal', 'a daring rebel, a good soldier and a born leader of men' ve s. 1292 'Kemal roused the
+  pride of a governing caste'. Çelişkili/2 uygun.
+verification_method: açık djvu metninin curl ile çekilmesi, üst başlıklarla birlikte bağlam içinde okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 06742055fab6
+  role: 2bf10f7bc8b6
+  quote: d4fb26f6b160
+  summary: b43d732e37de
+  caveat: 9320c8a485f6
+  verification_note: 6e827a88b72e
+  verification_method: 112fce30f9ce

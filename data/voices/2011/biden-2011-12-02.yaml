@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: biden-2011-12-02
+voice: Joe Biden
+voice_type: person
+role: Vice President of the United States (later President); entry in the Anıtkabir special book
+country: United States
+country_now: United States
+domain: politics
+date: "2011-12-02"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: quote
+evidence: J
+summary: >-
+  Says peoples seeking a voice in government can draw inspiration from Atatürk's emphasis on democracy; quotes
+  his tenth-anniversary words.
+quote:
+  text: >-
+    Bugün dünya çapında insanlar nasıl yönetilecekleri konusunda seslerini yükseltmeye çalışırken, Atatürk'ün
+    Türkiye'nin gelişmesinde kullanılan demokrasinin prensiplerini yaptığı vurgudan ilham alabilirler.
+  is_translation: true
+  language: tr
+mediated_by: İHA 2 Dec 2011 (Turkish translation of the entry)
+caveat: >-
+  Only İHA's full text was read (T24 and Haberler carry summaries or a stub). Turkish rendering of an English
+  entry, so the sentence is clumsy; the English original is not located. Biden then quotes Atatürk's
+  tenth-anniversary words as 'Yaptıklarımızın yeterli olduğuna asla inanmıyoruz. Daha ulvi ve büyük başarılara
+  ulaşmaya kararlıyız ve mecburuz' (Turkish rendering). Vice-presidential, not presidential, at the time.
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.iha.com.tr/ankara-haberleri/-990
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: İHA 2 Dec 2011 (iha.com.tr/ankara-haberleri/-990)
+  method: tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker
+  note: >-
+    Sentence verbatim (İHA stamp 2 Dec 2011 14:43); the entry also opens 'Türkiye Cumhuriyeti'nin büyük
+    kurucusu ... en derin saygılarımı sunarım' and quotes Atatürk's 10th-anniversary line, as the record says.
+    Single outlet read; English original not found (one paid search failed). Turkish translation is clumsy, so
+    treat the wording as a rendering.
+  checked_on: "2026-11-03"

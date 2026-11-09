@@ -1,0 +1,37 @@
+# Turkish for data/voices/1947/pepper-1947-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pepper-1947-04
+voice: Claude Pepper
+role: ABD Florida Senatörü (Demokrat), Yunanistan-Türkiye yardım yasa tasarısı muhalifi
+quote: >-
+  Atatürk'ü, onun partisini ve şu anda kendi seçtiği halefi Cumhurbaşkanı İnönü tarafından sürdürülen
+  hükümetini duymuş olan herkes, komünizmin Türkiye'de tutunma olasılığının hiç bulunmadığını bilir. … Sonunda
+  Atatürk, Avrupa'da var olan çekişmeden yararlandı ve Türkiye'de güçlü bir ordu ile güçlü bir hükümet
+  geliştirdi
+quote_kind: translated
+summary: >-
+  Komünizmin Türkiye'de tutunacak bir zemini olmadığını savunmak için Atatürk'ün geçmişteki icraatını örnek
+  gösterir ve güçlü bir ordu ile hükümet kurmasını ona atfeder.
+caveat: >-
+  Truman Doktrini görüşmesi: Pepper yasa tasarısına karşı çıkmaktadır; dolayısıyla Atatürk kendi tezine kanıt
+  olarak kullanılır (komünist tehdit olmadığı; Çanakkale Boğazı sorunu). OCR 'likelihood' kelimesini
+  'like·uhood' olarak okuyor (düzeltildi); ikinci alıntı iç içe geçmiş iki sütunlu metin katmanından yeniden
+  oluşturuldu (kaynakta 'de- veloped', 'gov- ernment' şeklinde geçiyor). Kaynak gösterimi: Senato, 17 Nisan
+  1947, Congressional Record c. 93 (ciltli), s. ~3593-3596 (granül CRECB-1947-pt3-13-1).
+verification_note: >-
+  Her iki parça da birebir aynı (iki sütunlu OCR; 'like-uhood' = likelihood), Senato, 17 Nisan 1947 Perşembe,
+  boyunca konuşan Mr. PEPPER (söz veriyor ve devam ediyor; başka hiçbir konuşmacı araya girmiyor). İlk parça
+  s. 3593'te, ikincisi s. 3596'da. Üç noktayla birleştirmeler kabul edilebilir. Araçsal/2 yerinde.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizleme uygulandı, alıntının normalleştirilmiş eşleştirmesi
+  yapıldı; konuşmacı, tarih ve sayfa Record'un kendi başlıklarından ve üst bilgilerinden okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 252f28e121d3
+  role: 223324a31ee1
+  quote: 5afd8252ba61
+  summary: 53e2411f291f
+  caveat: 30d12100e2ca
+  verification_note: "605865e42890"
+  verification_method: 5594abd6cdd0

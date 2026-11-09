@@ -1,0 +1,39 @@
+# Turkish for data/voices/2009/nazarbayev-2009.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nazarbayev-2009
+voice: Nursultan Nazarbayev
+role: Kazakistan Cumhurbaşkanı
+quote: >-
+  Türkiye Cumhuriyeti’nin kurucusu, dâhi şahsiyet Atatürk daha o zamanlarda bile diğer Türk devletlerinin
+  günün birinde bağımsızlıklarına kavuşacağını büyük bir öngörüşle ifade etmişti.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ü öngörüsüyle diğer Türk devletlerinin bağımsızlığını önceden haber veren bir dâhi olarak
+  nitelendirir; Astana'daki heykelini duyurur.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 268 (basılı s. 257). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe olarak basılmıştır. Çevirisi: "The founder of the Republic of Turkey, the genius Atatürk,
+  even then expressed with great foresight that the other Turkic states would one day gain their
+  independence." PDF s. 269'da ziyaretinden önce Astana'da Esil Nehri kıyısında büyük bir Mustafa Kemal
+  Atatürk heykelinin açılışını yaptığını aktarmaktadır. Başlık: 'Kazakistan Cumhurbaşkanı Nursultan
+  Nazarbayev', 22 Ekim 2009.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Kazakistan Cumhurbaşkanı Nursultan
+  Nazarbayev, 10. Birleşim, 22 Ekim 2009'). Başlık ve alıntı aynı sayfada; Astana'daki heykel PDF s. 269'da
+  doğrulandı. Konuşmanın yapıldığı dil belirtilmemiş (muhtemelen Rusça veya Kazakça); özgün metin aranmadı.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracımızla PNG'ye dönüştürülüp (check_png/c268.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı görüntü üzerinde ve kendi bağımsız metin katmanı
+  çıkarımımızla kelimesi kelimesine karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 51538f2dc6fc
+  role: e6e83ab467f9
+  quote: f1f67294e158
+  summary: 2c5bf366145e
+  caveat: ec92811085d1
+  mediated_by: 8e2cc528453b
+  verification_note: 929ebfd1771b
+  verification_method: ae09b8e52696

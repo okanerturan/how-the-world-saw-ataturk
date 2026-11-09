@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/northern-advocate-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: northern-advocate-1938
+voice: Northern Advocate
+role: Whangarei günlük gazetesi, 'When Dictators Fall' başlıklı başyazı
+quote: Kemal demir bir elle yönetti ve yönetmeye devam etmektedir.
+quote_kind: translated
+summary: >-
+  Ağustos 1938'deki hastalığı üzerine kaleme alınan yazıda, Kemal'i Türkiye'yi demir bir el altında ilerleten
+  fiili bir diktatör olarak nitelendirdi ve ondan sonra kimin geleceğini sordu.
+caveat: >-
+  Dönemin (ölüm öncesi) yayını; başyazı Atatürk'ü Hitler, Mussolini ve Stalin ile karşılaştırıyor.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ed1541b503d8
+  role: 06248f7bd869
+  quote: f4251e14631b
+  summary: 037ac170b28a
+  caveat: 893b300d78d7
+  verification_method: ad8cee67138e

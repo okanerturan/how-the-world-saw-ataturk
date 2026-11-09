@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: faisal-i-1931-07-06
+voice: Faisal I of Iraq
+voice_type: person
+role: King of Iraq, on a state visit to Ankara
+country: Iraq
+country_now: Iraq
+domain: politics
+date: "1931-07-06"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: meeting
+evidence: J+S
+summary: >-
+  On his Ankara state visit, when Kemal mentioned ceded Mosul, answered that Turkey had won all Iraq, its
+  streets full of the Gazi's admirers.
+quote:
+  text: >-
+    Fakat buna karşılık bütün Irak'ı kazandınız. Bugün Bağdat caddelerini hep Gazi'nin hayranları ve sevenleri
+    dolduruyorlar!
+  language: tr
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri vol. 25 (Kaynak 2009) p. 188 ← Vakit 8 July 1931 p. 1, Cumhuriyet 9 July 1931;
+  British despatch Clerk to Henderson, July 1931 (Şimşir, İngiliz Belgelerinde Atatürk vol. VII)
+caveat: >-
+  Translation: 'But in return you have won all of Iraq. Today Baghdad's streets are filled with admirers and
+  lovers of the Gazi!' Press report of a ball at Ankara Palas conversation; flattery between hosts. On leaving
+  (14–15 July) he told reporters Turkey's progress, owed to Atatürk's genius, was an example (Saygı 2017 pp.
+  218–219).
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2025%20%281931%20-%201932%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202009%20%281.%20Bas%C4%B1m%29%2C%20463%20sf.pdf
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%237.pdf
+  - url: https://dergipark.org.tr/en/download/article-file/395309
+    archived: https://web.archive.org/web/20200510033944/https://dergipark.org.tr/en/download/article-file/395309
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org butuneserler, djvu text of ABE vol. 25, p. 188 ('Irak Kralı Faysal Şerefine Verilen Ziyafette
+    Sohbet', 6 Jul 1931; ← Vakit 8 Jul 1931 p. 1, Cumhuriyet 9 Jul, Yeni Gün 10 Jul); archive.org
+    ingiliz-belgelerinde-ataturk, djvu text of Şimşir vol. VII (Clerk to Henderson, July 1931, Nos. 228/230
+    referenced)
+  method: archive.org open djvu text read
+  note: >-
+    Quote verbatim on p. 188. Two small points. First, the text says the talk was at the ball given in his
+    honour at Ankara Palas ('evvelki gece', in a dispatch dated 7 July), so 'banquet' in the caveat is loose
+    and the night may be 5 rather than 6 July (ABE dates it 6 July). Second, Faisal asked that his impressions
+    'not be taken as flattery' (gönül alma), which is worth keeping beside the caveat's 'flattery between
+    hosts'. The British despatches on the visit are in vol. VII as cited. Saygı p. 218 has the departure
+    remarks (the caveat says pp. 218–219).
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31)
+  checked_on: "2026-11-05"

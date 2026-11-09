@@ -1,0 +1,36 @@
+# Turkish for data/voices/1935/shimomura-kainan-1935.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: shimomura-kainan-1935
+voice: Shimomura Kainan
+role: Asahi Shimbun yöneticisi, sonradan bakan ve NHK başkanı
+quote: >-
+  Söylemeye gerek yok, onlar gerçekten de büyüktür; fakat bu, yalnızca işleri gözü pekçe ve kesip atarak
+  başardıkları sahne üzerindeki yiğitlik gösterilerini izleyip uzaktan alkış ve tezahürat tutmaktan ibaret
+  kalmaktadır.
+quote_kind: translated
+summary: >-
+  Kemal 'gerçekten büyüktür', ancak Japon hayranları yalnızca onun sahne performansını alkışlar ve harf
+  devriminin ardındaki zorlu emeği bilmezler.
+caveat: >-
+  Honkegaeri (Shijō Shobō, 1935), 'Mussolini ya Kemal Pasha' başlıklı deneme, basılı s. 502-503 (NDL görüntü
+  271, sayfa görüntüsünden okundu). 'Onlar' = Mussolini, Hitler, Kemal. Karşı sayfa Kemal'in Arap alfabesini
+  değiştirmedeki kararlılığını över (alıntılanmadı). Ayrıca s. 447/NDL görüntü 243 Japonya için 'bir
+  Mussolini, bir Hitler, bir Kemal Paşa' diler. Deneme tarihi gösterilmemiştir; kitap yılı kullanıldı. Özün
+  çevirisi arşive aittir.
+verification_note: >-
+  Alıntı s. 502'de ('Mussolini ya Kemal Pasha' denemesi) birebir aynıdır; s. 503 yoğunluk 2'yi destekleyecek
+  şekilde Kemal'in kararlılığını ve harf devrimini över. 'Onlar' = Mussolini, Hitler, Kemal; bu tespit
+  (hayranların yalnızca sahne performansını görmesi) her üçü hakkında söylenir, ancak deneme daha sonra
+  Kemal'i ayrı olarak ele alır. Tutulsun.
+verification_method: >-
+  NDL Digital Collections sayfa görüntüsü (dl.ndl.go.jp IIIF) + lab.ndl.go.jp fulltext-json; görüntü incelendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fca6807ebbeb
+  role: 4aa39c016544
+  quote: 598e05efbe0a
+  summary: 44dd3838d0fe
+  caveat: b97ea865e375
+  verification_note: 62273639fee2
+  verification_method: bfa97e982497

@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: starmer-2025-10-27
+voice: Keir Starmer
+voice_type: person
+role: Prime Minister of the United Kingdom; entry in the Anıtkabir special book
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "2025-10-27"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Calls Atatürk 'the father of modern Turkey' and says it is an honour to pay respects, framing it around the
+  UK-Turkey alliance.
+quote:
+  text: Modern Türkiye'nin babası Mustafa Kemal Atatürk'e saygılarımı sunmak bir onurdur.
+  is_translation: true
+  language: tr
+mediated_by: AA via Akşam and Haberler, 27 Oct 2025 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of an English entry; Akşam and Haberler (both AA) print it with 'babası'; another
+  AA-derived version reads 'kurucusu', which shows the rendering varies. English original not located.
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.aksam.com.tr/guncel/starmer-anitkabirde-ozel-defteri-imzaladi-isbirligimiz-buyuyecek/haber-1613844
+    archived: https://web.archive.org/web/20251027225310/https://www.aksam.com.tr/guncel/starmer-anitkabirde-ozel-defteri-imzaladi-isbirligimiz-buyuyecek/haber-1613844
+  - url: https://www.haberler.com/guncel/ingiltere-basbakani-keir-starmer-anitkabir-i-ziyaret-etti-19191212-haberi/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Akşam 27 Oct 2025; Haberler 27 Oct 2025 (AA / Can Efesoy)
+  method: tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker
+  note: >-
+    Verbatim in both, which are the same AA text (not independent). English original not found. Second
+    sentence of the entry (UK-Turkey 'strong allies and trusted friends') supports 'instrumental'. Date
+    confirmed.
+  checked_on: "2026-11-03"

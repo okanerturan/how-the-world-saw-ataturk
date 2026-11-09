@@ -1,0 +1,27 @@
+# Turkish for data/voices/1922/jacques-kayser-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jacques-kayser-1922
+voice: Jacques Kayser
+role: Fransız radikal gazeteci
+quote: bu vesileyle gösterdiği tutumdan ötürü Mustafa Kemal'i kınamak haksızlık olurdu
+quote_kind: translated
+summary: >-
+  Kemal'i Sevr Antlaşması'nın yarattığı, Sovyet yardımı alan fakat Moskova'nın propagandacılarını dışarıda
+  tutan bir pragmatist olarak sundu; kınanacak bir şey yoktu.
+caveat: >-
+  Yalnızca Gallica ContentSearch parçaları (görünüm 68, 80, 105, 106); tutum, değerlendirme içeren birkaç
+  pasajdan çıkarılmıştır. Yazarın doğum yılı Gallica otorite kaydından alınmıştır.
+verification_note: >-
+  Alıntı birebirdir; 'no reproach due' bir parçadan okunmuştur; tutum, uyarı notunda belirtildiği gibi
+  çıkarımdır
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 90633ac6f32e
+  role: accd76dce63d
+  quote: cc34062b3e5e
+  summary: 1ed0f6ec3bb2
+  caveat: 53bfbdcee6bb
+  verification_note: 8b0a0051bf46
+  verification_method: ad8cee67138e

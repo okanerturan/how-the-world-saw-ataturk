@@ -1,0 +1,35 @@
+# Turkish for data/voices/2005/mahathir-2005-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mahathir-2005-11
+voice: Mahathir Mohamad
+role: Eski Malezya Başbakanı; 'Islam's forsaken renaissance' başlıklı görüş yazısı
+quote: >-
+  Mustafa Kamal'ın ileri görüşlülüğü Türkiye'de İslam'ı kurtardı ve Türkiye'yi İslam için kurtardı.
+quote_kind: translated
+summary: >-
+  Atatürk'ü Müslüman eleştirmenlere karşı savunur: o olmasaydı Türkiye'nin Müslüman kalıp kalmayacağını sorar
+  ve onun ileri görüşlülüğünün Türkiye'de İslam'ı kurtardığını söyler.
+caveat: >-
+  Görevden ayrıldıktan (1981-2003) sonra yazılmıştır. Çevreleyen cümleler: 'Many Muslims still condemn the
+  founder of modern Turkey, Mustafa Kamal, because he tried to modernize his country. But would Turkey be
+  Muslim today without Ataturk?' 'Kamal' imlası kendisine aittir.
+mediated_by: >-
+  Project Syndicate görüş yazısı, Taipei Times'ta basıldığı şekliyle, 10 Kasım 2005; Project Syndicate'teki
+  aslı açılmadı
+verification_note: >-
+  Birebir aynı: 'Mustafa Kamal's clear-sightedness saved Islam in Turkey and saved Turkey for Islam.'
+  Çevreleyen cümleler çekince notundaki gibidir. Yazar, imza satırı ve kapanıştaki 'prime minister of Malaysia
+  from 1981 to 2003' notuyla doğrulandı. Project Syndicate orijinali açılmadı (tarih Taipei Times yeniden
+  basımına aittir).
+verification_method: veri çekme (fetch) + curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 95269d338558
+  role: 15eb087ca5a9
+  quote: 511d07451c38
+  summary: edfe907778e8
+  caveat: 1d75eb056d96
+  mediated_by: d651dcf5c244
+  verification_note: 81fe75a75189
+  verification_method: ebca4c3aec6b

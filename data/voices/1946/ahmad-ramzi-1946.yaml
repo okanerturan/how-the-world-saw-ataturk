@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ahmad-ramzi-1946
+voice: Ahmad Ramzi
+voice_type: person
+role: Writer in al-Risala, signed Ahmad Ramzi Bey, seven years resident in Turkey
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1946-11-18"
+era: posthumous
+polarity: conflicted
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: S
+summary: >-
+  Sees the Ghazi as one of the few in the East who acted after long thought; ends by predicting his
+  'bewildered soul' will be explained.
+quote:
+  text: >-
+    إذ هو من الأفراد القلائل في الشرق الذين عملوا بعد تفكير طويل، وأخضعوا أعمالهم لفكرتهم الأولى
+  translation: >-
+    For he is one of the few individuals in the East who acted after long reflection and made their deeds
+    obedient to their first idea.
+  language: ar
+caveat: >-
+  Cited as al-Risala no. 698, 18 Nov 1946, Wikisource page 'مجلة الرسالة/العدد 698/الغازي مصطفى كمال'. First
+  instalment of 'The Ghazi Mustafa Kemal: study and analysis of the psychological motives that led him to
+  leadership', signed Ahmad Ramzi Bey ('I write these words after seven years in Turkey'). Closing line of the
+  instalment, verbatim: 'Mustafa Kemal is only one of those [who left the faith's path and will return to it];
+  the days will reveal much of his bewildered soul'. Ramzi also translated Count Sforza's essay 'Mustafa Kemal
+  the Turkish leader' in nos. 836-838 (Jul 1949) - the text Khalil Mutran was suspected of writing; Sforza is
+  already a voice (1931). Identity of 'Ahmad Ramzi Bey' not established beyond the text. Religion: reported as
+  the speaker's framing. Wikisource transcription. Check: country Egypt is inferred from publication in Cairo;
+  identity not established on the page.
+node: Egyptian Pens in al-Risala on Atatürk, 1935–1946
+sources:
+  - url: https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_698/%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A_%D9%85%D8%B5%D8%B7%D9%81%D9%89_%D9%83%D9%85%D8%A7%D9%84
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Arabic Wikisource raw page 'مجلة الرسالة/العدد 698/الغازي مصطفى كمال' (+ no. 836 for the Sforza caveat)
+  method: >-
+    fetched action=raw, diacritic-normalised substring match of the Arabic quote, then read the surrounding
+    passage, header date and end signature
+  note: >-
+    Arabic quote verbatim, and it is Ramzi's own view, not a translation: the article is headed 'بحث وتحليل
+    للدوافع النفسية ... للأستاذ أحمد رمزي بك' (signature 'أحمد رمزي'), date 18-11-1946; the sentence is 'وكلما
+    مرت الأيام تمثلت إلي شخصية الغازي كأنموذج لكلمة جوتة الخالدة: إذ هو من الأفراد القلائل في الشرق ...', i.e.
+    his own application of the Goethe epigraph (so the quote is a Goethe-based judgement; the translation is
+    faithful). 'إنني أكتب هذه الكلمات بعد إقامة سبعة سنوات بتركيا' present; closing 'وما مصطفى كمال إلا واحد
+    من هؤلاء ستكشف الأيام الكثير عن روحه الحائرة' matches (what_they_saw 'will be explained' is a loose gloss
+    of 'will reveal much about'). Sforza caveat verified: no. 836, 11-07-1949, 'بقلم الكونت سفورزا ... للأستاذ
+    أحمد رمزي بك', Ramzi presents it as 'بحث قديم عثرت عليه بين أوراقي'; Mutran suspicion not checked.
+    PROBLEM: role 'Egyptian writer and historian' and country 'Egypt' are not supported by the page (the
+    caveat itself admits identity is not established). CORRECTION: role -> 'writer in al-Risala, signed Ahmad
+    Ramzi Bey, seven years resident in Turkey' and country/country_now -> 'Egypt (as published in Cairo;
+    nationality not stated)' or flag as inference in caveat. Conflicted / 2 fair; schema OK.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 19)
+  checked_on: "2026-11-03"

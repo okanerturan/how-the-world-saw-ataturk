@@ -1,0 +1,23 @@
+# Turkish for data/voices/2005/turgut-ozakman-2005.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: turgut-ozakman-2005
+voice: Turgut Özakman
+role: Oyun ve roman yazarı
+summary: >-
+  Belgesel romanı Şu Çılgın Türkler, Kurtuluş Savaşı'nı ulusal bir kutsal metin olarak yeniden anlattı ve
+  yaklaşık bir yılda 622.000 adet sattı.
+caveat: >-
+  Kaynaklar arasında basım tarihi çelişkisi vardır; not, bakışı yalnızca Atatürk'ten ziyade ulusal destan
+  olarak çerçeveler.
+verification_note: >-
+  "about a year" bir çıkarımdır (2005'ten Temmuz 2006'ya); malumatfurus sayfası kitaptan bahsetmez.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ad60ea6c0f34
+  role: f51f934de2bf
+  summary: 1d117063f78c
+  caveat: e5ba48a7b2a0
+  verification_note: 44235b068d22
+  verification_method: ad8cee67138e

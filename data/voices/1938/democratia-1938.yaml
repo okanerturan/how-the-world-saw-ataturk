@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: democratia-1938
+voice: Democratia
+voice_type: press
+role: Albanian newspaper
+country: Albania
+country_now: Albania
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: article
+evidence: S
+summary: Said he created the new Turkey.
+mediated_by: Toksoy 2010 ← Akşam 14 and 18 Nov 1938, Ulus 14 Nov 1938
+caveat: >-
+  Titles as Toksoy prints them (Stipi may be Shtypi); Albanian originals not seen. Named in the same sentence
+  as the Polish army paper.
+node: Albanian Press, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt p.197 (Ekspres Poranny and Democratia: yeni Türkiye'yi
+    yarattı)
+  method: local
+  note: >-
+    Cites in Toksoy fn 92 are Ulus 14, Akşam 21, Tan 21, Ulus 21 Nov, not the Akşam 14/18 Nov in mediated_by
+    (minor).
+  checked_on: "2026-10-29"

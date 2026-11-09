@@ -1,0 +1,37 @@
+# Turkish for data/voices/2002/fischer-2002-10-29.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: fischer-2002-10-29
+voice: Joschka Fischer
+role: Almanya Dışişleri Bakanı (Bündnis 90/Die Grünen)
+quote: >-
+  böylece Türkiye'deki sivil güçlere ve Kemal Atatürk'ten bu yana modernleşmecilere kapıyı kapatırsınız; çünkü
+  Türkiye'de modernleşme, Avrupa'ya yönelim demektir.
+quote_kind: translated
+summary: >-
+  AB kapısını kapatmanın zarar vereceği Türkiye'deki sivil güçleri 'Kemal Atatürk'ten bu yana
+  modernleşmeciler' olarak adlandırır; modernleşme Avrupa'ya yönelmek demektir.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'inde kontrol edildi. 2002 seçimleri sonrasındaki dış politika
+  tartışmasında Wolfgang Schäuble'ye (CDU/CSU) yanıt; Fischer'in konuşması aynı tutanakta 'Joseph Fischer,
+  Bundesminister des Auswärtigen' başlığıyla başlar. Geçerken yapılan ama açık bir değerlendirmedir
+  (modernleşmeci bir çizginin başlangıcı olarak Atatürk); basılı sayfa PDF üst bilgisinden 96 olarak
+  okunmuştur. Kaynak gösterimi: Deutscher Bundestag, Plenarprotokoll 15/4, 29 Ekim 2002 oturumu, s. 96.
+verification_note: >-
+  Schäuble'ye yanıt olarak 'Bundesminister Joseph Fischer' üst bilgisi altında basılı s. 96'da birebir
+  aynıdır. Çeviri sadıktır. Bakış zayıf ama açıktır ('Modernisierer seit Kemal Ataturk'); yoğunluk 1
+  yerindedir.
+verification_method: >-
+  dserver PDF'i indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleşmesi yapıldı,
+  konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı çeviriyle
+  karşılaştırılarak okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0bba7903861e
+  role: c14a4c482266
+  quote: e3b0d2380e2c
+  summary: 62122492ead8
+  caveat: 0095ddd01029
+  verification_note: 1aca5b72c1ce
+  verification_method: 966799b4c6ae

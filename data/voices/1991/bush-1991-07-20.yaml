@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bush-1991-07-20
+voice: George H. W. Bush
+voice_type: person
+role: President of the United States; toast at the state dinner in Ankara
+country: United States
+country_now: United States
+domain: politics
+date: "1991-07-20"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  Standing at Atatürk's tomb, sees a parallel with George Washington: great generals and leaders who built
+  nations and won peace after war.
+quote:
+  text: >-
+    We were standing outside of Ataturk's tomb this morning, and I couldn't help but think of the parallels
+    between the founder of the modern Turkish Republic
+  language: en
+caveat: >-
+  After Turkey's role in the Gulf War, so also hospitality. Same day, the arrival speech
+  (https://presidency.ucsb.edu/documents/remarks-the-arrival-ceremony-ankara-turkey) praises 'a vision
+  expressed by your great leader, Ataturk, that the voice of the government must speak the words of its
+  people' and quotes him on speaking the truth. The Project notes that no tape was available to verify either
+  text. Date from the Project listing.
+node: American, French and Russian Leaders on Atatürk in Their Own Words
+sources:
+  - url: https://presidency.ucsb.edu/documents/toast-state-dinner-ankara-turkey
+    archived: https://web.archive.org/web/20250720011237/https://www.presidency.ucsb.edu/documents/toast-state-dinner-ankara-turkey
+  - url: https://presidency.ucsb.edu/documents/remarks-the-arrival-ceremony-ankara-turkey
+    archived: https://web.archive.org/web/20251014180731/https://www.presidency.ucsb.edu/documents/remarks-the-arrival-ceremony-ankara-turkey
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://presidency.ucsb.edu/documents/toast-state-dinner-ankara-turkey (July 20, 1991);
+    remarks-the-arrival-ceremony-ankara-turkey (July 20, 1991)
+  method: curl of UCSB pages
+  note: >-
+    Quote is a verbatim leading fragment ('...between the founder of the modern Turkish Republic' continues
+    '-- whose name means "Father of the Turks" -- and ... George Washington'). Parallel with Washington,
+    'peace at home and peace abroad' and arrival-speech lines all present; UCSB notes no tape for verification
+    of either text. Admiring/2 fair.
+  checked_on: "2026-11-03"

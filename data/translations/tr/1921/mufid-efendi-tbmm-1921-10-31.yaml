@@ -1,0 +1,28 @@
+# Turkish for data/voices/1921/mufid-efendi-tbmm-1921-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mufid-efendi-tbmm-1921-10-31
+voice: Müfid Efendi (Kırşehir)
+role: Kırşehir milletvekili; uzatma önergesini veren isim
+quote: bütün Anadolu’da pek büyük, âli fikirlerle karşılanan bu Başkumandanla
+quote_kind: original-turkish
+summary: >-
+  Kemal'i komutası tüm Anadolu'da memnuniyetle karşılanan ve düşmanı mağlup eden kişi olarak överek
+  Başkomutanlık Kanunu'nun üç ay uzatılmasını teklif etti.
+caveat: >-
+  Basılı metin s. 474. Cümle basımda uzun ve sözdizimsel olarak gevşektir; alıntı birebir bir kesittir.
+  Sayfaların üstbilgisinde 102. birleşim, 31 Teşrinievvel 1337 yazmaktadır (önceki sayfanın üstbilgisinde 101.
+  birleşim, 29 Ekim yazar).
+verification_note: >-
+  Alıntı birebir kesit; Müfid üç aylık uzatma teklif ediyor ('selâmeti umumiye namına teklif ediyorum');
+  basılı metin s. 474 doğrulandı; 102. birleşim 31 Ekim üstbilgisi doğrulandı.
+verification_method: Cilt PDF'inin pdftotext çıktısı; sayfa işaretleri
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cabd2809cba6
+  role: 74fbeaaa64af
+  quote: 529c292afdec
+  summary: 2aa6440d4629
+  caveat: d149ed6a28a3
+  verification_note: aa9eb1812b72
+  verification_method: 0c47df8312f9

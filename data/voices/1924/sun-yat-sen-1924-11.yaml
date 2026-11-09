@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sun-yat-sen-1924-11
+voice: Sun Yat-sen
+voice_type: person
+role: KMT leader, speaking at Kobe
+country: China
+country_now: China
+domain: politics
+date: "1924-11-28"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Turkey, beaten in the war, drove the Europeans out and became fully independent; with Japan it is one of
+  Asia's two great barricades.
+quote:
+  text: 日本和土耳其，就是亞洲東西兩個大屏障
+  language: zh
+caveat: >-
+  Names Turkey, not Kemal. A speech to a Japanese audience on 'Greater Asianism', so the praise also serves
+  his appeal to Japan. Chinese Wikisource transcription.
+node: Sun Yat-sen
+sources:
+  - url: https://zh.wikisource.org/wiki/大亞洲主義
+    archived: https://web.archive.org/web/20251208083026/https://zh.wikisource.org/wiki/%E5%A4%A7%E4%BA%9E%E6%B4%B2%E4%B8%BB%E7%BE%A9
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource 大亞洲主義 raw wikitext (dated 1924-11-28 Kobe)
+  method: curl of Wikisource action=raw
+  note: >-
+    Verbatim '日本和土耳其，就是亞洲東西兩個大屏障'; preceding sentences: Turkey beaten, drove Europeans out, fully independent.
+    Names Turkey not Kemal (caveat ok). Wikisource transcription quality tag 25% but passage matches.
+  checked_on: "2026-10-29"

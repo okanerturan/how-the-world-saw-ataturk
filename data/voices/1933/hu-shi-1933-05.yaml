@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hu-shi-1933-05
+voice: Hu Shi (胡適)
+voice_type: person
+role: Philosopher, editor of Duli pinglun
+country: China
+country_now: China
+domain: letters
+date: "1933-05-21"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Argued Kemal fought a weak Greek army, not the Allies, so Turkey's war was no precedent for fighting Japan.
+quote:
+  text: 凯末尔将军所抗之敌已不是1918年停战以前的协约国联军了，不过是那贪横的希腊军队
+  language: zh
+caveat: >-
+  Simplified-character text as transcribed on Wikisource; the target is the analogy, not Kemal.
+node: Hu Shi
+sources:
+  - url: https://zh.wikisource.org/wiki/熊十力《要在根本處注意》一文的編者附言
+    archived: https://web.archive.org/web/20250928083358/https://zh.wikisource.org/wiki/%E7%86%8A%E5%8D%81%E5%8A%9B%E3%80%8A%E8%A6%81%E5%9C%A8%E6%A0%B9%E6%9C%AC%E8%99%95%E6%B3%A8%E6%84%8F%E3%80%8B%E4%B8%80%E6%96%87%E7%9A%84%E7%B7%A8%E8%80%85%E9%99%84%E8%A8%80
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource 熊十力《要在根本處注意》一文的編者附言 (胡適, 1933-05-21, 獨立評論)
+  method: Wikisource action=parse via ms fetch
+  note: Verbatim in simplified characters; argument as described.
+  checked_on: "2026-10-30"

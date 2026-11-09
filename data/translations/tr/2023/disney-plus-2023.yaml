@@ -1,0 +1,24 @@
+# Turkish for data/voices/2023/disney-plus-2023.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: disney-plus-2023
+voice: Disney+
+role: Amerikan dijital yayın platformu
+summary: >-
+  Yüzüncü yıl için altı bölümlük Atatürk dizisini sipariş etti, ardından Ağustos 2023'te diziyi platformundan
+  çekti.
+caveat: >-
+  Atatürk hakkında beyan edilmiş bir görüş yok; dizi FOX TV Türkiye üzerinden ve sinema filmleri olarak
+  yayımlandı.
+verification_note: >-
+  Yüzüncü yıl için 6 bölümlük dizi, ANCA çağrısı, Disney+'ın yayımlamaması; Fox TV Türkiye / sinemalar
+  Yetkin'de doğrulandı
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3d955f12bdd8
+  role: c00c5befba95
+  summary: 092136c3d1cc
+  caveat: c45c20185af7
+  verification_note: 9656154bee41
+  verification_method: ad8cee67138e

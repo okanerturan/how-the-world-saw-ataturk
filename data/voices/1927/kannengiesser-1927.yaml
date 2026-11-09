@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kannengiesser-1927
+voice: Hans Kannengiesser
+voice_type: person
+role: >-
+  German officer, commander of the Turkish 5th Division at Gallipoli; memoir The Campaign in Gallipoli
+country: Germany
+country_now: Germany
+domain: military
+date: "1927"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: memoir
+evidence: P
+summary: >-
+  Recalls Kemal at Gallipoli as a clear-thinking, quiet, self-reliant commander who knew what he wanted; now
+  'world-famous President of Turkey'.
+quote:
+  text: >-
+    The impression that I gained of him during this period was that of a clear-thinking, active, quiet man who
+    knew what he wanted.
+  language: en
+caveat: >-
+  The Campaign in Gallipoli (Hutchinson, English edition 1928; German Gallipoli, der Wendepunkt des
+  Weltkrieges, 1927), p. 126 (running head '126 THE CAMPAIGN IN GALLIPOLI'); open scan
+  campaigngallipolikannengiesser. The same passage: 'Mustapha Kemal Bey is the now world-famous President of
+  Turkey'; 'He weighed and decided everything for himself, without looking elsewhere for support or
+  agreement'; 'He did not appear to be very strong bodily, although extremely wiry'. A plate in the book is
+  captioned 'Mustapha Kemal Bey, now Pasha and President of the Turkish Republic'. On p. 48 Kannengiesser
+  records the hanging of Djavid Bey 'for rebelling against the government of Mustapha Kemal Pasha' (a fact, no
+  judgement). He had come to take over the 5th Division and agreed that Kemal should conduct the action over
+  the whole front. Neutral voice kept.
+node: Soldiers on Mustafa Kemal in Their Own Words, 1915–1940
+sources:
+  - url: https://archive.org/details/campaigngallipolikannengiesser
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Kannengiesser, The Campaign in Gallipoli (Hutchinson 1928, tr. C. J. P. Ball), archive.org
+    campaigngallipolikannengiesser, CampaignGallipoliKannengiesser_djvu.txt
+  method: curl of the open djvu text, read in context; page from the running head
+  note: >-
+    Verbatim, p. 126 (head '126 THE CAMPAIGN IN GALLIPOLI' immediately precedes): 'Mustapha Kemal Bey is the
+    now world-famous President of Turkey. The impression that I gained of him during this period was that of a
+    clear-thinking, active, quiet man who knew what he wanted. He weighed and decided everything for himself
+    ...'. Liman's introduction is dated Munich 27 Jan 1927 (German original 1927, English 1928). The view of
+    Kemal is an explicit characterisation, not a passing mention. Plate caption 'Mustapha Kemal Bey, now Pasha
+    and President of the Turkish Republic' present. ERA FIX: 'contemporary' (1927, Kemal alive), not
+    'posthumous'. Caveat error: the Djawid Bey hanging ('1926, for rebelling against the government of
+    Mustapha Kemal Pasha') is on p. 48, not p. 222; it is a fact with no judgement, as the record says.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

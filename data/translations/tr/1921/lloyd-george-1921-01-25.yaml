@@ -1,0 +1,39 @@
+# Turkish for data/voices/1921/lloyd-george-1921-01-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lloyd-george-1921-01-25
+voice: David Lloyd George
+role: İngiltere Başbakanı, Paris'teki Müttefikler konferansında
+quote: >-
+  Kendisi (Bay Lloyd George), Mustafa Kemal'in eski Türk İmparatorluğu'nu diriltmek ve kendisini yeni bir
+  Sultanlar hanedanının ilki yapmak gibi boş bir hırsla dolu olmadıkça barışçıl bir çözüme düşman
+  olabileceğini tasavvur edemiyordu.
+quote_kind: translated
+summary: >-
+  Müttefiklere, Kemal'in barışı ancak eski İmparatorluğu canlandırmak ve yeni Sultanların ilki olmak yönündeki
+  boş bir hırs yüzünden reddedebileceğini söyledi.
+caveat: >-
+  İngiliz tutanaklarında dolaylı anlatım; biçim olarak koşullu. Aynı toplantı: Müttefiklerin Kemal'den barış
+  dileniyormuş gibi görünmemesi gerektiği konusunda Briand ile hemfikir oldu. Mevcut Lloyd George
+  kayıtlarından (Aralık 1920, Ağustos 1922, 1938) farklıdır.
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk c. III (TTK 1973) No. 20, s. 73 ← British Secretary's Notes of an
+  Allied Conference, Quai d'Orsay, 25 Ocak 1921, 16.00 (DBFP 1. seri c. XV s. 28–39 No. 4)
+verification_note: >-
+  s. 73'te kelimesi kelimesine aynı. Bir sonraki cümle ('most cordially agreed with M. Briand that ... the
+  Allies should not give Mustapha Kemal any justification for thinking that they were suing for peace')
+  çekince notuyla örtüşüyor. Mükerrer kayıt değil: mevcut Lloyd George kayıtları lloyd-george-1920 (Avam
+  Kamarası, 22 Aralık 1920), lloyd-george-1922 (4 Ağustos 1922) ve lloyd-george-1938 (anı) olup hepsi farklı
+  sözler ve tarihlerdir. Koşullu bir şüphe için düşmanca sınıflandırması savunulabilir ve çekince notu koşullu
+  biçime işaret etmektedir.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 06742055fab6
+  role: 35f2b5bae1e8
+  quote: ebea2bd7dbf0
+  summary: 657ff51f4c10
+  caveat: 5f4b4b433aeb
+  mediated_by: bef5ebea2416
+  verification_note: a9a91d113dd8
+  verification_method: b152e9063489

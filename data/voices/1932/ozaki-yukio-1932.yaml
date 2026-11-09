@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ozaki-yukio-1932
+voice: Ozaki Yukio
+voice_type: person
+role: Veteran Japanese Diet member, 'father of the constitution'
+country: Japan
+country_now: Japan
+domain: politics
+date: "1932"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: book
+evidence: P
+summary: >-
+  Says Kemal's switch to the Latin alphabet alone proves him a head above ordinary heroes, a great success
+  achieved at almost no cost.
+quote:
+  text: 而して土のケマルは、先年トルコ文字を廢して、ローマ字を採用した。此一事以て彼が世間普通の豪傑以上に一頭地を拔いてゐることを證するに足る。
+  language: ja
+caveat: >-
+  Kaiko manroku (1947), 'Toruko no senrei', printed p. 103, NDL image 57 (page image read). Hitler is still
+  'unknown' in the passage, so the essay dates from the early 1930s; 1947 is the book date. Stronger and more
+  personal than the 1934 record (a list with Mussolini and Hitler). The praise rests on the script change and
+  does not touch other reforms. Check: the book's first part is headed '昭和七年英京に於て執筆' (written in London, 1932)
+  and the passage calls Hitler '未知數', so c. 1932 (probable); published 1947.
+node: Japanese Writers and Activists on Kemal, 1922–1947 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1438901
+  - url: https://dl.ndl.go.jp/pid/1154057
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    NDL pid 1438901 (Kaiko manroku, Iwanami, 15 Feb 1947 printing, author Ozaki Yukio), image 57
+  method: >-
+    downloaded IIIF page image and READ the Japanese on it; checked NDL item metadata for author/title/year
+  note: >-
+    Quote verbatim on printed p.103 (left page), section 'Toruko no senrei' inside chapter 3 (pp.93ff). Praise
+    rests on the script change; the next paragraph says Kemal's method and timing were good and he finished it
+    almost without sacrifice, matching the record. DATE/ERA CORRECTION (probable, not certain): the 1947 book
+    is a reprint of a 1932-33 tract; its first part is headed '(昭和七年英京に於て執筆)' (written in London, 1932; table
+    of contents, image 6) and the Kemal passage calls Hitler '未知數' (still unknown), i.e. before Jan 1933.
+    Chapter 3 itself carries no separate date. So date should be c.1932, era contemporary, not 1947
+    posthumous. Gaze test passes (own, strong verdict).
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (round 29)
+  checked_on: "2026-11-05"

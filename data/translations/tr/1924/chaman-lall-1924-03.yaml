@@ -1,0 +1,37 @@
+# Turkish for data/voices/1924/chaman-lall-1924-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: chaman-lall-1924-03
+voice: Diwan Chaman Lall
+role: İşçi lideri, Yasama Meclisi Batı Pencap üyesi
+quote: bu, Hindistan Hükümeti değil, Mustafa Kemal Paşa'nın Kılıcıydı.
+quote_kind: translated
+summary: >-
+  Hilafet heyetine pasaport verilmesine ilişkin erteleme önergesi tartışmasında, Sevr Antlaşması'nın
+  değiştirilmesini Hindistan Hükümeti'nin diplomasisine değil, Kemal'in kılıcına bağlar.
+caveat: >-
+  Legislative Assembly Debates, c. IV, kısım III, 25 Mart 1924, s. 2214. Lok Sabha Secretariat / Government of
+  India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR üzerinden. Metin resmi tutanağın OCR
+  çıktısından okunmuştur; bariz OCR hataları alıntıda sessizce düzeltilmiştir. Kontrol: soru metni 'partly to
+  congratulate the Turks on their victory' şeklindedir.
+verification_note: >-
+  Alıntı birebir aynı ('Government of India' ... 'Sword of Mustapha Kemal Pasha'; OCR 'Ghaman Lal',
+  'artigle'); sayfa, tarih, cilt, dönem doğru. Uyarı notunda SORUN: 'to present congratulatory addresses to
+  Ghazi Mustafa Kamal Pasha' ifadesi görüşme metninde yer almıyor. Soru metni 'partly to congratulate the
+  Turks on their victory and partly to settle the future of the Khilafat' şeklindedir; cildin hiçbir yerinde
+  'Ghazi' geçmiyor. Düzeltme: 'delegations to Turkey, partly to congratulate the Turks on their victory' ile
+  değiştirilmeli. Bakış sınırda: Sevr'in değiştirilmesini tek bir yan cümleyle Kemal'in kılıcına bağlıyor,
+  yoğunluk 1 düzeyinde tutuldu; aynı zamanda Hilafet heyeti lehine bir savunu niteliğinde (araçsal olduğu
+  savunulabilir).
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden indirildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa üstbilgileri ve konuşma okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 33507ec13111
+  role: 6b60271c1215
+  quote: af250c4d0a90
+  summary: 36432d35227f
+  caveat: a7eb9583139d
+  verification_note: 1673650c5a97
+  verification_method: 634050edd257

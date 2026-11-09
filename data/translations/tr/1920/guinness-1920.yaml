@@ -1,0 +1,19 @@
+# Turkish for data/voices/1920/guinness-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: guinness-1920
+voice: Yarbay Guinness, Milletvekili
+role: Avam Kamarası üyesi, Türkler ve İstanbul konulu görüşme
+quote: Mustafa Kemal diktatör olurdu
+quote_kind: translated
+summary: >-
+  Maraş ve Zeytun katliamlarından Kemal'in topladığı birlikleri sorumlu tuttu ve Türkleri İstanbul'dan
+  çıkarmanın onu diktatör yapacağını öngördü.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 52d247fce241
+  role: 17bd85484d5d
+  quote: 41f65e6091be
+  summary: 9ef6b04f0b29
+  verification_method: a033a528b603

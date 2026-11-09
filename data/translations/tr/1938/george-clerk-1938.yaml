@@ -1,0 +1,29 @@
+# Turkish for data/voices/1938/george-clerk-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: george-clerk-1938
+voice: George Clerk
+role: "Britanyalı diplomat (dizin: 'London, George Clerk'); eski Türkiye büyükelçisi (hafızadan)"
+quote: hatırası kalplerinizde daima ölümsüz kalacak olan büyük adam
+quote_kind: translated
+summary: >-
+  Hatırası Türklerin kalplerinde ölümsüz kalacak olan büyük adamın kaybından duyulan acıyı paylaştı.
+caveat: >-
+  TBMM c. 2 (c2) PDF s. 43. Görev bilgisi belgede yer almaz; kimliği adından ve dizinden çıkarılmıştır.
+verification_note: >-
+  İngilizce: 'the great man whose memory will ever be immortal in your hearts', 'george clerk' imzalı, 'please
+  believe that I share with your excellency and all my Turkish friends and the whole Turkish people your grief
+  at the loss of'. Alıntı birebirdir. Görev bilgisi (Sir George Clerk, eski büyükelçi) belgede yer almaz;
+  kaydın belirttiği gibi kimliği çıkarımla belirlenmiştir. Soldaki telgraf (Lichtenburg) farklı bir maddedir.
+verification_method: >-
+  PDF sayfasının kendi görüntü çıktısı (PDFKit PNG, gözle okundu); OCR'a dayanılmadı; telgraf metni aksansız
+  büyük/küçük harf daktilo yazısıdır
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bd69de9ae6f6
+  role: ec34c55faeb5
+  quote: 068820e952bc
+  summary: 103a3fe3928c
+  caveat: 1bab5bbdd2de
+  verification_note: 8f9a77d226d1
+  verification_method: 7c3ad23fb937

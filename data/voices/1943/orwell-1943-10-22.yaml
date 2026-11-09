@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: orwell-1943-10-22
+voice: George Orwell
+voice_type: person
+role: English writer and Tribune columnist
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1943-10-22"
+era: posthumous
+polarity: hostile
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Cites the Left's praise of Mustapha Kemal in 1935–39 as an example of its readiness to accept 'very doubtful
+  allies' against Fascism.
+quote:
+  text: >-
+    In the years 1935-9, when almost any ally against Fascism seemed acceptable, left-wingers found themselves
+    praising Mustapha Kemal and then developing a tenderness for Carol of Rumania.
+  language: en
+caveat: >-
+  'Who Are the War Criminals?', review of 'Cassius' (Michael Foot), The Trial of Mussolini, Tribune, 22 Oct
+  1943; Collected Essays, Journalism and Letters vol. 2, item 54 (archive.org open text). The judgement is
+  implied: the sentence follows 'the Left has also been willing to shut its eyes to a great deal and to accept
+  some very doubtful allies'. The lead's attribution to 'Notes on Nationalism' (1945) is wrong; that essay
+  does not mention Kemal.
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/2-george-collected-essays-volume-ii-1940-1943
+  - url: https://archive.org/details/collectedessaysj0002soni
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    CEJL vol. 2 (archive.org 2-george-collected-essays-volume-ii-1940-1943 djvu.txt), item '54. Who Are the
+    War Criminals?', dated 'Tribune, 22 October 1943'
+  method: archive.org open OCR text read
+  note: >-
+    Sentence verbatim; preceded by 'the Left has also been willing to shut its eyes to a great deal and to
+    accept some very doubtful allies'. Item number, title and date confirmed; era posthumous is correct. Gaze
+    test: a borderline pass, with Kemal named among the 'very doubtful allies' (beside Chiang and Carol). The
+    view is implied and the caveat says so; intensity 1 is right.
+  checked_on: "2026-11-05"

@@ -1,0 +1,42 @@
+# Turkish for data/voices/2012/correa-2012-03-15.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: correa-2012-03-15
+voice: Rafael Correa
+role: Ekvador Devlet Başkanı
+quote: >-
+  Türkiye, Arap Baharı'nda model bir ülke haline geldi. Eğer o ülkelerin bir Atatürk'ü olsaydı ve siyasi
+  dönüşümlerini zamanında gerçekleştirmiş olsalardı, şu anki durumlarına düşmezlerdi.
+quote_kind: translated
+summary: >-
+  Arap Baharı ülkelerinin bir Atatürk'ü olsaydı ve siyasi dönüşümlerini zamanında yapmış olsalardı bugünkü zor
+  durumlarında olmayacaklarını söyler.
+caveat: >-
+  Cumhurbaşkanı Abdullah Gül ile ortak basın toplantısı, Çankaya, 15 Mart 2012. İspanyolca orijinali
+  bulunamadı; resmî Gül arşivi (abdullahgul.gen.tr, 82370) yalnızca Gül'ün kendi sözlerini yayımlamaktadır.
+  Türkçe metin: 'Eminim ki bu ülkelerin de zamanında bir Atatürk'ü olmuş olsaydı ve siyasi değişimlerini o
+  zaman yapabilselerdi, şu anda yaşadıkları durumlara düşmezlerdi.' Tercüme edilmiş tek bir sözün iki ayrı
+  aktarımı olduğundan, yalnızca haber olarak birbirinden bağımsızdır. Kontrol: alıntı, Hürriyet Daily News
+  tarafından yayımlandığı şekliyle tercümanın İngilizcesidir; İspanyolca orijinal bulunamadı.
+mediated_by: >-
+  Hürriyet Daily News, 15 Mart 2012 (tercüman aracılığıyla söylenen sözlerin İngilizce aktarımı);
+  gzpolat2.blogspot.com'da yeniden yayımlanan Türkçe ajans metni
+verification_note: >-
+  İngilizce cümle HDN'de kelimesi kelimesine mevcut; Türkçe ifade blog yeniden paylaşımında kelimesi
+  kelimesine mevcut. İspanyolca orijinal BULUNAMADI: abdullahgul.gen.tr arşivi (82370) curl'e yanıt vermedi ve
+  ücretli arama olmadan hiçbir Ekvador devlet başkanlığı metnine ulaşılamadı. Alıntı, HDN'nin bastığı şekliyle
+  tercümanın İngilizcesidir, dolayısıyla bir aktarım olarak işaretlenmelidir. Tarih: HDN'deki 'said yesterday'
+  ertesi günkü baskı ifadesidir; 16 Mart saat 00:01'de yayımlanan ajans metni 15 Mart tarihli bir basın
+  toplantısıyla uyumludur. İkinci J, adı belirtilmeyen bir ajansın blog kopyası olduğundan bağımsız dayanak
+  olarak zayıftır.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 605352f1c431
+  role: 4088455b27e2
+  quote: 3eaf9dc5616f
+  summary: 4fc8227b7b25
+  caveat: 9089707d57bd
+  mediated_by: 37c66cabb736
+  verification_note: 8fdd83ff852a
+  verification_method: 5300d17a1d69

@@ -1,0 +1,43 @@
+# Turkish for data/voices/1921/nazim-hikmet-1921.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nazim-hikmet-1921
+voice: Nâzım Hikmet
+role: Millî Mücadele'ye katılmak üzere Anadolu'ya geçen genç şair
+summary: >-
+  Ankara'da Vâlâ Nureddin ile birlikte 'iki genç şair' olarak kabul edildi; Kemal sohbeti derhal şiire getirdi.
+caveat: >-
+  Birinci elden temas kuralı (dünyaca ünlü yazar). Yalnızca ödünç alınabilen bir kitabın archive.org kitap içi
+  arama kesitleri olarak okundu ('When they were presented to the great man as two young poets, Kemal
+  immediately turned the subject to poetry'); sayfa gösterilmiyor ve görülen 'Va-Nu, 56-67' atfı komşu cümleye
+  ait, dolayısıyla görüşme pasajının kesin kaynağı doğrulanmadı. Nâzım'ın görüşmedeki kendi sözleri
+  verilmiyor. Tarih bağlamdan (1921, şairlerin Ankara'ya varışı). Zayıf: kitap sayfasına veya Vâlâ Nureddin'in
+  anılarına ihtiyaç var. Kontrol: kesit Kemal'in 'I recommend you to write poetry with a purpose' (Va-Nu, 95)
+  tavsiyesiyle devam ediyor; şairler 1 Ocak 1921'de İstanbul'dan gemiyle ayrıldı.
+mediated_by: >-
+  Göksu & Timms, *Romantic Communist* (1999), 'Ankara: poetry with a purpose' bölümü (s. 19'dan itibaren) ←
+  Vâlâ Nureddin'in anıları, s. 95
+verification_note: >-
+  Görüşme ikincil kaynakta belgelenmiş: 'When they were presented to the great man as ‘two young poets’, Kemal
+  immediately turned the subject to poetry. Some young poets (he said) were writing simply for the sake of
+  being modern; ‘I recommend you to write poetry with a purpose’ (Va-Nu, 95).' Dolayısıyla pasajın kaynağı
+  TESPİT EDİLDİ: Vâlâ Nureddin'in anıları s. 95; bu da uyarı notundaki 'not confirmed' ifadesini çözüme
+  kavuşturuyor. 'Ankara: ‘poetry with a purpose’' bölümü s. 19'da başlıyor (içindekiler kesiti); pasajın tam
+  sayfası gösterilmiyor. Tarih: kesitler şairlerin 1 Ocak 1921'de İstanbul'dan gemiyle ayrıldığını ve ocak
+  ayını İnebolu'dan yürüyerek geçirdiklerini ('almost a fortnight') söylüyor, dolayısıyla 1921 destekleniyor
+  (1921 başı, muhtemelen Ocak-Şubat). Düzeltmeler: mediated_by → 'Göksu & Timms, Romantic Communist (1999),
+  ch. 1, section ‘Ankara: poetry with a purpose’ (from p. 19) ← Vâlâ Nureddin (Va-Nu), memoir, p. 95'; uyarı
+  notu: 'exact source ... not confirmed' ifadesini çıkar, pasaj için Va-Nu s. 95'e atıf yapıldığını ve
+  Nâzım'ın kendi sözlerinin verilmediğini belirt; what_they_saw Kemal'in onlara 'poetry with a purpose'
+  yazmalarını öğütlediğini ekleyebilir. Temas kuralı geçerli (dünyaca ünlü yazar); witness/meeting doğru. Anı
+  kitabının kendisi (Va-Nu, başlık burada doğrulanmadı) görülmedi.
+verification_method: archive.org FTS kesitleri (tools/fts.py)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5753fd011b63
+  role: 7da3d3ce7a22
+  summary: 7e5d3f44dd41
+  caveat: af7f4323487f
+  mediated_by: f934e8cadda2
+  verification_note: f7256fc1b05c
+  verification_method: 4cad58bad997

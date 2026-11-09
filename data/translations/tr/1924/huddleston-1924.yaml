@@ -1,0 +1,25 @@
+# Turkish for data/voices/1924/huddleston-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: huddleston-1924
+voice: Sisley Huddleston
+role: Gazeteci ve yazar, Those Europeans
+quote: >-
+  Şimdi Mustafa Kemal, Türkleri esaretten çıkarmakla iyi etti; ama onları sonunda daha da kötü olacak bir
+  esarete mi götürdü?
+quote_kind: translated
+summary: >-
+  Kemal'in Lozan'da İtilaf Devletleri arasındaki ayrılıkları gerçek bir ustalıkla kullanmasını takdir eder,
+  ancak gücünden kuşku duyar ve Türkleri daha kötü bir esarete götürüp götürmediğini sorar.
+caveat: >-
+  Uyruğu kitaptan değil katalogdan/biyografiden çıkarımlandı; Kemal'in yerinden edilebileceğine dair öngörüsü
+  (s. 262) yanlış çıktı. Kitap s. 266; tarama yaprağı n274.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b845349cfeab
+  role: 8a57a20432ee
+  quote: c55ed1b0009b
+  summary: 54b6e809b0cc
+  caveat: c08ae36edb01
+  verification_method: ad8cee67138e

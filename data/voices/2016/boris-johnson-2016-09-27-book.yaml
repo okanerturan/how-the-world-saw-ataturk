@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: boris-johnson-2016-09-27-book
+voice: Boris Johnson
+voice_type: person
+role: British Foreign Secretary; entry in the Anıtkabir special book
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "2016-09-27"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: quote
+evidence: J
+summary: >-
+  A privilege to 'return to the land of my fathers' and honour the founder of a modern, free, democratic
+  Turkey whose vision is being fulfilled.
+quote:
+  text: >-
+    It is a great privilege to return to the land of my fathers and to pay tribute to the founder of a modern,
+    free and democratic Turkey
+  language: en
+mediated_by: Milliyet and Habertürk, 27 Sep 2016 (AA; Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of an entry written in English. Milliyet and Habertürk print the same AA text. Johnson's
+  great-grandfather Ali Kemal was an Ottoman minister who opposed the national struggle (Habertürk notes it).
+  Foreign Secretary here, later Prime Minister. Atatürk is not named in the quoted line; 'the founder' is the
+  reference. English from AA English (snippet). He is the great-grandson of Ali Kemal, the anti-nationalist
+  minister lynched in 1922.
+node: Ministers, Premiers and Presidents in the Anıtkabir Special Book, 2009–2026
+sources:
+  - url: https://www.milliyet.com.tr/siyaset/johnson-anitkabir-ozel-defterine-yazdi-atalarimin-topraklarina-donmek-2317489
+  - url: https://www.haberturk.com/dunya/haber/1302284-ingiltere-disisleri-bakani-johnson-anitkabiri-ziyaret-etti
+    archived: https://web.archive.org/web/20161101055657/http://www.haberturk.com:80/dunya/haber/1302284-ingiltere-disisleri-bakani-johnson-anitkabiri-ziyaret-etti
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Milliyet (AA) 27 Sep 2016 12:03; Habertürk 27 Sep 2016 11:12; AA English 27 Sep 2016 (search snippet)
+  method: >-
+    fresh free fetch of the cited articles (tools/ms fetch); banked round16/anit pages not used; one paid
+    search for the English
+  note: >-
+    Turkish quote verbatim (Habertürk has the final period; Milliyet headline form lacks it); same AA text,
+    one source; date correct. ORIGINAL ENGLISH FOUND (AA English,
+    u.aa.com.tr/en/middle-east/over-200-ypg-members-in-syrias-manbij-turkish-fm/653614): 'It is a great
+    privilege to return to the land of my fathers and to pay tribute to the founder of a modern, free and
+    democratic Turkey; and to see how his vision is being fulfilled as Turkey takes its place as one of the
+    great nations of the world.' Replace the translation with this ('fathers', not 'ancestors'). I saw it as a
+    search snippet. Admiring fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

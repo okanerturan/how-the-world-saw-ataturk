@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: taki-efendi-tbmm-1921
+voice: Taki Efendi (Sivas)
+voice_type: person
+role: Sivas deputy, First Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-08-05"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Opposed giving Kemal the formal title of Commander-in-Chief, fearing every defeat would be blamed on him,
+  while calling him the nation's standard-bearer.
+quote:
+  text: Fakat Mustafa Kemal Paşa bu milletin alemdarıdır.
+  language: tr
+caveat: >-
+  Cite: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 2, 62nd sitting, 1st session,
+  5 Ağustos 1337 (1921), p. 193. Argues Kemal should keep commanding without the title.
+node: TBMM Closed Sessions on the Commander-in-Chief, 1921–1922
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+    archived: https://web.archive.org/web/20250915054819/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM Gizli Celse Zabitlari cilt 2 PDF (bitstream 6d06856b), 62nd sitting 5 Ag 1337, printed p.193
+  method: >-
+    pdftotext; quote verbatim on p.193 (page marker 192 precedes it); speaker, date, claim all supported
+  checked_on: "2026-10-29"

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: l-action-francaise-1922
+voice: L'Action française
+voice_type: press
+role: Paris royalist-nationalist daily
+country: France
+country_now: France
+domain: press
+date: "1922-09-16"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Read Moustapha Kemal's and Fethi Bey's statements as moderate, the Turks as not unreasonable, in a Balkan
+  war-scare column.
+quote:
+  text: De même, Moustapha Kemal semble modéré
+  language: fr
+caveat: >-
+  Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. 'Instrumental' is an
+  inference from the paper's Eastern-question framing, not stated in the fragments.
+node: Paris Reads Smyrna and the Straits, September 1922
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k761346q
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Gallica ark bpt6k761346q: only search-hit snippet a local working file cs3.out/cs4.out) "De même,
+    Moustapha Kemal semble modéré"; Gallica page blocked (captcha/bot_blocked)
+  method: fetch
+  note: >-
+    Full article, date 16 Sep 1922, "Balkan war-scare column" and polarity=instrumental not checkable; quote
+    is a search fragment.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

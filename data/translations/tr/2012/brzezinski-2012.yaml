@@ -1,0 +1,35 @@
+# Turkish for data/voices/2012/brzezinski-2012.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: brzezinski-2012
+voice: Zbigniew Brzezinski
+role: ABD Ulusal Güvenlik Danışmanı 1977-81; Strategic Vision (2012)
+quote: Atatürk 1924'te laikleşmeyi yukarıdan dayattığı için,
+quote_kind: translated
+summary: >-
+  Atatürk'ü, tarihsel bir vizyonun yönlendirdiği, Türkiye'nin 'başarılı' modernleştiricisi olarak niteler;
+  onun yukarıdan laikleştirmesinin Çin'de ve başka yerlerde başarısız olan modeli ortaya koyduğunu belirtir.
+caveat: >-
+  Yalnızca metin içi arama kesitleri (archive.org strategicvisiona0000brze; sayfalar gösterilmiyor), bu
+  nedenle kanıt P değil J'dir. Diğer kesitler: 'The ambitious nationalist mystique of Ataturk was contagious
+  among fervent younger Turks'; 'In firmly promoting it, Ataturk was guided by a historic vision'; 'China's
+  failed equivalents of Turkey's successful Ataturk. Mao Zedong was a self-destructive equivalent' ile
+  karşılaştırma. Alıntı bir parçadır çünkü kesit orada durmaktadır (cümle Avrupalıların Türk demokrasisine
+  bakışı hakkında devam etmektedir). Ayrıca The Grand Chessboard (1997): 'No Russian Ataturk is now in sight'
+  (kısıtlı nüsha grandchessboarda00brze_0). Yalnızca kesit parçası; sayfa bilinmiyor (ödünç nüsha).
+verification_note: >-
+  Kesit: 'democratic progress. Because Ataturk imposed secularization from above in 1924, many Europeans
+  and...' Kayıttaki alıntı kesitin durduğu yerde duran birebir bir parçadır; dolayısıyla düşünce
+  tamamlanmamıştır ve sayfa bilgisi elde edilememektedir. 'Başarılı modernleştirici / tarihsel vizyon /
+  Çin'deki başarısız muadiller' iddiaları bu turda yeniden kontrol edilmeyen diğer kesitlere dayanmaktadır.
+  Sayfa ve tam cümle için kitaba erişimi olan bir insana ihtiyaç vardır.
+verification_method: tools/fts.py kesiti (ödünç nüsha, sayfa numarası yok)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a6c0e0da037a
+  role: 193838ffbb39
+  quote: 37e2e288db6d
+  summary: 7b978a2e1d8c
+  caveat: 7e0b852498c8
+  verification_note: b41a7e7d4251
+  verification_method: 722673186ef4

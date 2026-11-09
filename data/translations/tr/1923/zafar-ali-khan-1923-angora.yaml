@@ -1,0 +1,33 @@
+# Turkish for data/voices/1923/zafar-ali-khan-1923-angora.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zafar-ali-khan-1923-angora
+voice: Zafar Ali Khan
+role: Urdu şairi ve Zamindar'ın editörü
+quote: Mustafa eğer Angora düzenini kurmasaydı / Curzon Angora'nın işini zaten bitirmişti
+quote_kind: translated
+summary: >-
+  'Angora' şiiri: Mustafa Ankara düzenini kurmasaydı Curzon Ankara'nın işini bitirirdi; ünü Kabil'den Kahire
+  ve Şam'a yayılıyor.
+caveat: >-
+  Alıntının çevirisi: 'Mustafa eğer Angora düzenini kurmasaydı / Curzon Angora'nın işini zaten bitirmişti.'
+  'Angora' şiiri, Baharistan, Parts 1-2 (Gujrat, 1937, 'kırk yıllık şiir') içinde basılı s. 273 (içindekiler
+  listesi s. 274; PDF sayfası 295), sayfa görüntüsünden okundu (4 Kasım 2026). Şiir kitapta tarihsizdir; 1923
+  tarihi Curzon'a (Lozan görüşmeleri, Ocak 1924'e kadar dışişleri bakanı) ve Amanullah Han'a yapılan
+  atıflardan çıkarılmıştır ve bir iki yıl sapma gösterebilir. 1919-22 Hilafet dönemi metni değildir. Kontrol:
+  tarih çıkarımdır (Curzon ve Amanullah atıfları); kitap 1937 tarihli Baharistan'dır.
+verification_note: >-
+  Beyit birebir aynı ('Mustafa qaim na karta gar nizam-e Angora ka / kam Curzon ne kiya hi tha tamam-e Angora
+  ka'); çeviri sadık; Kabil/Hind/Irak/Mısır/Şam dizesi de mevcut. Şiir kitapta tarihsizdir: 1923 tarihi bir
+  çıkarımdır (Curzon, Amanullah) ve doğrulanamaz; 1937 basımından önceki herhangi bir tarih için 'çağdaş'
+  dönemi güvenlidir, ancak tarih alanı ihtiyatlı ifade edilmeli veya yaklaşık olarak gösterilmelidir.
+verification_method: PDF sayfası işlendi ve görüntü üzerinden Urduca OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7d9ce798586c
+  role: 905963d10e79
+  quote: ee5e139d78f6
+  summary: 2fcee2dbba6a
+  caveat: 35c4920ab995
+  verification_note: ec68fce1443c
+  verification_method: 6fea72a6f09d

@@ -1,0 +1,25 @@
+# Turkish for data/voices/1922/cemal-pasha-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cemal-pasha-1922
+voice: Cemal Paşa
+role: Jön Türk üçlü yönetimi üyesi; Suriye'deki Dördüncü Ordu komutanı; anı yazarı
+quote: Mustafa Kemal Paşa'nın tamamen haklı olduğu sonucuna vardım
+quote_kind: translated
+summary: >-
+  1917'de von Falkenhayn ile anlaşmazlığında Kemal'in tamamen haklı olduğuna hükmetti ve Kemal'in ulusal
+  ayaklanmasının İstanbul ile İzmir'i kurtaracağını umdu.
+caveat: >-
+  Anıların İngilizce baskısı 1922 (Hutchinson); Cemal Temmuz 1922'de suikast sonucu öldürüldü. Sayfalar: s.
+  192 (Gazze bölümü), s. 237-238 (Arap İsyanı bölümünün sonu).
+verification_note: Sayfa numaraları bağımsız olarak doğrulanmadı.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e4aece925782
+  role: 86ca6abe0f82
+  quote: f27a525de7bd
+  summary: 17830e34b10d
+  caveat: bfeecabbb2bc
+  verification_note: b011b4372da4
+  verification_method: ad8cee67138e

@@ -1,0 +1,47 @@
+# Turkish for data/voices/1925/le-corbusier-1925.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-corbusier-1925
+voice: Le Corbusier
+role: İsviçreli-Fransız mimar ve yazar
+quote: >-
+  Ve daha bugünden karşımızda Ankara ve Mustafa Kemal anıtı var! Olaylar hızla gelişiyor. Zarlar atıldı:
+  asırlık bir uygarlık daha yıkıma gidiyor.
+quote_kind: translated
+summary: >-
+  Ankara'yı ve Mustafa Kemal anıtını Batı'nın zaferi olarak gördü: asırlık bir uygarlık daha yıkıma gidiyor,
+  Türkiye'de artık badana yok.
+caveat: >-
+  Yalnızca kesit (archive.org decorativeartoft0000leco, yalnızca ödünç alınabilir; sayfa gösterilmiyor; cümle:
+  ); Fransızca özgün metne ulaşılamadı. Kesitteki bağlam: Jön Türkler gelmiş, Çarşı tabelalarını değiştiriyor,
+  'the West was triumphing'. Üslubu, halk Doğu'suna duyulan özlemi kabullenişle harmanlıyor. İstanbul planı
+  için başvurduğu 1933 tarihli mektup yalnızca 1948'de Şemsa Demiren'e yaptığı açıklamadan biliniyor ve
+  sahneye alınmadı. Pasaj eski kültürün yok oluşuna yakılan bir ağıt olarak okunuyor; 'conflicted' nitelemesi
+  bu okumaya dayanıyor. Fransızca özgün metne ve sayfaya ulaşılamadı.
+mediated_by: >-
+  L'Art décoratif d'aujourd'hui'nin (Paris: Crès 1925) Dunnett tarafından yapılan İngilizce çevirisi (1987),
+  archive.org metin içi arama kesitleri olarak okundu
+verification_note: >-
+  Metin örtüşen kesitlerde birebir yer alıyor: '...the Bazaar was changing its signs, and that the West was
+  triumphing. And already today we have Ankara, and the monument to Mustapha-Kemal! Events move fast. The die
+  is cast: one more centuries-old civilisation goes to ruin. No more whitewash in Turkey for a long time to
+  come!' Düzeltmeler: (1) cümle 'goes' kelimesinden sonra kesilmiyor; alıntı 'goes to ruin.' ile bitmeli; (2)
+  pasaj bir ağıt niteliğinde ('A coat of whitewash: the law of Ripolin' bölümünün badana teması), bu yüzden
+  what_they_saw alanındaki 'one more ... civilisation passing' ifadesi bunu hafifletiyor; (3) arşivlenen basım
+  'MIT 1987' değil, London: Architectural Press 1987 (ABD basımını MIT Press yayımladı; IA üst verisinde
+  çevirmenin adı geçmiyor). Sayfa hâlâ bilinmiyor, Fransızca özgün metin görülmedi. İkircikli (conflicted)
+  nitelemesi ancak ağıt vurgusu belirtildiğinde savunulabilir; bakış testi sınırda (Kemal yalnızca anıt
+  olarak, kaybın bir işareti olarak görünüyor), yoğunluk (intensity) 1 doğru. Kesitler halinde okunan kendi
+  kitabı için P hak edilmiş.
+verification_method: >-
+  archive.org FTS kesitleri (4 sorgu); kitap içi arama sayfa API'si 403 (yalnızca ödünç alınabilir)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8ef32cfa112c
+  role: ce734f871f6e
+  quote: 35af45cbffe3
+  summary: 71902b56b918
+  caveat: 121562da1f25
+  mediated_by: 6bb195d9b963
+  verification_note: 5f7b95692944
+  verification_method: 39ef39318be5

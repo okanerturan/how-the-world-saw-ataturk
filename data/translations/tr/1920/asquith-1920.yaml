@@ -1,0 +1,19 @@
+# Turkish for data/voices/1920/asquith-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: asquith-1920
+voice: H. H. Asquith
+role: Eski Başbakan, Avam Kamarası dışişleri görüşmesi
+quote: Mustafa Kemal ve kuvvetleri serbest kaldığı sürece
+quote_kind: translated
+summary: >-
+  Kemal'in kuvvetleri serbest kaldığı sürece Ermenilerin yeniden katliamla karşı karşıya olduğunu savundu ve
+  Avrupalı subayları bir Ermeni savunma gücü eğitmeye çağırdı.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 767fba04d303
+  role: 4f2087edaff8
+  quote: d97f0d95e109
+  summary: db105b770dd7
+  verification_method: a033a528b603

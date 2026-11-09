@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/goteborgs-handels-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: goteborgs-handels-1938
+voice: Göteborgs Handels- och Sjöfartstidning
+role: İsveç günlük gazetesi
+summary: >-
+  Osmanlı kalıntılarından ulusal bir Türk devleti kuran ve tarımı sistemli biçimde rasyonelleştiren devlet
+  kurucusunu övdü.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki özgün metinler görülmemiştir.
+mediated_by: Toksoy 2006 ← Cumhuriyet (İsveç gazeteleri bölümü)
+verification_note: Toksoy'un yazımı bozuk; çekince notunda belirtildiği gibi kimlik tespiti varsayıma dayalı
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d6f5d2db0523
+  role: 64409c633f80
+  summary: 8c32ede1ffc8
+  caveat: ecc719a2a575
+  mediated_by: 8bd77e33cab2
+  verification_note: f6945998dafa
+  verification_method: 939bb46a04c3

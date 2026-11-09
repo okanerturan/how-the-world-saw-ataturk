@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/giner-de-los-rios-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: giner-de-los-rios-1938
+voice: Bernardo Giner de los Ríos
+role: İspanyol Cumhuriyetçi bakan, cenaze delegesi
+summary: >-
+  Cenazede İspanya Cumhuriyeti'ni temsil etmek üzere Ankara'ya gönderilen bir komisyona atandı.
+caveat: >-
+  Franco'nun Burgos'unun kimseyi gönderip göndermediği saptanmamıştır. Metin kontrol edilmedi (kaynağa
+  erişilemedi 2026-10-29)
+mediated_by: Tüylü Turan 2019 (İspanyol basını)
+verification_note: >-
+  Tuyluy Turan 2019 erişilebilir değil; Ankara'daki cenazeye gönderilen komisyon kontrol edilmedi
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d6d084f7caf1
+  role: e550c9b66606
+  summary: e90a181cd3a4
+  caveat: 43da5afbb2bc
+  mediated_by: a14affc07b0f
+  verification_note: 7e74913bc6a9
+  verification_method: ad8cee67138e

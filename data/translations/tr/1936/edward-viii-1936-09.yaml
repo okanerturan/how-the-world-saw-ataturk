@@ -1,0 +1,40 @@
+# Turkish for data/voices/1936/edward-viii-1936-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: edward-viii-1936-09
+voice: VIII. Edward
+role: Birleşik Krallık Kralı, Nahlin yatıyla özel ziyarette
+quote: Türkiye'de ilk ikametimden pek zevkli bir hatıra muhafaza edeceğim.
+quote_kind: original-turkish
+summary: >-
+  İstanbul'da Atatürk tarafından kabul edildi, karşılıklı ziyaretlerde bulundu, onunla şehirde otomobille
+  gezdi, kendisini Londra'ya davet etti ve Sofya'dan teşekkür telgrafı çekti.
+caveat: >-
+  Fransızca telgrafının Türkçe tercümesinin çevirisi: 'I shall keep a most pleasant memory of my first stay in
+  Turkey.' Sirkeci Garı'nda (6 Eylül) Atatürk'e Fransızca olarak bir gün Londra'yı şereflendirmesini umduğunu
+  söylemiştir. 1936 yılı İngiliz yıllık raporu (paragraf 61) ve 5–7 Eylül 1936 tarihli Yeni Zelanda ajans
+  haberleriyle doğrulanmaktadır; anı kitabı A King's Story (1951), Atatürk'ün kendisini karaya çıkarken
+  karşıladığını ve kurşun geçirmez otomobilini bıraktığını anımsatır.
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri c. 28 (Kaynak 2010) s. 281–283 ← Edward'ın telgrafı, Sofya 7 Eylül 1936 (Şimşir,
+  Atatürk ve Yabancı Devlet Başkanları c. 2 s. 342–343) ve Cumhuriyet, Akşam, Kurun 7 Eylül 1936
+verification_note: >-
+  Alıntı s. 283'teki dipnotta birebir yer almaktadır ('Türkiye'de ilk ikametimden pek zevkli bir hatıra
+  muhafaza edeceğim'). Londra sözü s. 281'dedir: 'Sizin de bir gün Londra'yı şereflendireceğinizi ümit
+  ederim'. İngiliz raporu paragraf 61, 4 Eylül sabahı varışı, Cumhurbaşkanı'nın karaya çıkarken kendisini
+  karşılayıp Büyükelçiliğe kadar onunla birlikte otomobille gidişini, karşılıklı ziyaretleri ve 'King Edward
+  remained in Istanbul until the 6 September' bilgisini doğrulamaktadır. DÜZELTME: Çekince notundaki 'At
+  Sirkeci station (5 Sept)' ifadesi 6 Eylül olmalıdır. Papers Past EP19360905.2.67 curl ile boş sayfa
+  döndürmüş ve okunamamıştır; A King's Story kontrol edilmemiştir. Özlü bir görüşme gerçekleştiren önemli bir
+  şahsiyet olduğundan kayıt geçer.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5ebdcf799742
+  role: 4c27db38d8ae
+  quote: cba586eca410
+  summary: 5e8b1d5b8d51
+  caveat: a5ddeea9c828
+  mediated_by: 28ed39098ec1
+  verification_note: 300031e6e53b
+  verification_method: b152e9063489

@@ -1,0 +1,37 @@
+# Turkish for data/voices/1938/nzz-1938-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nzz-1938-11
+voice: Neue Zürcher Zeitung
+role: İsviçre günlük gazetesi, Zürih
+quote: >-
+  Atatürk'ün cenaze töreni, onun son zaferi oldu. … Tabutunun önünde Faşistler, Demokratlar ve Komünistler
+  eğildiler.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ün 'son zaferi' olarak cenaze töreni: Hitler ve Stalin'in elçileri yan yana; faşistler, demokratlar
+  ve komünistler tabutunun önünde eğiliyor.
+caveat: >-
+  NZZ'nin 21 Kasım 1938 cenaze törenine ilişkin haberinin Türkçe çevirisi ('Atatürk'ün cenaze töreni, onun son
+  zaferi oldu. Tabutunun önünde bütün muhalifleri sustu. Arkasında bir sırada Türk ve Alman askerleri yürüdü;
+  bir diğerinde Stalin ve Hitler'in temsilcileri yan yanaydı; hem Valencia hem de General Franco çiçek
+  gönderdi. Tabutunun önünde Faşistler, Demokratlar ve Komünistler eğildiler.'). Almanca orijinali ve tam
+  tarihi görülmedi (NZZ arşivi yalnızca aboneliğe açıktır). Önemli bir gazetenin çarpıcı tutumu, dikkate değer
+  sesler kuralı kapsamında korundu.
+mediated_by: >-
+  Orhan Koloğlu, Mazlum Milletler Devrimleri ve Türk Devrimi (Kaynak, 2004), s. 81, aktaran Boran 2011 (tez,
+  cenaze bölümü, dn. 250)
+verification_note: >-
+  Alıntı tezde birebir aynı; orijinali (Koloğlu 2004 üzerinden Milliyet 1962 / NZZ 1938) görülmedi.
+verification_method: >-
+  tez tam metni ana ajan tarafından okundu; orijinal gazete görülmedi; bağımsız bir denetleyici değil
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1affd0eb2cb0
+  role: eb33047cf77a
+  quote: d3e832cac37d
+  summary: 8279e4ed228f
+  caveat: 1335b818913d
+  mediated_by: bcdcc61210d2
+  verification_note: 0b5d1185372a
+  verification_method: fc670d957b2d

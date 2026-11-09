@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nzhdeh-1937
+voice: Garegin Nzhdeh
+voice_type: person
+role: Armenian military commander (Zangezur 1921), political thinker, exile in Bulgaria
+country: Armenia (émigré in Bulgaria)
+country_now: Armenia
+domain: military
+date: "1937"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Argues the Bolsheviks, not Kemal, saved Turkey: the Turkish-Soviet alliance, he says, let the 'grey wolf'
+  prevail; calls him 'lucky'.
+quote:
+  text: "Բոլշեւի՚զմը փրկեց Թուրքիան եւ ո՛չ թէ բախտահաս Քեմալը:"
+  translation: Bolshevism saved Turkey, and not the lucky Kemal.
+  language: hy
+caveat: >-
+  'Իմ պատասխանը' ('My answer'), subtitled 'Armenia's tragedy in the light of Turko-Bolshevik documents'; the
+  Wikisource header and footnote say it was printed in Sofia in 1937. Sensitive thread (Armenian genocide
+  memory, Zangezur/Soviet policy): Nzhdeh's own polemic. The essay also quotes Zinoviev ('the Soviet
+  government helps Kemal') and Soviet witnesses to the Lenin-Kemal alliance. Translation is the vault's own.
+  Scan not viewed.
+node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
+sources:
+  - url: https://hy.wikisource.org/wiki/%D4%BB%D5%B4_%D5%BA%D5%A1%D5%BF%D5%A1%D5%BD%D5%AD%D5%A1%D5%B6%D5%A8
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: hy.wikisource Իմ պատասխանը (raw wikitext), header footnote 'Տպագրվել է Սոֆիայում, 1937թ.'
+  method: fetched raw page, string match
+  note: >-
+    Armenian verbatim: 'Բոլշեւի՚զմը փրկեց Թուրքիան եւ ո՛չ թէ բախտահաս Քեմալը.' 'գորշ գայլ' (grey wolf) passage
+    about the Samsun landing and the Turkish-Soviet alliance present. Translation faithful. Year only from the
+    Wikisource header.
+  checked_on: "2026-11-03"

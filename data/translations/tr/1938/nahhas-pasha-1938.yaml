@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/nahhas-pasha-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nahhas-pasha-1938
+voice: Nahhas Paşa
+role: Vefd lideri
+quote: >-
+  Türkiye ve Doğu'nun büyük adamı Atatürk'ün erken kaybı … adı, eseri sonsuza dek yaşayacaktır
+quote_kind: translated
+summary: Kaybı, Türkiye ve Doğu için bir kayıp olarak çerçeveledi.
+caveat: >-
+  Vefd başkanı sıfatıyla, Fransızca telgraf dili (c2, PDF s. 26); İngilizcesi: Türkiye ve Doğu'nun büyük
+  adamının erken kaybı… adı ve eseri sonsuza dek yaşayacaktır.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8e2c9db4c28e
+  role: d56f718b8de7
+  quote: 52c33837cb31
+  summary: d495fd57ccff
+  caveat: eddf1c3b8d80
+  verification_method: 939bb46a04c3

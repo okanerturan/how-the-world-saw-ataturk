@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: stercken-1992-01-23
+voice: Hans Stercken
+voice_type: person
+role: CDU/CSU member of the Bundestag
+country: Germany
+country_now: Germany
+domain: politics
+date: "1992-01-23"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Treats the process Atatürk started as unfinished: not every Turk has yet been able to join the road to a
+  'new civilisation'.
+quote:
+  text: Natürlich ist der Prozeß, den Atatürk eingeleitet hat, noch nicht abgeschlossen
+  translation: Of course the process that Atatürk set in motion is not yet complete
+  language: de
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
+  documentation page; printed page checked in the dserver PDF. Speaker taken from the protocol's speaker list
+  (Stercken CDU/CSU, 6166 C) and the DIP text (his header precedes the passage, Hirsch's follows). Debate on
+  the human-rights situation in Turkey (Kurdish question), where Poppe (same sitting) is critical. Same
+  speaker, CDU/CSU, 30 Nov 1988 (11/112) also praises Atatürk as giving Turkey 'a new direction' (not recorded
+  separately). Cited as Deutscher Bundestag, Plenarprotokoll 12/73, session of 1992-01-23, S. 6167.
+node: German Parliaments on Atatürk — Hitler's Reichstag 1941 and the Bundestag 1983–2025
+sources:
+  - url: https://dserver.bundestag.de/btp/12/12073.pdf
+    archived: https://web.archive.org/web/20260417000116/https://dserver.bundestag.de/btp/12/12073.pdf
+  - url: https://dip.bundestag.de/
+    archived: https://web.archive.org/web/20261020200949/https://dip.bundestag.de/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Bundestag plenary-protocol PDF 12/12073.pdf (WP12 sitting 73) from dserver.bundestag.de, fetched fresh
+  method: >-
+    downloaded the dserver PDF, pdftotext, whitespace/hyphenation-normalised match of the quote, speaker
+    header and running-head page number read from the printed protocol; German read against the stored
+    translation
+  note: >-
+    Verbatim on printed p. 6167 in the speech headed 'Dr. Hans Stercken (CDU/CSU)' (index 6166 C). Translation
+    faithful. Gaze test passes (own view: Atatuerk's process still unfinished). His 30 Nov 1988 remark
+    (11/112, p. 8071 area: 'als Kemal Ataturk diesem Land eine neue Richtung, einen neuen Sinn, eine neue
+    Infrastruktur gegeben hat') also exists, as the caveat says. Optional: voice could read 'Dr. Hans
+    Stercken'.
+  checked_on: "2026-11-03"

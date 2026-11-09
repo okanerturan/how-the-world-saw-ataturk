@@ -1,0 +1,40 @@
+# Turkish for data/voices/1928/mustafa-sabri-1928.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mustafa-sabri-1928
+voice: Mustafa Sabri Efendi
+role: Eski Şeyhülislam; Yarın gazetesi (İskeçe, Batı Trakya) yazarı
+quote: Merhum Sultan Vahidüddin'e ve hükümetine Anadolu'da Mustafa Kemal asi geldiği zaman
+quote_kind: original-turkish
+summary: >-
+  Kemal'i Sultan Vahideddin'e karşı bir asi olarak nitelendirir ve devleti dinden ayırmasını dinsizlik sayar.
+caveat: >-
+  Kahire gazetesi Müsavat'ı ve II. Abdülmecid'i hedef alan 'Sıyrılan İkinci Maske (Abdülmecid Komedisi)'
+  başlıklı yazı; basılı metindeki 'Yarı[n], sayı: 23, 23 Haziran 1928, sh: 2-4' kaynak notuyla kapanır. Cümle
+  şöyle devam eder: 'Abdülmecid'in bu isyanı gizli ve açık ne derece desteklediğini burada tekrarlamaya gerek
+  yoktur'. Bardakçı'nın Şahbaba adlı eserinde (1998 baskısında s. 276, 'âsi' imlasıyla) Albayrak üzerinden
+  alıntılanmıştır. Aynı yazıda Sabri, Kemal'in 'dinden devleti ayırması' eyleminin 'dinsizlik' olduğunu, İslam
+  dışında dinsiz bir hükümet tasavvur edilebilse de dinsiz bir hilafetin tasavvur edilemeyeceğini yazar (OCR
+  biraz bozuk olduğundan mealen aktarılmıştır). 1992 baskısının 172-173. sayfaları. Sabri'nin kendi
+  yargısıdır; arşiv bunu onaylamaz.
+mediated_by: Albayrak 1992 ← Yarın, no. 23, 23 Haziran 1928, s. 2-4
+verification_note: >-
+  Alıntı birebir aynıdır (Merhum Sultan Vahiduddin'e ve hukumetine Anadolu'da Mustafa Kemal asi geldigi
+  zaman), basılı s. 172; aynı sayfada 'dinden devleti ayirmasi dinsizlik' ifadesi yer alır. Yazı s. 169-175
+  arasında yer alır ve belirtildiği gibi '(Yarin, sayi: 23, 23 Haziran 1928, sh: 2-4)' notuyla kapanır;
+  1928-06-23 tarihi doğrudur. Bardakçı'nın Şahbaba'sı 'Mustafa Kemal asi geldigi zaman' şeklinde basmıştır
+  (djvu satır 14402; sayfa doğrulanmadı). Alıntı cümle ortasında ('zaman' ile) biten bir yan cümleciktir,
+  parça olarak uygundur. Şema uygun.
+verification_method: >-
+  djvu metninin ve PDF'nin yeni ücretsiz indirilmesi; pasaj ve kapanış kaynak notu okundu; Bardakçı atfı için
+  Sahbaba'da grep araması yapıldı; kayıtlı src dosyaları kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c2b2bf1324d9
+  role: 1e1bcb1c883b
+  quote: a5d18b7c9d1d
+  summary: e6b2cab83fed
+  caveat: 348b75bed224
+  mediated_by: 7beb1d86de6c
+  verification_note: 3ede35b0c7c7
+  verification_method: 022cd1418a19

@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: miyake-setsurei-1922-10
+voice: Miyake Setsurei
+voice_type: person
+role: Philosopher-critic, editor of Nihon oyobi Nihonjin
+country: Japan
+country_now: Japan
+domain: letters
+date: "1922-10"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: P
+summary: >-
+  Marvels that Kemal, fighting Greece and bargaining with the great powers, has made 'a dead man' Turkey rise
+  again and astonished diplomacy.
+quote:
+  text: >-
+    近頃土耳古のケマルが希臘と戰ひ英佛伊等の强國と談判する所、從來の外交圈に意外の感を齎らしつゝある。土耳古は久しく瀕死の國と呼ばれ、講和會議に死人扱ひせられたるに、今や死人が甦り、新たに强國と對抗するに及ぶ。
+  language: ja
+caveat: >-
+  Essay dated 'Taishō 11, October' (Nihon oyobi Nihonjin), reprinted in Eiyūron (1939), printed p. 10, NDL
+  image 13 (page image read). First clause is the tail of a longer sentence; quote starts mid-sentence. Under
+  the 1939 publication date the essay itself is 1922. Setsurei is also cited as Miyake Yūjirō (pids 1268197,
+  1267866: list-type mentions only).
+node: Japanese Writers and Activists on Kemal, 1922–1947 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1261364
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: NDL pid 1261364 (Eiyuron, Chisokushobo, 1939; author Miyake Setsurei), image 13
+  method: >-
+    downloaded IIIF page image and READ the Japanese on it; checked NDL item metadata for author/title/year
+  note: >-
+    Quote verbatim on printed p.10 (starts mid-sentence at 近頃). Essay is signed at its foot '大正十一年十月「日本及日本人」'
+    = Oct 1922; the 1939 date is only the book's publication. 1922-10 and contemporary are right. Kemal Pasha
+    vs Greece, Allied powers (not Mustafa Kamil). Own verdict: wonder that the 'dead man' revived; page
+    continues that he beat Greece yet asks only for justice, which supports admiring. Translation faithful.
+    Gaze test passes (his own judgement of Kemal).
+  checked_on: "2026-11-05"

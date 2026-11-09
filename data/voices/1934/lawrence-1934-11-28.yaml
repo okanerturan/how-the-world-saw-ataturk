@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lawrence-1934-11-28
+voice: T. E. Lawrence
+voice_type: person
+role: British writer and former officer ('Lawrence of Arabia')
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1934-11-28"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: letter
+evidence: P
+summary: >-
+  Told Liddell Hart that Mustapha Kemal was a great patriot, anti-foreign from 1913, his nationalism founded
+  to combat Enver's pro-German tendency.
+quote:
+  text: Mustapha Kemal was a great patriot, and anti-foreign from 1913 onwards.
+  language: en
+caveat: >-
+  Letter No. 544 to B. H. Liddell Hart, Bridlington, 28 Nov 1934, answering questions from the historian
+  Edward Mead Earle (Garnett 1938, p. 831); two sentences in a short reply. The vault card's 'one of the
+  greatest leaders of the era' line is not in this letter.
+node: Writers, Scientists and Artists in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.176370
+  - url: https://archive.org/download/in.ernet.dli.2015.176370/2015.176370.The-Letters-Of-T-E-Lawrence_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Garnett, The Letters of T. E. Lawrence (Cape 1938), archive.org in.ernet.dli.2015.176370 djvu.txt, No. 544
+    'To B. H. Liddell Hart, 28.XI.34, Ozone Hotel, Bridlington', pp. 830–831; quote p. 831
+  method: archive.org open OCR text read
+  note: >-
+    Both sentences verbatim on p. 831 ('Mustapha Kemal was a great patriot, and anti-foreign from 1913
+    onwards. His Nationalism was founded to combat the pro-German tendency of Enver.'). Liddell Hart's
+    footnote names only 'Professor Earle', an American historian who wrote in June; 'Edward Mead Earle' is an
+    identification beyond the page (likely right). Admiring is fair. Mirror anti-colonial-liberator is a
+    stretch: 'anti-foreign' is framed against Enver's pro-German line, not against empire; suggest mirror
+    null.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31b)
+  checked_on: "2026-11-05"

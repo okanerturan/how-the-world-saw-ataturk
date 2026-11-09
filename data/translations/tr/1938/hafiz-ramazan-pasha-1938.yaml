@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/hafiz-ramazan-pasha-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hafiz-ramazan-pasha-1938
+voice: Hafız Ramazan Paşa
+role: Mısırlı senatör
+quote: Kemal Atatürk olmasaydı yeni bir Türkiye görür müydük? Belki de hayır.
+quote_kind: translated
+summary: >-
+  Mustafa Kemal ile 1912'de ve daha sonra yeniden Ankara'da görüştü; yenilmez bir irade gördü; Mısır sorununun
+  Lozan'da sonuçlandırılmasını Atatürk'ün başarısına bağlar.
+caveat: Not, Lozan iddiasını Mısır'ın kendi çıkarının dile gelişi olarak nitelendiriyor.
+mediated_by: Toksoy 2010 ← Cumhuriyet 12 ve 20 Kasım 1938, Ayın Tarihi no. 194 (Türkçe çeviri)
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6eb09b6e99b7
+  role: 9569d3256f60
+  quote: 87dd49feb5b3
+  summary: 41f89b110f84
+  caveat: 216b8ad0e64e
+  mediated_by: e0cb488042f7
+  verification_method: 939bb46a04c3

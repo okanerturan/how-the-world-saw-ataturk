@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/onni-talas-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: onni-talas-1938
+voice: Onni Talas
+role: Finlandiya'nın Ankara büyükelçisi
+quote: Bu büyük adam yalnızca Türk milletine değil, tüm insanlığa aitti.
+quote_kind: translated
+summary: >-
+  Türkler kadar kederlendi; Türkiye'de görülen ilerlemeyi, özellikle ekonomiyi övdü ve Fin-Türk ekonomik
+  ilişkilerinin iyi olmasını umdu.
+caveat: >-
+  Toksoy'un açımlaması: modernleşen bir ekonominin ne satın alabileceğini soran küçük bir ticaret devleti.
+mediated_by: Toksoy 2006 (CTAD) ← Ulus 7 Aralık 1938
+verification_note: Türkçeden çevrildi; açıklama 7 Aralık tarihli Ulus'ta yayımlandı.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2c306028bf1b
+  role: 4f6db4f90b64
+  quote: 9870fd8a9a52
+  summary: 7a0d6d9ce71d
+  caveat: 0255d1aa8036
+  mediated_by: a8eb3bcb8457
+  verification_note: aab38c780cbc
+  verification_method: 939bb46a04c3

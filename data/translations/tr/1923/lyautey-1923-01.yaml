@@ -1,0 +1,39 @@
+# Turkish for data/voices/1923/lyautey-1923-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lyautey-1923-01
+voice: Hubert Lyautey
+role: Fransa Mareşali, Fas Mukim Generali
+quote: >-
+  Mücadelelerinde onlara hayran oldum ve bunu kendilerine bildirdim. Fakat bugün onları anlıyamıyorum
+quote_kind: original-turkish
+summary: >-
+  Berthe Georges-Gaulis'e Kemalistlerin mücadelesine hayran olduğunu ve bunu kendilerine bildirdiğini, ancak
+  beş yüzyıllık tarihten kopan insanları artık anlayamadığını söyledi.
+caveat: >-
+  Gaulis'in yıllar sonra kaydettiği sözlerin Türkçe çevirisi. Çeviri: 'I admired them in their struggle and
+  told them so. But today I do not understand them.' Aynı konuşma onların samimiyetini, enerjisini ve askeri
+  değerini över, ancak bu tür adamlar için 'grow weak once they succeed' der. PDF metin katmanı Türkçe
+  harfleri düşürmektedir ('onlar~~anhyam~yorum' olarak basılı); alıntı sayfadan aslına uygun hale
+  getirilmiştir.
+mediated_by: >-
+  F. Pekin, 'Atatürk ve Lyautey', Belleten XX/80 (Ekim 1956) s. 642 ← B. Georges-Gaulis, La question turque
+  (1931)
+verification_note: >-
+  s. 642'de metin katmanında 'Mücadele-lerinde onlara hayran oldum ve bunu kendilerine bildirdim. Fakat bugün
+  onlar~~anhyam~yorum' yazıyor. 'onları anlıyamıyorum' şeklindeki düzeltme dürüstçedir. 'Beş yüz yıllık
+  tarihten yüz çevirmeyi', 'samimilik, aksyon, askeri kıymet, enerji' ve 'başarı elde edince de zaafa
+  düşerler' ifadelerinin hepsi mevcuttur. 13. dipnot kaynağı La Question Turque (1931) olarak veriyor ve
+  konuşma Ocak 1923 tarihlidir. Görüş ismen Kemal'den ziyade 'onlar' (Kemalistler) hakkındadır; what_they_saw
+  'Kemalists' diyor ki bu doğrudur. Çelişkili sınıflandırması uygundur.
+verification_method: curl + pdftotext
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 48c650872559
+  role: d7c3367a819c
+  quote: ee67e0cd0ea7
+  summary: ffe00931a1a4
+  caveat: 88de7565f0cc
+  mediated_by: 124629b3da5a
+  verification_note: 95fbdf35b0fc
+  verification_method: b4b3491d6dae

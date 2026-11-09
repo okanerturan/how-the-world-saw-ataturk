@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mn-roy-inprecor-1922-10
+voice: M. N. Roy
+voice_type: person
+role: Indian Comintern leader, writing in Inprecor
+country: India (Comintern)
+country_now: India
+domain: politics
+date: "1922-10-17"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: article
+evidence: P
+summary: >-
+  Hailed the Turkish victory as proof an Eastern nation can beat European imperialism, but called Kemal a
+  military dictator who yoked himself to French imperialism.
+quote:
+  text: >-
+    like a military dictator devoid of any revolutionary inspiration or outlook, he hitched himself to the
+    yoke of French Imperialism intriguing against British Imperialism.
+  language: en
+caveat: Quoted from a noisy PDF text layer; wording reconstructed from OCR; page 671.
+node: Soviet Leaders on the Kemalists, 1920–1930
+sources:
+  - url: https://marxists.org/history/international/comintern/inprecor/1922/v02n089-oct-17-1922-Inprecor.pdf
+    archived: https://web.archive.org/web/20250518141144/https://www.marxists.org/history/international/comintern/inprecor/1922/v02n089-oct-17-1922-Inprecor.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Inprecor Vol. 2 No. 89, 17 Oct 1922, 'The Turkish Victory' by M. N. Roy (contents lists p. 671; text
+    before the p. 672 header), PDF text layer via tools/ms fetch
+  method: Free fetch of PDF text; sentence found, read in context of the article
+  note: >-
+    Quote verbatim even in the noisy layer ('devoid of any revolutionary inspiration or outlook, he hitched
+    himself to the yoke of French Imperialism intriguing against British Imperialism'). The article also calls
+    the victory 'a great inspiration to all the subject peoples', so 'conflicted' is fair. Page 671 supported
+    by the contents list; the continuation is on 672.
+  checked_on: "2026-11-01"

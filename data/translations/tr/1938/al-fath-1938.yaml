@@ -1,0 +1,32 @@
+# Turkish for data/voices/1938/al-fath-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-fath-1938
+voice: Al-Fath
+role: Kahire Selefi haftalık dergisi (Muhibb al-Din al-Khatib)
+quote: >-
+  Acıyı artıran şey, Suriye gazetelerinin tamamının Kemal Atatürk'ün ölümü vesilesiyle Kemalist propaganda
+  işlevini yerine getirmiş olmasıdır
+quote_kind: translated
+summary: >-
+  Suriyeli vaizlerin Emeviye Camii'ndeki cenaze namazını ve Suriye gazetelerinin Atatürk'ü övmesini Kemalist
+  propaganda olarak kınar.
+caveat: >-
+  İmzasız Four Months in the Levant yazı dizisinin yazarı görülen sayfalarda belirtilmemiş. Alıntı, notta yer
+  verilen Arapça özgün metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+verification_note: >-
+  Arapça 'ومما يزيد في الألم أن الصحف السورية بأجمعها قامت بوظيفة الدعاية الكمالية لمناسبة موت كمال أتاتورك
+  فسودت الصحائف الطوال...' mevcut; çeviri sadık. Cenaze namazı cümlesi mevcut ('ولما مات أتاتورك أقام الدعاة
+  صلاة الغائب ... في مسجد بني أمية وكادت تحدث ... فتنة'), ancak buradaki 'الدعاة' çevreleyen bağlamda Kemalist
+  propagandacılar/çağrıcılar olduğundan 'Syrian preachers' serbest bir açımlamadır. Sayı/sayfa/tarih
+  görüntüden yeniden doğrulanmadı.
+verification_method: djvu OCR metni; temiz pasaj, sayfa görüntüsü oluşturulmadı (sarmalayıcı durdu, çıkış 99)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7411ffc047d5
+  role: be8e56dfc3d1
+  quote: 2c1623868f36
+  summary: 7e905b79a039
+  caveat: 50c442fcb2e0
+  verification_note: 91ccd2c4e77c
+  verification_method: 3af31c9ca00f

@@ -1,0 +1,22 @@
+# Turkish for data/voices/1923/muslim-outlook-1923.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: muslim-outlook-1923
+voice: Muslim Outlook
+role: Lahor gazetesi
+summary: >-
+  Delhi'deki Lozan kutlamalarını, hilafetin Türk milliyetçilerinin geleceğinde yer almıyor görünmesinden
+  kaynaklanan tedirginlikle karışık biçimde yansıttı.
+mediated_by: Zaman (Brill böl.)
+verification_note: >-
+  Bölüm, Delhi'deki kutlama/tedirginliği dipnot 126 aracılığıyla 23 Kasım 1923 tarihli Muslim Outlook'a
+  atfediyor; gazetenin kendisi görülmedi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 52feefec0e1d
+  role: 50b43eecff77
+  summary: 870a95f20b4a
+  mediated_by: ec82eb035f59
+  verification_note: d93cb2bbd860
+  verification_method: ad8cee67138e

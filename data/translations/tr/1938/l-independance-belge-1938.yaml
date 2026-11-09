@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/l-independance-belge-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: l-independance-belge-1938
+voice: L'Indépendance belge
+role: Belçika günlük gazetesi
+quote: özellikle Türkiye ve Avrupa için büyük önem taşımaktadır
+quote_kind: translated
+summary: >-
+  Onu milletine milli bilinç kazandıran, çağın en azimli ve yılmaz devrimcisi olarak nitelendirdi; eserinin
+  sürdürülmesi çağrısında bulundu.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki özgün metinler görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 12 Kasım 1938 s. 2 / Ayın Tarihi Kasım 1938
+verification_note: >-
+  Alıntı gazetenin kendi sözleri değil, Toksoy'un Türkçe dolaylı aktarımıdır ('Türkiye ve Avrupa adına çok
+  önemli').
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a11eac7f10e0
+  role: 2267de4d9b70
+  quote: 2059e45b6a4d
+  summary: 74a558cc18aa
+  caveat: ecc719a2a575
+  mediated_by: 781a20fcb527
+  verification_note: 01bccaee569d
+  verification_method: 939bb46a04c3

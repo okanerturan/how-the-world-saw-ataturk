@@ -1,0 +1,42 @@
+# Turkish for data/voices/1938/ghunaym-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ghunaym-1938
+voice: Mahmud Ghunaym
+role: Mısırlı şair ve deneme yazarı ('Kom Hamada' imzasını kullanır)
+quote: >-
+  Ölüp toprağa verilen tek bir fert değildi; bilakis ... ufkundan gök kürelerinden bir küre düştü
+quote_kind: translated
+summary: >-
+  Mersiye: Kemal 'İbnü'l-Velid gibi yatağında öldü'; ölü bir milleti dirilten kişi olarak Mussolini ve
+  Hitler'in üstündedir, gerçi hilafet konusu onu rahatsız eder.
+caveat: >-
+  ÇEVİRİ (bu kayda ait): 'Ölüp toprağa verilen sıradan bir fert değildi: küreler arasından bir gök küresi
+  ufkundan düştü.' al-Risala sayı 281, 21 Kasım 1938'de yer alan 'Atatürk' başlıklı deneme-mersiye (üç beyit,
+  ardından düzyazı); Arapça metin sayının Wikisource transkripsiyonundan alınmıştır, orada sayfa
+  verilmemiştir. Düzyazı, birebir: 'Mustafa yatağında İbnü'l-Velid'in ölümüyle öldü' (مات مصطفى ميتة ابن
+  الوليد على فراشه). Çekinceli bir hayranlık taşır: hilafetin kaldırılmasının bir sapkınlık mı yoksa cerrahi
+  bir müdahale mi olduğunu sorup hükmü tarihe bırakır, Latin alfabesi ile şapkayı 'dayatılmış' olarak
+  nitelendirir ve rejimi onaylamaya meylettiği bir diktatörlük olarak adlandırırken ondan sonrası için Türkiye
+  adına endişe duyar. Veri kümesinde zaten yer alan 14 Kasım 1938 tarihli al-Zayyat başyazısıyla aynı sayı
+  veya yazar değildir. Hilafet sorusunun hemen ardından 'Kur'an mütercimini' ateizm suçlamasından temize
+  çıkarır.
+verification_note: >-
+  Dize birebir aynıdır ('ما مات فرد وورى بل هوى ... من أفقه فلك من الأفلاك'); üstbilgi 21-11-1938, yazar
+  'محمود غنيم', imza (كوم حماده). 'مات مصطفى ميتة ابن الوليد على فراشه' düzyazı alıntısı mevcuttur.
+  Mussolini/Hitler karşılaştırması (ölüyü diriltmek ile diriyi canlandırmak), tarihe bırakılan 'sapkınlık mı
+  cerrahi müdahale mi?' şeklindeki hilafet sorusu, dayatılan Latin alfabesi ve şapka ile 'diktatörlüğe
+  meylediyorum ... halefsiz kalan Türkiye için korkuyorum' ifadelerinin tümü mevcuttur. Uyarı notuna eklenmeye
+  değer bir eksiklik: hilafet sorusunun hemen ardından 'Kur'an mütercimini ateizmden temize çıkardığını'
+  yazar. Cenaze dönemi doğrudur (21 Kasım 1938). Wikisource'ta sayfa verilmemiştir (transkripsiyon, tarama
+  görülmedi). Şema uygun.
+verification_method: Wikisource API aracılığıyla ham vikimetnin yeni çekimi; yazının tamamı okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1e7b7deaac6b
+  role: 6f1b295ce356
+  quote: bafc74424dac
+  summary: 0ffc5b22ff45
+  caveat: b8aa87fadc92
+  verification_note: 62fbc0ffab87
+  verification_method: 3c7f5fe42455

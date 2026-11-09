@@ -1,0 +1,24 @@
+# Turkish for data/voices/1933/rash-behari-bose-1933.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rash-behari-bose-1933
+voice: Rash Behari Bose
+role: Japonya'da sürgünde bulunan Hint milliyetçisi
+summary: >-
+  Daiajia'da 'Kemal Pasha and the New Turkey' başlıklı yazıyı kaleme aldı; ayrıca devrimci Türkiye üzerine bir
+  bölüm içeren 1930 tarihli bir incelemenin ortak yazarlığını yaptı.
+caveat: Kaynakça yalnızca başlıkları listeler; hiçbir makale okunmamıştır.
+mediated_by: Shimizu 2013 kaynakçası
+verification_note: >-
+  Daiajia 1(5) 1933 'Kemal Pasha to shin Dorukko' ve 1930 Bose/Nakatani 'Kakumei Ajia tenbo' içindeki devrimci
+  Türkiye bölümü yalnızca başlık üzerinden doğrulandı; metin olmadan 'witness' yönelimi değerlendirilemez
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a979478f531d
+  role: 09a23ae2b64f
+  summary: eb596b9af4b9
+  caveat: 47e186f1a0cc
+  mediated_by: e32d2250c13f
+  verification_note: 0a1421194f6c
+  verification_method: ad8cee67138e

@@ -1,0 +1,29 @@
+# Turkish for data/voices/1926/fuse-katsuji-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: fuse-katsuji-1926
+voice: Fuse Katsuji (布施勝治)
+role: Japon gazeteci, Çince çevirisinden okundu
+quote: Sonunda bir kahraman ortaya çıktı; bu, Kemal'di
+quote_kind: translated
+summary: >-
+  Rus yardımına ve Komünistleri tutuklamasına değinerek, 1921 zaferini Kemal'in cesur stratejisine ve
+  Türklerin vatanseverliğine bağladı.
+caveat: >-
+  İfadeler çevirmene aittir; Japonca orijinali görülmedi; alıntı sayfanın kendi boşluk düzenini içermektedir.
+mediated_by: >-
+  Fuse'nin Sovyet Doğu politikası üzerine kitabının 中華民國聖道會 (1926) tarafından yapılan Çince çevirisi
+verification_note: >-
+  Sayfa boşluğu dâhil bire bir aynı; bölüm ayrıca 雄略/愛國心 niteliklerine, Rus yardımına ve Komünistlerin
+  tutuklanmasına da pay veriyor. Japonca orijinali görülmedi (çevirmenin ifadeleri).
+verification_method: ms veri çekme, Wikisource ayrıştırma
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 41ad662d88f2
+  role: c0bf61847183
+  quote: 0b9c0da6fdca
+  summary: 17df26c6a2b1
+  caveat: b23f7427e79b
+  mediated_by: f1295b50b0c0
+  verification_note: 3bfa83b3e051
+  verification_method: 34e4baae05a2

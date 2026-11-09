@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-figaro-1938
+voice: Le Figaro
+voice_type: press
+role: Paris conservative daily
+country: France
+country_now: France
+domain: press
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Front-page tribute by a former ambassador at Ankara: a master card of Europe's troubled game struck down; he
+  spoke of his victories with modesty.
+quote:
+  text: >-
+    Dans le jeu troublé de l'Europe, une des cartes maîtresses vient d'être abattue par le destin
+  language: fr
+caveat: >-
+  Quote copied from Gallica OCR; read as search-hit fragments, not the whole article. Byline OCR-garbled,
+  author unresolved.
+node: Paris Reads the Death, 11–12 November 1938
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k4100383
+    archived: https://web.archive.org/web/20250708134947/https://gallica.bnf.fr/ark:/12148/bpt6k4100383
+verification:
+  verdict: unreachable
+  checked_against: https://gallica.bnf.fr/ark:/12148/bpt6k4100383 (bot_blocked; render hit ALTCHA captcha)
+  method: render
+  note: French quote not verified.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

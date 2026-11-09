@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sueter-1932
+voice: Rear-Admiral Sueter MP
+voice_type: person
+role: Member of the Commons, air estimates debate
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1932-03-10"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Called Turkey's advice to the Disarmament Conference the best and used Kemal's maxim to argue Britain needed
+  a bigger air force.
+quote:
+  text: His Excellency, Kemal Pasha, said that a nation should have the army that it needs.
+  language: en
+node: Westminster on the Turkish Dictator, 1924–1938
+sources:
+  - url: https://hansard.parliament.uk/Commons/1932-03-10/debates/d37902ec-807a-4e95-a8a4-a48f235e1408/SirPhilipSassoonSStatement
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API 1932-03-10 debate d37902ec, Rear-Admiral SUETER
+  method: api
+  checked_on: "2026-10-29"

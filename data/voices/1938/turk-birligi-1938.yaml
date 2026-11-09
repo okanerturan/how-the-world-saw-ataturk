@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: turk-birligi-1938
+voice: Türk Birliği
+voice_type: press
+role: Romanian Turkish-minority paper
+country: Romania
+country_now: Romania
+domain: press
+date: "1938-12"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: poem
+evidence: S
+summary: Printed poems and elegies mourning him (6 Dec 1938 issue).
+quote:
+  text: you will not die, Atatürk, while Turkishness exists
+  language: en
+mediated_by: Toksoy 2010 (Romanian originals not seen)
+caveat: >-
+  Romanian originals not seen; translated from Toksoy's Turkish. Toksoy separately says the Romanian Turkish
+  community regarded him as its leader (1939 item), but not specifically of this paper.
+node: Romania Hangs the Black Flags, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt §Romanya: Türk Birliği 6 Aralık 1938 poems/elegies; "Türklük
+    var oldukça eserlerin meydanda görülecek ve sen ölmeyeceksin Atatürk!"
+  method: local
+  note: '"The minority treated him as its own leader" not in Toksoy; translated from Turkish.'
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: auckland-star-1923
+voice: Auckland Star
+voice_type: press
+role: Auckland evening daily, leader 'The New Turkish Era'
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1923-10-08"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Doubted any regeneration of the Turk, called Kemal little more than a military dictator, and feared Turkey
+  would shut out the West.
+quote:
+  text: Mustapha Kemal is little more than a military dictator
+  language: en
+caveat: >-
+  Sentence continues: 'they have virtually got rid of the Sultanate, for Mustapha Kemal is little more than a
+  military dictator'.
+node: New Zealand Editors on Kemal, September 1922 – 1923
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/AS19231008.2.28.1
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Papers Past AS19231008.2.28.1 via wrapper fetch
+  method: fetch
+  checked_on: "2026-10-29"

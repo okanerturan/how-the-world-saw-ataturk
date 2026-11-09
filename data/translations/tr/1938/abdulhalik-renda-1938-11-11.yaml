@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/abdulhalik-renda-1938-11-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: abdulhalik-renda-1938-11-11
+voice: Abdülhalik Renda
+role: Türkiye Büyük Millet Meclisi (TBMM) Başkanı
+quote: >-
+  Büyük Halaskarımızın ölümünden hepimizin ve bütün milletin duyduğu elemin ne kadar büyük ve derin olduğunu
+quote_kind: original-turkish
+summary: >-
+  Ölümünden sonraki ilk birleşimi açarken Atatürk'ü 'büyük Kurtarıcımız' olarak andı, ulusal acıdan söz etti
+  ve üyeleri ayakta beş dakikalık sessizliğe davet etti.
+caveat: >-
+  Basılı metin s. 16. Meclis beş dakika ayakta durdu ('ayakta beş dakika sükût'), tutanaklar hıçkırıkları
+  kaydeder. Konuşmacı, birleşim başlığında 'Abdülhalik Renda' olarak belirtilmiştir.
+verification_note: >-
+  Birebir aynı (tireyle bölünmüş 'de-rin'); BAŞKAN M. Abdülhalik Renda'dır; ayakta beş dakikalık sessizlik ve
+  hıçkırıklar kaydedilmiştir.
+verification_method: pdftotext
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5099afc21e2b
+  role: 2cfbfa2d0e92
+  quote: 8c2733fc57ac
+  summary: 664285f0ed04
+  caveat: 961358ab5472
+  verification_note: 759184350b14
+  verification_method: 42174f90770e

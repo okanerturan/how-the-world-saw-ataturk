@@ -1,0 +1,36 @@
+# Turkish for data/voices/1949/kamath-1949-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kamath-1949-05
+voice: Hari Vishnu Kamath
+role: Kurucu Meclis üyesi, daha sonra Lok Sabha üyesi (Praja Sosyalist)
+quote: >-
+  Birinci Dünya Savaşı'nın sonunda Kemal Atatürk, üstü başı dökülen ordusuyla Avrupa'nın güçlü ülkelerinin
+  birçoğuna karşı tek başına durdu ve onları püskürttü.
+quote_kind: translated
+summary: >-
+  İngiliz Milletler Topluluğu kararına karşı çıkarken, küçük ulusların Büyük Güçler karşısında tek başına
+  durabileceğinin kanıtı olarak Kemal'i ve 'üstü başı dökülen ordusunu' örnek gösterir.
+caveat: >-
+  Constituent Assembly of India Debates, c. VIII, 16 Mayıs 1949, s. 23. Lok Sabha Secretariat / Government of
+  India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR üzerinden. Konuşmacı bir önceki
+  sayfadaki '[Shri H. V. Kamath]' akan üstbilgisinden alınmıştır; 7 Eylül 1949'da yeniden Kemal'e döner
+  (İngilizceye yönelik önyargıya karşı bir argüman olarak Latin harfleri reformu). Metin resmi tutanağın OCR
+  çıktısından okunmuştur; bariz OCR hataları alıntıda sessizce düzeltilmiştir.
+verification_note: >-
+  Satır sonu bölünmesi ('ragged / army') boyunca alıntı birebir aynı. Konuşmacı çıkarımı sağlam: aynı
+  kesintisiz konuşma s. 19-20'de başlıyor ve alıntıdan sonra da devam ediyor. Uyarı notunda bahsedilen 7 Eylül
+  1949 tarihli Latin harfleri devam konuşması daha sonraki bir cilttedir ve kontrol edilmedi. Bakış: Kemal'in
+  başarısını kanıt olarak sunuyor; instrumental (admiring esnek bir yorum olur). Yoğunluk 1 uygun.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden indirildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa üstbilgileri ve konuşma okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d5cfd66bad9d
+  role: ce914d92fdd3
+  quote: f603197fbc17
+  summary: be641e46a770
+  caveat: 74fdda0634c1
+  verification_note: 73f1ba264c4f
+  verification_method: 634050edd257

@@ -1,0 +1,37 @@
+# Turkish for data/voices/2016/muentefering-2016-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: muentefering-2016-11-10
+voice: Michelle Müntefering
+role: Bundestag SPD milletvekili
+quote: >-
+  Bu, bir zamanlar tartışmasız olmayan devlet kurucusu Mustafa Kemal Atatürk tarafından temeli atılmış bir
+  gelişmedir; ki kendisi bu arada bugün bütün Türkiye'de bir anma günü çerçevesinde anılmaktadır.
+quote_kind: translated
+summary: >-
+  Türkiye'nin Batı'dan dönüşünü, o gün anılan 'tartışmasız olmayan' devlet kurucusu Mustafa Kemal Atatürk
+  tarafından başlatılmış bir yol olarak tanımlar.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'sinde kontrol edildi. Jung ile aynı görüşme (tarih, 10 Kasım, Atatürk'ün
+  ölüm yıl dönümüdür). Bundestag Türkiye dostluk grubu başkanı sıfatıyla konuşmaktadır (aynı konuşmadaki kendi
+  sözleri); cümle doğrudan 'Türkiye Batı yöneliminden giderek daha fazla uzaklaşıyor görünüyor' ifadesinin
+  ardından gelir. 'Tartışmasız olmayan' yorumu tek değerlendirmedir. Kaynak gösterimi: Deutscher Bundestag,
+  Plenarprotokoll 18/199, 10 Kasım 2016 tarihli oturum, s. 19812.
+verification_note: >-
+  Basılı s. 19812'de 'Michelle Muentefering (SPD)' başlığı altında birebir aynı; Jung ile aynı görüşme. Çeviri
+  sadık ('nicht unumstritten' = tartışmasız olmayan). İkircikli/1 yerinde: Batı yönelimini ona atfediyor ve
+  onu tartışmasız olmayan diye niteliyor. 'Dostluk grubu başkanı' ifadesi konuşmasında yer alıyor.
+verification_method: >-
+  dserver PDF'si indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleştirmesi
+  yapıldı, konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı
+  çeviriyle karşılaştırarak okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: dc7f21d51d69
+  role: ef88255111a6
+  quote: 806fa6f0bdfb
+  summary: 47bc256ca12e
+  caveat: 5b74530a8ecd
+  verification_note: 9866b9106688
+  verification_method: 966799b4c6ae

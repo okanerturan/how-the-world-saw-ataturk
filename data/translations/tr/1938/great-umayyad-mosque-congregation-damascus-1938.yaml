@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/great-umayyad-mosque-congregation-damascus-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: great-umayyad-mosque-congregation-damascus-1938
+voice: Büyük Emevi Camii cemaati, Şam
+role: Cuma cemaati ve hatibi
+summary: >-
+  Hatip ölümü duyurdu; cami hıçkırıklarla yankılandı; şehrin her camisinde ezan okundu ve gıyabi cenaze namazı
+  kılındı.
+caveat: >-
+  Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının
+  transliterasyonları tahminidir.
+mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 898b1db44dfa
+  role: c22ae462d6e4
+  summary: c3d2b748b297
+  caveat: f8ae166de916
+  mediated_by: 0d9b58c49a68
+  verification_method: 939bb46a04c3

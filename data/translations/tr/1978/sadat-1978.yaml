@@ -1,0 +1,47 @@
+# Turkish for data/voices/1978/sadat-1978.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sadat-1978
+voice: Anwar Sadat
+role: Mısır Cumhurbaşkanı; çocukluk ve Askerî Akademi yıllarına (1930'lar) ilişkin anıları
+quote: >-
+  Akademide Atatürk idealim olmaya devam etti. Türk Devrimi üzerine kitaplar okumaya başladım
+quote_kind: translated
+summary: >-
+  Askerî Akademi'de Atatürk'ün kendi ideali olmaya devam ettiğini ve orada Türk Devrimi üzerine kitaplar
+  okumaya başladığını anımsar.
+caveat: >-
+  Anılar 1975-77 yıllarında yazılmıştır; dolayısıyla bu hayranlık geriye dönüktür ve Sadat bunu Nasser'in
+  mirasından koptuktan sonra cumhurbaşkanı olarak kaleme almıştır. Daha önceki Zahran pasajı (yaklaşık s. 12),
+  ailenin Kahire'deki evinde Atatürk'ün bir fotoğrafının bulunduğunu, babasının ona 'a great man' dediğini ve
+  'Kemal Atatürk was idealized in the Islamic world; his name was familiar as a leader who wanted to liberate
+  and rebuild his country.' ifadelerini aktarır. Sadat ayrıca Savaş Bakanlığı'na vardığında dalıp okuduğu
+  kitabın H. C. Armstrong'un The Gray Wolf adlı eseri olduğunu belirtir. Time (20 Mart 1978) aynı bilgiyi
+  ikinci elden aktarır. Metin parçaları OCR'dır (isim bazılarında 'Atatiirk' olarak basılmıştır); yoğunluk
+  derecesi olan 3, sayfası kontrol edilmiş metne değil, tarif ettiği kariyer boyu süren ideale dayanmaktadır.
+  'photograph of Atatürk in the family home' ayrıntısı doğrulanmamıştır ve bu kaydın parçası değildir.
+mediated_by: >-
+  Üç çevrimiçi kopyanın (slideshare, dokumen.pub, vdoc.pub) arama motoru metin kesitlerinden okundu; basılı
+  kitap (Harper & Row 1978) açılmadı ve bu pasajın sayfası bilinmiyor
+verification_note: >-
+  Alıntılanan sözler gerçek kitap metninde yer almaktadır: 'At the academy, Ataturk continued to be my ideal.
+  I started to read books on the Turkish Revolution, and the history of Egypt, but no further back than the
+  French expedition to Egypt.' (Sadat'ın Askerî Akademi'ye kabulünden sonraki bölümde geçer). Dolayısıyla
+  alıntı gerçektir, yanlış atfedilmemiştir. Doğrulanmayanlar: sayfa numarası ve what_they_saw alanındaki
+  'Recalls a photograph of Atatuerk in the family home' ibaresi (Zahran/fotoğraf pasajına ulaşılamadı; hedefli
+  arama sonuç vermedi). DÜZELTME: what_they_saw alanından fotoğraf ibaresini ya silin ya da okunana kadar
+  ihtiyat payı ekleyin; yoğunluk derecesini yalnızca fotoğraf/'great man' pasajı okunursa 3 olarak tutun, aksi
+  halde 2 yapın; sayfa bilinmiyor olarak kalmalı, 'chapter on the academy years, page not seen' şeklinde
+  işaretleyin.
+verification_method: >-
+  kitap metnini kopyalayan parçalar döndüren bir ms araması; her üç kopyayı ücretsiz çekme denemesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e6cabd74a96b
+  role: 2456d294a4ec
+  quote: a2cd164c6709
+  summary: ae26f3ee3bc0
+  caveat: 251e9c477b20
+  mediated_by: 148d976e05d0
+  verification_note: 193d5e9b0585
+  verification_method: c5760b12628d

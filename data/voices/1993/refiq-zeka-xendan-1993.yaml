@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: refiq-zeka-xendan-1993
+voice: Rəfiq Zəka Xəndan
+voice_type: person
+role: Azerbaijani writer
+country: Azerbaijan
+country_now: Azerbaijan
+domain: letters
+date: "1993"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: S
+summary: >-
+  Published the book Atatürkiye, part of the post-independence romantic revival of Atatürk poetry.
+caveat: Stance inferred from the note's general verdict on the corpus.
+node: Azerbaijani Poetry of Atatürk
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/3737657
+    archived: https://web.archive.org/web/20250625234243/https://dergipark.org.tr/en/download/article-file/3737657
+verification:
+  verdict: confirmed
+  checked_against: https://dergipark.org.tr/en/download/article-file/3737657 (Handan 1993 Atatürkiye)
+  method: fetch
+  note: >-
+    Book Atatürkiye (Baku 1993) devoted to Atatürk, 'sevgisi, gurur' supported; 'romantic revival' is the
+    article's framing.
+  checked_on: "2026-10-29"

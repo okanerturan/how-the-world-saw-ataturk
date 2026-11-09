@@ -1,0 +1,27 @@
+# Turkish for data/voices/1921/fevzi-cakmak-tbmm-1921-09-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: fevzi-cakmak-tbmm-1921-09-19
+voice: Fevzi Çakmak
+role: Genelkurmay Başkanı ve Kozan milletvekili
+quote: >-
+  Bizzat muharebe meydanındaki tedabir ile muzafferiyetin âmil ve müessiri olmuş olan Başkumandan Mustafa
+  Kemal Paşa Hazretlerine müşirlik rütbesi ve gazilik unvanı tevcihini teklif ve istirham ederiz.
+quote_kind: original-turkish
+summary: >-
+  İsmet ile birlikte açık Meclis oturumunda, savaş meydanındaki tedbirlerini zaferin etkeni sayarak Mustafa
+  Kemal'e Mareşal rütbesi ve Gazi unvanı verilmesini önerdi.
+caveat: >-
+  Fevzi ve İsmet'in ortak telgraf-önergesi (Batı Cephesi, 14/15 Eylül), Meclis'te okundu; tek metin, iki
+  imzacı olduğundan İsmet'e ait kardeş kayıt aynı alıntıyı paylaşır. Basılı metin s. 263.
+verification_note: Birebir aynı; Fevzi ve İsmet'in 14/15 Eylül tarihli ortak takriri, açık oturumda okundu.
+verification_method: pdftotext
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6301b8047ac1
+  role: 9763ade01d71
+  quote: 29f80496480a
+  summary: f13473bbff56
+  caveat: 03d9ed8e39f0
+  verification_note: 07305c1e2757
+  verification_method: 42174f90770e

@@ -1,0 +1,50 @@
+# Turkish for data/voices/1928/ahmed-hasim-1928.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ahmed-hasim-1928
+voice: Ahmed Haşim
+role: Türk sembolist şair (1884–1933), deneme yazarı
+quote: >-
+  Yüzyıllar süren bir çağı yaşlandıran Adamın yüzü, tıpkı eski tanrılarınkiler gibi, yaşın hiçbir izini
+  taşımıyor. … Bu günün benim için büyük nimeti, bu genç ve efsanevi yüzü yakından görmek oldu.
+quote_kind: translated
+summary: >-
+  Atatürk'le Dolmabahçe'de bizzat tanışmasını anlatır: yaşsız, ışıltılı bir yüz; 'yüzyıllar süren bir çağı
+  yaşlandıran' adam.
+caveat: >-
+  Yayımladığı metinleri seçip basan (ve bazı yazıları çeviren) Kemalist bir devlet propaganda yayın organı
+  olan Türk Basın Genel Müdürlüğü'nün (Direction Générale de la Presse, İçişleri Bakanlığı) resimli dergisi La
+  Turquie kémaliste'te yayımlanmıştır; archive.org'daki la_turquie_kemaliste kaydının OCR metninden
+  okunmuştur. Haşim'in ölümünden iki yıl sonra, sayı 10'da (Aralık 1935) 'Quelques essais d'Ahmed Hasim'
+  başlığı altında basılan 'Atatürk' adlı kısa denemenin Fransızca çevirisidir; Türkçe özgün metin ve tarihi
+  tespit edilememiştir (metin 'geçen hafta' Dolmabahçe'de 'autour de la nouvelle écriture' bir toplantıdan söz
+  eder ki bu da Ağustos 1928'deki alfabe istişarelerine işaret eder; doğrulanmamış bir çıkarımdır). OCR'da
+  sayfa numarası görünmemektedir. Çevirmen belirtilmemiştir. Şairin kendi yayını değil, Kanıt S (derginin
+  seçtiği ölüm sonrası bir çeviri). Kaynak gösterimi: La Turquie kémaliste sayı 10 (Aralık 1935), 'Quelques
+  essais d'Ahmed Hasim — Atatürk'. Kontrol: özgün metin Haşim'in Bize Göre (tr.wikisource) eserindeki 'Gazî'
+  denemesidir; burada 'Gazi' denir ('Atatürk'ü dergi eklemiştir) ve 'Altı yüz senelik bir devri' (altı yüz
+  yıl) ifadesi geçer; bu ifade Fransızcada esnetilerek 'une ère longue de siècles' yapılmıştır. Yeni harfler
+  üzerine Dolmabahçe toplantısından hareketle yaklaşık 1928'e tarihlenmiştir (çıkarım).
+mediated_by: >-
+  La Turquie kémaliste no. 10 (Aralık 1935), Haşim'in Bize Göre'sindeki 'Gazî'nin Fransızca çevirisi
+verification_note: >-
+  Fransızca metin birebir aynı. Ancak bu, Haşim'in Bize Göre eserindeki 'Gazî' denemesinin ölümünden sonra
+  (Haşim Haziran 1933'te öldü) yapılmış bir çevirisidir; Türkçe özgün başlık ve metin 'Gazi' der, dolayısıyla
+  (başlıktaki ve metindeki) 'Atatürk' derginin eklemesidir. Özgün metin yeni harfler üzerine ilk Dolmabahçe
+  toplantısı hakkındadır (tarihsel olarak Ağustos 1928, metinde belirtilmez; Bize Göre 1928 tarihli bir
+  kitaptır, ilk baskı tarihi görülmedi). Fransızca çeviri 'Altı yüz senelik bir devri' (altı yüz yıllık bir
+  devir) ifadesini 'une ère longue de siècles' olarak esnetir. Düzeltme: sözü ~1928'e tarihleyin (her iki
+  durumda da dönem çağdaştır), aracı kaynak olarak La Turquie kémaliste sayı 10, Aralık 1935'i koruyun ve
+  Fransızcayı 1935 çevirisi olarak belirtip Türkçe özgün metni alıntılayın; 'Atatürk' adını Haşim'e mal
+  etmeyin.
+verification_method: djvu metni ve Türkçe özgün metin çekildi, satır satır karşılaştırıldı; tools/ms araması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b15fe1b7c90d
+  role: 31aad59e0e32
+  quote: "286000e89276"
+  summary: 6e580e2ec526
+  caveat: 9c1f3035e4ef
+  mediated_by: 6fb64338cd20
+  verification_note: 226d8f34b6df
+  verification_method: 1b6b7883d2dc

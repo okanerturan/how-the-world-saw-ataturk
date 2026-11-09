@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: italian-chamber-1938
+voice: Italian Chamber of Deputies
+voice_type: institution
+role: Italian lower house (Ciano)
+country: Italy
+country_now: Italy
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: telegram
+evidence: P
+summary: Described Atatürk as architect of the rebirth of the Turkish nation.
+quote:
+  text: artefice della rinascita della nazione turca
+  language: it
+caveat: >-
+  Italian original (c1, PDF p. 8), signed by Chamber President Costanzo Ciano; English: architect of the
+  rebirth of the Turkish nation.
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    a local working file (TBMM condolence OCR) (Italian cable: 'artefice della rinascita della nazione turca',
+    signed Ciano as Chamber president)
+  method: local
+  checked_on: "2026-10-29"

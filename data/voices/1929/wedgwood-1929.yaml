@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: wedgwood-1929
+voice: Colonel Wedgwood MP
+voice_type: person
+role: Member of the Commons, question on Palestine women
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1929-03-11"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: secular-rationalist-prophet
+artifact: speech
+evidence: P
+summary: >-
+  Held up Kemal's introduction of Western ideas into Turkey as the model for introducing them into Palestine.
+quote:
+  text: it is desirable that Mustapha Kemal should introduce them into Turkey
+  language: en
+caveat: One-line supplementary question.
+node: Westminster on the Turkish Dictator, 1924–1938
+sources:
+  - url: https://hansard.parliament.uk/Commons/1929-03-11/debates/18f5c257-7ce0-4c52-b4dd-a1209d88efa3/WomenDisabilities
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard API contribution bccd44ae-f6ea-4a93-89d5-c6fcf276cf6e (Colonel Wedgwood, 1929-03-11, Women
+    (Disabilities))
+  method: api
+  checked_on: "2026-10-29"

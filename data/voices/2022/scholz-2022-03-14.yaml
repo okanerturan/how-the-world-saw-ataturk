@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: scholz-2022-03-14
+voice: Olaf Scholz
+voice_type: person
+role: Chancellor of Germany; entry in the Anıtkabir special book
+country: Germany
+country_now: Germany
+domain: politics
+date: "2022-03-14"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: quote
+evidence: J
+summary: >-
+  Pays deep respect to Atatürk, 'founder of modern Turkey and great European statesman', and values
+  German-Turkish ties in difficult times.
+quote:
+  text: >-
+    Modern Türkiye'nin kurucusu büyük Avrupalı devlet adamı Mustafa Kemal Atatürk'e derin saygıyla.
+  is_translation: true
+  language: tr
+mediated_by: Yeniçağ and Panorama News 14–15 Mar 2022 (Turkish translation of the entry)
+caveat: >-
+  Turkish rendering of a German entry. Yeniçağ and Panorama News print the same text; the German Embassy's
+  Instagram post (14 Mar 2022) gives a different Turkish wording ('Çağdaş Türkiye'nin kurucusu ve Avrupalı
+  büyük devlet adamı ... en derin saygılarımla'), which shows both are translations. German original not
+  located. Written days after the start of the Ukraine war (the entry itself says 'in such difficult times').
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.yenicaggazetesi.com/almanya-basbakani-olaf-scholz-anitkabiri-ziyaret-etti-mustafa-kemal-ataturke-derin-saygiyla-520455h.htm
+  - url: https://panorama-news.de/avrupa/scholz-anitkabir-ziyaret-defterine-neler-yazdi/
+  - url: https://www.instagram.com/p/CbFb0hKgtiR/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Yeniçağ 14 Mar 2022; Panorama News 15 Mar 2022
+  method: tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker
+  note: >-
+    First sentence of the entry verbatim in both ('Modern Türkiye'nin kurucusu büyük Avrupalı devlet adamı
+    Mustafa Kemal Atatürk'e derin saygıyla'). Yeniçağ and Panorama carry identical text from the same agency
+    report, so they are not independent; the German original was not found. Instagram post not fetchable (not
+    checked). Date 14 Mar 2022 confirmed.
+  checked_on: "2026-11-03"

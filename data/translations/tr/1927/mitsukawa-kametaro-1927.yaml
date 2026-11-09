@@ -1,0 +1,37 @@
+# Turkish for data/voices/1927/mitsukawa-kametaro-1927.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mitsukawa-kametaro-1927
+voice: Mitsukawa Kametarō
+role: Pan-Asyacı aktivist ve yazar, Yūzonsha / Kokuryūkai çevresi
+quote: >-
+  Kemal Paşa, Türkiye'nin bir vatanseveridir. Bundan dolayı onun gerçekleştirdiği Türk devriminde baştan sona
+  vatanseverlik ruhu akmaktadır.
+quote_kind: translated
+summary: >-
+  Kemal'in Lenin ve Gandhi ile birlikte 'üç büyük devrimci' olarak selamlandığını aktarır; Lenin'in
+  materyalizminin aksine onun devriminin baştan sona vatansever olduğunu söyler.
+caveat: >-
+  Sekai ishin ni menseru Nihon (1927), basılı s. 32, NDL görüntü 26 (sayfa görüntüsü okundu; taramanın çift
+  sayfa sırası terstir). 'Üç büyük devrimci' ifadesi insanların ona verdiği ad olarak aktarılır ('稱せられて居ります'),
+  vatansever hükmü ise Mitsukawa'nın kendisine aittir. Diğer Mitsukawa kitapları (1925–1932) Kemal'den
+  yalnızca bir hareket adı olarak veya anlatı içinde söz eder.
+verification_note: >-
+  Alıntı basılı s. 32'de birebir aynıdır (taramada çift sayfa sırası terstir: 33 solda, 32 sağda). Sayfada ヤ
+  karakterinin küçük kana biçimiyle ケマル・パシャ yer alır. 'Vatansever, baştan sona vatanseverlikle yoğrulmuş
+  devrim' hükmü kendisine aittir; 'üç büyük devrimci' (Lenin, Gandhi, Kemal) ifadesi '稱せられて居ります' (söylenen
+  şey) olarak aktarılır, dolayısıyla what_they_saw alanındaki 'Kemal'i ... ile aynı sıraya koyar' biraz
+  abartılıdır; çekince notu bunu zaten yumuşatmaktadır. Lenin karşıtlığı (materyalist, vatansever olmayan)
+  doğrudur. Bakış testini geçer.
+verification_method: >-
+  IIIF sayfa görüntüsü indirildi ve üzerindeki Japonca OKUNDU; yazar/başlık/yıl için NDL öğe üstverisi kontrol
+  edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6d22b92a7bbe
+  role: 2ce3cb37f9dc
+  quote: 94ed8c7c1ef6
+  summary: 81deae01356c
+  caveat: 6c2688f83b44
+  verification_note: ce1320911ade
+  verification_method: 25d671ee4bfd

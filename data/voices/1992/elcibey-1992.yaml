@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: elcibey-1992
+voice: Ebülfeyz Elçibey
+voice_type: person
+role: President of Azerbaijan
+country: Azerbaijan
+country_now: Azerbaijan
+domain: politics
+date: "1992-06-26"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  Says Azerbaijan's first step is Mustafa Kemal's path, then a state; calls the republic under Mustafa Kemal's
+  leadership a rising voice.
+quote:
+  text: hele ilkin yolumuz Mustafa Kemal’in yoludur, sonra da devletimizi kuracağız.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 83 (printed p. 72). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "Our first road is Mustafa Kemal's road; after that we will build our state." Also
+  quotes 'Büyük Mustafa Kemal' on building a modern republic. Heading: 'Azerbaycan Cumhurbaşkanı Ebulfez
+  Elçibey', 26 Haziran 1992; name spelt 'Ebulfez Elçibey' in the book. Delivery language not stated by the
+  book.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 83 (printed p. 72); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c83.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Azerbaycan Cumhurbaşkanı Ebulfez
+    Elçibey, 89. Birleşim, 26 Haziran 1992 (heading on PDF p. 82)'). Quote is on PDF p. 83 (printed p. 72) as
+    cited. Context: he says this was his answer when asked what Azerbaijan would do.
+  checked_on: "2026-11-01"

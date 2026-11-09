@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ckc-jamiat-cable-1924-03
+voice: Central Khilafat Committee and Jamiat-ul-Ulema (Shaukat Ali, Kifayatullah)
+voice_type: institution
+role: Indian Khilafat leadership, cable to the President of the Turkish Republic
+country: British India
+country_now: India
+domain: religion
+date: "1924-03"
+era: contemporary
+polarity: conflicted
+intensity: 3
+artifact: telegram
+evidence: P
+summary: >-
+  Told Kemal the abolition caused deep distress and destroyed their expectations, begged the Assembly to
+  reconsider, yet disclaimed meddling in Turkey's affairs.
+quote:
+  text: >-
+    The news so far received from Turkey regarding the abolition of the Khilafat has caused deep distress and
+    consternation among your Indian Muslim brethren
+  language: en
+mediated_by: Modern Review, April 1924, Notes (prints the cable in full)
+caveat: >-
+  Addressed to 'Your Highness'. Two copies of the OCR differ on page numbers (c. pp. 507-509). The printed
+  volume carries Angora's explanatory telegram first; the Modern Review says Kemal never answered this cable.
+node: Gaya to Angora — Indian Voices on Kemal, 1922–1924
+sources:
+  - url: https://archive.org/details/dli.calcutta.09831
+  - url: https://archive.org/details/in.ernet.dli.2015.144814
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA in.ernet.dli.2015.144814 (Modern Review Apr 1924) djvu, pp. 507-509; also dli.calcutta.09831 copy
+  method: djvu OCR text (two copies)
+  note: >-
+    Cable text matches ('deep distress and consternation among your Indian Muslim brethren'), signed by
+    Shaukat Ali and Kifayatullah, disclaims intervention, implores reconsideration. 'Kemal never answered' not
+    checked.
+  checked_on: "2026-10-29"

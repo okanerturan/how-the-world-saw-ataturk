@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: thatcher-1988-03-23
+voice: Margaret Thatcher
+voice_type: person
+role: Prime Minister, interview for Turkish TV (Ali Birand)
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1988-03-23"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: broadcast
+evidence: P
+summary: >-
+  Says that, rereading Turkey's history before her visit, 'we all' have tremendous admiration for Atatürk.
+quote:
+  text: we all had the tremendous admiration for Atatürk
+  language: en
+caveat: >-
+  COI transcript, embargoed to 4 April 1988; one sentence inside an answer about NATO and the Süleyman
+  exhibition. Interviewer was Turkish; the answer is diplomatic.
+node: Western Statesmen and Churchmen on Atatürk in Their Own Words
+sources:
+  - url: https://margaretthatcher.org/document/107040
+    archived: https://web.archive.org/web/20240811162026/https://www.margaretthatcher.org/document/107040
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    margaretthatcher.org/document/107040 (TV Interview for Turkish TV (coming visit to Turkey), Ali Birand;
+    COI transcript; embargoed until 4 April 1988; catalogue date 1988-03-23)
+  method: tools/ms free fetch of the document page
+  note: >-
+    Verbatim: 'I look back at Turkey's history - I have been re-reading it - we all had the tremendous
+    admiration for Ataturk, I have just been to the Suliman exhibition, and it is the future I am thinking
+    of.' Journalist Ali Birand, Turkish TV, confirmed. Admiring, intensity 1 is fair. No correction.
+  checked_on: "2026-11-01"

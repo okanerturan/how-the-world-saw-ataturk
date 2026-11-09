@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hitler-1933
+voice: Adolf Hitler
+voice_type: person
+role: Führer and Reich Chancellor
+country: Germany
+country_now: Germany
+domain: politics
+date: "1933-07"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: volkisch-purifier
+artifact: quote
+evidence: S
+summary: >-
+  Atatürk's Turkey as 'a star in the darkness', reprinted on the Völkischer Beobachter's front page; became
+  the Nazi line on Turkey.
+quote:
+  text: a star in the darkness
+  language: en
+mediated_by: Ihrig 2014 pp. 114–115, 144 (search-inside snippets)
+caveat: Phrase only; full interview text not seen.
+node: Hitler's Atatürk, 1933–1938
+sources:
+  - url: https://www.google.com/books?id=4rQyBQAAQBAJ&q=%22star+in+the+darkness%22
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Google Books id 4rQyBQAAQBAJ (Ihrig, Ataturk in the Nazi Imagination) pp.107,115-117,144 search-inside
+  method: fetch
+  note: >-
+    Phrase and VB front-page reprint July 1933 attested only by secondary book; original interview text not
+    seen
+  checked_on: "2026-10-29"

@@ -1,0 +1,31 @@
+# Turkish for data/voices/1922/le-populaire-1922-09-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-populaire-1922-09-11
+voice: Le Populaire
+role: Paris Sosyalist günlük gazetesi
+quote: >-
+  Fehrid Bey ve Mustafa Kemal, Moskova'dan kendilerine gelen bazı tavsiyeleri dinleyecek olurlarsa
+quote_kind: translated
+summary: >-
+  Kemal ve Fehrid Bey'in Moskova'nın tavsiyelerine uyması halinde Balkanlar ve Orta Avrupa'ya yeni bir
+  çatışmanın yayılacağı uyarısında bulundu.
+caveat: >-
+  Görünüm 1. 'écoulent' ve 'Kernal', 'écoutent' ve 'Kemal' sözcüklerinin OCR hatalarıdır. Bir kınama değil,
+  uyarıdır; sonraki yan cümle 'un nouveau conflit s'ensuivra dans les Balkans' ifadesinde kesilmiştir. Gallica
+  ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya aittir, basılı sayfa
+  numarası olmayabilir.
+verification_note: >-
+  'Que Fehrid bey et Mustapha Kernal écoulent certains conseils qui leur viennent de Moscou, un nouveau
+  conflit s'ensuivra dans les Balkans...' parçası eşleşiyor. Koşullu uyarı okuması geçerlidir. Nüsha tarihi
+  bağımsız olarak doğrulanmamıştır.
+verification_method: ms fetch ContentSearch (üstveri mevcut değil)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6370de81e8c7
+  role: 0d277e8d674f
+  quote: e29a2f04e553
+  summary: 4a91dde85aa8
+  caveat: 4f880e2599f7
+  verification_note: fe6b7fceff78
+  verification_method: 72b44b5a388c

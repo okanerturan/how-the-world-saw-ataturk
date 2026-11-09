@@ -1,0 +1,37 @@
+# Turkish for data/voices/1922/ortega-munilla-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ortega-munilla-1922
+voice: José Ortega Munilla
+role: İspanyol romancı, akademi üyesi ve kıdemli gazete editörü (ABC köşe yazarı)
+quote: >-
+  Ve beklenen önder Türkiye'de, derviş mezarlarının arasında, İstanbul servilerinin gölgesinde ortaya çıkar.
+  Bu muzaffer kahramanın adı Mustafa Kemal'dir.
+quote_kind: translated
+summary: >-
+  Kemal'i derviş mezarlarının arasından yükselen beklenen savaş önderi olarak adlandırır; Türkiye'nin inancı
+  'yanlış' olsa da 'ölü halk' yeniden dirilmiştir.
+caveat: >-
+  ABC gazetesinin 16 Eylül 1922 Cumartesi tarihli 'El triunfo de Turquía' başlıklı köşe yazısı (sonunda tarih
+  atılmıştır); ölümünden sonra J. Ortega Munilla, Chispas del yunque (Madrid: Prensa Gráfica, 1923) içinde
+  derlenmiştir (açık erişimli UNC taramasından; OCR'da sayfa numarası görünmemektedir). İzmir yangınından
+  birkaç gün sonra yazılmıştır: Yunan 'felaketi'nden söz eder ve yangına değinmez. Ayrıca Türkiye'nin 'inanç
+  gücü'nü 'kesinlikle yanlış, ama kalıcı' diye niteler ve daha sonra zaferin, 'belki de askerî bilimden yoksun
+  bir Türk' olan Kemal'i dünyanın müstakbel efendilerini rahatsız eder hâlde bıraktığını söyler; övgü herhangi
+  bir programa değil, Türk uyanışına ve onun savaş önderinedir. Ortega Munilla (1856-1922), Ortega y Gasset'in
+  babasıydı; 1922'de öldü (kitap ölümünden sonra yayımlanmıştır).
+verification_note: >-
+  İspanyolca metin birebir aynı (satır sonu tireli 'cau-dillo', 'Ke-mal'); çeviri sadık. Hem 'Turquía ...
+  poder de fe equivocado, absolutamente equivocado, pero permanente' hem de 'un turco desprovisto acaso de
+  ciencia militar' ifadeleri mevcut. Tarih köşe yazısının kendi tarih satırıdır; kitap sayfası (belirtildiği
+  gibi) OCR'da görünmüyor. Bakış uygun (kendi görüşü).
+verification_method: djvu metni çekildi, dizge eşleştirildi, bağlam okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1d74ba9b0cfe
+  role: 781176d7c8e4
+  quote: ae8289bda070
+  summary: ac158c982aad
+  caveat: dbf94581abab
+  verification_note: 4b281cf40239
+  verification_method: 00eff14b97b9

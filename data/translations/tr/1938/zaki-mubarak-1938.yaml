@@ -1,0 +1,45 @@
+# Turkish for data/voices/1938/zaki-mubarak-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zaki-mubarak-1938
+voice: Zaki Mubarak
+role: Mısırlı yazar ve eleştirmen (o sırada Bağdat'ta ders veriyordu)
+quote: >-
+  Gazi Mustafa Kemal'e, savaşta Türkiye'yi yüzüstü bırakan Araplara duyulan kinin, Türkiye'ye Allah'a ve
+  Peygamber'e iman tohumlarını taşıyan erdemli Arapların faziletini kendisine unutturmasının doğru
+  olmayacağını hatırlatacak bir heyet göndermeyi düşündü mü?
+quote_kind: translated
+summary: >-
+  Araplara duyulan kinin Türkiye'ye sundukları iman armağanını silmemesi gerektiğini hatırlatmak için Gazi'ye
+  neden bir heyet gitmediğini sorar.
+caveat: >-
+  al-Risala sayı 257, 6 Haziran 1938, Wikisource sayfası 'مجلة الرسالة/العدد 257/ليلى المريضة في العراق'
+  olarak kaynak gösterilmiştir. Atatürk'ün ölümünden beş ay önce Irak'tan yazılan, Zaki Mubarak imzalı, yurt
+  dışında Arap dili üzerine bir makalede yer alan retorik soru. Ön kabul olarak Gazi'nin Araplara kin
+  beslediğini varsayar. Mubarak sayı 433'te (20 Ekim 1941) bu temaya geri dönerek, Arapların Türkler
+  üzerindeki faziletine dair aptalca bir makale yüzünden 'Atatürk'ün Arap harflerini terk etmeye yemin
+  ettiğini' söyler. Wikisource transkripsiyonu. Kontrol: sayfada Kemal'e yönelik hiçbir övgü yok; kutupluluk
+  çelişkili → hasmane (hafif).
+verification_note: >-
+  Arapça alıntı birebir aynı; üstbilgi 'مؤلف= زكي مبارك', tarih 06-06-1938, imza 'زكي مبارك'. Bu, Mubarak'ın
+  'ظمياء' ile yaptığı bir diyaloğun kendi tarafıdır (kadın ona 'يا دكتور' diye hitap eder), dolayısıyla ses
+  kendisinindir; uygun. Sorun kutupluluktur: 'هل فكرت ... في إرسال وفد إلى الغازي مصطفى كمال يذكره بأن الحقد
+  على العرب ... لا يصح أن ينسيه فضل العرب' sorusu hiçbir hayranlık ifade etmez; Kemal'i kin beslemekle suçlar
+  ve sayfadaki tek değerlendirme cümlesi ('أخطأ الأتراك') Zamya'ya aittir. 'Çelişkili' kutupluluğu sayfa
+  tarafından desteklenmemektedir. DÜZELTME: kutupluluk 'hasmane' (hafif, yoğunluk 1) veya kin ön kabulü bir
+  yakarış olarak okunursa 'tanık' olmalı; çekince notunda Kemal hakkında olumlu bir yargı ifade edilmediği
+  belirtilmelidir. Çekince çapraz referansı doğrulandı: sayı 433 (20-10-1941, Mubarak) 'بسبب مقالة حمقاء كتبها
+  كاتب أحمق في فضل العرب على الأتراك أقسم أتاتورك ليهجرن الحروف العربية' der. Dönem çağdaş, doğru; şema bunun
+  dışında tamam.
+verification_method: >-
+  action=raw alındı, Arapça alıntının harekeleri normalleştirilmiş alt dize eşleşmesi yapıldı, ardından
+  çevreleyen pasaj, üstbilgi tarihi ve sondaki imza okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 65040c4ea869
+  role: 156ff87b85a8
+  quote: fc2b9337d17c
+  summary: f96cfc6e5409
+  caveat: 4f5caf7fe2d1
+  verification_note: 1c087e955367
+  verification_method: 0d2d412521a8

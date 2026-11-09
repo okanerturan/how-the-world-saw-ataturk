@@ -1,0 +1,34 @@
+# Turkish for data/voices/1956/selwyn-lloyd-1956-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: selwyn-lloyd-1956-07
+voice: Selwyn Lloyd
+role: Britanya Dışişleri Bakanı
+quote: >-
+  Yeni bir ilişki, dostluk ve ittifak inşa etmede Kemal Atatürk ile Venizelos'un çalışmalarını herkes akılda
+  tutacaktır.
+quote_kind: translated
+summary: >-
+  Dışişleri Bakanı, Kıbrıs anlaşmazlığının tehlikeye soktuğu yeni bir Türk-Yunan dostluğunun inşasını Kemal
+  Atatürk ile Venizelos'a atfeder.
+caveat: >-
+  Cyprus, HC Deb 19 Temmuz 1956, c1403. Resmi Hansard tutanaklarının TheyWorkForYou'daki dökümü. Kıbrıs
+  tartışması (hassas konu): konuşmacının çerçevelemesi. Ayna etiketi, on etiket arasında en yakın olanıdır
+  (uzlaşan eski düşman); bunun ötesinde zorlanmamıştır. Kontrol: alıntı c1404'te yer almaktadır
+  (historic-hansard); TWFY konuşmanın başladığı sütunu verir.
+verification_note: >-
+  Birebir aynı, konuşmacı Dışişleri Bakanı Selwyn Lloyd (g1403.1, HC Deb 19 Temmuz 1956). Sütun düzeltmesi:
+  cümle c1404'tedir (konuşma c1403'te başlar). Kemal'in çalışmalarına dair kendi görüşü; 'chivalrous-enemy'
+  ayna etiketi zayıf bir uyum gösteriyor (düşman değil, uzlaştırıcı) ancak çekince notunda zaten belirtilmiş.
+verification_method: >-
+  sayfa çekildi, bağlantılı konuşma bloğu (konuşmacı, tarih, kimlik) içinde alıntının normalleştirilmiş metin
+  eşleşmesi yapıldı; sütun numarası historic-hansard sütun işaretlerinden tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 02207c2bbc1d
+  role: "3380230e2801"
+  quote: 317a7ff8f528
+  summary: 1919a424f93e
+  caveat: 344263417ebb
+  verification_note: 0a16a4fea36a
+  verification_method: 59db5bce95bc

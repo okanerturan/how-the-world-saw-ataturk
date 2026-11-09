@@ -1,0 +1,24 @@
+# Turkish for data/voices/1924/mears-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mears-1924
+voice: Eliot Grinnell Mears
+role: >-
+  Amerikalı yazar ve Modern Turkey editörü; daha önce Türkiye'de görev yapmış hükümet yetkilisi
+quote: Günümüz Türkiye'si bağımsız konumunu Mustafa Kemal Paşa'nın dehasına borçludur.
+quote_kind: translated
+summary: >-
+  Türkiye'nin bağımsız konumunu Kemal'in dehasına bağlar ve Müslümanların keyfî davranması beklenen güçlü,
+  ulaşılabilir bir yöneticiye neden hayranlık duyduğunu açıklar.
+caveat: >-
+  Övgü, ticari yorum tezine hizmet etmektedir; yalnızca General Introduction (s. 29) Mears'ın kendi
+  kalemindendir, diğer bölümler katkıda bulunan yazarlara aittir.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 542058b72503
+  role: e8e6c9f15153
+  quote: b604d151ed1c
+  summary: a52fb23bc7bb
+  caveat: a9fce43e22cf
+  verification_method: ad8cee67138e

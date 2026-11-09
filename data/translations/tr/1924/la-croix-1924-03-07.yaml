@@ -1,0 +1,31 @@
+# Turkish for data/voices/1924/la-croix-1924-03-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-croix-1924-03-07
+voice: La Croix
+role: Paris Katolik günlük gazetesi
+quote: Ve Mustafa Kemal başlatmayı iddia ettiğine göre
+quote_kind: translated
+summary: >-
+  Kemal'in Hristiyan okullarına dokunmadığı iddiasını reddetti; Türk milliyetçilerinin mezhepçi politikasına
+  ve bunun laikliğini alkışladığı için Le Temps'a saldırdı.
+caveat: >-
+  Görünüm 1. Geri çekilen 9 Mart kaydının yerini almaktadır (alıntı 9 Mart değil, bu 7 Mart sayısındaydı).
+  Parça 'inaugurer' kelimesinden sonra '(...)' ile kesilmiştir. Aynı görünümde ayrıca 'cette intolérance
+  jeune-turque' ifadesi ve 'des journaux comme le Temps'a yönelik kınama yer almaktadır. Gallica ContentSearch
+  parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya aittir, basılı sayfa numarası
+  olmayabilir.
+verification_note: >-
+  PAG_1'de 'Et, puisque Mustapha Kemal prétend inaugurer(...)' birebir aynı; ayrıca 'cette intolérance
+  jeune-turque' ve 'journaux comme le Temps'a yönelik kınama mevcut. Yalnızca parça düzeyinde olduğundan
+  düşmanca tutum komşu parçalardan okunmaktadır.
+verification_method: ms fetch aracılığıyla Gallica ContentSearch parçası
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9faf84306a18
+  role: 42a56c544ca1
+  quote: 939d8cf6f134
+  summary: 9913349a8992
+  caveat: c33590483c45
+  verification_note: 413b2c6ee69c
+  verification_method: 25cd88e6eafd

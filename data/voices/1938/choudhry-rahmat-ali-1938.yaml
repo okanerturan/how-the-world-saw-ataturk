@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: choudhry-rahmat-ali-1938
+voice: Choudhry Rahmat Ali
+voice_type: person
+role: Founder-president, Pakistan National Movement
+country: British India
+country_now: Pakistan
+domain: politics
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: telegram
+evidence: P+S
+summary: >-
+  Said Turkey lost its maker, Asia its heroic apostle of nationalism and the world one of its greatest
+  statesmen.
+quote:
+  text: >-
+    Turkey has lost its maker, Asia its heroic apostle of nationalism and the world one of its greatest
+    statesmen
+  language: en
+caveat: >-
+  One formulaic telegram from a man needing recognition for his movement; evidence of what he told Ankara, not
+  sustained engagement.
+node: Choudhry Rahmat Ali
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: a local working file line ~880 (TBMM condolence telegram)
+  method: local
+  note: >-
+    OCR: 'turkey has lost its maker asia its heroic apostle of nationalism and the world one of its greatest
+    statesman'; signed rahmat ali
+  checked_on: "2026-10-29"

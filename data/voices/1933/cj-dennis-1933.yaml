@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cj-dennis-1933
+voice: C. J. Dennis
+voice_type: person
+role: Australian poet ('The Sentimental Bloke'), Melbourne Herald verse-writer
+country: Australia
+country_now: Australia
+domain: letters
+date: "1933-11-01"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: poem
+evidence: P
+summary: >-
+  Comic ode to 'Kemal - The Posh Pasha': sultans' scimitars and bow-strings gone, veils banished, a nation
+  made 'wide-awake, up to date' by one man.
+quote:
+  text: To the joy of the males he has banished the veils From the faces of Bosphorous belles.
+  language: en
+caveat: >-
+  Light verse in Dennis's 'Den' signature, printed in the Melbourne Herald in 1933 (middlemiss.org's index
+  lists it under 'Works in the Herald 1933'; the day was not given). Its headnote ties it to 'the 10th
+  anniversary' of the Turkish republic (so late Oct or Nov 1933) and says Kemal 'fought against the Anzacs at
+  Gallipoli, is spoken of by General Sir Harry Chauvel as a very great man' (headnote, so Dennis or the
+  Herald's, and Chauvel's remark is reported, not sourced here). The Oriental clichés (harems, hookahs,
+  bastinado) are the poem's own. Text verified on the Perry Middlemiss transcription of the Herald; the Herald
+  page image itself (Trove) not seen. Check: Middlemiss gives 'Den', Herald (Melbourne), 1 November 1933, p.
+  6; the Trove page itself not seen (bot check), so evidence S. UPGRADE 4 Nov 2026: read on Trove (article
+  243202439; The Herald, Melbourne, 1 Nov 1933, p. 6, 'KEMAL — THE POSH PASHA' by 'Den'), via a headed browser
+  that passed Trove's automatic check; the headnote reports Chauvel calling Kemal 'a very great man'. Evidence
+  S → P.
+node: Four Poems on Atatürk — Melbourne, Damascus, Cairo and Hyderabad, 1933–1939
+sources:
+  - url: https://trove.nla.gov.au/newspaper/article/243202439
+    archived: https://web.archive.org/web/20260117161839/https://trove.nla.gov.au/newspaper/article/243202439
+  - url: http://middlemiss.org/lit/authors/denniscj/newspapers/herald/1933/works/kemal.html
+    archived: https://web.archive.org/web/20200221012249/http://www.middlemiss.org:80/lit/authors/denniscj/newspapers/herald/1933/works/kemal.html
+  - url: https://poetry.com/poem/6412/kemal---the-posh-pasha
+    archived: https://web.archive.org/web/20230810163242/https://www.poetry.com/poem/6412/kemal---the-posh-pasha
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Perry Middlemiss, 'Kemal - The Posh Pasha' (middlemiss.org Dennis Herald 1933 works page); poetry.com
+    copy; 2 tools/ms searches for a Trove page
+  method: >-
+    fresh fetch of the Middlemiss page; Trove search page is blocked by Anubis, 2 paid searches found no Trove
+    article page for 1 Nov 1933 (only unrelated Herald pages)
+  note: >-
+    Quote verbatim on the transcription (To the joy of the males he has banished the veils / From the faces of
+    Bosphorous belles); rhyme and metre of all 5 stanzas are intact, so transcription error is unlikely, but
+    the Herald page image itself was not seen (Trove unreachable) and the other copies (poetry.com etc.) are
+    derivative. The page DOES give the date: 'Den', Herald, 1 November 1933, p. 6 - the record's 'day not
+    given' is wrong. CORRECTIONS: date '1933-11-01'; caveat: replace 'the day was not given' with 'Herald 1
+    Nov 1933, p. 6 per Middlemiss'; evidence P -> S (transcription of the Herald, page image not seen) until
+    the Trove page is checked. Headnote (10th anniversary; Chauvel remark) is on the page as stated. 'sultans'
+    scimitars' in what_they_saw is slightly loose (the scimitar line is general; sultans appear in stanza 1);
+    what_they_saw is exactly 25 words, allowed. UPGRADE 2026-11-04 (main agent): verbatim in Trove article
+    243202439 (Herald, 1 Nov 1933, p. 6).
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 18)
+  checked_on: "2026-11-03"

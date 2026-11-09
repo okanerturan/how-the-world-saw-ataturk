@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ta-kung-pao-1938
+voice: Ta Kung Pao
+voice_type: press
+role: China's great daily
+country: China
+country_now: China
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: editorial
+evidence: S
+summary: >-
+  Mourned the beloved father of a great nation who drove out invaders and then built friendship even with
+  former enemies; a vast void for Asia.
+quote:
+  text: >-
+    A terrifying enemy of invaders, and the most reliable friend of any who renounced their designs.
+  language: en
+mediated_by: Toksoy 2010 §G Çin Basını (Turkish translation)
+node: Ta Kung Pao Mourns, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt §Çin: Ta Kung Pao "çok sevilen atası ... bizim kıtamızda ...
+    büyük bir boşluk"; "Atatürk vatanını istilaya kalkan istilacıların korkunç bir düşmanı ve ...
+    vazgeçtikleri taktirde bunların en emin bir dostudur"
+  method: local
+  note: Translated.
+  checked_on: "2026-10-29"

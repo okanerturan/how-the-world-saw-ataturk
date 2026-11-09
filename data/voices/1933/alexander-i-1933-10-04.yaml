@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: alexander-i-1933-10-04
+voice: Alexander I of Yugoslavia
+voice_type: person
+role: King of Yugoslavia
+country: Yugoslavia
+country_now: Serbia
+domain: politics
+date: "1933-10-04"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: report
+evidence: S
+summary: >-
+  After meeting him at Dolmabahçe he said Atatürk's bearing, voice and gaze marked a rare man, and agreement
+  with this exceptional man would be easy.
+quote:
+  text: >-
+    Hali, tavrı, konuşması, başı, bakışı ve sesi derhal insan üzerinde nadir bir adam karşısında bulunduğumuzu
+    düşündüren bir tesir bırakıyor.
+  language: tr
+mediated_by: >-
+  Tarih ve Gelecek 2022 pp. 533 ← BCA 030.10.251.696.22 (Turkish report of the King's remarks); same article
+  cites Şimşir vol. IV pp. 261, 278 for the visit
+caveat: >-
+  Turkish rendering of remarks reported from the visit; original language (French or Serbian) not given.
+  Second line, same source: 'Devrin bu faik adamı ile anlaşmanın kolay olacağına dair bir intiba hasıl ettim'
+  ('I formed the impression that agreement with this outstanding man of the age would be easy'). Motive:
+  building the Balkan Pact.
+node: Heads of State on Atatürk in Their Own Words, 1926–1933
+sources:
+  - url: https://dergipark.org.tr/tr/download/article-file/2459611
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Kızılkaya, Tarih ve Gelecek 8/2 (2022), p. 533, fn 96 (BCA 030.10.251.696.22); visit date 4 Oct 1933 (pp.
+    523 and elsewhere)
+  method: tools/ms free fetch of the DergiPark PDF; located the quotes and the page header '533'
+  note: >-
+    Verbatim on p. 533: 'Hali, tavrı, konuşması, başı, bakışı ve sesi derhal insan üzerinde nadir bir adam
+    karşısında bulunduğumuzu düşündüren bir tesir bırakıyor.' and the second line 'Devrin bu faik adamı ile
+    anlaşmanın kolay olacağına dair bir intiba hasıl ettim.' Both introduced as the King's own feelings after
+    the meeting ('Kral Alexander görüşmeye dair duygularını şu şekilde paylaşmıştır'), source a Turkish
+    archival document (BCA); the language of the King's words and the recipient are not stated, and the date 4
+    Oct is the meeting date, not necessarily the date of the remark. Confirmed as quoted in the article; hedge
+    as Turkish rendering.
+  checked_on: "2026-11-01"

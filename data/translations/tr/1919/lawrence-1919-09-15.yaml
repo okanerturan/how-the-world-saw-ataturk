@@ -1,0 +1,36 @@
+# Turkish for data/voices/1919/lawrence-1919-09-15.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lawrence-1919-09-15
+voice: T. E. Lawrence
+role: İngiliz subayı ve Dışişleri Bakanlığı danışmanı ('Arabistanlı Lawrence')
+quote: >-
+  Elbette Mustafa Kemal ikisi arasında çok daha yetenekli olanıdır, ancak Enver'in kişisel çekim gücünden
+  yoksundur.
+quote_kind: translated
+summary: >-
+  Mustafa Kemal'in Enver'den çok daha yetenekli olduğu ancak onun çekim gücünden yoksun bulunduğu ve umutsuz
+  ya da çok elverişli koşullar dışında harekete geçmek için fazla tereddütlü olduğu yargısına vardı.
+caveat: >-
+  Dışişleri Bakanlığı'na sunulan 15 Eylül 1919 tarihli gizli muhtıra (Garnett, The Letters of T. E. Lawrence,
+  Londra: Cape 1938 içinde sayı 115, s. 288–291; alıntı s. 291, not G); kamuya açık bir beyan değil, bir
+  istihbarat değerlendirmesidir; belgelenmiş bir görüşme yoktur (Childs'ın Dışişleri Bakanlığı tutanağında yer
+  alan, 1918'de görüştüklerine dair 1926 tarihli iddiası Sonyel 1988 tarafından şüpheyle karşılanmaktadır).
+verification_note: >-
+  Not G'de alıntı kelimesi kelimesine aynı ('Mustafa Kemal is waving Enver like a banner in his movement. Of
+  course Mustafa Kemal is much the more able of the two, but lacks Enver's personal magnetism.'). 'will not
+  act except in desperate or very favourable circumstances' açımlaması s. 290'daki not C'dedir. Tarih, dönem,
+  P tamamen doğru; yetenek ile kararsızlığı harmanlayan bir değerlendirme için çelişkili sınıflandırması
+  adildir. Bakış testi geçer (belirtilmiş bir değerlendirme). Çekince notunu düzeltin: 'Lawrence never met
+  Kemal' kaynaksızdır ve lawrence-childs-1926-04-20 ile çelişmektedir → 'no meeting is documented (a 1926
+  Lawrence claim of 1918 talks, reported in a Childs FO minute, is doubted by Sonyel 1988)'.
+verification_method: archive.org açık OCR metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fe0dfdfa4e1d
+  role: 94247140e38f
+  quote: bfe467234a50
+  summary: 58b42fec2fc8
+  caveat: f6215ac0eb30
+  verification_note: 17f0076a64a1
+  verification_method: 5564a28f2471

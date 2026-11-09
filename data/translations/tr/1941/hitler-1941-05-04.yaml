@@ -1,0 +1,44 @@
+# Turkish for data/voices/1941/hitler-1941-05-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hitler-1941-05-04
+voice: Adolf Hitler
+role: Führer ve Reich Şansölyesi; Balkan harekâtı üzerine Reichstag konuşması
+quote: >-
+  Genç Türkiye'nin büyük, dahi yeni yaratıcısı, o zamanlar talihin terk ettiği ve kaderin böylesine korkunç
+  biçimde vurduğu müttefiklerin ayağa kalkışı için harika bir örnek veren ilk kişi oldu.
+quote_kind: translated
+summary: >-
+  Adını anmadığı 'yeni Türkiye'nin yeniden kurucusu'nu büyük ve dahi olarak niteler; yenilmiş müttefiklere
+  'dirilişin ilk örneği'ni verdiğini söyler.
+caveat: >-
+  [çeviri] 'Genç Türkiye'nin büyük, dahi yeni yaratıcısı, o zamanlar talihin terk ettiği ve kaderin böylesine
+  korkunç biçimde vurduğu müttefiklerin ayağa kalkışı için harika bir örnek veren ilk kişi oldu.'
+  Verhandlungen des Reichstags, 4. Wahlperiode, Bd. 460, 6. Sitzung, 4 Mayıs 1941, s. 85 C (BSB bsb00000613,
+  görüntü 86; ana ajan tarafından sayfa görüntüsünden okundu, 3 Kasım 2026). Pasaj 'Die Türkei war im
+  Weltkrieg unser Verbündeter' ile başlar ve Türkiye'yi savaşın dışında tuttuğu için 'devlet yönetiminin
+  gerçekçi tutumunu' (İnönü) övmeye devam eder. Atatürk'ün adı anılmaz, bağlamdan tespit edilir. Daha önce
+  kayıtlı olan BBC çevirisi ('the great and ingenious reconstructor of the new Turkey … the first example of
+  resurrection') serbesttir.
+verification_note: >-
+  Alıntı birebir, konuşma tarihi 4 Mayıs 1941 doğru: 'Turkey had been our ally in the World War. Its
+  unfortunate result was as heavy a burden for Turkey as it was for us. The great and ingenious reconstructor
+  of the new Turkey gave his Allies, beaten by fate, the first example of resurrection.' Atatürk'ün adı
+  geçmez, dolayısıyla kimlik tespiti bir çıkarımdır (güçlü: I. Dünya Savaşı müttefiki, 'new Turkey',
+  'resurrection'; 1941'de Türkiye devlet başkanı İnönü olduğundan atıf hayatta olmayan kurucuyadır). Almanca
+  orijinali bulunamadı ('Neugestalter der neuen Türkei' hiçbir sonuç vermiyor). Yalnızca açık bir 'adı
+  anılmıyor, bağlamdan tespit edildi' uyarısıyla tutun; yoğunluk 1 ve araçsal notu uygundur. GÜNCELLEME
+  2026-11-03 (ana ajan): Almanca orijinal Reichstag tutanağı sayfa görüntüsünden okundu (Bd. 460, s. 85 C);
+  alıntı değiştirildi, kanıt P.
+verification_method: >-
+  açık djvu metninin curl ile çekilmesi, bağlam içinde okundu; Almanca orijinal için 1 ücretli Almanca arama,
+  1 Türkçe arama ve 2 fts sorgusu, tümü sonuçsuz
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 63c4153a3f03
+  role: aa38f9fbf2a9
+  quote: 3805aa660101
+  summary: 46d9d9abeb32
+  caveat: a041d6a6ba9a
+  verification_note: "829171811742"
+  verification_method: be255d02e735

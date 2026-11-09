@@ -1,0 +1,30 @@
+# Turkish for data/voices/1923/sarekat-islam-madiun-1923-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sarekat-islam-madiun-1923-02
+voice: Sarekat Islam Kongresi, Madiun
+role: Sarekat Islam'ın yıllık kongresi, Cava
+quote: >-
+  Mustafa Kemal Paşa yüceltildi ve bu vesileyle aynı zamanda Muhammedî dinin başı olarak Hilafetin tanınması
+  yönünde ısrar edildi
+quote_kind: translated
+summary: >-
+  Mustafa Kemal Paşa'yı yüceltti ve İslam dininin başı olarak hilafetin tanınması çağrısında bulundu.
+caveat: >-
+  Hilafetin kaldırılmasından önce yazılmıştır: Kemal övülürken aynı nefeste hilafet savunulmaktadır.
+mediated_by: >-
+  Het Nieuws van den Dag voor Nederlandsch-Indië 24 Şubat 1923; Nieuwe Rotterdamsche Courant 22 Mart 1923
+verification_note: ""
+verification_method: >-
+  ilk kaynakta cümle kelimesi kelimesine yer alıyor; ikincisinde (Madiun kongresi raporu, 17-20 Şubat) Hadji
+  Salim'in Mustafa Kemal Paşa'yı yücelttiği ve hilafetin tanınması çağrısında bulunduğu belirtiliyor
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d42e351f088e
+  role: 25e686de3bc1
+  quote: ca5b7b6a57c9
+  summary: e118c071fd99
+  caveat: a151039274b7
+  mediated_by: ed551a53210b
+  verification_note: da39a3ee5e6b
+  verification_method: 00d21837f60f

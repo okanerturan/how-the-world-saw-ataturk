@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: spidla-2003
+voice: Vladimír Špidla
+voice_type: person
+role: Prime Minister of the Czech Republic
+country: Czech Republic
+country_now: Czech Republic
+domain: politics
+date: "2003"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  Bows before the memory of the founder of the Republic; his 'peace at home' thought and modernizing drive
+  still bear fruit.
+quote:
+  text: >-
+    80 sene önce, Türkiye Cumhuriyetini kendi liderliğinde Türk halkıyla birlikte kuran Kemal Atatürk'ün
+    anısının önünde saygıyla eğiliyorum.
+  is_translation: true
+  language: tr
+caveat: >-
+  Handwritten in Czech (not transcribed); the quote is the compilation's Turkish ('I bow with respect before
+  the memory of Kemal Atatürk, who 80 years ago founded the Republic of Turkey together with the Turkish
+  people under his leadership'). Undated on the page; '80 years ago' and his premiership (2002–04) give 2003.
+  Continues: the ideas expressed in 'peace at home, peace in the world' and the modernization of an
+  independent democratic country 'continue to bear fruit'. Source: Anıtkabir Özel Defteri (printed
+  compilation, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk
+  hakkındaki duygu ve düşünceleri'), page images on ataturkarsivi.com, read on the image by the main agent (4
+  Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) spidla2 (Czech handwriting), spidla3 (printed Turkish)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Printed Turkish quote verbatim ('80 sene once, Turkiye Cumhuriyetini kendi liderliginde Turk halkiyla
+    birlikte kuran Kemal Ataturk'un anisinin onunde saygiyla egiliyorum'); Czech handwriting agrees ('pred 80
+    lety'). Signer Spidla, Cek Cumhuriyeti Basbakani correct. Date: no date anywhere on either page, so 2003
+    is an inference only ('80 years' ~ 1923+80; premier 12 Jul 2002 - 26 Jul 2004, so 2003 or early/mid 2004
+    possible; a web search found no visit report). Keep date '2003' only if the caveat continues to say
+    inferred (it does); claim is otherwise supported. Verdict partial solely for the unverified date.
+  resolution: corrected/hedged 2026-11-04 — see LEDGER § Source-check corrections (round 25)
+  checked_on: "2026-11-04"

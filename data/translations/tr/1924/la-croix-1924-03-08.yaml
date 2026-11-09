@@ -1,0 +1,28 @@
+# Turkish for data/voices/1924/la-croix-1924-03-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-croix-1924-03-08
+voice: La Croix
+role: Paris Katolik günlük gazetesi
+quote: >-
+  Onlara Fransa Cemaatlerinin meşhur milyarından söz edenler, şüphesiz bu milyarın nasıl ortadan kaybolduğunu
+  söylemeyi ihmal etmişlerdir
+quote_kind: translated
+summary: >-
+  'Gazette' başlığı altında, sanki Ankara el konulan dini servetle ilgili Fransız hikâyesine inanmış gibi,
+  Ankara'nın hilafeti kaldırmasını Fransa'daki 'milliard des Congrégations' ile ilişkilendirdi.
+caveat: >-
+  Parça düzeyinde (Gallica ContentSearch), '(...)' ile kesilmiş; Gallica OCR. Düşmanca yönelim, yarıda
+  kesilmiş bir paragrafın çerçevelemesinden yapılan bir çıkarımdır. Sayfa 1.
+verification_note: >-
+  Yalnızca parça düzeyinde; düşmanca yönelim (kaydın da belirttiği gibi) çıkarım olarak kalmaktadır.
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9faf84306a18
+  role: 42a56c544ca1
+  quote: 1146bfe44c85
+  summary: 624857a2121d
+  caveat: 5673953e8d7c
+  verification_note: b15e0a4054d3
+  verification_method: ad8cee67138e

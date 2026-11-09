@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rabindranath-tagore-1932
+voice: Rabindranath Tagore
+voice_type: person
+role: Poet, Nobel laureate
+country: British India
+country_now: India
+domain: letters
+date: "1932"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: book
+evidence: S
+summary: >-
+  Commended Kemal Pasha in his Persia travelogue and a Modern Review essay, pairing him with Reza Shah as
+  architect of a new Asian state.
+mediated_by: Bhattacharya, Frontier ← Japane Parasye; Modern Review Oct 1932
+caveat: Primary pages not checked.
+node: Rabindranath Tagore
+sources:
+  - url: https://frontierweekly.com/articles/vol-51/51-45/51-45-Tagore%20and%20his%20Nationalism.html
+    archived: https://web.archive.org/web/20191114201919/https://frontierweekly.com/articles/vol-51/51-45/51-45-Tagore%20and%20his%20Nationalism.html
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    frontierweekly.com Bhattacharya: commended Kemal Ataturk and Reza Shah in Japane Parasye (1932-33) and
+    Modern Review Oct 1932
+  method: fetch
+  note: >-
+    Secondary; "pairing him with Reza Shah as architect of new Asian state" matches; primary pages not seen.
+  checked_on: "2026-10-29"

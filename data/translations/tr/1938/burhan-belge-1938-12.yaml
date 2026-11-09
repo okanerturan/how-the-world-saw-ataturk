@@ -1,0 +1,38 @@
+# Turkish for data/voices/1938/burhan-belge-1938-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: burhan-belge-1938-12
+voice: Burhan Belge
+role: Basın Genel Müdürü, Türk yazar ve Atatürk'ün çevresinden
+quote: >-
+  Atatürk, eserini tamamlamanın sevincini duymuş talihli bir Şef oldu … Atatürk kurtuluş mücadelesini yönetti
+  ve Devrim'i yaptı.
+quote_kind: translated
+summary: >-
+  Atatürk'ün ölümünün ardından onu, eserini tamamlamış ve ulusal 'dava'yı İnönü'ye devretmiş talihli bir şef
+  olarak nitelendirir; böylelikle tutulan yol devam etmektedir.
+caveat: >-
+  Türk Basın Genel Müdürlüğü'nün (Direction Générale de la Presse, İçişleri Bakanlığı) resimli dergisi olan ve
+  yayımladıklarını seçip basan (ve bazı yazıları tercüme eden) bir Kemalist devlet propaganda mecrası
+  niteliğindeki La Turquie kémaliste'te yayımlanmıştır; archive.org'daki la_turquie_kemaliste kaydının OCR
+  metninden okunmuştur. Dergiyi yayımlayan Basın Genel Müdürlüğü'nün başkanının imzalı yazısı, 'D'Atatürk à
+  İnönü', sayı 28 (Aralık 1938), cenazeden sonraki ilk sayı; aynı sayı 'La mort d'Atatürk' başlıklı imzasız
+  bir başyazıyla açılmaktadır. Amaç, yabancı okurlara İnönü yönetiminde süreklilik konusunda güvence vermektir
+  ('nul, parmi nos amis de l'étranger, ne doit en douter'), dolayısıyla araçsaldır ve Belge bağımsız bir ses
+  değil, rejimin bir yetkilisiydi. Kayıtta 'Atatürk'den İnönü'ye' başlıklı Türkçe çevirisi de yer almaktadır.
+  OCR metninde sayfa numarası görünmemektedir. Kaynak gösterimi: La Turquie kémaliste sayı 28 (Aralık 1938),
+  'D'Atatürk à İnönü'.
+verification_note: >-
+  Her iki cümle de birebir aynı; 'par Burhan Belge' imzalı, başlık D'Atatürk à Inönü. Aralık 1938 cenazenin
+  hemen sonrasına denk geldiğinden cenaze dönemi sınıflandırması doğrudur. Kendi görüşü; araçsal (süreklilik
+  konusunda güvence verme) nitelemesi yerindedir.
+verification_method: djvu metni çekildi, dizge eşleşmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 146c685bfe7f
+  role: e420a7e4dd72
+  quote: bc3fd863fc1e
+  summary: da360f7ab6fc
+  caveat: 329216bb4476
+  verification_note: ad534cc9b55a
+  verification_method: 8d8522007a86

@@ -1,0 +1,42 @@
+# Turkish for data/voices/1936/iqbal-1936.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: iqbal-1936
+voice: Muhammad Iqbal
+role: Hint İslamının şair-filozofu
+quote: >-
+  Emeviler döneminden beri fiilen bir tür imparatorluğa dönüşmüş olan hilafetin kaldırılmasında, Atatürk
+  aracılığıyla işleyen yalnızca İslam'ın ruhudur.
+quote_kind: translated
+summary: >-
+  Nehru'nun Türkiye'nin İslam'dan çıktığı suçlamasına karşı Atatürk'ü savunur: hilafetin kaldırılması İslam'ın
+  ruhunu ifade etmiştir; İsviçre kanunu ve Türkçe Kur'an ise hataydı.
+caveat: >-
+  'Islam and Ahmadism' (Reply to Questions Raised by Pandit J. L. Nehru), 1936; ay doğrulanmadı. Speeches and
+  Statements of Iqbal, haz. Shamloo (Lahor 1944), s. 134–137, 141 (sayfa numaraları taramanın
+  üstbilgilerinden). Alıntılanan cümlenin ifadeleri Wikisource'ta da bulunur. Ayrıca: 'The adoption of the
+  Swiss code with its rule of inheritance is certainly a serious error' ve Türkçe Kur'an okunmasını 'as a
+  serious error of judgment' olarak gördüğü belirtilir.
+verification_note: >-
+  s. 137'nin başında ('137' üstbilgisinden sonra) birebir aynı: 'In the abolition of the Caliphate which since
+  the days of Omayyads had practically become a kind of Empire it is only the spirit of Islam that has worked
+  out through the Ataturk.' Ayrıca s. 135'te birebir: 'Pandit Jawahar Lal Nehru thinks that Turkey had ceased
+  to be a Muslim country'; s. 135-136: Türkçe Kur'an okunması hakkında 'Personally I regard it as a serious
+  error of judgment'; s. 136: 'The adoption of the Swiss code with its rule of inheritance is certainly a
+  serious error which has arisen out of the youthful zeal for reform excusable in a people furiously desiring
+  to go ahead.'; s. 141: 'Personally, however, I do not think that the Ataturk is inspired by
+  Pan-Turanianism'. Yazının bu kitaptaki basılı başlığı 'Reply to Questions raised by Pandit J. L. Nehru'
+  şeklindedir (Part Two, IV, s. 111'de başlar); kitapta tarih basılı değildir, dolayısıyla '1936' yılı ve ay
+  bilgisi dış bilgiye dayanır (Wikisource'taki 'Islam and Ahmadism' başlığı farklı bir baskının başlığıdır).
+  Alıntılanan cümlenin s. 137'de olduğunu ekleyin. what_they_saw ve conflicted kutupluluğu yerinde.
+verification_method: >-
+  archive.org djvu metni curl ile doğrudan çekildi; pasajlar ve üstbilgi sayfa numaraları tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6579788f8f7e
+  role: a889370c6c58
+  quote: ea13ea56c87c
+  summary: f91e4dd4d766
+  caveat: 05ac7fec0f0f
+  verification_note: 44aed461eef3
+  verification_method: 3a219de609c9

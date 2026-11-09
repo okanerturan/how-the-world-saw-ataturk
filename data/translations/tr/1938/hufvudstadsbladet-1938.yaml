@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/hufvudstadsbladet-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hufvudstadsbladet-1938
+voice: Hufvudstadsbladet
+role: İsveççe yayımlanan günlük gazete, Helsinki
+quote: >-
+  Atatürk olağanüstü bir devlet adamıydı, savaş sonrası dünya tarihinin en önemli şahsiyetlerinden biriydi.
+  Atatürk olmasaydı yeni Türkiye var olamazdı.
+quote_kind: translated
+summary: >-
+  Olağanüstü bir devlet adamı ve savaş sonrası dünya tarihinin en önemli şahsiyetlerinden biri; onsuz yeni
+  Türkiye var olamazdı.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Kurun 14 Kasım, Ulus 15 Kasım, Cumhuriyet 16 Kasım 1938
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6ade4db8cb7c
+  role: 3b5ef91bb9b8
+  quote: 7437466f2f20
+  summary: 00fe9c78746d
+  caveat: ecc719a2a575
+  mediated_by: c3d11a07ec69
+  verification_method: 939bb46a04c3

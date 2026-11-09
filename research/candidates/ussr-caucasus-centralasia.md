@@ -1,0 +1,41 @@
+# Candidates — USSR, Caucasus, Central Asia
+
+In vault (●): Lenin, Trotsky, Frunze, Voroshilov, Aralov, Mayakovsky, Yutkevich, Parvus, Wrangel,
+Suphi, Şefik Hüsnü. **Round 3 (b10_eurasia.py):** Mehmed Emin Resulzade, Mikayıl Müşfik, Mustafa Çokay,
+Azerbaijani Poetry of Atatürk (card), Moscow Mourns, November 1938 (card).
+
+| Lead | Country | Domain | Era | What's claimed | Tier | Next step |
+|---|---|---|---|---|---|---|
+| **Mehmed Emin Resulzade** — **PROMOTED** | Azerbaijan | politics | contemporary | 1928 and Nov 1938 texts (*Qurtuluş* 49; Warsaw Russian rewrite); expulsion from Turkey, date unsettled (1928–31 majority 1931 per BBC; 1933 per Quliyev) | S/J | Open: primary Turkish archive on the expulsion; the 1928 "Qurtulan Şərqin simvolu" text (which journal?) |
+| Atatürk in 20th-c Azerbaijani poetry — **PROMOTED** | Azerbaijan | letters | both | Heşimova 2024 read in full; Müşfik 1937, Vahabzadə 1992, Yaqub, Ulutürk 2003, Handan 1993 | S | Individual person nodes for **Bəxtiyar Vahabzadə** (S, posthumous-era) and **Rəfiq Zəka Xəndan** if wanted; Hüseyn Cavid *İblis*/Elhan reading is contested (Gençalp) |
+| Mikayıl Müşfik — **PROMOTED** | Azerbaijan | letters | contemporary | 1937 poem "Atatürk", executed 6 Jan 1938; "one of the grounds of prosecution" (Heşimova only) | S single | Locate Dilkam Ahmet 2017 publication (*Tanıtım*?) and any NKVD-file citation; independent authentication of the poem |
+| Mustafa Çokay — **PROMOTED** | Kazakh/Turkestan | politics/press | contemporary | Compared Bolshevik Russia/Fascist Italy/Turkey; praised Atatürk in *Yaş Türkistan*; kept praising after ban | S (abstract) | Full MTAD 10/4 article; **1938 Yaş Türkistan obituary** (web claim only: yenidenergenekon.com — T, quote unchecked); *Prométhée* July 1931 "Les Bolcheviks contre le kemalisme" |
+| Soviet press, Nov 1938 — **PROMOTED** | USSR | press | funeral | Lyulchak 2024 (S abstract), NYT 13 Nov 1938 (J), KTB quotes | S+J | Full Lyulchak text (history.jes.su full-text paywalled); academia.edu "Kasım 1938 Sovyet Basınında Atatürk" (unread); Pravda/Izvestia pages |
+| Sultan Galiev | Tatar/USSR | politics | contemporary | Muslim national-communism theorist; Kemalism debates | M | ⌀ dug once, only context: Istanbul Univ. Press chapter cites Sultan-Galiev's 1923 letter on Moscow hesitating between Kemal, Enver and "leftist Enverists" (RGASPI f.82). No direct statement on Kemal found. Next: Bennigsen & Wimbush *Muslim National Communism*; Sultan-Galiev "Who Am I?" 1923 (RGASPI) |
+| Ayaz İshaki / Sadri Maksudi (Tatar émigrés) | Tatar/Turkey | politics | contemporary | Not searched this round | ○ | Maksudi taught in Turkey and sat in Atatürk's circle — try "Sadri Maksudi Arsal Atatürk" (Turkish-side, check vault first) |
+| Kazakh/Uzbek press, "Türkistan basınında Atatürk" | C. Asia | press | contemporary | One query, no hit; Çokay's *Yaş Türkistan* is the outlet that surfaced | ○ | Query again with "Yeni Türkistan"/"Bukhara Cumhuriyeti" or Turkestan émigré press 1938 |
+| Georgia (Menshevik émigrés; Batumi/Kars 1921) | Georgia | politics | contemporary | ⌀ one TR query: nothing relevant; only the "Opponents: Georgia" line in Wikipedia's National Movement box | ○ ⌀ | Try Georgian/English: "Noe Zhordania Mustafa Kemal", "Georgian Menshevik émigrés Turkey", Treaty of Kars context; Georgian-language search |
+| Armenian gaze | Armenia | press | both | ⌀ one EN query for 1938 diaspora obituaries: nothing credible; hits were polemical sites (Armeniapedia quote collages; a denialist blog on a "wrongly attributed statement") — **not used** | ○ ⌀ | Scholarly sources only: *Armenian Weekly*/*Hairenik* Nov 1938 archives (Armenian Weekly has an Ihrig review already cited in ledger); Armenian SSR press via Soviet-press scholarship; the "Los Angeles Examiner 1926" interview is contested — treat as a reception datum with Turkish-historiography caveats, not as evidence |
+
+### Notes
+- The ktb.gov.tr "Russia" page attributes a Nov 1938 tribute to "N. S. Khrushchev, President of the Soviet Union" — an anachronism; flagged in the Moscow card.
+- Yenidenergenekon.com, 12punto.com.tr, rainbow-tr-lt.narod.ru: Turkish compilations of foreign quotes — T-tier, fine as leads.
+
+### Round 10 (comintern) — named Soviet and communist voices
+- **PROMOTED** (b18_comintern.py, card "Soviet Leaders on the Kemalists, 1920–1930", 7 records): Zinoviev (Baku 1920), Stalin (Pravda 30 Nov 1920; Sun Yat-sen talk 13 May 1927), Chicherin (Politburo memo 28 Jun 1920), M. N. Roy (Inprecor 17 Oct 1922), Karakhan (Ankara, Dec 1929, via Rosmer), Alfred Rosmer (The Militant 18 Jan 1930).
+- **Upgrade:** Radek 4th Congress primary text at marxists.org/archive/radek/1922/radek04.htm (Riddell tr., pp. 727–735) supports `karl-radek-1922` at P tier.
+- Dry ends (named, no Kemal opinion found in open text): Lenin (CW 45 p. 344 Oct 1921 only agrees with Chicherin; no Kemal opinion in the open Lenin texts checked); Chicherin Inprecor 6 Dec 1921 (survey of Eastern relations, no judgement); Radek 1 Jul 1920 and Inprecor Oct 1922 (Kemal's Chicago Tribune interview recounted, no verdict); Bukharin report and 6th Congress colonial theses (Turkey only in a list); Ibrahim Tali at Baku (an Ankara envoy, not a Soviet voice).
+- Open leads: Trotsky on Kemal (only second-hand so far; try Writings 1929–33 / Biulleten Oppozitsii); Frunze's reports from Ankara Dec 1921 (Euxeinos 32; Aralov memoirs); Voroshilov Oct 1933 (Pravda/Izvestia); Sultan-Galiev; Nâzım Hikmet's contemporary view (1920s-30s); Pravda 11 Nov 1938 primary; Lenin Jan 1922 exchange with Kemal (russiancouncil.ru cites a 4 Jan 1922 letter to Lenin, source not read).
+
+### Round 20 (soviet, b29_soviet.py) — Russian open texts
+- **PROMOTED:** Aralov memoir 1960 (archive.org open scan, pp. 211, 215; `aralov-1960`, P) and Pilnyak 1926 Smyrna aside (`pilnyak-1926`, ru.wikisource, S; narrator, sensitive). Node "Soviet Pens on Mustafa Kemal — Aralov and Pilnyak".
+- Aralov memoir is open at archive.org/details/vospominaniia_sovetskogo_diplomata_1922_1923 (djvu txt, 223 Kemal hits) — more passages possible (Kemal's wartime talk, Frunze p. 82ff, his remarks on Lenin).
+- Frunze: own diary "Поездка в Ангору" (Соч. т. I, 1929, pp. 274-351) not found open; the 1985 collection "О Михаиле Фрунзе" (archive.org o_mikhaile_frunze, open) has only a staffer's physical description of Kemal (pp. 246-250, author not identified). ⌀ no own-voice view yet.
+- Voroshilov Oct-Nov 1933: Pravda no. 299 (archive.org 1933299_3244) OCR is garbage, unquotable; DVP SSSR vol. 16 (archive.org foreignpolicydoc0016vari, lending-only) holds a Soviet telegram to Kemal "со славным именем которого связаны..." and a Voroshilov toast; sender and page not established. Needs a human with the book. Izakov, *Летучие годы* (letuchiegodydaln0000izak, lending) says Kemal and Voroshilov sat late at dinner.
+- Dry: Ehrenburg, Koltsov, Budyonny, Litvinov, Mikoyan, Kirov, Ordzhonikidze, Mdivani, Reisner, Paustovsky, Ilf-Petrov: fts and DDG gave no own-voice Kemal passage. Ogniov's *Евразия* (Wikisource) has only a Mustash dialogue calling Kemal "большой и храбрый паша" (a character). Pavlovich 1921 (Wikisource) is a neutral survey calling him the "прославленный защитник Дарданелл".
+- Lead: "Россия XX век — Документы" snippet "Великий вождь Кемаль Ататюрк... сделал очень много" in a Soviet report (archive.org 19-1922-193-1936-2003, open multi-volume, likely a 1930s Lubyanka/NKVD document) — locate volume and author.
+
+### Round 26 (russian2, b35_russian2.py) — Voroshilov 1933 and Frunze
+- **STAGED (3):** Voroshilov Pravda 299 (29 Oct 1933) p. 2 reply at Ankara (P, page image) and Pravda 298 (28 Oct) p. 1 Istanbul statement (P); Frunze 1922 report to VUTsIK/Sovnarkom, Istoricheskii arkhiv 1960 no. 6 p. 35 (open djvu, P; instrumental, intensity 1).
+- Method: archive.org Pravda PDFs for nos. 298-301 downloaded; 300 dpi crops of columns read visually (Tesseract rus on full pages is garbage for the narrow columns). Nos. 300-301 mention Voroshilov/Kemal (Kemal's own speech and parade, 301 p. 2) but no further Voroshilov words on Kemal found in the OCR; Izvestia and DVP SSSR XVI not open.
+- Frunze diary "Поездка в Ангору" (Соч. т. I) still not found open; fts hits only a fiction collection (Площадь Мира, 1984) with invented dialogue (not usable).

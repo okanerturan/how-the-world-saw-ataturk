@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mehmed-emin-resulzade-1938
+voice: Mehmed Emin Resulzade
+voice_type: person
+role: Founder of the 1918 Azerbaijani Republic; émigré publicist
+country: Azerbaijan (in exile)
+country_now: Azerbaijan
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: S
+summary: >-
+  Credited him with seeing salvation in independent statehood; read Kemalism as positivism; took İnönü's
+  instant succession as proof the machine ran like a clock.
+caveat: >-
+  Russian rewrite adds Ankara-Moscow content; his departure from Turkey (c. 1931) is disputed.
+node: Mehmed Emin Resulzade
+sources:
+  - url: https://edebiyyatqazeti.az/news/sience/11325-qardas-turkiye-basin-sag-olsun
+    archived: https://web.archive.org/web/20240914202550/https://edebiyyatqazeti.az/news/sience/11325-qardas-turkiye-basin-sag-olsun
+  - url: https://525.az/news/15092-kamal-ataturkun-vefati-munasibeti-ile--meresulzade-ataturk-haqqinda
+    archived: https://web.archive.org/web/20261029000213/https://525.az/news/15092-kamal-ataturkun-vefati-munasibeti-ile--meresulzade-ataturk-haqqinda
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://edebiyyatqazeti.az/news/sience/11325-qardas-turkiye-basin-sag-olsun (Azeri-Turkish text of
+    Qurtulus Nov 1938 article; 'pozitivizm', 'yeni rejim makinasinin qurulu bir saat gibi islediyi');
+    https://525.az/news/15092-... (Russian-rewrite)
+  method: fetch
+  checked_on: "2026-10-29"

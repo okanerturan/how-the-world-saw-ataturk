@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: universul-1938
+voice: Universul
+voice_type: press
+role: Bucharest daily
+country: Romania
+country_now: Romania
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Called him a loyal friend of Romania; a second piece by a former Ottoman minister named him a founder of the
+  Balkan Entente.
+quote:
+  text: one of the greatest men of the time
+  language: en
+mediated_by: Toksoy 2010 (Romanian originals not seen)
+caveat: Romanian originals not seen; translated from Toksoy's Turkish.
+node: Romania Hangs the Black Flags, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt p.192 (Bükreş 'Universal' gazetesi; Basarya piece)
+  method: local
+  note: >-
+    Quote translated from Toksoy Turkish; paper appears as 'Universal' in Toksoy, identification with
+    Universul is the note's.
+  checked_on: "2026-10-29"

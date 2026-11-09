@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: patten-2004-12
+voice: John Patten (Lord Patten)
+voice_type: person
+role: Former Education Secretary, Conservative peer
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "2004-12-15"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: secular-rationalist-prophet
+artifact: speech
+evidence: P
+summary: >-
+  Treats 'the legacy of Kemal Atatürk' as a secular Turkey whose preservation is the reassurance all seek,
+  inside or outside the EU.
+quote:
+  text: >-
+    There is also the reassurance that we all seek that the legacy of Kemal Atatürk—Turkey as a secular
+    society—is going to be preserved inside or outside of the European Union and that there is no possibility
+    of a theocratic state emerging in Turkey.
+  language: en
+caveat: >-
+  Turkey and the EU, HL Deb 15 Dec 2004, cc1355-57. Transcription at TheyWorkForYou of the official Hansard.
+  Column given as the span of Patten's speech (his speech follows Lord Rea's, ends before Lord Dahrendorf's,
+  per the page's citation lines). Also Patten's written question 23 Oct 2006 asks what representations were
+  made over the trial of Ipek Calislar for 'allegedly insulting Kemal Atatürk': a procedural mention, not
+  recorded. Check: the quote falls at c1357 (historic-hansard); TWFY gives the column where the speech starts.
+  Check: the speaker is John Patten (Lord Patten, peer from 1997, former Education Secretary), not Chris
+  Patten (peer from 2005).
+node: Westminster on Atatürk, 1988–2004 — Corbyn, MacShane and Patten
+sources:
+  - url: https://www.theyworkforyou.com/lords/?id=2004-12-15a.1335.0#g1357.0
+    archived: https://web.archive.org/web/20251206174737/https://www.theyworkforyou.com/lords/?id=2004-12-15a.1335.0
+verification:
+  verdict: contradicted
+  quote_found: true
+  checked_against: >-
+    TheyWorkForYou debate page (fresh curl), speaker block at the anchor; column cross-checked on
+    api.parliament.uk/historic-hansard where available
+  method: >-
+    fetched page, normalised-text match of the quote inside the anchored speech block (speaker, date, id);
+    column located from historic-hansard column markers
+  note: >-
+    Quote is verbatim, in the speech at g1357.0, HL Deb 15 Dec 2004, c1357 (not cc1355-57; c1355 is Lord Rea).
+    But the speaker is John Patten, Lord Patten (Conservative peer since 1997, former Education Secretary;
+    TheyWorkForYou peer 12938, 'Entered the House of Lords in 1997'), not Chris Patten. In the same speech he
+    says he was 'never considered ... subtle enough to serve in matters of foreign and commonwealth affairs';
+    Chris Patten (EU Commissioner until Nov 2004) became a peer only in 2005. Fix: voice 'John Patten (Lord
+    Patten)', role 'Conservative peer, former Education Secretary', drop 'Former EU Commissioner and Governor
+    of Hong Kong', caveat c1357. Polarity admiring 1 is soft: it is an instrumental concern that the secular
+    legacy be preserved; instrumental 1 fits better.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

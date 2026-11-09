@@ -1,0 +1,25 @@
+# Turkish for data/voices/1931/forbes-1931.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: forbes-1931
+voice: Rosita Forbes
+role: "Britanyalı gezgin ve yazar, Conflict: Angora to Afghanistan"
+quote: >-
+  Mustafa Kemal'in milliyetçiliği, kendilerine yapılan muamele bir uygarlık sınavı olan Azınlıklar için
+  Abdülhamid'in bağnazlığının olduğu kadar tehlikeli olabilir
+quote_kind: translated
+summary: >-
+  Kemal'i yılmaz bir modernleştirici, büyük tasarılar üzerinde derin derin düşünen ufak tefek bir adam ve
+  milliyetçiliği Abdülhamid'in bağnazlığının yaptığı gibi azınlıkları tehlikeye atan biri olarak görür.
+caveat: >-
+  Yazarın Önsözü numarasızdır; 1. bölüm s. 1-5. Aynı ciltteki 'genius of Mustafa Kemal' ifadesi Forbes'a
+  değil, Sir Percy Sykes'ın Sunuş yazısına aittir.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bd3f9dce66d3
+  role: 57ceef131c64
+  quote: 7d4a3855ba79
+  summary: 58de80698b52
+  caveat: 81a57e4e3378
+  verification_method: ad8cee67138e

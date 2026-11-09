@@ -1,0 +1,40 @@
+# Turkish for data/voices/1954/tito-1954-04-13.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tito-1954-04-13
+voice: Josip Broz Tito
+role: >-
+  Yugoslavya Devlet Başkanı; resmî ziyareti sırasında Cumhurbaşkanı Bayar'ın verdiği akşam yemeğinde kadeh
+  kaldırırken yaptığı cevabî konuşma, Çankaya, Ankara
+quote: >-
+  Türkiyenin hükûmet merkezinde bulunmaktan derin bir memnunluk duymaktayım. Bu Türk milletinin büyük
+  Atatürkün efsanevî şahsiyeti hatırasından mülhem olan kuvvetinin ve canlı millî şuurunun vakur bir
+  ifadesidir.
+quote_kind: original-turkish
+summary: >-
+  Türkiye'nin hükûmet merkezi Ankara: 'büyük Atatürk'ün efsanevî şahsiyeti'nin hatırasından ilham alan bir
+  millî kuvvetin vakur ifadesi.
+caveat: >-
+  Cevabî kadeh konuşmasının açılış satırları; devamı Yugoslav sempatisi, Ankara Paktı ve Balkan barışı
+  hakkındadır. Aynı gün Anıtkabir'e çelenk koydu (Milliyet s. 1); herhangi bir defter yazısı basılmamıştır.
+  Özgün Sırpça-Hırvatça metin (Borba / Politika, 14 Nisan 1954; Govori i članci c. IX) görülmedi. Anıtkabir
+  defterindeki yazısına atfedilen Instagram'daki 'Sizi hayatım boyunca daima ilham kaynağı olarak yaşattım'
+  sözünün kaynağı yoktur. Sayfa görüntüsünden okundu (Okan'ın Milliyet arşivi girişi).
+mediated_by: >-
+  Milliyet, 14 Nisan 1954, s. 7 ('Türk-Yugoslav siyasî görüşmeleri başladı', 'Titonun nutku' bölümü):
+  Sırp-Hırvatça yapılan bir kadeh konuşmasının gazetedeki Türkçe aktarımı
+verification_note: >-
+  Alıntı büyütülmüş görüntüden yazıya geçirildi ('Atatürkün', 'efsanevî', 'mülhem' okunaklı). Akşam yemeği
+  Ankara 13 Nisan mahreç satırıyla ('bu akşam') tarihlendirildi. Ana ajan tarafından okundu; ayrı bir kontrol
+  ajanı yok.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f23e7ece797a
+  role: 5897b70e7c0f
+  quote: cb382b77ea74
+  summary: c74b54c50597
+  caveat: bc722c85a29f
+  mediated_by: 6d2a65028583
+  verification_note: 3e529d5a4e3d
+  verification_method: 1c3478366c90

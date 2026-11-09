@@ -1,0 +1,35 @@
+# Turkish for data/voices/1938/loraine-1938-06-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: loraine-1938-06-02
+voice: Sir Percy Loraine
+role: Britanya'nın Türkiye Büyükelçisi (1933–1939)
+quote: Fakat o bir "diktatör" müdür? Ben şahsen teknik olarak öyle olmadığını düşünüyorum.
+quote_kind: translated
+summary: >-
+  Atatürk'e fahri derece verilmesi için Londra nezdinde ısrar ederken, onun teknik olarak bir diktatör
+  olmadığını, konumunun Hitler veya Mussolini'ninki gibi olmadığını savundu.
+caveat: >-
+  Taramaya uygulanan yeni OCR ile tarih '2nd June 1938' olarak okundu (archive.org djvu metni '2' olarak
+  okumaktadır); PDF dosyası #8, s. 766. Ekli özette Atatürk için 'has deserved well of the whole learned world
+  by raising the cultural and social level of a whole nation' denmektedir. Kontrol: s. 511'de 2 Haziran 1938
+  tarihlidir (F.O. 371/21930/E.3437); özet s. 512'dedir.
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk c. VIII (TTK 2006) No. 211, s. 511 ← Loraine'den Sir Lancelot
+  Oliphant'a, özel mektup, İstanbul İngiliz Büyükelçiliği (FO 371/21930)
+verification_note: >-
+  Alıntı basılı s. 511'de birebir aynıdır: sayı 211, Sir P. Loraine'den Sir L. Oliphant'a, 'British Embassy,
+  ISTANBUL'; ref. F.O. 371/21930/E.3437 (s. 512); 'has deserved well of the whole learned world' ifadeli ekli
+  özet s. 512'dedir. TARİH ÇELİŞKİLİ: Yakınlaştırılmış taramada djvu'nun belirttiği gibi '7th June' değil,
+  '2nd June, 1938' (üst simge 'nd') okunmaktadır. Tarih ve id düzeltilmelidir.
+verification_method: işlenmiş PDF sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 11db1b159c68
+  role: aec8e5f78156
+  quote: 16211df1264f
+  summary: 046db9d8f6d9
+  caveat: 50a4d152a3dd
+  mediated_by: 95ad522e95cd
+  verification_note: ad4452d5a6ed
+  verification_method: 2cf07304cb13

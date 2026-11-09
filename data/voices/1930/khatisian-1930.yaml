@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: khatisian-1930
+voice: Alexander Khatisian
+voice_type: person
+role: Former prime minister of the Republic of Armenia (1919-20), memoirist
+country: Armenian diaspora (Athens)
+country_now: Greece
+domain: letters
+date: "1930"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: memoir
+evidence: S
+summary: >-
+  Grants the Kemalist leaders energy and talent in building a national army, while describing Kemalist aims as
+  bent on destroying independent Armenia.
+quote:
+  text: >-
+    It must be admitted that the leaders of this movement have displayed a great deal of energy and talent.
+  language: en
+mediated_by: 2025 English edition (trans. F. Sarıkaya, ed. M. A. Demirer) of the Athens 1930 memoir
+caveat: >-
+  Translation by a Turkish editorial group with its own footnotes; Armenian original unchecked; speaks of
+  Kemalist leaders and the movement under Mustafa Kemal, with Kemal named in the preceding sentence.
+node: Khatisian on the Kemalist Army, 1930
+sources:
+  - url: https://fatsr.org/wp-content/uploads/2025/11/The-Origin-and-The-Devlopment-of-The-Republic-of-Armenia-Alexander-Khatisian-Athens-1930-English-version.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: 2025 English edition (Sarikaya/Demirer) PDF, fatsr.org, of Khatisian, Athens 1930
+  method: Free fetch of full PDF text; sentence found in the chapter on 1920 (printed p. 141)
+  note: >-
+    Quote verbatim: 'It must be admitted that the leaders of this movement have displayed a great deal of
+    energy and talent.' Preceded by 'Turkey, under the leadership of Mustafa Kemal, started to establish a
+    national army', so the movement is Kemal's. The Armenian/English 1930 original was not seen; the text is a
+    translator's, as the caveat states. The passage describes 1920 events written in 1930, so the date is the
+    publication year.
+  checked_on: "2026-11-01"

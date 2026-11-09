@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: azzam-1935
+voice: Abd al-Wahhab Azzam
+voice_type: person
+role: Egyptian orientalist and professor (later Egypt's minister to Saudi Arabia)
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1935-07-01"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: S
+summary: >-
+  In a serial against 'the Kemalists', says Muslims counted the Ghazi their undisputed hero, yet he led the
+  Kemalists' break with Islam.
+quote:
+  text: >-
+    وكان أشدهم إفراطاً في ذلك الغازي مصطفى كمال باشا الذي كان المسلمون جميعهم يعدونه بطل أبطالهم غير مدافع.
+  translation: >-
+    The most extreme of them in that was the Ghazi Mustafa Kemal Pasha, whom all Muslims used to count the
+    hero of their heroes, beyond dispute.
+  language: ar
+caveat: >-
+  Cited as al-Risala no. 104, 1 Jul 1935, Wikisource page 'مجلة الرسالة/العدد 104/النهضة التركية الأخيرة'.
+  Part of the series 'The Latest Turkish Revival' by Dr Abd al-Wahhab Azzam in al-Risala nos. 101 (10 Jun
+  1935), 104 (1 Jul), 108 (29 Jul) and 111 (19 Aug, by another hand on music); the quote is from no. 104. In
+  no. 101 he writes that abolishing the caliphate 'was not a necessity required by reform, but an excess the
+  revolution led to'; in no. 108 he faults the Kemalists' policy on women and tells of an Egyptian women's
+  delegate who called the Ghazi 'Atashark'. Mostly he blames 'the Kemalists' collectively; the Ghazi is named
+  for the Qur'an anecdote and as the leader in rejecting Islam. Wikisource transcription; no page image
+  linked.
+node: Egyptian Pens in al-Risala on Atatürk, 1935–1946
+sources:
+  - url: https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_104/%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9
+    archived: https://web.archive.org/web/20261109090113/https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_104/%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Arabic Wikisource raw page 'مجلة الرسالة/العدد 104/النهضة التركية الأخيرة' (+ nos. 101 and 108 pages of
+    the same series)
+  method: >-
+    fetched action=raw, diacritic-normalised substring match of the Arabic quote, then read the surrounding
+    passage, header date and end signature
+  note: >-
+    Arabic quote verbatim. Header date 01-07-1935, 'مؤلف' empty but byline 'للدكتور عبد الوهاب عزام' and
+    closing signature 'عبد الوهاب عزام' (series no. 3, 'له بقية'). Speaker's own view: 'ذلك ما افتتح به
+    الكماليون عملهم؛ ... وكان أشدهم إفراطاً في ذلك الغازي مصطفى كمال باشا الذي كان المسلمون جميعهم يعدونه بطل
+    أبطالهم غير مدافع'. Translation faithful. Caveat cross-refs checked: no. 101 says the caliphate abolition
+    'ما كان ... ضرورة اقتضاها الإصلاح، ولكن إفراطاً أدت إليه الثورة' (matches); no. 108 (29-07-1935) has the
+    women's delegate calling the Ghazi 'أتاشرق' and Azzam's rejection (matches). The no. 111 'by another hand
+    on music' item was not checked. Polarity conflicted / intensity 2 fair; era contemporary correct; schema
+    OK.
+  checked_on: "2026-11-03"

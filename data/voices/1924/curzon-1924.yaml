@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: curzon-1924
+voice: Marquess Curzon
+voice_type: person
+role: Former Foreign Secretary, Lords debate on Persia
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1924-05-14"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Feared that Reza Khan modelling himself on Kemal would come to grief if he copied Kemal's policy lines,
+  while praising a purely national policy.
+quote:
+  text: >-
+    if he follows certain lines of policy which have been pursued by Mustapha Kemal in Turkey, he may come to
+    grief at an early stage in his own country
+  language: en
+caveat: >-
+  Hansard API prints the speaker as 'The Marquess Quezon of Kedleston' (a typo for Curzon); polarity read from
+  a warning about Kemal's policies.
+node: Westminster on the Turkish Dictator, 1924–1938
+sources:
+  - url: https://hansard.parliament.uk/Lords/1924-05-14/debates/e7ad5ce0-cd8d-45ca-b56c-4c17c92785f0/Persia
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard-api.parliament.uk/search/contributions/Spoken.json (contribution
+    aab4983d-02b5-42f0-84cf-76f143c168be), Lords 1924-05-14 Persia, 'THE MARQUESS QUEZON OF KEDLESTON' [sic]
+  method: api
+  note: >-
+    Hostile polarity mild: warning about Kemal's policy lines; praise of 'purely national' policy refers to
+    Reza Khan.
+  checked_on: "2026-10-29"

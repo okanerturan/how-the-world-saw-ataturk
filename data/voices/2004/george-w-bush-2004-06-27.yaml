@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: george-w-bush-2004-06-27
+voice: George W. Bush
+voice_type: person
+role: President of the United States; entry in the Anıtkabir special book
+country: United States
+country_now: United States
+domain: politics
+date: "2004-06-27"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: quote
+evidence: J
+summary: >-
+  Says Atatürk, leading with reform, founded a Turkey with democracy on equal rights, a shining example;
+  Americans share Turkish admiration.
+quote:
+  text: >-
+    Türk insanının Atatürk'e gösterdiği saygı ve hayranlığını paylaşıyoruz. Atatürk, reformculuğa önderlik
+    ederek eşit haklara dayalı demokrasiye sahip Türkiye'yi parlayan bir örnek olarak kurdu.
+  is_translation: true
+  language: tr
+mediated_by: Hürriyet (Turkish translation of the entry); Yeni Mesaj paraphrase
+caveat: >-
+  Hürriyet ('Çok duygulandım') prints the full Turkish text; Yeni Mesaj of 28.06.2004 (probably from the same
+  agency report) only paraphrases ('eşit haklar ve laik bir demokrasiye dayalı parlayan bir örnek'). The
+  English original is not located; Turkish Wikipedia's visitor list dates the visit 27 June, the press says
+  the morning after Bush arrived in Ankara (the Istanbul NATO summit followed). Courtesy text on the eve of
+  the Istanbul NATO summit. Date corrected at check: Hürriyet filed at 01:50 on 28 June and a 28 June press
+  review says the visit was 'yesterday'. Yeni Mesaj paraphrases the same agency report (not independent).
+node: Leaders in the Anıtkabir Special Book, 2004–2025
+sources:
+  - url: https://www.hurriyet.com.tr/gundem/cok-duygulandim-236952
+  - url: https://www.yenimesaj.com.tr/anitkabir-ozel-defterini-cia-kalemiyle-imzaladi-H1100793.htm
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Hürriyet 28 Jun 2004 01:50 (Uğur Ergan); Yeni Mesaj 28.06.2004; turkishpress.com/21725 (English press
+    review of 28 Jun 2004)
+  method: >-
+    tools/ms fetch (free) of the cited page, fresh, 3 Nov 2026; independent checker; 1 paid search for the
+    English
+  note: >-
+    Quote verbatim in Hürriyet. DATE WRONG: Hürriyet was filed at 01:50 on 28 Jun reporting the visit as done,
+    and the English press review of 28 Jun says the Bushes visited 'yesterday', so the entry is 2004-06-27,
+    not 06-28. Yeni Mesaj is only a paraphrase of the same agency report (not independent). English as printed
+    in a Turkish press review (itself a translation): 'I am proud to be here. We share the Turkish people's
+    respect and admiration for Ataturk. Ataturk established Turkey as a shining example with its democracy
+    based on equal rights through pioneering...'. Correction: date -> 2004-06-27.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 15)
+  checked_on: "2026-11-03"

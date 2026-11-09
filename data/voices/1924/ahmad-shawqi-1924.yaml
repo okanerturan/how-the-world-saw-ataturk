@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ahmad-shawqi-1924
+voice: Ahmad Shawqi
+voice_type: person
+role: Egyptian 'Prince of Poets'
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1924"
+era: contemporary
+polarity: conflicted
+intensity: 3
+artifact: poem
+evidence: P
+summary: >-
+  Mourns the abolished Caliphate, rejects calling the Ghazi an apostate, and urges him to take advice and
+  reverse course.
+quote:
+  text: >-
+    Shall I say that he who revived the community is an apostate, and that he who restored rights is a
+    libertine?
+  language: en
+caveat: >-
+  Date inferred from the abolition; editor's note wrongly says 1923. Quote is the note author's English
+  translation of the Arabic original, which the note prints.
+node: Shawqi's Two Poems on the Ghazi, 1922–1924 (al-Shawqiyyat)
+sources:
+  - url: https://archive.org/details/elshandawily1184
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA elshandawily1184 (al-Shawqiyyat j.1) page image printed p.107
+  method: >-
+    page image read; Arabic 'a-aqulu man ahya al-jama'a mulhid / wa-aqulu man radd al-huquq ibahi' present,
+    translation faithful; editor note 7 glosses al-Ghazi = Mustafa Kemal
+  checked_on: "2026-10-29"

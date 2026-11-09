@@ -1,0 +1,34 @@
+# Turkish for data/voices/1921/king-1921-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: king-1921-12
+voice: William H. King
+role: ABD Utah Senatörü (Demokrat)
+quote: >-
+  Mustafa Kemal'in kanlı ellerini durdurmak için Türkiye dışındaki güçler tarafından bazı adımlar atılmadıkça,
+  tek suçları Hristiyan olmak olan bu talihsiz insanlar için hiçbir kurtuluş umudu yok gibi görünmektedir
+quote_kind: translated
+summary: >-
+  Pontus Rumları karar tasarısını sunarken, 'Mustafa Kemal'in kanlı ellerini' yalnızca dış gücün
+  durdurabileceğini söylüyor.
+caveat: >-
+  Senato'daki kendi sözleri; bunlarla birlikte tutanağa geçirdiği kararlar, Ekümenik Patrikhane açıklamaları
+  ('tyrant of Asia Minor') ve kitlesel miting metinleri dahil edilmemiştir. Hassas konu (Pontus Rumları,
+  1919-23): konuşma arşivin değil, King'in savunuculuğu ve kendi çerçevelemesidir. Suçlamayı 2 Şubat 1922'de
+  (s. ~2048) tekrarlar. Sayfa numarası OCR üstbilgilerinden alınmıştır; tarama iki sütunludur. Kaynak: Senato,
+  22 Aralık 1921, Congressional Record c. 62 (ciltli), s. ~691 (granül CRECB-1922-pt1-v62-16-1).
+verification_note: >-
+  Birebir ('bloody hands of Mustapha Kemal'); karar tasarıları ve patrikhane metinlerinden sonra kendi Pontus
+  Rumları açıklamasını sunarken kullandığı King'in kendi sözleri. Kemal hakkındaki kendi görüşü; düşmanca,
+  yoğunluk 2 uygun. Hassas konu: tarafsız olgu değil, King'in çerçevelemesi. Sayfa numarası çıkarımla
+  bulunmuştur (yalnızca 688 ve 694 numaralı OCR üstbilgileri mevcut).
+verification_method: govinfo ciltli baskı granülünün pdftotext -layout çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b682bb51e8f1
+  role: e09c5eebab3c
+  quote: fcedc9dffbe3
+  summary: bd36d51db57e
+  caveat: e85988aed787
+  verification_note: 911a3a12dcd6
+  verification_method: bcff62915140

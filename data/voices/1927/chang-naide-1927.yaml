@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: chang-naide-1927
+voice: Chang Naide (常乃惪, Chang Yansheng)
+voice_type: person
+role: Chinese historian and journalist, Youth Party (Xingshi) ideologue
+country: China
+country_now: China
+domain: politics
+date: "1927"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: internal-mirror
+artifact: article
+evidence: S
+summary: >-
+  Cites General Kemal's one victory over Greece as quick national revival, then argues China's vast size makes
+  that path a dream.
+quote:
+  text: 如同基玛尔将军，一战胜了希腊，便可统一土耳其而复兴旧业
+  translation: >-
+    as with General Kemal, who by winning one battle against Greece could unify Turkey and restore the old
+    enterprise
+  language: zh
+caveat: >-
+  Cited as Xingshi Zhoubao (醒獅週報), serial 'Lianzhi jiuguo de buzhou', from Oct 1927 (Wikisource note),
+  Wikisource page '聯治救國的步驟'. Wikisource transcription (marked textquality 50%, simplified characters) of a
+  long serial on federal self-government; the header names the author 常乃惪 and the notes cite Wei Xiumei's
+  study identifying him with 常燕生 and the serial's appearance in Xingshi from Oct 1927. The exact issue is not
+  given, so the date is year-only. Kemal is a foil for Chinese warlordism, not admired or criticised in
+  himself: the sentence continues that Chinese conditions are far larger and different.
+node: Kemal in the Chinese Peasant and Federalist Debates, 1923–1927
+sources:
+  - url: https://zh.wikisource.org/wiki/%E8%81%AF%E6%B2%BB%E6%95%91%E5%9C%8B%E7%9A%84%E6%AD%A5%E9%A9%9F
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chinese Wikisource raw page '聯治救國的步驟' (header author 常乃惪, year 1927, from 醒獅週報)
+  method: >-
+    fetched action=raw with User-Agent, exact match of the Chinese quote, read the sentence in full and the
+    header
+  note: >-
+    Quote verbatim in simplified characters, inside
+    '我们通常看见欧洲各国的革新运动,都是一呼百应...如同基玛尔将军,一战胜了希腊,便可统一土耳其而复兴旧业,因此以为中国的国事也是如此简单易决,殊不知中国全国大于...不知若干倍...故于此时而犹作武力统一之梦,殆真可谓为梦想'.
+    Header gives year 1927 and no month/day; the Japanese notes (Wei Xiumei) say the serial began in Oct 1927
+    and ran irregularly, so year-only is the correct precision (a later instalment could in principle fall in
+    1928, but the page itself says 1927). Translation faithful; instrumental / 1 and 'foil' reading fair;
+    what_they_saw 21 words. Identification of 常乃惪 with 常燕生 rests on the page's own notes (Wei Xiumei), not on
+    a byline. Schema OK.
+  checked_on: "2026-11-03"

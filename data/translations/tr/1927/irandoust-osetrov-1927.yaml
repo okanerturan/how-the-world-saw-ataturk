@@ -1,0 +1,31 @@
+# Turkish for data/voices/1927/irandoust-osetrov-1927.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: irandoust-osetrov-1927
+voice: Vladimir Osetrov ('Irandoust')
+role: Türkiye ve İran üzerine çalışan Sovyet tarihçi
+quote: >-
+  Kemalizmin geleceği anti-emperyalist karakterine bağlıdır; aksi takdirde emperyalizmle olası bir uzlaşma,
+  Kemalizmin ve programının krizi anlamına gelecektir.
+quote_kind: translated
+summary: >-
+  Kemalizmi devrimci ve karşı-devrimci yönleri bulunan, anti-emperyalist kalmaya bağımlı özgün bir kitle
+  devrimi olarak nitelendirdi.
+caveat: >-
+  Ter-Matevosyan'dan yapılan blog alıntıları aracılığıyla aktarılmıştır; parti basınındaki özgün metin
+  okunmamıştır.
+mediated_by: Ter-Matevosyan (2015 makale/kitap), blog alıntıları üzerinden
+verification_note: >-
+  Ter-Matevosyan'dan yapılan blog alıntısında sözcüğü sözcüğüne aynı; 1927 tarihli özgün parti basını metni ve
+  tandfonline makalesi okunmamıştır.
+verification_method: kaynak getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fdb7f99fe8e1
+  role: fedda46af9a8
+  quote: b480d6c2a698
+  summary: 501d9d9650d2
+  caveat: 7bc972830465
+  mediated_by: 3159e337c381
+  verification_note: 21e89809ff39
+  verification_method: ad8cee67138e

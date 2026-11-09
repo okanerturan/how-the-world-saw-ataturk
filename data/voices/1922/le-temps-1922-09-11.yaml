@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-temps-1922-09-11
+voice: Le Temps
+voice_type: press
+role: Paris semi-official daily
+country: France
+country_now: France
+domain: press
+date: "1922-09-11"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Answered the Evening Standard that Kemal and his staff officers are not 'uncultured peasants', citing
+  Townshend on Angora's industrial effort.
+quote:
+  text: Moustapha Kemal et ses officiers d'étatmajor ne sont pas des « paysans incultes »
+  language: fr
+caveat: >-
+  View 1. Leading words of the sentence ('On pourrait répondre aux insinuations de l'Evening Standard que')
+  are partly garbled in OCR. Gallica ContentSearch fragment, OCR copied as given; view number is Gallica's,
+  not necessarily the printed page.
+node: Paris Dailies on Kemal's Victory, 11–17 September 1922
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k2448592
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica ContentSearch ark bpt6k2448592 (PAG_1)
+  method: ms fetch ContentSearch
+  note: >-
+    Quote verbatim in OCR fragment (Evening Standard / Townshend context present). Issue date not
+    independently confirmed beyond 9-10 Sept dispatches on PAG_4.
+  checked_on: "2026-10-30"

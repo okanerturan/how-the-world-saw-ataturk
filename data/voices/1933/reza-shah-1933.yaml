@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: reza-shah-1933
+voice: Reza Shah Pahlavi
+voice_type: person
+role: Shah of Iran
+country: Iran
+country_now: Iran
+domain: diplomacy
+date: "1933"
+era: contemporary
+polarity: instrumental
+intensity: 1
+mirror: nation-forge-template
+artifact: quote
+evidence: S
+summary: >-
+  Tells the Turkish ambassador he very much wants to meet Gazi, and means to visit him with the crown prince
+  in spring 1934.
+quote:
+  text: >-
+    Sizin söylediğinize göre Gazi Hazretleri benimle görüşmek istemektedirler. Bende kendileri ile görüşmeyi
+    son derece arzu etmekteyim.
+  language: tr
+mediated_by: >-
+  Atuk, ÇTTAD XVII/35 (2017), p. 232 ← Hüsrev Gerede, Siyasi Hatıratım 1: İran (Vakit, 1952), p. 265
+  (ambassador's memoir)
+caveat: >-
+  Reported in the ambassador's memoir, not a text of the Shah's own; Atuk places it 'early 1933'. Diplomatic
+  courtesy that states a wish to meet rather than a judgement. Translation: 'According to what you tell me,
+  His Excellency Gazi wants to meet me. I too very much wish to meet him.'
+node: Interwar Leaders on Kemal in Their Own Words
+sources:
+  - url: https://ataturkilkeleri.deu.edu.tr/wp-content/uploads/2018/03/M.-Volkan-ATUK.pdf
+    archived: https://web.archive.org/web/20210227204247/https://ataturkilkeleri.deu.edu.tr/wp-content/uploads/2018/03/M.-Volkan-ATUK.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Atuk, ÇTTAD XVII/35 (2017), p. 232 and fn 57 (ataturkilkeleri.deu.edu.tr PDF)
+  method: tools/ms free fetch of the PDF; located the quote, page header 232 and fn 57
+  note: >-
+    Verbatim on p. 232: 'Sizin söylediğinize göre Gazi Hazretleri benimle görüşmek istemektedirler. Bende
+    kendileri ile görüşmeyi son derece arzu etmekteyim. 1934 yılı ilkbaharında oğlum veliahtı ve Gazi
+    Hazretlerini görmeye kararlıyım.' Atuk introduces it as Gerede (ambassador in Tehran) expressing in early
+    1933 the Shah's wish to visit; fn 57 = Gerede, Siyasi Hatıratım 1 İran, Vakit 1952, p. 265. The memoir
+    itself was not read; the Persian-to-Turkish rendering is Gerede's. Record's mediated_by and caveat are
+    accurate. No correction needed (optionally: say the words are the ambassador's Turkish rendering of the
+    Shah).
+  checked_on: "2026-11-01"

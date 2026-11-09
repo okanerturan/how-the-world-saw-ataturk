@@ -1,0 +1,21 @@
+# Turkish for data/voices/1922/ameer-ali-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ameer-ali-1922
+voice: Ameer Ali
+role: Hintli Müslüman lider
+summary: >-
+  1922'de seçilmiş meclise dayalı hilafete geçiş konusunda ihtiyatlı bir iyimserlik içindeydi.
+mediated_by: Zaman (Brill böl.)
+verification_note: >-
+  Zaman, Ameer Ali'nin 1922 değişikliği (cumhuriyetçi hilafet, seçim) konusunda 'cautiously optimistic'
+  olduğunu söylüyor; Mustafa Kemal doğrudan nesne değil
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 29771c686955
+  role: 01b74bc0ebb6
+  summary: 39f921776446
+  mediated_by: ec82eb035f59
+  verification_note: 2e0ad9619128
+  verification_method: ad8cee67138e

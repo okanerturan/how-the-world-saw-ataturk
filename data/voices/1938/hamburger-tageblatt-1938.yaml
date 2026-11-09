@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hamburger-tageblatt-1938
+voice: Hamburger Tageblatt
+voice_type: press
+role: Nazi Hamburg daily
+country: Germany
+country_now: Germany
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: volkisch-purifier
+artifact: article
+evidence: P
+summary: >-
+  Obituary of 10 Nov 1938 (p. 2, 'From Rebel to Father of the Turks') admiring his national revitalization
+  (army, education, veil, Latin alphabet); GHDI pairs it with an essay attributed to him, 'The Leader and His
+  People', from a separate issue of 10 Dec 1938 (pp. 1-2).
+mediated_by: GHDI curated translation
+caveat: >-
+  Corrected 2026-10-29: the essay is dated 10 Dec 1938, not printed with the obituary. Essay is attributed to
+  Atatürk; GHDI frames it as Nazi leadership doctrine per Ihrig.
+node: Hamburger Tageblatt, November 1938
+sources:
+  - url: https://germanhistorydocs.org/en/nazi-germany-1933-1945/admiration-for-atatuerk-turkeys-leader-1938
+    archived: https://web.archive.org/web/20260317131410/https://germanhistorydocs.org/en/nazi-germany-1933-1945/admiration-for-atatuerk-turkeys-leader-1938
+verification:
+  verdict: partial
+  checked_against: >-
+    https://germanhistorydocs.org/en/nazi-germany-1933-1945/admiration-for-atatuerk-turkeys-leader-1938
+  method: fetch
+  note: >-
+    Obituary (10 Nov 1938 p.2, 'Vom Rebell zum Vater der Tuerken') confirmed incl. veil and Latin alphabet;
+    but the essay 'Fuehrer und Volk' is dated 10 Dec 1938 pp.1-2, a separate issue, not printed with the
+    obituary
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

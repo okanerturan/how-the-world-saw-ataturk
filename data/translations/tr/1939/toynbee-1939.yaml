@@ -1,0 +1,39 @@
+# Turkish for data/voices/1939/toynbee-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: toynbee-1939
+voice: Arnold J. Toynbee
+role: Britanyalı tarihçi, A Study of History
+quote: Gazi kendine bir kahramandan başkasının başa çıkamayacağı bir görev biçti
+quote_kind: translated
+summary: >-
+  Atatürk'ün Türkçeyi Arapça ve Farsça kelimelerden arındırmasını 'bir kahramandan başkasının başa
+  çıkamayacağı' bir görev ve kendisini 'üçüncü Osmanlı kurtarıcısı' olarak nitelendirir.
+caveat: >-
+  A Study of History c. VI (Oxford UP, 1939; tarama in.ernet.dli.2015.208032), 'The Disintegration of
+  Civilizations', s. 68 (dil devrimi). Toynbee yöntemi eleştirmekten geri durmaz: Mustafa Kemal'in, oluşacak
+  boşluğun Türkleri kendi işlerini yapmaya zorlayacağı hesabıyla 'had evicted from Turkey an old-established
+  and apparently indispensable Greek and Armenian middle class' der ve dilde tasfiyeyi de aynı ilke
+  çerçevesinde ele alır ('what an astonishing intellectual stimulus can be given to mentally sluggish peoples
+  (such as his Turks and our English are)'). Aynı cilt, s. 222: 'A totalitarian Westernizer was needed ... in
+  our own day this third Ottoman saviour has appeared in the person of President Mustafa Kemal Ataturk.' Cilt
+  1939'da yayımlanmış ve Atatürk'ün ölümünden önce yazılmıştır; tarih ve dönem yayını esas alır. Temkinli bir
+  dil taşıyan mevcut 1922 kaydına (Western Question) ek niteliğindedir. Hassas konu (Rum ve Ermeni nüfuslar):
+  Toynbee'nin çerçevelemesi arşivin değil, kendisinin görüşü olarak kaydedilmiştir. Kontrol aşamasında
+  kutupsallık çelişkili: aynı sayfa yöntemle alay eder ve Türkleri 'mentally sluggish' olarak nitelendirir.
+verification_note: >-
+  s. 68'de birebir (öncesinde '68 THE PROCESS OF DISINTEGRATION' üst başlığı yer alır): 'the Ghazi set himself
+  a task with which none but a hero could grapple'. 'Third Ottoman saviour' ifadesi s. 222'dedir (s. 68'de
+  değil; kayıt ikisini birleştirmektedir). 'admiring' kutupsallığı tartışmalıdır: aynı sayfa yöntemi Rum ve
+  Ermeni orta sınıfının sürülmesi, Türkleri 'mentally sluggish' ve tasfiyeyi ise 'awe-inspiring spectacle'
+  olarak adlandırır. 'Conflicted' daha yerinde olurdu.
+verification_method: Açık djvu metninin curl ile çekimi, bağlam içinde okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9d504ed5aa33
+  role: 818e7d4dfab4
+  quote: b8e12c7817d7
+  summary: afd3e070016b
+  caveat: 3dc0802ac2b6
+  verification_note: a4ec948fb20d
+  verification_method: fc5e0bd9a728

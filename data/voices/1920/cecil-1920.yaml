@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cecil-1920
+voice: Lord Robert Cecil MP
+voice_type: person
+role: Commons question, Cilicia massacres
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-03-11"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Pressed the Government to concede that Kemal was in close contact with the Constantinople War Ministry,
+  tying him to the massacres.
+quote:
+  text: >-
+    not the fact that Mustapha Kemal Pasha has been in constant and close communication with the Turkish
+    Ministry of War
+  language: en
+caveat: A supplementary question; the view is implied, not stated.
+node: Kemal in the Commons, Variant Spellings, 1920–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-03-11/debates/9ee65e95-7cee-44ac-bedf-15196dd1bb46/CiliciaMassacres
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API Spoken.json 1920-03-11 (Lord R. Cecil, Cilicia Massacres)
+  method: Hansard API full text
+  note: >-
+    Quote verbatim ('la it not the fact that Mustapha Kemal Pasha ...'); implied-view caveat is fair.
+  checked_on: "2026-10-30"

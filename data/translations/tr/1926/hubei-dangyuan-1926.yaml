@@ -1,0 +1,23 @@
+# Turkish for data/voices/1926/hubei-dangyuan-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hubei-dangyuan-1926
+voice: 湖北一黨員 (Hubeili bir parti üyesi, takma ad)
+role: Sağ kanat KMT yazarı, Chinese KMT Weekly
+quote: Türkiye'de General Kemal'in icraatları, Komünist Partisi'nin en çok korktuğu şeydir
+quote_kind: translated
+summary: >-
+  Türkiye'de Kemal'in Komünistlere karşı aldığı önlemlerin Komünistlerin en çok korktuğu şey olduğunu söyledi
+  ve onu Kuzey Seferi için Kızıl karşıtı bir emsal olarak kullandı.
+caveat: Takma adlı; yalnızca yıl belirtilmiş (sayfadaki PDF adı 1926年2卷6期).
+verification_note: Tam cümle; sayfa üstbilgisinde yalnızca yıl yer alıyor, sayfa metninde sayı numarası yok.
+verification_method: ms getirme, Wikisource ayrıştırma
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 29167a9863a6
+  role: 3b857a713e17
+  quote: b25c0838f621
+  summary: b76d94c7da74
+  caveat: a23f3d8ff719
+  verification_note: 6847cd202fd6
+  verification_method: 34e4baae05a2

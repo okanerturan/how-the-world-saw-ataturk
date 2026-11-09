@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/petre-ghiat-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: petre-ghiat-1938
+voice: Petre Ghiat
+role: Rumen tarihçi
+summary: >-
+  Onu tarihte eşi benzeri olmayan bir savaş, siyaset ve komuta ustası olarak nitelendirdi ve amblemi olarak
+  Bozkurt'u kullandı.
+caveat: >-
+  Toksoy kitabın yayım tarihini vermemektedir (1938 doğrulanmış bir tarih değil, kartın tarih aralığıdır);
+  Bozkurt amblemi Toksoy'un önsöze dair aktarımına dayanır; kitap Türkçe başlığıyla anılmaktadır.
+mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
+verification_note: >-
+  1938 tarihi Toksoy tarafından verilmemiştir; "used the Grey Wolf as his emblem" ifadesi yalnızca kitap
+  başlığından (Bozkurt Gazi...) çıkarılmıştır.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 38f8a2aad15c
+  role: a7898feb22af
+  summary: d3b5cb6dfc06
+  caveat: 4905ef03b5ae
+  mediated_by: 374a97c5054a
+  verification_note: fb67e23f0bff
+  verification_method: 939bb46a04c3

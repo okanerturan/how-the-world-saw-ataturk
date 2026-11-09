@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: imam-yahya-1920
+voice: Imam Yahya of Yemen
+voice_type: person
+role: Zaydi imam, first king of independent Yemen
+country: Yemen
+country_now: Yemen
+domain: diplomacy
+date: "1920"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: telegram
+evidence: S
+summary: >-
+  Wrote to Faisal expressing satisfaction at his cooperation with Mustafa Kemal and stressing cooperation
+  against the Westerners.
+mediated_by: Polat 2017 ← Öke & Karaman
+caveat: >-
+  Survives only in paraphrase; letter dated around 1920-21 and probably prompted by Mahmud Nedim Bey; no
+  direct Yahya statement on Atatürk 1924-38.
+node: Imam Yahya of Yemen
+sources:
+  - url: https://atamdergi.gov.tr/eng/full-text-pdf/20/tur
+    archived: https://web.archive.org/web/20240921003353/https://atamdergi.gov.tr/eng/full-text-pdf/20/tur
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://atamdergi.gov.tr/eng/full-text-pdf/20/tur (Turkish PDF, Yahya-Faysal letter passage)
+  method: fetch
+  note: >-
+    Source says 'mektup' (letter), not telegram; dated only 'in this period' (Faisal Iraq king Mar 1921);
+    'probably at Mahmud Nedim Bey's urging' matches.
+  checked_on: "2026-10-29"

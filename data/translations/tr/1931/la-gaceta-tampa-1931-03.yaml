@@ -1,0 +1,27 @@
+# Turkish for data/voices/1931/la-gaceta-tampa-1931-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: la-gaceta-tampa-1931-03
+voice: La Gaceta (Tampa)
+role: İspanyolca günlük gazete, Tampa, Florida (puro işçisi okur kitlesi)
+quote: Cumhuriyet bu konuda ortadan kalkmış saltanatı taklit ediyor.
+quote_kind: translated
+summary: >-
+  Sütun yazısı, Kemal'in dervişleri ve gizli tarikat mensuplarını astığını, tıpkı saltanatın yaptığı gibi
+  hükümet düşmanlarını asma yönündeki eski geleneği sürdürdüğünü söylüyor.
+caveat: >-
+  Önceki satırların OCR'ı hasarlıdır ('Keraal Pasha', çift yazılmış kelimeler); alıntılanan cümle temizdir.
+  İmzasız.
+verification_note: >-
+  Tam cümle; bağlam 'Kemal sostiene ... anorcar a los enemigos del gobierno', dervişlerin asılması; önceki
+  satırların OCR'ı belirtildiği gibi hasarlıdır.
+verification_method: loc.gov JSON + karo OCR
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1af7128c59ed
+  role: ec3228434984
+  quote: 2e969d53685b
+  summary: 7c78fa61d299
+  caveat: f4830185d50d
+  verification_note: b76a6a6ad700
+  verification_method: 363638f20035

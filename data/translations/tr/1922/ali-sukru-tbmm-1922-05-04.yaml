@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/ali-sukru-tbmm-1922-05-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ali-sukru-tbmm-1922-05-04
+voice: Ali Şükrü Bey
+role: Trabzon milletvekili; Birinci Meclis muhalefeti
+quote: >-
+  Şahıs ile kaim değildir ki bendenizce Reis Paşa Hazretlerinin de Başkumandanlıkta kalması lâzımdır.
+quote_kind: original-turkish
+summary: >-
+  Kemal'in sonuna kadar Başkomutan olarak kalması gerektiğini savundu, ancak ödünç verilen yasama yetkilerini
+  haklı kılan olağanüstü durumun geçtiğini ileri sürdü.
+caveat: >-
+  Kaynak: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, Gizli celse, 4 Mayıs
+  1338 (1922), s. 375. 27 Mart 1923'te Ankara'da öldürüldü; bu olay burada tartışılmamaktadır.
+verification_note: ""
+verification_method: >-
+  pdftotext; alıntı s. 375'in üst kısmında birebir yer alıyor (öncesinde 373/374 işareti var); komutanlığın
+  sonuna kadar gerekli olduğunu ve ödünç verilen yetkilerin ardındaki olağanüstü durumun geçtiğini söylüyor
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8de0711534a5
+  role: 025e0e48b985
+  quote: 96b3894a3c86
+  summary: 35b2f3491b47
+  caveat: edb33f8d02c2
+  verification_note: da39a3ee5e6b
+  verification_method: 6241b4b0ba0e

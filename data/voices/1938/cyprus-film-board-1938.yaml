@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cyprus-film-board-1938
+voice: Cyprus film censorship board
+voice_type: institution
+role: Colonial censorship body, British Cyprus
+country: Cyprus (British colony)
+country_now: Cyprus
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: policy
+evidence: P
+summary: >-
+  Banned the film of Atatürk's funeral in 1938; the Colonial Secretary said he could not say what reasons
+  guided the board.
+caveat: >-
+  Reason for the ban is unrecorded in Hansard; Foot's question asserts the ban, MacDonald does not contest it.
+node: Hansard After Atatürk, 1938–1939
+sources:
+  - url: https://hansard.parliament.uk/Commons/1939-05-03/debates/404d30b1-1af8-4697-90bf-a635daa96e47/CyprusPressAndFilmCensorship
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://api.parliament.uk/historic-hansard/commons/1939/may/03/cyprus-press-and-film-censorship (Qs 41,
+    Foot/MacDonald)
+  method: fetch
+  note: >-
+    MacDonald said he is 'unable to say what reasons may have guided them'; board is mixed
+    official/non-official. Hansard.parliament.uk page was bot-blocked.
+  checked_on: "2026-10-29"

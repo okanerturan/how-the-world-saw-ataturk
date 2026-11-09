@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/todor-pavlov-kojuharov-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: todor-pavlov-kojuharov-1938
+voice: Todor Pavlov Kojuharov
+role: Bulgar günlük gazetesi Slovo'nun müdürü (1926-44); 1935 Ulaştırma Bakanı
+summary: >-
+  Slovo'nun müdürü sıfatıyla, başarıları 'mucizeler' olan muazzam güçte bir çağdaş olarak Atatürk'e bir saygı
+  yazısına imza attı.
+caveat: >-
+  29 Ekim 2026'da düzeltildi: Toksoy'da Slovo yazısı Kojuharov imzalıdır; Mir yazısı ise 'Pavlov, eski
+  Bulgaristan Ankara büyükelçisi' imzasını taşır ve bunun aynı kişi olup olmadığı tespit edilmemiştir. Önceki
+  kayıt ikisini birbirine karıştırmıştı.
+mediated_by: Toksoy 2010 ← dönemin Türk basını
+verification_note: >-
+  Toksoy: Todor Pavlov Kojuharov Slovo'daki yazıyı (müdür olarak) imzalamıştır; Mir'deki yazı 'Pavlov, eski
+  Bulgaristan Ankara büyükelçisi' imzalıdır. Kayıtta gazetenin Mir olduğu belirtilmiş
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c3992008725d
+  role: af4ddc6f656d
+  summary: 3804e1b11839
+  caveat: 465491d229bc
+  mediated_by: cbd2d5826b83
+  verification_note: ac627d6e1597
+  verification_method: 939bb46a04c3

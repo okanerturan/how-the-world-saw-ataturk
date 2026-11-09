@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/von-neurath-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: von-neurath-1938
+voice: Konstantin von Neurath
+role: Alman sandalyesiz bakan; Hitler'in cenaze elçisi
+summary: >-
+  Atatürk'ün defin töreninde Reich heyetine başkanlık etti; bir nezaket ziyareti olarak Parti mensubu bir isim
+  yerine eski ekol bir diplomatın gönderildiği yönündeki yorum kaynaklı bir ifade değil, arşivin çıkarımıdır.
+caveat: >-
+  'instrumental' kutupluluğu ve 'courtesy call' okuması çıkarımdır; hiçbir kaynak bunları belirtmez.
+verification_note: >-
+  Neurath Alman heyetine başkanlık etti (doğrulandı); 'courtesy call rather than a Party figure' çıkarımdır,
+  hiçbir kaynak bunu belirtmez. Kayıtta listelenmiş kaynak yoktur.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0d402103374d
+  role: 568b0af99a40
+  summary: 1eef84ba4623
+  caveat: d36231e961e7
+  verification_note: 25e8116be6a1
+  verification_method: 939bb46a04c3

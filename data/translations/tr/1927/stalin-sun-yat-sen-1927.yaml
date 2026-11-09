@@ -1,0 +1,31 @@
+# Turkish for data/voices/1927/stalin-sun-yat-sen-1927.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: stalin-sun-yat-sen-1927
+voice: Joseph Stalin
+role: SBKP(b) Genel Sekreteri
+quote: >-
+  Kemalist bir devrim, yabancı emperyalistlere karşı bir mücadele içinde ortaya çıkan ve sonraki gelişimi esas
+  olarak köylülere ve işçilere, bizzat bir tarım devrimi olasılığına karşı yönelen bir üst tabaka devrimi,
+  ulusal ticaret burjuvazisinin bir devrimidir.
+quote_kind: translated
+summary: >-
+  Kemalist devrimi, ulusal ticaret burjuvazisinin köylülere ve işçilere karşı yönelmiş ve Çin için uygun
+  olmayan bir üst tabaka devrimi olarak tanımladı.
+caveat: >-
+  Bakış kişisel olarak Mustafa Kemal'e değil, Çin için karşıt bir örnek olarak kullanılan bir tip olarak 'the
+  Kemalist revolution' kavramına yöneliktir.
+verification_note: >-
+  Alıntı birebir aynı. Şerhte belirtildiği gibi bir tip olarak 'Is a Kemalist revolution possible in China?'
+  sorusuna yanıt olarak söylenmiştir; bunun yalnızca Türkiye, İran ve Afganistan'da mümkün olduğunu belirtir.
+  Bu tipe yönelik 'hostile' kutupluluğu yerindedir.
+verification_method: Serbest erişimle getirildi; cümle bulundu; tarih sayfadaki H5 başlığından alındı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5d0cc0db01de
+  role: ca96dd53a6c5
+  quote: d595c3f61d47
+  summary: 233d5f6ae918
+  caveat: be41a411f1c3
+  verification_note: 9d843e84bb73
+  verification_method: 68d7b29971ae

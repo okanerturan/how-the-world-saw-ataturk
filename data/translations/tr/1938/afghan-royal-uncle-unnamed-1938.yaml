@@ -1,0 +1,21 @@
+# Turkish for data/voices/1938/afghan-royal-uncle-unnamed-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: afghan-royal-uncle-unnamed-1938
+voice: Afgan kraliyet amcası (adı belirtilmemiş)
+role: Kralın amcası, Afgan delege
+summary: >-
+  Cenazeye gönderilen yabancı özel heyetler arasında adı geçti; herhangi bir görüş belirtilmedi.
+caveat: Adı bilinmiyor; sürgündeki Amanullah hazır bulunmuyordu.
+mediated_by: Havas/Reuter telgrafları (Delpher), 17 Kasım 1938
+verification_note: Ajans haberi tarihi olan 17 Kasım okunan OCR metninde görünmüyor; cenaze 21 Kasım.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0fc73c8e76e3
+  role: 39c5e3b7ab81
+  summary: 20c8245c15db
+  caveat: 1960f0696f70
+  mediated_by: 383926753fae
+  verification_note: 1908b45c9733
+  verification_method: 939bb46a04c3

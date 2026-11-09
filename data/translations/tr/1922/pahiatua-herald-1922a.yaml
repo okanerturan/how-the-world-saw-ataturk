@@ -1,0 +1,20 @@
+# Turkish for data/voices/1922/pahiatua-herald-1922a.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pahiatua-herald-1922a
+voice: Pahiatua Herald
+role: Wairarapa bölgesi akşam gazetesi, başyazı
+summary: >-
+  Ankara Hükümeti'ni İtilaf Devletleri'nin hatalarının ürünü olarak açıkladı ve Kemal ile takipçilerinin
+  Yunanları yenilgiye uğratıp Türkleri yeniden birleştirdiğini söyledi.
+caveat: >-
+  Türk davasına sempatiyle yaklaşan açıklayıcı başyazı; bizzat Kemal hakkında bir yargı yok, bu nedenle tanık
+  olarak kodlandı; OCR metni kusurlu (birebir alıntı alınmadı).
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b8ea402c5c12
+  role: f619b75b052f
+  summary: ec598bb7b620
+  caveat: c9042a18ef89
+  verification_method: ad8cee67138e

@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ledesma-ramos-1935
+voice: Ramiro Ledesma Ramos (as 'Roberto Lanzas')
+voice_type: person
+role: Spanish fascist ideologue, founder of the JONS
+country: Spain
+country_now: Spain
+domain: politics
+date: "1935-11"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: book
+evidence: S
+summary: >-
+  Counts Kemal among the contemporary 'national revolutions' of astonishing success beside Mussolini, Hitler
+  and Stalin, in contrast with Spain.
+quote:
+  text: >-
+    En nuestra época, es decir, en nuestros mismos días, las revoluciones nacionales se desarrollan también
+    con éxito pasmoso. Véanse estos nombres que las representan: Mussolini, Kemal, Hitler y -¿por qué no?-
+    Stalin.
+  translation: >-
+    In our age, that is, in our very days, national revolutions also develop with astonishing success. See
+    these names that represent them: Mussolini, Kemal, Hitler and - why not? - Stalin.
+  language: es
+caveat: >-
+  ¿Fascismo en España? by 'Roberto Lanzas' (Madrid, preface dated November 1935), a pseudonym of Ledesma Ramos
+  per the archive.org item title and the text's own account of La Conquista del Estado; p. 12 by the OCR's
+  footer sequence (chapter on the national revolution and the right). The same sentence appears in the 1942
+  Breviarios del Pensamiento Español anthology of Ledesma. A single listing, but it places Kemal in the
+  pantheon of successful nationalist revolutions. An earlier piece in La Conquista del Estado no. 23 (24
+  October 1931, author not shown) speaks of 'la victoria presente del Gasi' and how 'Mustafá Kemal supo
+  uncirse a la lejanía'; not recorded as Ledesma's.
+node: Latin Pens on Mustafa Kemal — Ortega Munilla, Ortega y Gasset, Gramsci and Ledesma Ramos
+sources:
+  - url: https://archive.org/details/1935-fascismo-en-espana-roberto-lanzas
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org 1935-fascismo-en-espana-roberto-lanzas djvu.txt (preface 'Madrid, noviembre de 1935'; item
+    title '(Ramiro Ledesma)')
+  method: fetched djvu text, string match, counted page footers
+  note: >-
+    Verbatim (line break only); translation faithful; page 12 confirmed (footer 11 precedes, 12 follows).
+    Preface dated November 1935. Pseudonym 'Roberto Lanzas' = Ledesma rests on the archive.org item title and
+    common knowledge, not on the book text. Evaluative ('éxito pasmoso'), so gaze OK at intensity 1.
+  checked_on: "2026-11-03"

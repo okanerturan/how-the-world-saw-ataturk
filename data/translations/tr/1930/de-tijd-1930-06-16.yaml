@@ -1,0 +1,22 @@
+# Turkish for data/voices/1930/de-tijd-1930-06-16.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-tijd-1930-06-16
+voice: De Tijd
+role: Katolik 'godsdienstig-staatkundig dagblad'
+quote: Ancak eleştiri istemiyor
+quote_kind: translated
+summary: >-
+  Türk gazeteciler hücrelerde gözden kaybolurken, Kemal'i eleştiri istemeyen bir diktatör olarak alaya aldı.
+caveat: >-
+  Alıntı, makalenin KB/Delpher OCR metninden kopyalanmıştır. Mizahi manzume Martin Berden imzalıdır; gazetenin
+  alt başlığı KB'ye aittir.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e5221f936cf6
+  role: 0567a42963b6
+  quote: 6172cbf6ca59
+  summary: 54bb1b10cbd8
+  caveat: 0f39860704d6
+  verification_method: ad8cee67138e

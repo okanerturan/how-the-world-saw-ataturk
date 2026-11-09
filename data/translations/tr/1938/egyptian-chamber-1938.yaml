@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/egyptian-chamber-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: egyptian-chamber-1938
+voice: Mısır Temsilciler Meclisi (Barakat)
+role: Mısır alt meclisi, başkanı Baha ed-Din Barakat
+quote: şanlı kahraman, daha büyük Türkiye'nin yenileyicisi ve yaratıcısı
+quote_kind: translated
+summary: >-
+  Onu şanlı bir kahraman, daha büyük Türkiye'nin yenileyicisi ve yaratıcısı olarak nitelendirdi.
+verification_note: Özgün metin Fransızca, İngilizce çeviri kayıtta işaretlenmemiş.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 537427d8698c
+  role: d0d162a84882
+  quote: 2b74b6462a2a
+  summary: 942364fa1c2a
+  verification_note: 6d63695ee416
+  verification_method: 939bb46a04c3

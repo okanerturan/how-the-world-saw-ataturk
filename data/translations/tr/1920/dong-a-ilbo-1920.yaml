@@ -1,0 +1,27 @@
+# Turkish for data/voices/1920/dong-a-ilbo-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dong-a-ilbo-1920
+voice: Dong-A Ilbo
+role: Kore ulusal hareketinin öncü gazetesi
+summary: >-
+  Kore'nin kaderine bir paralel olarak, hırslı bir devrimciden yeni ülkenin kurucusuna uzanan çizgide 'Kemal
+  Paşa'ya sıkça yer verdi.
+caveat: >-
+  Tarih yaklaşık olarak '1920'lerin başı'nı göstermektedir; SNU çalışmasının yazarı/yılı beklemede (LEDGER
+  satırı açık).
+mediated_by: SNU kurumsal arşiv çalışması (yazar/yıl bekleniyor)
+verification_note: >-
+  Yalnızca özet; Dong-A Ilbo'nun 'beginning of 1920s' döneminden itibaren Kemal Paşa'ya hırslı devrimci / yeni
+  ülkenin kurucusu olarak ve Kore ile paralellik kurarak sıkça yer verdiğini destekliyor. Yazar/yıl artık
+  netleşti: Kiran Sibel, 2012. 1920 tarihi yaklaşıktır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 192c794fc45f
+  role: 2b62e542946c
+  summary: e01970b77707
+  caveat: 9c130c9916d0
+  mediated_by: 5b068880c24f
+  verification_note: 200e4aca6c9c
+  verification_method: ad8cee67138e

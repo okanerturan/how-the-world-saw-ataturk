@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/morges-handels-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: morges-handels-1938
+voice: Morges Handels
+role: Norveç günlük gazetesi (muhtemelen Handels- og Sjøfartstidende)
+summary: Yeni Türkiye'nin, ona güvenli bir yol çizen yaratıcısı.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; kimlik tespitleri tahmine dayalıdır; yabancı
+  dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
+verification_note: >-
+  Toksoy: 'Morges Handels gazetesi' onu yeni Türkiye'nin, ona güvenli bir yol çizen yaratıcısı olarak
+  nitelendirdi; gazete tespiti bozulmuş (muhtemelen Morgenbladet/Handels- og Sjofartstidende), çözümlenmedi
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a565c6ba549f
+  role: f0ed544a1db7
+  summary: 34264c032431
+  caveat: 1d0053d25711
+  mediated_by: 272e58105c39
+  verification_note: d9f51b558f9f
+  verification_method: 939bb46a04c3

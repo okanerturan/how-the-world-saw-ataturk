@@ -1,0 +1,30 @@
+# Turkish for data/voices/1928/rashid-rida-manar-1928-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rashid-rida-manar-1928-01
+voice: Rashid Rida
+role: Selefi ilahiyatçı; al-Manar editörü
+quote: >-
+  Muhakeme ve basiret sahibi sosyologlar, Mustafa Kemal'in sıçramasının halkı için daha tehlikeli olacağını
+  hesap etmektedir
+quote_kind: translated
+summary: >-
+  Sosyologlar Kemal'in sıçramasını halkı için daha tehlikeli buluyor; eski bir devlet ölmeden önce parlar.
+caveat: >-
+  İmzasız; editör sıfatıyla Rida'ya atfedilmiştir. Alıntı, notta basılı olan Arapça özgün metnin not yazarı
+  tarafından yapılmış İngilizce çevirisidir.
+verification_note: >-
+  s. 785'te Afgan kralının şapkası hakkındaki bölümde Arapça metin mevcut; imzasız başyazı; çeviri sadık; eski
+  devletin parlaması pasajı mevcut; düşmanca tutum geçerli.
+verification_method: >-
+  curl ile tam IA PDF'i indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
+  künyeler/kapaklar oluşturuldu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8500544dcf5c
+  role: bb8d03d914df
+  quote: bc0866a69d4b
+  summary: a7fbe35b3b09
+  caveat: "8637421230e5"
+  verification_note: 8b26a2abd9cc
+  verification_method: 6190bebdb3a6

@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: podgorny-1965
+voice: Nikolay Podgorny
+voice_type: person
+role: Head of the Soviet parliamentary delegation
+country: Soviet Union
+country_now: Russia
+domain: diplomacy
+date: "1965-01-05"
+era: posthumous
+polarity: instrumental
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Recalls Atatürk's message of admiration for the Russian people and calls for a return to the good traditions
+  of the Lenin–Atatürk era.
+quote:
+  text: >-
+    Türk Milletinin önderi Kemal Atatürk, o zaman vuku bulan hâdiselerin azametini lâyıkıyla takdir etmişti.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 36 (printed p. 25). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "The leader of the Turkish nation, Kemal Atatürk, duly appreciated the magnitude of
+  the events that then took place." Podgorny goes on to quote Atatürk's message to the Soviet government and
+  his 1935 CHP congress remark on Soviet–Turkish friendship (PDF p. 38: 'Lenin ve Atatürk devrinde doğmuş olan
+  iyi geleneklere dönmek zamanı gelmiştir'). Serves a 1965 Soviet bid for better relations. Book heading:
+  'Sovyet Parlamento Heyeti Başkanı Nikolay Podgorni', 33. Birleşim, 5 Ocak 1965.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 36 (printed p. 25); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c36.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Sovyet Parlamento Heyeti Başkanı
+    Nikolay Podgorni, 33. Birleşim, 5 Ocak 1965'). Heading and quote on same page. The 'Lenin ve Atatürk
+    devrinde doğmuş olan iyi geleneklere dönmek zamanı gelmiştir' line is on PDF p. 38 as stated. Note the
+    praise in the quote is Podgorny's own wording; the Atatürk message to the Soviet government that follows
+    is Atatürk's words quoted by Podgorny.
+  checked_on: "2026-11-01"

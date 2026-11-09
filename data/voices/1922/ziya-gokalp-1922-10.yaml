@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ziya-gokalp-1922-10
+voice: Ziya Gökalp
+voice_type: person
+role: Sociologist and poet, theorist of Turkism; editor of Küçük Mecmua (Diyarbakır)
+country: Turkey (Ankara government)
+country_now: Turkey
+domain: letters
+date: "1922-10"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: internal-mirror
+artifact: poem
+evidence: S
+summary: >-
+  In verse petitions to the Gazi, hails him as genius and saviour from the Greeks, begging him to save Turks
+  from ignorance and backwardness.
+quote:
+  text: Sen dâhisin, buna çoktan inandık.. / Mefküresiz rehberlerden pek yandık..
+  language: tr
+mediated_by: >-
+  Kanbak (comp.), Ziya Gökalp (archive.org, 2025), pp. 20-21, 73-74 ← Devrim Yazarlarının Kalemiyle Milli
+  Mücadele ve Gazi Mustafa Kemal (Kültür Bakanlığı, 1981), p. 1020 ← Küçük Mecmua nos. 20-21 (Oct 1922);
+  dating by Cavit Orhan Tütengil, Türk Dili no. 302 (Nov 1976), repr. Kanbak pp. 72–74: Küçük Mecmua nos.
+  20–21, Oct 1922
+caveat: >-
+  TRANSLATION (this record's): 'You are a genius, we long believed it.. / We have suffered enough from guides
+  without an ideal..' Poem 'İstid'â — Gazi Paşa Hazretleri'ne', each stanza ending 'Kurtar bizi...!' (Save
+  us!), including from 'the Black Sultan' (Vahideddin). The essay reprinted in the same compilation dates the
+  two İstid'âs to Küçük Mecmua nos. 20 and 21 (October 1922). In the second ('İkinci İstid'â') Gökalp argues
+  against Kemal's stated wish to become a private citizen after the peace: 'Bu milletin hâli olur pek yaman, /
+  Kılavuzu olmazsa bir kahraman'. His 1923 Altın Işık adds 'Mustafa Kemal'dir baş kahramanı!'. Küçük Mecmua
+  itself not seen. Contact: the essay, citing E. B. Şapolyo, says Kemal summoned Gökalp to Çankaya, after
+  which Gökalp wrote Doğru Yol on the party's nine principles. The vault note's 'My flesh and bones belong to
+  my parents...' line is Kemal's saying about Gökalp, not Gökalp's gaze, and was not checked.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/ziya_gokalp_202510
+  - url: https://archive.org/download/ziya_gokalp_202510/ziya_gokalp_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org ziya_gokalp_202510 (Kanbak comp., 2025), ziya_gokalp_djvu.txt: poem 'İSTİD'Â - Gazi Paşa
+    Hazretleri'ne' pp. 20-21 (headed 'Devrim Yazarlarının Kalemiyle Milli Mücadele ve Gazi Mustafa Kemal, S.
+    1020'); essay pp. 72-74 signed CAVİT ORHAN TÜTENGİL, 'Türk Dili Dil ve Edebiyat Dergisi, Kasım 1976, C.
+    XXXIV, S. 302'
+  method: archive.org open djvu text read
+  note: >-
+    Couplet verbatim on p. 20 ('Sen dâhisin, buna çoktan inandık.. / Mefküresiz rehberlerden pek yandık..');
+    'Ey kurtaran bizi zâlim Yunan'dan!', 'Kurtar bizi cehâletten, noksândan!' and 'Kurtar bizi artık Kara
+    Sultan'dan!' support what_they_saw. 'İkinci İstid'â' and 'Bu milletin hâli olur pek yaman, / Kulâğuzu
+    olmazsa bir kahraman..' present; Altın Işık line 'Mustafa Kemal'dir baş kahramanı!' on p. 74. Dating:
+    Tütengil (p. 74) puts both İstid'âs in Küçük Mecmua nos. 20 and 21, '(ekim 1922)' (OCR 'ekim 19—22');
+    Şapolyo's Çankaya-summons passage is on p. 73, from E. B. Şapolyo, Fırka Nedir? (Zonguldak 1947), p. 6.
+    Correction: mediated_by should name the dating source: '... ← Tütengil, Türk Dili no. 302 (Nov 1976),
+    repr. Kanbak pp. 72-74 (dating to Küçük Mecmua nos. 20-21, Oct 1922)'. The caveat's 'essay reprinted in
+    the same compilation' is Tütengil's. Küçük Mecmua itself not seen, so the month rests on Tütengil; S tier
+    is honest. Translation faithful ('pek yandık' = 'we have been badly burnt'; 'suffered enough' is fair).
+    Schema ok.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33)
+  checked_on: "2026-11-06"

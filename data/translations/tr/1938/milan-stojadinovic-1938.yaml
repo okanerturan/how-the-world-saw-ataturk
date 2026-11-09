@@ -1,0 +1,18 @@
+# Turkish for data/voices/1938/milan-stojadinovic-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: milan-stojadinovic-1938
+voice: Milan Stojadinović
+role: Yugoslavya Başbakanı
+summary: Ölümün ardından bir taziye telgrafı gönderdi.
+caveat: Notta belirtilmiş bir görüş yoktur.
+mediated_by: Toksoy 2010 §E; aktarıldığı şekliyle Karahasan 1994
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b5f94695cb50
+  role: f304e71c7dc6
+  summary: 0e17dcda03d4
+  caveat: 3ef0a0d093b5
+  mediated_by: 59d4438d35b2
+  verification_method: 939bb46a04c3

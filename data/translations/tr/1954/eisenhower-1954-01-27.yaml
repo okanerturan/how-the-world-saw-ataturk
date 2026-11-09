@@ -1,0 +1,32 @@
+# Turkish for data/voices/1954/eisenhower-1954-01-27.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: eisenhower-1954-01-27
+voice: Dwight D. Eisenhower
+role: Amerika Birleşik Devletleri Başkanı
+quote: >-
+  Bu büyük değişim, bir grup insanın, başında Mustafa Kemal Atatürk'ün bulunduğu bir grup insanın hayaliyle
+  gerçekleştirildi.
+quote_kind: translated
+summary: >-
+  Celal Bayar onuruna kadeh kaldırırken, Türkiye'nin dönüşümünü ülkelerine özverili biçimde hizmet eden, Kemal
+  Atatürk liderliğindeki bir grup insanın hayaline bağlar.
+caveat: >-
+  Bayar onuruna verilen Beyaz Saray devlet yemeğinde kadeh kaldırma konuşması, 27 Ocak 1954, American
+  Presidency Project (Public Papers 1954). İttifak diplomasisi vesilesi. Bayar'ın yanıtı (aynı sayfa)
+  Atatürk'ü 'the saviour of my country' olarak nitelendirir ancak bir Türk sesi olduğu için kaydedilmemiştir.
+verification_note: >-
+  Birebir aynı: 'This great change was brought about by a dream of a group of men, a group of men headed by
+  Mustafa Kemal Ataturk. He had a dream that with a band of devoted associates they translated into
+  reality--by service, unselfish and dedicated service, to their country.' Görüntülenen sayfa tarihi: 27 Ocak
+  1954. Ayrıca 'Now the great Ataturk is dead, but his work lives on' ifadesi yer alıyor. Düzeltme gerekmiyor.
+verification_method: Metin için tools/ms ile ücretsiz çekim, tarih için tek render
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 51d4baa65457
+  role: e98cef73a6c9
+  quote: ff3d7392f200
+  summary: c4d9fd4c549d
+  caveat: 50fda37042ca
+  verification_note: 6fa3119a8a74
+  verification_method: 6bd882618a90

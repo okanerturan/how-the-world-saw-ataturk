@@ -1,0 +1,23 @@
+# Turkish for data/voices/1939/llewellin-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: llewellin-1939
+voice: Milletvekili Albay Llewellin
+role: Avam Kamarası üyesi, Donanma Bütçe Tahminleri görüşmesi
+quote: >-
+  Atatürk yönetimindeki Türkiye neredeyse bir diktatörlüktü, ama hiçbir şekilde Roma-Berlin Mihveri ile
+  müttefik değildi.
+quote_kind: translated
+summary: >-
+  Diktatörlüklerin birbirleriyle müttefik olmak zorunda olmadığını savunmak için, neredeyse bir diktatörlük
+  olduğu halde Roma-Berlin Mihveri'nin dışında yer alan Atatürk yönetimindeki Türkiye'yi kullandı.
+verification_note: Hansard web sayfasının kendisi ms fetch üzerinden boş döndü; metin API'den alındı.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a25080fa3c01
+  role: 9bc5196a09ea
+  quote: fc2d66bd8a9b
+  summary: 1fd8d3461230
+  verification_note: 930f342f998d
+  verification_method: ad8cee67138e

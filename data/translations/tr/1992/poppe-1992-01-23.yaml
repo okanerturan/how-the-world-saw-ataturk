@@ -1,0 +1,39 @@
+# Turkish for data/voices/1992/poppe-1992-01-23.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: poppe-1992-01-23
+voice: Gerd Poppe
+role: Bundestag Bündnis 90/Die Grünen milletvekili
+quote: >-
+  Kürt azınlıkla yaşanan kalıcı çatışma, modern Türkiye'nin doğuştan gelen en ağır kusurlarından birinin en
+  açık ifadesidir: Kemalist dogma, tek devlette tek ulus kurgusu.
+quote_kind: translated
+summary: >-
+  Tek devlette tek ulus şeklindeki Kemalist dogmayı, Kürt çatışmasının ardındaki, modern Türkiye'nin doğuştan
+  gelen kurucu bir kusuru olarak adlandırır.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'inde kontrol edildi. Hassas konu (Kürt sorunu): arşiv kendi çerçevesini
+  değil, konuşmacının çerçevesini kaydeder. Poppe, 'sözde Türklerin Babası Kemal Atatürk'ün bunu çok uluslu
+  devletin daha fazla parçalanmasını önlemenin tek şansı olarak gördüğünü ekler (kendi sözleri, aynı sayfa
+  aralığı). Hedef 'Kemalist dogma' ve ismen Atatürk'tür; kutupluluk çelişkilidir. Kaynak gösterimi: Deutscher
+  Bundestag, Plenarprotokoll 12/73, 23 Ocak 1992 oturumu, s. 6171.
+verification_note: >-
+  Konuşması s. 6170'te başlayan 'Gerd Poppe (Buendnis 90/GRUENE)' başlığı altında basılı s. 6171'de birebir
+  aynıdır. Çeviri sadıktır ('Geburtsfehler' = doğuştan gelen kusur). Çekincede belirtildiği gibi 'sözde
+  Türklerin Babası' ibaresi konuşmacının kendi sözlerindedir. Çerçeveleme tarafsızdır: kayıt bunu konuşmacının
+  görüşü olarak korur ve hedef 'Kemalist dogma'dır. Atatürk'ün bunu çok uluslu devletin parçalanmasını
+  durdurmanın tek yolu olarak gördüğünü de söylediği için kutupluluğun çelişkili olması yerindedir.
+verification_method: >-
+  dserver PDF'i indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleşmesi yapıldı,
+  konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı çeviriyle
+  karşılaştırılarak okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b5435b70342b
+  role: 714c026f9ba4
+  quote: b4aab24ae735
+  summary: f74bef466066
+  caveat: f2317c77913f
+  verification_note: 8bd0b679b0ca
+  verification_method: 966799b4c6ae

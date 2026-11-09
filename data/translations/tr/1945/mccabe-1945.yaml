@@ -1,0 +1,32 @@
+# Turkish for data/voices/1945/mccabe-1945.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mccabe-1945
+voice: Joseph McCabe
+role: Britanyalı rasyonalist yazar ve eski rahip
+quote: >-
+  Türkiye'yi büyük bir enerjiyle insancıllaştırdı ve modernleştirdi. … Harika çalışmalarından dolayı ona
+  Atatürk (Büyük Türk) adını verdiler.
+quote_kind: translated
+summary: >-
+  Atatürk'ü özgür düşünceliler arasında sayar: Türkiye'yi büyük bir enerjiyle insancıllaştırıp modernleştirmiş
+  ve 'harika çalışmaları' sayesinde bu unvanı kazanmıştır.
+caveat: >-
+  McCabe'in A Biographical Dictionary of Ancient, Medieval, and Modern Freethinkers (1945, yıl Wikisource
+  üstbilgisinde belirtilmiştir) adlı eserindeki 'Ataturk, President Mustafa Kamal (1881-1938)' maddesi. McCabe
+  ayrıca Atatürk'ün 'profound contempt for all religion' yönü için Armstrong'un Grey Wolf eserine atıfta
+  bulunur ve onun 'forced to compromise' durumunda kaldığını ekler; övgü McCabe'in kendisine aittir. Tam sayfa
+  ham vikimetin, tarama incelenmedi.
+verification_note: >-
+  Her iki cümle de birebir aynı ve sırasıyla yer alıyor; aralarında kaydın '…' ile çıkardığı Armstrong cümlesi
+  bulunuyor. McCabe'in kendi görüşü, üstbilgide 1945. Bakış uygun.
+verification_method: ham sayfa çekildi, dizge eşleştirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fbd5d3849410
+  role: df6cf771727d
+  quote: 17bc7f023bfc
+  summary: 6766131414db
+  caveat: 70a2dcd74ca4
+  verification_note: 09919014d755
+  verification_method: 9bf4016ec18f

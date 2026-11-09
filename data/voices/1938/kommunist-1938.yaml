@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kommunist-1938
+voice: Kommunist and Gənc İşçi
+voice_type: press
+role: Azerbaijani papers under Moscow control
+country: Soviet Azerbaijan
+country_now: Azerbaijan
+domain: press
+date: "1938-11"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: report
+evidence: S
+summary: Led in reporting Atatürk's death from Anadolu Ajansı wires under tight Moscow control.
+mediated_by: Heşimova 2024 ← Aliyeva 2015
+node: Azerbaijani Poetry of Atatürk
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/3737657
+    archived: https://web.archive.org/web/20250625234243/https://dergipark.org.tr/en/download/article-file/3737657
+verification:
+  verdict: confirmed
+  checked_against: >-
+    https://dergipark.org.tr/en/download/article-file/3737657 (Heşimova, quoting Aliyeva 2015:108)
+  method: fetch
+  checked_on: "2026-10-29"

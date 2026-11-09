@@ -1,0 +1,21 @@
+# Turkish for data/voices/1938/patijn-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: patijn-1938
+voice: Patijn
+role: Hollanda bakanı
+summary: >-
+  Hollanda Hükümeti'nin taziyelerini iletmek üzere Lahey'deki Türkiye elçiliğini ziyaret etti.
+caveat: Nezaket ziyareti; kişisel görüş belirtilmemiş.
+mediated_by: Aneta-ANP ajans haberi ← De Sumatra Post 11 Kasım 1938
+verification_note: Kaydın kaynak listesi boş; ajans haber tarihi 10 Kasım, kayıt tarihi 11 Kasım (yayım).
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9fd324678698
+  role: 9bd273c62466
+  summary: ae7f0e68b39a
+  caveat: 67df95fb8359
+  mediated_by: d1cb5553798a
+  verification_note: 897790659ac1
+  verification_method: ad8cee67138e

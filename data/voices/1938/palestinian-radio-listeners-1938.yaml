@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: palestinian-radio-listeners-1938
+voice: Palestinian radio listeners
+voice_type: collective
+role: Palestinian public gathered at radios
+country: Mandatory Palestine
+country_now: Palestine / Israel
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: broadcast
+evidence: S
+summary: >-
+  For three days the whole Palestinian people gathered at their radios listening to Ankara's broadcasts, even
+  shedding tears.
+quote:
+  text: >-
+    For three days the entire Palestinian people gathered at their radios listening to Ankara's broadcasts —
+    even shedding tears.
+  language: en
+mediated_by: Toksoy 2010 ← Cumhuriyet 19 Nov 1938 p. 4
+caveat: Turkish-press-mediated; the 'no country more affected' superlative is Turkish framing.
+node: Palestine at the Radios, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt (Filistin basini, fn.123, Cumhuriyet 19 Kasim 1938 s.4)
+  method: local
+  note: Quote is Toksoy's Turkish rendered in English; Palestinian press original not seen
+  checked_on: "2026-10-29"

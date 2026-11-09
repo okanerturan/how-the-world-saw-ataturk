@@ -1,0 +1,25 @@
+# Turkish for data/voices/2010/turkish-embassy-buenos-aires-2010.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: turkish-embassy-buenos-aires-2010
+voice: Türkiye'nin Buenos Aires Büyükelçiliği
+role: Bir Atatürk büstü açmak için ısrarcı olan büyükelçilik
+summary: >-
+  Buenos Aires'teki bir parkta (bir Ermeni kaynağına göre Jorge Newbery Havalimanı yakınında) bir Atatürk
+  büstü için ısrarcı oldu; belediye ise mevcut bir büstü değiştirmeye çalıştığını söylüyor.
+caveat: >-
+  Tartışmalı: Belediye hiçbir büst ya da törene izin verilmediğini söylüyor; büyükelçi ise evrak işlerinin
+  Kasım 2009'dan beri sürdüğünü söylüyor. 'near Jorge Newbery airport' ayrıntısı yalnızca taraflı Armenian
+  Mirror-Spectator'dan gelmektedir.
+verification_note: >-
+  "near Jorge Newbery airport" ulaşılan hiçbir kaynakta yer almıyor. Temel anlaşmazlık (belediyenin izin
+  verildiğini reddetmesi) desteklenmektedir.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ce43a5ebd41a
+  role: c36500320f04
+  summary: ef0956460ad4
+  caveat: 7fb5633e287a
+  verification_note: fe56d45013e7
+  verification_method: ad8cee67138e

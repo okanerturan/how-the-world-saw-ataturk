@@ -1,0 +1,29 @@
+# Turkish for data/voices/1938/ebabil-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ebabil-1938
+voice: Ebabil
+role: Beyrut gazetesi
+quote: >-
+  sultanları kovan, orduları paramparça eden adam ... zorbalığın en büyük düşmanı, ebedî Kemalizm rejiminin
+  kurucusu ... öldü
+quote_kind: translated
+summary: >-
+  Sultanları kovan ve orduları paramparça eden adam, zorbalığın en büyük düşmanı, ebedî Kemalizm rejiminin
+  kurucusu öldü.
+caveat: >-
+  Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının
+  transliterasyonları tahmine dayalıdır.
+mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
+verification_note: Türk basını üzerinden çeviri; sadık
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 72ea8ed7363e
+  role: eaa0a96aaa32
+  quote: 99c91d52313a
+  summary: 060879864a49
+  caveat: f8ae166de916
+  mediated_by: 0d9b58c49a68
+  verification_note: 9708fed872aa
+  verification_method: 939bb46a04c3

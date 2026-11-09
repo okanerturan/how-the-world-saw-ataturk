@@ -1,0 +1,42 @@
+# Turkish for data/voices/2007/pamuk-2007.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pamuk-2007
+voice: Orhan Pamuk
+role: Türk romancı, 2006 Nobel Ödülü sahibi
+quote: Atatürk, herkesin çektiği utançla yüzleşmenin bir yolunu buldu
+quote_kind: translated
+summary: >-
+  Atatürk'ün Batılılaşma reformlarını, Batılılaşmış Türklerin Avrupalıların gözleri önünde hissettiği utançla
+  yüzleşmenin bir yolu olarak okur.
+caveat: >-
+  Other Colors: Essays and a Story (Knopf, 2007), 'Andre Gide' denemesi (dizin s. 204; şapka ve kıyafet pasajı
+  yak. s. 205-209 aralığına düşer; cümlenin basılı sayfası kesitte görünmemektedir). Metin yalnızca ödünç
+  alınabilir bir nüshanın (othercolorsessay00pamu) archive.org tam metin kesitleri olarak okunmuştur, bu
+  nedenle cümle 'by all' ifadesinden sonra kesilmektedir. Aynı denemeden diğer kesitler: 'Both Gide and
+  Ataturk see the ugly clothing worn by the Turks'; 'But Ataturk believed that Turkish apparel misrepresented
+  the nation'; Şapka Kanunu 'in a sense, a way of striking at the heart of shame' niteliğindedir; 'Ataturk
+  draws a line between the costume that he rejects ...'. Uzun İstanbul anı kitabı (2005) daha hasmane bir hava
+  verir ('staunch disciples of Ataturk who dominated the press', 'the prohibitions of the Ataturk era'), ancak
+  kesit, kişinin kendisine dair bir görüş olarak alıntılanmak için fazla kısaydı. 'admiring' kutupsallığı,
+  reformun sempatik bir açıklaması için en yakın enum değeridir; kısa bir alıntıya dayandığından basılı deneme
+  okunana dek geçici kabul edilmelidir. Yalnızca kesitten ibaret parça, cümle ortasında kesilmiş; sayfa
+  bilinmiyor (ödünç nüsha).
+verification_note: >-
+  Kesit: '...enveloping the Turkish people, Ataturk found a way of confronting the shame suffered by all
+  Westernized...'; dolayısıyla alıntı birebir bir parçadır, ancak cümle ortasında kesilmiştir (devamında gelen
+  ifade 'all Westernized' şeklindedir) ve sayfa numarasına ulaşılamamaktadır. Pamuk'un 'André Gide' denemesine
+  yapılan atıf ve Şapka Kanunu okuması aynı nüshanın diğer kesitlerine dayanmaktadır. Kitaba sahip bir insanın
+  kontrolüne ihtiyaç vardır: sayfa ve tam cümle. Hayranlık ifadeli/2 makuldür ancak doğrulanmamıştır.
+verification_method: >-
+  tools/fts.py kesiti (ödünç nüsha, sayfa numarası yok; kitap içi arama uç noktası giriş duvarı arkasındadır,
+  aşılmamıştır)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ccf5729c9da6
+  role: ea695572e9be
+  quote: 922d4476d0b8
+  summary: 253aca9cc66a
+  caveat: 797ad5f3f62e
+  verification_note: d5ec726bbcdc
+  verification_method: b87a57f42062

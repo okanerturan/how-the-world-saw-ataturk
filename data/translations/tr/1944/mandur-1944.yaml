@@ -1,0 +1,40 @@
+# Turkish for data/voices/1944/mandur-1944.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mandur-1944
+voice: Muhammad Mandur
+role: Mısırlı edebiyat eleştirmeni
+quote: >-
+  ve tıpkı Mustafa Kemal'in Türkiye'nin güçlüklerinin, Stalin'in de Rusya'nın güçlüklerinin üstesinden geldiği
+  gibi, irademizin de bütün güçlüklerin mutlaka üstesinden geleceğini
+quote_kind: translated
+summary: >-
+  Kolektif akıl veya toplumsal yasalar ne olursa olsun kararlı iradenin engelleri aştığının kanıtı olarak
+  Mustafa Kemal ve Stalin'i örnek gösterir.
+caveat: >-
+  al-Risala sayı 586, 25 Eylül 1944, Wikisource sayfası 'مجلة الرسالة/العدد 586/مكافحة الشكلية' olarak kaynak
+  gösterilmiştir. Muhammad Mandur imzalı, 'Biçimcilikle Mücadele' başlıklı bir denemenin kapanış cümlesidir;
+  burada Kemal iradeciliğin bir örneği olarak işlev görür, reformlarına dair bir değerlendirme yoktur.
+  Mısır'daki bir reform tartışmasında araçsal kullanım. Wikisource transkripsiyonu. Kontrolde kutupluluk
+  hayran → araçsal olarak değiştirildi.
+verification_note: >-
+  Arapça alıntı birebir aynı; yazar satırı 'للدكتور محمد مندور' ve imza 'محمد مندور', tarih 25-09-1944. Cümle,
+  Mandur'un genç bir adama verdiği kendi dersinin ('لا يا بني ...') kapanışıdır, dolayısıyla ses
+  kendisinindir. Kemal ve Stalin'i engelleri aşan iradenin örnekleri olarak anar ve Kemal ya da reformları
+  hakkında hiçbir değerlendirme yapmaz. Kaydın kendi çekince notu buna 'Araçsal kullanım' der ve data/README
+  'araçsal' değerini konuşmacının kendi gündemine hizmet eden kullanım olarak tanımlar; dolayısıyla 'hayran'
+  kutupluluğu çekince notuyla çelişmektedir. DÜZELTME: kutupluluk 'araçsal' (yoğunluk 1, mirror alanı
+  nation-forge-template olarak kalabilir veya null olabilir); çekince notundaki 'a Egyptian' -> 'an Egyptian'
+  yazım hatasını düzeltin. Çeviri sadık; şema tamam.
+verification_method: >-
+  action=raw alındı, Arapça alıntının harekeleri normalleştirilmiş alt dize eşleşmesi yapıldı, ardından
+  çevreleyen pasaj, üstbilgi tarihi ve sondaki imza okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7e971f605ac4
+  role: 1428324efa24
+  quote: d7981dd51a70
+  summary: c4af2ef2442e
+  caveat: 0355214b6504
+  verification_note: bc93903eeffd
+  verification_method: 0d2d412521a8

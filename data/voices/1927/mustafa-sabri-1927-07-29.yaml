@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mustafa-sabri-1927-07-29
+voice: Mustafa Sabri Efendi
+voice_type: person
+role: Former Shaykh al-Islam; writer for the newspaper Yarın (Gümülcine/İskeçe, Western Thrace)
+country: Greece
+country_now: Greece
+domain: religion
+date: "1927-07-29"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: S
+summary: >-
+  Mocks praise of Kemal's Dolmabahçe remark on Allah's shadow, saying the Ankara head of government himself
+  admits he is not that.
+quote:
+  text: Nasıl ki Ankara hükümet reisi de kendi itirafiyle zıllullah değildir.
+  language: tr
+mediated_by: Albayrak 1992 (reprint of Yarın articles)
+caveat: >-
+  Article 'Cuhela Marifetleri' (printed pp. 306-310 (quote p. 308) of Albayrak's edition; the OCR reads 'Nasil
+  ki ... hükü- met'). The speech is Mustafa Kemal's Dolmabahçe address of July 1927, in which, as Sabri
+  reports it, he said the palace now belonged to the nation, not to 'Zıllullah'; Sabri quotes Ağaoğlu Ahmed in
+  Milliyet, 7 July 1927 ('Mustafa Kemal Allah'ın gölgesi değil, milletin gölgesidir'). Sabri then adds that
+  he, unlike others, is not afraid of Mustafa Kemal when he criticises his words. DATE UNCERTAIN: the closest
+  source note in Albayrak's print is 'Yarın, sayı: 2, 29/7/1927, sh: 2-3', which sits at the end of the next
+  piece, so the issue of this article is inferred, year only. Sabri's own judgment; the vault does not endorse
+  it. Check: the source note '(Yarın, sayı: 2, 29/7/1927, sh: 2-3)' closes this article (printed p. 310), so
+  the date is stated; pages are printed pp. 306-310, quote p. 308.
+node: Sabri Efendi and Mehmed Âkif on Mustafa Kemal, 1924–1935
+sources:
+  - url: https://archive.org/details/mustafa-sabri-efendi-hilafet-ve-kemalizm-arastirma-yayinlari-415-sayfa-1992
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Mustafa Sabri Efendi, Hilafet ve Kemalizm (Arastirma Yayinlari, 1992), article 'Cuhela Marifetleri':
+    archive.org mustafa-sabri-efendi-hilafet-ve-kemalizm-arastirma-yayinlari-415-sayfa-1992, djvu text and PDF
+    page image (PDF p. 312)
+  method: >-
+    fresh free download of the djvu text and PDF; read the whole article, rendered its last page; banked src
+    files not used
+  note: >-
+    Quote verbatim apart from OCR ('Nasil ki Ankara hukumet reisi de kendi itirafiyle zillullah degildir',
+    printed p. 308, PDF p. 310). Sabri's reading is as recorded (Dolmabahce speech; Agaoglu Ahmed in Milliyet
+    7 Temmuz 1927). The record's DATE CAVEAT IS WRONG: the note '(Yarin, sayi: 2, 29/7/1927, sh: 2-3)' is
+    printed at the END OF THIS ARTICLE itself (bottom of p. 310; no new heading between the Zillullah passage
+    and the Tayyare Cemiyeti/kurban passage; 'EKLER' with 'Kemalizm' starts on p. 311), not at the end of the
+    next piece. So the date is stated, not inferred. CORRECTIONS: date '1927-07-29' (Yarin no. 2, pp. 2-3);
+    delete 'DATE UNCERTAIN ... inferred' from the caveat; pages are 306-310 (article), quote p. 308: the
+    record's 'pp. 406-408' copies a misread OCR running head ('406' is 306; the book has 415 pages and the
+    appendix starts at 311); mediated_by may name 'Yarin no. 2, 29 Jul 1927, pp. 2-3'. Era contemporary,
+    polarity hostile, intensity 2 and 21-word what_they_saw OK.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 18)
+  checked_on: "2026-11-03"

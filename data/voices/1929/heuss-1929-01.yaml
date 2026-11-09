@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: heuss-1929-01
+voice: Theodor Heuss
+voice_type: person
+role: German liberal publicist and Reichstag deputy, later first Federal President
+country: Germany
+country_now: Germany
+domain: press
+date: "1929-01"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  After a Balkan journey, judges Kemal's Turkey a 'parliamentary-clothed dictatorship' that arranges elections
+  and holds power through police and courts.
+quote:
+  text: parlamentarisch umkleidete Diktatur
+  language: de
+mediated_by: >-
+  Mathie 2023, Der Türken- und Türkeidiskurs in Schulbüchern 1919–1945 (Klinkhardt, open access), quoting
+  Heuss, 'Balkanreise', Die Hilfe 35.1 (1929), pp. 20–22, here p. 21
+caveat: >-
+  Only the phrase and the paraphrase ('Wahlen arrangiere', held up by 'Polizei und Gericht') are given in the
+  secondary source; Heuss's article itself was not read. Mangold-Will (Begrenzte Freundschaft, 2013, p. 253
+  snippet) says Heuss's 1928 assessment of Turkey was positive overall despite this. A judgement of Kemal's
+  regime rather than of the man; hence conflicted.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/oapen-20.500.12657-61944
+  - url: https://books.google.com/books?id=vAp4DwAAQBAJ&pg=PA470
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Mathie 2023 (archive.org oapen-20.500.12657-61944 djvu.txt), printed p. 214 and fn. 1113: 'Heuss, Theodor:
+    Balkanreise. Die Hilfe 35.1 (1929), S. 20-22, hier 21. Vgl. hierzu Mangold-Will, Begrenzte Freundschaft,
+    2013, S. 253'; archive.org full-text search; Google Books vAp4DwAAQBAJ (no text returned)
+  method: archive.org text; tools/fts.py; ms fetch (free)
+  note: >-
+    Phrase and paraphrase ('Wahlen arrangiere', 'Polizei und Gericht') present in Mathie only; archive.org
+    full-text search finds no other copy. Heuss's article not seen. Mathie points to Mangold-Will p. 253, not
+    the p. 470 the record cites; neither page could be read, so the 'positive overall' hedge behind
+    'conflicted' is unverified. The only text read is critical: polarity conflicted → hostile unless
+    Mangold-Will is read. The object is Turkey's regime ('die dortigen Entwicklungen'), not Kemal personally:
+    a weak pass.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 30)
+  checked_on: "2026-11-05"

@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ferhat-abbas-1931
+voice: Ferhat Abbas
+voice_type: person
+role: >-
+  Algerian pharmacist and reformist writer; later first president of the Provisional Government of the
+  Algerian Republic (GPRA)
+country: French Algeria
+country_now: Algeria
+domain: letters
+date: "1931"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: S
+summary: >-
+  In Le Jeune Algérien, welcoming the Muslim world's awakening, admired Mustafa Kemal alongside Abduh and Ibn
+  Saud; wrote under the pen name 'Kémal Abencérages'.
+mediated_by: >-
+  Guy Pervillé, 'Le sentiment national des étudiants algériens de culture française de 1912 à 1962', Relations
+  internationales no. 2 (Nov 1974), pp. 233–259 (reposted 2 Jul 2007) <- Abbas, Le Jeune Algérien (1931)
+caveat: >-
+  Secondary paraphrase only: 'Il admire Mohammed Abdou, Ibn Séoud et Mustapha Kémal, en dépit de leurs
+  divergences'. Abbas's own words were not read: Le Jeune Algérien was not found on archive.org, and Gallica
+  was not reached. Pervillé does not date the pen name 'Kémal Abencérages', and he notes that by 1936 Abbas
+  denied that an Algerian nation existed. Abbas never met Kemal.
+node: Writers, Scientists and Artists in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/le-sentiment-national-des-etudiants-algeriens-de-culture-francaise-de-1912-a-1961
+verification:
+  verdict: secondary-only
+  checked_against: >-
+    archive.org le-sentiment-national-des-etudiants-algeriens-de-culture-francaise-de-1912-a-1961 djvu
+    (Pervillé 1974, reposted 2007)
+  method: djvu text; archive.org full-text search; Gallica SRU
+  note: >-
+    Pervillé: 'Abbas a foi dans l'avenir glorieux du monde musulman, et se réjouit de son réveil. Il admire
+    Mohammed Abdou, Ibn Séoud et Mustapha Kémal, en dépit de leurs divergences. Mais, en 1936, il nie ...' and
+    pen name 'Kémal Abencerages' (undated). It is a historian's one-clause paraphrase; the tie to Le Jeune
+    Algérien (1931) comes from the surrounding paragraph. Abbas's own text was not reached (FTS returns
+    nothing for Kemal under creator Abbas; Gallica SRU returned nothing). No stated view in his own words.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33b)
+  checked_on: "2026-11-06"

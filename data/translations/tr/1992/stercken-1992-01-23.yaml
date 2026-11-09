@@ -1,0 +1,38 @@
+# Turkish for data/voices/1992/stercken-1992-01-23.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: stercken-1992-01-23
+voice: Hans Stercken
+role: Bundestag CDU/CSU milletvekili
+quote: Elbette Atatürk'ün başlattığı süreç henüz tamamlanmamıştır
+quote_kind: translated
+summary: >-
+  Atatürk'ün başlattığı süreci tamamlanmamış sayar: henüz her Türk 'yeni bir uygarlığa' giden yola
+  katılamamıştır.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'inde kontrol edildi. Konuşmacı, tutanağın konuşmacı listesinden (Stercken
+  CDU/CSU, 6166 C) ve DIP metninden (kendi başlığı pasajdan önce, Hirsch'inki sonra gelir) alındı.
+  Türkiye'deki insan hakları durumu (Kürt sorunu) üzerine tartışma; Poppe (aynı oturum) eleştireldir. Aynı
+  konuşmacı, CDU/CSU, 30 Kasım 1988'de (11/112) de Atatürk'ü Türkiye'ye 'yeni bir yön' veren kişi olarak över
+  (ayrıca kaydedilmemiştir). Kaynak gösterimi: Deutscher Bundestag, Plenarprotokoll 12/73, 23 Ocak 1992
+  oturumu, s. 6167.
+verification_note: >-
+  Basılı s. 6167'de 'Dr. Hans Stercken (CDU/CSU)' başlıklı konuşmada (dizin 6166 C) birebir aynıdır. Çeviri
+  sadıktır. Bakış testi geçer (kendi görüşü: Atatürk'ün süreci hâlâ tamamlanmamış). Çekincede belirtildiği
+  gibi 30 Kasım 1988 tarihli sözü de (11/112, s. 8071 civarı: 'als Kemal Ataturk diesem Land eine neue
+  Richtung, einen neuen Sinn, eine neue Infrastruktur gegeben hat') mevcuttur. İsteğe bağlı: voice alanı 'Dr.
+  Hans Stercken' olarak yazılabilir.
+verification_method: >-
+  dserver PDF'i indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleşmesi yapıldı,
+  konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı çeviriyle
+  karşılaştırılarak okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 26a0c5ba01a8
+  role: 0343bddeed17
+  quote: 65c16777d4d6
+  summary: fc8b5f556c65
+  caveat: 6a25eec507a7
+  verification_note: f04eab145272
+  verification_method: 966799b4c6ae

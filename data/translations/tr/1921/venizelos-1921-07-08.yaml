@@ -1,0 +1,37 @@
+# Turkish for data/voices/1921/venizelos-1921-07-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: venizelos-1921-07-08
+voice: Eleftherios Venizelos
+role: Eski Yunanistan başbakanı, 1920 seçiminden sonra sürgünde
+quote: >-
+  Çünkü Kemal İstanbul'a ulaşırsa deniz serbestisi işin içine girer, Akdeniz'deki üstünlüğünüz de.
+quote_kind: translated
+summary: >-
+  Kemal'i Boğazlar'a yönelik askeri ve Bolşevik destekli bir tehdit olarak görür; Britanya'nın Yunanistan'ı
+  terk etmemesi gerektiğini savunur.
+caveat: >-
+  Birebir tutanak değil, Spender'ın mülakat notları; Britanyalı bir kitleye yönelik savunuculuk; Times
+  taramasından değil, 2021 tarihli bir yeniden basımdan okundu (OCR yazım hataları); yeniden basım onu
+  yanlışlıkla görevdeki başbakan olarak adlandırıyor.
+mediated_by: Harold Spender'ın notları ← The Times 8 Temmuz 1921 s. 10 ← BRIQ 2021 yeniden basımı
+verification_note: >-
+  Alıntı birebir (yalnızca satır sonu tiresi var): 'For if Kemal reaches Constantinople the freedom of the sea
+  is involved, and your supremacy in the Mediterranean.' Bolşevik desteği ve 'Allies would soon find their
+  interest were involved' ifadesi de mevcut. Kaynak Times taraması değil, tam metin bir yeniden basımdır;
+  kaydın kendi çekincesinin de belirttiği gibi, daha katı bir okuma bunu yalnızca ikincil kaynak olarak
+  sınıflandırabilir. Roldeki 'in exile' kaydın açıklamasıdır; Times metni onu yalnızca yeniden basımın
+  başlığında 'Greek Prime Minister' olarak adlandırır.
+verification_method: >-
+  BRIQ PDF'sinin ücretsiz çekilmesi; pasaj, yeniden basımda basılı olan Times başlığı, tarihi ve sayfasıyla
+  birlikte bulundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: "420717528619"
+  role: 6833c48513b9
+  quote: 5f7193915cfb
+  summary: 2ed6bef600bc
+  caveat: e8d6c8b78774
+  mediated_by: f5597390dcfa
+  verification_note: 845aee9eaebb
+  verification_method: 44578fd979b1

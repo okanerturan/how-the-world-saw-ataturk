@@ -1,0 +1,30 @@
+# Turkish for data/voices/1922/le-temps-1922-09-15.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: le-temps-1922-09-15
+voice: Le Temps
+role: Paris yarı resmi günlük gazetesi
+quote: >-
+  Mustafa Kemal, Fransızların, İngilizlerin ve diğer müttefiklerin birlikte karşı çıkacağının tamamen
+  farkındadır
+quote_kind: translated
+summary: >-
+  Kemal'i, Müttefiklerin İstanbul'a yönelik herhangi bir hamleye ortaklaşa karşı çıkacağını bilen bir gerçekçi
+  olarak değerlendirdi.
+caveat: >-
+  Görünüm 1. Cümlenin gazetenin kendisine mi yoksa bir muhabire mi ait olduğu görülmemektedir; parça OCR'da
+  nesneden ('à Constantinople') önce sona ermektedir. Gallica ContentSearch parçası, OCR olduğu gibi
+  kopyalanmıştır; görünüm numarası Gallica'ya aittir, basılı sayfa numarası olmayabilir.
+verification_note: >-
+  PAG_1 parçasında birebir aynı (parça 'à une tentative quelconque Constantinople' şeklinde devam ediyor);
+  cümlenin aidiyeti (gazete mi muhabir mi) parçadan gösterilemiyor.
+verification_method: ms fetch üzerinden Gallica ContentSearch parçası
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d5ca4c141833
+  role: e6898d5c7551
+  quote: 88e600cdbf07
+  summary: 7731ef88fca1
+  caveat: 8e80ecee9f39
+  verification_note: 855a5dba8572
+  verification_method: 25cd88e6eafd

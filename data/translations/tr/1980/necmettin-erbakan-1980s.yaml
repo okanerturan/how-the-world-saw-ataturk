@@ -1,0 +1,42 @@
+# Turkish for data/voices/1980/necmettin-erbakan-1980s.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: necmettin-erbakan-1980s
+voice: Necmettin Erbakan
+role: Millî Görüş hareketinin lideri; daha sonra Başbakan
+quote: Bugün yaşasaydı, Atatürk İslami Görüş'ün (Millî Görüş) bir üyesi olurdu.
+quote_kind: translated
+summary: >-
+  Atatürk'ün hayatta olsaydı Millî Görüş hareketine katılacağını iddia ederek Kemalizmi İslamcı terimlerle
+  yeniden yorumlar.
+caveat: >-
+  Hanioğlu'nun çevirisi; Türkçe ifadeler, konuşma ve tam yıl tespit edilemedi (dipnota ve Erbakan'ın orijinal
+  metnine ulaşılamadı; dokumen.pub bot engeli koyuyor). '1980' tarihi on yılı temsilen konulmuş bir yer
+  tutucudur. Hanioğlu bu sözü 'an unconventional Kemalism'in İslamcı bir benimsenişi olarak ele alır; bu
+  nedenle 'instrumental' kutupluluğu onun okumasını izler. Erbakan için arşivde kişi notu bulunmamaktadır.
+  Alıntı Hanioğlu'nun İngilizce aktarımından ibarettir; dipnotuna (Introduction, not 1) ve Türkçe metne
+  ulaşılamamıştır.
+mediated_by: >-
+  Hanioğlu, Atatürk: An Intellectual Biography (Princeton UP 2011), Giriş, not 1 (İngilizce aktarım; dipnot
+  okunmadı) ← Erbakan, '1980'lerde'
+verification_note: >-
+  Hanioğlu'nun cümlesi birebir şöyledir: 'Necmettin Erbakan, the leader of the Islamist political movement,
+  famously remarked in the 1980s, "Had he lived today, Ataturk would have become a member of the Islamic
+  Vision (Milli Gorus)."' (1 numaralı dipnot işaretiyle) ve bunu 'an unconventional Kemalism' olarak okur.
+  Hanioğlu yalnızca 'the 1980s' bilgisini verir; dipnot (Erbakan'ın sözlerinin asıl kaynağı) görülmemiştir ve
+  Türkçe orijinal, vesile ile yıl tespit edilememiştir. DÜZELTME: tarih alanı '1980' değil '1980s' (on yıl)
+  olmalıdır; alıntıyı ikinci elden aktarılan Hanioğlu'nun İngilizce çevirisi olarak işaretleyin; kutupluluğu
+  araçsal olarak koruyun (Hanioğlu'nun okumasını izler); dipnot okunana kadar birincil kaynak muamelesi
+  yapmayın.
+verification_method: >-
+  bir ms araması metni beş kopyadan getirdi; degruyter, ebin ve dokumen üzerinden ücretsiz çekme işlemleri
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a70f5fee610e
+  role: 2e054a337a05
+  quote: 1904812084cc
+  summary: f98a60d8e814
+  caveat: 27a7b052a556
+  mediated_by: dfeff758373e
+  verification_note: cc54ac8e6706
+  verification_method: 7de66b995f7d

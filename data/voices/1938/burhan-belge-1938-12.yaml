@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: burhan-belge-1938-12
+voice: Burhan Belge
+voice_type: person
+role: Director General of the Press, Turkish writer and Atatürk's circle
+country: Turkey
+country_now: Turkey
+domain: press
+date: "1938-12"
+era: funeral
+polarity: instrumental
+intensity: 2
+mirror: internal-mirror
+artifact: article
+evidence: P
+summary: >-
+  After Atatürk's death, calls him a fortunate chief who finished his work and handed the national 'cause' to
+  İnönü, so the course continues.
+quote:
+  text: >-
+    Atatürk a été un Chef heureux qui a éprouvé la joie d'achever son œuvre [translation: Atatürk was a
+    fortunate Chief who felt the joy of completing his work] … Atatürk a dirigé la lutte pour la libération et
+    a fait la Révolution.
+  translation: Atatürk led the struggle for liberation and made the Revolution.
+  needs_split: true
+  language: fr
+caveat: >-
+  Published in La Turquie kémaliste, the illustrated review of the Turkish Press Directorate (Direction
+  Générale de la Presse, Ministry of the Interior), a Kemalist state propaganda venue that chose and printed
+  (and for some items translated) what it ran; read in the OCR of archive.org item la_turquie_kemaliste.
+  Signed article by the head of the Press Directorate that publishes the review, 'D'Atatürk à İnönü', no. 28
+  (December 1938), the first issue after the funeral; the same issue opens with an unsigned editorial on 'La
+  mort d'Atatürk'. The purpose is reassurance of foreign readers about continuity under İnönü ('nul, parmi nos
+  amis de l'étranger, ne doit en douter'), hence instrumental, and Belge was an official of the regime, not an
+  independent voice. Turkish translation 'Atatürk'den İnönü'ye' is in the item. Page not shown in the OCR.
+  Cited as La Turquie kémaliste no. 28 (December 1938), 'D'Atatürk à İnönü'.
+node: La Turquie kémaliste 1935–1938 — Haşim, Wright, Pittard, Ireland and Belge
+sources:
+  - url: https://archive.org/details/la_turquie_kemaliste
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org la_turquie_kemaliste 28_djvu.txt (no. 28, Décembre 1938)
+  method: fetched djvu text, string match
+  note: >-
+    Both sentences verbatim; signed 'par Burhan Belge', title D'Atatürk à Inönü. Dec 1938 follows the funeral
+    so era funeral is right. Own view; instrumental (reassurance on continuity) is fair.
+  checked_on: "2026-11-03"

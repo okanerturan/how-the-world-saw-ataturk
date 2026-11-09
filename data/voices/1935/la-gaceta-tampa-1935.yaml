@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-gaceta-tampa-1935
+voice: La Gaceta (Tampa)
+voice_type: press
+role: Spanish-language daily, Tampa, Florida
+country: United States
+country_now: United States
+domain: press
+date: "1935-02-21"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Column 'Changas y Chungas' on Turkish women deputies: dictatorship 'produced the miracle', but Kemal could
+  send them back to the kitchen tomorrow; democracy cannot.
+quote:
+  text: >-
+    Mustafá Kemal las llamó a la Asamblea y mañana, si así lo quiere, puede devolverlas al hogar o la cocina
+  language: es
+caveat: >-
+  Unsigned; used to argue about the Spanish Republic's women's suffrage (Kent, Campoamor). The piece's own
+  lede counts 17 women deputies, which is its figure, not checked here.; text unchecked by independent check
+  (InFlow stopped 2026-10-29)
+node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
+sources:
+  - url: https://www.loc.gov/resource/sn86002403/1935-02-21/ed-1/?sp=1
+verification:
+  verdict: unreachable
+  checked_against: loc.gov sn86002403 1935-02-21 p.1
+  method: ms wrapper returned INFLOW STOPPED (stop rule); direct curl to loc.gov Cloudflare 403
+  note: Not checked.
+  checked_on: "2026-10-29"
+  quote_found: false

@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jabotinsky-1939
+voice: Ze'ev Jabotinsky
+voice_type: person
+role: Founder of Revisionist Zionism
+country: Mandatory Palestine (in exile)
+country_now: Israel
+domain: politics
+date: "1939"
+era: posthumous
+polarity: hostile
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  On the South Tyrol transfer, counted Kemal Pasha among rulers who rid themselves of minorities: the
+  Armenians by massacre, the Greeks by deportation in 1923.
+quote:
+  text: Кемаль Паша тоже однажды избавился от армянского меньшинства… перебив их.
+  translation: Kemal Pasha too once got rid of the Armenian minority… by slaughtering them.
+  language: ru
+mediated_by: >-
+  Russian translation by 'B. Ts.' (Wikisource, from Khroniki Ierusalima) ← 'A Talk with Zangwill', Hadegel
+  (Revisionist journal, Manchuria/China), 1939
+caveat: >-
+  Sensitive: the attribution of the Armenian massacres to Kemal is Jabotinsky's, recorded, not adopted. A
+  translation of a translation. The essay then quotes, apparently as Zangwill's recalled words, a view that
+  the 1923 exchange proved beneficial. Check: the view that the 1923 exchange proved beneficial is a 1936
+  Geneva interlocutor's ('Ваше Сиятельство'), not Zangwill's; Jabotinsky himself calls it a 'зверским
+  изгнанием' (brutal expulsion).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://ru.wikisource.org/wiki/Разговор_с_Зангвиллем_(Жаботинский)
+    archived: https://web.archive.org/web/20241225111129/https://ru.wikisource.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D1%81_%D0%97%D0%B0%D0%BD%D0%B3%D0%B2%D0%B8%D0%BB%D0%BB%D0%B5%D0%BC_(%D0%96%D0%B0%D0%B1%D0%BE%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ru.wikisource.org/wiki/Разговор_с_Зангвиллем_(Жаботинский) (raw); upstream
+    gazeta.rjews.net/Lib/Jab/zangvill.shtml (same text)
+  method: fetch
+  note: >-
+    Russian verbatim, in Jabotinsky's own narration (section 'Новый и все же не новый'), followed by the 1923
+    Greeks deported 'в Македонию'; he later calls the 1923 precedent 'зверским изгнанием' that 'усилил мою
+    антипатию', which supports hostile. Header: translator Б.Ц.; published in 'Гадегель' (Betar,
+    Manchukuo/China) 1939. Corrections: (1) the 'exchange proved beneficial' view is not Zangwill's; it is a
+    1936 Geneva interlocutor from League circles, addressed as 'Ваше Сиятельство'. (2) 'A translation of a
+    translation' is not supported: the page names a translator but not the original language. The hedge is
+    neutral.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33b)
+  checked_on: "2026-11-06"

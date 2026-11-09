@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ormsby-gore-1920-02
+voice: Mr Ormsby-Gore MP
+voice_type: person
+role: Commons question, Turkish rule in Constantinople
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-02-18"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Asked whether pressure on Constantinople could work when the massacres were being carried out by a
+  Nationalist leader and troops defying the Sultan.
+quote:
+  text: >-
+    the massacres are being carried out by Mustapha Kamil, a Nationalist leader, and his troops, who do not
+    acknowledge the authority of the Sultan
+  language: en
+caveat: A question, not a speech; Ormsby-Gore's 11 Mar 1920 contribution is a separate record.
+node: Kemal in the Commons, Variant Spellings, 1920–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-02-18/debates/44d28adf-66c9-461d-b232-9b8e2a2d34fc/TurkishRuleInConstanixople
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API Spoken.json 1920-02-18 (Ormsby-Gore, Turkish Rule In Constanixople)
+  method: Hansard API full text; quote verbatim incl. OCR 'Kamil'
+  checked_on: "2026-10-30"

@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jung-2016-11-10
+voice: Franz Josef Jung
+voice_type: person
+role: CDU/CSU member of the Bundestag, former Federal Minister of Defence
+country: Germany
+country_now: Germany
+domain: politics
+date: "2016-11-10"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Sets Erdoğan's politics against 'the land of Kemal Atatürk', whose politics he says Erdoğan's now has
+  nothing to do with.
+quote:
+  text: >-
+    denkt man an die Entwicklung in der Türkei, im Land Kemal Atatürks, muss man leider feststellen, dass die
+    Politik von Präsident Erdogan mit der Politik von Kemal Atatürk nun wahrlich nichts mehr zu tun hat.
+  translation: >-
+    if one thinks of the development in Turkey, in the land of Kemal Atatürk, one must unfortunately state
+    that President Erdoğan's politics now truly have nothing to do with the politics of Kemal Atatürk.
+  language: de
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), public key from the DIP
+  documentation page; printed page checked in the dserver PDF. Debate on the situation in Turkey after the
+  arrest of HDP leaders (Nov 2016). Atatürk is the foil for a criticism of Erdoğan, which is the speaker's
+  main purpose; nothing about Atatürk's own record is argued. Cited as Deutscher Bundestag, Plenarprotokoll
+  18/199, session of 2016-11-10, S. 19806.
+node: German Parliaments on Atatürk — Hitler's Reichstag 1941 and the Bundestag 1983–2025
+sources:
+  - url: https://dserver.bundestag.de/btp/18/18199.pdf
+    archived: https://web.archive.org/web/20260710070500/https://dserver.bundestag.de/btp/18/18199.pdf
+  - url: https://dip.bundestag.de/
+    archived: https://web.archive.org/web/20261020200949/https://dip.bundestag.de/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Bundestag plenary-protocol PDF 18/18199.pdf (WP18 sitting 199) from dserver.bundestag.de, fetched fresh
+  method: >-
+    downloaded the dserver PDF, pdftotext, whitespace/hyphenation-normalised match of the quote, speaker
+    header and running-head page number read from the printed protocol; German read against the stored
+    translation
+  note: >-
+    Verbatim on printed p. 19806 under 'Dr. Franz Josef Jung (CDU/CSU)'. Translation faithful. The view of
+    Ataturk is implicit (his politics stand against Erdogan's authoritarian course); intensity 1 and the
+    caveat's honesty about the foil use are right.
+  checked_on: "2026-11-03"

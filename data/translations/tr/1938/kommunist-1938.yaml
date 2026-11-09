@@ -1,0 +1,17 @@
+# Turkish for data/voices/1938/kommunist-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kommunist-1938
+voice: Kommunist ve Gənc İşçi
+role: Moskova denetimindeki Azerbaycan gazeteleri
+summary: >-
+  Sıkı Moskova denetimi altında, Anadolu Ajansı telgraflarından Atatürk'ün ölümünü haberleştirmede başı çekti.
+mediated_by: Heşimova 2024 ← Aliyeva 2015
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 73f07a502171
+  role: 4e04cec220fa
+  summary: 77c00edc7880
+  mediated_by: 5a47eff8f53f
+  verification_method: ad8cee67138e

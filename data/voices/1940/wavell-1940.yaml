@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: wavell-1940
+voice: Archibald Wavell
+voice_type: person
+role: "British field marshal; Allenby: A Study in Greatness (1940)"
+country: United Kingdom
+country_now: United Kingdom
+domain: military
+date: "1940"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: book
+evidence: P
+summary: >-
+  Names Kemal among 'two of the best Turkish commanders' of 1918, a leader 'later to rally and reorganize all
+  Turkey'.
+quote:
+  text: the future Ataturk, who was to regenerate the Turkish nation
+  language: en
+caveat: >-
+  Allenby: Soldier and Statesman (Harrap, 1946 edition of the 1940 Allenby: A Study in Greatness), p. 236
+  (index: 'Kemal, Mustapha, Ataturk, 171, 236 and n. 1, 245'); open DLI scan in.ernet.dli.2015.505341. Also p.
+  245: 'two of the best Turkish commanders, Mustapha Kemal, of the Seventh Army, and Jemal Pasha, of the
+  Fourth'; Aleppo 'rallied and reorganized by no less a leader than Mustapha Kemal Pasha, who was later to
+  rally and reorganize all Turkey'. P. 171: Kemal 'declined to serve under a German staff'. Pagination is the
+  1946 edition; the 1941 edition (allenbystudyingr0000arch, search-inside) has the same sentences. In Allenby
+  in Egypt (1943), Wavell says Zaghlul 'may have dreamed of a dictatorship like that of Mustapha Kemal' and
+  that the Greeks were 'completely routed by Mustapha Kemal' (context only). Check note: Wavell wrote 'two of
+  the best', not 'one of the two best'.
+node: Soldiers on Mustafa Kemal in Their Own Words, 1915–1940
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.505341
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Wavell, Allenby: Soldier and Statesman (Harrap 1946 combined edition), archive.org
+    in.ernet.dli.2015.505341, 2015.505341.allenby-soldier_djvu.txt
+  method: curl of the open djvu text; folios are page-foot numbers; index checked
+  note: >-
+    Verbatim p. 236 (folio 236 follows footnote 1; index 'Kemal, Mustapha, Ataturk, 171, 236 and n. 1, 245'):
+    'Mustapha Kemal Pasha, the future Ataturk, who was to regenerate the Turkish nation'. P. 245 verbatim:
+    'two of the best Turkish commanders, Mustapha Kemal, of the Seventh Army, and Jemal Pasha, of the Fourth'
+    and 'rallied and reorganized by no less a leader than Mustapha Kemal Pasha, who was later to rally and
+    reorganize all Turkey'. P. 171: 'declined to serve under a German staff'. Imprint: Study in Greatness
+    first published Sept 1940; Allenby in Egypt first published January 1944 (the caveat's '1943' is wrong).
+    Small fix to what_they_saw: Wavell says 'two of the best Turkish commanders', not 'one of the two best'.
+    Era posthumous correct (written 1940).
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

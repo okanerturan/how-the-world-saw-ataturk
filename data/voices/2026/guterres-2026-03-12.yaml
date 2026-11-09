@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: guterres-2026-03-12
+voice: António Guterres
+voice_type: person
+role: UN Secretary-General
+country: Portugal
+country_now: Portugal
+domain: diplomacy
+date: "2026-03-12"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Accepting the Atatürk Peace Award, says Atatürk understood peace as a deliberate choice and his 'peace at
+  home' motto captures the UN Charter's spirit.
+quote:
+  text: >-
+    Through hardship and leadership, Atatürk understood that peace does not emerge by chance. It is a
+    deliberate choice – anchored in social cohesion and sustained through international cooperation.
+  language: en
+caveat: >-
+  Official text of the Secretary-General's remarks upon receiving the 2025 Atatürk International Peace Award
+  from President Erdoğan, Presidential Complex, Ankara, 12 March 2026 (UN in Türkiye). He adds that Atatürk's
+  'commitment to social progress, equality, and the welfare of all resonates deeply with the mission of the
+  United Nations'. Award-acceptance speech; he visited Anıtkabir the same day. Check: the cited UN pages do
+  not state the award year or an Anıtkabir visit that day; treat those details as unsourced.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://turkiye.un.org/en/312599-secretary-generals-remarks-upon-receiving-atat%C3%BCrk-international-peace-award
+    archived: https://web.archive.org/web/20260515235758/https://turkiye.un.org/en/312599-secretary-generals-remarks-upon-receiving-atat%C3%BCrk-international-peace-award
+  - url: https://webtv.un.org/en/asset/k16/k16kjrs89x
+    archived: https://web.archive.org/web/20260314070937/https://webtv.un.org/en/asset/k16/k16kjrs89x
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://turkiye.un.org/en/312599-secretary-generals-remarks-upon-receiving-atat%C3%BCrk-international-peace-award
+    (12 March 2026, Presidential Complex, Ankara); webtv.un.org asset k16kjrs89x (title/description)
+  method: curl
+  note: >-
+    Quote verbatim; 'peace at home' and 'resonates deeply with the mission of the United Nations' also
+    present. P honest. Two caveat details are unsupported by the cited pages: the award is not called the
+    '2025' award, and no Anıtkabir visit is mentioned. Award-acceptance context: arguably instrumental, though
+    admiring is defensible.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 30)
+  checked_on: "2026-11-05"

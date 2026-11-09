@@ -1,0 +1,38 @@
+# Turkish for data/voices/2004/verhofstadt-2004-01-26.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: verhofstadt-2004-01-26
+voice: Guy Verhofstadt
+role: Belçika Başbakanı
+quote: >-
+  Kendisi Dünya tarihinde büyük bir devlet adamı olarak yerini almıştır. Cesurca yaptığı reformlar ile
+  ülkesine Avrupa yolunu açmıştır.
+quote_kind: original-turkish
+summary: >-
+  Modern Türkiye'nin kurucusu ve dünya tarihinin büyük bir devlet adamı; cesur reformları seksen yıl önce
+  Türkiye'ye Avrupa yolunu açmıştır.
+caveat: >-
+  Felemenkçe el yazısıyla yazılmış, Ankara 26 Ocak 2004 ('… mijn respect en waardering uit te drukken voor
+  Mustafa Kemal Atatürk, de grondlegger van het moderne Turkije. Hij heeft zich in de wereldgeschiedenis een
+  plaats verworven als een groot staatsman …'); alıntı derlemedeki Türkçe metindir ('He has taken his place in
+  world history as a great statesman. With his courageous reforms he opened the road to Europe for his
+  country'). Şöyle sona erer: laik devlet, kadın-erkek eşitliği, eğitim hakkı — 'Mustafa Kemal Atatürk, a man
+  of vision, saw this eighty years ago'. Kaynak: Anıtkabir Özel Defteri (basılı derleme, '1953'ten günümüze
+  Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk hakkındaki duygu ve düşünceleri'),
+  ataturkarsivi.com üzerindeki sayfa görüntüleri, ana ajan tarafından görüntü üzerinden okundu (4 Kasım 2026).
+verification_note: >-
+  Basılı Türkçe metin birebir aynı; Felemenkçe el yazısı bunu destekliyor ('groot staatsman ... gedurfde
+  hervormingen ... weg zette naar een Europese toekomst'). 'Ankara, 26.01.2004' tarihi el yazısı sayfasında
+  değil, yalnızca basılı Türkçe metinde yer alıyor (sorun yok). 'Eighty years ago' her ikisinde de mevcut.
+  Çekince notu: basılı Türkçe metinde ayrıca Felemenkçede bulunmayan 'Mirasi herkese ornek' ('his legacy is an
+  example to everyone') ifadesi yer alıyor.
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe metin OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fc3db16d4ed3
+  role: 8ef28f08def8
+  quote: 187ff85cc727
+  summary: 72f818a94601
+  caveat: c63765f11178
+  verification_note: ec55567c6a30
+  verification_method: "304538629105"

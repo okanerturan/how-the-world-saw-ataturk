@@ -1,0 +1,36 @@
+# Turkish for data/voices/1938/zahir-shah-1938-11-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zahir-shah-1938-11-11
+voice: Mohammed Zahir Shah
+role: Afganistan Kralı; Türkiye Büyük Millet Meclisi (TBMM) Başkanı Abdülhalik Renda'ya telgraf
+quote: >-
+  asil Türk milletine yaptığı seçkin hizmetler, inşallah o kardeş milletin genci ve yaşlısı tarafından asla
+  unutulmayacaktır
+quote_kind: translated
+summary: >-
+  Taziye kalıplarının ötesinde: Atatürk'ün asil Türk milletine yaptığı seçkin hizmetler asla unutulmayacaktır
+  ve onun ilerleme temelleri varlığını sürdürmektedir.
+caveat: >-
+  Latin harfleriyle yazılmış Farsça, Kâbil 11/11/38 16:30 telsizle, Ankara'da alındı; TBMM taziye cildi II
+  (handle 11543/2467), PDF s. 39 (damgalı 36). Yazıldığı şekliyle telgraf transliterasyonu (kelimeler
+  bitişik): 'khedamatebarguzida hamelatenajibe turkiakardast inshallahaz nazarekhord wabuzurgeanmelate
+  beradarfaramosh nashudaniast' (= khedamat-e barguzida … ba millat-e najib-e Turkia karda ast, inshallah az
+  nazar-e khord wa buzurg-e an millat-e baradar faramush-nashudani ast). Ayrıca: merhum Atatürk'ün bıraktığı
+  'mutainetaraqi wataali' (ilerleme ve yükselmenin sağlam temelleri) ve 'Türk kardeşlerimizin kederini kendi
+  kederimiz sayarız'. İmza: 'mohdzahidshah padshahe afghanistan'. Ana ajan tarafından sayfa görüntüsünden
+  okundu (3 Kasım 2026); transliterasyon yer yer belirsizdir, alıntılanan cümlecik açıktır.
+verification_note: >-
+  Hizmetlerine ilişkin 'faramosh nashudani ast' ibaresi açık; transliterasyondaki diğer kelimeler belirsiz.
+verification_method: >-
+  sayfa PDFKit ile görüntülendi ve ana ajan tarafından okundu (Latin harfli transliterasyonla Farsça);
+  bağımsız bir denetleyici değil
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4abce4cac7d7
+  role: "00190388e304"
+  quote: 8ad2edd8bd15
+  summary: 7ad27cfb1869
+  caveat: edb8a42b55e2
+  verification_note: c2bec754c72f
+  verification_method: acf24c52b3a4

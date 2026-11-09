@@ -1,0 +1,17 @@
+# Turkish for data/voices/1938/lord-birdwood-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lord-birdwood-1938
+voice: Lord Birdwood
+role: Mareşal, VI. George'u temsilen
+summary: >-
+  Cenazede Britanya kralını temsil etti; Amiral Pound ve HMS Malaya'dan 200 deniz piyadesi de katıldı.
+mediated_by: Reuter 21 Kasım 1938; Havas 17 Kasım; Uyanıker 2020
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4e772803b974
+  role: f7dee43c9cd9
+  summary: ade1b56a48fa
+  mediated_by: c5a52a6b01c5
+  verification_method: ad8cee67138e

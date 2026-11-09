@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: clerk-1928-02-20
+voice: George Clerk
+voice_type: person
+role: British Ambassador to Turkey
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1928-02-20"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: meeting
+evidence: P
+summary: >-
+  At a Foreign Minister's ball the Ghazi addressed him for half an hour on honourable enemies turned friends;
+  Clerk found it platitudinous but sincerely friendly.
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk vol. VI No. 7 ← Clerk to Austen Chamberlain, Angora, 21 Feb 1928 (F.O.
+  424/268)
+caveat: >-
+  OCR is poor, so no verbatim quote. Clerk notes the speech was 'admirably phrased' but 'somewhat
+  platitudinous generalities', and that Kemal told the French attaché to have his 'lying papers' report he was
+  not dying. Clerk's funeral-era view is already in data.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%236.pdf
+verification:
+  verdict: confirmed
+  checked_against: >-
+    archive.org ingiliz-belgelerinde-ataturk, djvu text of Şimşir vol. VI, No. 7 (Clerk to Austen Chamberlain,
+    Angora, 21 Feb 1928; the ball was 'last night', 20 Feb)
+  method: archive.org open djvu text read
+  note: >-
+    As described: 'long and admirably phrased speech', 'honourable enemies and were now honourable friends',
+    'over half an hour's discourse', 'somewhat platitudinous generalities' but 'the sincerely friendly tone of
+    the Ghazi's references to England', and the 'lying papers' remark to the French military attaché Sarrou.
+    The F.O. 424/268 reference printed nearby belongs to the preceding document (No. 6); the reference for No.
+    7 was not read. A minor figure, but he states a judgement (eloquent, platitudinous, sincerely friendly),
+    so it is a borderline pass as witness.
+  checked_on: "2026-11-05"

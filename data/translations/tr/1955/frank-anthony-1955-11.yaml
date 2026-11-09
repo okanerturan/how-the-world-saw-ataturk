@@ -1,0 +1,36 @@
+# Turkish for data/voices/1955/frank-anthony-1955-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: frank-anthony-1955-11
+voice: Frank Anthony
+role: Anglo-Hint topluluğu lideri, Lok Sabha'nın atanmış üyesi
+quote: >-
+  Mustafa Kemal Atatürk, kırbaç cezasını getirdiği için hububatta karaborsacılığın kökünü kazıdı.
+quote_kind: translated
+summary: >-
+  Kırbaç cezasının kaldırılmasına karşı çıkarken, bu cezayı getirerek karaborsacılığın kökünü kazıyan yönetici
+  olarak Kemal Atatürk'ü örnek gösterir.
+caveat: >-
+  Lok Sabha Debates, 30 Kasım 1955, Abolition of Whipping Bill, sütun 804. Lok Sabha Secretariat / Government
+  of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR üzerinden. Anthony'nin kendi
+  argümanı için kullanılmıştır; Kemal'in politikasına ilişkin doğrulanmamış bir iddiadır, yalnızca onun görüşü
+  olarak kaydedilmiştir. Metin resmi tutanağın OCR çıktısından okunmuştur; bariz OCR hataları alıntıda
+  sessizce düzeltilmiştir.
+verification_note: >-
+  Alıntı birebir aynı ('Mustafa Kemal / Ata Turk stamped out black-market-/ing in foodgrains because he
+  intro-/duced whipping'). Sütun 804 doğru. Bakış sınırda (Kemal'in sözde politikasına dair tek cümlelik bir
+  örnek, 'I say we should do it in this country'); yoğunluk 1, instrumental olarak geçer. Kemal hakkındaki
+  olgusal iddia konuşmacıya aittir, burada doğrulanmamıştır; kayıt bunu zaten işaretliyor. Uyarı notundaki
+  'Abolition of Whipping Bill' ifadesi doğru.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden indirildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa üstbilgileri ve konuşma okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 37c611d82cfa
+  role: 78c1828788f2
+  quote: f08ee603467d
+  summary: 6b74d22479e1
+  caveat: "804381427929"
+  verification_note: 8ec3b523c646
+  verification_method: 634050edd257

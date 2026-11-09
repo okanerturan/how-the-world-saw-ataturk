@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ahmet-agaoglu-1969
+voice: Ahmet Ağaoğlu
+voice_type: person
+role: Liberal deputy and publicist, co-founder of the Free Republican Party (1930)
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1969"
+era: posthumous
+polarity: conflicted
+intensity: 2
+artifact: memoir
+evidence: S
+summary: >-
+  Recalls telling the Gazi at his Yalova table in 1930 that a pre-arranged opposition party was too
+  artificial; Kemal grew angry, then laughed.
+quote:
+  text: >-
+    Gazi'ye karşı takınılmasını daima bir namus ve şeref borcu, bir Vatan ve Türklüğün icabı olarak kabul
+    etmiş olduğum doğruluktan ve açıklıktan bu kerre de ayrılmadım. "Bu biraz fazla sunidir!.." dedim
+  language: tr
+mediated_by: >-
+  Soyak, Atatürk'ten Hatıralar (1973), vol. 2, pp. 416-417 ← Ağaoğlu, Serbest Fırka Hatıraları, pp. 4, 10
+caveat: >-
+  TRANSLATION (this record's): 'I did not depart this time either from the honesty and frankness that I had
+  always held, towards the Gazi, to be a debt of honour and a duty to the Fatherland and Turkishness. I said:
+  "This is a bit too artificial!"' Event: Yalova, August 1930, after Fethi's and Kemal's letters were read.
+  DATE: Soyak calls the memoir 'kısmen neşredilen'; its first edition year 1969 is tier M (not verified);
+  Ağaoğlu died 1939, so it was written 1930-39. Through Fethi he reports Kemal wanted 'biraz hürriyet havası'
+  but a party that would be a wing of the RPP. Soyak is a Kemal loyalist and adds his own notes. Read from
+  archive.org OCR; quotation marks normalised and the line-break 'suni- dir' joined. Check: a 1969 Baha
+  Matbaası edition is cited, but an undated Nebioğlu edition also exists; 1969 may not be the first edition.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://archive.org/details/ataturkten-hatiralar-hasan-riza-soyak
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org ataturkten-hatiralar-hasan-riza-soyak, 'Atatürkten Hatıralar 2 - Hasan Rıza Soyak_djvu.txt',
+    printed pp. 416-417 (footnotes citing 'Ahmet Ağaoğlu, Serbest Fırka Hatıraları, s. 4', 's. 10');
+    archive.org FTS on 'Serbest Fırka Hatıraları' for edition data
+  method: archive.org open djvu text read; archive.org FTS (4 queries)
+  note: >-
+    Quote verbatim (OCR 'suni- dir' joined; quotation marks normalised). Soyak calls it 'kısmen neşredilen
+    hatıratında'. İsmet Paşa reads the letters at Kemal's Yalova table; 'Bu cevap üzerine Atatürk
+    sinirlenmiş'; p. 417 'Gazi kahkaha ile güldü'; Fethi passage 'biraz hürriyet havasının esmesini ...
+    Cumhuriyet Halk Fırkası'nın bir cenahı olacaktır'. All present. Translation faithful. DATE: FTS shows a
+    YÖK thesis citing 'Serbest Fırka Hatıraları, Baha Matbaası, İstanbul, 1969, s. 4', so a 1969 edition
+    exists (J-tier). But another book cites a 'Nebioğlu Yayınevi, İstanbul, ta[rihsiz]' edition, and Avşar
+    cites İletişim 1994 as '3. Bs.', so 1969 may be the 2nd edition, not the first. Correction: caveat 'first
+    edition year 1969 is tier M' → '1969 Baha Matbaası edition attested (thesis citation); an undated Nebioğlu
+    edition also exists, so the first edition may be earlier; İletişim 1994 = 3rd'. Posthumous holds in any
+    case. Conflicted is fair (deference to 'the Gazi' plus frank dissent); his own words. Schema ok.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33)
+  checked_on: "2026-11-06"

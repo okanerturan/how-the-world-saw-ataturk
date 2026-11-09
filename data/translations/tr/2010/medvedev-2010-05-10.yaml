@@ -1,0 +1,32 @@
+# Turkish for data/voices/2010/medvedev-2010-05-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: medvedev-2010-05-10
+voice: Dmitry Medvedev
+role: Rusya Devlet Başkanı
+quote: >-
+  Yeni Türkiye'nin kuruluşuna yaptığı katkıyı abartmanın güç olduğu seçkin bir reformcu olan Mustafa Kemal
+  Atatürk'ün kişiliği bende derin bir saygı uyandırıyor.
+quote_kind: translated
+summary: >-
+  Ziyareti öncesinde Türk okurlar için kaleme aldığı yazıda, yeni Türkiye'ye katkısı ne kadar vurgulansa
+  abartı sayılmayacak seçkin bir reformcu olarak Atatürk'e derin saygı duyduğunu belirtir.
+caveat: >-
+  Türk günlük gazetesi Zaman için yazılan ve 10 Mayıs 2010'da kremlin.ru'da yayımlanan 'Россия – Турция: не
+  останавливаясь на достигнутом' başlıklı makale (İngilizce versiyonu 9 Mayıs tarihli). Bir sonraki cümle,
+  genç Cumhuriyet'i tanıyan ilk ülke olarak Rusya'ya ve Kurtuluş Savaşı'ndaki yardımına döner. 12 Mayıs
+  tarihli Anıtkabir defteri kaydı (kremlin.ru haber 7720), Atatürk'ün 'helped to develop all-round relations
+  with Russia' ifadesini ekler.
+verification_note: >-
+  Rusça metin ve Kremlin İngilizce çevirisi birebir aynı; Cumhuriyet'i ilk tanıyan ülkenin Rusya olduğuna dair
+  bir sonraki cümle mevcut; 12 Mayıs tarihli özel defter metni mevcut. P dürüst.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2e267d48690a
+  role: 4e1e9d68afe9
+  quote: 99836330a1a3
+  summary: dcc6fef38600
+  caveat: ce9440378805
+  verification_note: bc5a154bf8dc
+  verification_method: 5300d17a1d69

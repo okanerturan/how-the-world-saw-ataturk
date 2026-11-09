@@ -1,0 +1,34 @@
+# Turkish for data/voices/1934/chatzigiannis-1934-01-26.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: chatzigiannis-1934-01-26
+voice: D. Chatzigiannis
+role: Yunan milletvekili (basılı metinde yalnızca D. baş harfiyle)
+quote: >-
+  Kemal Mustafa'nın örneği, devlet düzeni açısından klasik bir model olarak kalacaktır. Küçük Asya'nın
+  derinliklerinde ayaklanarak hareketini Türk halkının iradesini temsil eden büyük millet meclisi aracılığıyla
+  meşrulaştırdı; oysa esasen kendisi mutlak güç sahibiydi.
+quote_kind: translated
+summary: >-
+  Kemal'i klasik bir devlet yönetimi modeli olarak gösterir: mutlak güç sahibiyken ayaklanmasını bir Millet
+  Meclisi aracılığıyla meşrulaştırmış, hilafeti ve hanedanı kaldırmış, milletvekillerine iyi maaş vermiştir.
+caveat: >-
+  Βουλή Δ΄ περίοδος Α΄ σύνοδος Τόμος 2, 3. kısım, 26 Ocak 1934 Cuma tarihli ΡΑ΄ birleşimi (başlık s. 1780'de),
+  basılı s. 1828-1829 (PDF sayfası 153; sayfa görüntüsü okundu; birebir stenografik metin). Konuşmacının
+  desteklediği milletvekili ödeneklerinin artırılması tartışmasında söylenmiştir: Kemal retorik bir örnektir
+  (Türk Meclisi üyelerine ayda 37.000 drahmi ödemektedir). Tali bir milletvekili; ön ad olarak yalnızca D. baş
+  harfi verilmiştir.
+verification_note: >-
+  Alıntı sayfa görüntüsünde birebir aynı. Tali milletvekili (yalnızca D. baş harfi); birebir parlamento görüşü
+  olarak korundu.
+verification_method: >-
+  sayfa görüntüsü 240 dpi çözünürlükte işlendi ve politonik Yunanca OKUNDU (derleyici değil, ana ajan)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f94e87003fc5
+  role: e4176e5597a0
+  quote: ae3760725b79
+  summary: "052032413472"
+  caveat: b823f9d35d92
+  verification_note: 38971eca0fdd
+  verification_method: 4263b388266b

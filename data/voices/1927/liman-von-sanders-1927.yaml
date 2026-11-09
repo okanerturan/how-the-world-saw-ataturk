@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: liman-von-sanders-1927
+voice: Otto Liman von Sanders
+voice_type: person
+role: German general, commander of the Fifth Army at Gallipoli; memoir Five Years in Turkey
+country: Germany
+country_now: Germany
+domain: military
+date: "1927"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: memoir
+evidence: P
+summary: >-
+  Gives the 19th Division commander the Anafarta group in August 1915, trusting his energy, and in October
+  1918 hands over the Army Group to Kemal.
+quote:
+  text: I had full confidence in his energy.
+  language: en
+caveat: >-
+  Five Years in Turkey (English translation, US Naval Institute, 1927), p. 86 (running head '86 FIVE YEARS IN
+  TURKEY'); open DLI scan in.ernet.dli.2015.24341. Same passage, p. 85: 'Mustapha Kemal, who earned his first
+  military laurels in Cyrenaica, was a leader that delighted in responsibility' (OCR reads 'reponsibility').
+  His farewell order of 31 Oct 1918 (p. 320) hands over to 'H. E. General Mustapha Kemal' 'proved in many a
+  glorious battle'. The German original is Fünf Jahre Türkei (1920). In the same book Liman says Kemal 'did
+  not want' the Seventh Army command in 1918 and 'did not keep it'. He writes as Kemal's commander and later a
+  defeated ally; no later verdict on the president.
+node: Soldiers on Mustafa Kemal in Their Own Words, 1915–1940
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.24341
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Liman von Sanders, Five Years in Turkey (US Naval Institute 1927), archive.org in.ernet.dli.2015.24341,
+    2015.24341.Five-Years-In-Turkey_djvu.txt
+  method: curl of the open djvu text, read in context; page from the running head
+  note: >-
+    Verbatim, split by the page break: '...tenaciously and inflexibly resisting all attacks. [86 FIVE YEARS IN
+    TURKEY] I had full confidence in his energy.' On p. 86 (the sentence 'Mustapha Kemal ... delighted in
+    reponsibility' [sic, OCR] is on p. 85). Context: 19th Division commander given all Anafarta troops that
+    evening (Aug 1915). Farewell order Adana 31 Oct 1918 on p. 320 ('placing the command of the Army Group
+    into the hands, proved in many a glorious battle, of H. E. General Mustapha Kemal') and the Seventh Army
+    remark ('did not want the command and did not keep it') both confirmed. Polarity admiring, intensity 2
+    fair. ERA FIX: era must be 'contemporary' (1927, Kemal alive as President), not 'posthumous'. Note:
+    copyright 1927 is the English translation; the German original Fuenf Jahre Tuerkei is 1920, so the
+    judgement was first printed while Kemal was a wartime/republic-era figure; era contemporary either way.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

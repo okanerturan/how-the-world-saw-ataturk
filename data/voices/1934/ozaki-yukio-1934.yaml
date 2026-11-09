@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ozaki-yukio-1934
+voice: Ozaki Yukio
+voice_type: person
+role: Veteran Japanese Diet member, 'father of the constitution'
+country: Japan
+country_now: Japan
+domain: politics
+date: "1934"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: book
+evidence: P
+summary: >-
+  Lists Kemal with Mussolini and Hitler as dictator-heroes of the post-war world, noting Kemal's more than ten
+  years of 'rarely seen success'.
+quote:
+  text: ムツソリニとケマルとは共に十餘年を經てゐるから、其の人物性行及び事業は旣によく全世界に知られ、世にも稀れなる成功を示しておる。
+  language: ja
+caveat: >-
+  Kindai kairaku-roku (1934), printed p. 268 (NDL image 77). OCR only. Ozaki calls them 'successful dictators'
+  without moral endorsement; admiring on the success only. Check: printed pp. 126–127 (NDL image 77), not 268.
+node: Japanese Statesmen on Kemal, 1923–1939 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1223756
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: NDL pid 1223756 (Kindai kairaku-roku), image 77 = printed pp. 126-127
+  method: >-
+    NDL Digital Collections page image (dl.ndl.go.jp IIIF) + lab.ndl.go.jp fulltext-json; viewed image
+  note: >-
+    Quote verbatim, but on printed p. 127 (left page of image 77; p. 126 introduces Mussolini, Kemal and
+    Hitler as three world figures who succeeded as dictators), NOT p. 268 as recorded: correct the page.
+    Judgment of Kemal ('more than ten years ... rarely seen success') is explicit, paired with Mussolini, so
+    passes the strict test as a weak admiring gaze. Keep, intensity 1.
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (rounds 26–28)
+  checked_on: "2026-11-05"

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hitler-1938
+voice: Adolf Hitler
+voice_type: person
+role: Reich Chancellor
+country: Germany
+country_now: Germany
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: nation-forge-template
+artifact: telegram
+evidence: P
+summary: >-
+  Called him a great soldier and statesman whose new Turkish state is a monument outlasting generations.
+quote:
+  text: >-
+    mit ihm ist ein grosser Soldat, ein genialer Staatsmann und eine geschichtliche Persönlichkeit
+    dahingegangen … in der Errichtung des neuen türkischen Reiches hat sich Atatürk ein Denkmal gesetzt,
+    dessen Bestand die Generationen überdauern wird
+  language: de
+caveat: >-
+  German original (c2, PDF p. 14). Note 'Reiches' (Reich), rendered 'state' in earlier English versions. Genre
+  formula of a condolence cable; what the sender chose to tell Ankara, not private feeling.
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    a local working file (TBMM condolence OCR) (German cable, 'grosser soldat, genialer staatsmann,
+    geschichtliche persoenlichkeit ... denkmal gesetzt')
+  method: local
+  checked_on: "2026-10-29"

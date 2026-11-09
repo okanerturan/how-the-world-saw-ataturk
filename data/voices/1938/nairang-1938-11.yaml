@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nairang-1938-11
+voice: Ghulam Bhik Nairang
+voice_type: person
+role: Muslim member for East Punjab, Central Legislative Assembly
+country: British India
+country_now: India
+domain: politics
+date: "1938-11-14"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  As a Muslim, calls Kemal the most prominent figure in Asia, who revived a dead polity, a 'veritable Messiah
+  of modern Turkey'.
+quote:
+  text: >-
+    It was given to Mustafa Kemal Pasha to effect such marvellous changes as to make him a veritable Messiah
+    of modern Turkey
+  language: en
+caveat: >-
+  Legislative Assembly Debates, vol. VII (Government of India Press, Delhi 1938), 14 Nov 1938, pp. 2954-55.
+  Official report digitised by the Lok Sabha Secretariat / Government of India Press, via archive.org OCR. He
+  also asks that the House adjourn for the day in respect. Text read from the OCR of the official report;
+  obvious OCR slips are silently corrected in the quote.
+node: >-
+  Indian Legislative Assembly Mourns Kemal, 14 November 1938 — Desai, Nairang, Aney, Aikman, Zafar Ali Khan
+  and Sir Abdur Rahim
+sources:
+  - url: https://archive.org/download/in.ernet.dli.2015.13994/2015.13994.The-Legislative-Assembly-Debates--vol-vii-Th-1938_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Legislative Assembly Debates vol. VII (in.ernet.dli.2015.13994), 14 Nov 1938, pp. 2954-55; quote falls on
+    p. 2955 (OCR header '2m'); speaker header 'Syed Ghulam Bilik Nairang (East Punjab: Muhammadan)'
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: Quote verbatim (only OCR 'a{^,' = 'as,'). Speech asks for adjournment as stated. Fair.
+  checked_on: "2026-11-03"

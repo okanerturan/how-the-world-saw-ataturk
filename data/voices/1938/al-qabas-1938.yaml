@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-qabas-1938
+voice: Al-Qabas
+voice_type: press
+role: Damascus paper
+country: Syria (French Mandate)
+country_now: Syria
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: article
+evidence: S
+summary: Syrians share the grief; the best consolation is to follow the road the great genius drew.
+quote:
+  text: >-
+    we Syrians share the grief with all our hearts; our greatest consolation is to follow the road the great
+    genius drew
+  language: en
+mediated_by: >-
+  Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Nov 1938, Ayın Tarihi (Turkish translations of Arabic)
+caveat: >-
+  Quotes reach us through Turkish dailies' translations; paper-title transliterations are conjectural.
+node: Damascus and Beirut Weep, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt §Suriye fn96/text: Şam "İlkabes" gazetesi "Kardeş milletin
+    uğradığı bu acı karşısında bizim en büyük tesellimiz büyük dâhinin çizdiği yolu takip etmektir" (Akşam 21
+    Nov 1938 p.4)
+  method: local
+  note: >-
+    Translation of Turkish translation; paper identification as Al-Qabas conjectural (Toksoy gives
+    Elkabes/İlkabes).
+  checked_on: "2026-10-29"

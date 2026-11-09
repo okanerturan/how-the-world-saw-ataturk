@@ -1,0 +1,33 @@
+# Turkish for data/voices/1925/banerjea-1925.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: banerjea-1925
+voice: Surendranath Banerjea
+role: Ilımlı Hint milliyetçisi, eski Bengal bakanı
+quote: >-
+  Bu artık, Hindistan Hükümeti'nin Hindistan'daki kamuoyunca desteklenen ve Mustafa Kemal Paşa'nın askeri
+  zaferleriyle pekiştirilen ısrarı sayesinde büyük ölçüde başarılmıştır.
+quote_kind: translated
+summary: >-
+  Hilafet meselesinin çözümünü kısmen, Hint kamuoyunu pekiştiren 'Mustafa Kemal Paşa'nın askeri zaferleri'ne
+  bağlar.
+caveat: >-
+  A Nation in Making (Oxford, 1925), 31. bölüm, taranmış kitabın Wikisource transkripsiyonu (Page:A Nation in
+  Making.djvu/314, basılı s. 298 ve devamı). Banerjea, 1919'da Hilafet sorunu üzerine bir Müslüman
+  toplantısına başkanlık ettiğini yazar ve Sevr revizyonunu kısmen Kemal'in ordusunun bir zaferi olarak
+  değerlendirir; Kemal hakkında kişisel bir değerlendirme yoktur. Tarama incelenmedi.
+verification_note: >-
+  Birebir aynı. Üstbilgide yıl 1925. Bakış sınırda: Hilafet çözümünü pekiştirmesini Mustafa Kemal Paşa'nın
+  'military triumphs' başarısına bağlar; kişinin kendisine dair bir değerlendirme yok. Geçerken değinilen tek
+  bir yan tümce; 'araçsal' nitelemesi zorlama olur (onu kullanmıyor, hakkını teslim ediyor). Yalnızca
+  yoğunluk-1 düzeyinde tanıklık benzeri kayıtlar isteniyorsa tutulmalı.
+verification_method: işlenmiş sayfa çekildi, dizge eşleştirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 16c1db0fbf32
+  role: 4d4ccff265c7
+  quote: 6f4e3075a448
+  summary: de8977ed025e
+  caveat: 616fd42309d3
+  verification_note: 8f3d60f79af5
+  verification_method: 72f7fa42fcd7

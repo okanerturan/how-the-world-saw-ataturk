@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rash-behari-bose-1933
+voice: Rash Behari Bose
+voice_type: person
+role: Indian nationalist exiled in Japan
+country: British India
+country_now: India
+domain: letters
+date: "1933"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  Wrote 'Kemal Pasha and the New Turkey' in Daiajia; also co-authored a 1930 survey with a chapter on
+  revolutionary Turkey.
+mediated_by: Shimizu 2013 bibliography
+caveat: Bibliography lists titles only; no article has been read.
+node: Japanese Print Culture on Kemal Pasha, 1922–1939
+sources:
+  - url: https://opac.ll.chiba-u.jp/da/curator/900116900/2013no.232_113_132.pdf
+    archived: https://web.archive.org/web/20251202130130/https://opac.ll.chiba-u.jp/da/curator/900116900/2013no.232_113_132.pdf
+verification:
+  verdict: confirmed
+  checked_against: >-
+    https://opac.ll.chiba-u.jp/da/curator/900116900/2013no.232_113_132.pdf (Shimizu 2013 bibliography)
+  method: fetch
+  note: >-
+    Daiajia 1(5) 1933 'Kemal Pasha to shin Dorukko' and 1930 Bose/Nakatani 'Kakumei Ajia tenbo' chapter on
+    revolutionary Turkey confirmed by title only; polarity 'witness' unassessable without text
+  checked_on: "2026-10-29"

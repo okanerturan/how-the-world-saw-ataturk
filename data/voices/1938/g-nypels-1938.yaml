@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: g-nypels-1938
+voice: G. Nypels
+voice_type: person
+role: Correspondent, Bataviaasch Nieuwsblad
+country: Dutch East Indies
+country_now: Indonesia
+domain: press
+date: "1938-11-21"
+era: funeral
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Reminiscence of Ankara 1920-21: iron will, great intelligence and the ruthlessness necessary for this East;
+  hodjas, his hatred of the clergy; secret followers of old ways 'with Oriental cunning'.
+quote:
+  text: >-
+    den ijzeren wil, met de groote intelligentie en de voor dit Oosten noodzakelijke meedoogenloosheid
+  language: nl
+caveat: >-
+  Quote is Dutch body text (gloss: iron will, great intelligence, the ruthlessness necessary for this East),
+  not a headline; the OCR returned no headline or byline, so 'G. Nypels' and the title 'Bij den dood van Kemal
+  Atatürk' are unverified. The issue (Bataviaasch Nieuwsblad, 21 Nov 1938) is from KB issue metadata. The note
+  reads admiration and orientalism together.
+node: Dutch East Indies Press, November 1938
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:011122903:mpeg21:a0177:ocr
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: https://resolver.kb.nl/resolve?urn=ddd:011122903:mpeg21:a0177:ocr
+  method: fetch
+  note: >-
+    Body text has 'den ijzeren wil, met de groote intelligentie en de voor dit Oosten noodzakelijke
+    meedoogenloosheid' (Dutch, translated by dataset) plus hodsja hatred and 'Oostersche sluwheid'; OCR
+    returned without headline, byline or date, so the 'headline', G. Nypels and 21 Nov unverified
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cavid-bey-kars-tbmm-1921-10-31
+voice: Cavid Bey (Kars)
+voice_type: person
+role: Kars deputy, First Grand National Assembly
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-10-31"
+era: contemporary
+polarity: instrumental
+intensity: 2
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Argued the Commander-in-Chief must stay: Kemal's command revived the army after Eskişehir, and curtailing
+  the law would tell the world Turkey had stopped short.
+quote:
+  text: Yalnız Başkumandan Paşa, Başkumandanlıkta kalmalıdır.
+  language: tr
+caveat: >-
+  Printed pp. 475-476; the quoted sentence is on p. 476. The case is framed by military and foreign-policy
+  reasons rather than personal praise.
+node: TBMM Closed Session of 31 October 1921 — Renewing the Commander-in-Chief
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+    archived: https://web.archive.org/web/20250915054819/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Gizli Celse Zabitlari Cilt 2 (102nd sitting, 31 Tesrinievvel 1337), p.476
+  method: pdftotext of Cilt 2; sentence falls after foot 475, before foot 476
+  note: Exact; army-revival and 'hariç duyacak' arguments present.
+  checked_on: "2026-10-30"

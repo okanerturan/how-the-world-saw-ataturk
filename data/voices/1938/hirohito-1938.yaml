@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hirohito-1938
+voice: Emperor Hirohito
+voice_type: person
+role: Emperor of Japan
+country: Japan
+country_now: Japan
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Learned with deep affliction of the death of Kamal Ataturk.
+quote:
+  text: >-
+    c'est avec une vive affliction que j'apprends la mort de S.E.M. Kamal Ata Turk, président de la République
+    turque
+  language: fr
+caveat: French original (c1, PDF p. 28); protocol formula, no stated view.
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    a local working file (Tokyo 11/11, French 'avec une vive affliction que j'apprends la mort de S.E. Kamal
+    Ataturk ... Hirohito')
+  method: local
+  note: Quote is English rendering of French; ellipsis stands for 'S.E.'; note states translated.
+  checked_on: "2026-10-29"

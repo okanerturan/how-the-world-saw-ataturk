@@ -1,0 +1,236 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/okanerturan/how-the-world-saw-ataturk/main/data/schema/voice.schema.json",
+  "title": "Voice record",
+  "description": "One documented voice on Atatürk at one moment: who spoke, when, what they saw in him, their own words, and the source. File: data/voices/<YYYY>/<id>.yaml.\n\nTR: Atatürk hakkında belgelenmiş bir ses, tek bir anda: kim konuştu, ne zaman, onda ne gördü, kendi sözleri ve kaynağı. Dosya: data/voices/<YYYY>/<id>.yaml.",
+  "type": "object",
+  "required": ["id", "voice", "voice_type", "role", "country", "country_now", "domain", "date", "polarity", "summary", "sources"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "description": "Unique id in kebab-case (lowercase letters, digits, hyphens), the same as the file name without .yaml. Convention: <voice-slug>-<year>, plus -<mm>, -<dd> or a word when needed to tell two apart. Example: rabindranath-tagore-1926.\n\nTR: Benzersiz kimlik; küçük harf, rakam ve tire. Dosya adıyla aynı (.yaml olmadan). Kural: <ses-adı>-<yıl>; iki kaydı ayırmak gerekirse -<ay>, -<gün> ya da bir sözcük eklenir. Örnek: rabindranath-tagore-1926.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "examples": ["rabindranath-tagore-1926"]
+    },
+    "voice": {
+      "description": "The person, newspaper, institution or collective, named as in the source.\n\nTR: Kişi, gazete, kurum ya da topluluk; kaynaktaki adıyla.",
+      "type": "string",
+      "minLength": 1,
+      "examples": ["Rabindranath Tagore"]
+    },
+    "voice_type": {
+      "description": "person · press (a newspaper or magazine) · institution · collective (an unnamed crowd or community) · self (Atatürk's own words about himself; hidden in the exhibition).\n\nTR: person (kişi) · press (gazete, dergi) · institution (kurum) · collective (adı olmayan kalabalık ya da topluluk) · self (Atatürk'ün kendisi hakkındaki sözleri; sergide gösterilmez).",
+      "enum": ["person", "press", "institution", "collective", "self"]
+    },
+    "role": {
+      "description": "Short description of the voice, in English: \"Hungarian PM\", \"Prague daily\", \"Islamic reformer\".\n\nTR: Sesin kısa tanımı, İngilizce: \"Hungarian PM\", \"Prague daily\", \"Islamic reformer\".",
+      "type": "string",
+      "minLength": 1,
+      "examples": ["Poet, Nobel laureate"]
+    },
+    "country": {
+      "description": "The voice's country (polity) at the time, e.g. \"British India\", \"Ottoman Empire\".\n\nTR: Sesin o tarihteki ülkesi (siyasi birim), ör. \"British India\", \"Ottoman Empire\".",
+      "type": "string",
+      "minLength": 1
+    },
+    "country_now": {
+      "description": "The modern successor of country, e.g. \"India\"; the same as country if unchanged.\n\nTR: country alanının bugünkü karşılığı, ör. \"India\"; değişmediyse country ile aynı.",
+      "type": "string",
+      "minLength": 1
+    },
+    "domain": {
+      "description": "The field the voice speaks from: politics · letters · arts · military · religion · science · press · sport · diplomacy.\n\nTR: Sesin konuştuğu alan: politics (siyaset) · letters (edebiyat) · arts (sanat) · military (askerlik) · religion (din) · science (bilim) · press (basın) · sport (spor) · diplomacy (diplomasi).",
+      "enum": ["politics", "letters", "arts", "military", "religion", "science", "press", "sport", "diplomacy"]
+    },
+    "date": {
+      "description": "When the voice spoke, as a quoted string: \"YYYY\", \"YYYY-MM\", \"YYYY-MM-DD\", or a decade \"1980s\". Its first four characters are the year folder: data/voices/<YYYY>/.\n\nTR: Sesin konuştuğu tarih, tırnak içinde: \"YYYY\", \"YYYY-AA\", \"YYYY-AA-GG\" ya da on yıl \"1980s\". İlk dört karakteri yıl klasörüdür: data/voices/<YYYY>/.",
+      "type": "string",
+      "pattern": "^(\\d{4}(-(0[1-9]|1[0-2])(-(0[1-9]|[12]\\d|3[01]))?)?|\\d{3}0s)$",
+      "examples": ["1938-11-10", "1926-11", "1934", "1980s"]
+    },
+    "era": {
+      "description": "contemporary (up to 9 Nov 1938) · funeral (10 Nov–31 Dec 1938) · posthumous (1939 on). Must agree with the date when the date decides it.\n\nTR: contemporary (9 Kasım 1938'e kadar, sağlığında) · funeral (10 Kasım–31 Aralık 1938, ölümü ve cenazesi) · posthumous (1939 ve sonrası). Tarih belirliyorsa tarihle uyuşmalı.",
+      "enum": ["contemporary", "funeral", "posthumous"]
+    },
+    "polarity": {
+      "description": "How the voice stands toward him: admiring · hostile · conflicted · instrumental (praise serving the speaker's own agenda) · witness (reports or attends, no stated view).\n\nTR: Sesin ona karşı tutumu: admiring (hayran) · hostile (düşmanca) · conflicted (çelişkili) · instrumental (konuşanın kendi amacına hizmet eden övgü) · witness (tanık; aktarır ya da katılır, görüş bildirmez).",
+      "enum": ["admiring", "hostile", "conflicted", "instrumental", "witness"]
+    },
+    "intensity": {
+      "description": "1 passing mention · 2 sustained (an article, a speech) · 3 life- or state-shaping.\n\nTR: 1 geçerken değinme · 2 sürekli (bir makale, bir konuşma) · 3 bir hayatı ya da devleti biçimlendiren.",
+      "type": "integer",
+      "enum": [1, 2, 3]
+    },
+    "mirror": {
+      "description": "What the speaker saw in him, if one of these fits; otherwise leave the key out. anti-colonial-liberator · secular-rationalist-prophet · volkisch-purifier · bourgeois-revolutionary · nation-forge-template · apostate · emancipator-patriarch · chivalrous-enemy · internal-mirror · modernization-poster-child.\n\nTR: Konuşanın onda gördüğü, bunlardan biri uyuyorsa; uymuyorsa alanı hiç yazmayın. anti-colonial-liberator (sömürgeciliğe karşı kurtarıcı) · secular-rationalist-prophet (laik, akılcı peygamber) · volkisch-purifier (etnik arındırıcı) · bourgeois-revolutionary (burjuva devrimci) · nation-forge-template (ulus kurmanın örneği) · apostate (dinden dönen) · emancipator-patriarch (özgürleştiren ata) · chivalrous-enemy (mert düşman) · internal-mirror (Türkiye içinden bakış) · modernization-poster-child (modernleşmenin vitrini).",
+      "enum": [
+        null,
+        "anti-colonial-liberator",
+        "secular-rationalist-prophet",
+        "volkisch-purifier",
+        "bourgeois-revolutionary",
+        "nation-forge-template",
+        "apostate",
+        "emancipator-patriarch",
+        "chivalrous-enemy",
+        "internal-mirror",
+        "modernization-poster-child"
+      ]
+    },
+    "artifact": {
+      "description": "The form of the testimony: quote · editorial · article · poem · book · speech · policy · visit · telegram · memoir · artwork · monument · ceremony · nomination · broadcast · report · letter · meeting.\n\nTR: Tanıklığın biçimi: quote (söz) · editorial (başyazı) · article (makale) · poem (şiir) · book (kitap) · speech (konuşma) · policy (politika) · visit (ziyaret) · telegram (telgraf) · memoir (anı) · artwork (sanat eseri) · monument (anıt) · ceremony (tören) · nomination (aday gösterme) · broadcast (yayın) · report (rapor) · letter (mektup) · meeting (görüşme).",
+      "enum": ["quote", "editorial", "article", "poem", "book", "speech", "policy", "visit", "telegram", "memoir", "artwork", "monument", "ceremony", "nomination", "broadcast", "report", "letter", "meeting"]
+    },
+    "evidence": {
+      "description": "Source tiers joined by +: P primary (the voice's own text, contemporary print) · S secondary scholarship · J journalism · F a figure's own later account · T tertiary/reference. Example: P+S.\n\nTR: + ile birleştirilmiş kaynak düzeyleri: P birincil (sesin kendi metni, dönemin basını) · S ikincil akademik çalışma · J gazetecilik · F bir kişinin sonradan kendi anlatımı · T üçüncül/başvuru kaynağı. Örnek: P+S.",
+      "type": "string",
+      "pattern": "^[PSJFT](\\+[PSJFT])*$",
+      "examples": ["P", "P+S", "S+J"]
+    },
+    "summary": {
+      "description": "OUR paraphrase, in English, of what they saw in him: 25 words or fewer (the validator warns above 25). Not their words: those go in quote.\n\nTR: Onda ne gördüklerinin BİZİM yazdığımız İngilizce özeti: en fazla 25 sözcük (25'i aşarsa doğrulayıcı uyarır). Onların sözleri değil; onlar quote alanına yazılır.",
+      "type": "string",
+      "minLength": 1
+    },
+    "quote": { "$ref": "#/$defs/quote" },
+    "mediated_by": {
+      "description": "The chain when the words are known second-hand, where we read it ← where they took it from: \"Toksoy 2006 ← Cumhuriyet 14 Nov 1938\".\n\nTR: Sözler ikinci elden biliniyorsa aktarım zinciri, okuduğumuz yer ← onların aldığı yer: \"Toksoy 2006 ← Cumhuriyet 14 Nov 1938\".",
+      "type": "string"
+    },
+    "caveat": {
+      "description": "Hedges the reader should know: single source, inference, unresolved attribution.\n\nTR: Okurun bilmesi gereken çekinceler: tek kaynak, çıkarım, kesinleşmemiş atıf.",
+      "type": "string"
+    },
+    "node": {
+      "description": "Title of the research note in vault/ this record belongs to (optional for new community records).\n\nTR: Kaydın ait olduğu vault/ içindeki araştırma notunun başlığı (topluluktan gelen yeni kayıtlarda isteğe bağlı).",
+      "type": "string"
+    },
+    "sources": {
+      "description": "Where the voice is documented: at least one source, each with a url or a citation.\n\nTR: Sesin belgelendiği yer: en az bir kaynak; her birinde url ya da citation bulunmalı.",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/source" }
+    },
+    "verification": { "$ref": "#/$defs/check" }
+  },
+  "$defs": {
+    "quote": {
+      "description": "The voice's OWN words, verbatim as printed in the source, in the source's language.\n\nTR: Sesin KENDİ sözleri; kaynakta basıldığı gibi, harfi harfine, kaynağın dilinde.",
+      "type": "object",
+      "required": ["text"],
+      "additionalProperties": false,
+      "properties": {
+        "text": {
+          "description": "The words exactly as printed; … marks omitted words. No translation here: an English translation goes in translation.\n\nTR: Basıldığı gibi sözler; atlanan yerler … ile gösterilir. Çeviri buraya yazılmaz; İngilizce çeviri translation alanına.",
+          "type": "string",
+          "minLength": 1
+        },
+        "language": {
+          "description": "Language of text: ISO 639-1 code (en, tr, fr, de …) or ota for Ottoman Turkish in Arabic script.\n\nTR: Metnin dili: ISO 639-1 kodu (en, tr, fr, de …) ya da Arap harfli Osmanlı Türkçesi için ota.",
+          "type": "string",
+          "pattern": "^([a-z]{2}|ota)$",
+          "examples": ["en", "tr", "fr", "ota"]
+        },
+        "translation": {
+          "description": "An English translation, when text is not in English.\n\nTR: Metin İngilizce değilse İngilizce çevirisi.",
+          "type": "string"
+        },
+        "note": {
+          "description": "Editorial note about the passage.\n\nTR: Pasaj hakkında editoryal not.",
+          "type": "string"
+        },
+        "is_translation": {
+          "description": "true when text is itself a translation and the original is not available.\n\nTR: Metin zaten bir çeviriyse ve özgün metne ulaşılamıyorsa true.",
+          "type": "boolean"
+        },
+        "needs_split": {
+          "description": "true when several passages and their translations are interleaved in text; to be cleaned up.\n\nTR: Metinde birden çok pasaj ve çevirileri iç içe geçmişse true; ayrılması gerekiyor.",
+          "type": "boolean"
+        }
+      }
+    },
+    "source": {
+      "description": "One source. Give its url; when there is no link, give a full citation instead.\n\nTR: Bir kaynak. Bağlantısını (url) verin; bağlantı yoksa tam künyesini (citation) yazın.",
+      "type": "object",
+      "additionalProperties": false,
+      "anyOf": [{ "required": ["url"] }, { "required": ["citation"] }],
+      "properties": {
+        "url": {
+          "description": "Link to the source, starting with http:// or https://.\n\nTR: Kaynağın bağlantısı; http:// ya da https:// ile başlar.",
+          "type": "string",
+          "pattern": "^https?://\\S+$"
+        },
+        "archived": {
+          "description": "A Wayback Machine (https://web.archive.org/web/…) or archive.today (archive.ph) copy of url.\n\nTR: url'nin Wayback Machine (https://web.archive.org/web/…) ya da archive.today (archive.ph) kopyası.",
+          "type": "string",
+          "pattern": "^https?://(web\\.archive\\.org|archive\\.(today|ph|is|li|md|vn|fo))/\\S+$"
+        },
+        "label": {
+          "description": "Short name of the source as shown on the site.\n\nTR: Kaynağın sitede görünecek kısa adı.",
+          "type": "string"
+        },
+        "citation": {
+          "description": "Full citation (author, title, publisher or archive, year, page); required when there is no url.\n\nTR: Tam künye (yazar, başlık, yayınevi ya da arşiv, yıl, sayfa); url yoksa zorunlu.",
+          "type": "string",
+          "minLength": 1
+        },
+        "page": {
+          "description": "Page, column or folio in the source.\n\nTR: Kaynaktaki sayfa, sütun ya da yaprak.",
+          "type": ["string", "integer"]
+        },
+        "accessed": {
+          "description": "When the link was read: \"YYYY-MM-DD\".\n\nTR: Bağlantının okunduğu tarih: \"YYYY-AA-GG\".",
+          "type": "string",
+          "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$"
+        }
+      }
+    },
+    "check": {
+      "description": "Independent check of the source, added by a maintainer or checker after re-opening it, never by the person who added the record. Without it the record is kept but not shown in the exhibition; not-found and contradicted are not shown either.\n\nTR: Kaynağın bağımsız denetimi; kaynağı yeniden açan bir bakımcı ya da denetçi ekler, kaydı ekleyen kişi asla eklemez. Bu blok yoksa kayıt saklanır ama sergide gösterilmez; not-found ve contradicted kararları da gösterilmez.",
+      "type": "object",
+      "required": ["verdict"],
+      "additionalProperties": false,
+      "properties": {
+        "verdict": {
+          "description": "confirmed · paraphrase-ok (the summary holds, wording differs) · partial · secondary-only (only secondary sources found) · unreachable (source could not be opened) · not-found · contradicted.\n\nTR: confirmed (doğrulandı) · paraphrase-ok (özet doğru, sözler farklı) · partial (kısmen) · secondary-only (yalnız ikincil kaynak) · unreachable (kaynak açılamadı) · not-found (bulunamadı) · contradicted (kaynak aksini söylüyor).",
+          "enum": ["confirmed", "paraphrase-ok", "partial", "secondary-only", "unreachable", "not-found", "contradicted"]
+        },
+        "quote_found": {
+          "description": "Whether the quote was found in the source.\n\nTR: Alıntının kaynakta bulunup bulunmadığı.",
+          "type": "boolean"
+        },
+        "checked_against": {
+          "description": "What the checker read: the source, edition or page, and the passage found.\n\nTR: Denetçinin okuduğu: kaynak, baskı ya da sayfa, ve bulunan pasaj.",
+          "type": "string"
+        },
+        "method": {
+          "description": "How the source was checked, e.g. fetch, page image read, pdftotext.\n\nTR: Kaynağın nasıl denetlendiği, ör. fetch, sayfa görüntüsü okundu, pdftotext.",
+          "type": "string"
+        },
+        "note": {
+          "description": "What the check found that the reader should know.\n\nTR: Denetimde bulunan, okurun bilmesi gereken şey.",
+          "type": "string"
+        },
+        "resolution": {
+          "description": "How a problem found by the check was resolved in the record.\n\nTR: Denetimde bulunan bir sorunun kayıtta nasıl giderildiği.",
+          "type": "string"
+        },
+        "checked_on": {
+          "description": "Date of the check: \"YYYY-MM-DD\".\n\nTR: Denetim tarihi: \"YYYY-AA-GG\".",
+          "type": "string",
+          "format": "date"
+        },
+        "checked_by": {
+          "description": "Who checked: a name or GitHub handle.\n\nTR: Denetleyen: ad ya da GitHub kullanıcı adı.",
+          "type": "string"
+        },
+        "earlier": {
+          "description": "Previous checks of this record, in the same shape.\n\nTR: Bu kaydın önceki denetimleri, aynı biçimde.",
+          "type": "array",
+          "items": { "$ref": "#/$defs/check" }
+        }
+      }
+    }
+  }
+}

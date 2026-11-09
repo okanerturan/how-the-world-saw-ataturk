@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: l-humanite-1938
+voice: L'Humanité
+voice_type: press
+role: Paris Communist daily
+country: France
+country_now: France
+domain: press
+date: "1938-11-11"
+era: funeral
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Freed Turkey from caliphate and British designs and kept Soviet friendship, yet repressed socialists and
+  communists; his death might open Turkey to Hitler.
+quote:
+  text: >-
+    Disons cependant que le gouvernement d'Ataturk exerça une répression féroce contre le mouvement socialiste
+    et communiste.
+  language: fr
+caveat: Quote copied from Gallica OCR; read as search-hit fragments, not the whole article.
+node: Paris Reads the Death, 11–12 November 1938
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k4076255
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: gallica ContentSearch ark bpt6k4076255 (L'Humanité 11 Nov 1938), p.1 and p.3 hits
+  method: fetch
+  note: >-
+    Front-page: 'libéra la Turquie du joug du califat et des visées anglaises ... disparition peut favoriser
+    la poussée hitlérienne'. Fragments only, not full page; quote verbatim in p.3 fragment.
+  checked_on: "2026-10-29"

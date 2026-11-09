@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: glas-svobode-1922
+voice: Glas svobode (Chicago)
+voice_type: press
+role: Slovenian-language freethought daily, Chicago
+country: United States
+country_now: United States
+domain: press
+date: "1922-12-01"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  After Mudanya the sultan is gone and the caliphate lies open to Kemal; he has proved his energy and ability,
+  but rivals loom.
+quote:
+  text: Da Kemalu ne manjka energije in sposobnosti, je zadostno pokazal.
+  language: sl
+caveat: >-
+  Unsigned; also on p. 5 a 'Balkanska zveza' feature wary that Kemal will want to protect Muslims everywhere;
+  the paper's stance is partly inferred from that.
+node: America's Immigrant Press Reads Kemal, 1922–1938
+sources:
+  - url: https://www.loc.gov/resource/sn83045203/1922-12-01/ed-1/?sp=5
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Chronicling America sn83045203 1922-12-01 p.5 OCR
+  method: tile.loc.gov full_text
+  note: >-
+    Verbatim (OCR: line-break hyphens). Mudanya, sultan gone, path to caliphate, Enver as rival; wary of Kemal
+    as protector of Muslims.
+  checked_on: "2026-10-30"

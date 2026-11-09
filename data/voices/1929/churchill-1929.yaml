@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: churchill-1929
+voice: Winston Churchill
+voice_type: person
+role: Former Secretary of State for War; author of The World Crisis
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1929"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: chivalrous-enemy
+artifact: book
+evidence: P
+summary: >-
+  Calls Kemal a 'Man of Destiny' with a 'Warrior Prince's' qualities and his 1922 offensive 'masterly', yet
+  ties his army to Smyrna's burning.
+quote:
+  text: His operations were complicated and masterly.
+  language: en
+caveat: >-
+  Second quote in the same volume, p. 367-368: 'Mustapha Kemal, the Man of Destiny whom we have met in these
+  volumes on the Gallipoli Peninsula ... was furnished with the power, as he already possessed the qualities,
+  of a Warrior Prince.' On p. 419 the same author writes that Kemal's army 'celebrated their triumph by the
+  burning of Smyrna to ashes and by a vast massacre of its Christian population', so the book is both admiring
+  of the general and hostile to the outcome. Page numbers taken from the running heads of the 1929 Thornton
+  Butterworth edition's djvu text (OCR); p. 418 for the quoted line. Existing record churchill-1920 is a
+  different, hostile Commons statement.
+node: Western Statesmen and Churchmen on Atatürk in Their Own Words
+sources:
+  - url: https://archive.org/stream/in.ernet.dli.2015.209928/2015.209928.The-World_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Churchill, The World Crisis: The Aftermath (Thornton Butterworth 1929), archive.org
+    in.ernet.dli.2015.209928 djvu.txt, running heads pp. 367-368, 418, 419
+  method: curl of archive.org djvu text; grep and read context with running heads
+  note: >-
+    Verbatim on p. 418 ('His operations were complicated and masterly.'). Caveat quotes also verbatim:
+    'Mustapha Kemal, the Man of Destiny ... was furnished with the power, as he already possessed the
+    qualities, of a Warrior Prince' (pp. 367-368) and 'celebrated their triumph by the burning of Smyrna to
+    ashes and by a vast massacre of its Christian population' (p. 419). Preface dated 1 Jan 1929. Conflicted
+    polarity and what_they_saw are fair. No correction.
+  checked_on: "2026-11-01"

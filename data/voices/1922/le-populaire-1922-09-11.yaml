@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-populaire-1922-09-11
+voice: Le Populaire
+voice_type: press
+role: Paris Socialist daily
+country: France
+country_now: France
+domain: press
+date: "1922-09-11"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Warned that if Kemal and Fehrid Bey follow Moscow's counsel a new conflict would spread through the Balkans
+  and central Europe.
+quote:
+  text: Que Fehrid bey et Mustapha Kernal écoulent certains conseils qui leur viennent de Moscou
+  language: fr
+caveat: >-
+  View 1. 'écoulent' and 'Kernal' are OCR for 'écoutent' and 'Kemal'. A warning, not a condemnation; the later
+  clause is cut at 'un nouveau conflit s'ensuivra dans les Balkans'. Gallica ContentSearch fragment, OCR
+  copied as given; view number is Gallica's, not necessarily the printed page.
+node: Paris Dailies on Kemal's Victory, 11–17 September 1922
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k8181715
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica ContentSearch ark bpt6k8181715, PAG_1 fragment
+  method: ms fetch ContentSearch (metadata unavailable)
+  note: >-
+    Fragment 'Que Fehrid bey et Mustapha Kernal écoulent certains conseils qui leur viennent de Moscou, un
+    nouveau conflit s'ensuivra dans les Balkans...' matches. Conditional warning reading holds. Issue date not
+    independently verified.
+  checked_on: "2026-10-30"

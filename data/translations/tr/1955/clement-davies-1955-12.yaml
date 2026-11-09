@@ -1,0 +1,34 @@
+# Turkish for data/voices/1955/clement-davies-1955-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: clement-davies-1955-12
+voice: Clement Davies
+role: Liberal Parti Lideri, Milletvekili (Montgomeryshire)
+quote: >-
+  Elbette, Türkler o olağanüstü insan Atatürk'ün yönetiminde büyük geleneklerini kurduklarından beri, insan bu
+  halka büyük bir hayranlık duymuştur.
+quote_kind: translated
+summary: >-
+  Türklerin 'o olağanüstü insan Atatürk'ün yönetiminde büyük geleneklerini' kurduklarını, ancak Kıbrıs
+  konusunda kararı Türkiye'nin vermemesi gerektiğini söyler.
+caveat: >-
+  Cyprus, HC Deb 5 Aralık 1955, c91. Resmi Hansard tutanaklarının TheyWorkForYou'daki dökümü. Kıbrıs
+  tartışması (hassas konu): övgü, Türkiye'nin müdahalesine karşı bir argümanın girizgâhıdır; konuşmacının
+  çerçevelemesi olarak kaydedilmiştir. Kontrol: alıntı c92'de yer almaktadır (historic-hansard); TWFY
+  konuşmanın başladığı sütunu verir.
+verification_note: >-
+  Birebir aynı, konuşmacı Clement Davies (g91.1, HC Deb 5 Aralık 1955). Sütun düzeltmesi: cümle c92'dedir
+  (konuşma c91'de başlar). Kendi görüşü ('that amazing man, Ataturk', 'great admiration'). 1945-56 yılları
+  arasında Liberal Parti lideri olduğu bilgisi doğrudur. Kıbrıs tartışmasındaki çerçeveleme tarafsızdır.
+verification_method: >-
+  sayfa çekildi, bağlantılı konuşma bloğu (konuşmacı, tarih, kimlik) içinde alıntının normalleştirilmiş metin
+  eşleşmesi yapıldı; sütun numarası historic-hansard sütun işaretlerinden tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c968edb0d2a0
+  role: f75a57b8f5b3
+  quote: a87018b4329f
+  summary: a37bcb6cdb0f
+  caveat: 0706fb75070a
+  verification_note: d90853263c8e
+  verification_method: 59db5bce95bc

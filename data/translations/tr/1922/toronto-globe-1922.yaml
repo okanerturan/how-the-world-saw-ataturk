@@ -1,0 +1,27 @@
+# Turkish for data/voices/1922/toronto-globe-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: toronto-globe-1922
+voice: Toronto Globe
+role: Toronto günlük gazetesi
+quote: Britanya Aslanı Yavrularını Asya Canavarının Karşısına Çıkmaya Çağırıyor
+quote_kind: translated
+summary: >-
+  Britanya dominyonlarını onun karşısına çıkmaya çağırırken Kemal'i emperyal ucuz kurgu canavarı gibi sunan
+  tam sayfa manşet.
+caveat: >-
+  Stacey 1981 (arama kesitinden okundu); yalnızca başlık, başyazı metni yok. Metin kontrol edilmedi (kaynağa
+  ulaşılamadı, 29 Ekim 2026)
+verification_note: >-
+  'British Lion Calls Cubs to Face the Beast of Asia' başlığı erişilebilir hiçbir metinde bulunamadı; Globe
+  sayfası görülmedi
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2a1786c1fc55
+  role: 5ac041f38189
+  quote: fc686ced1894
+  summary: 132653c08f29
+  caveat: c66f9ab9f6c0
+  verification_note: ae84a574c62b
+  verification_method: ad8cee67138e

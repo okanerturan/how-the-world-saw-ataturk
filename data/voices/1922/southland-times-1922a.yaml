@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: southland-times-1922a
+voice: Southland Times
+voice_type: press
+role: Invercargill daily, leader
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1922-09-22"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Read Kemal's assurance about the neutral zone as worthless, since he denied any such zone existed, and
+  expected a collision.
+quote:
+  text: Kemal’s undertakings amount to very little
+  language: en
+node: New Zealand Editors on Kemal, September 1922 – 1923
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/ST19220922.2.17
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Papers Past ST19220922.2.17 (editorial 'Still Dangerous', Southland Times 22 Sep 1922)
+  method: fetch
+  checked_on: "2026-10-29"

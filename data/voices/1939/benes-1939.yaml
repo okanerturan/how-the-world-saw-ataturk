@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: benes-1939
+voice: Edvard Beneš
+voice_type: person
+role: Former President of Czechoslovakia; Chicago lectures, Democracy Today and Tomorrow
+country: Czechoslovakia (in exile)
+country_now: Czech Republic
+domain: politics
+date: "1939"
+era: posthumous
+polarity: conflicted
+intensity: 1
+artifact: book
+evidence: P
+summary: >-
+  Counts Atatürk's dictatorship among the interwar post-war dictatorships, but credits his victory over Greece
+  and 'courageous modernisation' with the authority that kept him in power.
+quote:
+  text: >-
+    It must, besides, be remembered that from 1923 the dictatorship of Kemal Ataturk was established in full
+    force in Turkey: his victory over Greece and his courageous modernisation of the whole social, cultural,
+    and national life of Turkey endowed him with sufficient authority to preserve his dictatorship
+    successfully up to his death in 1938.
+  language: en
+caveat: >-
+  Edvard Beneš, Democracy Today and Tomorrow (New York: Macmillan, 1939), p. 90, chapter 'Downfall of postwar
+  democracies'; the lectures were given at the University of Chicago, 1939. Open scan democracytodayto00bene
+  (Univ. of Florida copy); the index lists 'Attaturk, Kemal, 90'. A descriptive aside inside an argument about
+  the rise of Fascism, so both labels (dictatorship, courageous modernisation) are Beneš's.
+node: Hoxha, Beneš, Brezhnev and the Soviet Presidium on Atatürk, 1939–1982
+sources:
+  - url: https://archive.org/details/democracytodayto00bene
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Benes, Democracy Today and Tomorrow (Macmillan, published Aug 1939), archive.org democracytodayto00bene,
+    djvu text
+  method: curl of the open djvu text; folio 90 follows the passage; index entry checked
+  note: >-
+    Verbatim (OCR double spaces only): 'It must, besides, be remembered that from 1923 the dictatorship of
+    Kemal Ataturk was established in full force in Turkey: his victory over Greece and his courageous
+    modernisation of the whole social, cultural, and national life of Turkey endowed him with sufficient
+    authority to preserve his dictatorship successfully up to his death in 1938.' P. 90 (folio 90 follows;
+    index 'Attaturk, Kemal, 90'; chapter 'Downfall of postwar democracies'). Copyright 1939, published August
+    1939. It is a stated view (both 'dictatorship' and 'courageous modernisation' are Benes's), so
+    conflicted/intensity 1 is fair. Era posthumous correct. The OCR chapter heading is consistent with the
+    record.
+  checked_on: "2026-11-03"

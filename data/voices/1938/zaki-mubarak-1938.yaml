@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zaki-mubarak-1938
+voice: Zaki Mubarak
+voice_type: person
+role: Egyptian writer and critic (then teaching in Baghdad)
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1938-06-06"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  Asks why no delegation goes to the Ghazi to remind him that grudge against the Arabs should not erase their
+  gift of faith to Turkey.
+quote:
+  text: >-
+    هل فكرت في إرسال وفد إلى الغازي مصطفى كمال يذكره بأن الحقد على العرب الذين خذلوا تركيا في الحرب لا يصح أن
+    ينسيه فضل العرب الأبرار الذين نقلوا إلى تركيا بذور الإيمان بالله والرسول؟
+  translation: >-
+    Has it thought of sending a delegation to the Ghazi Mustafa Kemal to remind him that grudge against the
+    Arabs who let Turkey down in the war must not make him forget the merit of the righteous Arabs who carried
+    to Turkey the seeds of faith in God and the Prophet?
+  language: ar
+caveat: >-
+  Cited as al-Risala no. 257, 6 Jun 1938, Wikisource page 'مجلة الرسالة/العدد 257/ليلى المريضة في العراق'.
+  Rhetorical question in an article on the Arabic language abroad, signed Zaki Mubarak, written from Iraq five
+  months before Atatürk's death. Accepts, as the premise, that the Ghazi bears a grudge against the Arabs.
+  Mubarak returns to the theme in no. 433 (20 Oct 1941), saying that because of a foolish article on the
+  Arabs' merit over the Turks 'Atatürk swore he would abandon the Arabic letters'. Wikisource transcription.
+  Check: no praise of Kemal on the page; polarity conflicted → hostile (mild).
+node: Egyptian Pens in al-Risala on Atatürk, 1935–1946
+sources:
+  - url: https://ar.wikisource.org/wiki/%D9%85%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/%D8%A7%D9%84%D8%B9%D8%AF%D8%AF_257/%D9%84%D9%8A%D9%84%D9%89_%D8%A7%D9%84%D9%85%D8%B1%D9%8A%D8%B6%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Arabic Wikisource raw page 'مجلة الرسالة/العدد 257/ليلى المريضة في العراق' (+ no. 433 'في الطريق إلى
+    الوحدة العربية' for the caveat)
+  method: >-
+    fetched action=raw, diacritic-normalised substring match of the Arabic quote, then read the surrounding
+    passage, header date and end signature
+  note: >-
+    Arabic quote verbatim; header 'مؤلف= زكي مبارك', date 06-06-1938, signed 'زكي مبارك'. It is Mubarak's own
+    side of a dialogue with 'ظمياء' (she calls him 'يا دكتور'), so the voice is his; fair. Problem is
+    polarity: the question 'هل فكرت ... في إرسال وفد إلى الغازي مصطفى كمال يذكره بأن الحقد على العرب ... لا
+    يصح أن ينسيه فضل العرب' states no admiration at all; it accuses Kemal of a grudge and the page's only
+    evaluative line ('أخطأ الأتراك') is Zamya's. 'conflicted' is not supported by the page. CORRECTION:
+    polarity 'hostile' (mild, intensity 1) or 'witness' if the grudge premise is read as a plea, with caveat
+    saying no positive judgment of Kemal is expressed. Caveat cross-ref verified: no. 433 (20-10-1941,
+    Mubarak) says 'بسبب مقالة حمقاء كتبها كاتب أحمق في فضل العرب على الأتراك أقسم أتاتورك ليهجرن الحروف
+    العربية'. Era contemporary correct; schema otherwise OK.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 19)
+  checked_on: "2026-11-03"

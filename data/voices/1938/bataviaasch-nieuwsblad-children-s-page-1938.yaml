@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bataviaasch-nieuwsblad-children-s-page-1938
+voice: Bataviaasch Nieuwsblad children's page
+voice_type: press
+role: Batavia daily, youth page
+country: Dutch East Indies
+country_now: Indonesia
+domain: press
+date: "1938-11-19"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: article
+evidence: P
+summary: >-
+  Atatürk made Turkey in a few years from a backward Asiatic land into an excellently organised Western state.
+node: Dutch East Indies Press, November 1938
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:010863962:mpeg21:a0260
+    label: Bataviaasch Nieuwsblad, 19 Nov
+  - url: https://resolver.kb.nl/resolve?urn=ddd:011122903:mpeg21:a0177
+    label: Bataviaasch Nieuwsblad, 21 Nov (Nypels)
+verification:
+  verdict: paraphrase-ok
+  checked_against: https://resolver.kb.nl/resolve?urn=ddd:010863962:mpeg21:a0260:ocr
+  method: fetch
+  note: >-
+    Text confirms 'backward Asiatic land into excellently organised Western state'; OCR shows no
+    children's-page heading; Delpher urn missing from record sources
+  checked_on: "2026-10-29"

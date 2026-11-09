@@ -1,0 +1,29 @@
+# Turkish for data/voices/1924/curzon-1924.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: curzon-1924
+voice: Marquess Curzon
+role: Eski Dışişleri Bakanı, Lordlar Kamarası'ndaki İran tartışması
+quote: >-
+  eğer Türkiye'de Mustafa Kemal tarafından izlenmiş olan belirli siyaset çizgilerini takip ederse, kendi
+  ülkesinde erken bir aşamada felakete uğrayabilir
+quote_kind: translated
+summary: >-
+  Kendisine Kemal'i örnek alan Rıza Han'ın, Kemal'in siyaset çizgilerini kopyalaması halinde felakete
+  uğrayacağından korktu; öte yandan salt ulusal bir siyaseti övdü.
+caveat: >-
+  Hansard API konuşmacıyı 'The Marquess Quezon of Kedleston' (Curzon için dizgi hatası) olarak basmaktadır;
+  tutum yönü, Kemal'in politikalarına dair bir uyarıdan okunmuştur.
+verification_note: >-
+  Olumsuz tutum hafif düzeyde: Kemal'in siyaset çizgilerine dair uyarı; 'purely national' siyaset övgüsü Rıza
+  Han'a atıfta bulunmaktadır.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 96b5fc8331f7
+  role: 5073f8be1496
+  quote: f8bc500dab2a
+  summary: 86b8e5d749c8
+  caveat: 73b16d7a9576
+  verification_note: 8cacec1fca6c
+  verification_method: a033a528b603

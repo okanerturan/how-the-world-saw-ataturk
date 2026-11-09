@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: noel-baker-1956-09
+voice: Philip Noel-Baker
+voice_type: person
+role: Labour MP, Nobel Peace laureate (1959)
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1956-09-14"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Calls the Venizelos-Mustapha Kemal reconciliation 'historic' and urges Menderes and Karamanlis to repeat it
+  over Cyprus.
+quote:
+  text: >-
+    Thirty years ago, after the far more grievous troubles of which I have spoken, Venizelos and Mustapha
+    Kemal made a historic reconciliation.
+  language: en
+caveat: >-
+  Cyprus, HC Deb 14 Sep 1956, c355. Transcription at TheyWorkForYou of the official Hansard. Cyprus debate
+  (sensitive thread): speaker's framing. Noel-Baker was an eyewitness of the 1922-23 Lausanne
+  population-exchange talks, which he mentions in the same speech (Nansen). Check: the quote falls at c360
+  (historic-hansard); TWFY gives the column where the speech starts.
+node: >-
+  Westminster on Atatürk, 1941–1957 — Eden, Selwyn Lloyd, Noel-Baker, Wigg, Davies and Hollis
+sources:
+  - url: https://www.theyworkforyou.com/debates/?id=1956-09-14a.355.5#g355.7
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TheyWorkForYou debate page (fresh curl), speaker block at the anchor; column cross-checked on
+    api.parliament.uk/historic-hansard where available
+  method: >-
+    fetched page, normalised-text match of the quote inside the anchored speech block (speaker, date, id);
+    column located from historic-hansard column markers
+  note: >-
+    Verbatim, spoken by Philip Noel-Baker (Derby South) (g355.7, HC Deb 14 Sep 1956). Column correction:
+    sentence at c360 (speech starts c355). 'historic reconciliation' is his own evaluation of Venizelos and
+    Mustapha Kemal; admiring 1 fair.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

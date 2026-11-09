@@ -1,0 +1,32 @@
+# Turkish for data/voices/1928/al-fath-1928-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-fath-1928-03
+voice: Al-Fath (sayı 86)
+role: Kahire'de yayımlanan haftalık Selefi dergi
+quote: >-
+  Eskiden övdüğümüz, kendisi için dua edip hayır dilediğimiz ve İslam'ı yüceltip onurlandıracağını umduğumuz
+  Mustafa Kemal, İslam'a karşı böyle davranıyor
+quote_kind: translated
+summary: >-
+  Hayal kırıklığına uğramış bir hayran: bir zamanlar övülen ve hayır dua edilen Kemal şimdi İslam'a karşı
+  hareket ediyor; Anadolu askerleri din saikiyle savaşmıştı.
+caveat: >-
+  İmzasız; 1924 tarihli notlar 1928'de yeniden basılmıştır. Alıntı, notun yer verdiği Arapça özgün metnin not
+  yazarı tarafından yapılmış İngilizce çevirisidir.
+verification_note: >-
+  Arapça metin s. 569'da 'Dhikra ilgha' al-khilafa' başlığı altında basılı (3 Mart 1924 tarihli notlar); 'ندعو
+  له' = kendisi için dua ederdik; çeviri sadık; imzasız; Anadolu askeri/Hintliler-Afganlar noktası da mevcut.
+  Çelişkili kutupluluk geçerli.
+verification_method: >-
+  Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
+  künye/kapaklar görüntülendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 61d33cab498e
+  role: abf29e803c77
+  quote: 74f25075077e
+  summary: 21d3d9e77898
+  caveat: e84e4b23c7de
+  verification_note: 4d8ee5673ea7
+  verification_method: 6190bebdb3a6

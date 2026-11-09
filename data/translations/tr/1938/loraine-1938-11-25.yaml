@@ -1,0 +1,37 @@
+# Turkish for data/voices/1938/loraine-1938-11-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: loraine-1938-11-25
+voice: Sir Percy Loraine
+role: Britanya'nın Türkiye Büyükelçisi (1933–1939)
+quote: >-
+  Bunun yanlış bir adlandırma olduğuna kaniyim. Çok büyük bir lider, evet, hem savaşta hem barışta: fakat
+  gerçek bir diktatör, hayır.
+quote_kind: translated
+summary: >-
+  Vefat üzerine diplomatik rapor: Atatürk ona kişisel bir dost olarak davranmıştı; karakterinde bir ikilik
+  vardı; savaşta ve barışta çok büyük bir liderdi, fakat gerçek bir diktatör değildi.
+caveat: >-
+  Alıntı taramanın yeni OCR okumasındandır (PDF dosyası #8, s. 814–817); archive.org djvu metni burada
+  bozuktur. 'This' ifadesi diktatör etiketine atıfta bulunmaktadır. Arşiv kaydındaki dostluk iddiasını
+  Loraine'in kendi sözleriyle doğrulamaktadır; poker ve cenazede ağlama bu metinde yer almamaktadır.
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk c. VIII (TTK 2006) No. 273, s. 559–562 (alıntı s. 561) ← Loraine'den
+  Halifax'a, yazı No. 608, Ankara, 25 Kasım 1938 (FO 424/282)
+verification_note: >-
+  Sayı 273, Sir P. Loraine'den Viscount Halifax'a, sayı 608, Ankara, 25 Kasım 1938 (varışı 8 Aralık), s. 559.
+  Paragraf 3: 'Atatürk regarded me as a personal friend'; paragraf 6: 'a duality of character'. s. 561'deki
+  paragraf 10: 'I am persuaded that this is a misnomer. A very great leader, yes, both in war and in peace:
+  but a true dictator, no.' Birebir aynı. FO 424/282 görüntüde tekrar görülmedi; djvu dizini bu dönemde FO
+  424/282 referanslarını göstermektedir.
+verification_method: işlenmiş PDF sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 11db1b159c68
+  role: aec8e5f78156
+  quote: 51242fb642d6
+  summary: 1c30ed2cc6da
+  caveat: d105493c3073
+  mediated_by: b3922827ece5
+  verification_note: 716f40706a0a
+  verification_method: 2cf07304cb13

@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: carlo-sforza-1931
+voice: Carlo Sforza
+voice_type: person
+role: Italian ex-foreign minister, former High Commissioner at Constantinople
+country: Italy
+country_now: Italy
+domain: diplomacy
+date: "1931-07-18"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Called Kemal the one post-war dictator who seems a success, for practising self-restraint and dropping the
+  caliphate's world claims; says he judged so in 1919.
+quote:
+  text: SLECHTS één van de na-oorlogsche dictators, Moestafa Kemal, schijnt een succes te zijn
+  language: nl
+mediated_by: De Telegraaf, 18 Jul 1931 (Dutch rendering of 'Een geslaagde dictatuur')
+caveat: >-
+  Dutch translation of Sforza's essay, not his original text; by-line and 'Italiaansch oud-minister van
+  Buitenlandsche Zaken' in the article. Upgrade of an existing note: first dated primary text by Sforza on
+  Kemal.
+node: Carlo Sforza
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:110570965:mpeg21:a0001
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Delpher ddd:110570965:mpeg21:a0001 OCR (Dutch rendering; byline and 'Italiaansch oud-minister' present)
+  method: fetch
+  note: Quote is Dutch translation; record marks it as De Telegraaf rendering
+  checked_on: "2026-10-29"

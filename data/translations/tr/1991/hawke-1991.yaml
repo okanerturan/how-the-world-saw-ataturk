@@ -1,0 +1,38 @@
+# Turkish for data/voices/1991/hawke-1991.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hawke-1991
+voice: Bob Hawke
+role: Avustralya Başbakanı (1983–1991)
+quote: >-
+  Kemal Atatürk'ün Gelibolu'da vatanını savunurken sergilediği liderlik ve ustalık, modern Türkiye devletini
+  kurmasının önünü açtı.
+quote_kind: translated
+summary: >-
+  Cumhurbaşkanı Özal'a, Atatürk'ün Gelibolu'daki liderliği ve ustalığının modern Türk devletini kurmasının
+  önünü açtığını söyler.
+caveat: >-
+  Konuk bir devlet başkanına yönelik kadeh kaldırma tarzı bir konuşma; övgü kısmen vesile gereğidir. Anzak
+  konuşmacılarının Atatürk'e atfettiği 'Johnnies and Mehmets' / 'your sons are now lying in our bosom'
+  metninin kendisi tartışmalıdır: 1934 tarihli bir orijinal bulunamamıştır, metin ilk kez 1953'te İçişleri
+  Bakanı Şükrü Kaya'nın hatırası aracılığıyla basılı olarak ortaya çıkmıştır ve 'Johnnies and Mehmets' ibaresi
+  1978 tarihli bir Avustralya eklemesidir (bkz. [[Johnnies and Mehmets]]). Dolayısıyla bu, övgüyü ödüllendiren
+  bir anma töreni veya diplomatik vesileyle dile getirilmiş, konuşmacının Anzak efsanesindeki Atatürk'e dair
+  görüşüdür. Kaynak gösterimi: Speech at Parliamentary dinner for President Özal of Turkey, Canberra, 9 May
+  1991.
+verification_note: >-
+  8295 sayılı tutanakta (Hawke, Cumhurbaşkanı Özal onuruna akşam yemeği, 9 Mayıs 1991) birebir aynı,
+  Atatürk'ün liderliğini ve ustalığını takdir eden kendi sözleri. Uyarı notunda belirtildiği gibi vesileye
+  bağlı övgü; hayran 1 makul.
+verification_method: >-
+  kaynak yeniden çekildi, alıntının normalleştirilmiş metin eşleşmesi yapıldı; konuşmacı, tarih ve başlık
+  üstveriden/imza satırından okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 64273b72444e
+  role: c662900d5660
+  quote: cc629d6daf5e
+  summary: b990dd40fbe9
+  caveat: 504e3e589709
+  verification_note: c30ad4807597
+  verification_method: 02ed4e837c0d

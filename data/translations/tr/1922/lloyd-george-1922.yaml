@@ -1,0 +1,20 @@
+# Turkish for data/voices/1922/lloyd-george-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lloyd-george-1922
+voice: David Lloyd George
+role: Başbakan, Avam Kamarası'ndaki Yakın Doğu görüşmesi
+quote: >-
+  Mustafa Kemal büyük bir general ve büyük bir vatansever olabilir; fakat İslam'ın başı İstanbul'dadır.
+quote_kind: translated
+summary: >-
+  Kemal'in büyük bir general ve vatansever olabileceğini kabul etti, ancak İstanbul'daki Halife'nin İslam'ın
+  başı olduğunu ve Kemal'in barışı reddettiğini söyledi.
+verification_method: api
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 06742055fab6
+  role: 0c992379902c
+  quote: 9940bbc5d3e7
+  summary: cb1d0018afa2
+  verification_method: a033a528b603

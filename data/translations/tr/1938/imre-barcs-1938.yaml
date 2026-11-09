@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/imre-barcs-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: imre-barcs-1938
+voice: İmre Barcs
+role: Macar yazar
+summary: >-
+  İttifak Devletleri'nin 1918'deki çöküşünden yükselen 'Bozkurt General', yani kendileri gibi mağlup bir
+  devletin geri dönüşü üzerine bir deneme yazdı.
+caveat: Not, Barcs'ın kimliğini ucu açık bir konu olarak işaretler.
+mediated_by: Toksoy 2010
+verification_note: >-
+  Toksoy bunu 'Imre Barcs' adlı bir Macar yazara atfeder; 'Bozkurt General' hakkındaki alıntılanan bölüm
+  örtüşmektedir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 541aa5266e3f
+  role: 894ac5a507e5
+  summary: 6e9d6c31b459
+  caveat: 1d8a3286e340
+  mediated_by: 8e937858d7c4
+  verification_note: 93f5a9dadcb5
+  verification_method: 939bb46a04c3

@@ -1,0 +1,33 @@
+# Turkish for data/voices/1938/aney-1938-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: aney-1938-11
+voice: M. S. Aney
+role: Berar Üyesi, Merkezi Yasama Meclisi (Kongre Milliyetçisi)
+quote: >-
+  Onun şahsında dünya dev bir şahsiyeti kaybetti. O, ölüleri yeniden hayata döndürmek gibi ender bir talihe ve
+  ender bir yeteneğe sahip büyük insanlar soyuna mensuptu
+quote_kind: translated
+summary: >-
+  Kemal'i Türkiye'yi Anka kuşu gibi yeniden dirilten dev bir şahsiyet olarak nitelendiriyor; en çok
+  reformlarının cesaretine hayranlık duyuyor.
+caveat: >-
+  Legislative Assembly Debates, c. VII (Government of India Press, Delhi 1938), 14 Kasım 1938, s. 2955. Lok
+  Sabha Secretariat / Government of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR
+  aracılığıyla. Başarının insanın cevherine bağlı olduğunu söyleyen Sanskritçe bir özdeyiş aktarır. Metin
+  resmi tutanağın OCR çıktısından okunmuştur; bariz OCR hataları alıntıda sessizce düzeltilmiştir.
+verification_note: >-
+  Alıntı birebir (OCR 'de&d'). Anka kuşu ve Sanskritçe özdeyiş mevcut. Görev tanımındaki 'Congress
+  Nationalist' etiketi tutanakta yer almıyor (dış bilgi), sakıncasız.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden çekildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa başlıkları ile konuşma metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d7c20e51f52c
+  role: e29d718368fb
+  quote: b2a6cdc4d890
+  summary: 8af2b3f2345f
+  caveat: 21fafbbe76e2
+  verification_note: 14101e64a1b7
+  verification_method: 634050edd257

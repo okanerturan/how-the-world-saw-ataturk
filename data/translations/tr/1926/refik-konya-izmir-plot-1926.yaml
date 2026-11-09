@@ -1,0 +1,32 @@
+# Turkish for data/voices/1926/refik-konya-izmir-plot-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: refik-konya-izmir-plot-1926
+voice: Refik Bey (Konya)
+role: Konya milletvekili
+quote: >-
+  Aziz Müncimiz ve büyük dahimiz Reisicumhur Gazi Mustafa Kemal Paşa Hazretlerinin hayatına müteveccih olarak
+  tertip edilen mel'un suikastın akim kalmasından ve binnetice vatanın muhakkak bir felâketten kurtulmasından
+  Milletçe duyulan nihayetsiz meserretleri bir defa daha izhar eden Meclisi Âlinin kalbi memnuniyet ve
+  tebrikâtını Reisicumhur Hazretlerine iblağ etmek üzere...
+quote_kind: original-turkish
+summary: >-
+  Gazi, milletin büyük dehası ve kurtarıcısıdır; ona yönelik komplo, vatana yönelik bir komploydu.
+caveat: >-
+  Metin katmanı OCR bozulmalı ('Müncilmi'Z', 'mıel'un', 'ıb'ir felalkeltitlen kürtulma'sından', 'hiçin');
+  alıntı normalleştirilmiştir, felâketten/kurtulmasından kelimeleri daha yoğun bir yeniden kurmadır. Üç nokta,
+  önergenin usule ilişkin kapanışından önceki kesintiyi gösterir.
+verification_note: >-
+  Ham OCR: 'Müncilmi'Z' (Müncimiz), 'mıel'un' (mel'un), 'ıb'ir felalkeltitlen kürtulma'sından' (bir felâketten
+  kurtulmasından; daha yoğun yeniden kurma, işaretlendi), 'hiçin' (niçin). Konuşmacı 'REFİK BEY (Konya)'
+  olarak basılıdır; tutanaklarda ek kimlik bilgisi yoktur.
+verification_method: pdftotext; tire birleştirme ve OCR normalleştirmesi sonrasında birebir
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a639a62855bf
+  role: 0b5fede88b7d
+  quote: 85b5bebbabe9
+  summary: 6e7f89dac9fc
+  caveat: 521d84e857b6
+  verification_note: 07957c1fde62
+  verification_method: 66771a4fad3c

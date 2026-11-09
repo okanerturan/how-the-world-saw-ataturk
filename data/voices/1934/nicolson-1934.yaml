@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nicolson-1934
+voice: Harold Nicolson
+voice_type: person
+role: British diplomat and writer; biographer of Lord Curzon
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1934"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: chivalrous-enemy
+artifact: book
+evidence: P
+summary: >-
+  A detached diplomat-historian's sketch: Kemal's career is typically Young Turk, and his luck came from the
+  enmities he made, not friends won.
+quote:
+  text: >-
+    he owed his immense good fortune, not to the friendships which he had been able to conciliate, but to the
+    enmities which he had aroused.
+  language: en
+caveat: >-
+  Curzon: The Last Phase 1919-1925 (Constable, 1934), ch. IV 'Smyrna', p. 116 (page numbers from running heads
+  of DLI scan in.ernet.dli.2015.208069; the other DLI scan 190097 has garbled OCR at this line). He writes it
+  as a diplomat-historian who says a 'detailed estimate' is 'beyond the range of this study'. On p. 352 he
+  calls Poincare 'an adversary more potent and more skilled than any Ismet, than any Mustapha Kemal' (OCR
+  reads 'Msutapha').
+node: Famous Pens on Atatürk — Gunther, Dewey, Nicolson, Coudenhove-Kalergi, West
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.208069
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: "archive.org/download/in.ernet.dli.2015.208069 (Curzon: The Last Phase, Constable 1934)"
+  method: curl djvu text
+  note: >-
+    Quote verbatim across hyphenation ('friend- ships') on p.116 (running head 'SMYRNA 116' precedes the
+    sentence); 'beyond the range of this study to give any detailed estimate' and 'His biography is typically
+    Young Turk' confirmed. what_they_saw 'deflates the legend' and polarity 'conflicted' are the census's
+    reading (the text is a detached, mildly deflating biographical sketch; 'legend' is not in the text).
+    Consider polarity 'witness'/neutral or soften wording.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 14)
+  checked_on: "2026-11-03"

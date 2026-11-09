@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ioannis-metaxas-1938
+voice: Ioannis Metaxas
+voice_type: person
+role: Greek leader
+country: Greece
+country_now: Greece
+domain: diplomacy
+date: "1938-11-21"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: visit
+evidence: T+P
+summary: Named among the foreign special missions sent to the funeral; no view stated.
+mediated_by: Havas/Reuter wires (Delpher), 17 Nov 1938
+caveat: Attendance announced twice in wires; eyewitness report still wanted.
+node: Death and State Funeral of Atatürk
+sources:
+  - url: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mustafa_Kemal_Atat%C3%BCrk
+    archived: https://web.archive.org/web/20260926071813/https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mustafa_Kemal_Atat%C3%BCrk
+verification:
+  verdict: confirmed
+  checked_against: >-
+    Havas ddd:011154698:mpeg21:a0014: "Griekenland door Metaxas" among special delegations; also CTAD: Metaxas
+    statement "Ankara'ya üçüncü defa yaptığım bu ziyaret"
+  method: fetch
+  note: >-
+    Cited source in record is Wikipedia only; Delpher confirms. Wire dated 17 Nov, record date 21 Nov
+    (funeral).
+  checked_on: "2026-10-29"

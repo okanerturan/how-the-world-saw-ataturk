@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/elifba-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: elifba-1938
+voice: Elifba
+role: Şam günlük gazetesi, Suriye'nin en eskilerinden biri
+quote: bir yüzyılın en büyük şahsiyetlerinden ve en müthiş dehalarından biri
+quote_kind: translated
+summary: >-
+  Başyazı: Türkiye'yi selamete ulaştıran, ne taht ne de varis isteyen büyük bir deha; uluslararası bir adam.
+caveat: >-
+  Alıntılar bize Türk günlük gazetelerinin çevirileri aracılığıyla ulaşmaktadır; gazete adlarının
+  transliterasyonları tahmine dayalıdır.
+mediated_by: Toksoy 2010 ← Akşam/Cumhuriyet 14–21 Kasım 1938, Ayın Tarihi (Arapçadan Türkçe çeviriler)
+verification_note: >-
+  Toksoy, Elifba'yı hem Suriye/Beyrut hem de Şam altında verir; 'asked neither throne nor heir' ifadesi mevcut
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0f2fa0316be3
+  role: 170ee8f9d9a9
+  quote: 47e37b97ba3d
+  summary: 27e6e080993e
+  caveat: f8ae166de916
+  mediated_by: 0d9b58c49a68
+  verification_note: 0777c43d1c0e
+  verification_method: 939bb46a04c3

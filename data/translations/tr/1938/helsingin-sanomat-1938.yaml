@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/helsingin-sanomat-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: helsingin-sanomat-1938
+voice: Helsingin Sanomat
+role: Günlük Fin gazetesi
+quote: Atatürk olmasaydı, Türkiye büyük bir devlet olamazdı.
+quote_kind: translated
+summary: >-
+  Büyük askeri niteliklere ve muazzam bir devrimci geçmişe sahip, çağımızın büyük devlet adamları arasında;
+  Türkiye onsuz büyük olamazdı.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; yabancı dildeki asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Kurun 14 Kasım, Ulus 15 Kasım, Cumhuriyet 16 Kasım 1938
+verification_note: Toksoy'un Türkçesinden çevrilmiştir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a107df285d53
+  role: 85ede8ed9a73
+  quote: 9c716a88d717
+  summary: a9079bd200b4
+  caveat: ecc719a2a575
+  mediated_by: c3d11a07ec69
+  verification_note: bc034f29a022
+  verification_method: 939bb46a04c3

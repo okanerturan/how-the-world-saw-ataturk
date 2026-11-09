@@ -1,0 +1,26 @@
+# Turkish for data/voices/1938/bulgarian-press-chorus-slovo-utro-dines-zorya-la-parole-bulgare-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bulgarian-press-chorus-slovo-utro-dines-zorya-la-parole-bulgare-1938
+voice: Bulgar basını korosu (Slovo, Utro, Dines, Zorya, La Parole Bulgare)
+role: Bulgar günlük gazeteleri
+quote: Bu olağanüstü ve Büyük Adam'ın ölümünden sonra dünya eskisi kadar ilginç değil.
+quote_kind: translated
+summary: >-
+  Bir basın korosu onun yasını tuttu; bir manşet, ölümünden sonra dünyanın daha az ilginç olduğunu söyledi.
+caveat: Manşet, notta belirli bir gazeteye atfedilmemiştir.
+mediated_by: Toksoy 2010 ← Türk basını; Tatarlı 'Bulgar Basınında Atatürk'
+verification_note: >-
+  Manşet genel olarak 'Bulgar gazeteleri'ne atfedilmiştir; Slovo, Utro, Dness, Zora, La Parole Bulgare
+  gazetelerinin her biri bölümde yer almaktadır
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ca6577d74cc5
+  role: c87e66387564
+  quote: 5b888fa77036
+  summary: 49ee4a89fdee
+  caveat: 6fb29b6e1a4c
+  mediated_by: 6f887b83e062
+  verification_note: a60ead39a494
+  verification_method: 939bb46a04c3

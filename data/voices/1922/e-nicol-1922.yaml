@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: e-nicol-1922
+voice: E. Nicol
+voice_type: person
+role: French pamphleteer, reply to Franklin-Bouillon
+country: France
+country_now: France
+domain: letters
+date: "1922-02-18"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Kemalism is xenophobia and hatred of Europe; Kemal is a cunning ex-German-trained officer fooling naive
+  French diplomacy.
+quote:
+  text: La xénophobie et la haine de l'Europe sont l'essence même du kémalisme
+  language: fr
+caveat: >-
+  Author's identity not established; the pamphlet is dated Paris, 18 February 1922. Page 24 reference lies
+  between page heads 23 and 25.
+node: E. Nicol
+sources:
+  - url: https://archive.org/details/angoraetlafrance00nico
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org angoraetlafrance00nico_djvu.txt (title page, p.24 passage, dated 'Paris, 18 février 1922')
+  method: fetch
+  checked_on: "2026-10-29"

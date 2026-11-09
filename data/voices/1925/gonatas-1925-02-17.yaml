@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: gonatas-1925-02-17
+voice: Stylianos Gonatas
+voice_type: person
+role: Greek general and deputy, head of the 1922 Revolution and former Prime Minister
+country: Greece
+country_now: Greece
+domain: military
+date: "1925-02-17"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Says Kemal tirelessly rebuilt his army into a fanatical, well-supplied force, ran Turkey dictatorially, and
+  waited for a chance to attack the Greek front.
+quote:
+  text: >-
+    Ἐκ παραλλήλου ὅμως ὁ Κεμὰλ ἀναδιωργάνωνε συντόνως τὸν Στρατόν του. […] Πρὸς δὲ διωκεῖτο δικτατορικῶς ὑπὸ
+    τοῦ Κεμὰλ
+  language: el
+mediated_by: >-
+  As summarised in the Πρακτικά (third-person report of the speech; the quoted sentence is the recorder's
+  wording)
+caveat: >-
+  Δ΄ Εθνοσυνέλευση, Πρακτικά Τόμος 4, session ΡΝ΄ of 17 Feb 1925, printed pp. 382-384 (PDF pages 193-194; page
+  images read). The speech, on the proposed investigating committee into responsibility for the 1922 retreat,
+  uses Kemal's strength to explain the army's collapse and to argue for dictatorship in war and democracy in
+  peace; Kemal is a means to the speaker's argument. Session date read from the heading on p. 371; the speech
+  is in the same sitting (no new heading between pp. 371 and 395). The index entries for Kemal under 'Δ΄
+  Συντακτική 1924-25' (pp. 387, 393, 395) were checked: those pages in Τ.4 are other speakers on the same
+  debate and do not name him.
+node: Greek Parliamentarians on Kemal, 1924–1934 — Hellenic Parliament Library
+sources:
+  - url: https://library.parliament.gr/Συλλογές/Κοινοβουλευτική-Συλλογή/Πρακτικά-Συνεδριάσεων/πρακτικά-βουλής-1910-1935
+    archived: https://web.archive.org/web/20260614102850/https://library.parliament.gr/%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AD%CF%82/%CE%9A%CE%BF%CE%B9%CE%BD%CE%BF%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CE%AE-%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CE%B3%CE%AE/%CE%A0%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AC-%CE%A3%CF%85%CE%BD%CE%B5%CE%B4%CF%81%CE%B9%CE%AC%CF%83%CE%B5%CF%89%CE%BD/%CF%80%CF%81%CE%B1%CE%BA%CF%84%CE%B9%CE%BA%CE%AC-%CE%B2%CE%BF%CF%85%CE%BB%CE%AE%CF%82-1910-1935
+  - url: https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/ΠΡΒ_Δ.ΕΘΝΟΣΥΝΕΛΕΥΣΗ_Τ.4_1923-1925.pdf
+    archived: https://web.archive.org/web/20220419151100/https://www.hellenicparliament.gr/UserFiles/f3c70a23-7696-49db-9148-f24dce6a27c8/%CE%A0%CE%A1%CE%92_%CE%94.%CE%95%CE%98%CE%9D%CE%9F%CE%A3%CE%A5%CE%9D%CE%95%CE%9B%CE%95%CE%A5%CE%A3%CE%97_%CE%A4.4_1923-1925.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Δ΄ Εθνοσυνέλευση Πρακτικά Τ.4 (hellenicparliament.gr PDF), PDF page 193, printed p. 383
+  method: >-
+    rendered the page image at 260 dpi and READ the polytonic Greek (main agent, not the builder)
+  note: >-
+    Quote verbatim, right column of p. 383, in the Gonatas speech of 17 Feb 1925 (third-person summary in the
+    Πρακτικά). Quote switched from the builder's army sentence to the sentence naming Kemal himself, plus the
+    'run dictatorially by Kemal' clause. Military-analytical view of an opponent; instrumental, intensity 1.
+  resolution: quote replaced 2026-11-05 — see LEDGER § Source-check corrections (round 29, Greek)
+  checked_on: "2026-11-05"

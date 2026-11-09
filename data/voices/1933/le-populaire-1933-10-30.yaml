@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: le-populaire-1933-10-30
+voice: Le Populaire
+voice_type: press
+role: Paris Socialist daily
+country: France
+country_now: France
+domain: press
+date: "1933-10-30"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: report
+evidence: P
+summary: >-
+  Headed its dispatch on the republic's tenth anniversary 'La République kemaliste'; a nearby fragment says
+  the festivities were held 'by order of the authority'.
+quote:
+  text: L'anniversaire de la République kemaliste
+  language: fr
+caveat: >-
+  Fragment-level, page 3. The 'par les ordres de l'autorité' sentence is a separate fragment, probably the
+  same dispatch but not confirmed; no explicit view of Kemal.
+node: Paris Press on the Caliphate, the Civil Code and the Decade, 1924–1933
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k8213624
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Gallica ContentSearch bpt6k8213624 PAG_3 (headline fragment + 'par les ordres de l'autorité' on same
+    page); OAI record Le Populaire 1933-10-30
+  method: fetch
+  note: Both fragments on PAG_3; same-dispatch link still unconfirmed, as caveat says.
+  checked_on: "2026-10-29"

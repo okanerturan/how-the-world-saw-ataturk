@@ -1,0 +1,29 @@
+# Turkish for data/voices/1924/journal-des-debats-1924-03-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: journal-des-debats-1924-03-05
+voice: Journal des débats
+role: Paris muhafazakâr-liberal günlük gazetesi
+quote: Muzaffer Mustafa Kemal
+quote_kind: translated
+summary: >-
+  Kemal'i seçimleri denetleyen, Batılı tarzda yaşayan ve hanedan ailesinin sürgün edilmemesini isteyen galip
+  olarak tanımladı.
+caveat: >-
+  Görünüm 1. Sıfat gazeteye aittir; geri kalanı anlatımdır. 'ne bannit' ifadesi OCR'da 'ho bannit' olarak
+  görünmektedir. Gallica ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya
+  aittir, basılı sayfa numarası olmayabilir.
+verification_note: >-
+  'Moustafa Kémal le Victorieux' birebir aynı; seçimlerin 'sous le contrôle le plus strict' olduğu ve
+  'Moustapha Kerhal aurait voulu qu'on ne bannit pas les membres de la famille impériale' ifadeleri görüldü.
+  'Batılı tarzda yaşadığı' bilgisi doğrulanmadı. Sayı tarihi bağımsız olarak teyit edilmedi.
+verification_method: ms fetch ContentSearch (sonraki sorgu bot_blocked oldu, durduruldu)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b3bcc5cb5748
+  role: e18f47b52e32
+  quote: cd9256fbbbe3
+  summary: f5c1dda5c8ff
+  caveat: ba7961ed17cb
+  verification_note: 1c0898e981cc
+  verification_method: f03ced197f70

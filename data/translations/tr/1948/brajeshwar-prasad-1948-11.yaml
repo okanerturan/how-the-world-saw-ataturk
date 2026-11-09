@@ -1,0 +1,40 @@
+# Turkish for data/voices/1948/brajeshwar-prasad-1948-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: brajeshwar-prasad-1948-11
+voice: Brajeshwar Prasad
+role: Kurucu Meclis üyesi (Bihar)
+quote: >-
+  Hitler, Mussolini, Kemal Atatürk ve Stalin tarafından kurulan hükümet sistemi, demokrasinin dolaylı
+  biçimlerini temsil eder. Bütün Almanya, İtalya ve Türkiye diktatörlerin arkasındaydı.
+quote_kind: translated
+summary: >-
+  Parlamenter demokrasiye karşı çıkarken Kemal'i Hitler, Mussolini ve Stalin ile birlikte 'dolaylı'
+  demokrasinin kurucuları arasında sayar; konuşmanın devamında sicilinin parlamenterlerinki 'kadar iyi'
+  olduğunu söyler.
+caveat: >-
+  Constituent Assembly of India Debates, c. VII, 9 Kasım 1948, s. 373-374. Lok Sabha Secretariat / Government
+  of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR üzerinden. 'philosopher-kings' ve
+  tek parti yönetimi lehine konuşur; aynı konuşmada 'Germany, Italy and Turkey rose to grand heights under
+  Hitler, Mussolini and Kemal Ataturk' ve 'the records of Mushtapha Kemal and Mussolini are as good as that of
+  the leaders of parliamentary democracy' (s. 374) denmektedir. Hassas çerçeveleme (faşist benzetmesi)
+  konuşmacının kendisine aittir. Metin resmi tutanağın OCR çıktısından okunmuştur; bariz OCR hataları
+  alıntıdadır.
+verification_note: >-
+  Alıntı birebir aynı, ardışık iki cümle; OCR düzeltmesine gerek yok (kaydın 'silently corrected' kalıp
+  ifadesi burada geçerli değildi). 'Germany, Italy and Turkey rose to grand heights under Hitler, Mussolini
+  and Kemal Ataturk' ve 'as good as' ifadeleri mevcut. Kemal hakkındaki görüşü bir yargı niteliğinde (başarı,
+  demokratik meşruiyet), dolayısıyla bakış testini geçiyor; kutupluluk olarak instrumental uygun. Hassas
+  çerçeveleme konuşmacının kendisine aittir ve işaretlenmiştir.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden indirildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa üstbilgileri ve konuşma okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 096a8f698a00
+  role: 4e0abf1ff02b
+  quote: 6e3f33c75280
+  summary: 1b617e9a233c
+  caveat: 006ced159df5
+  verification_note: cf4569bb0b7a
+  verification_method: 634050edd257

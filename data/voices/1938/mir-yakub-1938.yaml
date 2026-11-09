@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mir-yakub-1938
+voice: Mir Yakub / Azerbaijani National Committee
+voice_type: collective
+role: Azerbaijani émigré committee, Paris
+country: Azerbaijan (émigré in France)
+country_now: Azerbaijan
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Added that Azerbaijan, groaning under foreign domination, mourns too.
+quote:
+  text: Azerbaijan, groaning under foreign domination
+  language: en
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    a local working file (TBMM condolence OCR) (Turkish telegram 'yabancı hukuku altında inleyen Azerbaycan';
+    list entry Mir Yakub, Paris)
+  method: local
+  note: English translation of Turkish original; note states translated.
+  checked_on: "2026-10-29"

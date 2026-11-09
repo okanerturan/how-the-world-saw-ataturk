@@ -1,0 +1,25 @@
+# Turkish for data/voices/1920/ormsby-gore-1920-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ormsby-gore-1920-02
+voice: Mr Ormsby-Gore, Milletvekili
+role: Avam Kamarası sorusu, İstanbul'daki Türk yönetimi
+quote: >-
+  katliamlar, Sultan'ın otoritesini tanımayan Milliyetçi bir lider olan Mustafa Kemal ve birlikleri tarafından
+  gerçekleştirilmektedir
+quote_kind: translated
+summary: >-
+  Katliamlar Sultan'a başkaldıran Milliyetçi bir lider ve birlikler tarafından gerçekleştirilirken İstanbul
+  üzerindeki baskının işe yarayıp yaramayacağını sordu.
+caveat: Bir konuşma değil, sorudur; Ormsby-Gore'un 11 Mart 1920 tarihli katkısı ayrı bir kayıttır.
+verification_note: ""
+verification_method: Hansard API tam metni; OCR 'Kamil' dahil alıntı birebir aynı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 68dd32f47f13
+  role: 07c9ff954a02
+  quote: c279feac0ce9
+  summary: 8c1d0c68b836
+  caveat: 5e6cb0cfb533
+  verification_note: da39a3ee5e6b
+  verification_method: 62361b81bbf8

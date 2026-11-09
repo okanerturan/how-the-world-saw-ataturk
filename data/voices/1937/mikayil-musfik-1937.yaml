@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mikayil-musfik-1937
+voice: Mikayıl Müşfik
+voice_type: person
+role: Azerbaijani lyric poet
+country: Soviet Union (Azerbaijan SSR)
+country_now: Azerbaijan
+domain: letters
+date: "1937"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: poem
+evidence: S+T
+summary: >-
+  Wrote a poem 'Atatürk' under the 1937 purge, hoping it would carry him into history; reportedly one ground
+  for his prosecution.
+quote:
+  text: O great Atatürk, with you I raise / a glorious monument in the homeland of words.
+  language: en
+mediated_by: Heşimova 2024 ← Ahmet 2017
+caveat: >-
+  Single-source (Heşimova); poem's dating depends on 2017 discovery; text reproduced second-hand; prosecution
+  link unverified.
+node: Mikayıl Müşfik
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/3737657
+    archived: https://web.archive.org/web/20250625234243/https://dergipark.org.tr/en/download/article-file/3737657
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://dergipark.org.tr/en/download/article-file/3737657 (section 1, poem verses, Ahmet 2017)
+  method: fetch
+  note: >-
+    Quote is English translation of Turkish rendering ('Ey ulu Ataturk diktim seninle / Sanli abideni soz
+    vatanında'). Poem 'one of the grounds for trial' stated in source.
+  checked_on: "2026-10-29"

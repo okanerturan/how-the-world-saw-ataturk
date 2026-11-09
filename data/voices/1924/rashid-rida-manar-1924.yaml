@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rashid-rida-manar-1924
+voice: Rashid Rida
+voice_type: person
+role: Salafi theologian; editor of al-Manar
+country: Egypt
+country_now: Egypt
+domain: religion
+date: "1924"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: article
+evidence: P
+summary: >-
+  Abolition's defenders include Mustafa Kemal and his party; the Kemalists no longer care whether the Muslim
+  world is pleased or angry.
+quote:
+  text: >-
+    indeed I say they have come not to care about the Islamic world, whether it be pleased or angry
+  language: en
+caveat: >-
+  Part 4 date inferred (after Mar 1924). Quote is the note author's English translation of the Arabic
+  original, which the note prints.
+node: Al-Manar 25(4), 1924 — Rida on Ankara's Disregard of the Muslim World
+sources:
+  - url: https://archive.org/details/Almanar
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    al-Manar vol. 25 pdf p. 210 (printed p. 285, ج٤ م٢٥) archive.org/download/Almanar/almanar25.pdf
+  method: downloaded PDF, rendered page image and read the Arabic
+  note: >-
+    Arabic 'بل أقول إنهم أصبحوا لا يبالون بالعالم الإسلامي رضي أم سخط' present; English translation faithful.
+    'مصطفى كمال وحزبه' present on same page. Part 4 date inferred, not checked.
+  checked_on: "2026-10-29"

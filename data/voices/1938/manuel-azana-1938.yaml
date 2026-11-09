@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: manuel-azana-1938
+voice: Manuel Azaña
+voice_type: person
+role: President of the Spanish Republic
+country: Spain
+country_now: Spain
+domain: diplomacy
+date: "1938-11-12"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: Wrote on behalf of the Republic to express condolence on the death.
+quote:
+  text: fondateur de la République turque … la continuité de sa grande œuvre
+  language: fr
+caveat: >-
+  French original (c2, PDF p. 10), sent from Barcelona during the Civil War; a condolence cable, the praise is
+  brief.
+node: Two Spains Mourn, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+  - url: https://doi.org/10.14225/JOH1567
+verification:
+  verdict: confirmed
+  checked_against: >-
+    academia.edu/41493219 fn 42 (Azaña, 12 Nov 1938 message to TBMM president) + a local working file (TBMM
+    condolence OCR) (Barcelona telegram)
+  method: fetch
+  note: Telegram text includes best wishes for continuity of his work.
+  checked_on: "2026-10-29"

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: onni-talas-1938
+voice: Onni Talas
+voice_type: person
+role: Finnish ambassador in Ankara
+country: Finland
+country_now: Finland
+domain: diplomacy
+date: "1938-12-07"
+era: funeral
+polarity: instrumental
+intensity: 2
+artifact: quote
+evidence: S
+summary: >-
+  Grieved as much as the Turks; praised progress seen in Turkey, especially the economy, and hoped for good
+  Finnish-Turkish economic relations.
+quote:
+  text: This great man belonged not only to the Turkish nation but to all humanity.
+  language: en
+mediated_by: Toksoy 2006 (CTAD) ← Ulus 7 Dec 1938
+caveat: "Toksoy's gloss: a small trading state asking what a modernising economy can buy."
+node: Helsinki and Stockholm, November 1938
+sources:
+  - url: https://makale.isam.org.tr/server/api/core/bitstreams/155bd36a-8026-4b72-8db2-284fde81ae00/content
+    archived: https://web.archive.org/web/20261029003003/https://makale.isam.org.tr/server/api/core/bitstreams/155bd36a-8026-4b72-8db2-284fde81ae00/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: sources/toksoy-2006-ctad-foreign-representatives.txt p.166 (fn 96 Ulus 7 Aralık 1938 s.3)
+  method: local
+  note: Translated from Turkish; statement appeared in Ulus 7 Dec.
+  checked_on: "2026-10-29"

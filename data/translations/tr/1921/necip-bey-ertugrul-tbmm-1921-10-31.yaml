@@ -1,0 +1,25 @@
+# Turkish for data/voices/1921/necip-bey-ertugrul-tbmm-1921-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: necip-bey-ertugrul-tbmm-1921-10-31
+voice: Necip Bey (Ertuğrul)
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Ertuğrul milletvekili
+quote: Paşa Hz. ne hepimizin itimadı vardır.
+quote_kind: original-turkish
+summary: >-
+  Herkesin Paşa'ya güvendiğini ve ordunun onun komutasında olmasını istediğini söyledi, ancak Meclis'in
+  yetkilerinin tek bir kişiye devredilmesine karşı çıktı.
+caveat: >-
+  Basılı metin s. 478; aynı konuşma 'Bendeniz şeklin aleyhindeyim' (şeklin karşısındayım) diye devam eder.
+verification_note: >-
+  Tam eşleşme; notta belirtildiği gibi devamında 'Bendeniz seklin aleyhindeyim' ifadesi geliyor.
+verification_method: Cilt 2 üzerinde pdftotext; 477 sayfa altından sonra, 478'den önce
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b8025b2a5312
+  role: 0e08615e1b04
+  quote: 2222a9987116
+  summary: 65959bc5434d
+  caveat: 18a881db052b
+  verification_note: 919d58ab1cff
+  verification_method: 2af0c7dc2c9e

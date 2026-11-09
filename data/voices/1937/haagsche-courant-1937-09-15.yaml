@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: haagsche-courant-1937-09-15
+voice: Haagsche Courant
+voice_type: press
+role: Hague daily
+country: Netherlands
+country_now: Netherlands
+domain: press
+date: "1937-09-15"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Said Atatürk was never a dictator in the sense of despising democracy and that his dictatorship was a
+  blessing for the country.
+quote:
+  text: Atatürk's dictatuur een zegen voor het land is geweest
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. Item headed 'Het nieuwe Turkije' in a series; may be
+  syndicated or translated copy.
+node: Dutch Dailies on the Dictator, 1924–1937
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=MMKB04:000149289:mpeg21:a0019
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Delpher MMKB04:000149289:mpeg21:a0019 OCR (Haagsche courant 15 sep 1937 art.19)
+  method: fetch
+  checked_on: "2026-10-29"

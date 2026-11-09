@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: gunther-1936
+voice: John Gunther
+voice_type: person
+role: American foreign correspondent; author of Inside Europe
+country: United States
+country_now: United States
+domain: press
+date: "1936"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Calls Atatürk the 'roughneck of dictators' (Hitler a milksop, Mussolini a dandy), a psychopath-patriot who
+  nonetheless remade a rotten nation.
+quote:
+  text: Kamal Ataturk is the roughneck of dictators.
+  language: en
+caveat: >-
+  Chapter XXXI 'The Turkish Colossus', pp. 418-423 of the Hamish Hamilton revised illustrated edition (1938
+  scan, DLI in.ernet.dli.2015.13600; the quoted sentence is on p. 419). First edition January 1936: the
+  chapter's 'Father of Turks' sentence is confirmed in the 1936 impression only by an archive.org
+  search-inside snippet (insideeurope00gunt, lending), so the 1938 text is the one read. Same chapter: 'The
+  blond, blue-eyed combination of patriot and psychopath who is dictator of Turkey'; 'Kamal Ataturk, who
+  strides the Turkish landscape like a colossus'; 'This man ... resembles no one so much as Peter the Great';
+  and, p. 422, 'Other people have created nations. Kamal's job was harder.' He also counts the 1926 hangings
+  and the slapped Egyptian minister, and says 'it is no tribute to Kamal' that he ejected sultan and caliph.
+  Gunther's anecdotes (the champagne party on the night of the hangings, the slap) are his own reportage and
+  are not checked here. The sentence is in the 1936 first printing (Harper, New York; archive.org
+  insideeurope00gunt, lending copy) as shown by archive.org full-text search, 3 Nov 2026, and in four other
+  1936 copies; pages cited are from the 1938 revised edition read in full.
+node: Famous Pens on Atatürk — Gunther, Dewey, Nicolson, Coudenhove-Kalergi, West
+sources:
+  - url: https://archive.org/details/insideeurope00gunt
+  - url: https://archive.org/details/in.ernet.dli.2015.13600
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    archive.org/download/in.ernet.dli.2015.13600 (Hamish Hamilton revised illustrated edition, 1938 scan, Ch.
+    XXXI); 1936 impressions: DLI 2015.463540/459436 OCR empty, insideeurope00gunt is lending (401); no 1936
+    text reachable
+  method: curl djvu text + 1 search (only Armenian-diaspora blogs claim 'written in 1936, p. 96')
+  note: >-
+    Quote verbatim in the 1938 text on p.419 ('Kamal Ataturk is the roughneck of dictators. Beside him. Hitler
+    is a milksop, Mussolini a perfumed dandy') and the other cited lines are there ('centuries deep in rot'
+    supports 'rotten'). But presence in the Jan 1936 first edition is NOT shown: the 1938 chapter was revised
+    (it mentions June 1936 Montreux), and the only '1936' attribution is blogs with a wrong page (p.96). FIX:
+    date the record to the edition read (1938, revised) or hedge 'first published 1936; line seen in 1938
+    revision'; chapter spans pp.418-423 (Poland starts 424), not 417-424; intensity 3 (state-shaping) should
+    be 2 (sustained engagement, a chapter). FOLLOW-UP 2026-11-03 (main agent): archive.org full-text search
+    (services/search/beta/page_production, fts) returns the sentence 'Kamal Ataturk is the roughneck of
+    dictators. Beside him, Hitler is a milksop' from insideeurope00gunt (Harper 1936) and four other 1936
+    copies; date restored to 1936.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 14)
+  checked_on: "2026-11-03"

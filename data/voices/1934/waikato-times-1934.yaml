@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: waikato-times-1934
+voice: Waikato Times
+voice_type: press
+role: Hamilton daily, leader 'A Turkish Anniversary'
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1934-10-29"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: editorial
+evidence: P
+summary: >-
+  Called Kemal her first and only dictator, praising his tender persuasion of a nation, balanced budgets and
+  reforms; the word never heard in Turkey.
+quote:
+  text: What has been broken up by Kemal Pasha is the Oriental middle ages.
+  language: en
+caveat: Five years after the same paper's 1929 leader; stance changed from conflicted to admiring.
+node: New Zealand Editors on the Dictator, 1929–1938
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/WT19341029.2.27
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Papers Past WT19341029.2.27 via wrapper fetch
+  method: fetch
+  checked_on: "2026-10-29"

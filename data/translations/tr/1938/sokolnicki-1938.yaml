@@ -1,0 +1,25 @@
+# Turkish for data/voices/1938/sokolnicki-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sokolnicki-1938
+voice: Michał Sokolnicki (tahminen)
+role: Polonya'nın Ankara Büyükelçisi
+summary: >-
+  Express Poranny'ye, Atatürk yönetiminde Türkiye'nin Yakın Doğu'nun anahtarı olma rolünü yeniden üstlendiğini
+  ve Doğu Avrupa'yı dengelediğini söyledi.
+caveat: >-
+  Michał Sokolnicki olarak kimlik tespiti notun çıkarımıdır; Toksoy adı 'Sokolniski' olarak yazar.
+mediated_by: Toksoy 2006 ← Türk basını özetleri (Ayın Tarihi Kasım 1938, Ulus, Akşam)
+verification_note: >-
+  Büyükelçinin adı Sokolniski olarak yazılmış; Michal Sokolnicki olarak kimlik tespiti çıkarımdır (makul,
+  1936-39'da Ankara büyükelçisi).
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c5b1b3f4584a
+  role: 2bd1b15ea915
+  summary: a806b5c2cf76
+  caveat: 8a9dd46bb47e
+  mediated_by: aa5a462e96c0
+  verification_note: 2382686a2a5c
+  verification_method: 939bb46a04c3

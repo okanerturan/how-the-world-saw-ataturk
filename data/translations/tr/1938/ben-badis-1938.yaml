@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/ben-badis-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ben-badis-1938
+voice: Abdelhamid Ben Badis
+role: Cezayirli reformist alim; al-Shihab editörü
+quote: insanlığın modern tarihte tanıdığı en büyük adam
+quote_kind: translated
+summary: >-
+  Onu modern tarihin en büyük adamı, bir dahi, Türkiye'nin kurtarıcısı olarak nitelendirdi; İslam'a değil
+  sözde Müslümanlara başkaldırdığını söyleyerek suçu din adamlarına da yaydı.
+caveat: >-
+  Özgün metin okundu (r7): al-Shihab 14/9, 'مصطفى كمال رحمه الله', Ben Badis imzalı, s. 131–134 (başlık
+  sayfası s. 130 çıkarımlandı); kapak ayı Kasım 1938, içindekiler sayfası yayım tarihini 30 Aralık 1938 olarak
+  veriyor. İhtiyat payı: İslam'a yönelik tutumu 'made the Muslim's heart contract'.
+verification_note: >-
+  Alıntı, Arapça 'a'zam rajul 'arafathu al-bashariyya fi al-tarikh al-hadith' ifadesinin İngilizce
+  çevirisidir; 'heart contracts' ihtiyat kaydı alsalabi metninde mevcut.
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9e4b3f43b1a4
+  role: 0ee037d5fa73
+  quote: 86d61fb65f06
+  summary: 293a3a74bc1a
+  caveat: 82d4dbcd6edc
+  verification_note: bb9c074d369a
+  verification_method: ad8cee67138e

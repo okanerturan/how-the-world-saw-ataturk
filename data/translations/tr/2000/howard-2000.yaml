@@ -1,0 +1,40 @@
+# Turkish for data/voices/2000/howard-2000.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: howard-2000
+voice: John Howard
+role: Avustralya Başbakanı (1996–2007)
+quote: >-
+  1915 harekâtlarının ardından ulusların uzlaştırılma biçiminden dolayı Türkiye Cumhuriyeti'nin birbirini
+  izleyen liderlerine, özellikle de büyük Kemal Atatürk'e saygılarımı sunmak istiyorum.
+quote_kind: translated
+summary: >-
+  Gelibolu uluslararası töreninde, 1915'ten sonra ulusların uzlaşmasından dolayı 'büyük Kemal Atatürk'e
+  saygılarını sunar.
+caveat: >-
+  'reconcilled' yazımı tutanağa aittir. Gelibolu'da Türkiye ve Yeni Zelanda başbakanlarının huzurunda
+  yapılmıştır. İki gün önce Ankara'da (PM Transcripts 22713, 23 Nisan 2000) Howard Türkleri 'honoured'
+  hasımlar olarak nitelendirmiştir ancak zamirin Atatürk'e işaret ettiği açık değildir, bu nedenle o pasaj
+  kullanılmamıştır; 26 Nisan'da Paris'te (11503) Howard değil, bir gazeteci Atatürk'ün 1934 tarihli sözlerini
+  eski düşmanların uzlaşmasına yardımcı olan sözler olarak tanımlar. Anzak konuşmacılarının Atatürk'e
+  atfettiği 'Johnnies and Mehmets' / 'your sons are now lying in our bosom' metninin kendisi tartışmalıdır:
+  1934 tarihli bir orijinal bulunamamıştır, metin ilk kez 1953'te İçişleri Bakanı Şükrü Kaya'nın hatırası
+  aracılığıyla basılı olarak ortaya çıkmıştır ve 'Johnnies and Mehmets' ibaresi 1978 tarihli bir Avustralya
+  eklemesidir (bkz. [[Johnnies and Mehmets]]). Dolayısıyla bu, övgüyü ödüllendiren bir anma töreni veya
+  diplomatik vesileyle dile getirilmiş, konuşmacının Anzak efsanesindeki Atatürk'e dair görüşüdür. Kaynak
+  gösterimi: Turkish International Service at Mehmetcik Abide, 25 April 2000.
+verification_note: >-
+  22690 sayılı tutanakta (Howard, Turkish International Service at Mehmetcik Abide, 25 Nisan 2000) birebir
+  aynı ('reconcilled' dahil). 'the great Kemal Ataturk' ifadesiyle kendi saygı sunumu. Hayran 1 makul.
+verification_method: >-
+  kaynak yeniden çekildi, alıntının normalleştirilmiş metin eşleşmesi yapıldı; konuşmacı, tarih ve başlık
+  üstveriden/imza satırından okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1b2ca28ad501
+  role: 80338c07073d
+  quote: ffa1d50a142d
+  summary: 1dd7f8ef1be7
+  caveat: 55ba7347872b
+  verification_note: 397b67baa402
+  verification_method: 02ed4e837c0d

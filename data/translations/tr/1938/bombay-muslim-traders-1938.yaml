@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/bombay-muslim-traders-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bombay-muslim-traders-1938
+voice: Bombay Müslüman dükkân sahipleri
+role: Bombay'daki Müslüman işletmeler
+quote: Müslüman dükkânları ve depoları Kemal Atatürk'e saygı göstergesi olarak kapandı
+quote_kind: translated
+summary: >-
+  Bombay'daki Müslüman dükkânları ve depoları, haberin geldiği gün saygı göstergesi olarak kapandı.
+caveat: Ajans haberi; kapanma bildirilmektedir, 'tribute' dışında bir gerekçe belirtilmemiştir
+mediated_by: >-
+  NZ Press Association üzerinden 11 Kasım 1938 tarihli telgraf, Evening Post 12 Kasım 1938'de basıldı
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 055e080625b3
+  role: e87589a54330
+  quote: 297b63d4825b
+  summary: b300549b419f
+  caveat: fbaebcd5868e
+  mediated_by: e009f45c2825
+  verification_method: ad8cee67138e

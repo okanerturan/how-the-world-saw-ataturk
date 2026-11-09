@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bataviaasch-nieuwsblad-1924-03-13
+voice: Bataviaasch Nieuwsblad
+voice_type: press
+role: Batavia daily
+country: Dutch East Indies
+country_now: Indonesia
+domain: press
+date: "1924-03-13"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  From the manner of the caliph's expulsion, concluded that this showed what one could expect from the Young
+  Turks.
+quote:
+  text: Daaruit toch blijkt, wat men van de Jong-Turken te wachten heeft
+  language: nl
+caveat: >-
+  Quote copied from KB/Delpher OCR of the article. 'Jong-Turken' is the paper's label for the Ankara
+  leadership; Kemal is named earlier in the same item as proposer.
+node: Dutch Confessional Press and the Fall of the Caliphate, March 1924
+sources:
+  - url: https://resolver.kb.nl/resolve?urn=ddd:011071507:mpeg21:a0005
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: resolver.kb.nl ddd:011071507:mpeg21:a0005:ocr (Bataviaasch nieuwsblad 13 mrt 1924, art. 5)
+  method: fetch
+  checked_on: "2026-10-29"

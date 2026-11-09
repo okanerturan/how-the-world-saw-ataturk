@@ -1,0 +1,40 @@
+# Turkish for data/voices/1932/ozaki-yukio-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ozaki-yukio-1932
+voice: Ozaki Yukio
+role: Kıdemli Japon Diet üyesi, 'anayasanın babası'
+quote: >-
+  Ve Türkiye'nin Kemal'i, birkaç yıl önce Türk yazısını kaldırıp Latin harflerini benimsedi. Tek başına bu iş
+  bile onun dünyadaki sıradan kahramanlardan bir baş üstün olduğunu kanıtlamaya yeter.
+quote_kind: translated
+summary: >-
+  Kemal'in Latin alfabesine geçişinin tek başına bile onun sıradan kahramanlardan bir baş üstün olduğunu
+  kanıtladığını, neredeyse hiçbir bedel ödemeden elde edilmiş büyük bir başarı olduğunu söyler.
+caveat: >-
+  Kaiko manroku (1947), 'Toruko no senrei', basılı s. 103, NDL görüntü 57 (sayfa görüntüsü okundu). Pasajda
+  Hitler hâlâ 'unknown' olarak geçer, dolayısıyla deneme 1930'ların başlarına aittir; 1947 kitap tarihidir.
+  1934 kaydından (Mussolini ve Hitler ile bir liste) daha güçlü ve daha kişiseldir. Övgü yazı değişikliğine
+  dayanır ve diğer reformlara değinmez. Kontrol: kitabın ilk bölümü '昭和七年英京に於て執筆' (Londra'da yazıldı, 1932)
+  başlıklıdır ve pasaj Hitler'i '未知數' olarak nitelendirir; dolayısıyla yakl. 1932 (muhtemel); yayımı 1947.
+verification_note: >-
+  Alıntı basılı s. 103'te (sol sayfa), 3. bölümün (s. 93 vd.) içindeki 'Toruko no senrei' kısmında birebir
+  aynı. Övgü yazı değişikliğine dayanıyor; bir sonraki paragraf Kemal'in yönteminin ve zamanlamasının iyi
+  olduğunu ve bu işi neredeyse hiç fedakârlık gerektirmeden tamamladığını söylüyor, bu da kayıtla eşleşiyor.
+  TARİH/DÖNEM DÜZELTMESİ (muhtemel, kesin değil): 1947 tarihli kitap 1932-33 tarihli bir risalenin yeniden
+  basımıdır; ilk bölümü '(昭和七年英京に於て執筆)' (Londra'da yazıldı, 1932; içindekiler, görüntü 6) başlıklıdır ve Kemal
+  pasajı Hitler'i '未知數' (hâlâ bilinmeyen), yani Ocak 1933 öncesi olarak nitelendirir. 3. bölümün kendisi ayrı
+  bir tarih taşımaz. Dolayısıyla tarih yakl. 1932, dönem çağdaş olmalıdır; 1947 ölüm sonrası değil. Bakış
+  testi geçer (kendi güçlü hükmü).
+verification_method: >-
+  IIIF sayfa görüntüsü indirildi ve üzerindeki Japonca OKUNDU; yazar/başlık/yıl için NDL öğe üstverisi kontrol
+  edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 4319dc1f3e9f
+  role: 87d6b0d7cfde
+  quote: a82b628c196c
+  summary: da66fbef93ed
+  caveat: ef7bcd513e6f
+  verification_note: 2cfb52e37a70
+  verification_method: 25d671ee4bfd

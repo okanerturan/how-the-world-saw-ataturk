@@ -1,0 +1,37 @@
+# Turkish for data/voices/1981/reagan-1981-04-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: reagan-1981-04-02
+voice: Ronald Reagan
+role: >-
+  Amerika Birleşik Devletleri Başkanı; Atatürk'ün doğumunun yüzüncü yılı dolayısıyla Beyaz Saray açıklaması
+quote: Atatürk, savaş ve barış zamanlarında büyük bir ulusal liderdi.
+quote_kind: translated
+summary: >-
+  Atatürk'ü savaşta ve barışta büyük bir ulusal lider ve yurttaşlarının kalbinde ilk sırada yer alan bir isim
+  olarak nitelendirir; onun 'Yurtta Barış, Dünyada Barış' sözünü anar.
+caveat: >-
+  Projenin listelediği şekliyle, 1981 yüzüncü yıl dönümü arifesinde Reagan'ın adıyla yayımlanmıştır (övgüyü
+  Türk-Amerikan ittifakına ve Türkiye'nin darbe sonrası hükûmetini desteklemeye bağlar). Ekip tarafından
+  kaleme alınmış metindir; tarih Proje sayfasının üstbilgisinden alınmıştır. UCSB metni 'Statements by the
+  Press Secretary' başlığı altında dosyalamaktadır: Reagan'ın bizzat söylediği sözler değil, onun adına
+  yapılmış bir Beyaz Saray açıklamasıdır.
+mediated_by: Beyaz Saray Basın Sözcüsü
+verification_note: >-
+  Alıntı birebir aynı ve tarih doğru; ancak belge Reagan'ın kendisine ait bir konuşma ya da metin değil, Beyaz
+  Saray basın ofisi açıklamasıdır (UCSB bunu 'Statements by the Press Secretary' altında dosyalar). Kayıt bunu
+  kişi olarak Reagan'a atfediyor ve çekince notu yalnızca 'issued under Reagan's name' diyor. DÜZELTME:
+  çekince notunda bunun bir Basın Sözcüsü açıklaması olduğunu (Reagan'ın kendi sözleri değil, ekip metni)
+  belirtin ya da konuşmacıyı kurum olarak 'White House (Reagan administration)' şeklinde yeniden düzenleyin;
+  belge türü 'speech' değil 'statement' olmalı; metin için hayran/2 uygun.
+verification_method: UCSB sayfasının curl ile çekilmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 55ced80d333c
+  role: 8f5e8f8187ec
+  quote: e9c728ffbab5
+  summary: 1426381cd077
+  caveat: cc49b1a5a5cf
+  mediated_by: c186541b48a8
+  verification_note: 679f3c9915a0
+  verification_method: 276843750f96

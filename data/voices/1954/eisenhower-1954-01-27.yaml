@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: eisenhower-1954-01-27
+voice: Dwight D. Eisenhower
+voice_type: person
+role: President of the United States
+country: United States
+country_now: United States
+domain: diplomacy
+date: "1954-01-27"
+era: posthumous
+polarity: instrumental
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Toasting Celal Bayar, credits Turkey's transformation to a dream of a group of men headed by Kemal Atatürk,
+  who gave selfless service to their country.
+quote:
+  text: >-
+    This great change was brought about by a dream of a group of men, a group of men headed by Mustafa Kemal
+    Ataturk.
+  language: en
+caveat: >-
+  White House state dinner toast for Bayar, 27 Jan 1954, American Presidency Project (Public Papers 1954).
+  Alliance-diplomacy occasion. Bayar's reply (same page) calls Atatürk 'the saviour of my country' but is a
+  Turkish voice and is not stored.
+node: Postwar Leaders on Atatürk, 1938–1992
+sources:
+  - url: https://presidency.ucsb.edu/documents/toasts-the-president-and-president-bayar-the-white-house
+    archived: https://web.archive.org/web/20250908222255/https://www.presidency.ucsb.edu/documents/toasts-the-president-and-president-bayar-the-white-house
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: presidency.ucsb.edu/documents/toasts-the-president-and-president-bayar-the-white-house
+  method: tools/ms free fetch for the text, one render for the date
+  note: >-
+    Verbatim: 'This great change was brought about by a dream of a group of men, a group of men headed by
+    Mustafa Kemal Ataturk. He had a dream that with a band of devoted associates they translated into
+    reality--by service, unselfish and dedicated service, to their country.' Rendered page date: January 27,
+    1954. Also 'Now the great Ataturk is dead, but his work lives on'. No correction needed.
+  checked_on: "2026-11-01"

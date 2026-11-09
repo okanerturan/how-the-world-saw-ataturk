@@ -1,0 +1,47 @@
+# Turkish for data/voices/2022/kristersson-2022-11-08-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kristersson-2022-11-08-book
+voice: Ulf Kristersson
+role: İsveç Başbakanı; Anıtkabir Özel Defteri'ndeki yazı
+quote: >-
+  Yaklaşık 100 yıl önce Atatürk tarafından kurulan Türkiye Cumhuriyeti'ni ziyaret etmek benim için büyük bir
+  onurdur
+quote_kind: translated
+summary: >-
+  Yaklaşık bir asır önce Atatürk tarafından kurulan Cumhuriyeti ziyaret etmekten onur duyduğunu belirtir;
+  Atatürk'ün 1934'te İsveç veliaht prensiyle çekilen fotoğraflarını hatırlatır.
+caveat: >-
+  Middle East Monitor tarafından yayımlanan İngilizce metin (bir Anadolu Agency fotoğrafı); Odatv Türkçe
+  çevirisini yayımlamaktadır ('Yaklaşık 100 yıl önce tarafınızca kurulan Türkiye Cumhuriyeti'ni ziyaret etmek
+  benim için büyük bir onurdur'); burada metin doğrudan Atatürk'e hitap etmektedir ('founded by you').
+  İngilizcenin özgün metin mi yoksa AA'nın Türkçeden geri çevirisi mi olduğu tespit edilememiştir. NATO'ya
+  katılım anlaşmazlığı sırasında yazılmıştır; metnin devamında 1934'te İsveç Büyükelçiliği'nin açılışında
+  Atatürk'ün Veliaht Prens Gustaf Adolf ile çekilen fotoğraflarından söz edilmektedir. Kontrol: ifadeler bir
+  AA/MEM İngilizce çevirisidir; Odatv'nin Türkçesinde 'tarafınızca kurulan' ('founded by you') yer almakta ve
+  MEM'in bir sonraki cümlesi ikinci tekil şahıs kullanmaktadır, dolayısıyla metin doğrudan Atatürk'e hitap
+  etmektedir.
+mediated_by: Middle East Monitor (İngilizce) ve Odatv (Türkçe), 8 Kasım 2022
+verification_note: >-
+  İngilizce alıntı MEM'de birebir aynı ve tarih doğru, ancak iki yayın birbiriyle uyuşmuyor: MEM 'founded by
+  Ataturk nearly 100 years ago' iken Odatv 'tarafınızca kurulan' (sizin tarafınızdan kurulan) ifadesini
+  veriyor. MEM'in kendi sonraki cümlesi ('Your photos ...') ikinci şahıs kipindedir; dolayısıyla yazı
+  Atatürk'e hitap etmektedir ve MEM İngilizcesi giriş cümleciğinin üçüncü şahısla yeniden yazımıdır; gerçek
+  ifadeler kesinleşmemiştir ve kayıt İngilizceyi çeviri olarak işaretlememektedir. Düzeltme: alıntıyı bir
+  AA/MEM İngilizce çevirisi olarak etiketleyin veya Türkçesini [translation] ile verip hitap biçimini
+  ('founded by you') belirtin. MEM'deki tam 2. cümle: 'Your photos taken with then Crown Prince Gustav Adolf
+  at the opening of the Swedish Embassy in Ankara in 1934 remind me of how far back our close ties date.' Hem
+  MEM hem de Odatv AA haberine dayanmaktadır, bağımsız değildir. Araçsal/1 yerinde.
+verification_method: >-
+  atıf yapılan makalelerin ücretsiz yeni çekimi (tools/ms fetch); arşivlenmiş round16/anit sayfaları
+  kullanılmadı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: eb57ccaa7367
+  role: 6ad077b60f50
+  quote: dee84850b5c8
+  summary: 7af2df514cd4
+  caveat: b92c88217c6f
+  mediated_by: 2ee152eb703d
+  verification_note: 549972913ab1
+  verification_method: 8505ab605bfa

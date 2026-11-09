@@ -1,0 +1,38 @@
+# Turkish for data/voices/2006/rahmonov-2006-01-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rahmonov-2006-01-19
+voice: Emomali Rahmonov
+role: Tacikistan Cumhurbaşkanı
+quote: >-
+  Türkiye Cumhuriyeti'nin kurucusu, Türk halkının büyük evladı Mustafa Kemal Paşa Atatürk'ün anısını
+  onurlandıracağız
+quote_kind: translated
+summary: >-
+  Cumhuriyet'in kurucusu, 'Türk halkının büyük evladı' Mustafa Kemal Paşa Atatürk'ün anısını onurlandırma sözü
+  veriyor.
+caveat: >-
+  [çeviri] 'Türkiye Cumhuriyeti'nin kurucusu, Türk halkının büyük evladı Mustafa Kemal Paşa Atatürk'ün anısını
+  onurlandıracağız.' Tacikçe el yazısı, 19.01.06, 'Э. Раҳмонов, Президенти Ҷумҳурии Тоҷикистон' imzalı; el
+  yazısından transkribe edildi (Tacikçeye özgü harfler standartlaştırıldı). Kaynak: Anıtkabir Özel Defteri
+  (basılı derleme, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk
+  hakkındaki duygu ve düşünceleri'), ataturkarsivi.com adresindeki sayfa görüntüleri, ana ajan tarafından
+  görüntü üzerinden okundu (4 Kasım 2026).
+verification_note: >-
+  El yazısı 3 kat büyütmeyle okundu: 'Мо хотираи асосгузори Ҷумҳурии Туркия, фарзанди бузурги халқи турк
+  Мустафо Камол пошшо Отатуркро пос хоҳем дошт' — kayıtla eşleşiyor. 19.01.06 tarihli; görev satırı
+  'Президенти Ҷумҳурии Тоҷикистон'. Düzeltme gerektirmeyen iki belirsizlik kaldı: (a) imza 'Э. Рах..мон(ов)'
+  şeklinde okunuyor, son harfler okunaksız, dolayısıyla 'Раҳмонов' makul ama kesin değil; (b) 'пошшо'
+  yazıldığı şekliyle kelime anlamıyla 'kral' demektir ('paşa' için Tacikçe normalde 'пошо' kullanılır);
+  kayıttaki '[çeviri] Paşa', 'Mustafa Kemal Paşa' adındaki unvanın makul bir okumasıdır ancak sayfadan
+  kanıtlanamaz. Çeviri bunun dışında makul; çapraz kontrol için burada basılı Türkçe metin mevcut değil.
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 282fcab77a90
+  role: 3a035760d885
+  quote: 5216d6a7c058
+  summary: fc34a63f95e4
+  caveat: 94f9db03e7e2
+  verification_note: fef9e8c7d8ee
+  verification_method: "304538629105"

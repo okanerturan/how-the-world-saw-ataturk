@@ -1,0 +1,43 @@
+# Turkish for data/voices/1937/auerbach-1937-01-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: auerbach-1937-01-03
+voice: Erich Auerbach
+role: Alman Roman filoloğu, İstanbul Üniversitesi profesörü (Mimesis'in yazarı)
+quote: >-
+  “Grand chef” sempatik bir otokrat; zeki, büyük ve hayal gücü geniş; Avrupalı muadillerinden tamamen farklı,
+  çünkü bu ülkeyi gerçekten bizzat kendisi bir devlet haline getirdi ve kesinlikle belagatsiz.
+quote_kind: translated
+summary: >-
+  Atatürk'ü ülkeyi gerçekten bir devlet haline getiren sevimli, zeki bir otokrat olarak nitelendirdi; ancak
+  ortaya çıkan sonucun ulusal karakteri tahrip eden fanatik, gelenek karşıtı bir milliyetçilik olduğunu
+  söyledi.
+caveat: >-
+  Walter Benjamin'e özel mektup, İstanbul-Bebek, 3 Ocak 1937. Almanca özgün metin: 'Der grand chef ist ein
+  sympathischer Autokrat, klug, großzügig und witzig, vollkommen verschieden von seinen europäischen Kollegen
+  ... und das Resultat ist ein fanatischer antitraditioneller Nationalismus.' PMLA çevirisi 'witzig' sözcüğünü
+  'imaginative', 'phrasenlos' sözcüğünü ise 'without eloquence' olarak karşılar. Bir görüşme değildir:
+  Auerbach kişisel bir temas değil, Kemal'in üniversite reformunun bir çalışanıydı.
+mediated_by: >-
+  We Refugees Archive edisyonu ← Barck, Zeitschrift für Germanistik 9:6 (1988) s. 691–692; İngilizce: PMLA
+  122:3 (2007) s. 750–751
+verification_note: >-
+  İngilizce alıntı birebir aynı (PMLA çevirisi, sayfadaki gibi 'grand chef' etrafında kıvrık tırnak
+  işaretleriyle). Uyarı notundaki Almanca metin özgün metinle eşleşiyor ('Der grand chef ist ein sympathischer
+  Autokrat, klug, großzügig und witzig, vollkommen verschieden von seinen europäischen Kollegen'; '... und das
+  Resultat ist ein fanatischer antitraditioneller Nationalismus'); 'Nationalismus im Superlativ bei
+  gleichzeitiger Zerstörung des geschichtlichen Nationalcharakters' ifadesi what_they_saw alanının son
+  cümleciğini destekliyor. 'Istanbul-Bebek, 3. Januar 1937' başlığı eşleşiyor. İkircikli (conflicted)
+  nitelemesi doğru; mektubun yayımlanmış bir basımı için P uygun. Bakış testi güçlü biçimde geçiyor. Düzeltme
+  yok.
+verification_method: curl
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 87d7d00a38c8
+  role: b5320739b8ba
+  quote: b27ccf49374f
+  summary: 7500537d6a76
+  caveat: 00c1ca4f289e
+  mediated_by: ddc784162a73
+  verification_note: 867c2218028b
+  verification_method: 5300d17a1d69

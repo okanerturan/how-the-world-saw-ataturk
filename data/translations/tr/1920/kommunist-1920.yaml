@@ -1,0 +1,18 @@
+# Turkish for data/voices/1920/kommunist-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kommunist-1920
+voice: Kommunist (Bakü)
+role: Bakü günlük parti gazetesi
+summary: >-
+  Azerbaycan'ın kurtuluşunu Türkiye'nin bağımsızlık mücadelesiyle birlikte çerçeveleyen, Mustafa Kemal'i ve
+  Ankara hükümetini olumlu biçimde sunan yazılar yayımladı.
+mediated_by: Heşimova 2024
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c3f4493f3787
+  role: 757973cf42e8
+  summary: e816724e0d11
+  mediated_by: dc760c8e80ab
+  verification_method: ad8cee67138e

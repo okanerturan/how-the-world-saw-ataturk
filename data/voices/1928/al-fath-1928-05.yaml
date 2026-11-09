@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-fath-1928-05
+voice: Al-Fath (no. 96)
+voice_type: press
+role: Cairo Salafi weekly
+country: Egypt
+country_now: Egypt
+domain: press
+date: "1928-05-17"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Denies Kemal alone freed Turkey and treats his reforms as ordinary; says he feigned piety until Lausanne.
+quote:
+  text: those who freed Turkey were a band of which Mustafa Kemal was one
+  language: en
+caveat: >-
+  Author unnamed ('a great mujahid'); Arslan is only an inference. Quote is the note author's English
+  translation of the Arabic original, which the note prints.
+node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
+sources:
+  - url: https://archive.org/details/efath-moheb-elden-elkheeb
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA efath-moheb-elden-elkheeb 001_125 PDF, pdf 1521-1522 (pp.721-722; masthead on 1521 no.96, 17 May 1928)
+  method: >-
+    curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
+  note: >-
+    Arabic on p.721 bottom; byline 'bi-qalam mujahid kabir huwa a'lam kuttab al-arabiyya bi-ahwal Turkiya'
+    unnamed; p.722 has feigning-piety-until-Lausanne passage; hostile holds.
+  checked_on: "2026-10-30"

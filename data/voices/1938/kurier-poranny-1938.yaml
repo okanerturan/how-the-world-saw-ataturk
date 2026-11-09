@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kurier-poranny-1938
+voice: Kurier Poranny
+voice_type: press
+role: Polish daily
+country: Poland
+country_now: Poland
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: editorial
+evidence: S
+summary: Told in detail how he re-made a country.
+mediated_by: Toksoy 2006 ← Turkish press digests (Ayın Tarihi Nov 1938, Ulus, Akşam)
+node: Warsaw Compares Him to Washington, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt (Polonya, 'Kurjer Poranny', line ~1484)
+  method: local
+  note: >-
+    Toksoy gives only a one-line gist: his main role after the National Struggle, creating a country anew in
+    fine detail
+  checked_on: "2026-10-29"

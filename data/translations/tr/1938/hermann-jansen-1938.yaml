@@ -1,0 +1,32 @@
+# Turkish for data/voices/1938/hermann-jansen-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hermann-jansen-1938
+voice: Hermann Jansen
+role: Alman mimar ve şehir plancısı, Ankara planının müellifi
+quote: üstün deha sahibi Devlet Başkanı Kemal Atatürk
+quote_kind: translated
+summary: Üstün deha sahibi devlet başkanının ölümünün yasını tuttu.
+caveat: >-
+  TBMM c. 2 (c2) PDF s. 15. Alıntı Almancadır; çevirisi: 'üstün deha sahibi devlet başkanı'. Görev bilgisi
+  'Prof. Hermann Jansen' dizin kaydından ve arka plan bilgisinden (1928 Ankara planı) alınmıştır; belgede
+  belirtilmemiştir.
+verification_note: >-
+  'herzliches beileid zum schweren verlust des hochgenialen staatspraesidenten kamalatatuerk = tiefbewegt
+  professor hermann jansen'. Kayıttaki 'hochgenialen Staatspräsidenten Kemal Atatürk' ifadesi umlaut işaretini
+  standartlaştırır ve bitişik yazılmış 'kamalatatürk' adını ayırır (kaynaktaki yazılışı 'Kamal'). Kaydın da
+  kabul ettiği üzere görev bilgisi (mimar, Ankara planı) belgede yer almaz. Sayfadaki sol telgraf bu kayda
+  değil, Goering'e aittir. Kayıttaki 'death' (ölüm) ifadesi kaynakta 'verlust' (kayıp) olarak geçmektedir;
+  zararsızdır.
+verification_method: >-
+  PDF sayfasının kendi görüntü çıktısı (PDFKit PNG, gözle okundu); OCR'a dayanılmadı; telgraf metni aksansız
+  büyük/küçük harf daktilo yazısıdır
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 635c02f6f96a
+  role: 8cac0873139e
+  quote: 8069ac6df1cd
+  summary: 42917e2e9b3a
+  caveat: 8c0e669488c4
+  verification_note: fae3c22d3e08
+  verification_method: 7c3ad23fb937

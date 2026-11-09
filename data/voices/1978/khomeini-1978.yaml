@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: khomeini-1978
+voice: Ruhollah Khomeini
+voice_type: person
+role: Shia marja', later founder of the Islamic Republic of Iran
+country: Iran (exile)
+country_now: Iran
+domain: religion
+date: "1978"
+era: posthumous
+polarity: hostile
+intensity: 1
+mirror: apostate
+artifact: quote
+evidence: S
+summary: >-
+  Calls Reza Khan's unveiling policy a shameful imitation of 'the ungodly Ataturk', which brought shame on
+  humanity.
+quote:
+  text: >-
+    By imposing ban on Islamic veil for women, Reza Khan’s shameful imitation of the ungodly Ataturk, caused
+    and brought about shame for humanity.
+  language: en
+mediated_by: >-
+  English text as quoted by the Imam Khomeini Portal (en.imam-khomeini.ir, n29326) ← Sahifeh-ye Imam vol. 3,
+  p. 309 (Institute for Compilation and Publication of Imam Khomeini's Works); Persian original not read
+caveat: >-
+  Translation; the portal gives volume and page but not the speech or its date. Vol. 3 of the English Sahifeh
+  series falls between the 1965 end of vol. 1 and the Jan–Apr 1979 vol. 6, so '1978' is an approximation; the
+  vol. 3 PDF could not be fetched to confirm. The object is Reza Shah's policy; Atatürk is named as its model.
+  The same portal page prints a further excerpt from Kashf al-Asrar (p. 189) that does not name Atatürk. Kashf
+  al-Asrar (1943) itself was not read for this round. Date: Sahifeh vol. 3 (English) covers Oct 1973 – Oct
+  1978 and p. 309 falls before the 18 Feb 1978 speech, so probably 1977–78; the portal names no occasion.
+node: Islamic Thinkers on Atatürk in Their Own Words
+sources:
+  - url: http://en.imam-khomeini.ir/en/n29326/Reza-Khan-acted-against-cultural-values-religious-sentiments
+    archived: https://web.archive.org/web/20240812003431/http://en.imam-khomeini.ir/en/n29326/Reza-Khan-acted-against-cultural-values-religious-sentiments
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Imam Khomeini Portal en.imam-khomeini.ir/en/n29326 (quote with '(Sahifeh-ye-Imam, Vol.3, page 309)');
+    Sahifeh vol. 3 date range from islamic-sources.com listing; page position from another citation of vol. 3
+    pp. 342-362 = speech of 18 Feb 1978
+  method: >-
+    tools/ms free fetch of the portal page; two searches for the date range of vol. 3; vol. 3 PDF not found
+    (the staticsml URL pattern 404s for vol 3)
+  note: >-
+    Quote verbatim on the portal: 'By imposing ban on Islamic veil for women, Reza Khan's shameful imitation
+    of the ungodly Ataturk, caused and brought about shame for humanity.' The portal introduces it as said 'on
+    various occasions', gives no speech or date. English Sahifeh vol. 3 spans 8 Oct 1973 - 13 Oct 1978, and an
+    academic citation puts the 18 Feb 1978 speech at vol. 3 pp. 342-362, so p. 309 precedes it: probably late
+    1977/early 1978, but not established; the record's 'vol. 3 falls between the 1965 and Jan 1979 volumes' is
+    looser than needed. Artifact 'speech' is unproven. CORRECTION: date '1973-1978 (Sahifeh vol. 3 p. 309;
+    probably 1977-78)' or '1978?' with that hedge; artifact 'statement' unless the speech is identified; keep
+    Translation and portal-only caveats. Hostile polarity is fair (object is Reza Shah's policy, Atatuerk the
+    model).
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 13)
+  checked_on: "2026-11-01"

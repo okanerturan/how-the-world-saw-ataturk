@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: journal-des-debats-1924-03-05
+voice: Journal des débats
+voice_type: press
+role: Paris conservative-liberal daily
+country: France
+country_now: France
+domain: press
+date: "1924-03-05"
+era: contemporary
+polarity: witness
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Described Kemal as the victor who controlled the elections, lived in Western style and wanted the imperial
+  family not banished.
+quote:
+  text: Moustafa Kémal le Victorieux
+  language: fr
+caveat: >-
+  View 1. The epithet is the paper's; the rest is narration. 'ne bannit' appears as 'ho bannit' in OCR.
+  Gallica ContentSearch fragment, OCR copied as given; view number is Gallica's, not necessarily the printed
+  page.
+node: Paris Dailies and the Abolition of the Caliphate, March 1924
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k490711v
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: Gallica ContentSearch ark bpt6k490711v, PAG_1 fragments
+  method: ms fetch ContentSearch (later query bot_blocked, stopped)
+  note: >-
+    'Moustafa Kémal le Victorieux' verbatim; elections 'sous le contrôle le plus strict' and 'Moustapha Kerhal
+    aurait voulu qu'on ne bannit pas les membres de la famille impériale' seen. 'Lived in Western style' not
+    confirmed. Issue date not independently verified.
+  checked_on: "2026-10-30"

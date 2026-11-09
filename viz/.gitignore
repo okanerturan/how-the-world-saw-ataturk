@@ -1,0 +1,4 @@
+node_modules/
+dist/
+public/gazes.json
+public/gazes.tr.json

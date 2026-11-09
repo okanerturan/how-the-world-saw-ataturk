@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hemingway-1922
+voice: Ernest Hemingway
+voice_type: person
+role: Toronto Daily Star correspondent (aged 23)
+country: Canada
+country_now: Canada
+domain: press
+date: "1922-10-09"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: S
+summary: "Sardonic reporting: Kemal bans alcohol in Anatolia while he and his staff drink."
+quote:
+  text: >-
+    This devotion to the laws of the prophet does not prevent Kemal himself and his staff from liking their
+    liquor
+  language: en
+mediated_by: >-
+  Reprint in Hemingway, Dateline: Toronto (Scribner's 1985), via The Archive of American Journalism
+caveat: >-
+  Tone is reportorial irony, not a stated verdict; polarity 'witness' is the nearest enum. The 19 Oct 1922
+  piece 'Waiting for an Orgy' says 'Kemal is hand in glove with the Soviets and his entry will wipe out the
+  greatest Russian sanctuary.' A scholar (Studies in the Novel/TSL 2012) quotes a 19 Oct dispatch, Dateline p.
+  296, 'All the East says that Mustapha Kemal is a great man'; that sentence was NOT found in the reprints
+  read, so it is not used. The 'Kemal is hand in glove with the Soviets' line is from a different, undated
+  dispatch and is not part of this record.
+node: Hemingway Reads Kemal, Toronto Star October 1922
+sources:
+  - url: https://thegrandarchive.wordpress.com/hamid-bey-wears-shirt-tucked-in-when-seen-by-star
+    archived: https://web.archive.org/web/20240611232008/https://thegrandarchive.wordpress.com/hamid-bey-wears-shirt-tucked-in-when-seen-by-star/
+  - url: https://bookreadfree.com/140492/3471837
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Hemingway, Toronto Daily Star 9 Oct 1922, 'Hamid Bey Wears Shirt Tucked In When Seen by Star'
+    (thegrandarchive.wordpress.com); bookreadfree.com/140492/3471837 (Dateline: Toronto, p. 25 of the web
+    edition)
+  method: >-
+    tools/ms free fetch of both pages; searched each for the quoted sentence and for 'hand in glove'
+  note: >-
+    Quote verbatim in the 9 Oct 1922 article: 'This devotion to the laws of the prophet does not prevent Kemal
+    himself and his staff from liking their liquor, as the American, who went to Smyrna to protect American
+    tobacco, found when his eight bottles of cognac made him the most popular man in Asia Minor at Kemalist
+    headquarters.' The drink-ban claims are attributed to 'A member of the Anatolian government tells me'.
+    Problem: what_they_saw also says Kemal is 'hand in glove with the Soviets', which is NOT in the 9 Oct
+    article (0 hits); it is in a different dispatch (bookreadfree Dateline p. 25, Constantinople, about
+    Russian refugees), whose date the page does not give (the caveat says 19 Oct 'Waiting for an Orgy',
+    unverified here). The record's single date 1922-10-09 therefore does not cover that clause. CORRECTION:
+    delete 'he is hand in glove with the Soviets' from what_they_saw (or split into a second record with its
+    own dated source) and keep the quote under 1922-10-09. 'witness' polarity is right; the evidence mediation
+    'Reprint in Dateline: Toronto' is via web reprints, not the book page.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 12)
+  checked_on: "2026-11-01"

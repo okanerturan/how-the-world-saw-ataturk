@@ -1,0 +1,30 @@
+# Turkish for data/voices/1928/al-fath-1928-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-fath-1928-05
+voice: Al-Fath (sayı 96)
+role: Kahire'de yayımlanan haftalık Selefi dergi
+quote: Türkiye'yi kurtaranlar, Mustafa Kemal'in de içlerinden biri olduğu bir gruptu
+quote_kind: translated
+summary: >-
+  Türkiye'yi tek başına Kemal'in kurtardığını reddeder ve reformlarını sıradan görür; Lozan'a kadar dindarlık
+  tasladığını söyler.
+caveat: >-
+  Yazar isimsiz ('büyük bir mücahit'); Arslan yalnızca bir çıkarımdır. Alıntı, notun yer verdiği Arapça özgün
+  metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+verification_note: >-
+  Arapça metin s. 721'in alt kısmında; imza satırında isim verilmeden 'bi-qalam mujahid kabir huwa a'lam
+  kuttab al-arabiyya bi-ahwal Turkiya' yazılı; s. 722'de Lozan'a kadar dindarlık taslama pasajı yer alıyor;
+  düşmanca kutupluluk geçerli.
+verification_method: >-
+  Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
+  künye/kapaklar görüntülendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 025ea37ab978
+  role: abf29e803c77
+  quote: 114a7496c286
+  summary: d33374825369
+  caveat: d5ee53115aef
+  verification_note: 5c3195db289e
+  verification_method: 6190bebdb3a6

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: muhammad-ali-gharib-1928
+voice: Muhammad Ali Gharib
+voice_type: person
+role: Writer in al-Fath
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1928-09-06"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Calls Kemal a fake Robespierre, an ordinary man whose hatred of Islam matters little and who will be
+  remembered for childishness.
+quote:
+  text: >-
+    We do not much mind Mustafa Kemal's rancour against the Islamic religion and his hatred of it
+  language: en
+caveat: >-
+  Quote is the note author's English translation of the Arabic original, which the note prints.
+node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
+sources:
+  - url: https://archive.org/details/efath-moheb-elden-elkheeb
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA efath-moheb-elden-elkheeb 001_125 PDF, pdf 1778 (p.172; masthead pdf 1773 no.112, 6 Sep 1928)
+  method: >-
+    curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
+  note: >-
+    Arabic on p.172 under 'Tufulat al-za'im al-turki / Robespierre al-za'if'; signed Muhammad Ali Gharib at
+    article end; ordinary-man/childishness theme present; hostile holds.
+  checked_on: "2026-10-30"

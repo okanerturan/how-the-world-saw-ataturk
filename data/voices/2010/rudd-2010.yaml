@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rudd-2010
+voice: Kevin Rudd
+voice_type: person
+role: Prime Minister of Australia (2007–2010, 2013)
+country: Australia
+country_now: Australia
+domain: politics
+date: "2010-04-25"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  Says the Turks have embraced Australians in peace and that Atatürk's words about Johnnies and Mehmets 'speak
+  to us still down the ages'.
+quote:
+  text: >-
+    the words of Ataturk (who saw no difference between our Johnnies and their Mehmets) speak to us still down
+    the ages.
+  language: en
+caveat: >-
+  The line adopts the Anzac-legend attribution without hedging. In a 2008 Lone Pine planting speech (PM
+  Transcripts 16100, 4 September 2008) Rudd likewise says Turkey's leader Kemal Ataturk 'offered solace to the
+  parents of those young Australians' in 1934. The 'Johnnies and Mehmets' / 'your sons are now lying in our
+  bosom' text that Anzac speakers attribute to Atatürk is itself contested: no 1934 original has been found,
+  it first appears in print in 1953 via Interior Minister Şükrü Kaya's recollection, and the 'Johnnies and
+  Mehmets' clause is a 1978 Australian addition (see [[Johnnies and Mehmets]]). So this is a speaker's view of
+  the Atatürk of the Anzac legend, spoken at a commemorative or diplomatic occasion that rewards praise. Cited
+  as: Speech at the Anzac Day national ceremony, Australian War Memorial, Canberra, 25 April 2010.
+node: Anzac Day Leaders on Atatürk, 1990–2024 — Australian and New Zealand Speeches
+sources:
+  - url: https://pmtranscripts.pmc.gov.au/release/transcript-17247
+    archived: https://web.archive.org/web/20260423034423/https://pmtranscripts.pmc.gov.au/release/transcript-17247
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: pmtranscripts.pmc.gov.au XML query?transcript=17247
+  method: >-
+    fetched source fresh, normalised-text match of the quote; speaker, date and title read from metadata/byline
+  note: >-
+    Verbatim in transcript 17247 (Rudd, Anzac Day national ceremony, Canberra, 25 Apr 2010). Rudd does not
+    read the text, he refers to it and endorses 'the words of Ataturk ... speak to us still down the ages';
+    that is a thin but own evaluation resting on the contested attribution. Keep at admiring 1 (not higher).
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

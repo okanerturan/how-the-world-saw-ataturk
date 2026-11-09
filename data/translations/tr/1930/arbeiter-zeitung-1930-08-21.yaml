@@ -1,0 +1,33 @@
+# Turkish for data/voices/1930/arbeiter-zeitung-1930-08-21.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: arbeiter-zeitung-1930-08-21
+voice: Arbeiter-Zeitung (Viyana)
+role: Günlük Viyana gazetesi, Sosyal Demokrat Parti'nin merkez yayın organı
+quote: Türk diktatörü Mustafa Kemal Paşa
+quote_kind: translated
+summary: >-
+  Onu 'Türk diktatörü' olarak nitelendirdi, ancak yeni Serbest Fırka'nın muhalefet liderleriyle dostça bir
+  arada oturduğunu ve onları cesaretlendirdiğini bildirdi.
+caveat: >-
+  İstanbul mahreçli, Ağustos ortası, Yalova'dan; başlık OCR'da alıntılanamayacak kadar bozuk. ANNO sayfası
+  açılamadı (bot engeli): yalnızca arama dizininden parça alındı, sayfa görüntüsü yeniden okunmadı. 'Kemal-
+  Pascha' tirelemesi birleştirildi.
+verification_note: >-
+  Kesitlerde 'In dem kleinen Badeort Jalowa bei Stambul, wo der tuerkische Diktator Kemal-Pascha die heissen
+  Sommermonate verbringt' ve 'Kemal-Pascha sitzt mit den Fuehrern der Opposition gegen seine Partei
+  freundschaftlich beisammen, ermutigt sie' ifadeleri görülmektedir. Alıntı, tarih ve sayfa yalnızca kesit
+  olarak bulundu. Mahreç ve 'new Free Party' ifadesi kesitlerde görülmedi. Kesitlere göre çelişkili kutupluluk
+  makuldür.
+verification_method: >-
+  ANNO kesit API'si (ücretsiz); sayfa metni ve görüntüleri erişim engelli olduğundan yalnızca OCR kesitleri
+  görüldü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 496ed4e2c57d
+  role: 7d977ebb9bd9
+  quote: 1737dc1db576
+  summary: 611ff2d047fe
+  caveat: 51f240f7bf27
+  verification_note: 32b3870597c0
+  verification_method: 7ea68085fa75

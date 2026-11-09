@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cai-hesen-1922-09
+voice: Cai Hesen (蔡和森)
+voice_type: person
+role: Early Chinese Communist leader, writing in Xiangdao
+country: China
+country_now: China
+domain: press
+date: "1922-09-27"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: article
+evidence: P
+summary: >-
+  Hailed the Turkish Nationalists' win over Greece as the model victory for oppressed peoples, conditional on
+  mass roots and alliance with Soviet Russia.
+quote:
+  text: 最偉大最有革命精神的基瑪爾將軍統率他的國民黨起事於安戈拉
+  language: zh
+caveat: >-
+  Issue no. 3 (27 Sep 1922 per the weekly's run); Wikisource page gives the date 1922-09-27 in its header.
+node: Xiangdao Reads Ankara, 1922–1924
+sources:
+  - url: https://zh.wikisource.org/wiki/祝土耳其國民黨的勝利
+    archived: https://web.archive.org/web/20250121111918/https://zh.wikisource.org/wiki/%E7%A5%9D%E5%9C%9F%E8%80%B3%E5%85%B6%E5%9C%8B%E6%B0%91%E9%BB%A8%E7%9A%84%E5%8B%9D%E5%88%A9
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource.org page via action=parse 祝土耳其國民黨的勝利 (header 作者 蔡和森 1922年9月27日, 嚮導)
+  method: ms fetch Wikisource parse; whitespace-normalised substring match
+  note: Date in header matches; text conditions victory on mass base and Soviet alliance.
+  checked_on: "2026-10-30"

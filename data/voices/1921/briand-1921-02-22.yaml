@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: briand-1921-02-22
+voice: Aristide Briand
+voice_type: person
+role: French Prime Minister and Foreign Minister, at the London Conference
+country: France
+country_now: France
+domain: politics
+date: "1921-02-22"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  Refusing to sit with Feisal, called Mustafa Kemal an open enemy who fought France in the recognised manner,
+  an honourable enemy he would meet.
+quote:
+  text: >-
+    Mustapha Kemal was an open enemy, who carried on warfare against the French in the duly recognised manner.
+  language: en
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk vol. III (TTK 1973) No. 68, p. 176 ← British Secretary's Notes of an
+  Allied Conference, 10 Downing Street, 22 Feb 1921, 11 a.m. (DBFP 1st ser. vol. XV pp. 160–165 No. 18)
+caveat: >-
+  Reported speech in British minutes, not Briand's own text. Said in reply to Lloyd George's remark that
+  Feisal had not shed as much French blood as Kemal; the next sentences say Briand was 'quite ready to meet
+  and discuss matters with honourable enemies'. Scan: archive.org item ingiliz-belgelerinde-ataturk, file #3
+  (djvu text).
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%233.pdf
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org ingiliz-belgelerinde-ataturk, djvu text of Şimşir vol. III, No. 68 (British Secretary's Notes,
+    10 Downing Street, 22 Feb 1921, 11 a.m.), p. 176
+  method: archive.org open djvu text read
+  note: >-
+    Verbatim on p. 176, said in reply to Lloyd George's remark that Feisal had not shed as much French blood
+    as Mustapha Kemal. The next sentence ('quite ready to meet and discuss matters with honourable enemies,
+    but he could not contemplate meeting a traitor like Feisal') supports the 'honourable enemy' paraphrase.
+    Doc No., date and venue match. Gaze test: passes (a stated view from a head of government). Conflicted and
+    chivalrous-enemy fit.
+  checked_on: "2026-11-05"

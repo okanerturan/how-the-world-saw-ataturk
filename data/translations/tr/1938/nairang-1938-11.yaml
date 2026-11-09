@@ -1,0 +1,33 @@
+# Turkish for data/voices/1938/nairang-1938-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nairang-1938-11
+voice: Ghulam Bhik Nairang
+role: Doğu Pencap Müslüman Üyesi, Merkezi Yasama Meclisi
+quote: >-
+  Onu modern Türkiye'nin gerçek bir Mesih'i yapacak denli harikulade değişimler gerçekleştirmek Mustafa Kemal
+  Paşa'ya nasip oldu
+quote_kind: translated
+summary: >-
+  Bir Müslüman olarak Kemal'i Asya'daki en seçkin şahsiyet, ölü bir siyasi yapıyı yeniden dirilten, 'modern
+  Türkiye'nin gerçek bir Mesih'i' olarak nitelendiriyor.
+caveat: >-
+  Legislative Assembly Debates, c. VII (Government of India Press, Delhi 1938), 14 Kasım 1938, s. 2954-55. Lok
+  Sabha Secretariat / Government of India Press tarafından dijitalleştirilen resmi tutanak, archive.org OCR
+  aracılığıyla. Saygı nişanesi olarak Meclis oturumuna o gün için ara verilmesini de talep eder. Metin resmi
+  tutanağın OCR çıktısından okunmuştur; bariz OCR hataları alıntıda sessizce düzeltilmiştir.
+verification_note: >-
+  Alıntı birebir (yalnızca OCR 'a{^,' = 'as,'). Konuşmada belirtildiği gibi oturuma ara verilmesi isteniyor.
+  Yerinde.
+verification_method: >-
+  archive.org djvu OCR metni /metadata ve /download üzerinden yeniden çekildi; alıntı grep ile arandı ve
+  çevresindeki konuşmacı başlıkları, sayfa başlıkları ile konuşma metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 604a268db51e
+  role: ce4ab04dda56
+  quote: 76e6c78d0ace
+  summary: 215c6714251e
+  caveat: c2f9d9fe3349
+  verification_note: 446477f46509
+  verification_method: 634050edd257

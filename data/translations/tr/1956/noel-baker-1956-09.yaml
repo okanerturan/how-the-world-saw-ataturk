@@ -1,0 +1,34 @@
+# Turkish for data/voices/1956/noel-baker-1956-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: noel-baker-1956-09
+voice: Philip Noel-Baker
+role: İşçi Partisi Milletvekili, Nobel Barış Ödülü sahibi (1959)
+quote: >-
+  Otuz yıl önce, sözünü ettiğim çok daha vahim sıkıntıların ardından Venizelos ile Mustafa Kemal tarihi bir
+  uzlaşma gerçekleştirdi.
+quote_kind: translated
+summary: >-
+  Venizelos-Mustafa Kemal uzlaşmasını 'tarihi' olarak nitelendirir ve Menderes ile Karamanlis'i Kıbrıs
+  konusunda bunu tekrarlamaya çağırır.
+caveat: >-
+  Cyprus, HC Deb 14 Eylül 1956, c355. Resmi Hansard tutanaklarının TheyWorkForYou'daki dökümü. Kıbrıs
+  tartışması (hassas konu): konuşmacının çerçevelemesi. Noel-Baker, aynı konuşmada değindiği (Nansen) 1922-23
+  Lozan nüfus mübadelesi görüşmelerinin görgü tanığıydı. Kontrol: alıntı c360'ta yer almaktadır
+  (historic-hansard); TWFY konuşmanın başladığı sütunu verir.
+verification_note: >-
+  Birebir aynı, konuşmacı Philip Noel-Baker (Derby South) (g355.7, HC Deb 14 Eylül 1956). Sütun düzeltmesi:
+  cümle c360'tadır (konuşma c355'te başlar). 'historic reconciliation' Venizelos ve Mustafa Kemal hakkındaki
+  kendi değerlendirmesidir; hayranlık 1 yerindedir.
+verification_method: >-
+  sayfa çekildi, bağlantılı konuşma bloğu (konuşmacı, tarih, kimlik) içinde alıntının normalleştirilmiş metin
+  eşleşmesi yapıldı; sütun numarası historic-hansard sütun işaretlerinden tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 78d4a2807950
+  role: 9d66ae4a6a62
+  quote: d3f0c1f4cd60
+  summary: 5f5bd4f2e04f
+  caveat: bde100cf6b63
+  verification_note: fb154c54240c
+  verification_method: 59db5bce95bc

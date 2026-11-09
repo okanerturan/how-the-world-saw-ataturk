@@ -1,0 +1,41 @@
+# Turkish for data/voices/2019/imran-khan-2019-01-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: imran-khan-2019-01-04
+voice: Imran Khan
+role: Pakistan Başbakanı; Anıtkabir Özel Defteri'ndeki kayıt
+quote: >-
+  en zor zamanlardan birinde Türk halkına önderlik etti, Türklerin yanı sıra dünyanın da tarihini değiştirdi
+  ve tüm dünyada sömürgeciliğe karşı mücadele edenler için bir ilham kaynağı oldu.
+quote_kind: translated
+summary: >-
+  Atatürk'ü 20. yüzyılın en büyük devlet adamlarından biri ve sömürgecilik karşıtı mücadeleler için bir ilham
+  kaynağı olarak nitelendirir; Jinnah'ın övgüsünü aktarır.
+caveat: >-
+  Daily Sabah tarafından yayımlanan İngilizce metin (4 Ocak 2019, 'he wrote in the book'; bunun Khan'ın kendi
+  İngilizcesi mi yoksa Sabah'ın AA'nın Türkçesinden yaptığı geri çeviri mi olduğu saptanamamıştır; AA'nın
+  Türkçe metni ikinci kaynaktır). Kayıt ayrıca Jinnah'ın Atatürk'ü 'one of the greatest people who has ever
+  lived' olarak nitelendirdiği sözünü aktarır (Jinnah sözü arşivde kaynaksızdır, bkz. 12. tur) ve 'His
+  glorious struggle for the independence and unity of the Turkish nation will forever remain a golden chapter
+  in the annals of history.' ifadeleriyle sona erer.
+mediated_by: Daily Sabah ve Anadolu Ajansı 4 Ocak 2019
+verification_note: >-
+  Daily Sabah'ta İngilizcesi birebir aynıdır ('led the Turkish people in one of the most difficult times, and
+  changed the history of Turks as well as the world, and has been a source of inspiration for those struggling
+  against colonialism throughout the world'; '[Atatürk]' köşeli parantezi Sabah'a aittir). AA Türkçesi anlamca
+  uyuşmakta ancak farklı kelimelerle ifade edilmektedir (AA'nın Türkçesindeki 'en parlak bölümlerden biri'
+  karşısında Sabah'ın 'golden chapter' ifadesi), dolayısıyla ikisinden biri geri çeviridir; Sabah'ın kendisi
+  de 'with AA' ibaresini taşıdığından her ikisi aynı ajans bültenidir. 4 Ocak 2019 Cuma günkü ziyaret
+  doğrulandı. Jinnah sözü Khan'ın Jinnah'tan yaptığı alıntıdır, burada doğrulanmamıştır.
+verification_method: >-
+  Alıntılanan sayfanın taze tools/ms fetch (ücretsiz) çekimi, 3 Kasım 2026; bağımsız kontrolör
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7476c17d0c48
+  role: 01183344ad65
+  quote: 5afb42a5f8f2
+  summary: c529b7c16d9a
+  caveat: afa71b486d78
+  mediated_by: 3be6722cbb7c
+  verification_note: bf9f664a03e4
+  verification_method: 7b5332a2caf8

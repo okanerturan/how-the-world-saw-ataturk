@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ahmad-shawqi-1922
+voice: Ahmad Shawqi
+voice_type: person
+role: Egyptian 'Prince of Poets'
+country: Egypt
+country_now: Egypt
+domain: letters
+date: "1922"
+era: contemporary
+polarity: admiring
+intensity: 3
+artifact: poem
+evidence: P
+summary: >-
+  Victor of the Greek war and Lausanne as 'Khalid of the Turks', renewing Khalid ibn al-Walid for the Arabs.
+quote:
+  text: >-
+    Allahu akbar, how many wonders in the conquest - O Khalid of the Turks, renew Khalid of the Arabs
+  language: en
+caveat: >-
+  Date from the poem's Lausanne reference (conference opened 20 Nov 1922); scan gives none. Quote is the note
+  author's English translation of the Arabic original, which the note prints.
+node: Shawqi's Two Poems on the Ghazi, 1922–1924 (al-Shawqiyyat)
+sources:
+  - url: https://archive.org/details/elshandawily1184
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA elshandawily1184 pdf p. 60 (printed p. 59), page image rendered and read
+  method: rendered PDF page image
+  note: >-
+    Arabic line 1 of 'Intisar al-Atrak fi'l-harb wa'l-siyasa' reads exactly 'الله أكبر، كم في الفتح من عجب /
+    يا خالد الترك جدد خالد العرب'; fn 1 identifies Khalid al-Turk as al-Ghazi Mustafa Pasha Kemal; translation
+    faithful. 1922 date inferred (Lausanne ref), as caveat says.
+  checked_on: "2026-10-29"

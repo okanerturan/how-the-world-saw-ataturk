@@ -1,0 +1,34 @@
+# Turkish for data/voices/1923/nakano-seigo-1923-03-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nakano-seigo-1923-03-20
+voice: Nakano Seigō
+role: Temsilciler Meclisi üyesi, gazeteci, sonradan Tōhōkai lideri
+quote: >-
+  Tam yok olmak üzere olan o Türkiye'den 'Kemal Paşa' adında bir genç, hilal bayrağını eline alıp ayağa
+  kalktığında
+quote_kind: translated
+summary: >-
+  Sevr'e karşı hilal bayrağını kaldıran 'Kemal Paşa adında bir genci', renkli bir ulusun memnuniyet verici bir
+  meydan okuması olarak selamlıyor.
+caveat: >-
+  Sovyet Rusya'nın tanınması üzerine Diyet konuşması, 20 Mart 1923, stenografik tutanak (Roshia shōnin ron).
+  Alıntı sayfa görüntüsünden okundu (basılı s. 19, NDL görüntü 13). Özün çevirisi arşive aittir; alıntı
+  orijinal Japoncadır. Kemal, Rus-Japon yakınlaşması için bir argüman olarak kullanılmaktadır (araçsal unsur).
+  Kontrol: alıntı basılı s. 19'da; Sevr ve renkli ırka dair sözleri görüntü 7'dedir.
+verification_note: >-
+  Alıntı basılı s. 19'da birebir aynı. Konuşmada ayrıca Sevr/renkli ırk pasajı da yer alıyor (görüntü 7, 'aynı
+  renkli ırktan Türkiye', Sevr Antlaşması, Kemalbasha ayağa kalktı); bu da alıntılanan sayfada olmasa bile
+  'Sevr'e karşı' ve 'renkli ulus' ifadelerini destekliyor; her ikisine de atıf yapın. 'Memnuniyet verici' =
+  tsukai. Konuşma araçsaldır (Rus-Japon yakınlaşması için argüman), hayranlık kutbu kabul edilebilir.
+verification_method: >-
+  NDL Digital Collections sayfa görüntüsü (dl.ndl.go.jp IIIF) + lab.ndl.go.jp fulltext-json; görüntü incelendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6bfbab9a656c
+  role: ad5c0e0281ef
+  quote: 604add65df56
+  summary: c05468d4ae92
+  caveat: f78cc1c4b51a
+  verification_note: c2238e614f37
+  verification_method: bfa97e982497

@@ -1,0 +1,45 @@
+# Turkish for data/voices/1978/brezhnev-1978-06-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: brezhnev-1978-06-25
+voice: Leonid Brezhnev
+role: >-
+  SBKP Genel Sekreteri; Peace, Detente and Soviet-American Relations (1979) derlemesindeki konuşma
+quote: uzun zaman önce Lenin ve Atatürk tarafından çizilen yol.
+quote_kind: translated
+summary: >-
+  Sovyet-Türk dostluğunun üzerinde süreceği yolun mimarları olarak Lenin ve Atatürk'ü birlikte anar.
+caveat: >-
+  Kahraman Şehir Minsk'teki ödül töreninde yapılan konuşma, 25 Haziran 1978 (kitap içindekiler kısmı: 'Speech
+  … Hero City of Minsk, June 25, 1978, 221'); Peace, Detente and Soviet-American Relations (1979; archive.org
+  peacedetenteso00brez, ödünç nüsha) ve Our Course, Peace and Socialism içinde. Tam cümle: '…an important
+  stage in the development of our relations along the road charted long ago by Lenin and Ataturk.' Ecevit'in
+  Haziran 1978 ziyaretini memnuniyetle karşılar. Dizine göre sayfa 223; sayfanın kendisi yalnızca tam metin
+  arama kesitleri olarak görüldü.
+verification_note: >-
+  Alıntı kesitte tam cümlesiyle birlikte birebir aynıdır: '... friendly co-operation between the USSR and
+  Turkey mark an important stage in the development of our relations along the road charted long ago by Lenin
+  and Ataturk. In general I agree with the words of West German Chancellor Schmidt ...'. 'Our Course' çevirisi
+  'the road charted way back in the past by Lenin and Ataturk' şeklindedir. Tarih yalnızca Ecevit ziyaretinden
+  çıkarılmamıştır: içindekiler listesi 'From Speech upon Presenting the Order of Lenin and the Gold Star Medal
+  to the Hero City of Minsk, June 25, 1978 ... 221' ile biter, ardından ek gelir; dizinde 'Turkey, 223' ve
+  'Ecevit, Bulent, 223' yer alır, dolayısıyla pasaj söz konusu Minsk konuşmasındadır (s. 221'de başlar; dizine
+  göre pasaj s. 223'tedir, sayfada görülmedi). Hemen öncesinde Brezhnev, Ecevit ziyareti ile siyasi belgenin
+  tüm Avrupa konferansına 'a practical contribution' olduğunu söyler. DÜZELTMELER: tarih 1978-06-25; id
+  brezhnev-1978-06-25; konuşma = Minsk Kahraman Şehir ödül töreni; sayfa 223 (dizin; sayfa görüntüsünde
+  doğrulanmadı); kanıt J'yi ve kitabın yalnızca ödünç alınabilir olduğuna dair şerhi koruyun; 'speech and
+  occasion unidentified' ifadesi artık yanlıştır. Yalnızca sayfanın kendisi görülmediği için kısmi olarak
+  kalmaktadır; hiçbir kesit bir cümleden fazlasını göstermiyor. Araçsal/yoğunluk 1 yerinde; dönem olarak ölüm
+  sonrası (posthumous) doğrudur.
+verification_method: >-
+  Yalnızca tools/fts.py kesitleri (ödünç nüsha, sayfa görüntüsü yok); tarih kitabın kendi içindekiler listesi
+  ve dizininden elde edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 93df6fad60dc
+  role: 1989f19372d5
+  quote: 68034e3d720d
+  summary: 5ee1fd9867d5
+  caveat: 2eae539c1185
+  verification_note: e82e826ea381
+  verification_method: 758d8f8d9a81

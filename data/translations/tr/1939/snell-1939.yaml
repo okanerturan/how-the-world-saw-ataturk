@@ -1,0 +1,21 @@
+# Turkish for data/voices/1939/snell-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: snell-1939
+voice: Lord Snell
+role: İşçi Partili lord
+quote: belki de modern evlatlarının en büyüğü
+quote_kind: translated
+summary: >-
+  Onu, bütün bir halkın bakış açısını tek bir kuşakta değiştiren, Türkiye'nin modern evlatlarının belki de en
+  büyüğü olarak övdü.
+verification_note: "'perhaps the greatest of her modern sons' ifadesi birebir bulundu."
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 05e231e941e9
+  role: 569e24a2f44c
+  quote: 899d2aed94e4
+  summary: 97942aacdf52
+  verification_note: 2bc155df0e31
+  verification_method: ad8cee67138e

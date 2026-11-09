@@ -1,0 +1,27 @@
+# Turkish for data/voices/1921/lutfu-bey-malatya-tbmm-1921-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lutfu-bey-malatya-tbmm-1921-10-31
+voice: Lütfü Bey (Malatya)
+role: Birinci Türkiye Büyük Millet Meclisi (TBMM) Malatya milletvekili
+quote: Bunlardan dolayı tevellüd edecek mesuliyet münhasıran Paşa Hazretlerine aiddir.
+quote_kind: original-turkish
+summary: >-
+  Meclis'in yetkilerinin Paşa'ya devredilmiş olması nedeniyle, Tekâlif-i Milliye'deki herhangi bir suistimalin
+  veya ordudaki zaafın sorumluluğunun ona ait olduğunu ve soruşturulması gerektiğini savundu.
+caveat: >-
+  Basılı metin s. 479. Yine de amaca (düşmanı denize dökmeye) ulaşılana kadar yetkilerin geri alınamayacağı
+  sonucuna varır.
+verification_note: >-
+  Alıntı birebir; düşman denize dökülene kadar yetkilerin geri alınamayacağı sonucuna varıyor (s. 479); sayfa
+  doğrulandı.
+verification_method: Cilt PDF'inin pdftotext çıktısı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 57a16bd59851
+  role: 83ad80dea780
+  quote: "775118171e66"
+  summary: 5d4f7646e6e4
+  caveat: 4491282cbb89
+  verification_note: da1dfd1ba212
+  verification_method: dc695da440a5

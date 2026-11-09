@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/uus-eesti-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: uus-eesti-1938
+voice: Uus Eesti
+role: Estonya günlük gazetesi
+summary: >-
+  Türkiye'de harikulade bir Rönesans gerçekleştirdiğini ve cesur bir dış politika izlediğini yazdı.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir; yabancı dildeki asılları görülmemiştir; Türkçe özet derlemelerce
+  özetlenmiştir.
+mediated_by: >-
+  Toksoy 2006 ← Akşam ve Kurun 16 Kasım, Ulus 15 Kasım, Cumhuriyet 15–16 Kasım, Tan 16 Kasım 1938, Ayın Tarihi
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f3ef9331ec57
+  role: eb6c6908d528
+  summary: dab82065864e
+  caveat: 15b48d70cc5b
+  mediated_by: 64e36ae2f40c
+  verification_method: 939bb46a04c3

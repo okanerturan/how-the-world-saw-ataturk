@@ -1,0 +1,45 @@
+# Turkish for data/voices/1965/bourguiba-1965.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bourguiba-1965
+voice: Habib Bourguiba
+role: Tunus Cumhurbaşkanı
+quote: Sakarya Harbi, Sakarya Zaferi, 20 yaşımın en kuvvetli hâtırası olmuştur.
+quote_kind: original-turkish
+summary: >-
+  Sakarya'yı Atatürk'ün mucizesi, Mustafa Kemal'i ise örnek kahraman olarak nitelendirir; ancak Arapların
+  çekincesini Atatürk'ün dine karşı tavrıyla açıklar.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 43 (basılı s. 32). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe basılmıştır. Çeviri: "Sakarya Savaşı, Sakarya Zaferi, yirmi yaşımın en güçlü hatırası oldu."
+  Aynı konuşmada: 'Sizin Kemalist ihtilâliniz ise, bizlere maya oldu' (PDF s. 48, 'Kemalist devriminiz bizim
+  için maya oldu') denir ve PDF s. 44'te Arapların tereddüdü 'bu liderin din ve din müessesesine karşı
+  takındığı tavırlar'a (bu liderin dine ve din kurumlarına karşı aldığı tavırlar) dayandırılır; Bourguiba ise
+  bu 'çok radikal yargılar'a katılmaz. Başlık: 'Tunus Cumhurbaşkanı Habib Burgiba', 25 Mart 1965. Mevcut kişi
+  notu onun daha sonraki Kemalist programını kapsamaktadır. Kontrol edenin notu: Bourguiba, Atatürk ve din
+  konusundaki 'radikal yargılar'la arasına mesafe koyar; eleştirel bölüm kendi hükmünü belirtmekten ziyade
+  Arapların çekincesini açıklamaktadır.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Tunus Cumhurbaşkanı Habib
+  Burgiba, 81. Birleşim, 25 Mart 1965' (başlık PDF s. 42'de)). Atıf yapılan özet ifadelerin dayanakları da
+  doğrulandı: s. 43'te 'Atatürk'ün mucizesi' ve 'Mustafa Kemal ... bir kahramanın tam örneği'; PDF s. 44'te
+  Arapların çekincesinin 'bu liderin din ve din müessesesine karşı takındığı tavırlar'a dayandırılması ve
+  Bourguiba'nın 'çok radikal yargılar'a katılmaması. 'Çelişkili' nitelemesi savunulabilir olmakla birlikte
+  Bourguiba'nın kendisi bu sert yargıya katılmaz; dolayısıyla eleştirel not açıkça kendi hükmü değil,
+  Arapların çekincesinin bir açıklamasıdır. Muhtemelen Fransızca yapılmıştır; kitap Türkçe basmıştır;
+  orijinali aranmadı.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracıyla PNG'ye dönüştürülerek (check_png/c43.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı, görsel üzerinde ve kendi bağımsız metin katmanı çıkarımıyla
+  kelime kelime karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 11bf5bc01517
+  role: 400c24018892
+  quote: 4ae9150238bb
+  summary: c2b5532700e9
+  caveat: 52fc46c184e9
+  mediated_by: 8e2cc528453b
+  verification_note: 54b045c6f3b2
+  verification_method: 97f21f95d4dd

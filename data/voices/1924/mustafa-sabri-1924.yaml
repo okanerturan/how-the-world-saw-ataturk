@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mustafa-sabri-1924
+voice: Mustafa Sabri Efendi
+voice_type: person
+role: Last Ottoman Shaykh al-Islam, in exile in Beirut and Cairo
+country: Lebanon (French mandate)
+country_now: Lebanon
+domain: religion
+date: "1924"
+era: contemporary
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: book
+evidence: P
+summary: >-
+  Argues that Kemal split caliphate from sultanate not to reform Turkish rule but to take power for himself.
+quote:
+  text: >-
+    Çünkü Mustafa Kemal hilafet-saltanat ayrılığını Türk idaresini ıslah etmek için ortaya atmış değildir.
+  language: tr
+mediated_by: Turkish translation by Özgür Kavak in İsmail Kara (ed.), Hilafet Risaleleri 6 (2014)
+caveat: >-
+  Quoted from the Turkish translation by the volume's translator (the Arabic original was not read); the OCR
+  has 'aynlığmı', read as 'ayrılığını'. The next paragraph says the Kemalists had 'only two aims': first, to
+  take the sultanate from the Ottoman house by force and transfer it to Mustafa Kemal and to separate the
+  caliphate from it; the transfer to the Assembly was 'nothing other than hiding the real intent'. Kara dates
+  the book to 1923, first finished 1 Receb 1342 / 7 Feb 1924, with a 15-page appendix of 20 Mar 1924 after the
+  caliphate fell. Sabri's own judgment; the vault does not endorse it. Cited by the editor's pagination as
+  risale 59 ('Hilafetin Saltanattan Tefriki'), listed at p. 405 of the volume; the printed folio is not
+  legible in the OCR (archive.org scan, PDF pp. 403-405). Check: risale 59 starts at PDF p. 395; the quote is
+  on PDF p. 405. Sabri says he is repeating what he wrote earlier in al-Mukattam and al-Ahram.
+node: Sabri Efendi and Mehmed Âkif on Mustafa Kemal, 1924–1935
+sources:
+  - url: https://archive.org/details/yakintarihhh2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hilafet Risaleleri 6 (Kara ed., 2014), risale 59 'Hilafetin Saltanattan Tefriki' (Sabri, en-Nekir ala
+    Munkiri'n-Ni'me, Beirut 1342; tr. Ozgur Kavak): archive.org yakintarihhh2 djvu text and the PDF page
+    images
+  method: >-
+    fresh free download of the archive.org djvu text and PDF; located the sentence in the text layer, rendered
+    the page image, read Kara's introduction (fn 39 and the dating paragraph); banked src files not used
+  note: >-
+    Quote verbatim (djvu line 17995; PDF p. 405, in the section opening on PDF p. 404): 'Cunku Mustafa Kemal
+    hilafet-saltanat ayriligini Turk idaresini islah etmek icin ortaya atmis degildir.' The next paragraph's
+    'two aims' (Kemal gets the sultanate by force; hiding the real intent) matches the caveat. Date: Kara fn
+    39 gives Beirut, Matbaatu'l-Abbasiye, 1342 h. (1924); the Arabic cover reads 1342 (the Turkish title page
+    prints H. 1343); mostly written 1923, first finished 7 Feb 1924, 15-page appendix 20 Mar 1924 - 1924 and
+    'contemporary' are fair. CORRECTIONS: (1) the translator is Dr. Ozgur Kavak, not Kara (Kara is the series
+    editor): mediated_by should read 'Turkish translation by Ozgur Kavak in Kara (ed.), Hilafet Risaleleri 6,
+    2014'; the caveat's 'translator of the volume' stays true only with that name. (2) Location: risale 59
+    starts at PDF p. 395 (title page; the volume's TOC lists it at p. 405, which is that start page, not the
+    quote); the quote is on PDF p. 405, printed folio not legible (about 415 if the TOC offset of 10 holds,
+    inferred), not 'PDF pp. 403-405'. (3) The passage sits in a block Sabri introduces as repeating what he
+    wrote earlier in al-Mukattam and al-Ahram (still his own words). (4) Intensity 3 ('life- or
+    state-shaping') is not supported by one polemical paragraph in a book; 2 is consistent with the 1927/1928
+    records. Schema, enums and 18-word what_they_saw OK.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 18)
+  checked_on: "2026-11-03"

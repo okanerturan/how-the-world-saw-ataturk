@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ahmad-hasan-al-zayyat-1938
+voice: Ahmad Hasan al-Zayyat
+voice_type: person
+role: Editor of the Cairo weekly al-Risala
+country: Egypt
+country_now: Egypt
+domain: press
+date: "1938-11-14"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: editorial
+evidence: P
+summary: >-
+  Kemal no man of chance but a chosen leader of a flock; yet he doubts the comparison with Muhammad, whose
+  renaissance rested on revelation.
+quote:
+  text: Mustafa Kemal, God have mercy on him, was not a man of chance and luck
+  language: en
+caveat: >-
+  Admiring with a reservation about the Muhammad comparison. Quote is the note author's English translation of
+  the Arabic original, which the note prints.
+node: Ahmad Hasan al-Zayyat
+sources:
+  - url: https://archive.org/details/AAlexandrina-230539
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA AAlexandrina-230539 djvu text, al-Risala no. 280, 14 Nov 1938, editorial pp.1841-1842
+  method: >-
+    OCR (noisy) shows 'lam yakun Mustafa Kamal rahimahu Allah rajulan min rijal al-musadafa wal-hazz ...' and
+    the Muhammad-comparison reservation ('nahdat Muhammad yusadiduha Qur'an wa yasnuduha wahy'); translation
+    faithful
+  checked_on: "2026-10-29"

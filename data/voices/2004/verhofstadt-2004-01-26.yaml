@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: verhofstadt-2004-01-26
+voice: Guy Verhofstadt
+voice_type: person
+role: Prime Minister of Belgium
+country: Belgium
+country_now: Belgium
+domain: politics
+date: "2004-01-26"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: quote
+evidence: P
+summary: >-
+  Founder of modern Turkey and a great statesman of world history, whose courageous reforms opened Turkey's
+  road to Europe eighty years ago.
+quote:
+  text: >-
+    Kendisi Dünya tarihinde büyük bir devlet adamı olarak yerini almıştır. Cesurca yaptığı reformlar ile
+    ülkesine Avrupa yolunu açmıştır.
+  is_translation: true
+  language: tr
+caveat: >-
+  Handwritten in Dutch, Ankara 26 Jan 2004 ('… mijn respect en waardering uit te drukken voor Mustafa Kemal
+  Atatürk, de grondlegger van het moderne Turkije. Hij heeft zich in de wereldgeschiedenis een plaats
+  verworven als een groot staatsman …'); the quote is the compilation's Turkish ('He has taken his place in
+  world history as a great statesman. With his courageous reforms he opened the road to Europe for his
+  country'). Ends: the secular state, equality of men and women, the right to education — 'Mustafa Kemal
+  Atatürk, a man of vision, saw this eighty years ago'. Source: Anıtkabir Özel Defteri (printed compilation,
+  '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet başkanlarının Atatürk hakkındaki duygu ve
+  düşünceleri'), page images on ataturkarsivi.com, read on the image by the main agent (4 Nov 2026).
+node: >-
+  Anıtkabir Special Book, 2003–2007 — Vajpayee, Olmert, Katsav, Verhofstadt, Balkenende and Others
+sources:
+  - url: https://ataturkarsivi.com/pages/anitkabir
+    archived: https://web.archive.org/web/20260412120916/https://ataturkarsivi.com/pages/anitkabir
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ataturkarsivi.com/pages/anitkabir (page images re-downloaded 2026-11-04 into
+    tools/.state/round25/chk/) verhofstadt2 (Dutch handwriting), verhofstadt3 (printed Turkish)
+  method: downloaded page images and READ handwriting and printed Turkish
+  note: >-
+    Printed Turkish verbatim; Dutch handwriting supports it ('groot staatsman ... gedurfde hervormingen ...
+    weg zette naar een Europese toekomst'). Date 'Ankara, 26.01.2004' appears only in the printed Turkish, not
+    on the handwriting page (fine). 'Eighty years ago' present in both. Caveat note: the printed Turkish also
+    says 'Mirasi herkese ornek' ('his legacy is an example to everyone'), not in the Dutch.
+  checked_on: "2026-11-04"

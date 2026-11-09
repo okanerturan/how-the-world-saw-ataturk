@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: league-of-nations-1938
+voice: League of Nations secretariat
+voice_type: institution
+role: institution
+country: Switzerland (Geneva)
+country_now: Switzerland
+domain: diplomacy
+date: "1938-11"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: visit
+evidence: S
+summary: Sent its deputy chief and two officials to the funeral.
+mediated_by: Tüylü Turan 2019 citing the League's monthly bulletin
+caveat: Note says the source mislabelled F. P. Walters as Secretary-General; he was Deputy.
+node: Foreign Delegations at the Funeral, November 1938
+sources:
+  - url: https://doi.org/10.14225/JOH1567
+verification:
+  verdict: confirmed
+  checked_against: >-
+    Tüylü 2019 (academia.edu 41493219 / Tarih Okulu Dergisi) p.192-193: Milletler Cemiyeti sent telegram,
+    Walters, Aghnides and Erim to funeral (Boletin Mensual, Nov 1938)
+  method: fetch
+  note: >-
+    Turan calls Walters "Genel Sekreter" (mislabel the note corrects); DOI landing unreachable, academia copy
+    used.
+  checked_on: "2026-10-29"

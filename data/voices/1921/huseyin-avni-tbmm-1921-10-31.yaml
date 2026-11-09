@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: huseyin-avni-tbmm-1921-10-31
+voice: Hüseyin Avni Ulaş (Erzurum)
+voice_type: person
+role: Erzurum deputy, leading opposition voice
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1921-10-31"
+era: contemporary
+polarity: conflicted
+intensity: 3
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Said the Pasha had served and should lead longer, yet that concentrating material and moral power in one man
+  is a weakness; urged sparing him.
+quote:
+  text: maddi ve manevi kuvvetin bir zâta tevdii bir millet için zaaftır
+  language: tr
+caveat: >-
+  Printed pp. 474-475; the companion appeal is 'Eğer o alemi yaşatmak istiyorsanız Paşa’yı yıpramayınız' (p.
+  475). Distinct utterance from his two 1922 records, filed under the Round 7 note.
+node: TBMM Closed Session of 31 October 1921 — Renewing the Commander-in-Chief
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/3271
+    archived: https://web.archive.org/web/20231001214844/https://acikerisim.tbmm.gov.tr/handle/11543/3271
+  - url: https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+    archived: https://web.archive.org/web/20250915054819/https://acikerisim.tbmm.gov.tr/server/api/core/bitstreams/6d06856b-fd5d-4e7a-b7d6-f2d690b06a56/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Gizli Celse Zabıtları, 102nd sitting 31 Teşrinievvel 1337, pp.473-475
+  method: pdftotext of banked edition PDF
+  note: >-
+    Verbatim on p.474; 'Paşa’yı yıpramayınız' appeal on p.475. Conflicted reading supported (wants him to stay
+    at head but not concentrated power).
+  checked_on: "2026-10-30"

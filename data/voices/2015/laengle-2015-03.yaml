@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: laengle-2015-03
+voice: Christoph Längle
+voice_type: person
+role: FPÖ member of the Austrian Bundesrat (Vorarlberg)
+country: Austria
+country_now: Austria
+domain: politics
+date: "2015-03-12"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  In a headscarf and secularism debate calls Atatürk, in his own opinion, a very progressive statesman who
+  aligned the new Turkey with Western principles.
+quote:
+  text: >-
+    Der damals nach meiner Meinung sehr fortschrittliche Staatsmann Mustafa Kemal Atatürk hat auch die „sechs
+    Pfeile“ des neuen türkischen Staatswesens eingeführt.
+  language: de
+caveat: >-
+  Used to argue that the secular founder banned the fez and the headscarf, against Turkey's present course;
+  the praise serves a point about Islam in Austria. Backs the claim with: 'dass gerade Mustafa Kemal Atatürk
+  sich sehr wohl total nach westlichen Prinzipien ausgerichtet hat'. [Translation:] The statesman Mustafa
+  Kemal Atatürk, in my opinion a very progressive one for his time, also introduced the 'six arrows' of the
+  new Turkish state.
+node: Austrian Nationalrat and Bundesrat on Atatürk, 1980–2019 — Schwaiger, Längle, Cap, Lugar
+sources:
+  - url: https://www.parlament.gv.at/dokument/BR/BRSITZ/839/fnameorig_411828.html
+    archived: https://web.archive.org/web/20251007192307/https://www.parlament.gv.at/dokument/BR/BRSITZ/839/fnameorig_411828.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.parlament.gv.at/dokument/BR/BRSITZ/839/fnameorig_411828.html (839. Sitzung BR, 12 March 2015,
+    Seite 46; 'Bundesrat Christoph Längle (FPÖ, Vorarlberg)')
+  method: fresh fetch of parlament.gv.at HTML
+  note: >-
+    Verbatim including the German quotation marks; support sentence also present; speaker, party, date
+    correct. Translation faithful (the 'damals' is rendered as 'for his time'). Own-opinion praise of the man,
+    so passes the gaze test; admiring/intensity 1 fair.
+  checked_on: "2026-11-04"

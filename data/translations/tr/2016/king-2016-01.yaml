@@ -1,0 +1,35 @@
+# Turkish for data/voices/2016/king-2016-01.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: king-2016-01
+voice: Steve King
+role: ABD Temsilciler Meclisi Iowa Üyesi (Cumhuriyetçi)
+quote: >-
+  Atatürk'ün Türkiye'de yaptığı çalışmalara, Doğu ile Batı arasında nasıl bir köprü kurduğuna — ki bu Erdoğan
+  yönetiminde biraz tersi yöne doğru kaymaktadır — baktığımda … Müslüman dünyası ile Hristiyan dünyası ve Batı
+  arasında o köprüyü kuracak, dünyanın Atatürk'ü olabilir
+quote_kind: translated
+summary: >-
+  Mısır lideri Sisi'yi överken Atatürk'ü Doğu ile Batı arasında bir köprü olarak anar ve Sisi'nin 'dünyanın
+  Atatürk'ü' olabileceğini umar.
+caveat: >-
+  Mısır üzerine bir dakikalık tarzda genel kurul konuşması; Atatürk, Sisi'nin olmasını istediği kişinin
+  şablonudur. İkinci parça H267'ye geçen sayfa sonundan sonra gelir. King'in 13 Temmuz 2017 tarihli ikinci bir
+  beyanı (s. H5823), Atatürk'ün 'for 40 years, moved Turkey to the West' olduğunu söyler (ayrı olarak yer
+  verilmedi). Kaynak gösterimi: House of Representatives, 11 Ocak 2016, 'Egypt Talking Points', Congressional
+  Record c. 162, s. H264-H267 (granül CREC-2016-01-11-pt1-PgH264).
+verification_note: >-
+  Birebir aynı; Steve King çoğunluk liderinin görevlendirdiği isim olarak konuşuyor (Mr. KING of Iowa). Alıntı
+  H266'da başlayıp H267'ye geçiyor ('could become the Ataturk for the world'). 'the work that was done by
+  Ataturk in Turkey, how he provided a bridge between the East and the West' ifadesi onun başarısına dair açık
+  bir görüştür; araçsal 1 uygundur. 13 Temmuz 2017 tarihli ikinci beyan kontrol edilmedi.
+verification_method: govinfo günlük baskı HTML'i
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 45ebe9933fcf
+  role: b32ffcf58739
+  quote: 4a871250e3e7
+  summary: 31e26012a8ce
+  caveat: 916b9be24a51
+  verification_note: 76d23bb90d82
+  verification_method: de40218292ca

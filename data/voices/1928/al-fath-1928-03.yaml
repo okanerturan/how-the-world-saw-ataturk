@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-fath-1928-03
+voice: Al-Fath (no. 86)
+voice_type: press
+role: Cairo Salafi weekly
+country: Egypt
+country_now: Egypt
+domain: press
+date: "1928-03-01"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Admirer disappointed: the Kemal once extolled and blessed now acts against Islam; Anatolian soldiers fought
+  from religion.
+quote:
+  text: >-
+    Mustafa Kemal, whom we used to extol, prayed for and blessed, and hoped would raise and honour Islam, acts
+    thus towards Islam
+  language: en
+caveat: >-
+  Unsigned; 1924 notes reprinted 1928. Quote is the note author's English translation of the Arabic original,
+  which the note prints.
+node: Al-Fath (Cairo), 1928 — Six Pieces on Kemal
+sources:
+  - url: https://archive.org/details/efath-moheb-elden-elkheeb
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    IA efath-moheb-elden-elkheeb 001_125 PDF, pdf 1369 (p.569; masthead pdf 1361 no.86, 1 Mar 1928)
+  method: >-
+    curl full IA PDF; pdftoppm page images read directly; mastheads/covers rendered for issue number and date
+  note: >-
+    Arabic printed on p.569 under 'Dhikra ilgha' al-khilafa' (notes of 3 Mar 1924); 'ندعو له' = prayed for;
+    translation faithful; unsigned; Anatolian soldier/Indians-Afghans point also present. Polarity conflicted
+    holds.
+  checked_on: "2026-10-30"

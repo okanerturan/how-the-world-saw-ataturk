@@ -1,0 +1,42 @@
+# Turkish for data/voices/1935/tantawi-1935.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tantawi-1935
+voice: Ali al-Tantawi
+role: Suriyeli yazar ve hukukçu (Mekke'den yazıyor)
+quote: >-
+  Ve Ayasofya'da İslam sayfasının, (Fatih Muhammed) adına açıldığı gibi, bu . . (Atatürk) adına kapatıldığını
+  hissettiler!
+quote_kind: translated
+summary: >-
+  Ayasofya üzerine: İslam sayfası orada Fatih Muhammed adına açıldığı gibi 'bu ... Atatürk adına'
+  kapatılmıştır.
+caveat: >-
+  Kaynak olarak al-Risala sayı 98, 20 Mayıs 1935, Wikisource sayfası 'مجلة الرسالة/العدد 98/أيا صوفيا'
+  gösterilmiştir. Ali al-Tantawi, Mekke imzalı 'Aya Sufya' başlıklı yazı; '(Atatürk)' öncesindeki '. .'
+  boşluğu transkripsiyonda yer almaktadır (çıkarılmış veya kaybolmuş bir sıfat). Ayrı bir kayıt olan Amjad
+  al-Tarabulsi'nin 109. sayıdaki kasidesiyle aynı sayı ailesindendir. Wikisource transkripsiyonu. Kontrol:
+  'وشعروا' fiilinin öznesi 'المشركون' kelimesidir: müşrikler İslam sayfasının bu adamın adına kapatıldığını
+  hissettiler (kaybolmuş bir sıfat değildir).
+verification_note: >-
+  Arapça alıntı 'الـ. . (أتاتورك)' boşluğu dahil birebir aynıdır. Üstbilgi tarihi 20-05-1935; şablonda yazar
+  satırı boş ancak 'للأستاذ علي الطنطاوي' ibaresi ve 'علي الطنطاوي / مكة المكرمة' imzası vardır. Yazıda
+  Atatürk'ten yalnızca bir kez, aynı zamanda 'الجمهورية التركية'yi de hedef alan sert bir ifadeyle söz edilir.
+  Uyarı notuna eklenecek nüans: 'وشعروا أن أيا صوفيا قد ختمت ...' ifadesinin dilbilgisel öznesi 'المشركون'dur
+  ('وعز فيها المشركون، وشعروا ...'); yani Tantawi, küçümseme amacıyla sıfatı düşürerek müşriklerin İslam
+  sayfasının bu adamın adına kapatıldığını hissettiklerini söyler; İngilizce 'And they felt' çevirisi 'onlar'
+  öznesini belirsiz bırakmaktadır. Ayrıca 'an epithet left out or lost' ifadesi bir tahmindir; noktalar
+  kaynakta vardır, nedeni bilinmemektedir. Düşmanca / 1 yerinde; 'Suriyeli yazar ... Mekke'den' iddiası
+  yalnızca imzaya dayanmaktadır. Şema uygun.
+verification_method: >-
+  action=raw çekildi, Arapça alıntının harekeden arındırılmış alt dize eşleştirmesi yapıldı, ardından
+  çevreleyen pasaj, üstbilgi tarihi ve kapanış imzası okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 54049a9e558c
+  role: 7cf18522c6ad
+  quote: 1f84172db772
+  summary: 316c9fbefb58
+  caveat: 25ddfa719d8b
+  verification_note: 3350463fb65c
+  verification_method: 0d2d412521a8

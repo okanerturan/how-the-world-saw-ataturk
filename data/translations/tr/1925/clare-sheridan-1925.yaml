@@ -1,0 +1,40 @@
+# Turkish for data/voices/1925/clare-sheridan-1925.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: clare-sheridan-1925
+voice: Clare Sheridan
+role: >-
+  İngiliz heykeltıraş ve yazar; A Turkish Kaleidoscope, 1925'te Türkiye'deki ikametinin sonunda yazılmıştır
+quote: Sarhoşluk âlemlerine engel olması dışında onu kınayabileceği hiçbir şey de yoktu
+quote_kind: translated
+summary: >-
+  Türklerin bir millet olarak varlıklarını Gazi'ye borçlu olduklarını söyler, ancak terörden ve keyfi bir
+  mahkemeden söz eder ve içkiyle ilgili bir karalamayı tekrarlar.
+caveat: >-
+  Clare Sheridan, A Turkish Kaleidoscope (Londra: Duckworth, 1926), 'Civilisation Revealed' bölümü, s. 215;
+  Mustafa Kemal'in Latife Hanım'dan boşanması hakkında (Ocak 1925; Sheridan'ın metni boşanmanın 'just'
+  gerçekleştiğini söyler). Aynı bölüm, s. 214: 'The Turkish people are easily led; and they owe to their Ghazi
+  the fact of their existence to-day as a nation.' ve 'Terror reigns, and the Tribunal of Independence is as
+  arbitrary as the Cheka.' Bölüm, İnebolu şapka nutkunu (24 Ağustos 1925) Cumhuriyet'in 29 Ağustos 1925
+  tarihli Fransızca nüshasından aktarır ve nutkun gerekçelendirmesini ('we will, if necessary, sacrifice human
+  lives') 'no one is able to explain' diye nitelendirir. Tarih, ayrılışının arifesinde yazılan bölüme aittir;
+  kitap 1926'da yayımlanmıştır. 'orgies of drunkenness' ifadesi kendisinin kaynaksız dedikodusudur; gerçek
+  olarak değil, Batı bulvar basını bakışının bir kaydı olarak tutulmuştur. Ayrıca s. 133: 'During the life of
+  Mustapha Kemal Pasha, yes' (Ankara başkent kalacaktır).
+verification_note: >-
+  Alıntı s. 215'te birebir mevcut (akış metni: 'Nor had he anything with which to reproach her, except that
+  she hampered his orgies of drunkenness'); 'owe to their Ghazi the fact of their existence to-day as a
+  nation' ve 'Terror reigns, and the Tribunal of Independence is as arbitrary as the Cheka' s. 214'te yer
+  alıyor. 'Civilisation Revealed' bölümü belirtildiği gibi. İçkiyle ilgili satır kendisinin kaynaksız
+  dedikodusudur (kayıtta zaten belirtiliyor). İkircikli/2 adil. s. 133'teki 'During the life of Mustapha Kemal
+  Pasha' OCR'da yeniden bulunamadı (kayıt için gerekli değil).
+verification_method: yeni archive.org djvu tam metin indirmesi (arşivlenmiş round17 dosyası kullanılmadı)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d4cba83c7541
+  role: e96abb82b19d
+  quote: 1efd84d0f936
+  summary: 45cfec055917
+  caveat: ab2420097eb6
+  verification_note: 3f3b91263641
+  verification_method: 1c5bb8be850a

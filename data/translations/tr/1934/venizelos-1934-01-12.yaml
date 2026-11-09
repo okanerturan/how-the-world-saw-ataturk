@@ -1,0 +1,34 @@
+# Turkish for data/voices/1934/venizelos-1934-01-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: venizelos-1934-01-12
+voice: Eleftherios Venizelos
+role: Eski Yunanistan başbakanı; 1930 Türk-Yunan paktını imzaladı
+quote: >-
+  Barış davasına yapılan bu paha biçilmez katkının kendisine borçlu olunduğu kişi, elbette Türkiye Cumhuriyeti
+  Cumhurbaşkanı Mustafa Kemal Paşa'dır.
+quote_kind: translated
+summary: >-
+  Osmanlı istikrarsızlığına son vermeyi ve Türkiye'yi bir barış sütunu haline getirmeyi Mustafa Kemal'e
+  atfetti; onu Nobel Barış Ödülü'ne aday gösterdi.
+caveat: >-
+  İngilizce web çevirisi, Fransızca özgün metin görülmedi; konuşmacı, Mustafa Kemal'in yenilgiye uğrattığı
+  1919-22 Yunan politikasını yönetmişti ve mektup Türk-Yunan uzlaşmasına hizmet etmektedir; dolayısıyla okur
+  bunu araçsal olarak değerlendirebilir; Nobel arşivi kaydı yeniden okunmadı.
+mediated_by: Fransızca mektubun İngilizce çevirisi (S. Colston), Greek World Media 2017
+verification_note: >-
+  Alıntı İngilizce çeviride birebir aynıdır; tarih mektup başlığıyla doğrulanmıştır. Adaylığın varlığı, yılı
+  ve aday gösteren kişi Nobel arşivi kesitiyle teyit edilmektedir; ancak Fransızca özgün metin ve arşivdeki
+  metin görülmediğinden ifadeler çevirmene aittir. Nobel arşivi, aday gösterenin mesleğini eski başbakan
+  olarak değil, 'Member of the Greek parliament' olarak listelemektedir.
+verification_method: Çevirinin ücretsiz çekilmesi; Nobel arşivi kaydı için bir tools/ms araması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: "420717528619"
+  role: 17e7c1640142
+  quote: 997a949089aa
+  summary: c14a0c7363c4
+  caveat: 00f587e7d04c
+  mediated_by: 90872db11c42
+  verification_note: 0af832b030ba
+  verification_method: 91405e32a41a

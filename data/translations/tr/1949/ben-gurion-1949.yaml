@@ -1,0 +1,46 @@
+# Turkish for data/voices/1949/ben-gurion-1949.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ben-gurion-1949
+voice: David Ben-Gurion
+role: İsrail Başbakanı
+quote: Adı bilinmeyen bir adam ortaya çıktı. . . Türk halkına yeni bir hayat soluğu veren.
+quote_kind: translated
+summary: >-
+  Tanınmayan bir adam Türklere yeni bir hayat soluğu verip onlar gururlu ve bağımsız bir ulus haline gelene
+  dek var olan çürümüş Türk rejimini hatırlar.
+caveat: >-
+  Yalnızca Shalom'un kitabının dokumen.pub kopyasına ait bir arama motoru kesiti olarak görüldü; sayfaya,
+  dipnot 90'a ve Ben-Gurion'un özgün metnine (dolaşımdaki web versiyonları buna 'günlük' diyor) ulaşılamadı.
+  Kitap 1949-1956 dönemini kapsar ve bağlam Ben-Gurion'un ulusların aniden yeniden canlanabileceği savıdır;
+  kesin tarih bilinmemektedir, 1949 kitabın başlangıç yılı olup yer tutucudur. Üç noktalar kitabın kendisine
+  aittir. Ben-Gurion Archives günlüğünden veya Shalom'un notlarından doğrulayın. Tarih yaklaşıktır: ifade
+  tarihsizdir (Shalom'a göre yak. 1949–56); bir günlük kaydı olduğu kanıtlanmamıştır ve Ben-Gurion'un kendi
+  kaynağı ile söylendiği vesileye ulaşılamamıştır (Shalom dipnot 90).
+mediated_by: >-
+  Zaki Shalom, David Ben-Gurion, the State of Israel and the Arab World 1949-1956 (Sussex Academic Press,
+  2005), s. görülmedi, not 90 ← Ben-Gurion (günlük veya konuşma, doğrulanmamış)
+verification_note: >-
+  Kesit Shalom'un metnini doğruluyor: 'In emotional tones BG described the sudden change in Turkey with the
+  appearance of this leader. As a student in Turkey I was familiar with the wretched Turkish regime. . . I
+  believed it to be decayed and hopeless. . . when suddenly. . . a new spirit arose from the people. A man
+  appeared whose name was unknown. . . who breathed new life into the Turkish people. . .' ve ardından dipnot
+  90 geliyor. Dolayısıyla kaydedilen alıntı Shalom'dan kelimesi kelimesine bir parçadır (üç noktalar onundur).
+  Ancak Shalom'un Ben-Gurion kaynağına (dipnot 90), tarihe ve vesileye ulaşılamamıştır; The Tower yalnızca
+  'reminiscing many years later' der ve Quora kopyaları kaynak göstermeden buna 'diary' (günlük) adını verir.
+  '1949' tarihi tarihli bir söz değil, kitabın döneminden alınmış bir yer tutucudur. what_they_saw, aynı
+  pasajın Rum nüfusun sınır dışı edilmesini de ona mal ettiğini dışarıda bırakır; adil ama seçici. DÜZELTME:
+  karar yalnızca ikincil kaynak (secondary-only); tarihi 'undated (c. 1949-56, per Shalom)' olarak ayarlayın
+  veya çekince notunda 'yaklaşık' kaydıyla yılı bırakın; mediated_by 'Shalom, fn 90, Ben-Gurion's source
+  unseen' bilgisini korumalı ve sayfa çözümlenmemiş kalmalıdır. Günlük kaydı olarak tanımlamayın.
+verification_method: tek bir tools/ms araması; dokumen.pub kesiti okundu (sayfanın kendisi çekilemedi)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7ca6b641f5bc
+  role: ac2c59b51db4
+  quote: 9c6c9b46f316
+  summary: 2d5e6af9a478
+  caveat: cd28cb776bdc
+  mediated_by: ef12938d8264
+  verification_note: d9fd80cdf730
+  verification_method: bfe363660470

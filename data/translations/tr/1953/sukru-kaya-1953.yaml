@@ -1,0 +1,26 @@
+# Turkish for data/voices/1953/sukru-kaya-1953.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sukru-kaya-1953
+voice: Şükrü Kaya
+role: İçişleri Bakanı 1927–1938
+summary: >-
+  Resmî anlatı, Atatürk'ün 1934 Şehitler Günü mesajını onun okuduğunu kabul eder; 1953'te Dünya gazetesinde
+  yayımlanan anısı, 'Johnnie'ler ve Mehmetler' metnine kaynaklık etmiştir.
+caveat: >-
+  Atfı destekleyen hiçbir çağdaş belge yoktur. 10 Kasım 1953 tarihli Dünya mülakatı ve 1934 Gelibolu iddiası
+  Özakıncı 2015'ten alınmıştır. 'The Şükrü Kaya problem' ifadesi arşivin çerçevelemesidir ve Silverman'ın
+  Kaya'nın İçişleri Bakanlığı dönemini konu alan ve söz konusu mülakatı tartışmayan makalesinin başlığından
+  ödünç alınmıştır.
+verification_note: >-
+  Atıf yapılan kaynak iddiayı içermemektedir; arşiv notunda yanlışlıkla Silverman'ın bu paradoksu adlandırdığı
+  söylenmektedir. İddiaya honesthistory PDF'inde ulaşılamamaktadır.
+verification_method: getirme (fetch)
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 1b049077fa74
+  role: 3a1b96573a99
+  summary: adf18a7e1fa6
+  caveat: 2300ea764165
+  verification_note: ae41f9158b8a
+  verification_method: ad8cee67138e

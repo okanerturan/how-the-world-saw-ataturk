@@ -1,0 +1,23 @@
+# Turkish for data/voices/1938/salonika-city-council-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: salonika-city-council-1938
+voice: Selanik Belediye Meclisi
+role: Belediye meclisi, Atatürk'ün doğduğu şehir
+summary: >-
+  Kırgınlık yerine yası seçerek, Atatürk'ün doğduğu sokağa onun adının verilmesi yönünde oy kullandı.
+caveat: Delpher URN'si bir URL değil; yalnızca Toksoy bağlantısı listelenmiş.
+mediated_by: Delpher OCR üzerinden Atina çıkışlı Havas telgrafı; Toksoy 2010
+verification_note: >-
+  Meclis, Atatürk'ün doğduğu sokağa onun adını vermeye karar verdi; 'mourning over grievance' editoryal bir
+  yorumdur. Taranan metinde Toksoy'da Selanik eşleşmesi bulunmadı. Kayıt kaynaklarında Delpher URN'si eksik
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cdb85ad2c862
+  role: b80d6a0b4f7c
+  summary: 0f279fc368ce
+  caveat: 8ce177bd0697
+  mediated_by: 3ea55da163e9
+  verification_note: f7a0855c117c
+  verification_method: ad8cee67138e

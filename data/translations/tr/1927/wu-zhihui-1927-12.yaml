@@ -1,0 +1,34 @@
+# Turkish for data/voices/1927/wu-zhihui-1927-12.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: wu-zhihui-1927-12
+voice: Wu Zhihui (吳敬恆)
+role: KMT kıdemli üyesi ve Merkez Denetleme Komitesi üyesi
+quote: >-
+  Şans eseri Kemal gibi biri çıkarsa Kuomintang başarılı sayılır; talihsizlik eseri Zhang Zuolin gibi biri
+  çıkarsa o zaman bırakın ikinci Kuomintang ölsün
+quote_kind: translated
+summary: >-
+  Partinin silahlı yoldaşlarına teslim edilebileceğini savundu: bir Kemal ile başarılı olur, bir Zhang Zuolin
+  ile ikinci Kuomintang ölür.
+caveat: >-
+  İkinci elden: Wu'nun sözleri Wang'ın aktardığı şekildedir; makalenin kendisi görülmedi. Wang, Wu'nun
+  militaristlere yaranmaya çalıştığını göstermek için alıntı yapıyor.
+mediated_by: >-
+  Wang Jingwei, 7 Nisan 1928 tarihli mektup (汪精衛全集 初集, 1929, s. 136-157) ← Wu'nun Aralık 1927 tarihli
+  讀了汪先生的兩件大事 makalesi
+verification_note: >-
+  Alıntı, Wu'nun 讀了汪先生的兩件大事 (Aralık 1927) başlıklı yazısını 『』 içinde zikreden Wang'ın mektubunda birebir yer
+  alıyor; Wu'nun kendi makalesi görülmedi, dolayısıyla Wu'ya atıf Wang'a dayanıyor. Kayıt bu dolaylı aktarımı
+  zaten belirtiyor.
+verification_method: ms veri çekme aracılığıyla Wikisource action=parse
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b3e771cd36f1
+  role: 9892f81a8976
+  quote: 92033b37e5a0
+  summary: 7d349b7a1772
+  caveat: e76fdd61d167
+  mediated_by: bbd854ce87d2
+  verification_note: 79746a97e382
+  verification_method: 4c2a76f7d40e

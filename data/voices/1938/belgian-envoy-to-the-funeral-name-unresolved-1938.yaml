@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: belgian-envoy-to-the-funeral-name-unresolved-1938
+voice: Belgian envoy to the funeral (name unresolved)
+voice_type: person
+role: Former ambassador to Ankara; King Leopold III's representative
+country: Belgium
+country_now: Belgium
+domain: diplomacy
+date: "1938-11-20"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: S
+summary: >-
+  Knew Atatürk personally and held deep respect; saw the true sun in Çankaya; called his loss great for the
+  whole world.
+quote:
+  text: >-
+    I have the good fortune to have known Atatürk personally. I have a deep respect for him. When I was in
+    Ankara I always looked at the sun. But I did not see the sun on the horizon; I saw it in Çankaya. For the
+    true sun was the sun called Atatürk in Çankaya. Atatürk's loss is a great loss not only for Turkey but for
+    the whole world.
+  language: en
+mediated_by: Toksoy 2006 CTAD ← Akşam 20 Nov 1938 p. 3
+caveat: Name unstable in sources ('Roymond'/'Deryınon'), likely a single man; unresolved.
+node: Brussels Stands, November 1938
+sources:
+  - url: https://makale.isam.org.tr/server/api/core/bitstreams/155bd36a-8026-4b72-8db2-284fde81ae00/content
+    archived: https://web.archive.org/web/20261029003003/https://makale.isam.org.tr/server/api/core/bitstreams/155bd36a-8026-4b72-8db2-284fde81ae00/content
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2006-ctad-foreign-representatives.txt fn94 "Çankaya'daki Güneş", Akşam 20 Nov 1938 p.3:
+    former Belgian ambassador "Deryınon": quote verbatim in Turkish
+  method: local
+  note: Quote is English translation of Toksoy Turkish (OCR "Çanlmya").
+  checked_on: "2026-10-29"

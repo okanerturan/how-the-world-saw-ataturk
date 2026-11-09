@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sabahattin-ali-1933-04-14
+voice: Sabahattin Ali
+voice_type: person
+role: Turkish novelist and poet; German teacher held in Konya prison
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1933-04-14"
+era: contemporary
+polarity: instrumental
+intensity: 2
+artifact: letter
+evidence: P
+summary: >-
+  Jailed for a poem said to insult the Gazi, writes to him denying it, regrets his great name serving personal
+  revenge, and asks pardon.
+quote:
+  text: >-
+    Beni en çok üzen yediğim ceza değil, sizin büyük isminizin şahsî intikam vasıtası olarak kullanılabilmesi
+    ve buna müsamaha edilmesi keyfiyetidir.
+  language: tr
+caveat: >-
+  TRANSLATION (this record's): 'What grieves me most is not the sentence I received, but that your great name
+  could be used as an instrument of personal revenge, and that this is tolerated.' Typed petition headed
+  'Reisicumhur Gazi Mustafa Kemal Hazretlerine', dated '14- IV - 1933', signed 'Konya Hapisanesinde mevkuf,
+  Konya Muhtelit Ortamektep almanca muallimi Sabahattin Ali', with a revenue stamp, office annotations and the
+  stamp 'Cumhurbaşkanlığı Arşivi'. Read from the facsimile (Wikimedia Commons, source given as a Habertürk
+  image of 10 Aug 2018) and the proofread tr.wikisource transcription (quality level 4), which agree. He was
+  serving a one-year sentence for 'implicitly and allusively insulting' the President in a poem; he asks first
+  to be believed ('Ben böyle bir şey yapmadım'), then for pardon ('Beni affedecek kadar büyük ve iyi kalpli
+  olduğunuzdan eminim'). Flattery in a plea for pardon, hence instrumental. Whether Kemal answered is not
+  established here (his release in the 1933 amnesty is tier M, unverified). The poem itself was not found.
+node: Turkish Writers and Contemporaries on Kemal — Round 33
+sources:
+  - url: https://tr.wikisource.org/wiki/Sabahattin_Ali%27nin_Mustafa_Kemal%27e_mektubu
+    archived: https://web.archive.org/web/20260730230203/https://tr.wikisource.org/wiki/Sabahattin_Ali%27nin_Mustafa_Kemal%27e_mektubu
+  - url: https://commons.wikimedia.org/wiki/File:Sabahattin_Ali%27nin_Atat%C3%BCrk%27e_mektubu.jpg
+    archived: https://web.archive.org/web/20260730212206/https://commons.wikimedia.org/wiki/File:Sabahattin_Ali%27nin_Atat%C3%BCrk%27e_mektubu.jpg
+  - url: https://im.haberturk.com/2018/08/10/ver1533869324/2096437_3c855a6b0fd648ddb5bb7628b51d4711.jpg
+    archived: https://web.archive.org/web/20250122045654/https://im.haberturk.com/2018/08/10/ver1533869324/2096437_3c855a6b0fd648ddb5bb7628b51d4711.jpg
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    tr.wikisource 'Sabahattin Ali'nin Mustafa Kemal'e mektubu' (Sayfa: page raw wikitext, pagequality 4);
+    Commons File:Sabahattin_Ali'nin_Atatürk'e_mektubu.jpg (565x882 facsimile, DateTimeOriginal 1933-04-14,
+    credit Habertürk image of 10 Aug 2018)
+  method: >-
+    curl (wikisource action=raw, Commons API imageinfo) + downloaded the facsimile and READ the typed Turkish
+  note: >-
+    Quote verbatim in both the facsimile and the transcription; heading 'Reisicumhur Gazi Mustafa Kemal
+    Hazretlerine', date 'I4- IV - 1933', signature block, revenue stamp and 'CUMHURBAŞKANLIĞI ARŞİVİ' stamp
+    all visible. Translation faithful. 'Ben böyle bir şey yapmadım' and 'Beni affedecek kadar büyük ve iyi
+    kalpli olduğunuzdan eminim' present. Trivial: facsimile reads 'imaen ve telmihen' (wikisource 'îmmen') and
+    'muhtelit' lower-case. Strict test passes: his own words to Kemal, with flattery inside a plea, so
+    instrumental is fair. Schema ok.
+  checked_on: "2026-11-06"

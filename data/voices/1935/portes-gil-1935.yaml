@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: portes-gil-1935
+voice: Emilio Portes Gil
+voice_type: person
+role: Mexican Foreign Minister
+country: Mexico
+country_now: Mexico
+domain: diplomacy
+date: "1935"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: S
+summary: >-
+  Spoke with appreciation of Atatürk and with longing of what his high genius, determination and will did for
+  his people so quickly.
+mediated_by: >-
+  Sosyal ve Beşeri Bilimler Araştırmaları Dergisi 18/39 (2017) ← Turkish diplomatic reports (BCA) (chargé
+  Tahsin Ömer's report)
+caveat: Filtered by the reporting Turkish diplomat; diplomatic politeness.
+node: Mexico Sends Its Greetings to Ankara, 1927–1935
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/453769
+  - url: https://dergipark.org.tr/tr/pub/sobbiad/article/413104
+    archived: https://web.archive.org/web/20261028235723/https://dergipark.org.tr/tr/pub/sobbiad/article/413104
+verification:
+  verdict: confirmed
+  checked_against: >-
+    https://dergipark.org.tr/en/download/article-file/453769 (Temel 2017, p.70-71, BCA 30.10/267.802.28)
+  method: fetch
+  note: >-
+    Chargé Tahsin Omer reported Foreign Minister Emilio Portes Gil spoke appreciatively of Ataturk and
+    longingly of his high genius, determination and will; as record says, filtered by Turkish diplomat
+  checked_on: "2026-10-29"

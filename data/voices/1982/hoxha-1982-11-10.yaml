@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hoxha-1982-11-10
+voice: Enver Hoxha
+voice_type: person
+role: First Secretary of the PLA; address to the electors of Tirana
+country: Albania
+country_now: Albania
+domain: politics
+date: "1982-11-10"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: secular-rationalist-prophet
+artifact: speech
+evidence: P
+summary: >-
+  Honours Atatürk as an outstanding democrat who destroyed the Ottoman Empire and Caliphate, and tells
+  'pseudo-democrats' to follow him in cutting the Gordian knot.
+quote:
+  text: >-
+    We honour and respect the great leader of the Turkish people, Mustafa Kemal Ataturk, who, as an
+    outstanding democrat, destroyed the Ottoman Empire and the Caliphate and set up the new democratic Turkey.
+  language: en
+caveat: >-
+  Selected Works, vol. VI, 'Address to the electors', dated 10 Nov 1982 (delivered in electoral zone no. 210,
+  Tirana), p. 618 (running head '618 ENVER HOXHA'; the OCR prints 'Atatirk'). The next sentence: 'Let all the
+  pseudo-democrats and pseudo-socialists who oppress the peoples ... follow the example of Kemal Ataturk who
+  cut the Gordian knot of the Ottoman Empire with his sword.' Part of a tour of Albania's neighbours; the
+  praise is also a barb at Hoxha's contemporaries. The attribution of the page to the 1982 address rests on
+  the continuous run of the speech from p. 598 to p. 620+.
+node: Hoxha, Beneš, Brezhnev and the Soviet Presidium on Atatürk, 1939–1982
+sources:
+  - url: https://archive.org/details/20241204_20241204_2331
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hoxha, Selected Works vol. VI (Tirana: 8 Nentori), archive.org 20241204_20241204_2331,
+    enver_hoxha_selected_works_volume_6_eng_djvu.txt
+  method: >-
+    curl of the open djvu text; running head with page number and the speech's own title/date line read in
+    place
+  note: >-
+    Verbatim p. 618 (head '618 ENVER HOXHA'): 'We honour and respect the great leader of the Turkish people,
+    Mustafa Kemal Atatirk [OCR], who, as an outstanding democrat, destroyed the Ottoman Empire and the
+    Caliphate and set up the new democratic Turkey.' Next sentence as the caveat says (pseudo-democrats,
+    Gordian knot). Speech title 'Work and Vigilance to Make the People's State Power Ever Stronger (Address to
+    the electors)', dated November 10, 1982, footnote 'Delivered in the electoral zone No. 210 of Tirana'; pp.
+    598-629. Preceding sentence on p. 617 is on Albanian-Turkish friendship ('hundreds of thousands of
+    Albanians' living with Turks). Polarity admiring, intensity 2 fair; era posthumous correct.
+  checked_on: "2026-11-03"

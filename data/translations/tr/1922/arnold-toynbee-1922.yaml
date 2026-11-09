@@ -1,0 +1,25 @@
+# Turkish for data/voices/1922/arnold-toynbee-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: arnold-toynbee-1922
+voice: Arnold J. Toynbee
+role: Britanyalı tarihçi ve Manchester Guardian muhabiri
+quote: >-
+  Daha iyi bir dünyayı beklemek zorunda kalmadan bir Türkün Anadolu'da kendi efendisi olabileceğini bizzat
+  göstererek kanıtladı
+quote_kind: translated
+summary: >-
+  Kemal'i, bir Türkün Anadolu'da kendi efendisi olabileceğini kanıtlayan cüretkâr bir asi olarak nitelendirdi;
+  kendisiyle tanışmamıştı; 'Kemalist' değil, bir Türk Milliyetçisi.
+caveat: >-
+  Kutupluluk Toynbee'nin çizgisini yansıtır (1916 Armenian Blue Book editörü, 1922 Türk dostu); 1922 metninin
+  kendisi temkinli bir sempati taşır; daha sonraki karma hükümleri henüz kaynaklandırılmamıştır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9d504ed5aa33
+  role: 1e7e75d024a2
+  quote: 1f9f23296e67
+  summary: 0db2d7443d84
+  caveat: bf52066e1143
+  verification_method: ad8cee67138e

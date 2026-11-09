@@ -1,0 +1,25 @@
+# Turkish for data/voices/2008/kemalist-critics-2008.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kemalist-critics-2008
+voice: Kemalist yerleşik düzenden Mustafa'yı eleştirenler
+role: Atatürk imajının savunucuları
+summary: >-
+  Filmin sahnelerinin Atatürk'ün tarihsel önemini değersizleştirdiğini ve İslamcıların çıkarlarına hizmet
+  ettiğini söylediler.
+caveat: >-
+  Aktarılan eleştirilerin dolaylı anlatımıdır (Wikipedia, Qantara); daha önce alıntılanan 'diminishes the
+  image of Atatürk in the minds of young Turks' satırı hiçbir kaynakta birebir bulunamadı.
+verification_note: >-
+  'diminishes the image of Ataturk in the minds of young Turks' alıntısı erişilen hiçbir kopyada birebir
+  bulunamadı. Ana fikir desteklenmektedir: eleştirenler sahnelerin Atatürk'ü değersizleştirdiğini ve
+  İslamcılara hizmet ettiğini söyledi (Wikipedia), Yiğit Bulut'un boykot çağrısı (Qantara).
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 11cc95ae3249
+  role: 18be7d938062
+  summary: 3f17ad8342c0
+  caveat: 9b4cb6bfeb44
+  verification_note: 3691ed070cf8
+  verification_method: ad8cee67138e

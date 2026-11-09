@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/ismet-inonu-assembly-1938-11-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ismet-inonu-assembly-1938-11-11
+voice: İsmet İnönü
+role: Yeni seçilen Cumhurbaşkanı
+quote: >-
+  fevkalâde hizmetlerini bu günkü Türk Devletinin bünyesinde tam ve temiz eserler olarak tecessüm etmiş
+  görüyoruz
+quote_kind: original-turkish
+summary: >-
+  Yeni seçilen Cumhurbaşkanı olarak Meclis'e, Atatürk'ün olağanüstü hizmetlerinin Türk devletinde tam ve temiz
+  eserler olarak somutlaştığını söyledi.
+caveat: >-
+  Basılı s. 17 (göreve başlama konuşması, yeminden sonra). Taramanın OCR'ı cümlenin başındaki 'Atatürkün'
+  kelimesini 'Atatiirkün' olarak bozduğu için alıntı bundan sonrasıyla başlar.
+verification_note: Birebir (öncesinde OCR 'Atatiirkün'); yemini ve göreve başlama konuşmasını izler.
+verification_method: pdftotext iki sütun kırpma ve -layout
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 56fa742095a3
+  role: e7cbf554d271
+  quote: 8fd0c9a03875
+  summary: e725b678db1c
+  caveat: 52abd355dfe1
+  verification_note: 58b299c2ec06
+  verification_method: 18dd70154f91

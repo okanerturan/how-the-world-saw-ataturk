@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: wexler-2001-10
+voice: Robert Wexler
+voice_type: person
+role: U.S. Representative from Florida (Democrat)
+country: United States
+country_now: United States
+domain: politics
+date: "2001-10-31"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  On Republic Day, says Turkey became the secular, modern democracy Atatürk envisioned and calls him one of
+  the twentieth century's greatest leaders.
+quote:
+  text: >-
+    Over the past seventy-eight years, Turkey has emerged as the secular and modern democracy that Kemal
+    Ataturk envisioned in 1923. … one of the twentieth century's greatest leaders, Mustafa Kemal Ataturk
+  language: en
+caveat: >-
+  His own Republic Day felicitation, written seven weeks after 11 September to praise Turkey's support.
+  Ankara-friendly courtesy text as well as a view. Cited as Extensions of Remarks (House), 31 October 2001,
+  'Tribute to the Government of the Republic of Turkey', Congressional Record vol. 147, pp. E1969-E1970
+  (granule CREC-2001-10-31-pt1-PgE1969-3).
+node: >-
+  Congressional Record Closing Pass — King, Owen, Davis, Sirovich, Pepper, Knowland and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/CREC-2001-10-31/html/CREC-2001-10-31-pt1-PgE1969-3.htm
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.govinfo.gov/content/pkg/CREC-2001-10-31/html/CREC-2001-10-31-pt1-PgE1969-3.htm - Extensions of
+    Remarks, 31 Oct 2001, pp. E1969-E1970
+  method: govinfo daily-edition HTML
+  note: >-
+    Verbatim with ellipsis; Wexler's own words (President Sezer's quotation in the middle is separate and not
+    used). Evaluates Atatürk as 'one of the twentieth century's greatest leaders'. Courtesy text as the caveat
+    says. Admiring 2 fair.
+  checked_on: "2026-11-04"

@@ -1,0 +1,42 @@
+# Turkish for data/voices/1983/emmerlich-1983-09-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: emmerlich-1983-09-08
+voice: Alfred Emmerlich
+role: >-
+  Bundestag SPD milletvekili (tutanakta basıldığı şekliyle; ön ad DIP metninde verilmemiştir)
+quote: >-
+  Kemal Atatürk'ün Türkiye'sinin, Nazi zulmüne uğrayan pek çok kişi — örneğin Ernst Reuter — için iade
+  edilmeye karşı güvende olabildikleri bir sığınak olduğunu
+quote_kind: translated
+summary: >-
+  'Kemal Atatürk'ün Türkiye'sini' aralarında Ernst Reuter'in de bulunduğu pek çok Nazi kurbanı için güvenli
+  bir sığınak ve Alman iade politikası açısından bir yükümlülük olarak hatırlar.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'inde kontrol edildi. Türk sığınmacıların iadesi üzerine 1983'te yapılan
+  bir tartışmada, tarihten gelen bir Alman sorumluluğunu savunmak amacıyla kullanılmıştır; övgü Cumhuriyet'in
+  sığınma rolünedir ve konuşmacının adı ön ad olmaksızın basılmıştır. Kaynak gösterimi: Deutscher Bundestag,
+  Plenarprotokoll 10/19, 8 Eylül 1983 oturumu, s. 1313. Ön ad de.wikipedia'dan alınmıştır. Kutupluluk: hayran
+  → araçsal (Cumhuriyet'in sığınma rolüne yönelik övgü, bir Alman sorumluluğunu savunmak için kullanılmıştır).
+verification_note: >-
+  Alıntı birebir aynıdır, basılı s. 1313, konuşmacı 'Dr. Emmerlich (SPD)'; çeviri sadıktır. DÜZELTME: voice
+  alanı 'Alfred Emmerlich' (SPD, hukukçu, 1983'ten itibaren SPD grup başkanvekili) olmalıdır; Althammer ile
+  aynı kaynak çekincesi geçerlidir (ön ad tutanakta yoktur). Bakış notu: övgü, Altun iade davasında bir Alman
+  sorumluluğunu savunmak üzere kullanılan, Nazi kurbanları için bir sığınak olarak Kemal Atatürk'ün
+  Türkiye'sine yöneliktir; hayran/1 savunulabilir ancak 'instrumental' çekinceye ve şema tanımına daha iyi
+  uyacaktır.
+verification_method: >-
+  dserver PDF'i indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleşmesi yapıldı,
+  konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı çeviriyle
+  karşılaştırılarak okundu; ön ad de.wikipedia'dan alındı (SPD, 1972-1990 Bundestag üyesi, Rechtsausschuss,
+  1983'ten itibaren SPD grup başkanvekili)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5f852438dbf9
+  role: db90495364eb
+  quote: e292e339d6e6
+  summary: 7385bd82669a
+  caveat: 3e2b1dfb43e5
+  verification_note: 36c5150c4aac
+  verification_method: 13ce05df18fb

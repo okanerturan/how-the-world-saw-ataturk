@@ -1,0 +1,38 @@
+# Turkish for data/voices/2004/weisskirchen-2004-12-16.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: weisskirchen-2004-12-16
+voice: Gert Weisskirchen
+role: Bundestag SPD milletvekili, dış politika sözcüsü
+quote: >-
+  Kemal Atatürk'ün 20'li yıllarda geliştirdiği konsept, Türkiye'yi Avrupalılaştırma ve Avrupa'ya bağlanmayı –
+  bu, Avrupa değerlerini de ilgilendirir – sağlama girişimidir.
+quote_kind: translated
+summary: >-
+  Atatürk'ün 1920'lerdeki konseptini, Osmanlı İmparatorluğu ile bir kopuş olarak Türkiye'yi Avrupalılaştırma
+  ve Avrupa değerlerine bağlama girişimi şeklinde okur.
+caveat: >-
+  Bundestag DIP API (search.dip.bundestag.de/api/v1/plenarprotokoll-text), DIP dokümantasyon sayfasındaki açık
+  anahtar; basılı sayfa dserver PDF'inde kontrol edildi. Türkiye ile AB katılım müzakerelerinin başlatılması
+  üzerine tartışma (16-17 Aralık 2004 Konsey toplantısı öncesindeki Bundestag oturumu); devamında
+  Cumhuriyet'in 'Osmanlı İmparatorluğu ile bir kopuş' gerçekleştirdiğini ve bu konsept üzerine Türkiye
+  içindeki mücadelenin zorlu olduğunu söyler. Konuşmacı tutanağa göredir (oturum başkanı tarafından adı anılan
+  son konuşmacı, Gert Weisskirchen (Wiesloch)). Basılı sayfa PDF üst bilgisinden 13807'dir. Kaynak gösterimi:
+  Deutscher Bundestag, Plenarprotokoll 15/148, 16 Aralık 2004 oturumu, s. 13807.
+verification_note: >-
+  'Gert Weisskirchen (Wiesloch) (SPD)' başlığı altında basılı s. 13807'de birebir aynıdır. Çeviri sadıktır.
+  Görev tanımındaki 'dış politika sözcüsü' ayrıntısı tutanak pasajında yer almamaktadır ve kontrol
+  edilmemiştir.
+verification_method: >-
+  dserver PDF'i indirildi, pdftotext uygulandı, alıntının boşluk/tireleme normalleştirilmiş eşleşmesi yapıldı,
+  konuşmacı başlığı ve üst bilgi sayfa numarası basılı tutanaktan okundu; Almanca metin kayıtlı çeviriyle
+  karşılaştırılarak okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6af4f09227f3
+  role: 039e9cc968dd
+  quote: aefafd5fb027
+  summary: 1dddb271840c
+  caveat: fb3d992a89a8
+  verification_note: a2f65e6ff0f4
+  verification_method: 966799b4c6ae

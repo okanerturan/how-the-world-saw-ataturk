@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: iskender-mirza-1956
+voice: İskender Mirza
+voice_type: person
+role: President of Pakistan
+country: Pakistan
+country_now: Pakistan
+domain: politics
+date: "1956-07-16"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Ranks Atatürk among the world's heroes; says the subcontinent's Muslims also took him for a hero and sang of
+  his deeds.
+quote:
+  text: >-
+    Atatürk tarihin daima şükranla yâd etmekle şeref kazanacağı ve milletinin mukadderatını tâyindeki hissesi
+    ebediyen yaşayacak olan dünya kahramanları sınıfına dâhildir.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 14 (printed p. 3). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "Atatürk belongs to the class of world heroes whom history will honour with gratitude
+  and whose share in deciding his nation's destiny will live for ever." The same speech pairs him with Jinnah
+  (PDF p. 15). Heading: 'Pakistan Reisicumhuru İskender Mirza', Doksanıncı İnikat, 16 Temmuz 1956.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 14 (printed p. 3); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c14.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Pakistan Reisicumhuru İskender Mirza,
+    Doksanıncı İnikat, 16 Temmuz 1956'). Heading and quote are on the same page. Speech printed in Turkish;
+    delivery language not stated by the book (original not looked for).
+  checked_on: "2026-11-01"

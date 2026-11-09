@@ -1,0 +1,26 @@
+# Turkish for data/voices/1932/hc-armstrong-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hc-armstrong-1932
+voice: H.C. Armstrong
+role: İngiliz subay ve yazar
+summary: >-
+  İçki, kumar ve kadınlar üzerinde duran, izinsiz 'bir diktatörün mahrem incelemesi' niteliğindeki Grey Wolf
+  kitabını yazdı (yayıncı tanıtım yazılarına göre; metin okunmadı).
+caveat: >-
+  Kitabın tamamı okundu (Ekim 2026): 'benevolent, educating, guiding dictatorship' (böl. LXXIV–LXXV)
+  ifadelerinin yanı sıra ırksal üslup (s. 254).
+verification_note: >-
+  Tanıtım yazısı 'intimate study', 'love of women, drinking and gambling', 'vicious dictator and iron-willed
+  creator' ifadelerini desteklemektedir. 'hostile' kutupluluğu ve 'gives the career its due' ifadesi kitap
+  metninden kontrol edilememektedir (archive.org oturum açma duvarı arkasındadır); arşivdeki tanıtım yazısı
+  bir ulus yarattığını teslim ettiğinden 'hostile' ifadesi fazla güçlü görünmektedir.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: bef8855d46bd
+  role: b12b19228c54
+  summary: a56ae72c0efb
+  caveat: 0c5b47ceae4f
+  verification_note: 84f66f3b29b6
+  verification_method: ad8cee67138e

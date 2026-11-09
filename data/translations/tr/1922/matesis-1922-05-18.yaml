@@ -1,0 +1,38 @@
+# Turkish for data/voices/1922/matesis-1922-05-18.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: matesis-1922-05-18
+voice: A. Matesis
+role: >-
+  Yunan milletvekili ve Anadolu'daki Hristiyan katliamları üzerine gensoru sahibi (basılı metinde yalnızca A.
+  baş harfiyle)
+quote: Bu hizmetlerin karşılığını Kemal, çok acı çekmiş Pontus'un korkunç trajedisiyle verdi.
+quote_kind: translated
+summary: >-
+  Kemal'in Pontus Rumlarının Müslümanları korumasına korkunç Pontus trajedisiyle karşılık verdiğini söyler ve
+  onun Yüksek Komiserlere gönderdiği notayı alaycı ve küstah olarak nitelendirir.
+caveat: >-
+  Γ΄ Εθνοσυνέλευση, Πρακτικά Τόμος 4, 18 Mayıs 1922 tarihli ΞΖ΄ birleşimi (başlık sayfanın küçük resminden
+  okundu), basılı s. 2621-2622 (PDF sayfaları 144-145; sayfa görüntüleri okundu). Matesis, Tsoukalas ve
+  Sotiriadis ile birlikte 'Kemalists' tarafından gerçekleştirilen Hristiyan katliamları üzerine gensoru verir;
+  özette Pontus'tan kişisel olarak Kemal'i sorumlu tutar ve Kemal'in üç Yüksek Komiser'e yazdığı 15 Şubat 1922
+  tarihli mektubu 'with excessive irony and insolence' yazılmış olarak tanımlar. Savaş dönemi Yunan parlamento
+  retoriği; arşiv bu çerçeveyi benimsemez.
+mediated_by: >-
+  Πρακτικά'da özetlendiği şekliyle (konuşmanın üçüncü şahıs aktarımı; alıntılanan cümle tutanakçının
+  ifadesidir)
+verification_note: >-
+  Alıntı sayfa görüntüsünde birebir aynı. Tali milletvekili; üçüncü şahıs Πρακτικά özeti. Birleşim tarihi
+  oturum başlığından alındı (derleyici küçük resim çözünürlüğünde okumuş); üst başlık ΞΖ΄ doğrulandı.
+verification_method: >-
+  sayfa görüntüsü 230 dpi çözünürlükte işlendi ve politonik Yunanca OKUNDU (derleyici değil, ana ajan)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0f87462f99ba
+  role: fb3e42611bcd
+  quote: 9b7194f494f0
+  summary: 94d939528031
+  caveat: d1ca6fb06a76
+  mediated_by: bed8f4edd5eb
+  verification_note: c87ab06134f9
+  verification_method: adc1a10a8ce8

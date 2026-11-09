@@ -1,0 +1,20 @@
+# Turkish for data/voices/1938/resulzade-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: resulzade-1938
+voice: Mehmed Emin Resulzade
+role: Sürgündeki Azerbaycanlı lider (Varşova)
+summary: Millî Azerbaycan adına taziye gönderdi.
+caveat: >-
+  Özet, gönderenin sıfatıyla sınırlıdır; yas tutmanın ötesinde belirtilmiş bir görüş yoktur. Varsa kendi
+  notunda daha kapsamlıdır.
+verification_note: Telgraf başlığındaki gün/ay bilgisi OCR'da bozulmuş.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8499c691206b
+  role: e5e39374a954
+  summary: 1e03d4983edf
+  caveat: fccfc710b9a7
+  verification_note: b4f82700e043
+  verification_method: 939bb46a04c3

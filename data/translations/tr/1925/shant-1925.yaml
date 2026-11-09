@@ -1,0 +1,37 @@
+# Turkish for data/voices/1925/shant-1925.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: shant-1925
+voice: Levon Shant
+role: Ermeni oyun yazarı, Taşnak lideri ve eğitimci
+quote: >-
+  Yani eski Türkler ve yeni Türkler; sonuncular dün İttihatçı diye anılıyordu, bugün Kemalist; yarın, hizip
+  kıskançlığı Kemal'i de devirdiğinde, yeni bir adla meydana inecekler.
+quote_kind: translated
+summary: >-
+  Kemalistleri İttihatçıların ardılları olan yeni Batılılaşmış Türkler olarak okur; kıskançlık Kemal'i
+  devirdiğinde başka bir ad altında geri dönmelerini bekler.
+caveat: >-
+  'Մեր անկախութիւնը' ('Bağımsızlığımız'); Wikisource üstbilgisi yılı 1925 olarak verir. Hassas konu (Ermeni
+  soykırımı hafızası): Shant'ın siyasi analizi; burada Kemalist olaylar İttihatçı ruh halinin meyveleri olarak
+  'Ermeni katliamları'ndan sonra sıralanır. Kutupluluk açık bir hakaretten değil, pasajın bütününden (kuşkucu
+  süreklilik tezi) okunmuştur. Çeviri arşive aittir. Tarama incelenmedi. Kontrol: cümle, Kemal hakkında açık
+  bir yargı içermeyen eski ve yeni Türkler tipolojisidir; kutupluluk düşmanca → ikircikli ve okuma
+  konuşmacının çerçevelemesidir.
+verification_note: >-
+  Alıntı birebir aynı, çeviri sadık, 1925 yılı üstbilgiden. 'Düşmanca' kutupluluğu kaydın çıkarımıdır (çekince
+  notu bunu kabul eder): cümle 'eski' ve 'yeni' Türklerin bir tipolojisidir ve kıskançlık Kemal'i devirdiğinde
+  Kemalistlerin yeni bir ad altında yeniden ortaya çıkacağını öngörür; Kemal hakkında açık bir yargı içermez.
+  Metnin başka yerlerinde Kemalistlere Pan-Türkizm ve Enver üzerinden kuşkuyla yaklaşılır (daha açık).
+  Kutupluluğun ikircikli/kuşkucu yapılması ya da çekince eklenmesi önerilir, yoğunluk 1. Tarafsız çerçeveleme
+  korunmalı.
+verification_method: ham sayfa çekildi, dizge eşleştirmesi, ilgili bölüm okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ec0da8160131
+  role: f22dbb4b4c81
+  quote: a744d50d2f8f
+  summary: 18f77327a568
+  caveat: d09ecefc4820
+  verification_note: 210ffe452d6b
+  verification_method: 4031e3443e07

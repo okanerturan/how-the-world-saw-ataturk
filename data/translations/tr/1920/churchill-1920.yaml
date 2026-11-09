@@ -1,0 +1,23 @@
+# Turkish for data/voices/1920/churchill-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: churchill-1920
+voice: Winston Churchill
+role: Savaş Bakanı, Avam Kamarası Ordu görüşmesi
+quote: Mustafa Kemal'in düşman kuvvetleri
+quote_kind: translated
+summary: >-
+  İstanbul'un otoritesini reddeden Kemal'in Milliyetçilerini Mezopotamya'ya ilişkin kaygılar arasında saydı ve
+  Bolşeviklerle birleşmeleri konusunda uyardı.
+caveat: >-
+  Bolşevizm üzerine daha uzun bir konuşmanın içindeki tehdit değerlendirmesi; Churchill hakkında mevcut not
+  var.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 12253b5990a1
+  role: b536f41abe7a
+  quote: dd4adc63678f
+  summary: aa9b2f9a445d
+  caveat: 4b5e04640a5d
+  verification_method: a033a528b603

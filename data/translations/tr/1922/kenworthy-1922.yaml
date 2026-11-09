@@ -1,0 +1,23 @@
+# Turkish for data/voices/1922/kenworthy-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kenworthy-1922
+voice: Deniz Binbaşısı Kenworthy, Milletvekili
+role: Avam Kamarası üyesi, Amerika Birleşik Devletleri'ne olan savaş borcu görüşmesi
+quote: >-
+  Mustafa Kemal ve ordusunun büyük zaferleri olmasaydı, Türkiye Milletler Cemiyeti'ne kabul edilmek için boş
+  yere acı gözyaşları dökebilirdi
+quote_kind: translated
+summary: >-
+  Türkiye'nin Milletler Cemiyeti'ne ulaşmasının nedeni olarak Kemal'in zaferlerini gösterdi ve Curzon ile
+  Lloyd George'un diplomasisindeki 'gücün başarısı'nı iğneledi.
+caveat: Hükümete yönelik alaycı argüman; araçsal olarak kodlanmıştır.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5c480457a1be
+  role: e571304a0fc1
+  quote: 340799a0e0d3
+  summary: b8d04311dc82
+  caveat: c122d3481f5c
+  verification_method: a033a528b603

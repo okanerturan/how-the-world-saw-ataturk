@@ -1,0 +1,42 @@
+# Turkish for data/voices/1988/corbyn-1988-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: corbyn-1988-03
+voice: Jeremy Corbyn
+role: İşçi Partisi Milletvekili (daha sonra Muhalefet Lideri)
+quote: >-
+  Kürt ulusu ancak 1920'de ve Sevr Antlaşması ile tanındı; ancak bunun hiçbir zaman hayata geçmemesini
+  sağlayan Kemal Atatürk'ün Türkiye'deki yükselişi nedeniyle antlaşma hiçbir zaman tam olarak uygulanmadı veya
+  tesis edilmedi.
+quote_kind: translated
+summary: >-
+  Sevr'deki Kürtlerin tanınması vaadinin, bunun gerçekleşmemesini sağlayan 'Kemal Atatürk'ün yükselişi'
+  nedeniyle hiçbir zaman uygulanmadığını söyler.
+caveat: >-
+  Adjournment (Easter and Monday 2nd May), HC Deb 25 Mar 1988, c653. Resmi Hansard'ın TheyWorkForYou'daki
+  dökümü. Hassas konu başlığı (Kürtler): Halepçe dönemi Kürtlerinin durumu üzerine bir oturum kapanış
+  konuşmasında Corbyn'in çerçevelemesi; arşiv bunu benimsemez. Düşmanlık hafif ve örtüktür (Kürt
+  bağımsızlığının önündeki engel olarak Kemal). Bunu 6 Haziran 1991'de tekrarlar (Kurdish People tartışması,
+  c487: 'Mustafa Kemal led the development of the modern state of Turkey, and the British Government decided
+  to back modern Turkey rather than the aspirations of the Kurdish people'), burada tek kez kaydedilmiştir.
+  Kontrol: alıntı c655'te yer alıyor (historic-hansard); TWFY konuşmanın başladığı sütunu veriyor. Kontrol:
+  değer yargısı bildiren bir sözcük içermeyen olgusal bir iddia; kutupluluk düşmanca → tanık.
+verification_note: >-
+  Birebir aynı, Jeremy Corbyn tarafından söylendi (g653.0, HC Deb 25 Mar 1988). Sütun düzeltmesi: cümle
+  c655'te (konuşma c653'te başlıyor). Sevr'in başarısızlığını 'the rise of Kemal Ataturk ... who ensured it
+  was never brought to fruition' ifadesine bağlıyor: Kemal'in rolü hakkında değer yargısı bildiren bir sözcük
+  içermeyen tarihsel bir iddia. Düşmanca 1 çıkarıma dayalı. Düzeltme: kutupluluk tanık, yoğunluk 1, tarafsız
+  ifade 'Names the rise of Kemal Ataturk as the reason the Sevres provision for Kurdish recognition was never
+  carried out'.
+verification_method: >-
+  sayfa çekildi, bağlantılı konuşma bloğu (konuşmacı, tarih, kimlik) içinde alıntının normalleştirilmiş metin
+  eşleşmesi yapıldı; sütun historic-hansard sütun işaretleyicilerinden tespit edildi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8e8a2fa5e516
+  role: 78de14117170
+  quote: d9d62762112b
+  summary: 5ccdebb898c4
+  caveat: 02d110a26fcc
+  verification_note: f4f2bcd3bb10
+  verification_method: 59db5bce95bc

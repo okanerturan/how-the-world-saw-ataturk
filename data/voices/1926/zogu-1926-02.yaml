@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: zogu-1926-02
+voice: Ahmet Zogu (King Zog I)
+voice_type: person
+role: President of Albania (King from 1928)
+country: Albania
+country_now: Albania
+domain: politics
+date: "1926-02-17"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: report
+evidence: S
+summary: >-
+  Told Turkey's first envoy that Turkey's reforms were an example for Muslim countries, Albania above all, and
+  voiced special sympathy for Mustafa Kemal.
+mediated_by: >-
+  Kaceli 2021 ← Şimşir, Atatürk ve Yabancı Devlet Başkanları (1993; Albania sits in vol. I, page not given) ←
+  envoy Tahir Lütfi's report
+caveat: >-
+  Envoy Tahir Lütfi's report via Şimşir via Kaceli; no verbatim words of Zogu, and whether the 'example for
+  Muslim countries' wording is Zogu's or the envoy's gloss cannot be told. Şimşir page not given. Zogu was
+  courting Ankara while his regime was weak.
+node: Heads of State on Atatürk in Their Own Words, 1926–1933
+sources:
+  - url: https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/C42184AE688A42C8A7E5F1E745478A38
+    archived: https://web.archive.org/web/20250329041315/https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/C42184AE688A42C8A7E5F1E745478A38
+verification:
+  verdict: secondary-only
+  checked_against: >-
+    Kaceli, 'Economic, Social and Cultural Relations between the Republic of Turkey and Albania' (Istanbul
+    Univ.), p. 103, citing Şimşir, Atatürk ve Yabancı Devlet Başkanları (1993), no page
+  method: tools/ms free fetch of the open PDF; read the passage on the 17 Feb 1926 reception
+  note: >-
+    Null quote correct. The article says that after the credentials Zog 'admitted the importance of the
+    reforms ... becoming an example for all Muslim countries, especially for Albania' and 'stated his special
+    sympathy for Mustafa Kemal'. This rests entirely on the Turkish envoy Tahir Lütfi's own dispatch to Ankara
+    (via Şimşir, via Kaceli); no Albanian source and no verbatim words. Whether the 'example for Muslim
+    countries' wording is Zogu's or the envoy's gloss cannot be told. At best secondary-only. CORRECTION: keep
+    quote null; caveat 'envoy's report of what Zog said, two steps removed'; the Şimşir page is still unknown
+    (vol. I); consider changing polarity to instrumental/witness-level unless the Şimşir text is seen.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 11)
+  checked_on: "2026-11-01"
+  quote_found: false

@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: morrison-2019-03-20
+voice: Scott Morrison
+voice_type: person
+role: Prime Minister of Australia (2018–2022)
+country: Australia
+country_now: Australia
+domain: politics
+date: "2019-03-20"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: quote
+evidence: P
+summary: >-
+  Invokes Atatürk against Erdoğan after the Christchurch remarks: Atatürk sought to make a modern, embracing
+  nation and made a promise to Australians.
+quote:
+  text: >-
+    Ataturk sought to transform his country into a modern nation, an embracing nation, and I think these
+    comments are at odds with that spirit and the promise that was made to Australians
+  language: en
+caveat: >-
+  Instrumental as much as admiring: Atatürk is used as a standard to rebuke Turkey's president Erdoğan over
+  his remarks after the Christchurch attacks (the press conference calls them 'highly offensive' and
+  'reckless'). Same day on 2GB (PM Transcripts 42207) Morrison said Erdoğan's comments were 'very much at odds
+  with what Ataturk said', and on 28 March (42235) that Erdoğan 'had failed on the promise made by Ataturk to
+  the mothers of Anzacs'. Polarity conflicted: he treats Atatürk as a benchmark Erdoğan fails, not as an
+  object of study. The 'Johnnies and Mehmets' / 'your sons are now lying in our bosom' text that Anzac
+  speakers attribute to Atatürk is itself contested: no 1934 original has been found, it first appears in
+  print in 1953 via Interior Minister Şükrü Kaya's recollection, and the 'Johnnies and Mehmets' clause is a
+  1978 Australian addition (see [[Johnnies and Mehmets]]). So this is a speaker's view of the Atatürk of the
+  Anzac legend, spoken at a commemorative or diplomatic occasion that rewards praise. Cited as: Press
+  conference, Canberra, 20 March 2019.
+node: Anzac Day Leaders on Atatürk, 1990–2024 — Australian and New Zealand Speeches
+sources:
+  - url: https://pmtranscripts.pmc.gov.au/release/transcript-42211
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: pmtranscripts.pmc.gov.au XML query?transcript=42211
+  method: fetched XML, matched the quote and read the question and answer
+  note: >-
+    Verbatim in transcript 42211 (Morrison press conference, Canberra, 20 Mar 2019), his own words. Polarity
+    'conflicted' is wrong: Morrison is not ambivalent about Atatürk, he uses Atatürk as the standard against
+    Erdogan's Christchurch remarks. Fix: polarity instrumental, intensity 1 (2 is generous for one sentence),
+    neutral wording 'Cites Ataturk's aim of a modern, embracing nation and the promise to Australians as the
+    standard Erdogan's remarks fall short of'. The same transcript earlier says 'the promise of Ataturk to the
+    mothers of our ANZACs', i.e. he adopts the legend.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 22b)
+  checked_on: "2026-11-03"

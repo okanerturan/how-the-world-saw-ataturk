@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: aralov-1960
+voice: Semyon Aralov
+voice_type: person
+role: First Soviet ambassador to Ankara (1922-23), memoirist
+country: Soviet Union
+country_now: Russia
+domain: diplomacy
+date: "1960"
+era: posthumous
+polarity: conflicted
+intensity: 2
+mirror: bourgeois-revolutionary
+artifact: memoir
+evidence: P
+summary: >-
+  Portrays the Ghazi as a lyrical man hardened by love of country, yet judges that only the bourgeoisie gained
+  from his revolution.
+quote:
+  text: >-
+    Гази обладал тонкой, лирической натурой. Любовь к родине, народу заставила его выработать в себе суровый,
+    стойкий характер, необходимый для беспощадной борьбы с врагами Турции.
+  translation: >-
+    The Ghazi had a delicate, lyrical nature. Love of country and people made him forge in himself a stern,
+    steadfast character, needed for the merciless struggle against Turkey's enemies.
+  language: ru
+caveat: >-
+  S. I. Aralov, Воспоминания советского дипломата. 1922-1923 (Moscow: Institute of International Relations,
+  1960), p. 215 (the lyrical-nature portrait, after Kemal asks his wife Latife to play a Tchaikovsky romance
+  at the farewell dinner). The same book, p. 211, in the section on Kemal as leader of the new Turkey: 'Но
+  надежды эти не оправдались. Выиграла от национальной революции и военных побед освободительной армии только
+  буржуазия' (translation: 'But those hopes were not fulfilled. Only the bourgeoisie gained from the national
+  revolution and the liberation army's victories') and that Kemal 'не был последователен в борьбе с
+  феодалами'. Read in the open archive.org scan (djvu text, page numbers from the scan). Events 1922-23,
+  written and published under 1960 Soviet historiography; the book's own preface-level frame is class
+  analysis. Aralov's verdict on Kemal's tactical genius and on the communists' repression is not in the quoted
+  passages.
+node: Soviet Pens on Mustafa Kemal — Aralov and Pilnyak
+sources:
+  - url: https://archive.org/details/vospominaniia_sovetskogo_diplomata_1922_1923
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org vospominaniia_sovetskogo_diplomata_1922_1923 (open item, _djvu.txt; title page 'Издательство
+    Института Международных отношений, Москва 1960')
+  method: >-
+    downloaded djvu text via /download, matched the Russian quote across the scan's line-end hyphenation (¬),
+    located page numbers from the page-foot markers
+  note: >-
+    Quote verbatim at p. 215 (text sits above the '215' marker, after 'Ханум, сыграй нам на прощание любимый
+    романс Чайковского'; the dinner/Latife context is right). Caveat passage verbatim at p. 211: 'Но надежды
+    эти не оправдались. Выиграла от национальной революции и военных побед освободительной армии только
+    буржуазия' and 'Мустафа Кемаль не был последователен в борьбе с феодалами' (same page, then marker 211).
+    Translations faithful. Polarity conflicted fair; what_they_saw is 22 words. Schema OK (field order,
+    enums). Advisory only: intensity 3 is the highest tier and no other memoir record is 3 except one; 2
+    (sustained engagement) would match how memoirs are scored, but the book is wholly about the Ankara
+    mission, so 3 is defensible. 'Ambassador' is a gloss of полпред (plenipotentiary).
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 20)
+  checked_on: "2026-11-03"

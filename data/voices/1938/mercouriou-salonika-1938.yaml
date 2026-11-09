@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mercouriou-salonika-1938
+voice: C. Mercouriou (Mayor of Thessaloniki)
+voice_type: person
+role: Mayor of Salonica
+country: Greece
+country_now: Greece
+domain: politics
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: telegram
+evidence: P
+summary: Called the city's native son a reformer of the new Turkey and a faithful friend of Greece.
+quote:
+  text: réformateur nouvelle turque [Turquie] et ami fidèle Grèce
+  language: fr
+caveat: >-
+  TBMM vol. 1 (c1) PDF p. 11. Quote in French (telegraphese); translation: 'reformer of the new Turkey and
+  faithful friend of Greece'. Distinct from the city council's street-naming (salonika-city-council-1938).
+node: Heads of State Write to the Assembly, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: TBMM Taziyetname 1938, c1.pdf p. 11
+  method: >-
+    Own render of the PDF page (PDFKit PNG, read by eye); no OCR relied on; telegraph text is unaccented
+    capitals/lowercase typescript; zoomed crop at 4000 px
+  note: >-
+    Source reads 'enfant kemal ataturk reformateur nouvelle turque et ami fidele grece', signed 'c mercouriou
+    maire thessalonik'. The record quote 'réformateur nouvelle Turquie et ami fidèle Grèce' silently changes
+    'turque' to 'Turquie' (probable telegraph slip) and restores accents. CORRECTION: either quote
+    'reformateur nouvelle turque et ami fidele grece' or mark the emendation with [sic]/brackets. Sheet also
+    says 'son illustre enfant', supporting the 'native son' gloss.
+  resolution: corrected/hedged 2026-11-01 — see LEDGER § Source-check corrections (round 10)
+  checked_on: "2026-11-01"

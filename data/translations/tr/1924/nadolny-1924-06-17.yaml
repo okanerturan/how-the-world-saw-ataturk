@@ -1,0 +1,42 @@
+# Turkish for data/voices/1924/nadolny-1924-06-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nadolny-1924-06-17
+voice: Rudolf Nadolny
+role: Almanya'nın Türkiye elçisi (büyükelçisi), güven mektubunu sunarken
+quote: >-
+  Alman halkı, bu son yıllarda Türk halkının kaderini canlı ve içten bir ilgiyle ve hayranlık duygusuyla takip
+  etmiştir.
+quote_kind: translated
+summary: >-
+  Mustafa Kemal'e, Alman halkının Türkiye'nin kaderini 'hayranlık duygusuyla' takip ettiğini ve kendisinin
+  yeni bir Almanya'dan yeni bir Türkiye'ye geldiğini söyledi.
+caveat: >-
+  Güven mektubu konuşması: diplomatik üslupta olduğundan, ifadeler hayranlık içerse de araçsal olarak
+  kaydedilmiştir. 'Rudolf' Nadolny bulunduğu görevden tespit edilmiştir (bir resim altı yazısında sehven
+  'Gustav' basılmıştır). Ajans mahreç tarihleri farklılık gösterir: Vorwärts 17 Haziran, Kölnische Zeitung ve
+  Rheinische Volkswacht 18 Haziran.
+mediated_by: >-
+  WTB ajans metni, Vorwärts 19 Haziran 1924 s. 3, Kölnische Zeitung 19 Haziran 1924 s. 9, Rheinische
+  Volkswacht 20 Haziran 1924 s. 2'de basıldı
+verification_note: >-
+  Alıntı Koelnische Zeitung ve Rheinische Volkswacht'ta birebir aynıdır ('lebhafter und herzlicher Anteilnahme
+  und mit dem Gefuehl der Bewunderung'); Vorwaerts OCR metninde 'lebhaftester herzlicher' olarak geçer (OCR
+  hatası veya ajans varyantı), dolayısıyla kayıttaki her üçünün de aynı olduğu yönündeki not kısmen hatalıdır.
+  TARİH UYARISI: ajans haberleri Angora 17 Haziran (Vorwaerts, 'heute') ancak 18 Haziran (Koelnische Zeitung,
+  Rheinische Volkswacht) mahreçlidir; kayıttaki 1924-06-17 tarihi yalnızca Vorwaerts'ı esas almaktadır.
+  Konuşma kendisinden 'Gesandte (Botschafter)' olarak söz eder; metinde 'Rudolf' adı geçmez. Araçsal
+  kutupluluk makuldür.
+verification_method: >-
+  Deutsche Digitale Bibliothek gazete Solr (plainpagefulltext), tam sayfa OCR, doğrudan çekildi; her üçündeki
+  sayfa metni okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6e390931e858
+  role: 7fc5be8cf806
+  quote: 593c5d50b96b
+  summary: d9968dfd0bf6
+  caveat: 54384f36f3c0
+  mediated_by: 287fa3d53a50
+  verification_note: d7e7969d516d
+  verification_method: 329375fdd1db

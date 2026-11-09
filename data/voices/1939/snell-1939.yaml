@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: snell-1939
+voice: Lord Snell
+voice_type: person
+role: Labour peer
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1939-10-26"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Praised him as perhaps the greatest of Turkey's modern sons, who changed a whole people's point of view in
+  one generation.
+quote:
+  text: perhaps the greatest of her modern sons
+  language: en
+node: Hansard After Atatürk, 1938–1939
+sources:
+  - url: https://hansard.parliament.uk/Lords/1939-10-26/debates/c60e1b5e-c728-4feb-bb0f-314734960f6e/TheWarReplyToHerrVonRibbentrop
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Hansard API 26 Oct 1939, Lord Snell, Lords
+  method: fetch
+  note: "'perhaps the greatest of her modern sons' found verbatim."
+  checked_on: "2026-10-29"

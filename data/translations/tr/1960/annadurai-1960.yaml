@@ -1,0 +1,35 @@
+# Turkish for data/voices/1960/annadurai-1960.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: annadurai-1960
+voice: C. N. Annadurai
+role: Dravid hareketi lideri, sonradan Madras Eyaleti Başbakanı (1967-69)
+quote: >-
+  Menderes, bütün dünyanın öveceği şekilde hizmet etmiş olan Mustafa Kemal'in hazırlayıp teslim ettiği yeni
+  Türkiye'de dirilişi, rönesansı ve özgürlük duygusunu çiçek açtıracak güce de sahip olan biriydi.
+quote_kind: translated
+summary: >-
+  Menderes'in düşüşü üzerine yazarken Mustafa Kemal'i 'dünyanın övdüğü' kişi ve rönesans ile özgürlük dolu
+  yeni bir Türkiye'nin yaratıcısı olarak anar.
+caveat: >-
+  'தம்பிக்கு அண்ணாவின் கடிதங்கள்' c. 4 içinde 105. Mektup ('பெரிய புள்ளிகள்') (Tamil Arasi Pathippagam, 2003
+  baskısı, ta.wikisource'ta aktarıldığı şekliyle). Sayfada tarih verilmemiştir: mektup ordunun Menderes'i ele
+  geçirmesini (27 Mayıs 1960 Türk darbesi) ele aldığından 1960 ortalarına tarihlenir (bir çıkarım). Menderes
+  hakkındaki bir denemenin içinde geçen kısa bir övgüdür; 106. mektup (sayfa /003) Menderes'in yükselişini
+  'Kamal Paşa' yönetiminde bir 'kutsal savaş' olarak adlandırır. Çeviri arşive aittir. Tarama incelenmedi.
+verification_note: >-
+  Tamilce metin birebir aynı; çeviri sadık. Sayfada tarih yok; mektup Nehru'nun 'iki hafta önce' Ankara'yı
+  ziyaret ettiğini söylüyor ve ordunun Menderes'i ele geçirmesini (27 Mayıs 1960) anlatıyor; dolayısıyla 1960
+  ortası, ay doğrulanmadı; 1960 yılı uygun. Bakış zayıf ama geçerli: Menderes hakkındaki bir denemede tek yan
+  tümcelik değerlendirici bir sıfat ('dünyanın övdüğü'); yoğunluk için üst sınır 1. Deneme ayrıca Menderes'in
+  ağzından 'Kamal'in yolu'na başvuran hayali bir konuşmaya yer verir, alıntılanmadı.
+verification_method: işlenmiş sayfa çekildi, dizge eşleştirmesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2eb902aebec3
+  role: 571cd54b7a28
+  quote: 64c9a19982ef
+  summary: 4ce9cd4b8425
+  caveat: "648e82079031"
+  verification_note: 7c8ba00910e1
+  verification_method: 72f7fa42fcd7

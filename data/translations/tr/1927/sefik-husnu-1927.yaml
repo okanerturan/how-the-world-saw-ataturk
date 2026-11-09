@@ -1,0 +1,27 @@
+# Turkish for data/voices/1927/sefik-husnu-1927.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sefik-husnu-1927
+voice: Şefik Hüsnü ('Bekar Ferdi')
+role: Türkiye Komünist Partisi kurucusu
+quote: kapitalist yol
+quote_kind: translated
+summary: >-
+  Kemalistlerin zorlayıcı önlemlerle milli burjuvaziyi iktidara getirdiğini ve kapitalist bir yol
+  doğrultusunda Batı'ya güvendiğini söyledi; baskının işçileri radikalleştireceğini umdu.
+caveat: Ter-Matevosyan'a göre 'Bekar Ferdi' takma adı; blog alıntıları aracılığıyla aktarılmıştır.
+mediated_by: Ter-Matevosyan, blog alıntıları üzerinden <- Komintern basını 1927
+verification_note: >-
+  'capitalist path' tırnak içinde geçiyor; blog Ter-Matevosyan'ı aktarıyor, Bekar Ferdi takma adı belirtildiği
+  gibi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6bb7162cf44e
+  role: 9a57682a7034
+  quote: 79408ac0b1b9
+  summary: 394e32721a87
+  caveat: ad079db44f0b
+  mediated_by: 4fbb0590d7c4
+  verification_note: 60463d5362bf
+  verification_method: ad8cee67138e

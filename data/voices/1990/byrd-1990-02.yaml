@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: byrd-1990-02
+voice: Robert C. Byrd
+voice_type: person
+role: U.S. Senator from West Virginia (Democrat)
+country: United States
+country_now: United States
+domain: politics
+date: "1990-02-21"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  In a long speech against the Armenian resolution, praises Atatürk: a secular Western-oriented republic with
+  no model in 1923, 'but succeed it did'.
+quote:
+  text: >-
+    It did not come about simply by coincidence. When Ataturk founded the Turkish Republic in 1923, there was
+    no single example in the world to suggest that the adventure on which she was launched might succeed, but
+    succeed it did.
+  language: en
+caveat: >-
+  Sensitive thread: he is speaking against the Armenian commemorative resolution (Dole's S.J. Res. 212) and
+  uses Atatürk to argue Turkey's value to the West; this record states his view of Atatürk only. A second,
+  earlier statement than his 2007 one already in the dataset. Page from running head (OCR). Cited as Senate,
+  21 February 1990 (S.J. Res. 212 debate), Congressional Record vol. 136 (bound), pp. ~2156-2160 (granule
+  CRECB-1990-pt2-4-2).
+node: Senate and House on Atatürk, 1957–1990 — Powell, Sikes, Mathias and Byrd
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1990-pt2/pdf/GPO-CRECB-1990-pt2-4-2.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    govinfo bound CR PDF (fresh download, pdftotext -layout) GPO-CRECB-1990-pt2-4-2, Senate 21 Feb 1990, p.
+    2158 (speech pp. 2156-2160)
+  method: >-
+    fresh PDF download, pdftotext, read headers and columns; unbroken Byrd speech (no other speaker header
+    between)
+  note: >-
+    Quote verbatim, Byrd's own words in a long speech; he continues on Atatürk (reforms, 'piercing analysis',
+    rejection of a League mandate). Admiring, intensity 2, mirror fair; record states his view of Atatürk
+    only. A distinct statement from byrd-2007-10. Schema OK.
+  checked_on: "2026-11-04"

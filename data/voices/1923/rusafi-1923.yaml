@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rusafi-1923
+voice: Ma'ruf al-Rusafi
+voice_type: person
+role: Iraqi poet, teacher and MP
+country: Iraq (British mandate)
+country_now: Iraq
+domain: letters
+date: "1923"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: poem
+evidence: S
+summary: >-
+  Addresses Kemal as 'hero of the Greater East' whose victory over the Greeks threw the West into confusion
+  and lit a new Eastern sun.
+quote:
+  text: نصرت على بني يونان نصرا أقام الغرب في هرج ومرج
+  language: ar
+caveat: >-
+  TRANSLATION (this record's): 'You defeated the sons of Yunan with a victory that left the West in tumult and
+  confusion.' Ode 'Ila batal al-sharq al-akbar' ('To the hero of the greater East', 'Büyük Doğu'nun
+  Kahramanına'), whose opening verse puns on 'Mustafa' and 'Kemal'; printed in Diwan al-Rusafi (4th ed.,
+  Cairo: I'timad, 1953), p. 440, which in Mustafa Saka's edition carries the heading 'said after Gazi Mustafa
+  Kemal's victory over the Greeks in 1923' (Al-Chalaby, n. 10). Al-Chalaby judges 1923 a possible misprint for
+  1922 (or the poem postdates Lausanne or the Republic). Arabic text as printed in Al-Chalaby 2019, RumeliDE
+  Dil ve Edebiyat Araştırmaları Dergisi, Ö5, pp. 176-186, and in the compilation 'Dünya Şairlerinden Atatürk
+  Şiirleri' (no. 46). The ode also calls Kemal a Jesus-like healer of the nation and says he saved the girls
+  of Izmir from 'the hands of every lout'; Al-Chalaby adds that 'many Arab poets ignored' the victories. Not
+  to be confused with Rusafi's Turkish-language work; the poem is in classical Arabic.
+node: Poets, Reformers and the Black Press on Atatürk, 1921–1935
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/786363
+    archived: https://web.archive.org/web/20200313052842/https://dergipark.org.tr/en/download/article-file/786363
+  - url: https://dunyadaataturk.com/dunya-sairlerinden-ataturk-siirleri
+    archived: https://web.archive.org/web/20260215142326/https://www.dunyadaataturk.com/dunya-sairlerinden-ataturk-siirleri/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    DergiPark article-file 786363 (al-Chalaby, RumeliDE 2019.Ö5, pp.176-186): Arabic and Turkish text of the
+    ode; Saka, Divan er-Rusafi, 4th ed. Cairo 1953, via the article's n.10
+  method: fresh DergiPark PDF download (banked round17 file not used); the Diwan itself not seen
+  note: >-
+    Arabic hemistichs 'نصرت على بني يونان نصرا / أقام الغرب في هرج ومرج' are consecutive halves of one verse,
+    printed as such; the article's n.10 cites 'Mustafa Saka, a.g.e. s.440' for the poem; the heading note
+    'said in 1923 after Gazi Mustafa Kemal's victory over the Greeks' is quoted with al-Chalaby's doubt (1922
+    or post-Lausanne). Jesus-healer and Izmir-girls lines present. Admiring/2 fair. The Diwan page is verified
+    only through al-Chalaby's note.
+  checked_on: "2026-11-03"

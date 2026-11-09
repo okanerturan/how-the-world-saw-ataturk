@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: magyarsag-1921
+voice: Magyarság
+voice_type: press
+role: Budapest daily, founded Dec 1920
+country: Hungary
+country_now: Hungary
+domain: press
+date: "1921"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  Sent its own correspondents, disbelieved hostile news, showed great sympathy for Kemal Pasha; said Turkey
+  resisted treaties because a Kemal Pasha stood at its head.
+mediated_by: Rásonyi, Belleten XLV, pp. 79–86 (Turkish renderings of the Hungarian)
+caveat: Exact issue date not given in the source.
+node: Magyarság Reads the Victory, 1920–1923
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/2523850
+    archived: https://web.archive.org/web/20261028234431/https://dergipark.org.tr/en/download/article-file/2523850
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://dergipark.org.tr/en/download/article-file/2523850 (Rasonyi, Belleten XLV, pp.80-81)
+  method: fetch
+  checked_on: "2026-10-29"

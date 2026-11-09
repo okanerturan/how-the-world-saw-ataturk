@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: emil-ludwig-1930-03-09
+voice: Emil Ludwig
+voice_type: person
+role: German biographer, interviewer of the era's dictators
+country: Germany
+country_now: Germany
+domain: press
+date: "1930-03-09"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  A cold rationalist beside whom Napoleon seems half a dreamer; sincerely wants to be a democrat, 'and yet he
+  is a dictator'.
+quote:
+  text: >-
+    Ein Mann, neben dem Napoleon als halber Träumer erscheint, national, mißtrauisch gegen alle anderen
+    Völker, besessen von einer einzigen Idee, zugleich ihr Diener und ihr Herr, verachtet der Gasi alle
+    Motive, die sich in Zahlen nicht ausdrücken lassen
+  language: de
+caveat: >-
+  [translation] 'A man beside whom Napoleon appears half a dreamer, national, mistrustful of all other
+  peoples, possessed by a single idea, at once its servant and its master, the Ghazi despises every motive
+  that cannot be expressed in numbers.' 'Besuch bei Mustafa Kemal', Neue Freie Presse (Vienna), 9 March 1930,
+  pp. 2 and 4 (read on the ANNO page image of p. 2, 4 Nov 2026, via a headed browser that passed ANNO's
+  automatic check). Same page, section 'Der Diktator als Vollstrecker des Volkswillens': 'Ja, Kemal hat zum
+  Demokraten das Streben und die Ueberzeugung, es zu sein. … Und doch ist er Diktator.' Also: 'der Gasi ist
+  der Mann ohne Phantasie, das stilisiert er, darauf ist er stolz' (via the 1991 reprint, Für die Weimarer
+  Republik und Europa, pp. 181–187). Contrast Ludwig's 1942 portrait of a 'blue, dreamy gaze' with 'a touch of
+  the poet'.
+node: Emil Ludwig
+sources:
+  - url: https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19300309&seite=2
+    archived: https://web.archive.org/web/20261109090041/https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19300309&seite=2
+  - url: https://archive.org/details/furdieweimarerre0000ludw
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Ludwig, Für die Weimarer Republik und Europa (Peter Lang 1991), pp. 181-187, archive.org
+    furdieweimarerre0000ludw (lending copy)
+  method: >-
+    archive.org full-text search snippets (fts page_production endpoint), queried 3 Nov 2026 by the main
+    agent; not an independent checker
+  note: >-
+    Quote verbatim in snippet ('der Gasi ist der Mann ohne Phantasie, das stilisiert er, darauf ist er
+    stolz'); contents line gives 'Besuch bei Mustafa Kemal — Die neue Türkei, Neue Freie Presse, 9. März
+    1930'. Snippet-only: surrounding context not read; NFP original not opened. UPGRADE 2026-11-04 (main
+    agent): the NFP original read on the ANNO page image (p. 2); quote replaced by the Napoleon sentence,
+    evidence P, polarity witness → conflicted.
+  checked_on: "2026-11-03"

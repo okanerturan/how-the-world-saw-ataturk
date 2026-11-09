@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: eisenhower-1959-12-06
+voice: Dwight D. Eisenhower
+voice_type: person
+role: President of the United States
+country: United States
+country_now: United States
+domain: diplomacy
+date: "1959-12-06"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  At the Ankara dinner, calls Atatürk's changes breathtaking in scope and swiftness, an inspiration and
+  guiding light for newly independent nations.
+quote:
+  text: >-
+    They are an inspiration and a guiding light to all newly independent nations, determined on progress,
+    prosperity, and peace.
+  language: en
+caveat: >-
+  Remarks at the dinner given by President Bayar, Ankara, 6 Dec 1959, American Presidency Project (Public
+  Papers 1959). 'They' refers to the revolutionary changes under 'the founder of Modern Turkey, Kemal
+  Ataturk'. Cold War state-visit setting.
+node: Postwar Leaders on Atatürk, 1938–1992
+sources:
+  - url: https://presidency.ucsb.edu/documents/remarks-the-president-dinner-given-his-honor-president-bayar
+    archived: https://web.archive.org/web/20251118225501/https://www.presidency.ucsb.edu/documents/remarks-the-president-dinner-given-his-honor-president-bayar
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: presidency.ucsb.edu/documents/remarks-the-president-dinner-given-his-honor-president-bayar
+  method: tools/ms free fetch for the text, one render for the date
+  note: >-
+    Verbatim: 'Under the outstanding and farsighted leadership of the founder of Modern Turkey, Kemal Ataturk,
+    you of this country have wrought revolutionary changes. In government, customs, and traditions these
+    changes were breathtaking in scope. They were remarkable for the swiftness of their achievement. They are
+    an inspiration and a guiding light to all newly independent nations, determined on progress, prosperity,
+    and peace.' Rendered page date: December 06, 1959. The record's reading of 'They' is correct. No
+    correction needed.
+  checked_on: "2026-11-01"

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: magyarsag-1922
+voice: Magyarság
+voice_type: press
+role: Budapest daily, founded Dec 1920
+country: Hungary
+country_now: Hungary
+domain: press
+date: "1922"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  Said Kemal drove the Greeks out; 'The Sick Man' and 'The Rising Crescent' leaders; asked if Hungary's own
+  Mustafa Kemal would emerge.
+quote:
+  text: >-
+    Where are the Sick Men of Central Europe? Will our own Mustafa Kemal come out of the beehive of time?
+  language: en
+mediated_by: Rásonyi, Belleten XLV, pp. 79–86 (Turkish renderings of the Hungarian)
+caveat: Hungarian self-projection is the note's reading ('evidently').
+node: Magyarság Reads the Victory, 1920–1923
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/2523850
+    archived: https://web.archive.org/web/20261028234431/https://dergipark.org.tr/en/download/article-file/2523850
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://dergipark.org.tr/en/download/article-file/2523850 (Rasonyi p.82-83, 6 Sept 1922 leader 'Hasta
+    Adam')
+  method: fetch
+  note: >-
+    Quote is Rasonyi's Turkish rendering translated into English; matches Turkish 'Orta Avrupa'nin Hasta
+    Adamlari? ... bizim Mustafa Kemalimiz cikacak mi?'
+  checked_on: "2026-10-29"

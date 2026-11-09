@@ -1,0 +1,36 @@
+# Turkish for data/voices/1990/byrd-1990-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: byrd-1990-02
+voice: Robert C. Byrd
+role: Batı Virginia ABD Senatörü (Demokrat)
+quote: >-
+  Bu yalnızca tesadüfen gerçekleşmedi. Atatürk 1923'te Türkiye Cumhuriyeti'ni kurduğunda, dünyada atıldığı bu
+  serüvenin başarıya ulaşabileceğine işaret eden tek bir örnek bile yoktu, ama başarıya ulaştı.
+quote_kind: translated
+summary: >-
+  Ermeni karar tasarısına karşı yaptığı uzun konuşmada Atatürk'ü över: 1923'te önünde hiçbir örnek bulunmayan
+  laik, Batı yönelimli bir cumhuriyet, 'ama başarıya ulaştı'.
+caveat: >-
+  Hassas bağlam: Ermeni anma karar tasarısına (Dole'un S.J. Res. 212 tasarısı) karşı konuşmakta ve Türkiye'nin
+  Batı için değerini savunmak amacıyla Atatürk'ü kullanmaktadır; bu kayıt yalnızca onun Atatürk hakkındaki
+  görüşünü aktarmaktadır. Veri kümesinde halihazırda yer alan 2007 tarihli beyanından daha eski, ikinci bir
+  beyandır. Sayfa numarası sayfa üstbilgisinden (OCR) alınmıştır. Künye: Senato, 21 Şubat 1990 (S.J. Res. 212
+  görüşmesi), Congressional Record c. 136 (ciltli), s. ~2156-2160 (granül CRECB-1990-pt2-4-2).
+verification_note: >-
+  Alıntı birebir aynı, uzun bir konuşmada Byrd'ün kendi sözleri; Atatürk hakkında konuşmaya devam ediyor
+  (reformlar, 'piercing analysis', Cemiyet mandasının reddi). Hayranlık bildiren, yoğunluk 2, yansıtma
+  yerinde; kayıt yalnızca onun Atatürk hakkındaki görüşünü aktarmaktadır. byrd-2007-10 kaydından ayrı bir
+  beyandır. Şema uygun.
+verification_method: >-
+  yeni PDF indirmesi, pdftotext, üstbilgi ve sütun okuması; kesintisiz Byrd konuşması (arada başka konuşmacı
+  başlığı yok)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1727af216fe2
+  role: 0dbf217cc6e3
+  quote: 09006a09c53e
+  summary: 19581e57839b
+  caveat: 87edd4a282dc
+  verification_note: 58e252344aaa
+  verification_method: 5ac2ce8102e1

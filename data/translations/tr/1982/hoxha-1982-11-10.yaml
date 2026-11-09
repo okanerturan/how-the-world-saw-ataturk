@@ -1,0 +1,42 @@
+# Turkish for data/voices/1982/hoxha-1982-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hoxha-1982-11-10
+voice: Enver Hoxha
+role: AEP Birinci Sekreteri; Tiran seçmenlerine hitap
+quote: >-
+  Seçkin bir demokrat olarak Osmanlı İmparatorluğu'nu ve hilafeti yıkan ve yeni demokratik Türkiye'yi kuran
+  Türk halkının büyük önderi Mustafa Kemal Atatürk'ü onurlandırıyor ve ona saygı duyuyoruz.
+quote_kind: translated
+summary: >-
+  Atatürk'ü Osmanlı İmparatorluğu'nu ve hilafeti yıkan seçkin bir demokrat olarak onurlandırır ve 'sözde
+  demokratlara' Gordion düğümünü kesmekte onun izinden gitmelerini söyler.
+caveat: >-
+  Selected Works, c. VI, 'Address to the electors', 10 Kasım 1982 tarihli (Tiran, 210 sayılı seçim bölgesinde
+  yapılmıştır), s. 618 (üst başlık '618 ENVER HOXHA'; OCR 'Atatirk' olarak basar). Bir sonraki cümle: 'Let all
+  the pseudo-democrats and pseudo-socialists who oppress the peoples ... follow the example of Kemal Ataturk
+  who cut the Gordian knot of the Ottoman Empire with his sword.' Arnavutluk'un komşularına ilişkin bir
+  değerlendirme turunun parçasıdır; bu övgü aynı zamanda Hoxha'nın çağdaşlarına yönelik bir taşlamadır.
+  Sayfanın 1982 tarihli konuşmaya atfedilmesi, konuşmanın s. 598'den s. 620 sonrasına kesintisiz devam
+  etmesine dayanmaktadır.
+verification_note: >-
+  s. 618 birebir aynı (üst başlık '618 ENVER HOXHA'): 'We honour and respect the great leader of the Turkish
+  people, Mustafa Kemal Atatirk [OCR], who, as an outstanding democrat, destroyed the Ottoman Empire and the
+  Caliphate and set up the new democratic Turkey.' Bir sonraki cümle uyarı notunda belirtildiği gibidir (sözde
+  demokratlar, Gordion düğümü). Konuşma başlığı 'Work and Vigilance to Make the People's State Power Ever
+  Stronger (Address to the electors)', 10 Kasım 1982 tarihli, dipnot 'Delivered in the electoral zone No. 210
+  of Tirana'; s. 598-629. s. 617'deki önceki cümle Arnavut-Türk dostluğu üzerinedir (Türklerle birlikte
+  yaşayan 'hundreds of thousands of Albanians'). Kutupluluk hayranlık belirten, yoğunluk 2 uygun; ölüm sonrası
+  dönem doğrudur.
+verification_method: >-
+  açık djvu metninin curl ile çekilmesi; sayfa numaralı üst başlık ve konuşmanın kendi başlık/tarih satırı
+  yerinde okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e81e77196f81
+  role: 2bc13c458027
+  quote: 7072515450c2
+  summary: f644e1bfd6bb
+  caveat: c78f4f854d22
+  verification_note: 038231f2a337
+  verification_method: c5ea865f4fac

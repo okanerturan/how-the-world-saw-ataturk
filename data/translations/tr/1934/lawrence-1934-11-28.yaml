@@ -1,0 +1,32 @@
+# Turkish for data/voices/1934/lawrence-1934-11-28.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lawrence-1934-11-28
+voice: T. E. Lawrence
+role: Britanyalı yazar ve eski subay ('Arabistanlı Lawrence')
+quote: Mustafa Kemal büyük bir vatanseverdi ve 1913'ten itibaren yabancı karşıtıydı.
+quote_kind: translated
+summary: >-
+  Liddell Hart'a Mustafa Kemal'in büyük bir vatansever ve 1913'ten itibaren yabancı karşıtı olduğunu,
+  milliyetçiliğinin Enver'in Alman yanlısı eğilimiyle mücadele etmek için kurulduğunu söyledi.
+caveat: >-
+  Tarihçi Edward Mead Earle'ün sorularını yanıtlayan, B. H. Liddell Hart'a yazılmış 544 numaralı mektup,
+  Bridlington, 28 Kasım 1934 (Garnett 1938, s. 831); kısa bir yanıtta yer alan iki cümle. Arşiv kartındaki
+  'one of the greatest leaders of the era' ifadesi bu mektupta yoktur.
+verification_note: >-
+  Her iki cümle de s. 831'de birebir yer alıyor ('Mustapha Kemal was a great patriot, and anti-foreign from
+  1913 onwards. His Nationalism was founded to combat the pro-German tendency of Enver.'). Liddell Hart'ın
+  dipnotu yalnızca haziran ayında mektup yazan Amerikalı bir tarihçi olarak 'Professor Earle' adını veriyor;
+  'Edward Mead Earle' sayfanın ötesinde yapılmış bir kimlik tespiti (muhtemelen doğru). Hayran (admiring)
+  nitelemesi yerinde. Ayna (mirror) olarak anti-colonial-liberator zorlama: 'anti-foreign' ifadesi
+  imparatorluğa karşı değil, Enver'in Alman yanlısı çizgisine karşı çerçevelenmiş; mirror için null önerilir.
+verification_method: archive.org açık OCR metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fe0dfdfa4e1d
+  role: 7c07d92bff0e
+  quote: 9d4765748eb5
+  summary: 24753f172c08
+  caveat: afffb8ab67d5
+  verification_note: 9cbf189e50f5
+  verification_method: 5564a28f2471

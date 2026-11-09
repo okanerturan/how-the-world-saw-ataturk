@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: de-gaulle-1968-10-27
+voice: Charles de Gaulle
+voice_type: person
+role: President of France, state visit to Turkey
+country: France
+country_now: France
+domain: politics
+date: "1968-10-27"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: quote
+evidence: S
+summary: >-
+  At Dolmabahçe, where Atatürk died, writes that he could die because the light shone, the flame burned and
+  the country was marching.
+quote:
+  text: >-
+    Atatürk pouvait mourir, puisque la lumière brillait, puisque la flamme brûlait, puisque le pays était en
+    marche
+  language: fr
+mediated_by: >-
+  Belleten 51/200 (Aug 1987), TTK conference text on the de Gaulle visit (French in brackets after the Turkish
+  rendering)
+caveat: >-
+  Second-hand: Belleten prints the book entry in French. The same article reports a remark on the flight out
+  of Ankara on 29 Oct, noted by Ambassador Roger Vaurs: 'Vous avez vu vous-même l'influence exercée par un
+  grand homme d'Etat sur son pays, même après sa mort' (not stored as a record: it is a recalled remark,
+  relayed twice). Original Discours et messages text of the 25-28 Oct toasts not found open this round.
+node: Western Statesmen and Churchmen on Atatürk in Their Own Words
+sources:
+  - url: https://belleten.gov.tr/tam-metin/1980/tur
+    archived: https://web.archive.org/web/20260218123219/https://belleten.gov.tr/tam-metin/1980/tur
+  - url: https://dergipark.org.tr/en/pub/ttkbelleten/article/977862
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Belleten 51/200 (Aug 1987), belleten.gov.tr/tam-metin/1980/tur
+  method: >-
+    tools/ms free fetch of the full text; located the entry and its place in the 27 Oct itinerary
+  note: >-
+    Verbatim in brackets: '(Ataturk pouvait mourir, puisque la lumiere brillait, puisque la flamme brulait,
+    puisque le pays etait en marche)' (record text carries the accents). Belleten places it on Sunday 27 Oct,
+    written in the special book at Dolmabahce Palace 'where Ataturk closed his eyes' before the Savarona
+    Bosphorus cruise. Date and place correct. Same limitation as the 25 Oct record: book entry seen only
+    through Belleten's print; no page numbers. The Vaurs flight-remark claim in the caveat was not tested (not
+    stored). No correction needed.
+  checked_on: "2026-11-01"

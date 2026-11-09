@@ -1,0 +1,53 @@
+# Turkish for data/voices/1926/pilnyak-1926.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pilnyak-1926
+voice: Boris Pilnyak
+role: Sovyet romancı ('Anahtarların ve Kilin Öyküsü', Ege-Levant gezi düzyazısı)
+quote: >-
+  tıpkı bin dokuz yüz yirmi bir yılında Mustafa Kemal Paşa'nın, İzmir'i ağır toplarla kuşatarak Yunanlara
+  yirmi dört saat içinde İzmir'den ayrılmalarını teklif etmesi gibi
+quote_kind: translated
+summary: >-
+  Kurmacada anlatıcının bir ara sözü, Mustafa Kemal Paşa'yı toplu katliamlar arasında sıralar: İzmir'i
+  kuşatmış, Yunanlara 24 saat süre vermiş, ardından şehri yakmıştır.
+caveat: >-
+  Bir deneme değil, kurmacada ('Повесть о ключах и глине') anlatıcının ara sözüdür; metinde 1921 olarak
+  tarihlenmiştir (İzmir yangını Eylül 1922'deydi, dolayısıyla tarih Pilnyak'ın hatasıdır). Cümle devamında
+  Kemal'in topçusunun liman açığındaki gemileri tahrip ettiğini, ardından 'iki yüz bine kadar Yunan'ı denize
+  dökerek şehri yerle bir edip yaktığını' söyler; bu rakamlar arşive değil, Pilnyak'a aittir. Hassas konu
+  (İzmir 1922): kanıtlanmış olgu olarak değil, anlatıcının çerçevelemesi olarak kaydedilmiştir. Aynı metnin
+  başka bir yerinde bir karakter (komünist Aleksandrov), 'Mustafa Kemal Paşa ve devriminin' 'İran'ın, Asya'nın
+  gecesine' bağlı olduğunu söyler; bu, net bir hüküm içermeyen bir karakter konuşmasıdır. Yazılış yılı
+  Wikisource üstverisinden (1926) alınmıştır; metin Pilnyak'ın 'Povest nepogashennoi luny' eserinin 1990
+  Pravda baskısından aktarılmıştır. Kontrol: düşmanlık açıkça ifade edilmemiş, (yeniçeri katliamı ve Çanakkale
+  ölüleriyle birlikte) 'точно так же' listesiyle ima edilmiştir; 24 saatlik teklif, rakam ve 1921 tarihi
+  Pilnyak'a aittir.
+verification_note: >-
+  Alıntı birebir aynı (cümlenin ortasında kesilmiş, üç noktaya gerek yok). Bağlam: cümle, Atina/Ayasofya'daki
+  Aleksandrov karakteri hakkındaki bir paragrafın içinde anlatıcının parantez içi ara sözüdür; 'точно так же'
+  diyerek üç toplu katliamı (yeniçerilerce öldürülen 40.000 Yunan, Çanakkale ölüleri, İzmir) sıralar,
+  dolayısıyla hasmane okuma Kemal hakkında dile getirilmiş herhangi bir yargıya değil, liste yapısına
+  dayanmaktadır. 'Yirmi dört saat' ve '200.000' ayrıntıları Pilnyak'a aittir (metin 'обложив тяжелой
+  артиллерией', 'до двухсот тысяч' der); 1921 tarihi onun hatasıdır. Aleksandrov'un daha sonraki cümlesi
+  ('Мустафа Кемаль-паша и его революция ... связаны с ночью Ирана, Азии') gerçektir. SORUNLAR: (1) çekince
+  notu 'Yazılış yılı Wikisource üstverisinden (1926) alınmıştır' diyor; ilgili alan ДАТАПУБЛИКАЦИИ (yayım)
+  alanıdır ve ДАТАСОЗДАНИЯ boştur. (2) uzun öykü (novella) için 'makale' eser türü yanlıştır; 'kitap'
+  kullanılmalıdır. (3) yazar-anlatıcı ayrımı: yalnızca ihtiyat kaydıyla korunduğu sürece uygundur. DÜZELTME:
+  çekince notunda 'Yazılış yılı ... alınmıştır' -> 'Yıl, Wikisource üstbilgisinde verilen yayım tarihidir
+  (ДАТАПУБЛИКАЦИИ 1926); yazılış tarihi verilmemiştir.'; eser türü -> 'kitap'; what_they_saw -> 'Kurmacada
+  anlatıcının bir ara sözü, Mustafa Kemal Paşa'yı toplu katliamlar arasında sıralar: İzmir'i kuşatmış,
+  Yunanlara 24 saat süre vermiş, ardından şehri yakmıştır.'; yoğunluk 1 korunsun, çekince notunda düşmanlığın
+  açıkça ifade edilmeyip listeyle ima edildiği belirtilsin.
+verification_method: >-
+  action=raw alındı, Rusça alıntının tam alt dize eşleşmesi yapıldı, parantez içi bölümün tamamı ve komşu
+  Aleksandrov konuşması okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0aafbfa75215
+  role: 36f14dc6aa2a
+  quote: e0160f67b7d9
+  summary: 5199126a40a3
+  caveat: d642b1e9ece1
+  verification_note: 4227051091f7
+  verification_method: e1a0655fcd33

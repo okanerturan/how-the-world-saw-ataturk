@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: knowland-1953-10
+voice: William F. Knowland
+voice_type: person
+role: U.S. Senator from California, Majority Leader (Republican)
+country: United States
+country_now: United States
+domain: politics
+date: "1953-10-30"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Judging Egypt's Naguib after an Asian tour, says he has 'some of the zeal that Kemal Ataturk had' in
+  modernising Turkey.
+quote:
+  text: >-
+    I think they have some of the zeal that Kemal Ataturk had when he tried to modernize and clean up the
+    situation in Turkey. … It is too early to tell whether these people have or will develop the same success
+    that Kemal Ataturk had in modernizing and bringing Turkey up to the very strong position she is in today
+  language: en
+caveat: >-
+  His own answers in a magazine interview which he had printed in the Record (the questions and editor's note
+  are not counted); Atatürk is a yardstick for Naguib, i.e. instrumental. OCR 'moderniz.e' repaired. Cited as
+  Interview in U.S. News & World Report of 30 October 1953, printed at his request in the Senate Appendix on 7
+  January 1954, Congressional Record vol. 100 (bound), granule CRECB-1954-pt15-1.
+node: >-
+  Congressional Record Closing Pass — King, Owen, Davis, Sirovich, Pepper, Knowland and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1954-pt15/pdf/GPO-CRECB-1954-pt15-1.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org sim_congressional-record-proceedings-and-debates_january-6-april-6-1954_100 (OCR text; govinfo
+    granule timed out) - Senate Appendix, 7 Jan 1954, p. A78
+  method: archive.org bound-volume OCR, read in context
+  note: >-
+    Verbatim; Knowland's own answers in the printed U.S. News and World Report interview (the questions are
+    separate). The answers state a judgement of the man's results ('the same success that Kemal Ataturk had in
+    modernizing and bringing Turkey up to the very strong position she is in today'), though the vehicle is a
+    comparison with Naguib. Instrumental 1 fair; marginal but keep.
+  checked_on: "2026-11-04"

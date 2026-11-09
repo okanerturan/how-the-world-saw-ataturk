@@ -1,0 +1,22 @@
+# Turkish for data/voices/1938/negrin-cabinet-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: negrin-cabinet-1938
+voice: Negrín Kabinesi
+role: İspanyol Cumhuriyetçi hükümeti
+summary: >-
+  İç savaşın ortasında, Haberleşme Bakanı Giner de los Ríos başkanlığında cenazeye bir heyet göndermeye karar
+  verdi; töreni bir devlet başkanı cenazesi olarak ele aldı.
+caveat: Belirtilmiş bir görüş yok; devlet başkanı yorumu nota aittir.
+mediated_by: >-
+  Tüylü Turan 2019 ← Diario de Burgos, El Diario Palentino, CNT, Solidaridad Obrera, La Vanguardia, Diario de
+  la Marina
+verification_method: getirme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 09e564403f39
+  role: 49732ab163b5
+  summary: da0a005daef0
+  caveat: e16e992a2941
+  mediated_by: 77ef8aedd4a0
+  verification_method: ad8cee67138e

@@ -1,0 +1,20 @@
+# Turkish for data/voices/1922/southland-times-1922b.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: southland-times-1922b
+voice: Southland Times
+role: Invercargill günlük gazetesi, başyazı
+quote: >-
+  devrimde Yunan vatanseverliğinin yeniden canlanışını okumuyorsa son derece kıt anlayışlıdır
+quote_kind: translated
+summary: >-
+  Kemal'in Trakya'yı talep ederek belaya davetiye çıkardığını, tarafsız bölgeye 'hoş bir umursamazlıkla'
+  yaklaştığını, yine de görüşme yeri olarak İzmir ile güçlü bir el oynadığını söyledi.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a333def6366d
+  role: 1929cb1fa710
+  quote: b0bb637f7b8b
+  summary: 713f54c2254a
+  verification_method: ad8cee67138e

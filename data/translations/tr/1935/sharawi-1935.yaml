@@ -1,0 +1,42 @@
+# Turkish for data/voices/1935/sharawi-1935.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sharawi-1935
+voice: Huda Sha'arawi
+role: Mısırlı feminist, Mısır Feminist Birliği başkanı
+quote: Ben ise diyorum ki bu yetmez; bilakis sen bizim için Ataşark'sın.
+quote_kind: translated
+summary: >-
+  İstanbul kadın kongresinde Atatürk'e 'Türklerin Babası'nın yeterli olmadığını, Doğu için onun 'Ataşark'
+  olduğunu söyler.
+caveat: >-
+  ÇEVİRİ (bu kayda ait): 'I say that this is not enough: for us you are Atasharq [Father of the East].' Arapça
+  metin, Muhammad Ahmad Isma'il al-Muqaddam'ın 'Awdat al-hijab adlı eserinin Huda Sha'arawi bölümünde
+  (archive.org 06.0_20210520_20210520_1158; OCR, 'anta' kelimesinde hemze eksik) onun anılarından
+  (Mudhakkirat) aktarıldığı şekliyledir; yazar onun anılarına ve 1980 tarihli bir Hawwa' makalesine atıf yapar
+  ve bu sözleri onu kınamak amacıyla alıntılar. Anı kitabının kendisinde görülmemiştir (Arapça Mudhakkirat
+  Huda Sha'rawi, Dar al-Hilal 1981, açık erişimde değildir). Sözün bağımsız doğrulaması: Libal, 'Staging
+  Turkish Women's Emancipation: Istanbul, 1935', JMEWS 4(1), 2008, dipnot 13 ('reportedly asserted ... Father
+  of the East (Atasark)'). Konuşmasını, 12. IAW kongresi delegeleri onuruna Atatürk'ün verdiği resepsiyonda
+  tercümansız olarak Türkçe yapmıştır. Kontrol: Arapça metin, hasmane bir eleştirmenin (al-Muqaddam) onun
+  anılarından birebir aktardığı şekliyledir; anı kitabının kendisi görülmemiştir.
+mediated_by: Muqaddam, 'Awdat al-hijab (İslamcı eleştiri), Sha'arawi'nin anılarından alıntıyla
+verification_note: >-
+  Arapça metin birebir bulundu (OCR'da hemzesi eksik 'أنت' ile): 'فأنا أقول إن هذا لا يكفي بل انت بالنسبة لنا
+  أتاشرق'; kendisi tarafından 12. IAW kongresi, İstanbul, 18 Nisan 1935 olarak tarihlendirilen sahneyle
+  birlikte, birinci tekil şahısla 'تقول (هدى) في مذكراتها:' = anılarında şöyle diyor, diye sunulan bir blok
+  içinde yer alıyor. Dolayısıyla sözler onun kendi sözleri olarak verilmiştir, ancak anılarına ve 18 Ekim 1980
+  tarihli Hawwa' dergisine (dipnot 218) atıf yapan hasmane bir eleştirmen aracılığıyla aktarılmaktadır; anı
+  kitabının kendisi görülmedi ve Libal açılamadı. Kaynak kanıt düzeyi J doğrudur; mediated_by doğrudur.
+  İhtiyatlı dilin korunması dışında kayıtta değişiklik gerekmiyor.
+verification_method: archive.org djvu indirmesi + Duke üzerinden erişim denemesi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 98434080f1eb
+  role: 80af3451dac4
+  quote: ca733574ced3
+  summary: 18b8c4078aa9
+  caveat: 1b85255f10fc
+  mediated_by: 1dfc53d8bf36
+  verification_note: 2e4cd05cfa24
+  verification_method: 24e9aa3e106c

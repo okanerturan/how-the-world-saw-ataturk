@@ -1,0 +1,30 @@
+# Turkish for data/voices/1920/zinoviev-baku-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: zinoviev-baku-1920
+voice: Grigory Zinoviev
+role: Komintern başkanı, Bakü Kongresi'ni açarken
+quote: >-
+  Kemal'in başında bulunduğu hareketin komünist bir hareket olmadığını bir an bile unutmuyoruz.
+quote_kind: translated
+summary: >-
+  Sovyet Rusya'nın Britanya'ya karşı Mustafa Kemal'i desteklediğini, ancak onun sultan ve halife politikasının
+  komünist olmadığını ve Doğulu delegelerin bunu taklit etmemesi gerektiğini söyledi.
+caveat: Stenografik tutanağın marxists.org'da yayımlanan İngilizce çevirisi.
+verification_note: >-
+  Alıntı birebir aynıdır. Bağlam uyumludur: Zinoviev, Sovyet hükümetinin Mustafa Kemal'i desteklediğini,
+  hareketinin komünist olmadığını söyler ve sultan/halife politikası için 'you ought not to do' der. 1 Eylül
+  1920 tarihi 'First Session / September 1' sayfa başlığından gelmektedir. İngilizce metin, stenografik
+  tutanağın MIA çevirisidir.
+verification_method: >-
+  Ücretsiz çekme; cümle ve konuşmacı etiketi tespit edildi (Zinoviev, 'Zinoviev:' başlığından kapanıştaki
+  Başkan değerlendirmelerine kadar konuşmaktadır)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 368e3efdfd66
+  role: 039904d5e8f5
+  quote: d79701074d87
+  summary: 2cd6ee95d50d
+  caveat: 128cbcf354a2
+  verification_note: 091fe2290ca6
+  verification_method: c0982a0b3da7

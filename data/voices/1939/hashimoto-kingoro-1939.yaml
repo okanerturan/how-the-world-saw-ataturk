@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hashimoto-kingoro-1939
+voice: Hashimoto Kingorō
+voice_type: person
+role: Army colonel, Sakura-kai founder, head of the Greater Japan Youth Party
+country: Japan
+country_now: Japan
+domain: military
+date: "1939"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Holds up Kemal as the model of swift, resolute decision: he made the Turks change dress, write horizontally
+  and drop polygamy in 46 hours.
+quote:
+  text: 例へば彼のケマルの如きはあの土耳古人の封建的の服裝を四十六時間にして叩き直し、文字を書くのも橫書に直させる、一夫多妻を一夫一妻にして了つた。
+  language: ja
+caveat: >-
+  Nihon no yuku michi — senchi kikan daiisshō (1939), a spoken text, printed p. 4, NDL image 4 (page image
+  read). Book dated 1939, hence posthumous era. In 1942 (Seinen ni uttau, p. 99, image 55) he counts 'the late
+  Kemal' with Hitler as having the three traits of a strong leader, a political organisation and the army.
+node: Japanese Writers and Activists on Kemal, 1922–1947 — NDL Digital Collections
+sources:
+  - url: https://dl.ndl.go.jp/pid/1097598
+  - url: https://dl.ndl.go.jp/pid/1044644
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    NDL pid 1097598 (Nihon no yuku michi, Fukyo Nihon Kyokai, printed 28 Jul 1939 (colophon p.18 image:
+    昭和十四年七月廿八日發行); NDL 1939), image 4
+  method: >-
+    downloaded IIIF page image and READ the Japanese on it; checked NDL item metadata for author/title/year
+  note: >-
+    Quote verbatim on printed p.4 (right page). Correction to what_they_saw: the page says 四十六時間 (46 hours),
+    not 'within hours'; suggest 'in 46 hours'. Speech is on the China Incident and Axis alliance, delivered
+    some time before the July 1939 printing; exact delivery date not given, so 1939 / posthumous is the
+    publication-based reading (a spoken text from early 1939 at the earliest is likely, not certain). Gaze:
+    Kemal as model of decisive 一刀兩斷 action; his own view, passes.
+  resolution: corrected/hedged 2026-11-05 — see LEDGER § Source-check corrections (round 29)
+  checked_on: "2026-11-05"

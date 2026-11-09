@@ -1,0 +1,39 @@
+# Turkish for data/voices/1935/tarabulsi-1935.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tarabulsi-1935
+voice: Amjad al-Tarabulsi
+role: Şamlı şair ve yazar ('Şam' imzasıyla)
+quote: >-
+  Eğer Arapları bir kenara atman çirkin idiyse ... kutsal dini bir kenara atman daha çirkindir
+quote_kind: translated
+summary: >-
+  Ayasofya üzerinden Atatürk'ü adıyla azarlar: Arapları bir kenara atmak çirkindi, dini bir kenara atmak daha
+  çirkindir ve Batı onu yutacaktır.
+caveat: >-
+  ÇEVİRİ (bu kayda ait): 'Eğer Arapları bir kenara atman çirkin idiyse, kutsal dini bir kenara atman daha
+  çirkindir.' Hafiz Ibrahim'den bir epigrafla ('Ayasofya, ayrılık vakti geldi') açılan uzun bir kaside olan
+  'Ayasufya' (Ayasofya) şiiri, al-Risala (Kahire) sayı 109, 5 Ağustos 1935'te yayımlanmıştır; metin sayının
+  Arapça Wikisource transkripsiyonundan alınmıştır; orada sayfa numarası verilmemiştir. Atatürk'e iki kez
+  adıyla hitap edilir ('Atatürk, buyruğun seni aldatmasın'; 'Atatürk, Batı'nın oğullarından gelecek bir
+  sıçrayıştan sakın') ve şiirin ikinci yarısı onu hedef alır; dolayısıyla vesile kilise-cami olsa da muhatap
+  odur. Şöyle kapanır: 'Batı'dan sakın ... onların barışı silahlı bir barıştır.' Yazar yalnızca 'Amjad
+  al-Tarabulsi, Şam' imzasıyla tanımlanmaktadır; doğum-ölüm tarihleri tespit edilememiştir.
+verification_note: >-
+  Beyit birebir aynıdır ('لئِنْ كان قُبحاً نَبْذكَ العُرْبَ جانباً ... فَنَبْذُك للدينِ المقَدَّسُ أقبح');
+  üstbilgide 05-08-1935 tarihi ve 'بقلم أمجد الطرابلسي' yazar satırı yer alır, Şam imzalıdır. Muhatap
+  GERÇEKTEN Atatürk'tür: 'أتاتُورْكُ لا يغررْك أنك حاكمٌ مطاع' ve 'أتاتُورْكُ حاذِرْ مِنْ بنِي الغَرْبِ
+  وَثْبةً' seslenişleri ve ikinci yarı boyunca ikinci tekil şahıs hitabı vardır; kapanıştaki 'kurt ve kuzu'
+  ile 'silahlı barış' dizeleri what_they_saw ile örtüşmektedir. Uyarı notundaki çeviri doğrudur. 5 Ağustos
+  1935 sayı tarihi, 15 Ocak 1933'ten itibaren haftalık numaralandırmayla da tutarlıdır. Wikisource'ta sayfa
+  numarası verilmemiştir (transkripsiyon, tarama görülmedi). Şema uygun.
+verification_method: Wikisource API aracılığıyla ham vikimetnin yeni çekimi; şiirin tamamı okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9c837bed0013
+  role: b052f69d92b5
+  quote: 83052dd40423
+  summary: 1404ca6e56fd
+  caveat: 3b24e2c0b09f
+  verification_note: 5db7d858043f
+  verification_method: c75c27c14c28

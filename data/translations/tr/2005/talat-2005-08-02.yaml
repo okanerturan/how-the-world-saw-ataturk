@@ -1,0 +1,33 @@
+# Turkish for data/voices/2005/talat-2005-08-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: talat-2005-08-02
+voice: Mehmet Ali Talat
+role: Kuzey Kıbrıs Türk Cumhuriyeti Cumhurbaşkanı
+quote: Açtığın yol insanca yaşama yoluydu. Bu ışıkla yürümeye devam ediyoruz.
+quote_kind: original-turkish
+summary: >-
+  Askeri, ekonomik ve aydınlanma zaferleri Kıbrıslı Türklerin yolunu aydınlattı; 'açtığın yol insanca yaşama
+  yoluydu'.
+caveat: >-
+  Türkçe el yazısı, 2 Ağustos 2005, 'Türkiye Cumhuriyetinin kurucusu, Büyük Atatürk' hitaplı; ayrıca: askeri,
+  ekonomik kalkınma ve aydınlanma başarıları 'Kıbrıslı Türklerin de ışığı olmuştur'; 'yurtta barış dünyada
+  barış'. Ülke Kıbrıs olarak kaydedilmiştir (KKTC, yalnızca Türkiye tarafından tanınmaktadır). Kaynak:
+  Anıtkabir Özel Defteri (basılı derleme, '1953'ten günümüze Anıtkabir'i ziyaret eden yerli ve yabancı heyet
+  başkanlarının Atatürk hakkındaki duygu ve düşünceleri'), ataturkarsivi.com adresindeki sayfa görüntüleri,
+  ana ajan tarafından görüntü üzerinden okundu (4 Kasım 2026).
+verification_note: >-
+  Birebir aynı: 'Açtığın yol insanca yaşama yoluydu. Bu ışıkla yürümeye devam ediyoruz.' 2 Ağustos 2005
+  tarihli; Mehmet Ali Talat, KKTC Cumhurbaşkanı imzalı; hitap 'Türkiye Cumhuriyetinin kurucusu, Büyük
+  Atatürk'. Çekince notundaki diğer iddiaların tamamı (askeri, ekonomik kalkınma ve aydınlanma başarıları ...
+  Kıbrıslı Türklerin de ışığı; yurtta barış dünyada barış) mevcut. Güçlü bakış, yoğunluk 2 uygun.
+verification_method: sayfa görüntüleri indirildi, el yazısı ve basılı Türkçe OKUNDU
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: "2935543e7319"
+  role: 3a24e1ce7f61
+  quote: a1b05d613d68
+  summary: ee88988aa9d4
+  caveat: 72e114765aa0
+  verification_note: c38189f6771e
+  verification_method: "304538629105"

@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: khrushchev-1959-10-31
+voice: Nikita Khrushchev
+voice_type: person
+role: Soviet Premier; report to the USSR Supreme Soviet, 31 Oct 1959
+country: Soviet Union
+country_now: Russia
+domain: politics
+date: "1959-10-31"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Reproaching Turkey over US bases, recalls friendlier days when its policy was shaped by 'such an outstanding
+  leader as Kemal Ataturk'.
+quote:
+  text: >-
+    We sincerely want our relations to be built in the spirit of friendliness and cooperation typical of the
+    fairly recent past when the policy of Turkey was shaped by such an outstanding leader as Kemal Ataturk,
+  language: en
+caveat: >-
+  'The international situation and Soviet foreign policy: report given at the third session of the U.S.S.R.
+  Supreme Soviet on October 31, 1959' (Crosscurrents Press, 1960), p. 17 (page number printed after the
+  passage), open scan TheInternationalSituationAndSovietForeignPolicyReportGivenAtThe (file ISSFP_djvu.txt).
+  Official English translation. Used as a reproach to the Menderes-era government, so instrumental. The
+  passage was taken from Khrushchev Speaks (index 'Ataturk, Mustafa Kemal, 402') too. Khrushchev Remembers was
+  searched: nothing.
+node: Statesmen on Atatürk in Their Own Words, Memoirs and Speeches
+sources:
+  - url: https://archive.org/details/TheInternationalSituationAndSovietForeignPolicyReportGivenAtThe
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Khrushchev, The International Situation and Soviet Foreign Policy (Crosscurrents Press 1960), archive.org
+    TheInternationalSituationAndSovietForeignPolicyReportGivenAtThe ISSFP_djvu.txt
+  method: curl of the open djvu text, read in context
+  note: >-
+    Verbatim: 'We sincerely want our relations to be built in the spirit of friendliness and cooperation
+    typical of the fairly recent past when the policy of Turkey was shaped by such an outstanding leader as
+    Kemal Ataturk,'. The page number '17' is printed immediately after the passage; the OCR does not show
+    whether numbers sit at head or foot, so cite 'p. 16-17'. Speech date 31 Oct 1959 confirmed. Instrumental/1
+    fair.
+  checked_on: "2026-11-03"

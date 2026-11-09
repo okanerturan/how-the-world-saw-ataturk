@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: prince-paul-yugoslavia-1938
+voice: Prince Paul of Yugoslavia
+voice_type: person
+role: Prince Regent of Yugoslavia (the TBMM index calls him 'King')
+country: Yugoslavia
+country_now: Serbia
+domain: politics
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: telegram
+evidence: P
+summary: >-
+  Called him the great leader and reformer of the Turkish nation; Turkey is Yugoslavia's dear and noble ally.
+quote:
+  text: le grand chef et réformateur de la nation turque
+  language: fr
+caveat: >-
+  TBMM vol. 2 (c2) PDF p. 10. Quote in French; translation: 'the great leader and reformer of the Turkish
+  nation'. Signed 'Paul'.
+node: Heads of State Write to the Assembly, November 1938
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/2467
+    archived: https://web.archive.org/web/20220929165304/https://acikerisim.tbmm.gov.tr/handle/11543/2467
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM Taziyetname 1938, c2.pdf p. 10 (right-hand telegram, Beograd)
+  method: >-
+    Own render of the PDF page (PDFKit PNG, read by eye); no OCR relied on; telegraph text is unaccented
+    capitals/lowercase typescript
+  note: >-
+    'le grand chef et reformateur de la nation turque'; signed 'paul'; also 'notre chere et noble alliee'
+    (ally supported). The left-hand telegram on the page (Barcelona, signed Azana) is a different item. Ankara
+    stamp reads 11.11.1938, so the day could be tightened to 1938-11-11 for receipt. Prince Regent status is
+    background knowledge, not on the sheet.
+  checked_on: "2026-11-01"

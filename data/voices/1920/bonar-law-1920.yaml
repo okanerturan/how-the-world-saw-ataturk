@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bonar-law-1920
+voice: Andrew Bonar Law
+voice_type: person
+role: Lord Privy Seal and Leader of the Commons
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-02-26"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Named Kemal as the kind of man who might defy Constantinople and let massacres happen, as an argument for
+  keeping the Turkish government in Constantinople.
+quote:
+  text: >-
+    someone like Mustapha Kemal may ignore altogether the instructions from Constantinople and massacres may
+    take place
+  language: en
+node: Parliament Meets Kemal, February–March 1920
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-02-26/debates/7dd9498b-3e40-4d22-a1d1-b06729365496/TurksAndConstantinople
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard API contribution a79029b5-046a-446e-bf61-fe2ce02675d3 (Mr Bonar Law, 1920-02-26, Turks And
+    Constantinople)
+  method: api
+  checked_on: "2026-10-29"

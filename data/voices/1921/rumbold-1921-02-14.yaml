@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: rumbold-1921-02-14
+voice: Horace Rumbold
+voice_type: person
+role: British High Commissioner at Constantinople
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1921-02-14"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: report
+evidence: P
+summary: >-
+  Forwarding missionary reports of the Hadjin massacre, judged that Kemal did not himself encourage massacres
+  of Christians but was powerless to stop extremists.
+quote:
+  text: >-
+    At the same time I am of opinion that Mustapha Kemal Pasha does not himself encourge or countenance the
+    massacre of Christians, but rather that he is powerless, even if desirous of doing so, to protect from
+    massacre the Christian population of the areas in which military operations are in progress
+  language: en
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk vol. III No. 58, p. 134 ← Rumbold to Curzon, despatch No. 173,
+  Constantinople, 14 Feb 1921
+caveat: >-
+  Sensitive thread (Hadjin, 1920): Rumbold's judgement of personal responsibility, recorded as his view only;
+  the massacre account itself comes from missionary sources he forwarded. 'encourge' is as printed. Rumbold
+  wrote that he had 'no reason to doubt' the missionary memorandum.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%233.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org ingiliz-belgelerinde-ataturk, djvu text of Şimşir vol. III, No. 58 (Rumbold to Curzon,
+    despatch No. 173, Constantinople, 14 Feb 1921), pp. 133–134
+  method: archive.org open djvu text read
+  note: >-
+    Quote verbatim on p. 134, 'encourge' as printed. The sentence continues: 'the unfortunate Christians in
+    the interior of Asia Minor are practically hostages in the hands of the extremists over whom the central
+    authority has little or no control'. On neutrality: the record keeps the massacre account attributed to
+    missionary sources and Rumbold's judgement as his own, which is right. For balance the caveat could add
+    that Rumbold wrote he had 'no reason to doubt' the memorandum's veracity, so the record does not read as
+    if he doubted it. Conflicted is acceptable.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31)
+  checked_on: "2026-11-05"

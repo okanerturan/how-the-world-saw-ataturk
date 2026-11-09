@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nelson-evening-mail-1923
+voice: Nelson Evening Mail
+voice_type: press
+role: Nelson daily, leader 'The Dictators of Europe'
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1923-03-06"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Listed Kemal with Mussolini and Lenin and Trotsky as despots, said he ruled the Turks through the army that
+  beat the Greeks.
+quote:
+  text: the army under Mustapha Kemal may at any moment control the political situation
+  language: en
+node: New Zealand Editors on Kemal, September 1922 – 1923
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/NEM19230306.2.24
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Papers Past NEM19230306.2.24
+  method: fetch
+  checked_on: "2026-10-29"

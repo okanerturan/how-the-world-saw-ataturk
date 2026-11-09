@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nerimanov-1920-08-19
+voice: Nariman Narimanov
+voice_type: person
+role: Chairman of the Revolutionary Committee of Soviet Azerbaijan
+country: Azerbaijan SSR
+country_now: Azerbaijan
+domain: politics
+date: "1920-08-19"
+era: contemporary
+polarity: instrumental
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: letter
+evidence: P+S
+summary: >-
+  Sent Kemal a letter, read in the Grand National Assembly, pledging Muslim communists' full strength to his
+  aims against British-led European imperialism.
+quote:
+  text: Müslüman komünistleri sizin maksadınıza çatmak yolunda var kuvvetlerini sarf edeceklerdir.
+  language: tr
+mediated_by: >-
+  Atatürk'ün Bütün Eserleri vol. 9 (Kaynak 2002) p. 219 ← TBMM Zabıt Ceridesi, Devre 1, vol. 3 (19 Aug 1920
+  sitting) p. 29
+caveat: >-
+  Translation: 'The Muslim communists will spend all their strength on the road to reaching your goal.'
+  Azeri-Turkish wording; OCR 'makstdunuza çatmak!' normalised to 'maksadınıza çatmak'. Carried by Halil Pasha;
+  Kemal read it out and the Assembly voted a reply. Alliance language serving the Soviet line.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/butuneserler/Atat%C3%BCrk%27%C3%BCn%20B%C3%BCt%C3%BCn%20Eserleri%20-%20Cilt%2009%20%281920%29%20-%20Kaynak%20Yay%C4%B1nlar%C4%B1%2C%202002%20%281.%20Bas%C4%B1m%29%2C%20432%20sf.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org butuneserler, djvu text of ABE vol. 9, p. 219 (TBMM sitting of 19 Aug 1920; ← TBMM Zabıt
+    Ceridesi Devre 1 vol. 3 p. 29)
+  method: archive.org open djvu text read
+  note: >-
+    Quote faithful. The OCR reads 'makstdunuza çatmak!'; the '!' is a footnote marker and the normalisation is
+    honest. The letter was carried by 'Yoldaş Halil Paşa' and read out at Kemal's request ('okunacak'). Kemal
+    proposed a reply and a congratulation, and the Assembly approved unanimously. The text names 'İngiltere ve
+    onun kuvvetiyle yaşayış eden Avrupa emperyalisti', which supports what_they_saw. The ABE contents page
+    calls it a 'telgraf' and the text calls it a 'mektup'; 'letter' is right. Nerimanov is a head of
+    government with a stated view, so it passes.
+  checked_on: "2026-11-05"

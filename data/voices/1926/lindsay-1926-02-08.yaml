@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lindsay-1926-02-08
+voice: Ronald Lindsay
+voice_type: person
+role: British Ambassador to Turkey (later Ambassador in Washington)
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1926-02-08"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: report
+evidence: P
+summary: >-
+  Complained of a a campaign against foreigners against foreign firms and schools, a 'Chinese wall' policy
+  pursued with Kemal's characteristic remorseless pertinacity and popular support.
+quote:
+  text: >-
+    This policy is being pursued with the remorseless pertinacity characteristic of Mustafa Kemal and it
+    receives the cordial support of the whole population.
+  language: en
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk vol. VI No. 4 ← Lindsay to Austen Chamberlain, despatch No. 59,
+  Constantinople, 8 Feb 1926
+caveat: >-
+  Quote normalised from poor OCR ('purnued', 'remorseles pertinaciy', 'charactertic'). In despatch No. 258 of
+  31 Mar 1925 (Şimşir V) he wrote that the Sheikh Said revolt was probably being used to crush opposition to
+  'the radical autocracy of Mustafa Kemal'.
+node: Statesmen and Royals in Contact with Kemal, 1919–1938
+sources:
+  - url: https://archive.org/details/ingiliz-belgelerinde-ataturk/%C4%B0ngiliz%20Belgelerinde%20Atat%C3%BCrk%236.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org ingiliz-belgelerinde-ataturk, djvu text of Şimşir vol. VI, No. 4 (Lindsay to Austen
+    Chamberlain, No. 59, Constantinople, 8 Feb 1926, para. 14); archive.org ingiliz-belgelerinde-ataturk, djvu
+    text of Şimşir vol. V (Lindsay to Chamberlain, No. 258, 31 Mar 1925, para. 6)
+  method: archive.org open djvu text read
+  note: >-
+    OCR: 'This policy s being purnued with the remorseles pertinaciy charactertic of Mustafa Kemal and it
+    receives the cordial support ofthe whole population.' The normalised quote is a faithful, unambiguous
+    restoration and the cleaning is honest ('s' → 'is' and 'ofthe' → 'of the' were also silently fixed).
+    'Chinese wall of exclusiveness', foreign firms, the British High School for Girls and 'a deliberate
+    campaign to make the life of the foreigner here an intolerable burden' all support what_they_saw. The word
+    'xenophobic' is not in the despatch; 'a campaign against foreigners' would be closer. CORRECTION: 'radical
+    autocracy of Mustafa Kemal' is in despatch No. 258 of 31 March 1925 (Şimşir V), not 'No. 226 of 24 Mar
+    1925' (No. 225 of 24 March is a different despatch). Hostile is fair.
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31)
+  checked_on: "2026-11-05"

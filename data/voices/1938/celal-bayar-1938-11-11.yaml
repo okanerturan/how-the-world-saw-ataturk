@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: celal-bayar-1938-11-11
+voice: Celâl Bayar
+voice_type: person
+role: Prime Minister, Izmir deputy
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1938-11-11"
+era: funeral
+polarity: admiring
+intensity: 1
+mirror: internal-mirror
+artifact: report
+evidence: P
+summary: >-
+  In his written notice to the Assembly, reported the President's death at 9:05 on 10 November 'with
+  irreparable pain and grief'.
+quote:
+  text: terki hayat ettiklerini onulmaz acı ve teessürlerle arzederim.
+  language: tr
+caveat: Printed p. 16. The tezkere is signed 'Başvekil C. Bayar', dated 11-XI-1938.
+node: The Assembly Meets Without Atatürk, 11 November 1938
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c027/tbmm05027003.pdf
+    archived: https://web.archive.org/web/20240703204606/https://www.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c027/tbmm05027003.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM d05/c027/tbmm05027003.pdf, 11-11-1938 first sitting; index lists Basvekalet tezkeresi p.16
+  method: pdftotext; exact; signed Basvekil C. Bayar, 11-XI-1938, 9:05 on 10 Teşrin
+  note: Printed page number inferred from the index (16).
+  checked_on: "2026-10-30"

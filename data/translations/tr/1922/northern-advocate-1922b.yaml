@@ -1,0 +1,21 @@
+# Turkish for data/voices/1922/northern-advocate-1922b.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: northern-advocate-1922b
+voice: Northern Advocate
+role: Whangarei günlük gazetesi, 'The Turkish Side' başlıklı başyazı
+quote: Kemal güçlü bir adamdır
+quote_kind: translated
+summary: >-
+  Kemal'i barışın hikmetini görmesi muhtemel güçlü bir adam olarak değerlendirdi, ancak Meclisi'ne askeri
+  maceraperestlerden pek de iyi olmayan kişilerin hâkim olduğunu söyledi.
+caveat: Mevcut Çanakkale notundaki 18 Eylül 1922 tarihli Northern Advocate kaydından ayrıdır.
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ed1541b503d8
+  role: 8d735a1755bb
+  quote: 93ac4512c178
+  summary: 5fd63d423021
+  caveat: fd600c65ecf4
+  verification_method: ad8cee67138e

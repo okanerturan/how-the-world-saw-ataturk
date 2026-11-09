@@ -1,0 +1,38 @@
+# Turkish for data/voices/1956/iskender-mirza-1956.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: iskender-mirza-1956
+voice: İskender Mirza
+role: Pakistan Cumhurbaşkanı
+quote: >-
+  Atatürk tarihin daima şükranla yâd etmekle şeref kazanacağı ve milletinin mukadderatını tâyindeki hissesi
+  ebediyen yaşayacak olan dünya kahramanları sınıfına dâhildir.
+quote_kind: original-turkish
+summary: >-
+  Atatürk'ü dünya kahramanları arasında sayar; alt kıta Müslümanlarının da onu bir kahraman olarak gördüğünü
+  ve yaptıklarını şarkılarla anlattığını söyler.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 14 (basılı s. 3). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe basılmıştır. Çeviri: "Atatürk, tarihin şükranla onurlandıracağı ve milletinin kaderini tayin
+  etmedeki payı sonsuza dek yaşayacak olan dünya kahramanları sınıfına aittir." Aynı konuşma onu Cinnah ile
+  birlikte anar (PDF s. 15). Başlık: 'Pakistan Reisicumhuru İskender Mirza', Doksanıncı İnikat, 16 Temmuz
+  1956.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşmaktadır ('Pakistan Reisicumhuru İskender
+  Mirza, Doksanıncı İnikat, 16 Temmuz 1956'). Başlık ve alıntı aynı sayfadadır. Konuşma Türkçe basılmıştır;
+  konuşmanın yapıldığı dil kitapta belirtilmemiştir (orijinali aranmadı).
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracıyla PNG'ye dönüştürülerek (check_png/c14.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı, görsel üzerinde ve kendi bağımsız metin katmanı çıkarımıyla
+  kelime kelime karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d2b1cf0d8134
+  role: bc3d836c0647
+  quote: 125e9bd4be84
+  summary: ffca1ad88d98
+  caveat: cfed9637a547
+  mediated_by: 8e2cc528453b
+  verification_note: 8802eb1ef339
+  verification_method: 3b79f36903bd

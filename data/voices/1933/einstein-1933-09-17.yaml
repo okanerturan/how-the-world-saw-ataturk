@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: einstein-1933-09-17
+voice: Albert Einstein
+voice_type: person
+role: Physicist; honorary president of the OSE (Union for the Protection of the Health of Jews)
+country: Germany (in exile)
+country_now: Germany
+domain: science
+date: "1933-09-17"
+era: contemporary
+polarity: witness
+intensity: 2
+artifact: letter
+evidence: P+S
+summary: >-
+  Wrote to Prime Minister İnönü, not Atatürk, asking that forty scholars barred in Germany work in Turkey
+  unpaid for a year; the ministry refused.
+quote:
+  text: >-
+    These scientists are willing to work for a year without any remuneration in any of your institutions
+    according to the orders of your Government.
+  language: en
+mediated_by: >-
+  İnönü Foundation transcription ← Prime Ministry archive original; Reisman (HNN) for the ministry annotations
+caveat: >-
+  Counted under the first-hand contact rule for major figures (Okan, 5 Nov 2026). The letter (17 Sept 1933, as
+  honorary president of the OSE) is addressed to Prime Minister İsmet İnönü, not to Atatürk, and names neither
+  him nor his reforms. İnönü sent it to the Education Ministry on 9 Oct 1933; marginal notes rejected it
+  ('incompatible…', 'impossible to accept…') — Reisman attributes them to minister Reşit Galip (Galip may
+  already have left office in Aug 1933). Neither Einstein archive (Princeton, Hebrew University) had seen the
+  letter; one archivist suggested he signed an OSE-drafted text. Turkey did take in many German émigré
+  scholars in 1933 through other channels.
+node: Writers, Scientists and Artists in Contact with Kemal, 1919–1938
+sources:
+  - url: https://ismetinonu.org.tr/en/today-in-history-17-september
+    archived: https://web.archive.org/web/20251209113318/https://www.ismetinonu.org.tr/en/today-in-history-17-september/
+  - url: https://www.hnn.us/article/what-a-freshly-discovered-einstein-letter-says-abo
+    archived: https://web.archive.org/web/20260216232933/https://www.hnn.us/article/what-a-freshly-discovered-einstein-letter-says-abo
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://ismetinonu.org.tr/en/today-in-history-17-september (letter text);
+    https://www.hnn.us/article/what-a-freshly-discovered-einstein-letter-says-abo (Reisman: 9 Oct 1933
+    transfer note, ministry annotations, archive provenance)
+  method: curl
+  note: >-
+    Quote verbatim in the İnönü Foundation text (addressed 'Your Excellency'; the site says it was sent to PM
+    İsmet İnönü via the dentist Sami Günzberg). Reisman: İnönü passed it to the Education Ministry on 9 Oct
+    1933, and the marginal notes read 'this proposal is incompatible with clauses [in the existing laws]' and
+    'impossible to accept it due to prevailing conditions'. Corrections as the main agent asked: (1)
+    what_they_saw must say it went to İnönü, not Atatürk, and was rejected; (2) the letter does not say
+    'German-Jewish', only scholars who 'cannot practice further in Germany on account of the laws'; (3) the
+    caveat omits Reisman's point that neither the Princeton nor the Hebrew University Einstein archivist had
+    seen the letter, and one suggested Einstein signed an OSE-drafted text or presigned stationery. Lead (tier
+    M, not used): Reşit Galip is usually said to have left the Education Ministry in Aug 1933, so the
+    attribution of the notes to him is Reisman's and should read so. witness/letter is right under the contact
+    rule (to Kemal's government, not to Kemal).
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 31b)
+  checked_on: "2026-11-05"

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kommunist-1920
+voice: Kommunist (Baku)
+voice_type: press
+role: Baku party daily
+country: Soviet Azerbaijan
+country_now: Azerbaijan
+domain: press
+date: "1920"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: article
+evidence: S
+summary: >-
+  Ran articles framing Azerbaijani liberation alongside Turkey's struggle for independence, presenting Mustafa
+  Kemal and the Ankara government positively.
+mediated_by: Heşimova 2024
+node: Azerbaijani Poetry of Atatürk
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/3737657
+    archived: https://web.archive.org/web/20250625234243/https://dergipark.org.tr/en/download/article-file/3737657
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://dergipark.org.tr/en/download/article-file/3737657 (Hesimova 2024), Kommunist article list
+  method: fetch
+  checked_on: "2026-10-29"

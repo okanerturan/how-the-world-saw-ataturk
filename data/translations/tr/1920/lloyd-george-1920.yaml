@@ -1,0 +1,32 @@
+# Turkish for data/voices/1920/lloyd-george-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lloyd-george-1920
+voice: David Lloyd George
+role: Başbakan (22 Aralık 1920 tarihli Avam Kamarası konuşması, 1922'de aktarıldığı şekliyle)
+quote: asi bir general olan Mustafa Kemal
+quote_kind: translated
+summary: >-
+  Kemal'i asi bir general diyerek küçümsedi ve Yunanların isteğine aykırı olarak İzmir'i ona verip iyi
+  niyetini satın almayı reddetti.
+caveat: >-
+  İkinci elden: T. P. O'Connor, Lloyd George'un 22 Aralık 1920 tarihli Hansard metnini (sütun 1895-97) 1922
+  görüşmesinde okur; 1920 metninin kendisi çekilmedi; ifadeler yalnızca T. P. O'Connor'ın 8 Şubat 1922
+  görüşmesinde okuduğu şekliyle biliniyor; 22 Aralık 1920 tarihli özgün metne ulaşılamadı.
+mediated_by: >-
+  T. P. O'Connor'ın Hansard 22 Aralık 1920, c. 136 sütun 1895-97'yi 8 Şubat 1922 tarihli Avam Kamarası
+  görüşmesinde okuyarak kayda geçirmesi
+verification_note: >-
+  İşaretlendiği üzere ikinci elden: ifadeler yalnızca O'Connor'ın okuması üzerinden doğrulandı; 22 Aralık 1920
+  tarihli özgün metin API aramasından elde edilemiyor.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 06742055fab6
+  role: 9014a6358b0b
+  quote: 2848ae9bee78
+  summary: 5dc5add9c19e
+  caveat: afeb54e0c8ab
+  mediated_by: d9e10b0b81ea
+  verification_note: 08c2248b4c9c
+  verification_method: a033a528b603

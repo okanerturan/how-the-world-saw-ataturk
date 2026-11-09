@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: iqbal-1936
+voice: Muhammad Iqbal
+voice_type: person
+role: Poet-philosopher of Indian Islam
+country: British India
+country_now: Pakistan/India
+domain: letters
+date: "1936"
+era: contemporary
+polarity: conflicted
+intensity: 3
+artifact: article
+evidence: S
+summary: >-
+  Defends Atatürk against Nehru's charge that Turkey left Islam: abolishing the caliphate expressed Islam's
+  spirit; the Swiss code and Turkish Quran were errors.
+quote:
+  text: >-
+    In the abolition of the Caliphate which since the days of Omayyads had practically become a kind of Empire
+    it is only the spirit of Islam that has worked out through the Ataturk.
+  language: en
+caveat: >-
+  'Islam and Ahmadism' (Reply to Questions Raised by Pandit J. L. Nehru), 1936; month not confirmed. Speeches
+  and Statements of Iqbal, ed. Shamloo (Lahore 1944), pp. 134–137, 141 (page numbers from running heads of the
+  scan). Wording of the quoted sentence also found on Wikisource. Also: 'The adoption of the Swiss code with
+  its rule of inheritance is certainly a serious error' and that he regards Quran recitation in Turkish 'as a
+  serious error of judgment'.
+node: Iqbal on Turkey and Atatürk, 1930–1936
+sources:
+  - url: https://archive.org/stream/in.ernet.dli.2015.51949/2015.51949.Speeches-And-Statements-Of-Iqbal_djvu.txt
+  - url: https://en.wikisource.org/wiki/Islam_and_Ahmadism
+    archived: https://web.archive.org/web/20210514124721/https://en.wikisource.org/wiki/Islam_and_Ahmadism
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Shamloo (ed.), Speeches and Statements of Iqbal (Lahore 1944), 'Reply to Questions raised by Pandit J. L.
+    Nehru', pp. 134-137, 141 (archive.org in.ernet.dli.2015.51949 djvu.txt)
+  method: >-
+    fetched the archive.org djvu text directly with curl; located the passages and running-head page numbers
+  note: >-
+    Verbatim at the top of p. 137 (after header '137'): 'In the abolition of the Caliphate which since the
+    days of Omayyads had practically become a kind of Empire it is only the spirit of Islam that has worked
+    out through the Ataturk.' Also verbatim on p. 135: 'Pandit Jawahar Lal Nehru thinks that Turkey had ceased
+    to be a Muslim country'; p. 135-136: Quran recitation in Turkish 'Personally I regard it as a serious
+    error of judgment'; p. 136: 'The adoption of the Swiss code with its rule of inheritance is certainly a
+    serious error which has arisen out of the youthful zeal for reform excusable in a people furiously
+    desiring to go ahead.'; p. 141: 'Personally, however, I do not think that the Ataturk is inspired by
+    Pan-Turanianism'. The piece's printed title in this book is 'Reply to Questions raised by Pandit J. L.
+    Nehru' (Part Two, IV, begins p. 111); the book prints no date, so '1936' and the month rest on outside
+    knowledge (the Wikisource 'Islam and Ahmadism' title is a different edition's title). Add that the quoted
+    sentence is on p. 137. what_they_saw and polarity conflicted fair.
+  checked_on: "2026-11-01"

@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nazrul-1922
+voice: Kazi Nazrul Islam
+voice_type: person
+role: Bengali poet (later national poet of Bangladesh)
+country: British India (Bengal)
+country_now: Bangladesh
+domain: letters
+date: "1922"
+era: contemporary
+polarity: admiring
+intensity: 3
+mirror: anti-colonial-liberator
+artifact: poem
+evidence: J
+summary: >-
+  Hails Kemal as the fighter whose sharpened sword sent the enemy to Hades, with the refrain 'Kamal, you have
+  worked a wonder, brother'.
+quote:
+  text: Kamal Tu Ne Kamal Kiya Bhai
+  language: ur
+caveat: >-
+  The Bengali-script text was not retrieved (bn.wikisource does not hold Agni-Veena's 'Kamal Pasha'); the
+  refrain is quoted in Latin transliteration by the peer-reviewed BRIQ article (p. 74) with the translation
+  '(Kamal, you have achieved unbelievable success, brother!)' (TRANSLATION, by the article). Poem 'Kamal
+  Pasha' in Agni-Veena (Calcutta, Kartik 1329 = Oct 1922; composed c. Aug-Sep 1921 according to BRIQ, 'as far
+  as it is known'). Full English rendering ('Brother Kemal, the desperate son of a frenzied mother ... Bravo
+  to your sharpened sword ... Tell me now, who is there on earth not afraid of Turkish sword?') on a forum
+  (defencehub, translator unnamed); a Turkish translation of the poem (from Nurul Huda's English, 1997/1999)
+  is printed in 'Dünya Şairlerinden Atatürk Şiirleri' with a reference to Kemal Özcan Davaz, 'Atatürk,
+  Bangladeş, Kazi Nazrul İslam' (Atatürk Araştırma Merkezi, 2000, pp. 79-97). The poem also names Anwar Pasha
+  (Enver), so it is not a pure Kemalist text; BRIQ reads Nazrul as folding Kemal into pan-Islamic 'Ummah'
+  loyalty. Kemal is the poem's subject, so it counts. Check: the refrain is the soldiers' chorus in the
+  Bengali text of 'Kamal Pasha' (bangla-kobita.com and other transcriptions), Agni-Veena (Oct 1922); BRIQ
+  takes it from a 1988 recollection.
+node: Poets, Reformers and the Black Press on Atatürk, 1921–1935
+sources:
+  - url: https://briqjournal.com/sites/default/files/yazi-ici-dosyalar/2023-09/C4S4_MohammadBas%C4%B1rUlHaqSinha_ENG.pdf
+    archived: https://web.archive.org/web/20240715223859/https://briqjournal.com/sites/default/files/yazi-ici-dosyalar/2023-09/C4S4_MohammadBas%C4%B1rUlHaqSinha_ENG.pdf
+  - url: https://dunyadaataturk.com/dunya-sairlerinden-ataturk-siirleri
+    archived: https://web.archive.org/web/20260215142326/https://www.dunyadaataturk.com/dunya-sairlerinden-ataturk-siirleri/
+  - url: https://defencehub.live/threads/kamal-pasha-poem-by-kazi-nazrul-islam-the-national-poet-of-bangladesh.2261
+    archived: https://web.archive.org/web/20240724160329/https://defencehub.live/threads/kamal-pasha-poem-by-kazi-nazrul-islam-the-national-poet-of-bangladesh.2261/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Bengali text of 'Kamal Pasha' on bangla-kobita.com and dukhumiah.blogspot.com (Nurul Huda credit); BRIQ
+    4(4) 2023 PDF p.74; Wikipedia Agnibeena (Oct 1922, Kartik 1329, contents list); Banglapedia Moslem Bharat
+  method: free fetch of Bengali texts + BRIQ PDF download
+  note: >-
+    Refrain found in the poem in Bengali ('কামাল! তু নে কামাল কিয়া ভাই!'), so it IS the refrain of 'Kamal
+    Pasha', which is the sixth poem of Agni-Veena (Oct 1922). In the poem it is the chorus sung by marching
+    soldiers (stage-style poem with a havildar-major), and the lines 'Bravo to your sword / sent the enemy to
+    Hades / who does not fear the Turkish sword' are there. BRIQ p.74 prints the Latin refrain with the gloss,
+    but takes it from a recollection by 'Odud 1988', not from the poem; its '(Kamal, you have achieved
+    unbelievable success, brother!)' is a gloss. Date: 1922 is the Agni-Veena publication; earlier appearance
+    (Moslem Bharat, composition Aug-Sep 1921 per BRIQ) is probable but not pinned, so 1921-22 either way
+    contemporary. The caveat 'Bengali text not retrieved' is now out of date: the Bengali text can be cited.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 17)
+  checked_on: "2026-11-03"

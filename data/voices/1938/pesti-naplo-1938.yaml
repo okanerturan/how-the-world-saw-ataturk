@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pesti-naplo-1938
+voice: Pesti Napló
+voice_type: press
+role: Hungarian daily
+country: Hungary
+country_now: Hungary
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: S
+summary: >-
+  Said the whole universe joins the mourning and that thanks to Atatürk Turkey's external and economic
+  position is now excellent.
+quote:
+  text: >-
+    the whole universe joins this great mourning… thanks to Atatürk, Turkey's external and economic position
+    is now excellent
+  language: en
+mediated_by: Toksoy 2010
+node: Hungary's Parliament Rises, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt §Macaristan: Pesti Naplo "Bütün kâinat bu büyük yasa iştirak
+    etmektedir ve Atatürk'ün sayesinde Türkiye'nin haricî ve iktisadî vaziyeti şimdi mükemmeldir"
+  method: local
+  note: Translated.
+  checked_on: "2026-10-29"

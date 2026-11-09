@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hoxha-1967-09-14
+voice: Enver Hoxha
+voice_type: person
+role: >-
+  First Secretary of the Party of Labour of Albania; report to the 4th Congress of the Democratic Front
+country: Albania
+country_now: Albania
+domain: politics
+date: "1967-09-14"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Warns Greece's 'monarchic fascists' that they forget the blows the Turkish people, led by Kemal, dealt at
+  Venizelos's forces in the Asia Minor war.
+quote:
+  text: >-
+    They forgot the heavy blows the brave Turkish people, led by Mustafa Kemal Ataturk dealt at Venizelos's
+    hordes
+  language: en
+caveat: >-
+  English text of the 1974 second edition (Tirana, '8 Nentori'); the OCR page marks 120 and 121 bracket the
+  passage (cited as p. 120-121). Hoxha's frame is a warning to Athens in the Cyprus context, so the Kemal
+  reference is instrumental; the note records no view of the Greek-Turkish war itself. The English is the
+  Albanian publisher's own translation.
+node: Hoxha, Beneš, Brezhnev and the Soviet Presidium on Atatürk, 1939–1982
+sources:
+  - url: https://archive.org/details/ReportOnTheRoleAndTasksOfTheDemocraticFrontForTheCompleteTriumphOfSocialismInAlbania
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hoxha, Report on the Role and Tasks of the Democratic Front (Tirana: 8 Nentori, 2nd ed. 1974), archive.org
+    ReportOnTheRoleAndTasksOfTheDemocraticFrontForTheCompleteTriumphOfSocialismInAlbania, djvu text
+  method: >-
+    curl of the open djvu text; folio position calibrated against the printed contents (section 2 heading,
+    contents p. 21, falls between the unprinted folio 20 and folio 21)
+  note: >-
+    Verbatim: 'They forgot the heavy blows the brave Turkish people, led by Mustafa Kemal Ata-/turk dealt at
+    Venizelos's hordes and who are again prepared to deal another blow at them, if they (the Greeks) infringe
+    upon the vital and sovereign interests of their brave brothers of Cyprus'. Folios in this book are at page
+    foot, so the passage lies between folio 120 and folio 121 and is on p. 121 (cite p. 121, not 120-121).
+    Date 14 Sept 1967 on the title page; text is the 1974 second edition (first-edition wording not checked).
+    Instrumental, intensity 1 fair: a warning to Athens, the only view of Kemal is 'brave Turkish people led
+    by' him. Era posthumous correct.
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 16)
+  checked_on: "2026-11-03"

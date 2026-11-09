@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ismet-inonu-surname-1934-11-24
+voice: İsmet İnönü
+voice_type: person
+role: Prime Minister, Malatya deputy
+country: Turkey
+country_now: Turkey
+domain: politics
+date: "1934-11-24"
+era: contemporary
+polarity: admiring
+intensity: 3
+mirror: internal-mirror
+artifact: speech
+evidence: P
+summary: >-
+  Proposed the surname Atatürk, telling the Assembly the nation, in using it, addresses its greatest son with
+  its greatest and most respectful form of address.
+quote:
+  text: >-
+    İnanıyoruz ki (Atatürk) adı ile Büyük Türk ulusu en büyük oğluna en büyük, en saygılı hitabını yapmış
+    olacaktır
+  language: tr
+caveat: >-
+  Passed 'ittifakla' (unanimously) in the same sitting. Printed p. 35 (inferred from neighbouring folios 34
+  and 36; the digits are lost in the scan's OCR).
+node: The Name Atatürk in the Assembly, 24 November 1934
+sources:
+  - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025007.pdf
+    archived: https://web.archive.org/web/20241224121111/https://www.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025007.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: TBMM d04/c025/tbmm04025007.pdf, BAŞVEKİL İSMET Pş. (Malatya), 24 Nov 1934
+  method: pdftotext two-column crop
+  note: Verbatim; foot of previous page reads '34 —' so quote is on p.35; passed same sitting.
+  checked_on: "2026-10-30"

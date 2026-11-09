@@ -1,0 +1,33 @@
+# Turkish for data/voices/1928/rashid-rida-manar-1928-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: rashid-rida-manar-1928-10
+voice: Rashid Rida
+role: Selefi ilahiyatçı; al-Manar editörü
+quote: >-
+  ömrüme yemin olsun ki, biz Müslümanlar bu yeni plandan nefret etsek de bu büyük bir ruh ve uzak erimli bir
+  hırstır
+quote_kind: translated
+summary: >-
+  Harf devrimini Kemalistlerin İslam'a saldırısı olarak görür; yine de Kemal'in büyük bir ruha ve uzak erimli
+  bir hırsa sahip olduğunu teslim eder.
+caveat: >-
+  İmzasız, birinci tekil şahısla yazılmış başyazı; Rida'ya atfedilir. Alıntı, notun yer verdiği Arapça özgün
+  metnin not yazarı tarafından yapılmış İngilizce çevirisidir.
+verification_note: >-
+  Arapça metin s. 466 bölüm 3'te 'ma yatma' fihi Mustafa Kamal bi-najahih' başlığı altında; s. 456 imza satırı
+  olmaksızın birinci tekil şahısla 'urid al-yawm an uwajjih...' diye başlıyor; çeviri sondaki 'pek çok akıl
+  sahibinin sağlıksız bulduğu' yan cümlesini dışarıda bırakıyor (uygun); çelişkili kutupluluk geçerli; makale
+  sonu/imza satırı okunmadı.
+verification_method: >-
+  Tam IA PDF'si curl ile indirildi; pdftoppm sayfa görüntüleri doğrudan okundu; sayı numarası ve tarih için
+  künye/kapaklar görüntülendi
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8500544dcf5c
+  role: bb8d03d914df
+  quote: 757331be20d4
+  summary: 373fb3a4a0d0
+  caveat: c441e3554124
+  verification_note: a4376b84ea26
+  verification_method: 6190bebdb3a6

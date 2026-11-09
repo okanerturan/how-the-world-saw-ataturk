@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hassan-al-banna-1948
+voice: Hassan al-Banna
+voice_type: person
+role: Founder of the Muslim Brotherhood
+country: Egypt
+country_now: Egypt
+domain: religion
+date: "1948"
+era: posthumous
+polarity: hostile
+intensity: 2
+mirror: apostate
+artifact: memoir
+evidence: J+S
+summary: >-
+  Recalled Turkey's complete coup: Mustafa Kemal Pasha abolished the caliphate and separated state from
+  religion in the former seat of the Commander of the Faithful.
+quote:
+  text: >-
+    لقد قامت تركيا بانقلابها الكامل، وأعلن مصطفى كمال باشا إلغاء الخلافة وفصل الدولة عن الدين في أمة كانت إلى
+    بضع سنوات في عرف الدنيا جميعًا مقرّ أمير المؤمنين
+  language: ar
+mediated_by: >-
+  acrseg.org and whiteink.info quoting Mudhakkirat al-Da'wa wa'l-Da'iya; Wagemakers 2020 for his caliphate
+  position
+caveat: >-
+  Retrospective memoir, date approximate (late 1940s, unchecked); quote verified only via two independent
+  quoters, not the printed page; a lament, no personal invective found.
+node: Hassan al-Banna
+sources:
+  - url: https://acrseg.org/39488
+    archived: https://web.archive.org/web/20250514203307/https://acrseg.org/39488
+  - url: https://whiteink.info/falsifying-ottoman-history-for-the-islamic-project-and-creating-the-sacred-history-of-the-ottoman-empire-12-full-page-134/
+    archived: https://web.archive.org/web/20260610213548/https://whiteink.info/falsifying-ottoman-history-for-the-islamic-project-and-creating-the-sacred-history-of-the-ottoman-empire-12-full-page-134/
+  - url: https://www.cambridge.org/core/books/abs/muslim-brotherhood-in-jordan/early-muslim-brotherhoods-political-thought/9948C2666ECF6FBB5AB4E3DB0BAFFD5F
+    archived: https://web.archive.org/web/20240604062933/https://www.cambridge.org/core/books/abs/muslim-brotherhood-in-jordan/early-muslim-brotherhoods-political-thought/9948C2666ECF6FBB5AB4E3DB0BAFFD5F
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://acrseg.org/39488 (quotes Mudhakkirat al-Da'wa wa'l-Da'iya)
+  method: fetch
+  note: >-
+    Arabic quote verbatim as quoted by acrseg; printed memoir page not seen; date 1948 approximate/unchecked.
+  checked_on: "2026-10-29"

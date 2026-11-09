@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: l-humanite-1924-03-05
+voice: L'Humanité
+voice_type: press
+role: Paris Communist daily
+country: France
+country_now: France
+domain: press
+date: "1924-03-05"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Reported Kemal's Saturday speech as only the prelude to the Assembly's abolition decisions.
+quote:
+  text: >-
+    n'était, que le: prélude des décisions importantes que vient d'adopter l'Assemblée nationale turque
+  language: fr
+caveat: >-
+  View 3, under the heading 'Après la suppression'. Reporting; no stated view. Gallica ContentSearch fragment,
+  OCR copied as given; view number is Gallica's, not necessarily the printed page.
+node: Paris Dailies and the Abolition of the Caliphate, March 1924
+sources:
+  - url: https://gallica.bnf.fr/ark:/12148/bpt6k401251s
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Gallica bpt6k401251s ContentSearch; masthead MERCREDI [5] MARS 1924
+  method: Gallica ContentSearch fragment via ms fetch
+  note: Verbatim in PAG_3 under 'Après la suppression' (colon is OCR noise). Neutral reporting.
+  checked_on: "2026-10-30"

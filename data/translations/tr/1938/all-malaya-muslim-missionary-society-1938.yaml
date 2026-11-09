@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/all-malaya-muslim-missionary-society-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: all-malaya-muslim-missionary-society-1938
+voice: All Malaya Muslim Missionary Society
+role: Singapur Müslüman cemiyeti
+quote: derin bir üzüntüyle
+quote_kind: translated
+summary: >-
+  Üyeler ölüm haberini derin bir üzüntüyle karşıladı; Müslüman dükkânları kapandı, camilerde dua edildi;
+  habere göre saygıyı uyandıran şey reformlar değil, Müslüman liderliğiydi.
+caveat: >-
+  NewspaperSG'nin tarayıcı aracısı okuması; gövde metni kullanım koşulları duvarının arkasında; zayıf OCR; son
+  cümlenin ifadeleri dolaylı aktarımdır
+mediated_by: Morning Tribune kadrolu muhabiri, 12 Kasım 1938
+verification_note: "'with profound sorrow' alıntısı ve bu cemiyete atfı doğrulanmadı."
+verification_method: sayfa işleme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: fe550e28c8b7
+  role: 4275965a06be
+  quote: 33f4f0ed5264
+  summary: ecf1f1561546
+  caveat: f4cf0c41389e
+  mediated_by: 00b6100a8e81
+  verification_note: 49374ad41fd1
+  verification_method: 37eca5751d1f

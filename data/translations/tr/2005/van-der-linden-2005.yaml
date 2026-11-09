@@ -1,0 +1,40 @@
+# Turkish for data/voices/2005/van-der-linden-2005.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: van-der-linden-2005
+voice: René van der Linden
+role: Avrupa Konseyi Parlamenter Meclisi Başkanı
+quote: >-
+  Kendisi bir hukuk ve sosyal politik ve kültürel reformları gerçekleştirmiş, bugünkü Türkiye’nin temellerini
+  atmıştır ve eminim ki, siz de O’nun yolundan gidecek bir parlamentosunuz.
+quote_kind: original-turkish
+summary: >-
+  Anıtkabir'i ziyaret ettikten sonra, Atatürk'ün hukuki, toplumsal ve kültürel reformlar gerçekleştirdiğini ve
+  Türkiye'nin temellerini attığını söyler; kadınlar konusunda ondan alıntı yapar.
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF s. 229 (basılı s. 218). Konuşma, TBMM tutanaklarında yer aldığı
+  şekliyle Türkçe olarak basılmıştır. Çevirisi: "He carried out legal, socio-political and cultural reforms
+  and laid the foundations of today's Turkey, and I am sure that you will be a parliament that follows his
+  path." Ayrıca 9 Kasım'ın Atatürk'ün ölüm yıl dönümünün arifesi olduğunu belirtir ve 'Atatürk' adını 'father
+  of the Turks' ('Türklerin babası') olarak nitelendirir; daha fazla kadın milletvekili olması çağrısında
+  bulunur. Başlık: 'Avrupa Konseyi Parlamenter Meclisi Başkanı Rene Van Der Linden', 9 Kasım 2005.
+mediated_by: TBMM tutanakları (Türkçe sözlü çeviri)
+verification_note: >-
+  Bire bir eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Avrupa Konseyi Parlamenter Meclisi
+  Başkanı Rene Van Der Linden, 16. Birleşim, 9 Kasım 2005' (başlık PDF s. 224'te)). Alıntı belirtildiği gibi
+  PDF s. 229'da (basılı s. 218); aynı sayfadaki 'Türklerin babası' ifadesi ve Atatürk'ün kadınlar hakkındaki
+  sözü de kontrol edildi. Özgün metin getirilmedi.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracımızla PNG'ye dönüştürülüp (check_png/c229.png) okundu; başlık, tarih ve
+  makam bölüm başlığı sayfasından okundu; alıntı görüntü üzerinde ve kendi bağımsız metin katmanı
+  çıkarımımızla kelimesi kelimesine karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 19d0a5edc608
+  role: bf53ea7325c8
+  quote: f865f789f971
+  summary: 8d5012ed2161
+  caveat: 3c4fc1903d76
+  mediated_by: 8e2cc528453b
+  verification_note: 55d435485e91
+  verification_method: a113af55bbb1

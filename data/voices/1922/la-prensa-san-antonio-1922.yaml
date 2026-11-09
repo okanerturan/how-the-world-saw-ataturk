@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-prensa-san-antonio-1922
+voice: La Prensa (San Antonio)
+voice_type: press
+role: Spanish-language daily, San Antonio, Texas
+country: United States
+country_now: United States
+domain: press
+date: "1922-11-27"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: report
+evidence: P
+summary: >-
+  Reprinted a Paris eyewitness account of Smyrna, September 1922: refugees in misery, Armenians shot, Kemal
+  the 'god of the day' with Napoleon as guide.
+quote:
+  text: Kemal, el dios del día
+  language: es
+mediated_by: >-
+  Ricardo Eaton ← 'Revista Semanaria' (Paris), Paris dispatch of 10 Nov 1922, reprinted in La Prensa
+caveat: >-
+  The voice is a French-language eyewitness in translation; La Prensa's own stance is only its choice to print
+  it. OCR is poor, so only a short clean phrase is quoted.
+node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
+sources:
+  - url: https://www.loc.gov/resource/sn83045395/1922-11-27/ed-1/?sp=3
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: tile.loc.gov OCR sn83045395 1922-11-27 seq 3 (0139.xml full_text)
+  method: loc.gov ALTO full_text via curl
+  note: >-
+    'Kemal, el dios del día' present; article 'Con Mustafa Kemal', Paris Nov 10, Revista Semanaria, Ricardo
+    Eaton; refugees, Armenians 'fusilados por centenares', Napoleon as 'guía' all present.
+  checked_on: "2026-10-29"

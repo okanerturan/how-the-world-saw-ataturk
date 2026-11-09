@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: abdul-kadir-adabi-1924
+voice: Abdul Kadir Adabi
+voice_type: person
+role: Malay intellectual
+country: British Malaya
+country_now: Malaysia
+domain: religion
+date: "1924"
+era: contemporary
+polarity: hostile
+intensity: 1
+mirror: apostate
+artifact: article
+evidence: S
+summary: Is named as a Malay intellectual who denounced the caliphate's dissolution.
+mediated_by: Al-Shajarah textbook article
+caveat: >-
+  Secondary-on-secondary; date inferred from the 1924 dissolution; mirror is an inference. text unchecked
+  (source unreachable 2026-10-29)
+node: Malay Press and the Fall of the Caliphate
+sources:
+  - url: https://journals.iium.edu.my/shajarah/index.php/shaj/article/view/1719
+    archived: https://web.archive.org/web/20250802140936/https://journals.iium.edu.my/shajarah/index.php/shaj/article/view/1719
+verification:
+  verdict: unreachable
+  checked_against: >-
+    https://journals.iium.edu.my/shajarah/index.php/shaj/article/view/1719 (fetch returns invalid_url)
+  method: fetch
+  note: Source article not retrievable; claim and date unverified
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

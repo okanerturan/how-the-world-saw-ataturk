@@ -1,0 +1,24 @@
+# Turkish for data/voices/1937/herbert-melzig-1937.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: herbert-melzig-1937
+voice: Herbert Melzig
+role: Alman biyografi yazarı
+quote: >-
+  Onun 'diktatörlüğü', özgürlük için eğitmek isteyen Cumhuriyet'in sert okulundan başka bir şey değildir.
+quote_kind: translated
+summary: >-
+  Onun 'diktatörlüğünü' bir halkı özgürlüğe doğru eğiten cumhuriyetin sert okulu olarak savundu; o, ulusun ilk
+  öğretmeni ve Vater der Türken idi.
+caveat: >-
+  Nasyonal Sosyalizm döneminde yazılmıştır; kitap Ermeni tehciri konusunda ulusal hareket çizgisini tekrarlar
+  (bu kaydın parçası değildir).
+verification_method: veri çekme
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f81d7b571792
+  role: 1206d4596a32
+  quote: c2b5c187ae8f
+  summary: 78b228138cfe
+  caveat: 0fa97e40a7c6
+  verification_method: ad8cee67138e

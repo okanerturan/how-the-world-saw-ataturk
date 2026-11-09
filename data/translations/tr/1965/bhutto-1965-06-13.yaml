@@ -1,0 +1,38 @@
+# Turkish for data/voices/1965/bhutto-1965-06-13.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bhutto-1965-06-13
+voice: Zulfikar Ali Bhutto
+role: Pakistan Dışişleri Bakanı (daha sonra Başbakan)
+quote: yeniden canlandırılmış bir hilafeti siyasi fikirleriyle bağdaşmaz bularak
+quote_kind: translated
+summary: >-
+  Atatürk ve arkadaşlarının yeniden canlandırılmış bir hilafeti siyasi fikirleriyle bağdaşmaz bulup
+  kaldırdıklarını söyler.
+caveat: >-
+  Atatürk hakkında belirtilmiş bir yargı içermeyen tarihsel bir anlatımdır; bu nedenle tanık niteliğindedir.
+  'resusciated' PDF'in kendi yazımıdır. Bhutto'nun Atatürk hakkındaki ikinci bir cümlesi olan 'We will have to
+  raise from our soil an Ataturk or a Jinnah who will mobilize our people', bhutto.org'daki 1948-1966
+  konuşmaları derlemesinde yer almaktadır ancak tekil konuşma ve tarih tespit edilemediğinden kaydedilmemiştir
+  (bkz. candidates dosyası).
+mediated_by: bhutto.org PDF'sinin arama motoru kesiti (doğrudan erişim engellendi); sayfa bilinmiyor
+verification_note: >-
+  Pasaj birebir şöyledir: 'after 1922, that the founder of modern Turkey, Mustafa Kemal Ataturk and his
+  companions, finding a resusciated Caliphate incompatible with their political ideas, first equated the
+  Caliphate with "spiritual", as opposed to "temporal", power an then finally abolished the institution
+  altogether.' ('resusciated' ve 'an' PDF'in kendi dizgi hatalarıdır.) PDF'in başlığı 'Speech delivered by Mr.
+  Zulfikar Ali Bhutto, the Foreign Minister of Pakistan to the Pakistan Islamic Council for International
+  Affairs, Karachi, June 13, 1965' şeklindedir; dolayısıyla tarih, görev ve belge doğrudur. Sayfa: pasaj
+  açılış sayfalarındadır (PDF'in s. 1-2'si). Tanık kutupluluğu yerindedir. İsteğe bağlı: kayda yer olarak
+  Karaçi eklenebilir. Düzeltme gerekmez.
+verification_method: iki ms araması; PDF çekme işlemi target_unreachable döndürdü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 7bea1b71d509
+  role: 17277f247a68
+  quote: d81abec48bf6
+  summary: 5e8db95ef2ca
+  caveat: 23bcfc35c339
+  mediated_by: dae8fed6a0a9
+  verification_note: 8e684c2a1a65
+  verification_method: 33e3056eb312

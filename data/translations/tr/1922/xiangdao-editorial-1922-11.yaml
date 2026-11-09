@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/xiangdao-editorial-1922-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: xiangdao-editorial-1922-11
+voice: Xiangdao (imzasız başyazı, sayı 10)
+role: Cai Hesen'e yanıt veren komünist haftalık dergi editörleri
+quote: >-
+  Türkiye devrim hükümetinin zaferini gördüğümüzde doğal olarak son derece seviniyor, son derece imreniyoruz
+quote_kind: translated
+summary: >-
+  Ankara'nın zaferinden büyük sevinç duydu ve ona imrendi; ancak Ankara Rusya'ya yakın ve emperyalistlerin
+  erişiminin ötesinde bulunduğu için Kanton'un bunu kopyalayamayacağını savundu.
+caveat: >-
+  İmzasız; ay bilgisi 10. sayıdan çıkarılmıştır (Cai'nin 2 Kasım 1922 tarihli, 8. sayıdaki yazısına yanıt
+  verir). 基瑪爾派 adını anar; kişinin kendisine dair bir değerlendirme değildir.
+verification_note: >-
+  Birebir. Metin sevinç/imrenme ifadelerini ve 'near Russia, out of imperialist reach' argümanını destekliyor;
+  基瑪爾派 geçiyor. Ay bilgisi yalnızca sayı numarasından çıkarılmıştır (sayfada 1922 yazıyor).
+verification_method: ms fetch aracılığıyla Wikisource ayrıştırması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3db4c9fe5d72
+  role: d3668c2fb5fb
+  quote: 93b59ad4c4e1
+  summary: 4a80e942d545
+  caveat: f0d5aecb6892
+  verification_note: 3382716ac4ed
+  verification_method: 1680f6b23b3d

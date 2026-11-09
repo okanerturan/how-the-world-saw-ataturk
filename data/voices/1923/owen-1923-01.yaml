@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: owen-1923-01
+voice: Robert L. Owen
+voice_type: person
+role: U.S. Senator from Oklahoma (Democrat)
+country: United States
+country_now: United States
+domain: politics
+date: "1923-01-26"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Introduces Kemal's address to America as 'remarkable': an educated man, speaking for Turks who, like the
+  Founders, want freedom from outside domination.
+quote:
+  text: >-
+    here is a man who speaks the American language, though he be a Turk; a man who is highly educated; one who
+    is informed with regard to the history of the nations of the world … He is entitled to a hearing.
+  language: en
+caveat: >-
+  Owen's own introduction (about 200 words); the Herald interview and the address he has printed ('Kemal
+  demands absolute independence for Turkey', including the 'George Washington' remark) are Kemal's and are not
+  counted. Senator King answers him in the same sitting (see his record). Cited alongside the Lausanne
+  conference, a month into its first session. Cited as Senate, 26 January 1923, 'Mustapha Kemal — Conditions
+  in Near East', Congressional Record vol. 64 (bound), p. ~2487 (granule CRECB-1923-pt3-v64-4-1).
+node: >-
+  Congressional Record Closing Pass — King, Owen, Davis, Sirovich, Pepper, Knowland and Others
+sources:
+  - url: https://www.govinfo.gov/content/pkg/GPO-CRECB-1923-pt3-v64/pdf/GPO-CRECB-1923-pt3-v64-4-1.pdf
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.govinfo.gov/content/pkg/GPO-CRECB-1923-pt3-v64/pdf/GPO-CRECB-1923-pt3-v64-4-1.pdf - Senate, 26
+    Jan 1923, p. 2487
+  method: pdftotext -layout of the govinfo bound-edition granule
+  note: >-
+    Verbatim with ellipsis (omits 'a man who declares with authority the purpose of the nationalists'). Owen's
+    own introduction, before the printed Kemal address. 'Like our forefathers' is Owen's. Admiring 2 fair.
+  checked_on: "2026-11-04"

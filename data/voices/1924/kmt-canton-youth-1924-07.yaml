@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kmt-canton-youth-1924-07
+voice: KMT Canton Municipal Special Party Branch, youth members' congress
+voice_type: institution
+role: Kuomintang youth branch, Canton
+country: China
+country_now: China
+domain: politics
+date: "1924-07-20"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: report
+evidence: P
+summary: >-
+  Compared Sun Yat-sen favourably with Lenin and Kemal, and lamented that China had to look with envy to
+  Russia and Turkey.
+quote:
+  text: 以較俄羅斯之列寧、土耳其之凱末爾，我們實覺其無消遜色
+  language: zh
+caveat: >-
+  Kemal is a yardstick for Sun, not the subject; manifesto date as the header gives it (民國十三年七月二十日).
+node: Kemal in the Kuomintang's Quarrels, 1924–1928
+sources:
+  - url: https://zh.wikisource.org/wiki/中國國民黨廣州市特別黨部青年黨員大會宣言
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: zh.wikisource.org 中國國民黨廣州市特別黨部青年黨員大會宣言 (20 Jul 1924)
+  method: Wikisource parse via ms fetch
+  note: >-
+    Verbatim; text also has 'today we look with envy to Russia and Turkey' (向俄土而生其羨慕). Date matches header.
+    Kemal is a yardstick for Sun.
+  checked_on: "2026-10-30"

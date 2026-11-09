@@ -1,0 +1,27 @@
+# Turkish for data/voices/1938/timpul-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: timpul-1938
+voice: Timpul
+role: Bükreş günlük gazetesi
+quote: >-
+  Hiçbir zaman ödül ya da minnet beklemedim… çiçekleri büyük bir sevgiyle yetiştiren ve onlardan hiçbir şey
+  istemeyen bir bahçıvan gibi.
+quote_kind: translated
+summary: >-
+  'Yeni Türkiye'nin Kurucusu Öldü' başlığı altında, Atatürk'ün kendisini hiçbir ödül istemeyen bir bahçıvana
+  benzettiği daha önceki bir söyleşiyi yayımladı.
+caveat: Söyleşinin kaynağı tespit edilmemiştir; Rumence asılları görülmemiştir.
+mediated_by: Toksoy 2010 (Rumence asılları görülmedi)
+verification_note: Rumence aslı görülmemiştir; Türkçe çeviri örtüşmektedir.
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 57fd7bda4019
+  role: f208d42b916b
+  quote: 10a45f99bb74
+  summary: 686945ca6f3c
+  caveat: 57d38c95a340
+  mediated_by: 374a97c5054a
+  verification_note: 827f62ba7bf1
+  verification_method: 939bb46a04c3

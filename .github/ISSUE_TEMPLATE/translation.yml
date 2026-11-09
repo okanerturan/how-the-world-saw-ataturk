@@ -1,0 +1,63 @@
+name: Translation fix / Çeviri düzeltmesi
+description: A better Turkish wording for a record. The Turkish texts are machine translations. / Bir kayıt için daha iyi bir Türkçe ifade. Türkçe metinler makine çevirisidir.
+title: "Translation / Çeviri: "
+labels: ["translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The Turkish text of each record is in `data/translations/tr/<YYYY>/<id>.yaml`. It was made by machine translation from the English. If the English itself is wrong, use the "Correction / Düzeltme" form instead.
+
+        Her kaydın Türkçesi `data/translations/tr/<YYYY>/<id>.yaml` dosyasındadır ve İngilizceden makine çevirisiyle yapılmıştır. İngilizce metnin kendisi yanlışsa bunun yerine "Correction / Düzeltme" formunu kullanın.
+  - type: input
+    id: record
+    attributes:
+      label: Record / Kayıt
+      description: The record's id or file path, or a link to it in the exhibition. / Kaydın kimliği (id) ya da dosya yolu, veya sergideki bağlantısı.
+      placeholder: "lebrun-1938"
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: Field / Alan
+      description: Which part of the text. / Metnin hangi bölümü.
+      options:
+        - summary (özet)
+        - quote (alıntı)
+        - role (görevi)
+        - caveat (çekince)
+        - mediated_by (aktarım zinciri)
+        - verification_note (denetim notu)
+        - verification_method (denetim yöntemi)
+        - voice (ses adı)
+        - other / diğer
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current Turkish / Şu anki Türkçe
+      description: Copy the text as it is now. / Metni şu anki haliyle kopyalayın.
+    validations:
+      required: true
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested Turkish / Önerilen Türkçe
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why / Neden
+      description: For example a mistranslation, a wrong term, unnatural Turkish, or a name spelt the wrong way. / Örneğin yanlış çeviri, yanlış terim, doğal olmayan Türkçe ya da yanlış yazılmış bir ad.
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Credit / Teşekkür
+      description: Optional. The name or GitHub handle to add to the file's reviewed_by list. / İsteğe bağlı. Dosyanın reviewed_by listesine eklenecek ad ya da GitHub kullanıcı adı.
+    validations:
+      required: false

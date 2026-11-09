@@ -1,0 +1,37 @@
+# Turkish for data/voices/1935/ambedkar-1935-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ambedkar-1935-11-10
+voice: B. R. Ambedkar
+role: Dalit lider, hukukçu; sonradan Hindistan anayasasının başmimarı
+quote: Kemal Paşa'ya en büyük saygıyı duyuyorum, Türkiye'yi güçlü bir ulus haline getiren odur.
+quote_kind: translated
+summary: >-
+  Nasik'teki kast mensubu Hindu reformculara, Hindistan'ın Türkiye'yi güçlü kılan ve Müslüman uygulamalarını
+  reformdan geçiren Kemal Paşa gibi bir diktatöre ihtiyacı olduğunu; böyle bir lider olmadan kurtuluş
+  olmayacağını söyledi.
+caveat: >-
+  Yeola din değiştirme konuşmasının ardından, 10 Kasım 1935'te konutunda yapılan üç saatlik bir görüşmeden
+  dolaylı aktarım; ayrıca 'India wants a dictator, a Kemal Pasha or a Mussolini.' ifadesi yer almaktadır.
+  Arşiv kartındaki, Hindu Code Bill tartışmalarında Türkiye'ye atıfta bulunduğu iddiası doğrulanmamaktadır
+  (BAWS c. 14'te geçen iki Türkiye atfı diğer üyelere aittir).
+mediated_by: >-
+  Dr. Babasaheb Ambedkar: Writings and Speeches c. 17 ks. 1, s. 237–238 ← The Times of India, 30 Kasım 1935 ←
+  Nasik İlerici Hindular heyetinin açıklaması
+verification_note: >-
+  s. 238'de birebir aynı; beraberinde 'India wants a dictator, a Kemal Pasha or a Mussolini' ve 'Without a
+  leader of the stamp of Kemal Pasha, there will be no salvation for India' ifadeleri yer almaktadır. Heyet
+  'waited upon Dr. Ambedkar at his residence on November 10 and the interview which lasted over three hours';
+  Yeola konuşması anılmaktadır; dipnot: 'The Times of India, dated 30th November 1935'. İhtiyat payı
+  bırakıldığı üzere, heyetin açıklamasından dolaylı aktarımdır.
+verification_method: djvu metni
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1fffc1bebb3a
+  role: c8b997433ced
+  quote: 91a76350aa4c
+  summary: 896350ab8dd1
+  caveat: 640a61da5939
+  mediated_by: d2c398e3ed08
+  verification_note: 3ccbff0f09a5
+  verification_method: 9d9cd164c6b0

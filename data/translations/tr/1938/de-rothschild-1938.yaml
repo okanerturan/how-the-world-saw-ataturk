@@ -1,0 +1,24 @@
+# Turkish for data/voices/1938/de-rothschild-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: de-rothschild-1938
+voice: Bay de Rothschild, Milletvekili
+role: Avam Kamarası üyesi, Sömürgeler Bakanlığı bütçe tahminleri
+quote: Atatürk Türkiye'nin yasalarını yeniden düzenlemeden önce
+quote_kind: translated
+summary: >-
+  Kıbrıs'ın şimdi örnek alması gereken reform olarak Atatürk'ün Türkiye'nin eski arazi yasalarını yeniden
+  düzenlemesine işaret etti.
+caveat: Üye yalnızca API'deki 'Mr. de Rothschild' adından tespit edildi.
+verification_note: >-
+  Üyenin kimliği (hangi de Rothschild olduğu) API ile çözülemedi; kaydın çekince notunda bu zaten belirtiliyor.
+verification_method: API
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 0d38d4057baa
+  role: 98e659be5d70
+  quote: 395eeda8380e
+  summary: f256a42e1423
+  caveat: 32304a5a2e62
+  verification_note: 2bf8620895b9
+  verification_method: a033a528b603

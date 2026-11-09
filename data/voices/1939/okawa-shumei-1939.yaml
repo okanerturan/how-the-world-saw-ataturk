@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: okawa-shumei-1939
+voice: Ōkawa Shūmei
+voice_type: person
+role: Japanese Pan-Asianist writer
+country: Japan
+country_now: Japan
+domain: letters
+date: "1939"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: article
+evidence: S
+summary: >-
+  Closed the Japanese print sequence with an article titled 'Kemal Pasha, builder of the new Turkey' in the
+  periodical Shin-Ajia (New Asia) vol. 1 no. 2, published by the South Manchuria Railway's East Asia Economic
+  Research Bureau.
+mediated_by: Shimizu 2013 bibliography
+caveat: >-
+  Bibliography lists titles only; no article has been read. Corrected 2026-10-29: periodical is Shin-Ajia 1(2)
+  per Shimizu 2013 (earlier record said Koron, December); the month is not given.
+node: Japanese Print Culture on Kemal Pasha, 1922–1939
+sources:
+  - url: https://opac.ll.chiba-u.jp/da/curator/900116900/2013no.232_113_132.pdf
+    archived: https://web.archive.org/web/20251202130130/https://opac.ll.chiba-u.jp/da/curator/900116900/2013no.232_113_132.pdf
+verification:
+  verdict: contradicted
+  checked_against: >-
+    Shimizu 2013 bibliography (opac.ll.chiba-u.jp ... 2013no.232): row "大川周明 「新トルコ建設者ケマル・パシャ」 政治 1939 新亜細亜
+    1巻2号 南満州鉄道東亜経済調査局"
+  method: fetch
+  note: >-
+    Title/author/year exist, but periodical is Shin-Ajia (新亜細亜) 1(2), SMR East Asia Economic Research Bureau,
+    not Kōron (公論, Dec issue, which carries de Coulson instead). "1939-12" month unsupported.
+  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
+  checked_on: "2026-10-29"

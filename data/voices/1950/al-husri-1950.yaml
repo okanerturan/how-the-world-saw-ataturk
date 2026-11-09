@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-husri-1950
+voice: Sati' al-Husri
+voice_type: person
+role: Arab nationalist theorist, former Ottoman educator
+country: Egypt (Arab League cultural directorate)
+country_now: Syria
+domain: letters
+date: "1950"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: article
+evidence: P
+summary: >-
+  Rebutting Hifni Mahmud Pasha: Kemal succeeded by active nationalism, a Turkish state on language and
+  history, wisely renouncing the Arab provinces.
+quote:
+  text: >-
+    لا شك في أنه أظهر حكمة وكياسة بعدم الطمع في استرجاع الولايات العربية، بعد اجلاء المحتلين عن الولايات
+    التركية.
+  translation: >-
+    There is no doubt that he showed wisdom and tact in not coveting the recovery of the Arab provinces, after
+    expelling the occupiers from the Turkish provinces.
+  language: ar
+caveat: >-
+  'Al-istishhad bi-tarikh al-Atrak', reply to Hifni Mahmud Pasha's article in al-Musawwar (date OCR-garbled,
+  c. Mar 1950), in Ara' wa ahadith fi al-qawmiyya al-'arabiyya (1951; 1985 reprint), pp. 79–82, quote p. 81;
+  Arabic OCR, punctuation normalised. Uses Kemal to argue for Arab unity.
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/elshandawily280
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org elshandawily280 djvu (Ara' wa ahadith fi al-qawmiyya al-'arabiyya, 1985), 'الاستشهاد بتاريخ
+    الأتراك — رد على حفني محمود باشا', pp. 79–82
+  method: djvu text
+  note: >-
+    Arabic quote verbatim. The page markers put it on p. 81 (the article starts p. 79). Al-Husri says Kemal
+    'قطع على الاستعمار طريق الفتن والدسائس' through positive acts (war, the Ankara move, the National Pact,
+    the population exchange), not by passivity, and that he wanted a homogeneous Turkish state. The footnote
+    dates the al-Musawwar article to 1 Mar (year OCR-garbled, '1460' ≈ 1950). Admiring is supported.
+  resolution: corrected 2026-11-06 — see LEDGER § Source-check corrections (round 33b)
+  checked_on: "2026-11-06"

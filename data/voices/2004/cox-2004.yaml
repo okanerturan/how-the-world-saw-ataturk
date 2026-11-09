@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cox-2004
+voice: Pat Cox
+voice_type: person
+role: President of the European Parliament
+country: European Union
+country_now: European Union
+domain: diplomacy
+date: "2004-03-02"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  Tells the Assembly that Turkey, a Muslim country that has struck a balance, carries Atatürk's legacy of a
+  secular democratic republic.
+quote:
+  text: Burada, Müslüman bir ülke olarak bir denge kurdunuz, Atatürk’ün mirasını taşıyorsunuz.
+  language: tr
+mediated_by: TBMM minutes (Turkish interpretation)
+caveat: >-
+  TBMM Tarihe Düşülen Notlar-2 (2012), PDF p. 210 (printed p. 199). Speech printed in Turkish as in the TBMM
+  minutes. Translation: "Here, as a Muslim country, you have struck a balance; you carry Atatürk's legacy."
+  Answers the 'Christian club' objection to Turkish EU membership. Heading: 'Avrupa Parlamentosu Başkanı Pat
+  Cox', 2 Mart 2004. The English original (European Parliament press release sp0081, read by the checker; URL
+  not re-verified) reads: 'you have found a special balance here - the legacy of the vision of Atatürk'.
+node: Foreign Statesmen Address the Assembly, 1956–2010
+sources:
+  - url: https://acikerisim.tbmm.gov.tr/handle/11543/122
+    archived: https://web.archive.org/web/20220818011543/https://acikerisim.tbmm.gov.tr/handle/11543/122
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    TBMM, Tarihe Düşülen Notlar-2 (2012), book.pdf, PDF p. 210 (printed p. 199); heading page checked
+  method: >-
+    Rendered PDF page to PNG with own Swift PDFKit (check_png/c210.png) and read it; heading, date and office
+    read from the section heading page; quote compared word for word on the image and against own independent
+    text-layer extraction
+  note: >-
+    Verbatim match; speaker, office and date agree with book heading ('Avrupa Parlamentosu Başkanı Pat Cox,
+    61. Birleşim, 2 Mart 2004 (heading on PDF p. 206)'). Heading is on PDF p. 206; quote is on p. 210 as
+    cited. ORIGINAL: 'Yours is a secular democracy and republic, but a predominantly Muslim society, and you
+    have found a special balance here - the legacy of the vision of Atatürk.' Also: 'Yours is a Turkey
+    preparing for the 21st Century, based on the powerful vision and legacy which Atatürk left to all Turks in
+    the 20th Century' and, at the close, 'When you reform and modernise your republic you are the legatees,
+    the inheritors, of the mantle of Atatürk.'
+    (europarl.europa.eu/former_ep_presidents/president-cox/speeches/en/sp0081.htm, Ankara, 2 March 2004).
+    Consistent with the minutes; the original is slightly richer and its closing line is a stronger quote.
+  checked_on: "2026-11-01"

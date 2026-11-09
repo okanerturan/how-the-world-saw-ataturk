@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: halide-edib-1930
+voice: Halide Edib
+voice_type: person
+role: Turkish novelist and nationalist, then in exile
+country: Turkey (in exile)
+country_now: Turkey
+domain: letters
+date: "1930"
+era: contemporary
+polarity: conflicted
+intensity: 2
+mirror: internal-mirror
+artifact: book
+evidence: P
+summary: >-
+  Calls his push for the 1925 Law on the Maintenance of Order a 'superb political game' that turned a
+  democracy into a dictatorship.
+quote:
+  text: Then Mustafa Kemal Pasha played a superb political game.
+  language: en
+caveat: >-
+  Turkey Faces West: A Turkish View of Recent Changes and Their Origin (Yale University Press, 1930; the
+  frontispiece credits the Institute of Politics, Williamstown), ch. 'The Turkish Republic', p. 220 (the next
+  running head is 221; scan archive.org in.ernet.dli.2015.183553, a Digital Library of India copy). The
+  context is the March 1925 Law on the Maintenance of Order, after which 'the tribunals suppressed opposition
+  and instituted a reign of terror which lasted nearly two years' and 'the moral responsibility ... rests on
+  the majority in the National Assembly'. She adds, p. 222, that the personality of Mustafa Kemal 'played a
+  great role' but that he, like any 'Great man', was carried by a wave, and, p. 182, that 'few men ... have
+  shown better judgment and capacity than Mustafa Kemal Pasha' on the military and foreign-policy lines.
+  Sensitive thread (Kurdish revolt, Independence Tribunals): the voice is hers, not the vault's.
+node: Famous Pens on Atatürk II — Farrère, Halide Edib, Toynbee, Pamuk, Nesin
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.183553
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Halide Edib, Turkey Faces West (Yale UP 1930), archive.org in.ernet.dli.2015.183553 djvu.txt
+  method: curl of the open djvu text, read in context with running heads
+  note: >-
+    Verbatim: 'Then Mustafa Kemal Pasha played a superb political game. He proposed the Law of Maintenance of
+    Order...' It stands above the running head 'The Turkish Republic 221', so p. 220 is right. what_they_saw
+    is fair (she calls the result a change 'of a democratic state ... into a dictatorial one'). Conflicted/2
+    fair.
+  checked_on: "2026-11-03"

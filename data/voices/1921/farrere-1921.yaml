@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: farrere-1921
+voice: Claude Farrère
+voice_type: person
+role: French novelist and former naval officer
+country: France
+country_now: France
+domain: letters
+date: "1921"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: book
+evidence: P
+summary: >-
+  Says that were he not French he would fight for Turkey against Greece and England 'aux côtés de mon ami
+  d'Angora, Kemal-pacha'.
+quote:
+  text: aux côtés de mon ami d'Angora, Kemal-pacha
+  language: fr
+caveat: >-
+  Preface (dated in the text to 1921, at the height of the Franco-Turkish quarrel over Cilicia and Syria) to
+  L'extraordinaire aventure d'Achmet pacha Djemaleddine (Flammarion, 1921), p. xviii (the passage ends just
+  above the running head 'AVANT-PROPOS XIX'). The archive.org OCR misreads 'Angora' as 'Augora'; the Turkish
+  translation of the same preface in the Tercüman edition (archive.org claude-farrere-turklerin-manevi-gucu,
+  p. 22) reads 'Ankaralı dostum Kemal Paşa', which fixes the reading. The full sentence: 'si je n'étais
+  Français, de quel bon coeur je me battrais pour la Turquie contre la Grèce, contre l'Angleterre, contre à
+  peu près toute l'Europe, aux côtés de mon ami d'Angora, Kemal-pacha!' Elsewhere in the volume a story's text
+  calls Kemal Gazi 'l'admirable' (p. 156-157), but that line sits inside the fiction and is not counted. The
+  existing People note says Farrère met Kemal in 1922 (his later account, Souvenirs 1953, snippet only, says
+  he met the ghazi 'au lendemain de la Sakharia', i.e. late 1921). The passage is footnote 1 of the
+  Avant-propos, pp. xviii–xix.
+node: Famous Pens on Atatürk II — Farrère, Halide Edib, Toynbee, Pamuk, Nesin
+sources:
+  - url: https://archive.org/details/lextraordinairea00farr
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Farrère, L'extraordinaire aventure d'Achmet pacha Djemaleddine (Flammarion 1921), archive.org
+    lextraordinairea00farr djvu.txt
+  method: curl of the open djvu text, read in context
+  note: >-
+    Passage found: 'si je n'étais Français, de quel bon coeur je me battrais pour la Turquie contre la Grèce,
+    contre l'Angleterre, contre à peu près toute l'Europe, aux côtés de mon ami d'Angora, Kemal-pacha!' (OCR
+    'Augora'). It sits in footnote (1) of the Avant-propos, printed at the foot of p. xviii and running to
+    xix, not in the main preface text; the footnote itself dates it 'actuellement (1921)'. Admiring, one
+    sentence; intensity 2 is generous (1 would do).
+  checked_on: "2026-11-03"

@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/risorgimento-italiano-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: risorgimento-italiano-1922
+voice: Il Risorgimento Italiano nel Maryland
+role: İtalyanca haftalık gazete, Baltimore
+quote: >-
+  zavallı ülkesinden kurtarılabilecek ne varsa kurtarmak için çalışan, boyun eğmez ve yozlaşmamış bir
+  vatansever
+quote_kind: translated
+summary: >-
+  Portre: Kemal artık bir asi değil, 'tanınmış diktatör'dür; Enver ve Talat'ın aksine ülkesini kurtaran,
+  yozlaştırılamaz bir vatanseverdir.
+caveat: >-
+  İmzasız birinci sayfa yazısı (aynı sayfa onu 'il dittatore riconosciuto' olarak adlandırır); OCR'da küçük
+  bozulmalar var.
+verification_note: >-
+  Birebir; sayfada ayrıca 'il dittatore riconosciuto' ifadesi ve Enver/Talat karşıtlığı yer alıyor.
+verification_method: loc.gov JSON + tile.loc.gov full_text
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: e426d9eba3ed
+  role: 85cf22ec4b91
+  quote: a7fd830b604f
+  summary: 0508b5cce566
+  caveat: fa86ecccb1c8
+  verification_note: c39384d0e6f8
+  verification_method: 28ee7781d3b6

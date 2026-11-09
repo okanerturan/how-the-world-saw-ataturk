@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dong-a-ilbo-1920
+voice: Dong-A Ilbo
+voice_type: press
+role: Flagship Korean national-movement newspaper
+country: Korea under Japanese rule
+country_now: South Korea
+domain: press
+date: "1920"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: article
+evidence: S
+summary: >-
+  Covered 'Kemal Pasha' frequently, from ambitious revolutionary to founder of the new country, as a parallel
+  to Korea's fate.
+mediated_by: SNU repository study (author/year pending)
+caveat: Date approximates 'early 1920s'; author/year of the SNU study pending (LEDGER row open).
+node: The Korean Colonial Press
+sources:
+  - url: https://s-space.snu.ac.kr/handle/10371/154969
+    archived: https://web.archive.org/web/20260917231859/https://s-space.snu.ac.kr/handle/10371/154969
+  - url: https://en.wikipedia.org/wiki/The_Dong-A_Ilbo
+    archived: https://web.archive.org/web/20261012215205/https://en.wikipedia.org/wiki/The_Dong-A_Ilbo
+verification:
+  verdict: paraphrase-ok
+  checked_against: >-
+    https://s-space.snu.ac.kr/handle/10371/154969 (Kiran Sibel, SNU MA thesis 2012, English abstract)
+  method: fetch
+  note: >-
+    Abstract-only; supports Dong-A Ilbo frequently covering Kemal Pasha from 'beginning of 1920s' as ambitious
+    revolutionary / founder of new country, parallel with Korea. Author/year now resolved: Kiran Sibel, 2012.
+    Date 1920 is approximate.
+  checked_on: "2026-10-29"

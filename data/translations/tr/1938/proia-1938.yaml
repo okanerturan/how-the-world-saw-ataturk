@@ -1,0 +1,28 @@
+# Turkish for data/voices/1938/proia-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: proia-1938
+voice: Proia
+role: Yunan gazetesi
+quote: Türkiye kurucusunu kaybediyorsa, Yunanistan da büyük ve güvenilir bir dostunu kaybediyor
+quote_kind: translated
+summary: >-
+  Onu büyük bir reformcu olarak nitelendirdi ve Yunanların onun Türk-Yunan dostluğuna duyduğu sarsılmaz inancı
+  duygulanarak hatırlayacağını söyledi: Türkiye büyük kurucusunu kaybediyorsa, Yunanistan da büyük ve
+  güvenilir bir dostunu kaybediyor.
+caveat: >-
+  Yunan gazetesinin Toksoy'daki Türkçe özetinin İngilizceye aktarımı. Bu alıntının Estia'ya değil Proia'ya ait
+  olduğu anlaşıldığında 29 Ekim 2026'da eklendi.
+mediated_by: Toksoy 2010 §Yunanistan, dn. 15-16
+verification_note: düzeltmeler sırasında eklendi (alıntı estia-1938 kaydından taşındı)
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 84a4efe29c7f
+  role: 5e3f5e9ffd0a
+  quote: 976cac76ae04
+  summary: 46d9dc6982d7
+  caveat: a36c4d1ce9f9
+  mediated_by: 84729c372932
+  verification_note: 4875c1cbd6e6
+  verification_method: 939bb46a04c3

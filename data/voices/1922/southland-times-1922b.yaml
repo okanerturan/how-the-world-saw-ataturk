@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: southland-times-1922b
+voice: Southland Times
+voice_type: press
+role: Invercargill daily, leader
+country: New Zealand
+country_now: New Zealand
+domain: press
+date: "1922-09-30"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Said Kemal invited trouble by demanding Thrace, treated the neutral zone with 'delightful insouciance', yet
+  was playing a strong hand with Smyrna as venue.
+quote:
+  text: he is extremely dense if he does not read in the revolution a revival of Greek patriotism
+  language: en
+node: New Zealand Editors on Kemal, September 1922 – 1923
+sources:
+  - url: https://paperspast.natlib.govt.nz/newspapers/ST19220930.2.18
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: paperspast.natlib.govt.nz/newspapers/ST19220930.2.18 (Southland Times 30 Sep 1922)
+  method: fetch
+  checked_on: "2026-10-29"

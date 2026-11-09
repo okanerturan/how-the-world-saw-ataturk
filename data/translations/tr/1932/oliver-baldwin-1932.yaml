@@ -1,0 +1,35 @@
+# Turkish for data/voices/1932/oliver-baldwin-1932.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: oliver-baldwin-1932
+voice: Oliver Baldwin
+role: İngiliz gazeteci ve asker, Stanley Baldwin'in oğlu, sonradan İşçi Partisi milletvekili
+quote: >-
+  Mustafa Kemal ruhban sınıfının gücünü sınırlandırdığı için gelecekte işler muhtemelen daha iyi olacaktır,
+quote_kind: translated
+summary: >-
+  Anadolu köylüleri hakkında yazarken, Kemal ruhban sınıfının gücünü sınırlandırdığı için işlerin düzelmesini
+  bekler.
+caveat: >-
+  Oliver Baldwin, The Questing Beast: An Autobiography (1932), s. 129 (ve Türklerin 'may become a very
+  different race' ifadesi için s. 130) olarak kaynak gösterilmiştir. Açık tarama (1932 baskısının Digital
+  Library of India nüshası). 1920'ler Anadolu'suna dair bir seyahatname içinde geçerken değinilen bir görüş;
+  cümle köylüler hakkında bir öngörüdür. Kitaptaki diğer 'Kemal'ler Mustafa Kemal değil, Çerkes tutsak
+  arkadaşı Yusuf Kemal'dir; diğer Kemalist değinmeler (s. 165'teki 17 Eylül 1922 yürüyüşü; daha ileride
+  Kemal'in portresinin Hintli Müslümanların dükkânlarında asılı olduğuna dair bir not) betimleyicidir. Basılı
+  sayfada cümle virgülde kesilmektedir; metin s. 130'da devam eder.
+verification_note: >-
+  Birebir aynı; cümle s. 129'un altında virgülde kesiliyor ve 'things will probably be better in the future,
+  and if the Turks are allowed a reasonable period of peace, one day they may become a very different race'
+  şeklinde devam ediyor. Kitaptaki diğer 'Kemal', Yusuf Kemal'dir (kontrol edildi). Kendi görüşü, kısa;
+  yoğunluk 1'de bakış uygun. Parçanın 1920-21'i anlattığına ama cümlenin 1932'de yazıldığına dikkat edilmeli.
+verification_method: djvu metni çekildi, dizge eşleştirildi, bağlam okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b50a3017f5ab
+  role: 8c2dbe8e05f4
+  quote: 6c2d428af5e1
+  summary: cc26540d7790
+  caveat: 1fc0fd2ae1b0
+  verification_note: 59fb6db59f8c
+  verification_method: 00eff14b97b9

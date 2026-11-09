@@ -1,0 +1,41 @@
+# Turkish for data/voices/1926/lindsay-1926-02-08.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lindsay-1926-02-08
+voice: Ronald Lindsay
+role: İngiltere'nin Türkiye Büyükelçisi (daha sonra Washington Büyükelçisi)
+quote: >-
+  Bu politika, Mustafa Kemal'e özgü acımasız bir inatçılıkla sürdürülmektedir ve tüm halkın içten desteğini
+  görmektedir.
+quote_kind: translated
+summary: >-
+  Yabancı şirketlere ve okullara yönelik yabancılara karşı bir kampanyadan, Kemal'e özgü acımasız inatçılık ve
+  halk desteğiyle sürdürülen bir 'Çin Seddi' politikasından yakındı.
+caveat: >-
+  Alıntı bozuk OCR'dan ('purnued', 'remorseles pertinaciy', 'charactertic') normalleştirilmiştir. 31 Mart 1925
+  tarihli raporda (sayı 258, Şimşir V), Şeyh Said ayaklanmasının muhtemelen 'the radical autocracy of Mustafa
+  Kemal' karşısındaki muhalefeti ezmek için kullanıldığını yazmıştır.
+mediated_by: >-
+  Şimşir, İngiliz Belgelerinde Atatürk c. VI No. 4 ← Lindsay'den Austen Chamberlain'e, yazı No. 59, İstanbul,
+  8 Şubat 1926
+verification_note: >-
+  OCR: 'This policy s being purnued with the remorseles pertinaciy charactertic of Mustafa Kemal and it
+  receives the cordial support ofthe whole population.' Normalleştirilmiş alıntı aslına sadık, belirsizliğe
+  yer bırakmayan bir düzeltmedir ve temizleme işlemi dürüstçedir ('s' → 'is' ve 'ofthe' → 'of the' de sessizce
+  düzeltilmiştir). 'Chinese wall of exclusiveness', yabancı şirketler, British High School for Girls ve 'a
+  deliberate campaign to make the life of the foreigner here an intolerable burden' ifadelerinin tümü
+  what_they_saw alanını desteklemektedir. 'xenophobic' kelimesi raporda geçmemektedir; 'a campaign against
+  foreigners' daha yakın olur. DÜZELTME: 'radical autocracy of Mustafa Kemal' ifadesi 'No. 226 of 24 Mar 1925'
+  içinde değil (24 Mart tarihli sayı 225 farklı bir rapordur), 31 Mart 1925 tarihli rapordadır (sayı 258,
+  Şimşir V). Düşmanca sınıflandırması adildir.
+verification_method: archive.org açık djvu metin okuması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 355d1c121f27
+  role: cfe170f0b05f
+  quote: 8073ae5505ee
+  summary: 7d241a582733
+  caveat: 8b0f2376e30b
+  mediated_by: 5f6fd28472c1
+  verification_note: bd37479d2be0
+  verification_method: b152e9063489

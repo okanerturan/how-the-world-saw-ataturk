@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: george-dragos-1938
+voice: George Dragoș
+voice_type: person
+role: Romanian professor
+country: Romania
+country_now: Romania
+domain: letters
+date: "1938"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: S
+summary: >-
+  In his book's preface saw the Turkish awakening as an act of thought, ending on the Gazi at his window over
+  the Bosphorus.
+mediated_by: Toksoy 2010 (Romanian originals not seen)
+caveat: Date of the book not given in the note; Romanian originals not seen.
+node: Romania Hangs the Black Flags, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  checked_against: sources/toksoy-2010-balkan-mideast-press.txt (III Romanya Basini, fn.78)
+  method: local
+  note: >-
+    Preface on Turkey's awakening under Ataturk and closing passage of Gazi at his window over the Bosphorus
+    both present. Book date not given by Toksoy; '1938' unsupported
+  checked_on: "2026-10-29"

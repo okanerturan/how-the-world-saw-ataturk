@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: afghan-royal-uncle-unnamed-1938
+voice: Afghan royal uncle (unnamed)
+voice_type: person
+role: King's uncle, Afghan delegate
+country: Afghanistan
+country_now: Afghanistan
+domain: diplomacy
+date: "1938-11-21"
+era: funeral
+polarity: witness
+intensity: 1
+artifact: visit
+evidence: T+P
+summary: Named among the foreign special missions sent to the funeral; no view stated.
+mediated_by: Havas/Reuter wires (Delpher), 17 Nov 1938
+caveat: Name unknown; exiled Amanullah was not present.
+node: Death and State Funeral of Atatürk
+sources:
+  - url: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mustafa_Kemal_Atat%C3%BCrk
+    archived: https://web.archive.org/web/20260926071813/https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Mustafa_Kemal_Atat%C3%BCrk
+verification:
+  verdict: confirmed
+  checked_against: >-
+    a local working file and ocr_MMSAB03_000068570_mpeg21_a0093.txt (Delpher: 'Afghanistan een oom van den
+    Koning')
+  method: local
+  note: Wire-issue date 17 Nov not visible in OCR text read; funeral 21 Nov.
+  checked_on: "2026-10-29"

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: la-gaceta-tampa-1930-06
+voice: La Gaceta (Tampa)
+voice_type: press
+role: Spanish-language daily, Tampa, Florida (cigar-worker readership)
+country: United States
+country_now: United States
+domain: press
+date: "1930-06-27"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: editorial
+evidence: P
+summary: >-
+  Column lists 'Dictadura de Kemal Pacha en Turquía' with Mussolini, Pilsudski and Stalin and condemns all
+  dictatorships as bad and undemocratic.
+quote:
+  text: Todas las dictaduras son malas, antidemocráticas
+  language: es
+caveat: >-
+  Unsigned front-page column; the list also names Primo de Rivera, Leguía, Ibáñez and Stalin, so Kemal is one
+  entry in a general indictment.
+node: Tampa's La Gaceta Calls Kemal a Dictator, 1930–1935
+sources:
+  - url: https://www.loc.gov/resource/sn86002403/1930-06-27/ed-1/?sp=1
+verification:
+  verdict: paraphrase-ok
+  quote_found: true
+  checked_against: Chronicling America sn86002403 1930-06-27 ed-1 p1 (OCR)
+  method: loc.gov JSON -> tile.loc.gov full_text OCR
+  note: >-
+    Quote verbatim ('Todas las dictaduras son malas, antidemocráticas'). Column lists 'Dictadura de Kemal
+    Pacha en Turquía' with Pilsudski, Leguía, Ibáñez, Stalin; Mussolini and Primo de Rivera are NOT named,
+    only 'Dictadura negra en Italia' / 'verde militar en España' - record's 'names Primo de Rivera/Mussolini'
+    is inference.
+  checked_on: "2026-10-30"

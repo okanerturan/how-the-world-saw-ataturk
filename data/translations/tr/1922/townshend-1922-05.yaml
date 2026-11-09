@@ -1,0 +1,26 @@
+# Turkish for data/voices/1922/townshend-1922-05.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: townshend-1922-05
+voice: Sir Charles Townshend (Milletvekili)
+role: Avam Kamarası soru önergesi, Yunanistan ve Türkiye
+quote: Kemal, geçtiğimiz 22 Nisan tarihli, İtilaf Devletleri'ne yönelik notasında
+quote_kind: translated
+summary: >-
+  Kemal'in notasını İzmit'te müzakereye hazır olduğunun ilanı olarak gösterdi ve Hükümet'ten Yunanistan'a
+  teklifi kabul etmesi için baskı yapmasını istedi.
+caveat: >-
+  Bir soru önergesi; 30 Mayıs 1922 tarihli konuşma ('I know him well and respect him') mevcut kayıttır.
+verification_note: >-
+  Alıntı soru metninin içindedir; iddiayla örtüşmektedir (İzmit'te müzakereye hazır olma, Yunanistan'ı kabul
+  etmeye çağırma).
+verification_method: doğrudan hansard-api
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 213f62057bcb
+  role: bb8471233dc7
+  quote: f08c11a8e78c
+  summary: a24293a76ab0
+  caveat: 00e5015300a0
+  verification_note: 06a8be0bf2b4
+  verification_method: c2b72a20633d

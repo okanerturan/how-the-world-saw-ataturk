@@ -1,0 +1,28 @@
+# Turkish for data/voices/1941/ishiwara-kanji-1941.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ishiwara-kanji-1941
+voice: Ishiwara Kanji (石原莞爾)
+role: Japon İmparatorluk Ordusu subayı, stratejist
+quote: >-
+  Yakın dönemde Mustafa Kemal Paşa, Chiang Kai-shek, General Franco ve benzerleri kabaca böyledir
+quote_kind: translated
+summary: >-
+  Mustafa Kemal Paşa'yı, Chiang ve Franco ile birlikte, siyasi ve stratejik komutayı kabaca tek kişide
+  birleştiren yakın dönemli bir yönetici olarak andı.
+caveat: >-
+  1938 ve 1940'ta gözden geçirilen, 8 Nisan 1941'de yayımlanan 1929 tarihli konferans; cümle İkinci Avrupa
+  Savaşı'ndan söz ettiği için 1929'dan olamaz.
+verification_note: >-
+  Alıntı birebir. Metin, hükümdar-komutanı 'ideal' olarak sunuyor ve Kemal/Chiang/Franco'yu kabaca bunun
+  örneği olarak sıralıyor; 'hayran' kutupluluğu ılımlı bir yorumdur (betimleyici, sıcak bir övgü değil).
+verification_method: curl, Shift-JIS kod çözümü, ruby etiketleri ayıklandı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3107fcd21092
+  role: 074a6aad9e9a
+  quote: 2f777bab1e86
+  summary: 03f1669cfce3
+  caveat: b6151e33860b
+  verification_note: 4a4d4e28ec6f
+  verification_method: b3904f388979

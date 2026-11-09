@@ -1,0 +1,39 @@
+# Turkish for data/voices/2007/byrd-2007-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: byrd-2007-10
+voice: Robert C. Byrd
+role: Batı Virginia'dan ABD Senatörü (Demokrat), Geçici Başkan (President pro tempore)
+quote: >-
+  Daha sonra kendisine "Türklerin babası" anlamına gelen Atatürk adı verilen Kemal, imparatorluğun çökmekte
+  olan yapılarını ve çağ dışı kalmış usullerini reddetti ve bunun yerine, Türkiye'de bugüne ve bu saate kadar
+  süregelen bir miras olan reform ve modernleşme programını benimsedi.
+quote_kind: translated
+summary: >-
+  Cumhuriyet Bayramı'nda, daha sonra Atatürk adını alan Mustafa Kemal'i imparatorluğun çağ dışı usullerini
+  reddedip reform ve modernleşmeyi seçen bir savaş kahramanı olarak tanımlıyor.
+caveat: >-
+  Cumhuriyet'in 84. yıl dönümünde, Temsilciler Meclisi'nin bir Ermeni soykırımı karar tasarısını tartıştığı
+  haftada ortak sunucunun yaptığı açıklama; arşiv bu açıklamaya söz konusu tartışmayla bir bağ
+  yüklememektedir. Unvan ve eyalet bilgisi standart kayıtlardan alınmıştır. Şöyle kaynak gösterilmiştir:
+  Senate, 29 Ekim 2007, S. Res. 358 (Amerika Birleşik Devletleri ile Türkiye arasındaki dostluk),
+  Congressional Record c. 153, s. S13524 (granül CREC-2007-10-29-pt1-PgS13524).
+verification_note: >-
+  Alıntı birebir, Senate, 29 Ekim 2007 Pazartesi, Mr. BYRD, s. S13524 (S13525 işareti daha sonra geliyor); S.
+  Res. 358, Mr. Smith tarafından kendisi ve Mr. Byrd adına sunulmuştur. DÜZELTME: görev unvanı 'emeritus'
+  değil, 'President pro tempore' olmalıdır (Byrd bu görevi Ocak 2007'den Haziran 2010'a kadar yürütmüştür);
+  unvan metinde basılı değildir. Hayran/2 yerinde. Çekince notundaki Temsilciler Meclisi Ermeni karar tasarısı
+  tartışması bağlantısı kontrol edilmedi.
+verification_method: >-
+  GovInfo dosyası indirildi, pdftotext/HTML temizliği yapıldı, alıntının normalleştirilmiş eşleşmesi
+  doğrulandı; konuşmacı, tarih ve sayfa bilgileri Record'un kendi başlıklarından ve sayfa üstbilgilerinden
+  okundu
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1727af216fe2
+  role: ea64fca0d2cb
+  quote: 30b96735d1f0
+  summary: a9fbd0e88765
+  caveat: a5e5b47b84cd
+  verification_note: 640bc3f72a76
+  verification_method: 5594abd6cdd0

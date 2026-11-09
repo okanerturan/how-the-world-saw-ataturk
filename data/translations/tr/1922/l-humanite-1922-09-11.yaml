@@ -1,0 +1,27 @@
+# Turkish for data/voices/1922/l-humanite-1922-09-11.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: l-humanite-1922-09-11
+voice: L'Humanité
+role: Paris Komünist günlük gazetesi
+quote: Kemal bununla birlikte Asya'da Britanya emperyalizmini vurabilir
+quote_kind: translated
+summary: >-
+  Kemal'in zaferini, Araplar veya Afganistan üzerinden Asya'daki Britanya emperyalizmine olası bir darbe
+  olarak okudu.
+caveat: >-
+  Görünüm 3. Parça cümle ortasından kesilmiştir; içinde bir kişi olarak Kemal'e yönelik övgü ya da yergi yer
+  almaz. Gallica ContentSearch parçası, OCR olduğu gibi kopyalanmıştır; görünüm numarası Gallica'ya aittir,
+  basılı sayfa numarası olmayabilir.
+verification_note: >-
+  Birebir OCR parçası; nüsha tarihi kayıt/ark bilgisinden alınmıştır, bağımsız olarak doğrulanmamıştır.
+verification_method: ms fetch ContentSearch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1dc1e2aacc89
+  role: eeeadc09fd53
+  quote: 77a2ade0b2df
+  summary: 17a1e3dcb91a
+  caveat: fb52893cc081
+  verification_note: e932b79134cd
+  verification_method: 20b5d45e7de4

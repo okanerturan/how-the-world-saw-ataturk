@@ -1,0 +1,29 @@
+# Turkish for data/voices/1921/ibrahim-suryya-62-deputies-1921-09-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ibrahim-suryya-62-deputies-1921-09-19
+voice: İbrahim Süreyya (Saruhan) ve 62 milletvekili
+role: Gazi/Mareşal kanun teklifinin imzacıları
+quote: >-
+  Mücahedei hudapesendanesiyle vatanın halaskarı ve zaferi ahirin âmili olan Reisi Muhterememiz Başkumandan
+  Mustafa Kemal Paşa Hazretlerine milletin alâmeti şükranı olmak üzere müstahak oldukları gazilik unvanının
+  ita ve rütbei müşiri tevcihini
+quote_kind: original-turkish
+summary: >-
+  Başkumandan'ı vatanın kurtarıcısı olarak nitelendirerek, milletin şükranının bir nişanesi olarak ona Gazi
+  unvanı ve Mareşal rütbesi verilmesini kanun teklifiyle önerdiler.
+caveat: >-
+  Kanun teklifi (2/351); gündem başlığında 've 62 arkadaşı' denirken Reis 'seksen küsur imza'dan söz eder.
+  Basılı listede Hüsrev, Yunus Nadi, Halil Hulki, Besim Atalay, Mustafa Durak yer alır. Kanun aynı gün el
+  kaldırma suretiyle, 'müttefikan' kabul edildi. Basılı metin s. 263.
+verification_note: Birebir aynı; el kaldırma suretiyle 'müttefikan kabul olundu' ifadesi de mevcut.
+verification_method: pdftotext iki sütun kırpma (col.py)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2fefd7ea7c98
+  role: 9743b62e0fe0
+  quote: 37e95db944ff
+  summary: b88b3feaf833
+  caveat: 15b760ab0f2c
+  verification_note: 6787636b45f5
+  verification_method: 5e1533cd88ca

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mackenzie-king-1923
+voice: Mackenzie King
+voice_type: person
+role: Canadian Prime Minister, address in reply, House of Commons
+country: Canada
+country_now: Canada
+domain: politics
+date: "1923-02-01"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Relayed the British despatch naming Kemal as the threat the Allies must not be driven out of Constantinople
+  by.
+quote:
+  text: driven out of Constantinople by Mustapha Kemal
+  language: en
+caveat: >-
+  King reports the contents of the British despatch of 15 Sept 1922; the words are the despatch's as
+  paraphrased by King, not his own opinion of Kemal. OCR/print breaks 'Mustapha / Kemal' across a line.
+node: Canada's Commons on Chanak, February 1923
+sources:
+  - url: https://parl.canadiana.ca/view/oop.debates_HOC1402_01/44
+  - url: https://parl.canadiana.ca/view/oop.debates_HOC1402_01/45
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    parl.canadiana.ca oop.debates_HOC1402_01 seq 44 (printed p.30), Commons 1 Feb 1923, page image read
+  method: Page image read
+  note: >-
+    Verbatim: 'driven out of Constantinople by Mustapha / Kemal' (line break in right col.). Speaker Mackenzie
+    King relaying the despatch; witness polarity correct. Page 31 header gives FEBRUARY 1, 1923.
+  checked_on: "2026-10-30"

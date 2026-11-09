@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jinnah-1938-12-26
+voice: Muhammad Ali Jinnah
+voice_type: person
+role: President of the All-India Muslim League
+country: British India
+country_now: Pakistan
+domain: politics
+date: "1938-12-26"
+era: funeral
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  Calls Atatürk the foremost figure of the Muslim East and a great hero lost, and asks whether India's Muslims
+  will stay in the quagmire.
+quote:
+  text: In Kemal Ataturk the Islamic world has lost a great hero.
+  language: en
+caveat: >-
+  Presidential address delivered extempore at Patna, 26-29 Dec 1938; text as printed in Jamiluddin Ahmad, Some
+  Recent Speeches and Writings of Mr. Jinnah, p. 66 (Internet Archive DLI scan, OCR read; the 'quagmire'
+  sentence: 'With the example of this great man in front of them as an inspiration, will the Muslims of India
+  still remain in quagmire?'). The widely circulated November 1938 'greatest Musalman in the modern Islamic
+  world' press interview is NOT in this text and its primary source was not found (only Dawn 2020 and a
+  Wikipedia talk page citing 'Quaid-e-Azam and the Islamic World', 1981): see candidates file.
+node: Muhammad Ali Jinnah
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.189842
+  - url: https://archive.org/download/in.ernet.dli.2015.189842/2015.189842.Some-Recent-Speeches-And-Writings-Of-Mr-Jinnah_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Jamiluddin Ahmad, Some Recent Speeches and Writings of Mr. Jinnah, p. 66 (archive.org
+    in.ernet.dli.2015.189842 djvu.txt)
+  method: fetched the archive.org djvu text directly with curl; located the passage and page header
+  note: >-
+    Verbatim on p. 66 (header 'RECENT SPEECHES AND' / '66'; the Patna address begins on p. 65): 'Another great
+    figure, a world figure, that has passed away is Mustafa Kemal Ataturk. His death has come as the greatest
+    blow to the Muslim world. He was the foremost figure in the Muslim East. … In Kemal Ataturk the Islamic
+    world has lost a great hero. With the example of this great man in front of them as an inspiration, will
+    the Muslims of India still remain in quagmire ? (Cries of no, no.)' Heading on p. 65: 'Full text of the
+    Presidential Address delivered extempore at the annual session of the All-India Muslim League held at
+    Patna, 26th-29th December, 1938.' Caveat: the book gives the session span, not a day for this passage; 26
+    Dec is the opening day and presidential address day from outside knowledge (not shown in the book), so the
+    date field is sound but could read '1938-12 (Patna session 26-29 Dec)'. what_they_saw fair. No other
+    correction.
+  checked_on: "2026-11-01"

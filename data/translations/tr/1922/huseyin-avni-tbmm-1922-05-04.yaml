@@ -1,0 +1,29 @@
+# Turkish for data/voices/1922/huseyin-avni-tbmm-1922-05-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: huseyin-avni-tbmm-1922-05-04
+voice: Hüseyin Avni Ulaş
+role: Erzurum milletvekili, Birinci Türkiye Büyük Millet Meclisi
+quote: Bir adama bin iş verilmez efendiler, hakkınızı kıskanınız.
+quote_kind: original-turkish
+summary: >-
+  Meclis'in yasama yetkilerini Başkomutan'a veren maddeye karşı çıktı: bir adama bin iş verilmemeli ve
+  milletin hakkı korunmalıdır.
+caveat: >-
+  Kaynak: TBMM Gizli Celse Zabıtları (gözden geçirilmiş edisyon, TBMM, 2023), cilt 3, Gizli celse, 4 Mayıs
+  1338 (1922), s. 372. Kişiden ziyade makamın yetkilerine karşı çıkmaktadır; iki gün sonra (bkz. sonraki
+  kayıt) Kemal'i şahsen övmüştür.
+verification_note: >-
+  s. 372'de birebir; konuşma Meclis'in yasama/yürütme yetkilerinin tek bir kişiye devredilmesine
+  (Başkumandanlık kanunu) karşı çıkıyor. Hasmane kutupluluk, çekince notunda belirtildiği üzere makamı hedef
+  alan itiraza uyuyor.
+verification_method: açık PDF'in pdftotext çıktısı; sayfa işareti – 372 –
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b16757f214e4
+  role: aafe3f6d49de
+  quote: 7a184cd63a57
+  summary: 0f81170c3596
+  caveat: 44db96510878
+  verification_note: bf48529df6c6
+  verification_method: be280c889841

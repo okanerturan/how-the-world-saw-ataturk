@@ -1,0 +1,28 @@
+# Turkish for data/voices/1922/l-action-francaise-1922.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: l-action-francaise-1922
+voice: L'Action française
+role: Paris kralcı-milliyetçi günlük gazetesi
+quote: Aynı şekilde, Mustafa Kemal ılımlı görünüyor
+quote_kind: translated
+summary: >-
+  Balkan savaşı paniği konulu bir köşe yazısında, Mustafa Kemal ve Fethi Bey'in açıklamalarını ılımlı,
+  Türkleri ise makuliyetten uzak olmayan bir tutumda okudu.
+caveat: >-
+  Alıntı Gallica OCR'dan kopyalanmıştır; makalenin tamamı olarak değil, arama eşleşmesi parçaları halinde
+  okunmuştur. 'Instrumental', parçalarda açıkça ifade edilmeyip gazetenin Şark Meselesi çerçevesinden yapılan
+  bir çıkarımdır.
+verification_note: >-
+  Tam makale, 16 Eylül 1922 tarihi, "Balkan war-scare column" ve polarity=instrumental doğrulanamıyor; alıntı
+  bir arama parçasıdır.
+verification_method: fetch
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 5935eec82225
+  role: 48f28912435a
+  quote: 1969fae631c7
+  summary: bc28d7b23948
+  caveat: 0c2e160d92b7
+  verification_note: fa46fe3af070
+  verification_method: ad8cee67138e

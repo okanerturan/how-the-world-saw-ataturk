@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jamiat-ulema-gaya-1922-12
+voice: Jamiat-ul-Ulema, Gaya session
+voice_type: institution
+role: Muslim divines' body meeting beside the Congress
+country: British India
+country_now: India
+domain: religion
+date: "1922-12"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: ceremony
+evidence: P
+summary: >-
+  Congratulated Mustafa Kemal on his victories and resolved to title him 'The Great Crusader', Saviour of the
+  Khilafat, for giving it rebirth.
+quote:
+  text: the title of Mujadid-i-Khilafat ( Saviour of the Khilafat )
+  language: en
+mediated_by: Modern Review, Jan 1923
+caveat: >-
+  Reported in the Modern Review's summary of the Gaya meetings, not in the Jamiat's own minutes. OCR
+  running-head pages c. 182-183.
+node: Gaya to Angora — Indian Voices on Kemal, 1922–1924
+sources:
+  - url: https://archive.org/details/dli.calcutta.09830
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: IA dli.calcutta.09830 Modern Review Jan 1923 djvu text
+  method: >-
+    quote verbatim: 'the title of Mujadid-i-Khilafat ( Saviour of the Khilafat )'; also 'The Great Crusader',
+    congratulated Kemal on victories; mediated by Modern Review as stated
+  checked_on: "2026-10-29"

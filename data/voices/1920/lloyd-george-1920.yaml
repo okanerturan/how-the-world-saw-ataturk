@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lloyd-george-1920
+voice: David Lloyd George
+voice_type: person
+role: Prime Minister (Commons speech of 22 Dec 1920, as quoted in 1922)
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-12-22"
+era: contemporary
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Dismissed Kemal as a mutinous general, refusing to buy his good will by giving him Smyrna against the
+  Greeks' wishes.
+quote:
+  text: Mustapha Kemal, who is a mutinous general
+  language: en
+mediated_by: >-
+  T. P. O'Connor reading Hansard 22 Dec 1920, Vol. 136 cols 1895-97, into the Commons debate of 8 Feb 1922
+caveat: >-
+  Second-hand: T. P. O'Connor reads Lloyd George's Hansard text of 22 Dec 1920 (col. 1895-97) into the 1922
+  debate; the 1920 text itself not fetched.; wording known only as T. P. O'Connor read it into the 8 Feb 1922
+  debate; 22 Dec 1920 original not retrieved
+node: Parliament on Kemal and the Greeks, 1921–1922
+sources:
+  - url: https://hansard.parliament.uk/Commons/1922-02-08/debates/f4ae054c-5321-4dff-b06e-4a49dab44b27/DebateOnTheAddress
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hansard API contribution fbdced2e-fb04-40f8-a5e1-ba0b656bcc8c (O'Connor, 1922-02-08, Debate On The
+    Address) quoting PM statement of 22 Dec 1920
+  method: api
+  note: >-
+    Second-hand as flagged: wording verified only as O'Connor's reading; 22 Dec 1920 original not retrievable
+    from the API search.
+  checked_on: "2026-10-29"

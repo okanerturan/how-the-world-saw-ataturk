@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: forbes-1931
+voice: Rosita Forbes
+voice_type: person
+role: "British traveller and author, Conflict: Angora to Afghanistan"
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1931"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Sees Kemal as an undaunted modernizer, a small man brooding over great schemes, whose nationalism endangers
+  minorities as Abdul Hamid's fanaticism did.
+quote:
+  text: >-
+    the nationalism of Mustafa Kemal can be as dangerous to the Minorities, whose treatment is a test of
+    civilization, as was the fanaticism of Abdul Hamid
+  language: en
+caveat: >-
+  Author's Preface is unnumbered; ch. I pp. 1-5. The 'genius of Mustafa Kemal' line in the same volume is Sir
+  Percy Sykes's Foreword, not Forbes.
+node: Rosita Forbes
+sources:
+  - url: https://archive.org/details/conflict-angora-to-afghanistan?q=nationalism+of+Mustafa+Kemal
+  - url: https://archive.org/download/conflict-angora-to-afghanistan/Forbes%201931%20Conflict%20Angora%20to%20Afghanistan_djvu.txt
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: archive.org conflict-angora-to-afghanistan djvu.txt lines ~597-601, 1160-1163
+  method: fetch
+  checked_on: "2026-10-29"

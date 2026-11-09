@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: swedish-papers-1938
+voice: Swedish papers (unresolved)
+voice_type: press
+role: Unspecified Swedish-language press
+country: Sweden
+country_now: Sweden
+domain: press
+date: "1938-11-14"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: S
+summary: >-
+  Said modern Turkey would not exist without him and that Turks will raise their standing by following his
+  work.
+quote:
+  text: >-
+    Had he not existed, there would be no modern Turkey. But the Turks will raise their standing still further
+    by following his extraordinary work.
+  language: en
+mediated_by: Toksoy 2010 ← Ulus 14 Nov 1938 p. 1
+caveat: >-
+  Attribution unresolved: may be a digest of the Finnish Hufvudstadsbladet line or Finland's Swedish-language
+  press.
+node: Helsinki and Stockholm, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/32009
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    sources/toksoy-2010-balkan-mideast-press.txt intro ('Isvec gazeteleri ... O olmasaydi, modern Turkiye de
+    olmazdi', fn.6 Ulus 14 Kasim 1938 s.1)
+  method: local
+  note: Attribution to 'Swedish papers' is Toksoy's.
+  checked_on: "2026-10-29"

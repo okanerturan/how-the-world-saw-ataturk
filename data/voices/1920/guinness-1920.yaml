@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: guinness-1920
+voice: Lieut.-Colonel Guinness MP
+voice_type: person
+role: Member of the Commons, debate on the Turks and Constantinople
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1920-02-26"
+era: contemporary
+polarity: hostile
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Blamed Kemal's levies for the Marash and Zeitun massacres and predicted that expelling the Turks from
+  Constantinople would make him dictator.
+quote:
+  text: Mustafa Kemal would become dictator
+  language: en
+node: Parliament Meets Kemal, February–March 1920
+sources:
+  - url: https://hansard.parliament.uk/Commons/1920-02-26/debates/7dd9498b-3e40-4d22-a1d1-b06729365496/TurksAndConstantinople
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://hansard.parliament.uk/Commons/1920-02-26/debates/7dd9498b-3e40-4d22-a1d1-b06729365496
+    (contribution 2533087e-f48b-428e-850d-6bed2453da23, Lieut.-Colonel GUINNESS)
+  method: api
+  checked_on: "2026-10-29"

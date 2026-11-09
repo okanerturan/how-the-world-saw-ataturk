@@ -1,0 +1,28 @@
+# Turkish for data/voices/1920/hoare-1920.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hoare-1920
+voice: Sir Samuel Hoare, Milletvekili
+role: Avam Kamarası, Türkler ve İstanbul görüşmesi
+quote: Enver ve Mustafa Kemal Sivas'tayken toplarınızı Padişah'a doğrultmanın ne faydası var?
+quote_kind: translated
+summary: >-
+  Kemal'i Sivas'ta asıl güç olarak Enver'le bir tuttu ve Padişah'ı tehdit etmenin hiçbir işe yaramadığını
+  savundu.
+caveat: >-
+  Konuşmacı metinde 'Sir S. HOARE' olarak basılmıştır; 'Kliamil' yazımı Hansard metnindeki gibidir. Hasmane
+  yorum, Enver ile bir tutulmasından çıkarılmıştır.
+verification_note: >-
+  'Kliamil' dahil birebir aynı. Hasmane kutupluluk, Enver ile bir tutulmasından ve 'effete tyranny'
+  sözlerinden çıkarılmıştır; 'threatening the Sultan achieved nothing' ifadesi, gölge egemenlik alternatifinin
+  yerinde bir açımlamasıdır.
+verification_method: Hansard API konuşma araması
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d04fbec7a413
+  role: fbebb8113af5
+  quote: 6e3914c6768a
+  summary: 89fb457eaa9d
+  caveat: f5821901ff6f
+  verification_note: 7a20bc2fec9e
+  verification_method: eb299d3d7c05

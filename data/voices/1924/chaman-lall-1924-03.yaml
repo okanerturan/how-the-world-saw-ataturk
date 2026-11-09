@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: chaman-lall-1924-03
+voice: Diwan Chaman Lall
+voice_type: person
+role: Labour leader, member for West Punjab, Legislative Assembly
+country: British India
+country_now: India
+domain: politics
+date: "1924-03-25"
+era: contemporary
+polarity: admiring
+intensity: 1
+mirror: anti-colonial-liberator
+artifact: speech
+evidence: P
+summary: >-
+  In the passports-for-the-Khilafat-delegation adjournment debate, credits Kemal's sword, not Government of
+  India diplomacy, with revising the Treaty of Sevres.
+quote:
+  text: it was not the Government of India but the Sword of Mustapha Kemal Pasha.
+  language: en
+caveat: >-
+  Legislative Assembly Debates, vol. IV pt. III, 25 Mar 1924, p. 2214. Official report digitised by the Lok
+  Sabha Secretariat / Government of India Press, via archive.org OCR. Text read from the OCR of the official
+  report; obvious OCR slips are silently corrected in the quote. Check: the question reads 'partly to
+  congratulate the Turks on their victory'.
+node: Indian Legislative Assembly on Kemal, 1924–1925 — Chaman Lall and Motilal Nehru
+sources:
+  - url: https://archive.org/download/eparlib.nic.in.760688/
+verification:
+  verdict: partial
+  quote_found: true
+  checked_against: >-
+    Legislative Assembly Debates vol. IV pt. III (eparlib.nic.in.760688, clad_02_01_25-03-1924), 25 Mar 1924,
+    p. 2214 (header precedes the passage); speaker 'Mr. Chaman Lal (West Punjab: Non-Muhammadan)' with Dumasia
+    interjection and Chair interruption in the same speech
+  method: >-
+    fetched archive.org djvu OCR text fresh via /metadata and /download; grepped the quote and read the
+    surrounding speaker headers, page headers and speech
+  note: >-
+    Quote verbatim ('Government of India' ... 'Sword of Mustapha Kemal Pasha'; OCR 'Ghaman Lal', 'artigle');
+    page, date, volume, era ok. PROBLEM in caveat: the phrase 'to present congratulatory addresses to Ghazi
+    Mustafa Kamal Pasha' is not in the debate text. The question reads 'partly to congratulate the Turks on
+    their victory and partly to settle the future of the Khilafat'; no 'Ghazi' appears anywhere in the volume.
+    Fix: replace with 'delegations to Turkey, partly to congratulate the Turks on their victory'. Gaze is
+    marginal: a one-clause credit of Sevres revision to Kemal's sword, kept at intensity 1; it is also
+    advocacy for the Khilafat delegation (instrumental defensible).
+  resolution: corrected/hedged 2026-11-03 — see LEDGER § Source-check corrections (round 23a)
+  checked_on: "2026-11-03"

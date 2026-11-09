@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: howard-2000
+voice: John Howard
+voice_type: person
+role: Prime Minister of Australia (1996–2007)
+country: Australia
+country_now: Australia
+domain: politics
+date: "2000-04-25"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  At the Gallipoli international service, pays tribute to 'the great Kemal Ataturk' for the reconciliation of
+  the nations after 1915.
+quote:
+  text: >-
+    I want to pay tribute to successive leaders of the Republic of Turkey, particularly the great Kemal
+    Ataturk for the way in which the nations were reconcilled after the campaigns of 1915.
+  language: en
+caveat: >-
+  Spelling 'reconcilled' is the transcript's. Delivered at Gallipoli in the presence of the Turkish and New
+  Zealand prime ministers. Two days earlier in Ankara (PM Transcripts 22713, 23 April 2000) Howard called the
+  Turks 'honoured' opponents but the pronoun is not clearly Atatürk, so that passage is not used; on 26 April
+  in Paris (11503) a journalist, not Howard, characterises Ataturk's 1934 words as helping reconcile former
+  enemies. The 'Johnnies and Mehmets' / 'your sons are now lying in our bosom' text that Anzac speakers
+  attribute to Atatürk is itself contested: no 1934 original has been found, it first appears in print in 1953
+  via Interior Minister Şükrü Kaya's recollection, and the 'Johnnies and Mehmets' clause is a 1978 Australian
+  addition (see [[Johnnies and Mehmets]]). So this is a speaker's view of the Atatürk of the Anzac legend,
+  spoken at a commemorative or diplomatic occasion that rewards praise. Cited as: Turkish International
+  Service at Mehmetcik Abide, 25 April 2000.
+node: Anzac Day Leaders on Atatürk, 1990–2024 — Australian and New Zealand Speeches
+sources:
+  - url: https://pmtranscripts.pmc.gov.au/release/transcript-22690
+    archived: https://web.archive.org/web/20200409063153/https://pmtranscripts.pmc.gov.au/release/transcript-22690
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: pmtranscripts.pmc.gov.au XML query?transcript=22690
+  method: >-
+    fetched source fresh, normalised-text match of the quote; speaker, date and title read from metadata/byline
+  note: >-
+    Verbatim (incl. 'reconcilled') in transcript 22690 (Howard, Turkish International Service at Mehmetcik
+    Abide, 25 Apr 2000). Own tribute 'the great Kemal Ataturk'. Admiring 1 fair.
+  checked_on: "2026-11-03"

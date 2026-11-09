@@ -1,0 +1,48 @@
+# Turkish for data/voices/1978/khomeini-1978.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: khomeini-1978
+voice: Ruhollah Khomeini
+role: Şii merci-i taklid, daha sonra İran İslam Cumhuriyeti'nin kurucusu
+quote: >-
+  Kadınlara İslami örtünme yasağı dayatarak Rıza Han'ın dinsiz Atatürk'ü utanç verici biçimde taklit etmesi,
+  insanlık için utanca neden oldu ve utanç getirdi.
+quote_kind: translated
+summary: >-
+  Rıza Han'ın örtünmeyi kaldırma politikasını 'dinsiz Atatürk'ün utanç verici bir taklidi olarak nitelendirir
+  ve bunun insanlığa utanç getirdiğini belirtir.
+caveat: >-
+  Çeviri; portal cilt ve sayfa numarasını veriyor ancak konuşmayı veya tarihini belirtmiyor. İngilizce Sahifeh
+  dizisinin c. 3'ü, c. 1'in sonu olan 1965 ile Ocak–Nisan 1979'u kapsayan c. 6 arasına denk gelir, dolayısıyla
+  '1978' yaklaşık bir tarihtir; doğrulamak için c. 3 PDF'i çekilemedi. Asıl hedef Rıza Şah'ın politikasıdır;
+  Atatürk bunun modeli olarak anılır. Aynı portal sayfası Kashf al-Asrar'dan (s. 189) Atatürk'ün adını anmayan
+  bir alıntı daha yayımlar. Bu turda Kashf al-Asrar'ın (1943) kendisi okunmamıştır. Tarih: Sahifeh c. 3
+  (İngilizce) Ekim 1973 – Ekim 1978 dönemini kapsar ve s. 309, 18 Şubat 1978 konuşmasından önce gelir,
+  dolayısıyla muhtemelen 1977–78'dir; portal herhangi bir vesile belirtmez.
+mediated_by: >-
+  Imam Khomeini Portal'ın (en.imam-khomeini.ir, n29326) aktardığı İngilizce metin ← Sahifeh-ye Imam c. 3, s.
+  309 (Institute for Compilation and Publication of Imam Khomeini's Works); Farsça aslı okunmadı
+verification_note: >-
+  Alıntı portalda birebir aynı: 'By imposing ban on Islamic veil for women, Reza Khan's shameful imitation of
+  the ungodly Ataturk, caused and brought about shame for humanity.' Portal bunu 'on various occasions'
+  söylenmiş olarak sunar, konuşma veya tarih vermez. İngilizce Sahifeh c. 3, 8 Ekim 1973 - 13 Ekim 1978
+  aralığını kapsar ve akademik bir atıf 18 Şubat 1978 konuşmasını c. 3 s. 342-362'ye yerleştirir, dolayısıyla
+  s. 309 bundan önce gelir: muhtemelen 1977 sonu / 1978 başı, ancak kesinleşmemiştir; kayıttaki 'vol. 3 falls
+  between the 1965 and Jan 1979 volumes' ifadesi gerektiğinden daha gevşektir. Türün (artifact) 'speech'
+  olduğu kanıtlanmamıştır. DÜZELTME: tarih '1973-1978 (Sahifeh vol. 3 p. 309; probably 1977-78)' veya bu
+  ihtiyat payıyla '1978?' olmalı; konuşma tespit edilmedikçe tür 'statement' olarak değiştirilmeli; Çeviri ve
+  yalnızca-portal çekinceleri korunmalı. Düşmanca (hostile) kutupluluk yerindedir (asıl hedef Rıza Şah'ın
+  politikası, model Atatürk'tür).
+verification_method: >-
+  Portal sayfasının tools/ms ile ücretsiz çekimi; c. 3'ün tarih aralığı için iki arama; c. 3 PDF'i bulunamadı
+  (staticsml URL şablonu c. 3 için 404 veriyor)
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6f2349f5a321
+  role: 25825216e68c
+  quote: 332a843639b6
+  summary: c3ddc61354a2
+  caveat: 0ee84e24c437
+  mediated_by: d3ed89dcf473
+  verification_note: 5d6e2a18f734
+  verification_method: 8177811d5c35

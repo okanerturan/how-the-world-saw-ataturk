@@ -1,0 +1,31 @@
+# Turkish for data/voices/1938/berlingske-tidende-1938.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: berlingske-tidende-1938
+voice: Berlingske Tidende
+role: Danimarka günlük gazetesi
+quote: >-
+  İktidarını kılıçla kuranların pek çoğundan tamamen farklı olarak, zafer kazandıktan sonra kılıcını kınına
+  soktu.
+quote_kind: translated
+summary: >-
+  En uzun portre: kahramanlık destanı; iktidarını kılıçla kuran diğerlerinin aksine kılıcını kınına sokan
+  savaşçı ve devlet adamı; Batılılaşmış modern bir devlet bıraktı.
+caveat: >-
+  Toksoy'daki gazete adları fonetiktir ve bazen bozulmuştur; teşhisler varsayıma dayalıdır; yabancı dildeki
+  asılları görülmemiştir.
+mediated_by: Toksoy 2006 ← Akşam 16 Kasım 1938 s. 2 / Kurun / Cumhuriyet / Tan / Ayın Tarihi
+verification_note: >-
+  Toksoy tarafından Türk basın özetlerinden çevrilmiştir; İngilizce alıntı sadık bir aktarımdır; Toksoy
+  'Berlinske' olarak yazar
+verification_method: yerel
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 14596d96f641
+  role: e08a7b3845d0
+  quote: aa12bbcf7275
+  summary: b580d32b2ecf
+  caveat: 1d0053d25711
+  mediated_by: 272e58105c39
+  verification_note: 10948bf5c338
+  verification_method: 939bb46a04c3

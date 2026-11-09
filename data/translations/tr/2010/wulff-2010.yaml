@@ -1,0 +1,42 @@
+# Turkish for data/voices/2010/wulff-2010.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: wulff-2010
+voice: Christian Wulff
+role: Almanya Cumhurbaşkanı
+quote: >-
+  …büyük devlet adamınız Mustafa Kemal Atatürk tarafından açılmış olan Avrupa yolunu sürdürmenizi ummaktadır.
+quote_kind: translated
+summary: >-
+  Türkiye'nin Avrupa'ya uzanan yolunu destekler ve bu yolu Atatürk'ün açtığını söyler; konuşmasını onun barış
+  özdeyişini alıntılayarak bitirir.
+caveat: >-
+  Özgün dildeki metin
+  (https://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2010/10/20101019_Rede.html); TBMM
+  tutanakları (Tarihe Düşülen Notlar-2, 2012) Türkçe bir versiyon basar: "bu yol Büyük Mustafa Kemal Atatürk
+  tarafından açılmıştır.". TBMM kitabı PDF s. 285 (basılı s. 274). İngilizcesi: '…hopes that you will continue
+  on the road to Europe opened by your great statesman Mustafa Kemal Atatürk.' Atatürk'ün 'peace at home,
+  peace in the world' sözüyle kapanır.
+verification_note: >-
+  Kelimesi kelimesine eşleşme; konuşmacı, makam ve tarih kitap başlığıyla uyuşuyor ('Almanya Federal
+  Cumhuriyeti Cumhurbaşkanı Christian Wulff, 8. Birleşim, 19 Ekim 2010' (PDF s. 282'deki başlık)). Alıntı
+  belirtildiği gibi PDF s. 285'te (basılı s. 274). ÖZGÜN METİN: 'Deutschland als ein Land mit besonderem
+  Interesse an einer Anbindung der Türkei an die Europäische Union hofft, dass Sie den Weg nach Europa
+  fortsetzen, der durch Ihren großen Staatsmann Mustafa Kemal Atatürk geöffnet worden ist.' Kapanış: 'Ganz im
+  Sinne des großen Mustafa Kemal Atatürk: "Frieden im Lande und Frieden in der Welt."' (bundespraesident.de,
+  Rede 19 Ekim 2010). Almanca metnin 'büyük devlet adamınız' (Ihren großen Staatsmann) dediğine ve bunu
+  Türkiye'nin sürdüreceği bir umut olarak çerçevelediğine dikkat edin; Türkçe tutanaklar ise 'Büyük' sıfatını
+  Mustafa Kemal'e bağlar ve 'destekliyoruz' der. Önemli bir fark değil.
+verification_method: >-
+  PDF sayfası kendi Swift PDFKit aracımızla PNG'ye dönüştürüldü (check_png/c285.png) ve okundu; başlık, tarih
+  ve makam bölüm başlığı sayfasından okundu; alıntı görüntü üzerinde ve kendi bağımsız metin katmanı
+  çıkarımımıza karşı kelimesi kelimesine karşılaştırıldı
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 07b6cd5ff6b8
+  role: 1d5cefa6fd10
+  quote: 0771a7114e62
+  summary: a9b8db7017c5
+  caveat: 9d5a23ba98cf
+  verification_note: 58d1ab8084fb
+  verification_method: a6c97400273f

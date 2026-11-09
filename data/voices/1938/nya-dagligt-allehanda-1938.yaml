@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nya-dagligt-allehanda-1938
+voice: Nya Dagligt Allehanda
+voice_type: press
+role: Swedish daily
+country: Sweden
+country_now: Sweden
+domain: press
+date: "1938-11"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: editorial
+evidence: S
+summary: Said in fourteen years his work left deep marks on world history.
+mediated_by: Toksoy 2006 ← Cumhuriyet (Swedish papers section)
+caveat: Paper titles in Toksoy are phonetic and sometimes garbled; foreign originals not seen.
+node: Helsinki and Stockholm, November 1938
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/20592
+    archived: https://web.archive.org/web/20261028235957/https://dergipark.org.tr/en/download/article-file/20592
+verification:
+  verdict: confirmed
+  checked_against: >-
+    sources/toksoy-2006-atatürk-yolu-european-press.txt (Swedish section: Nya Daglight Allehanda, on dört yıl)
+  method: local
+  note: Cited by Toksoy to Ulus 15 Nov / Ayın Tarihi, not Cumhuriyet as mediated_by says (minor).
+  checked_on: "2026-10-29"
