@@ -6,7 +6,7 @@
 //   node tools/archive-sources.mjs [--save] [--limit N] [--cache file.json]
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import YAML from 'yaml';
-import { loadVoices, rel } from './lib/records.mjs';
+import { loadVoices, readYaml, rel } from './lib/records.mjs';
 
 const arg = (k, d) => { const i = process.argv.indexOf(`--${k}`); return i > 0 ? process.argv[i + 1] : d; };
 const SAVE = process.argv.includes('--save'), LIMIT = +arg('limit', 0), CACHE = arg('cache', null);
@@ -30,8 +30,13 @@ async function save(url) {
   } catch { return null; }
 }
 
+// one answer per link in a run: many records cite the same page
+const seen = new Map();
 let files = 0, added = 0, missing = 0, looked = 0;
-for (const { file, text, doc } of loadVoices()) {
+for (const { file } of loadVoices()) {
+  // read the file again now, not at start-up: a long --save run must not write back an old copy of a record
+  // that someone edited in the meantime
+  const { text, doc } = readYaml(file);
   if (doc.errors.length) continue;
   const sources = doc.get('sources');
   if (!YAML.isSeq(sources)) continue;
@@ -41,11 +46,17 @@ for (const { file, text, doc } of loadVoices()) {
     if (LIMIT && looked >= LIMIT) break;
     looked++;
     const url = String(item.get('url'));
-    let a = await snapshot(url);
-    if (!a && SAVE) { a = await save(url); await sleep(10000); }
+    let a = seen.get(url);
+    if (a === undefined) {
+      a = await snapshot(url);
+      if (!a && SAVE) { a = await save(url); await sleep(10000); }
+      seen.set(url, a ?? null);
+    }
     if (a) { item.set('archived', a); changed = true; added++; } else missing++;
   }
   if (changed) {
+    // if the file changed while we were waiting on the Wayback Machine, leave it for the next run
+    if (readYaml(file).text !== text) { console.log(`  skipped (edited meanwhile): ${rel(file)}`); continue; }
     const header = text.match(/^(#.*\n)+/)?.[0] ?? '';
     writeFileSync(file, header + doc.toString({ lineWidth: 110, minContentWidth: 40, indentSeq: true }).replace(/^(#.*\n)+/, ''));
     files++;
