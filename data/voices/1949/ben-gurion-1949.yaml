@@ -32,6 +32,7 @@ caveat: >-
 node: David Ben-Gurion
 sources:
   - url: https://dokumen.pub/download/david-ben-gurion-the-state-of-israel-and-the-arab-world-1949-1956-1902210212-9781902210216.html
+    archived: https://web.archive.org/web/20261109101238/https://dokumen.pub/download/david-ben-gurion-the-state-of-israel-and-the-arab-world-1949-1956-1902210212-9781902210216.html
 verification:
   verdict: secondary-only
   quote_found: true

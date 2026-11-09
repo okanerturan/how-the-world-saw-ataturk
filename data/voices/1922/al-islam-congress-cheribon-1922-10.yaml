@@ -27,7 +27,9 @@ caveat: >-
 node: Sarekat Islam and the Cheribon Telegram, 1922–1923
 sources:
   - url: https://resolver.kb.nl/resolve?urn=ddd:011040484:mpeg21:a0087:ocr
+    archived: https://web.archive.org/web/20261109112651/https://resolver.kb.nl/resolve?urn=ddd:011040484:mpeg21:a0087:ocr
   - url: https://resolver.kb.nl/resolve?urn=MMKB19:002117124:mpeg21:a00001:ocr
+    archived: https://web.archive.org/web/20261109111548/https://resolver.kb.nl/resolve?urn=MMKB19:002117124:mpeg21:a00001:ocr
 verification:
   verdict: confirmed
   quote_found: true

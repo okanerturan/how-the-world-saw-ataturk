@@ -27,6 +27,7 @@ caveat: >-
 node: Japanese Writers and Activists on Kemal, 1922–1947 — NDL Digital Collections
 sources:
   - url: https://dl.ndl.go.jp/pid/1277856
+    archived: https://web.archive.org/web/20261109100943/https://dl.ndl.go.jp/pid/1277856
 verification:
   verdict: confirmed
   quote_found: true

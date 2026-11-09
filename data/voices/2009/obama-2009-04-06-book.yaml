@@ -33,7 +33,9 @@ sources:
   - url: https://www.haberturk.com/gundem/haber/138881-obama-anitkabir-ozel-defterine-ne-yazdi
     archived: https://web.archive.org/web/20250123193803/https://www.haberturk.com/gundem/haber/138881-obama-anitkabir-ozel-defterine-ne-yazdi
   - url: https://t24.com.tr/gundem/obama-elini-yuregine-koyup-ataturku-hissetti,38730
+    archived: https://web.archive.org/web/20261109113125/https://t24.com.tr/gundem/obama-elini-yuregine-koyup-ataturku-hissetti,38730
   - url: https://www.dengegazetesi.com.tr/anitkabir-defterine-ne-yazdi-21749h.htm
+    archived: https://web.archive.org/web/20261109114732/https://www.dengegazetesi.com.tr/anitkabir-defterine-ne-yazdi-21749h.htm
 verification:
   verdict: confirmed
   quote_found: true

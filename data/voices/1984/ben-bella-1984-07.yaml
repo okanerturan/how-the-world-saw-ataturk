@@ -35,6 +35,7 @@ caveat: >-
 node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: https://egazete.cumhuriyet.com.tr/en/catalog/192/1984/07/16/8
+    archived: https://web.archive.org/web/20261109101321/https://egazete.cumhuriyet.com.tr/en/catalog/192/1984/07/16/8
 verification:
   verdict: confirmed
   quote_found: true

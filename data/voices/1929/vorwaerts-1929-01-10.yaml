@@ -26,6 +26,7 @@ caveat: >-
 node: Vorwärts and the Arbeiter-Zeitung on the Dictator, 1924–1930
 sources:
   - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/FVBL7RQAXCYGG25XHRW7YH5B7ZNCGEBY?issuepage=5
+    archived: https://web.archive.org/web/20261109114930/https://www.deutsche-digitale-bibliothek.de/newspaper/item/FVBL7RQAXCYGG25XHRW7YH5B7ZNCGEBY?issuepage=5
 verification:
   verdict: partial
   quote_found: true

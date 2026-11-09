@@ -31,6 +31,7 @@ caveat: >-
 node: Interwar Leaders on Kemal in Their Own Words
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/3950163
+    archived: https://web.archive.org/web/20261109100022/https://dergipark.org.tr/en/download/article-file/3950163
 verification:
   verdict: confirmed
   quote_found: true

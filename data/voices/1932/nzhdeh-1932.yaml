@@ -32,6 +32,7 @@ caveat: >-
 node: Wikisource Pens on Mustafa Kemal — Lototsky, Iorga, Nzhdeh, Shant, Annadurai and Others
 sources:
   - url: https://hy.wikisource.org/wiki/%D5%91%D5%A5%D5%B2%D5%AB_%D5%B8%D5%A3%D5%B8%D6%82_%D5%B7%D5%A1%D6%80%D5%AA%D5%A8
+    archived: https://web.archive.org/web/20261109104950/https://hy.wikisource.org/wiki/%D5%91%D5%A5%D5%B2%D5%AB_%D5%B8%D5%A3%D5%B8%D6%82_%D5%B7%D5%A1%D6%80%D5%AA%D5%A8
 verification:
   verdict: confirmed
   quote_found: true

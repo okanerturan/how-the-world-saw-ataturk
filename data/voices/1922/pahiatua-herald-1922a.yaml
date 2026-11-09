@@ -21,6 +21,7 @@ caveat: >-
 node: New Zealand Editors on Kemal, September 1922 – 1923
 sources:
   - url: https://paperspast.natlib.govt.nz/newspapers/PAHH19220923.2.10
+    archived: https://web.archive.org/web/20261109110451/https://paperspast.natlib.govt.nz/newspapers/PAHH19220923.2.10
 verification:
   verdict: confirmed
   checked_against: Papers Past PAHH19220923.2.10 via wrapper fetch

@@ -23,6 +23,7 @@ caveat: >-
 node: New Zealand Editors on Kemal, September 1922 – 1923
 sources:
   - url: https://paperspast.natlib.govt.nz/newspapers/GIST19220928.2.16
+    archived: https://web.archive.org/web/20261109110053/https://paperspast.natlib.govt.nz/newspapers/GIST19220928.2.16
 verification:
   verdict: confirmed
   quote_found: true

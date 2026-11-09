@@ -34,6 +34,7 @@ sources:
   - url: https://belleten.gov.tr/tam-metin/1980/tur
     archived: https://web.archive.org/web/20260218123219/https://belleten.gov.tr/tam-metin/1980/tur
   - url: https://dergipark.org.tr/en/pub/ttkbelleten/article/977862
+    archived: https://web.archive.org/web/20261109100251/https://dergipark.org.tr/en/pub/ttkbelleten/article/977862
 verification:
   verdict: confirmed
   quote_found: true

@@ -33,6 +33,7 @@ caveat: >-
 node: Poets, Reformers and the Black Press on Atatürk, 1921–1935
 sources:
   - url: https://dangerouspress.org/papers/negro-world/1922-09-23
+    archived: https://web.archive.org/web/20261109095903/https://dangerouspress.org/papers/negro-world/1922-09-23
 verification:
   verdict: confirmed
   quote_found: true

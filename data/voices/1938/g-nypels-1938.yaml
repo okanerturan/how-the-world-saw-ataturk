@@ -27,6 +27,7 @@ caveat: >-
 node: Dutch East Indies Press, November 1938
 sources:
   - url: https://resolver.kb.nl/resolve?urn=ddd:011122903:mpeg21:a0177:ocr
+    archived: https://web.archive.org/web/20261109112821/https://resolver.kb.nl/resolve?urn=ddd:011122903:mpeg21:a0177:ocr
 verification:
   verdict: partial
   quote_found: true

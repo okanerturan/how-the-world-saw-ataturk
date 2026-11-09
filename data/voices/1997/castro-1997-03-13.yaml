@@ -45,8 +45,11 @@ caveat: >-
 node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: https://web.archive.org/web/20250523101052/https://e-kutuphane.teb.org.tr/pdf/tebhaberler/mayis_haziran97/8.pdf
+    archived: https://web.archive.org/web/20261109113835/https://web.archive.org/web/20250523101052/https://e-kutuphane.teb.org.tr/pdf/tebhaberler/mayis_haziran97/8.pdf
   - url: https://web.archive.org/web/20161128175517/https://arsiv.sabah.com.tr/1997/03/15/f04.html
+    archived: https://web.archive.org/web/20261109113806/https://web.archive.org/web/20161128175517/https://arsiv.sabah.com.tr/1997/03/15/f04.html
   - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1997.03.15
+    archived: https://web.archive.org/web/20261109103302/https://gazetearsivi.milliyet.com.tr/liste?tarih=1997.03.15
   - url: https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c035/tbmm20035010.pdf
     archived: https://web.archive.org/web/20240630173536/https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c035/tbmm20035010.pdf
   - url: https://www.malumatfurus.org/fidel-castro-ataturk/

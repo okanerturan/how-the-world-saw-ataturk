@@ -34,7 +34,9 @@ caveat: >-
 node: Billy Hughes
 sources:
   - url: https://trove.nla.gov.au/newspaper/article/93229155
+    archived: https://web.archive.org/web/20261109113615/https://trove.nla.gov.au/newspaper/article/93229155
   - url: https://trove.nla.gov.au/newspaper/article/64124806
+    archived: https://web.archive.org/web/20261109113450/https://trove.nla.gov.au/newspaper/article/64124806
 verification:
   verdict: confirmed
   quote_found: true

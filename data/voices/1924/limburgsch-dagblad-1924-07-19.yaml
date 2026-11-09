@@ -24,6 +24,7 @@ caveat: >-
 node: Dutch Confessional Press and the Fall of the Caliphate, March 1924
 sources:
   - url: https://resolver.kb.nl/resolve?urn=ddd:010933072:mpeg21:a0157
+    archived: https://web.archive.org/web/20261109112622/https://resolver.kb.nl/resolve?urn=ddd:010933072:mpeg21:a0157
 verification:
   verdict: confirmed
   quote_found: true

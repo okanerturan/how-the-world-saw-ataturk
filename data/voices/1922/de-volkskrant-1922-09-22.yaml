@@ -24,6 +24,7 @@ caveat: >-
 node: Dutch Dailies at Smyrna, September 1922
 sources:
   - url: https://resolver.kb.nl/resolve?urn=MMKB12:000132218:mpeg21:a00020
+    archived: https://web.archive.org/web/20261109111349/https://resolver.kb.nl/resolve?urn=MMKB12:000132218:mpeg21:a00020
 verification:
   verdict: confirmed
   quote_found: true

@@ -21,6 +21,7 @@ caveat: Note marks Barcs's identity as an open thread.
 node: Hungary's Parliament Rises, November 1938
 sources:
   - url: https://dergipark.org.tr/en/download/article-file/32009
+    archived: https://web.archive.org/web/20261028235909/https://dergipark.org.tr/en/download/article-file/32009
 verification:
   verdict: paraphrase-ok
   checked_against: sources/toksoy-2010-balkan-mideast-press.txt sec. B Macaristan Basini (fn.42)

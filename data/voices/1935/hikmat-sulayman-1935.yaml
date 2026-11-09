@@ -20,6 +20,7 @@ caveat: Single scholarly source (Sorby 2015); the articles themselves not read.
 node: Hikmat Sulayman
 sources:
   - url: https://journals.pan.pl/Content/82263
+    archived: https://web.archive.org/web/20261028235756/https://journals.pan.pl/Content/82263
 verification:
   verdict: paraphrase-ok
   checked_against: >-

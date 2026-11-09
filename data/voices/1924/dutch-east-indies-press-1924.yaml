@@ -23,6 +23,7 @@ caveat: Chapter title not extracted; snippet only.
 node: Malay Press and the Fall of the Caliphate
 sources:
   - url: https://studentrepo.iium.edu.my/entities/publication/105a300c-4170-4fb3-8e3f-ee8d249d497e/full
+    archived: https://web.archive.org/web/20261109112949/https://studentrepo.iium.edu.my/entities/publication/105a300c-4170-4fb3-8e3f-ee8d249d497e/full
 verification:
   verdict: unreachable
   checked_against: https://studentrepo.iium.edu.my/entities/publication/105a300c-... (proxy_error)

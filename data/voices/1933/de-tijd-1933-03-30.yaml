@@ -25,6 +25,7 @@ caveat: >-
 node: Dutch Dailies on the Dictator, 1924–1937
 sources:
   - url: https://resolver.kb.nl/resolve?urn=ddd:010535257:mpeg21:a0051
+    archived: https://web.archive.org/web/20261109112035/https://resolver.kb.nl/resolve?urn=ddd:010535257:mpeg21:a0051
 verification:
   verdict: partial
   quote_found: true

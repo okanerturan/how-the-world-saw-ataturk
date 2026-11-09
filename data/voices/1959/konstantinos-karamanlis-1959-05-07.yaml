@@ -38,6 +38,7 @@ caveat: >-
 node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1959.05.08
+    archived: https://web.archive.org/web/20261109103218/https://gazetearsivi.milliyet.com.tr/liste?tarih=1959.05.08
 verification:
   verdict: confirmed
   quote_found: true

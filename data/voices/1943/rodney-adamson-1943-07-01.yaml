@@ -33,6 +33,7 @@ caveat: >-
 node: Rodney Adamson
 sources:
   - url: https://parl.canadiana.ca/view/oop.debates_HOC1904_04/1129
+    archived: https://web.archive.org/web/20261109110959/https://parl.canadiana.ca/view/oop.debates_HOC1904_04/1129
   - url: https://www.lipad.ca/search/?q=ataturk
 verification:
   verdict: confirmed

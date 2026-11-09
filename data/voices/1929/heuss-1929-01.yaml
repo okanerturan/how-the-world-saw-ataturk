@@ -30,6 +30,7 @@ node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: https://archive.org/details/oapen-20.500.12657-61944
   - url: https://books.google.com/books?id=vAp4DwAAQBAJ&pg=PA470
+    archived: https://web.archive.org/web/20261109095832/https://books.google.com/books?id=vAp4DwAAQBAJ&pg=PA470
 verification:
   verdict: secondary-only
   quote_found: true

@@ -23,6 +23,7 @@ caveat: >-
 node: New Zealand Press, November 1938
 sources:
   - url: https://paperspast.natlib.govt.nz/newspapers/WT19381112.2.87
+    archived: https://web.archive.org/web/20261109110806/https://paperspast.natlib.govt.nz/newspapers/WT19381112.2.87
 verification:
   verdict: confirmed
   quote_found: true

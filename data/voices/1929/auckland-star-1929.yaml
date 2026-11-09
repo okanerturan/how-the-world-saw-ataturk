@@ -26,6 +26,7 @@ caveat: >-
 node: New Zealand Editors on the Dictator, 1929–1938
 sources:
   - url: https://paperspast.natlib.govt.nz/newspapers/AS19290306.2.26
+    archived: https://web.archive.org/web/20261109105608/https://paperspast.natlib.govt.nz/newspapers/AS19290306.2.26
 verification:
   verdict: confirmed
   quote_found: true

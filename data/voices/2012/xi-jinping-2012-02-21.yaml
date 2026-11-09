@@ -29,6 +29,7 @@ sources:
   - url: https://www.hurriyet.com.tr/gundem/sonsuza-kadar-yasa-ataturk-19970645
     archived: https://web.archive.org/web/20221226055301/https://www.hurriyet.com.tr/gundem/sonsuza-kadar-yasa-ataturk-19970645
   - url: https://www.ahaber.com.tr/dunya/2012/02/21/si-cinping-anitkabiri-ziyaret-etti
+    archived: https://web.archive.org/web/20261109114143/https://www.ahaber.com.tr/dunya/2012/02/21/si-cinping-anitkabiri-ziyaret-etti
 verification:
   verdict: confirmed
   quote_found: true

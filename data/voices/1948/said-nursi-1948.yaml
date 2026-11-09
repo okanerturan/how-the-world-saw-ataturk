@@ -32,7 +32,9 @@ caveat: >-
 node: Islamic Thinkers on Atatürk in Their Own Words
 sources:
   - url: https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/330
+    archived: https://web.archive.org/web/20261109105221/https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/330
   - url: https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/329
+    archived: https://web.archive.org/web/20261109105146/https://iikv.org/en/kulliyat/bediuzzaman-said-nursi/329
 verification:
   verdict: partial
   quote_found: true

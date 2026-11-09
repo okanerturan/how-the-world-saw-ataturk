@@ -30,6 +30,7 @@ sources:
   - url: https://dl.ndl.go.jp/pid/1882546
     archived: https://web.archive.org/web/20240519173951/https://dl.ndl.go.jp/pid/1882546
   - url: https://dl.ndl.go.jp/pid/1158825
+    archived: https://web.archive.org/web/20261109100619/https://dl.ndl.go.jp/pid/1158825
 verification:
   verdict: partial
   quote_found: true
