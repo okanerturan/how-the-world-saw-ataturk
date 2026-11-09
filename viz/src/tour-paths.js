@@ -420,3 +420,14 @@ export const FINALE = {
     },
   ],
 };
+
+// 10 November 1938: the reading of the weeks after his death opens with these records, in this order
+// (well-known names, admiring voices first). The rest of that period follows by itself: people, then
+// institutions, then newspapers. Every id must be a checked record whose `era` is `funeral`.
+export const FUNERAL_LEAD = [
+  'roosevelt-1938', 'lebrun-1938', 'jinnah-1938-12-26', 'farouk-1938', 'zahir-shah-1938-11-11', 'manuel-azana-1938',
+  'hirohito-1938', 'ben-badis-1938', 'choudhry-rahmat-ali-1938', 'lyons-1938', 'prince-paul-yugoslavia-1938',
+  'haj-amin-al-husseini-1938', 'nahhas-pasha-1938', 'loraine-1938-11-25', 'reuter-1938-11-22', 'albert-sarraut-1938-2',
+  'zafar-ali-khan-1938-11-poem', 'ismet-inonu-assembly-1938-11-11', 'celal-bayar-1938-11-11', 'hitler-1938',
+  'goebbels-1938-11', 'roncalli-1938',
+];

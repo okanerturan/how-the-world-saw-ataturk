@@ -2,11 +2,17 @@ English: [README.md](README.md)
 
 # Dünya Atatürk'ü nasıl gördü
 
+[![Serginin açılış görünümü: Atatürk'ün tamamen yazı satırlarından oluşan portresi](viz/public/og.jpg)](https://the-long-thread.pages.dev)
+
 1919'dan 2026'ya Mustafa Kemal Atatürk hakkında belgelenmiş sözlerden oluşan açık bir arşiv: onun hakkında kimin ne söylediği, nerede söylediği, bunun hangi kaynaktan geldiği ve o kaynağın bağımsız doğrulaması.
 
 Sözler; devlet başkanlarından, şairlerden, generallerden, gazetelerden, parlamentolardan, din adamlarından, düşmanlardan ve hayranlardan geliyor. Her kayıt, belirli bir andaki tek bir sözü konu alan küçük bir YAML dosyasıdır: konuşmacı, tarih, kısa ve tarafsız bir özet, kaynakta yer alıyorsa konuşmacının orijinal dildeki kendi sözleri, kaynak ve bu kaynağı yeniden açıp inceleyen bağımsız bir doğrulayıcının ulaştığı sonuç.
 
 **Sergi:** [the-long-thread.pages.dev](https://the-long-thread.pages.dev) (Sarmal, Türkçe ve İngilizce). Bu depodaki dosyalardan oluşturulmuştur.
+
+[![Sergide açılmış bir söz: Eleftherios Venizelos, 1934](docs/thread-voice.tr.jpg)](https://the-long-thread.pages.dev/?lang=tr#venizelos-1934-01-12)
+
+Her sözün kendi bağlantısı vardır. Yukarıdaki söz [the-long-thread.pages.dev/#venizelos-1934-01-12](https://the-long-thread.pages.dev/?lang=tr#venizelos-1934-01-12) adresindedir; `#` işaretinden sonraki kısım kaydın `id` değeridir.
 
 ## Mevcut boyut
 

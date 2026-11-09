@@ -111,6 +111,15 @@
   "edit_hint": "Kayıt {x}. Düzeltmelere ve yeni kaynaklara açığız.",
   "archive_head": "Arşiv",
   "suggest_voice": "Eksik bir söz mü var? Önerin",
+  "nov10_title": "10 Kasım 1938",
+  "nov10_line": "Ölümünün ardından geçen haftalarda dünyanın söyledikleri; önce en tanınmış isimler.",
+  "nov10_cta": "10 Kasım 1938: dünya ne dedi",
+  "hello_sub": "Dünya Atatürk’ü nasıl gördü, 1919–2026",
+  "hello_hint": "Buradaki her harf, onun hakkında söylenmiş bir sözün parçası. Okumak için portreye dokunun.",
+  "share": "paylaş",
+  "share_voice": "Bu sözü paylaşın",
+  "link_copied": "bağlantı kopyalandı",
+  "copy_prompt": "Bu bağlantıyı kopyalayın:",
   "data_on_github": "Her kayıt, kaynakları ve doğrulamalarıyla GitHub'da"
  },
  "countries": {

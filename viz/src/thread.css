@@ -56,6 +56,10 @@ details[open] summary::after { content: '–'; }
 #routes i { font-style: normal; font-variant: all-small-caps; letter-spacing: 0.1em; font-size: 13px; color: var(--mute); margin-top: 3px; }
 #routes a:hover b, #routes li.on b { color: var(--red); }
 #routes li.on a::before { content: '▸'; color: var(--red); }
+/* 10 November 1938: not one of the numbered threads */
+#routes li.day a { counter-increment: none; }
+#routes li.day a::before { content: '●'; font-size: 8px; padding-top: 8px; color: var(--red); }
+#routes li.day b { color: var(--red); }
 
 #cats .grp { display: flex; flex-wrap: wrap; column-gap: 14px; margin: 8px 0 12px; line-height: 1.75; }
 #cats .grp .sc { flex-basis: 100%; font-size: 13px; }
@@ -72,6 +76,7 @@ details[open] summary::after { content: '–'; }
 .rooms a { color: var(--ink); text-decoration-color: var(--rule); }
 
 #menu { display: none; }
+#hello { display: none; }
 
 #boot { position: fixed; inset: 0; display: grid; place-items: center; z-index: 1; font: italic 20px var(--serif); color: var(--mute); pointer-events: none; animation: breathe 1.6s ease-in-out infinite alternate; }
 @keyframes breathe { from { opacity: 0.35; } to { opacity: 1; } }
@@ -165,10 +170,23 @@ body[data-mode="read"] #faces, body.unwound #faces { opacity: 0.3; }
     border: 0; border-bottom: 1px solid var(--ink); padding: 2px 4px; cursor: pointer; color: var(--ink);
   }
   body.menu #menu { left: auto; right: 14px; }
-  #lit { transform: translateX(-50%); top: 56px; font-size: 15px; }
+  #lit { transform: translateX(-50%); top: 56px; font-size: 15px; white-space: normal; width: max-content; max-width: calc(100vw - 24px); text-align: center; }
+  #lit > .sc { display: none; }
   #faces { right: 12px; bottom: 10px; font-size: 14.5px; }
   #faces .credit { display: none; }
   body[data-mode="read"] #faces, body.unwound #faces { display: none; }
   #year { top: 10px; right: 14px; font-size: 44px; }
   #sheet { left: 12px; right: 12px; top: 64px; bottom: 12px; width: auto; }
+  /* the opening card: a title above the portrait, where to start below it; gone at the first touch */
+  body:not(.begun) #hello { display: block; }
+  #hello > div { position: fixed; z-index: 2; left: 18px; right: 18px; pointer-events: none; }
+  #hello .top { top: 58px; }
+  #hello h1 { margin: 0; font-size: 40px; font-weight: 500; font-style: italic; line-height: 1; }
+  #hello .top p { margin: 5px 0 0; font-size: 16px; color: var(--mute); }
+  #hello .bot { bottom: 78px; font-size: 17px; line-height: 1.35; }
+  #hello .bot p { margin: 0 0 8px; font-size: 15.5px; color: #3f3a33; max-width: 22em; }
+  #hello a { display: table; margin-top: 5px; pointer-events: auto; text-decoration: none; color: var(--mute); border-bottom: 1px solid var(--rule); }
+  #hello #hello-day { color: var(--red); border-color: var(--red); }
+  body.menu #hello { display: none; }
 }
+@media (max-width: 900px) and (max-height: 740px) { #hello .bot p { display: none; } }

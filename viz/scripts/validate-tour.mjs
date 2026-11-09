@@ -1,5 +1,5 @@
 // Check the guided threads: every stop is a record that exists, has passed its check, and has a note.
-import { PROLOGUE, PATHS, FINALE } from '../src/tour-paths.js';
+import { PROLOGUE, PATHS, FINALE, FUNERAL_LEAD } from '../src/tour-paths.js';
 import { loadVoices } from '../../tools/lib/records.mjs';
 const gazes = new Map(loadVoices().filter((x) => x.data).map((x) => [x.data.id, x.data]));
 const verdict = new Map([...gazes].filter(([, r]) => r.verification?.verdict).map(([id, r]) => [id, r.verification.verdict]));
@@ -30,6 +30,14 @@ for (const p of PATHS) check(p.id, p, () => {
   for (const n of p.next || []) if (!pathIds.has(n) || n === p.id) errors.push(`${p.id}: bad next ${n}`);
 });
 check('FINALE', FINALE);
+// the opening of the 10 November 1938 reading: checked records of the funeral period, none twice
+for (const id of FUNERAL_LEAD) {
+  const r = gazes.get(id), v = verdict.get(id);
+  if (!r) errors.push(`FUNERAL_LEAD: id not in gazes: ${id}`);
+  else if (r.era !== 'funeral') errors.push(`FUNERAL_LEAD: ${id} is not of the funeral period (era ${r.era})`);
+  if (r && (!v || BAD.has(v))) errors.push(`FUNERAL_LEAD: ${id} has no passing check`);
+}
+if (new Set(FUNERAL_LEAD).size !== FUNERAL_LEAD.length) errors.push('FUNERAL_LEAD: duplicate id');
 const dupAcross = all.filter((x, i) => all.indexOf(x) !== i);
 const voices = new Set(all.map(i => gazes.get(i)?.voice));
 console.log('stops:', all.length, '| distinct voices:', voices.size, '| PATHS:', PATHS.length);

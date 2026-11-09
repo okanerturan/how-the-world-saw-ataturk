@@ -6,7 +6,7 @@ import * as THREE from 'three';
 import TinySDF from '@mapbox/tiny-sdf';
 import { loadGazes } from './data.js';
 import { englishQuote, restoreName } from './text.js';
-import { PROLOGUE, PATHS, FINALE } from './tour-paths.js';
+import { PROLOGUE, PATHS, FINALE, FUNERAL_LEAD } from './tour-paths.js';
 import { TR, LANG, tx, country, mediated, tour, months, decadeLabel, upper, loadVoices, localizePage } from './thread-i18n.js';
 import './thread.css';
 
@@ -463,11 +463,13 @@ function sheet(ei) {
     <div class="sc">${esc(tx(g.sources_from_note ? 'sources_from_note' : 'sources'))}</div>
     <ol class="src">${g.sources.map((x) => `<li>${x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${x.label ? `${esc(x.label)}<br>` : ''}<span>${esc(x.url)}</span></a>` : esc(x.label ?? '')}${x.page ? ` · ${esc(x.page)}` : ''}${x.archived ? ` <a class="arch" href="${esc(x.archived)}" target="_blank" rel="noopener">${esc(tx('archived_copy'))}</a>` : ''}</li>`).join('') || `<li>${esc(tx('none_recorded'))}</li>`}</ol>
     <div class="edit">
+      <a href="#" class="share">${esc(tx('share_voice'))}</a>
       <a href="${esc(editUrl(g.path))}" target="_blank" rel="noopener">${esc(tx('edit_record'))}</a>
       ${TR && tr.path ? `<a href="${esc(editUrl(tr.path))}" target="_blank" rel="noopener">${esc(tx('edit_translation'))}</a>` : ''}
       <span>${esc(tx('edit_hint', { x: g.id }))}</span>
     </div>`;
   el.querySelector('.x').onclick = () => { sheet(null); relayout(); };
+  el.querySelector('.share').onclick = (e) => { e.preventDefault(); share(ei, e.currentTarget); };
   el.querySelectorAll('[data-e]').forEach((a) => (a.onclick = (e) => { e.preventDefault(); goTo(+a.dataset.e); }));
   el.scrollTop = 0;
 }
@@ -546,16 +548,17 @@ function caption(ei) {
       <div class="meta">${esc(when(g.date))} · ${esc(placeOf(g))} · ${esc(roleOf(g))}${entries[ei].kind === 'summary' ? ` · <b class="ours">${esc(tx('summary_note'))}</b>` : ''}</div>
       ${stop.note ? `<p class="note">${esc(stop.note)}</p>` : ''}
       <div class="acts"><a href="#" id="c-prev">${esc(tx('prev'))}</a><a href="#" id="c-next">${esc(tx('next'))}</a>
-        <a href="#" id="c-pause">${esc(tx(paused ? 'go_on' : 'pause'))}</a><a href="#" id="c-src">${esc(tx('sources_n', { n: g.sources.length }))}</a><a href="#" id="c-stop">${esc(tx('stop'))}</a></div>
+        <a href="#" id="c-pause">${esc(tx(paused ? 'go_on' : 'pause'))}</a><a href="#" id="c-src">${esc(tx('sources_n', { n: g.sources.length }))}</a><a href="#" id="c-share">${esc(tx('share'))}</a><a href="#" id="c-stop">${esc(tx('stop'))}</a></div>
       <div class="prog"><i id="c-prog"></i></div>`
     : `<div class="sc">${esc(when(g.date))} &nbsp;·&nbsp; ${esc(placeOf(g))}</div>
       <div class="meta">${esc(roleOf(g))}${entries[ei].kind === 'summary' ? ` · <b class="ours">${esc(tx('summary_note'))}</b>` : ''}</div>
-      <div class="acts"><a href="#" id="c-src">${esc(tx('sources_notes'))}</a><a href="#" id="c-x">${esc(tx('wind_back'))}</a></div>`;
+      <div class="acts"><a href="#" id="c-src">${esc(tx('sources_notes'))}</a><a href="#" id="c-share">${esc(tx('share'))}</a><a href="#" id="c-x">${esc(tx('wind_back'))}</a></div>`;
   const on = (id, f) => $(id) && ($(id).onclick = (ev) => { ev.preventDefault(); f(); });
   on('c-prev', () => startGuided(gi - 1));
   on('c-next', () => startGuided(gi + 1));
   on('c-pause', () => { paused = !paused; $('c-pause').textContent = tx(paused ? 'go_on' : 'pause'); if (!paused && dwell) dwell.t0 = performance.now() - dwell.done; });
   on('c-src', () => { if (guided && !paused) $('c-pause').click(); sheet(ei); relayout(); });
+  on('c-share', () => { if (guided && !paused) $('c-pause').click(); share(ei, $('c-share')); });
   on('c-stop', () => { stopGuided(); windBack(); });
   on('c-x', () => windBack());
 }
@@ -567,8 +570,35 @@ function relayout() {
 }
 addEventListener('resize', () => { if (cur) relayout(); });
 
+// the address bar and the tab's name follow the open voice, so the page can be shared or bookmarked at that voice
+const linkOf = (g) => `${location.origin}${location.pathname}${location.search}#${g.id}`;
+const hashEi = () => { try { return idxOf.get(decodeURIComponent(location.hash.slice(1))); } catch { return undefined; } };
+function address(ei) {
+  const g = byDate[ei];
+  document.title = g ? `${voiceName(g)}, ${g.date.slice(0, 4)} · ${tx('mast_title')}` : tx('page_title');
+  try { history.replaceState(null, '', g ? `#${g.id}` : location.pathname + location.search); } catch { /* a sandboxed frame */ }
+}
+// share one voice: the phone's own share sheet where there is one, otherwise its link is copied
+async function share(ei, a) {
+  const g = byDate[ei], url = linkOf(g), q = quoteOf(g), who = `${voiceName(g)}, ${g.date.slice(0, 4)}`;
+  const text = q ? `“${q.length > 220 ? `${q.slice(0, 217).trimEnd()}…` : q}” ${who}` : who;
+  if (navigator.share && matchMedia('(pointer: coarse)').matches) {
+    try { await navigator.share({ text, url }); return; } catch (e) { if (e?.name === 'AbortError') return; }
+  }
+  let ok = false;
+  try { await navigator.clipboard.writeText(url); ok = true; } catch {
+    const ta = Object.assign(document.createElement('textarea'), { value: url });
+    ta.style.cssText = 'position:fixed;opacity:0'; document.body.append(ta); ta.select();
+    try { ok = document.execCommand('copy'); } catch { /* nothing left to try */ }
+    ta.remove();
+  }
+  if (!ok) { prompt(tx('copy_prompt'), url); return; }
+  a.dataset.was ??= a.textContent;
+  a.textContent = tx('link_copied'); clearTimeout(a._t); a._t = setTimeout(() => { a.textContent = a.dataset.was; }, 1800);
+}
 function select(ei, open = false) {
   uniforms.uSel.value = ei; tip.hidden = true;
+  address(ei);
   if (ei < 0) { sheet(null); unwind(-1); return; }
   if (!restView) restView = flight ? { ...flight.to } : { x: view.x, y: view.y, s: view.s, rot: view.rot };
   sheet(open ? ei : null);
@@ -636,15 +666,28 @@ function stopGuided() {
 }
 function leaveTitle() { document.body.classList.add('begun'); if (document.body.dataset.mode === 'intro') document.body.dataset.mode = 'free'; }
 
+// 10 November 1938: the voices of the weeks after his death, lit across his face and read with the best-known
+// names first (the curated opening), then people, institutions and newspapers; voices without their own words last
+const NOV10 = tx('nov10_title');
+const funeral = (() => {
+  const lead = new Map(FUNERAL_LEAD.map((id, k) => [id, k]));
+  const tier = (g) => (lead.has(g.id) ? (quoteOf(g) ? 0 : 0.5) : (quoteOf(g) ? 1 : 4) + (g.voice_type === 'person' ? 0 : g.voice_type === 'press' ? 2 : 1));
+  return byDate.map((g, i) => i).filter((i) => byDate[i].era === 'funeral')
+    .sort((p, q) => tier(byDate[p]) - tier(byDate[q]) || (lead.get(byDate[p].id) ?? 0) - (lead.get(byDate[q].id) ?? 0) || p - q);
+})();
+function readFuneral() { if (lit?.label !== NOV10) light(NOV10, funeral); readList(NOV10, funeral); }
+
 // ---------------------------------------------------------------- the index: search, threads, light-ups, names
 const routesEl = $('routes');
 function drawRoutes() {
   const cur = document.body.dataset.mode === 'read' ? reading.title : null;
-  routesEl.innerHTML = [...ROUTES.map((r, k) => `<li class="${cur === r.title ? 'on' : ''}"><a href="#" data-r="${k}"><b>${esc(r.title)}</b><span>${esc(r.question ?? r.line ?? '')}</span><i>${esc(tx('n_voices', { n: r.stops.length }))}</i></a></li>`),
+  routesEl.innerHTML = [`<li class="day${cur === NOV10 ? ' on' : ''}"><a href="#" data-r="day"><b>${esc(NOV10)}</b><span>${esc(tx('nov10_line'))}</span><i>${esc(tx('n_voices', { n: funeral.length }))}</i></a></li>`,
+    ...ROUTES.map((r, k) => `<li class="${cur === r.title ? 'on' : ''}"><a href="#" data-r="${k}"><b>${esc(r.title)}</b><span>${esc(r.question ?? r.line ?? '')}</span><i>${esc(tx('n_voices', { n: r.stops.length }))}</i></a></li>`),
     `<li class="${cur === tx('famous_title') ? 'on' : ''}"><a href="#" data-r="all"><b>${esc(tx('famous_title'))}</b><span>${esc(tx('famous_line'))}</span><i>${esc(tx('n_voices', { n: famousInOrder.length }))}</i></a></li>`].join('');
   routesEl.querySelectorAll('a').forEach((a) => (a.onclick = (e) => {
     e.preventDefault();
-    if (a.dataset.r === 'all') { reading = { title: tx('famous_title'), stops: famousInOrder.map((i) => ({ ei: i })) }; startGuided(0); }
+    if (a.dataset.r === 'day') readFuneral();
+    else if (a.dataset.r === 'all') { reading = { title: tx('famous_title'), stops: famousInOrder.map((i) => ({ ei: i })) }; startGuided(0); }
     else readRoute(ROUTES[+a.dataset.r]);
   }));
 }
@@ -705,8 +748,10 @@ $('q').addEventListener('input', () => {
 // the index drawer on phones
 const closeMenuOnPhone = () => { if (innerWidth <= 900) document.body.classList.remove('menu'); };
 $('menu').onclick = () => document.body.classList.toggle('menu');
-$('read').onclick = () => { reading = { title: PROLOGUE.title, stops: [] }; readRoute(PROLOGUE); };
-$('explore').onclick = () => { leaveTitle(); };
+$('read').onclick = (e) => { e?.preventDefault(); readRoute(ROUTES[0]); };
+$('explore').onclick = (e) => { e.preventDefault(); leaveTitle(); };
+$('hello-read').onclick = (e) => { e.preventDefault(); readRoute(ROUTES[0]); };
+$('hello-day').onclick = (e) => { e.preventDefault(); readFuneral(); };
 addEventListener('keydown', (e) => {
   if (e.target.closest('input')) return;
   if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
@@ -721,7 +766,7 @@ addEventListener('keydown', (e) => {
 });
 
 // ---------------------------------------------------------------- the loop
-const t0 = performance.now(), REVEAL = 7500;
+const t0 = performance.now(), REVEAL = hashEi() != null ? 1400 : 7500;   // a link to one voice: no long opening
 const ease = (t) => (t < 0.5 ? 4 * t * t * t : 1 - (-2 * t + 2) ** 3 / 2);
 let prev = performance.now(), booted = false;
 function frame(now) {
@@ -798,4 +843,7 @@ function frame(now) {
 }
 requestAnimationFrame(frame);
 document.body.dataset.mode = 'intro';
+// a link to one voice (#record-id) opens straight on that voice
+if (hashEi() != null) { goTo(hashEi()); document.fonts?.ready.then(() => cur && relayout()); }
+addEventListener('hashchange', () => { const ei = hashEi(); if (ei != null && ei !== cur?.ei) goTo(ei); });
 if (import.meta.env.DEV) window.__thread = { renderer, mesh, view, uniforms, inst, h, em, n, state: () => ({ cur: cur && cur.u, old: old && old.u, restView }) };

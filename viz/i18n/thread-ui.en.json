@@ -110,5 +110,14 @@
   "edit_hint": "Record {x}. Corrections and new sources are welcome.",
   "archive_head": "The archive",
   "suggest_voice": "A voice missing? Suggest it",
-  "data_on_github": "Every record, its sources and checks, on GitHub"
+  "data_on_github": "Every record, its sources and checks, on GitHub",
+  "nov10_title": "10 November 1938",
+  "nov10_line": "The weeks after his death: what the world said, the best-known names first.",
+  "nov10_cta": "10 November 1938: what the world said",
+  "hello_sub": "How the world saw Atatürk, 1919–2026",
+  "hello_hint": "Every letter here belongs to something that was said about him. Touch the portrait to read it.",
+  "share": "share",
+  "share_voice": "Share this voice",
+  "link_copied": "link copied",
+  "copy_prompt": "Copy this link:"
 }
