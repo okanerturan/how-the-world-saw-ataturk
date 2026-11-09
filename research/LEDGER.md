@@ -1798,6 +1798,8 @@ Before release, every record added or changed in rounds 34b–35 was re-read by 
 | irfan-orga-1950 | The source link was a catalogue search, not the text | Now cites the Eland edition |
 | macarthur-1953 (now -11-10), muammar-gaddafi-1981 (now -1981-05) | Dates: the message opens 'Today, 10 November'; the paper gives no date for Gaddafi's message. Neither page says 'telegram' | Dates and `artifact` corrected, records renamed |
 | nehru, bourguiba, chiang-kai-shek (1963), helmut-kohl-1993 | Spelling and punctuation as printed ('bizmezliği', 'eğemenliğinin', 'Cumhutiyetinin'; straight quotes) | Restored as printed |
+| tito-1954-04-13 | The page prints 'büyük, Atatürkün': with the comma, 'great' goes with the nation's strength, not with Atatürk | Quote, translation and summary follow the page; the caveat notes the comma may be a slip |
+| adenauer-1954-03-18, mohammad-reza-pahlavi-1956-05-16 | 'âsil', 'dahî' as printed; he laid a bouquet, not a wreath; the certificate was presented by Mayor Orhan Eren, not the governor | Corrected |
 
-Also: 34 records whose quoted text is a Turkish paper's rendering of a foreign speaker now carry `quote.is_translation: true` (the exhibition labels such text 'As printed'); every `summary` is 25 words or fewer; the two round-sweep notes in `vault/Events/` were regenerated from the corrected records.
+Also: 36 records whose quoted text is a rendering of a foreign speaker's words (a Turkish paper's version, or a published translation) now carry `quote.is_translation: true` (the exhibition labels such text 'As printed'); every `summary` is 25 words or fewer; the two round-sweep notes in `vault/Events/` were regenerated from the corrected records.
 

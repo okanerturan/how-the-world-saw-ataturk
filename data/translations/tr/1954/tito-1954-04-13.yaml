@@ -7,33 +7,35 @@ role: >-
   Yugoslavya Devlet Başkanı; resmî ziyareti sırasında Cumhurbaşkanı Bayar'ın verdiği akşam yemeğinde kadeh
   kaldırırken yaptığı cevabî konuşma, Çankaya, Ankara
 quote: >-
-  Türkiyenin hükûmet merkezinde bulunmaktan derin bir memnunluk duymaktayım. Bu Türk milletinin büyük
+  Türkiyenin hükûmet merkezinde bulunmaktan derin bir memnunluk duymaktayım. Bu Türk milletinin büyük,
   Atatürkün efsanevî şahsiyeti hatırasından mülhem olan kuvvetinin ve canlı millî şuurunun vakur bir
   ifadesidir.
 quote_kind: original-turkish
 summary: >-
-  'Büyük Atatürk'ün efsanevi kişiliğinin' hatırasından ilham alan ulusal bir gücün vakur ifadesi olarak Ankara.
+  Atatürk'ün 'efsanevî şahsiyeti'nin hatırasından ilham alan millî bir kudretin vakur ifadesi olarak Ankara.
 caveat: >-
-  Cevabî kadeh konuşmasının açılış satırları; devamı Yugoslav sempatisi, Ankara Paktı ve Balkan barışı
-  hakkındadır. Aynı gün Anıtkabir'e çelenk koydu (Milliyet s. 1); herhangi bir defter yazısı basılmamıştır.
-  Özgün Sırpça-Hırvatça metin (Borba / Politika, 14 Nisan 1954; Govori i članci c. IX) görülmedi. Anıtkabir
-  defterindeki yazısına atfedilen Instagram'daki 'Sizi hayatım boyunca daima ilham kaynağı olarak yaşattım'
-  sözünün kaynağı yoktur. Sayfa görüntüsünden okundu (Milliyet'in abonelere açık arşivi).
+  Karşılık olarak yaptığı kadeh konuşmasının açılış satırları; geri kalanı Yugoslav sempatisi, Ankara Paktı ve
+  Balkan barışı hakkındadır. Sayfada 'büyük' kelimesinden sonra virgül basılmıştır ('büyük, Atatürkün'),
+  dolayısıyla 'büyük' sıfatı milletin kudretiyle birlikte okunmaktadır; eğer virgül bir dizgi hatasıysa ibare
+  'büyük Atatürk' olur. Aynı gün Anıtkabir'e çelenk koydu (Milliyet s. 1); herhangi bir özel defter yazısı
+  basılmamıştır. Özgün metin (Borba / Politika, 14 Nisan 1954; Govori i članci c. IX) görülmedi. Anıtkabir
+  özel defteri yazısına atfedilen ve Instagram'da paylaşılan 'Sizi hayatım boyunca daima ilham kaynağı olarak
+  yaşattım' sözünün kaynağı yoktur. Sayfa görüntüsünden okundu (Milliyet abone arşivi).
 mediated_by: >-
-  Milliyet, 14 Nisan 1954, s. 7 ('Türk-Yugoslav siyasî görüşmeleri başladı', 'Titonun nutku' bölümü):
-  Sırp-Hırvatça yapılan bir kadeh konuşmasının gazetedeki Türkçe aktarımı
+  Milliyet, 14 Nisan 1954, s. 7 ('Türk-Yugoslav siyasî görüşmeleri başladı', 'Titonun nutku' bölümü, sehven
+  'TITNUN NUTKU' olarak basılmış): gazetenin kadeh konuşmasını Türkçe aktarımı
 verification_note: >-
-  Alıntı büyütülmüş görüntüden yazıya geçirildi ('Atatürkün', 'efsanevî', 'mülhem' okunaklı). Akşam yemeği
-  Ankara 13 Nisan mahreç satırıyla ('bu akşam') tarihlendirildi. Ana ajan tarafından okundu; ayrı bir kontrol
-  ajanı yok.
+  Yeni kırpılmış görüntüler üzerinden ikinci, bağımsız bir kontrolör tarafından sayfa görüntüsünden okundu (9
+  Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşüyor. Akşam yemeği, Ankara 13 Nisan
+  mahreçli haber tarihiyle ('bu akşam') tarihlendirilmiştir.
 verification_method: sayfa görüntüsü
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: f23e7ece797a
   role: 5897b70e7c0f
-  quote: cb382b77ea74
-  summary: 30106f96831a
-  caveat: 626fc9c5767e
-  mediated_by: 6d2a65028583
-  verification_note: 3e529d5a4e3d
+  quote: 431c0305ad05
+  summary: b391746740ca
+  caveat: 480e2d55ed5a
+  mediated_by: 76cd82cbb89c
+  verification_note: 1f3c15499365
   verification_method: 1c3478366c90

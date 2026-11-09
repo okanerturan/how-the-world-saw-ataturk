@@ -24,22 +24,26 @@ quote:
   translation: >-
     I know closely the history of the city of Ankara, and how Atatürk prepared the War of Independence here
     and how successfully he brought it to a conclusion.
+  is_translation: true
   language: tr
 mediated_by: >-
-  Milliyet, 3 Apr 1955, p. 7 (continuation of 'Türk-Lübnan ticaret anlaşması yapıldı', section 'Şamoun'un
-  mukabelesi'): the paper's Turkish rendering
+  Milliyet, 3 Apr 1955, p. 7 (continuation, headed 'Türk - Lübnan ticaret anlaşması imzalandı', of the p. 1
+  article 'Türk-Lübnan ticaret anlaşması yapıldı', section 'Şamoun'un mukabelesi'): the paper's Turkish
+  rendering
 caveat: >-
-  Borderline under the strict test: the only judgement is 'muvaffakiyetle' (successfully). He adds that he had
-  earlier spent five days in Ankara. The Anıtkabir visit is narration only. Read on the page image (Milliyet's
-  subscriber archive) by a reader agent; not re-read by the main agent.
+  Borderline under the archive's test: the only judgement is 'muvaffakiyetle' (successfully). He adds that he
+  had earlier spent five days in Ankara. The Anıtkabir visit is narration only. Read on the page image
+  (Milliyet's subscriber archive).
 node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1955.04.03
     archived: https://web.archive.org/web/20261109103048/https://gazetearsivi.milliyet.com.tr/liste?tarih=1955.04.03
 verification:
-  verdict: partial
+  verdict: confirmed
   quote_found: true
   checked_against: Milliyet 3 Apr 1955 p. 7 crop (reader agent)
   method: page image
-  note: Single reader transcription, not re-read by the main agent; borderline polarity.
-  checked_on: "2026-11-06"
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word. Role, venue and date are on p. 1.
+  checked_on: "2026-11-09"

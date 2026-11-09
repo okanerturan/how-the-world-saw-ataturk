@@ -26,16 +26,16 @@ quote:
     The deep bonds of friendship between my late father the sovereign and the great Atatürk have always
     commanded my respect. So here and now I remember these two great guides with deep emotion. We must make
     eternal the great work they built on a solid foundation, Iranian–Turkish friendship.
+  is_translation: true
   language: tr
 mediated_by: "Milliyet, 17 May 1956, p. 1 ('Şâh, Ankara hemşehrisi oldu'): the paper's Turkish rendering"
 caveat: >-
-  Short speech after Governor Kemal Aygün presented the honorary-citizenship certificate. The day before (15
-  May), in a statement to Ankara Radio in Persian, he spoke of a friendship founded 'under the guidance of the
+  Short speech after Mayor Orhan Eren presented the honorary-citizenship certificate. The day before (15 May),
+  in a statement to Ankara Radio in Persian, he spoke of a friendship founded 'under the guidance of the
   enlightened ideas and strong hands of the late Reza Shah and the late Atatürk' ('Merhum Rızâ Şâh'ın ve
-  merhum Atatürk'ün aydınlık fikirleri ve kavi ellerinin rehberliği ile'; Milliyet 16 May 1956 p. 5, 'Şahın
-  demeci'). His Anıtkabir visit (15 May) is narration only. The census's Reza Shah records concern his father.
-  Read on the page images (Milliyet's subscriber archive) by a reader agent; re-checked on the crop by the
-  main agent.
+  merhum Atatürk'ün aydınlık fikirleri ve kavî ellerinin rehberliği ile'; Milliyet 16 May 1956 p. 5, 'Şahın
+  demeci'). His Anıtkabir visit (15 May) is narration only. The archive's Reza Shah records concern his
+  father. Read on the page images (Milliyet's subscriber archive).
 node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1956.05.17
@@ -48,6 +48,7 @@ verification:
   checked_against: Milliyet 17 May 1956 p. 1 crop; 16 May 1956 p. 5 (radio statement) per reader agent
   method: page image
   note: >-
-    Quote re-read on the enlarged crop by the main agent; the radio-statement wording in the caveat is the
-    reader agent's transcription ('Rızâ' accent unclear).
-  checked_on: "2026-11-06"
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word. The radio statement (16 May p. 5) was also re-read: 'Rızâ Şâh'ın', 'kavî
+    ellerinin'.
+  checked_on: "2026-11-09"

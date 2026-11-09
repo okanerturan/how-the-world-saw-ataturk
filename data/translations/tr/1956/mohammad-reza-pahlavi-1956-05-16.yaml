@@ -15,24 +15,25 @@ summary: >-
   Babası Rıza Şah ile olan derin dostluğunu saygıyla andığı 'büyük Atatürk'; İran-Türk dostluğunu sağlam bir
   temel üzerine inşa eden iki 'büyük rehber'.
 caveat: >-
-  Vali Kemal Aygün'ün fahri hemşehrilik beratını takdim etmesinin ardından yaptığı kısa konuşma. Bir gün önce
-  (15 Mayıs), Ankara Radyosu'na Farsça verdiği demeçte 'Merhum Rızâ Şâh'ın ve merhum Atatürk'ün aydınlık
-  fikirleri ve kavi ellerinin rehberliği ile' (Milliyet 16 Mayıs 1956 s. 5, 'Şahın demeci') kurulan bir
-  dostluktan söz etti. Anıtkabir ziyareti (15 Mayıs) yalnızca anlatımdır. Derlemedeki Rıza Şah kayıtları
-  babasıyla ilgilidir. Okuyucu ajan tarafından sayfa görüntülerinden (Milliyet'in abonelere açık arşivi)
-  okundu; ana ajan tarafından kırpılmış görüntü üzerinden yeniden kontrol edildi.
+  Belediye Başkanı Orhan Eren'in fahri hemşehrilik beratını takdim etmesinin ardından yaptığı kısa konuşma.
+  Bir gün önce (15 Mayıs), Ankara Radyosu'na Farsça verdiği demeçte, 'merhum Rıza Şah ile merhum Atatürk'ün
+  aydınlık fikirleri ve güçlü ellerinin rehberliğinde' ('Merhum Rızâ Şâh'ın ve merhum Atatürk'ün aydınlık
+  fikirleri ve kavî ellerinin rehberliği ile'; Milliyet 16 Mayıs 1956 s. 5, 'Şahın demeci') kurulan bir
+  dostluktan söz etmişti. Anıtkabir ziyareti (15 Mayıs) yalnızca haber anlatımı olarak yer alır. Arşivdeki
+  Rıza Şah kayıtları babasına aittir. Sayfa görüntülerinden okundu (Milliyet abone arşivi).
 mediated_by: "Milliyet, 17 Mayıs 1956, s. 1 ('Şâh, Ankara hemşehrisi oldu'): gazetenin Türkçe aktarımı"
 verification_note: >-
-  Alıntı ana ajan tarafından büyütülmüş kırpım üzerinde yeniden okundu; ihtiyat notundaki radyo demeci
-  ifadeleri okuyucu ajanın yazıya geçirmesidir ('Rızâ' üzerindeki düzeltme işareti belirsiz).
+  Yeni kırpılmış görüntüler üzerinden ikinci, bağımsız bir kontrolör tarafından sayfa görüntüsünden okundu (9
+  Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşüyor. Radyo demeci (16 Mayıs s. 5) de
+  yeniden okundu: 'Rızâ Şâh'ın', 'kavî ellerinin'.
 verification_method: sayfa görüntüsü
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 91a551cdec9c
   role: d561406442c0
-  quote: adbffd0be952
+  quote: 21919942f912
   summary: 92b3451c4db6
-  caveat: bfa67a0ab83d
+  caveat: afe66c2cbae5
   mediated_by: c1423820b926
-  verification_note: a0d6067d82cd
+  verification_note: c1b314ca2c95
   verification_method: 1c3478366c90

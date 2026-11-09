@@ -50,44 +50,44 @@ Mediated by: Milliyet, 10 Nov 1953, p. 7, box 'Mac Arthur'un mesajı' (Ankara, A
 
 The 'genius leader, the unforgettable Atatürk', who with the Turkish nation worked wonders out of a state sunk in hopelessness; the German nation's deep admiration.
 
-> Müsaade buyurursanız, ben de Alman milletinin asil Türk milleti ve onun dahi önderi unutulmaz Atatürk'ün nice sonsuz zorluklar ve siyasi ümitsizlikler içinde bulunan bir devletten ne gibi harikalar yaratmağa muktedir olduğunu görmekle duyduğu derin hayranlığı ifade etmek isterim. [English translation: If you will allow me, I too would like to express the deep admiration the German nation feels at seeing what wonders the noble Turkish nation and its genius leader, the unforgettable Atatürk, were able to create out of a state caught in endless difficulties and political hopelessness.]
+> [translation] Müsaade buyurursanız, ben de Alman milletinin âsil Türk milleti ve onun dahî önderi unutulmaz Atatürk'ün nice sonsuz zorluklar ve siyasi ümitsizlikler içinde bulunan bir devletten ne gibi harikalar yaratmağa muktedir olduğunu görmekle duyduğu derin hayranlığı ifade etmek isterim. [English translation: If you will allow me, I too would like to express the deep admiration the German nation feels at seeing what wonders the noble Turkish nation and its genius leader, the unforgettable Atatürk, were able to create out of a state caught in endless difficulties and political hopelessness.]
 
-Mediated by: Milliyet, 19 Mar 1954, p. 7 ('Almanya Başvekili dün Ankaraya geldi', section 'Adenauer şerefine verilen ziyafet'): the paper's Turkish rendering of a speech given in German.
+Mediated by: Milliyet, 19 Mar 1954, p. 7 ('Almanya Başvekili dün Ankaraya geldi', section 'Adenauer şerefine verilen ziyafet'): the paper's Turkish rendering of his speech.
 
-⚠️ Opening of his reply to Menderes at the dinner on his arrival day; he goes on to Turkey as a factor of stability in the Near East and its place in the Western alliance. Earlier that day he laid a wreath at Anıtkabir and stood in silence (Milliyet p. 1, reporter's narration). The German original (Bulletin des Presse- und Informationsamtes der Bundesregierung, March 1954) was not seen. Read on the page image (Milliyet's subscriber archive).
+⚠️ Third sentence of his reply to Menderes at the dinner on his arrival day; he goes on to Turkey as a factor of stability in the Near East and its place in the Western alliance. Earlier that day he laid a bouquet ('buket') at Anıtkabir and stood in silence (Milliyet p. 1, reporter's narration). The German original (Bulletin des Presse- und Informationsamtes der Bundesregierung, March 1954) was not seen. Read on the page image (Milliyet's subscriber archive).
 
 ## Josip Broz Tito, 1954-04-13
 *President of Yugoslavia; reply toast at President Bayar's dinner, Çankaya, Ankara, during his state visit* — admiring, speech, evidence J.
 
-Ankara as the dignified expression of a national strength inspired by the memory of 'the legendary personality of the great Atatürk'.
+Ankara as the dignified expression of a national strength inspired by the memory of Atatürk's 'legendary personality'.
 
-> Türkiyenin hükûmet merkezinde bulunmaktan derin bir memnunluk duymaktayım. Bu Türk milletinin büyük Atatürkün efsanevî şahsiyeti hatırasından mülhem olan kuvvetinin ve canlı millî şuurunun vakur bir ifadesidir. [English translation: I feel deep satisfaction at being in the seat of government of Turkey. It is the dignified expression of the Turkish nation's strength, inspired by the memory of the legendary personality of the great Atatürk, and of its living national consciousness.]
+> [translation] Türkiyenin hükûmet merkezinde bulunmaktan derin bir memnunluk duymaktayım. Bu Türk milletinin büyük, Atatürkün efsanevî şahsiyeti hatırasından mülhem olan kuvvetinin ve canlı millî şuurunun vakur bir ifadesidir. [English translation: I feel deep satisfaction at being in the seat of government of Turkey. It is the dignified expression of the Turkish nation's great strength, inspired by the memory of Atatürk's legendary personality, and of its living national consciousness.]
 
-Mediated by: Milliyet, 14 Apr 1954, p. 7 ('Türk-Yugoslav siyasî görüşmeleri başladı', section 'Titonun nutku'): the paper's Turkish rendering of a toast given in Serbo-Croatian.
+Mediated by: Milliyet, 14 Apr 1954, p. 7 ('Türk-Yugoslav siyasî görüşmeleri başladı', section 'Titonun nutku', misprinted 'TITNUN NUTKU'): the paper's Turkish rendering of his toast.
 
-⚠️ Opening lines of the reply toast; the rest is about Yugoslav sympathy, the Ankara Pact and Balkan peace. The same day he laid a wreath at Anıtkabir (Milliyet p. 1); no book entry is printed. The original Serbo-Croatian text (Borba / Politika, 14 Apr 1954; Govori i članci vol. IX) was not seen. The Instagram line 'Sizi hayatım boyunca daima ilham kaynağı olarak yaşattım' attributed to his Anıtkabir entry has no source. Read on the page image (Milliyet's subscriber archive).
+⚠️ Opening lines of the reply toast; the rest is about Yugoslav sympathy, the Ankara Pact and Balkan peace. The page prints a comma after 'büyük' ('büyük, Atatürkün'), so 'great' reads with the nation's strength; if the comma is a compositor's slip the phrase is 'the great Atatürk'. The same day he laid a wreath at Anıtkabir (Milliyet p. 1); no book entry is printed. The original text (Borba / Politika, 14 Apr 1954; Govori i članci vol. IX) was not seen. The Instagram line 'Sizi hayatım boyunca daima ilham kaynağı olarak yaşattım' attributed to his Anıtkabir entry has no source. Read on the page image (Milliyet's subscriber archive).
 
 ## Camille Chamoun, 1955-04-02
 *President of Lebanon; reply to the Governor and Mayor of Ankara, Kemal Aygün, at the Foreign Ministry residence, during his state visit* — admiring, speech, evidence J.
 
 Ankara as the place where Atatürk prepared the War of Independence and 'how successfully he brought it to a conclusion'.
 
-> Ankara şehrinin tarihini ve Atatürk'ün burada İstiklâl Harbini nasıl hazırladığını ve nasıl muvaffakiyetle neticelendirdiğini yakinen bilmekteyim. [English translation: I know closely the history of the city of Ankara, and how Atatürk prepared the War of Independence here and how successfully he brought it to a conclusion.]
+> [translation] Ankara şehrinin tarihini ve Atatürk'ün burada İstiklâl Harbini nasıl hazırladığını ve nasıl muvaffakiyetle neticelendirdiğini yakinen bilmekteyim. [English translation: I know closely the history of the city of Ankara, and how Atatürk prepared the War of Independence here and how successfully he brought it to a conclusion.]
 
-Mediated by: Milliyet, 3 Apr 1955, p. 7 (continuation of 'Türk-Lübnan ticaret anlaşması yapıldı', section 'Şamoun'un mukabelesi'): the paper's Turkish rendering.
+Mediated by: Milliyet, 3 Apr 1955, p. 7 (continuation, headed 'Türk - Lübnan ticaret anlaşması imzalandı', of the p. 1 article 'Türk-Lübnan ticaret anlaşması yapıldı', section 'Şamoun'un mukabelesi'): the paper's Turkish rendering.
 
-⚠️ Borderline under the strict test: the only judgement is 'muvaffakiyetle' (successfully). He adds that he had earlier spent five days in Ankara. The Anıtkabir visit is narration only. Read on the page image (Milliyet's subscriber archive) by a reader agent; not re-read by the main agent.
+⚠️ Borderline under the archive's test: the only judgement is 'muvaffakiyetle' (successfully). He adds that he had earlier spent five days in Ankara. The Anıtkabir visit is narration only. Read on the page image (Milliyet's subscriber archive).
 
 ## Mohammad Reza Pahlavi, 1956-05-16
 *Shah of Iran; speech on receiving the honorary citizenship of Ankara, Türk Ocağı, during his state visit* — admiring, speech, evidence J.
 
 'The great Atatürk', whose deep friendship with his father Reza Shah he reveres; the two 'great guides' who built Iranian–Turkish friendship on a solid foundation.
 
-> Merhum hükümdar pederimle büyük Atatürk arasındaki derin dostluk râbıtaları, benim için daima şâyânı hürmet olmuştur. Onun için şimdi burada bu iki büyük rehberin hâtıralarını, derin bir heyecanla meşbû olarak yâdediyorum. Onların sağlam bir temel üzerine kurmuş oldukları büyük eseri, İran - Türk dostluğunu bizler ebedi kılmalıyız. [English translation: The deep bonds of friendship between my late father the sovereign and the great Atatürk have always commanded my respect. So here and now I remember these two great guides with deep emotion. We must make eternal the great work they built on a solid foundation, Iranian–Turkish friendship.]
+> [translation] Merhum hükümdar pederimle büyük Atatürk arasındaki derin dostluk râbıtaları, benim için daima şâyânı hürmet olmuştur. Onun için şimdi burada bu iki büyük rehberin hâtıralarını, derin bir heyecanla meşbû olarak yâdediyorum. Onların sağlam bir temel üzerine kurmuş oldukları büyük eseri, İran - Türk dostluğunu bizler ebedi kılmalıyız. [English translation: The deep bonds of friendship between my late father the sovereign and the great Atatürk have always commanded my respect. So here and now I remember these two great guides with deep emotion. We must make eternal the great work they built on a solid foundation, Iranian–Turkish friendship.]
 
 Mediated by: Milliyet, 17 May 1956, p. 1 ('Şâh, Ankara hemşehrisi oldu'): the paper's Turkish rendering.
 
-⚠️ Short speech after Governor Kemal Aygün presented the honorary-citizenship certificate. The day before (15 May), in a statement to Ankara Radio in Persian, he spoke of a friendship founded 'under the guidance of the enlightened ideas and strong hands of the late Reza Shah and the late Atatürk' ('Merhum Rızâ Şâh'ın ve merhum Atatürk'ün aydınlık fikirleri ve kavi ellerinin rehberliği ile'; Milliyet 16 May 1956 p. 5, 'Şahın demeci'). His Anıtkabir visit (15 May) is narration only. The census's Reza Shah records concern his father. Read on the page images (Milliyet's subscriber archive) by a reader agent; re-checked on the crop by the main agent.
+⚠️ Short speech after Mayor Orhan Eren presented the honorary-citizenship certificate. The day before (15 May), in a statement to Ankara Radio in Persian, he spoke of a friendship founded 'under the guidance of the enlightened ideas and strong hands of the late Reza Shah and the late Atatürk' ('Merhum Rızâ Şâh'ın ve merhum Atatürk'ün aydınlık fikirleri ve kavî ellerinin rehberliği ile'; Milliyet 16 May 1956 p. 5, 'Şahın demeci'). His Anıtkabir visit (15 May) is narration only. The archive's Reza Shah records concern his father. Read on the page images (Milliyet's subscriber archive).
 
 ## Theodor Heuss, 1957-05-06
 *Federal President of West Germany* — admiring, speech, evidence S.
@@ -105,11 +105,11 @@ Mediated by: Mathie 2023 (open access), quoting Heuss, 'Erwiderung des Herrn Bun
 
 'The great Atatürk', who with Venizelos laid the foundations of a Turkish–Greek friendship that served both countries; invoked to cast renewed cooperation as historic necessity.
 
-> Büyük Atatürk ve Elefterios Venizelos, Türk-Yunan dostluğunun temellerini attıkları zaman bu dostluk her iki memleket için faydalı olmuştur. Bugün ise Türk-Yunan müşterek çalışmaları bir tarihi zaruret halini almıştır. [English translation: When the great Atatürk and Eleftherios Venizelos laid the foundations of Turkish–Greek friendship, this friendship was beneficial to both countries. Today Turkish–Greek joint work has become a historic necessity.]
+> [translation] Büyük Atatürk ve Elefterios Venizelos, Türk-Yunan dostluğunun temellerini attıkları zaman bu dostluk her iki memleket için faydalı olmuştur. Bugün ise Türk-Yunan müşterek çalışmaları bir tarihi zaruret halini almıştır. [English translation: When the great Atatürk and Eleftherios Venizelos laid the foundations of Turkish–Greek friendship, this friendship was beneficial to both countries. Today Turkish–Greek joint work has become a historic necessity.]
 
 Mediated by: Milliyet, 8 May 1959, p. 5 (continuation of 'Karamanlis Ankara'da', section 'Karamanlisin beyanatı'): the paper's Turkish rendering of his airport statement.
 
-⚠️ Arrival statement to the press, 7 May 1959; he visited Anıtkabir the same afternoon (narration only). A political invocation rather than a personal portrait. The census already holds his nephew Kostas Karamanlis (PM 2004–09); this is the elder Konstantinos (1907–1998). Greek original not seen. Read on the page image (Milliyet's subscriber archive) by a reader agent and re-checked on the crop by the main agent.
+⚠️ Arrival statement to the press, 7 May 1959; he visited Anıtkabir the same afternoon (narration only). A political invocation rather than a personal portrait. The archive already holds his nephew Kostas Karamanlis (PM 2004–09); this is the elder Konstantinos (1907–1998). Greek original not seen. Read on the page image (Milliyet's subscriber archive).
 
 ## Alec Douglas-Home, 1963-11-10
 *Prime Minister of the United Kingdom (from Oct 1963); message for the 25th anniversary of Atatürk's death* — admiring, quote, evidence J.

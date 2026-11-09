@@ -15,25 +15,25 @@ summary: >-
   Venizelos ile birlikte her iki ülkeye de hizmet eden bir Türk-Yunan dostluğunun temellerini atan 'büyük
   Atatürk'; yenilenen işbirliğini tarihsel bir zorunluluk olarak sunmak için anılmıştır.
 caveat: >-
-  Basına varış açıklaması, 7 Mayıs 1959; aynı gün öğleden sonra Anıtkabir'i ziyaret etti (yalnızca anlatım).
-  Kişisel bir portreden ziyade siyasi bir atıf. Derlemede yeğeni Kostas Karamanlis (Başbakan, 2004–09) zaten
-  yer almaktadır; bu ise yaşlı Konstantinos'tur (1907–1998). Yunanca özgün metin görülmedi. Okuyucu ajan
-  tarafından sayfa görüntüsünden (Milliyet'in abonelere açık arşivi) okundu ve ana ajan tarafından kırpılmış
-  görüntü üzerinden yeniden kontrol edildi.
+  Varışında basına yaptığı açıklama, 7 Mayıs 1959; aynı gün öğleden sonra Anıtkabir'i ziyaret etti (yalnızca
+  haber anlatımı). Kişisel bir portreden ziyade siyasî bir atıf. Arşivde yeğeni Kostas Karamanlis (Başbakan
+  2004–09) zaten yer almaktadır; bu kayıt büyük Konstantinos'a (1907–1998) aittir. Yunanca aslı görülmedi.
+  Sayfa görüntüsünden okundu (Milliyet abone arşivi).
 mediated_by: >-
   Milliyet, 8 Mayıs 1959, s. 5 ('Karamanlis Ankara'da' devamı, 'Karamanlisin beyanatı' bölümü): havaalanı
   açıklamasının gazetedeki Türkçe aktarımı
 verification_note: >-
-  Yazıya geçirme büyütülmüş kırpım üzerinde kontrol edildi: 'Büyük Atatürk ve Elefterios Venizelos' okunaklı.
-  Araçsal (mevcut işbirliğini desteklemek için kurucuları anıyor).
+  Yeni kırpılmış görüntüler üzerinden ikinci, bağımsız bir kontrolör tarafından sayfa görüntüsünden okundu (9
+  Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşüyor. Bağlam (Esenboğa Havalimanı'ndaki
+  basın açıklaması) s. 1'dedir.
 verification_method: sayfa görüntüsü
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 9daba33eb1b5
   role: b0d9e0f1041c
-  quote: dc6d4ba4eacf
+  quote: 96dfadb89d18
   summary: 70029ed3eaeb
-  caveat: 98a21a502026
+  caveat: 5e1255f2f507
   mediated_by: 463dd976b07c
-  verification_note: 4dbc9140108b
+  verification_note: c5763a59976e
   verification_method: 1c3478366c90

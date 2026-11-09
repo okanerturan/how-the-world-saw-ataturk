@@ -14,27 +14,29 @@ intensity: 1
 artifact: speech
 evidence: J
 summary: >-
-  Ankara as the dignified expression of a national strength inspired by the memory of 'the legendary
-  personality of the great Atatürk'.
+  Ankara as the dignified expression of a national strength inspired by the memory of Atatürk's 'legendary
+  personality'.
 quote:
   text: >-
-    Türkiyenin hükûmet merkezinde bulunmaktan derin bir memnunluk duymaktayım. Bu Türk milletinin büyük
+    Türkiyenin hükûmet merkezinde bulunmaktan derin bir memnunluk duymaktayım. Bu Türk milletinin büyük,
     Atatürkün efsanevî şahsiyeti hatırasından mülhem olan kuvvetinin ve canlı millî şuurunun vakur bir
     ifadesidir.
   translation: >-
     I feel deep satisfaction at being in the seat of government of Turkey. It is the dignified expression of
-    the Turkish nation's strength, inspired by the memory of the legendary personality of the great Atatürk,
-    and of its living national consciousness.
+    the Turkish nation's great strength, inspired by the memory of Atatürk's legendary personality, and of its
+    living national consciousness.
+  is_translation: true
   language: tr
 mediated_by: >-
-  Milliyet, 14 Apr 1954, p. 7 ('Türk-Yugoslav siyasî görüşmeleri başladı', section 'Titonun nutku'): the
-  paper's Turkish rendering of a toast given in Serbo-Croatian
+  Milliyet, 14 Apr 1954, p. 7 ('Türk-Yugoslav siyasî görüşmeleri başladı', section 'Titonun nutku', misprinted
+  'TITNUN NUTKU'): the paper's Turkish rendering of his toast
 caveat: >-
   Opening lines of the reply toast; the rest is about Yugoslav sympathy, the Ankara Pact and Balkan peace. The
-  same day he laid a wreath at Anıtkabir (Milliyet p. 1); no book entry is printed. The original
-  Serbo-Croatian text (Borba / Politika, 14 Apr 1954; Govori i članci vol. IX) was not seen. The Instagram
-  line 'Sizi hayatım boyunca daima ilham kaynağı olarak yaşattım' attributed to his Anıtkabir entry has no
-  source. Read on the page image (Milliyet's subscriber archive).
+  page prints a comma after 'büyük' ('büyük, Atatürkün'), so 'great' reads with the nation's strength; if the
+  comma is a compositor's slip the phrase is 'the great Atatürk'. The same day he laid a wreath at Anıtkabir
+  (Milliyet p. 1); no book entry is printed. The original text (Borba / Politika, 14 Apr 1954; Govori i članci
+  vol. IX) was not seen. The Instagram line 'Sizi hayatım boyunca daima ilham kaynağı olarak yaşattım'
+  attributed to his Anıtkabir entry has no source. Read on the page image (Milliyet's subscriber archive).
 node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1954.04.14
@@ -46,6 +48,6 @@ verification:
     Milliyet 14 Apr 1954 p. 7, page image (gazetearsivi.milliyet.com.tr, AuthImage), read enlarged
   method: page image
   note: >-
-    Quote transcribed from the enlarged image ('Atatürkün', 'efsanevî', 'mülhem' legible). Dinner dated by the
-    Ankara 13 Apr dateline ('bu akşam'). Read by the main agent; no separate checker agent.
-  checked_on: "2026-11-06"
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word. The dinner is dated by the Ankara 13 Apr dateline ('bu akşam').
+  checked_on: "2026-11-09"

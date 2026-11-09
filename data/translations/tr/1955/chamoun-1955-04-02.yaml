@@ -13,22 +13,24 @@ quote_kind: original-turkish
 summary: >-
   Atatürk'ün Kurtuluş Savaşı'nı hazırladığı yer olarak Ankara ve savaşı 'nasıl başarıyla sonuçlandırdığı'.
 caveat: >-
-  Sıkı ölçüte göre sınırda: tek değer yargısı 'muvaffakiyetle' (başarıyla) sözcüğüdür. Daha önce Ankara'da beş
-  gün geçirdiğini ekler. Anıtkabir ziyareti yalnızca anlatımdır. Okuyucu ajan tarafından sayfa görüntüsünden
-  (Milliyet'in abonelere açık arşivi) okundu; ana ajan tarafından yeniden okunmadı.
+  Arşivin ölçütüne göre sınırda bir kayıt: tek değer yargısı 'muvaffakiyetle' (başarıyla) kelimesidir. Daha
+  önce Ankara'da beş gün geçirdiğini ekler. Anıtkabir ziyareti yalnızca haber anlatımı olarak yer alır. Sayfa
+  görüntüsünden okundu (Milliyet abone arşivi).
 mediated_by: >-
-  Milliyet, 3 Nisan 1955, s. 7 ('Türk-Lübnan ticaret anlaşması yapıldı' devamı, 'Şamoun'un mukabelesi'
-  bölümü): gazetenin Türkçe aktarımı
+  Milliyet, 3 Nisan 1955, s. 7 (1. sayfadaki 'Türk-Lübnan ticaret anlaşması yapıldı' başlıklı yazının 'Türk -
+  Lübnan ticaret anlaşması imzalandı' başlıklı devamı, 'Şamoun'un mukabelesi' bölümü): gazetenin Türkçe
+  aktarımı
 verification_note: >-
-  Tek okuyucu tarafından yazıya geçirildi, ana ajan tarafından yeniden okunmadı; kutupluluk sınırda.
+  Yeni kırpılmış görüntüler üzerinden ikinci, bağımsız bir kontrolör tarafından sayfa görüntüsünden okundu (9
+  Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşüyor. Görev, mekân ve tarih s. 1'dedir.
 verification_method: sayfa görüntüsü
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: dd2fd9d64f46
   role: 20f4d7ac0f9e
-  quote: 70815f308962
+  quote: 74c5f53db4fb
   summary: 1f4085d6932a
-  caveat: 335342dc7ecc
-  mediated_by: d740c93f9465
-  verification_note: af2d278fd1e2
+  caveat: 9109382c9291
+  mediated_by: 153607b5c812
+  verification_note: d9a26245c05c
   verification_method: 1c3478366c90
