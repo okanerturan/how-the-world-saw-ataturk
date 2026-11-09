@@ -1,0 +1,40 @@
+# Turkish for data/voices/2008/jalal-talabani-2008-03-07-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jalal-talabani-2008-03-07-book
+voice: Jalal Talabani
+role: >-
+  Irak Cumhurbaşkanı (Kürt lider, KYB kurucusu); Ankara'ya gerçekleştirdiği çalışma ziyareti sırasında
+  Anıtkabir Özel Defteri'ne yazdığı metin
+quote: >-
+  Benim başkanlığımdaki Irak heyeti adına Türkiye'nin büyük lideri Mustafa Kemal Paşa Atatürk'ün huzurunda
+  bulunmak büyük bir onurdur. Kendisi Türk Cumhuriyeti'nin ve Türkiye'deki yeni hayatın kurucusudur. Biz
+  Irak'ta ona çok büyük saygı duyuyoruz. […] Onun oynadığı role büyük saygımız var. Onun cennette olması için
+  Allahhü Teala'ya dua ediyoruz.
+quote_kind: original-turkish
+summary: >-
+  Irak'ta büyük saygı gören, Türkiye'nin büyük önderi ve Cumhuriyet'in kurucusu; Talabani onun cennette olması
+  için dua eder.
+caveat: >-
+  Sayfada özgün metnin dili belirtilmemektedir (muhtemelen Arapçadır); özgün metin bulunamamıştır. 'Allahhü'
+  sayfadaki yazım şeklidir. Basılı çevirinin ortasındaki bir cümle bozuktur (Türkiye'nin dış müdahaleden
+  kurtuluşunun rolü ve yeni Irak'ın tanınması hakkında) ve burada çıkarılmıştır. Hürriyet sayfasının Wayback
+  kopyasından okunmuştur.
+mediated_by: >-
+  Hürriyet, 7 Mart 2008, 'İşte Talabani'nin Atatürk'e mesajı' (Zeynep Gürcanlı): Irak Ulusal Güvenlik Bakanı
+  Şirvan el-Vaili tarafından yapılan defter yazısının Türkçe çevirisi
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır. Dönemin basın haberleri ziyareti çalışma ziyareti olarak
+  adlandırmaktadır.
+verification_method: arşivlenmiş sayfa
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3fdbd28ea1ee
+  role: bdcb0786dd23
+  quote: a6b2d1bd75c1
+  summary: 7983fd5dd30d
+  caveat: b4186f89cd4f
+  mediated_by: 76ba3ad6c8f7
+  verification_note: 272a18c29fc5
+  verification_method: 1e632d507c43

@@ -1,0 +1,32 @@
+# Turkish for data/voices/2000/aleksander-kwasniewski-2000-04-14.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: aleksander-kwasniewski-2000-04-14
+voice: Aleksander Kwaśniewski
+role: >-
+  Polonya Cumhurbaşkanı; Türkiye'ye resmi ziyaret: Bilkent Üniversitesi'ndeki konferans ve Türkiye Büyük
+  Millet Meclisi'ne hitap, Ankara
+quote: >-
+  …büyük bir siyasi gerçekçi, ama aynı zamanda seçkin bir vizyoner olan modern Türkiye'nin kurucusu Mustafa
+  Kemal Atatürk ile çok yakından bağlantılı olan şehir. […] Polonya bağımsızlığını yeniden kazandığında ve
+  Avrupa yanlısı bir tercih yapmış olan Türkiye, büyük bir insan olan Mustafa Kemal Atatürk tarafından
+  başlatılan reformlar yolunda ilerlemeye başladığında ikili ilişkilerimizi yeniden kurduk.
+quote_kind: translated
+summary: >-
+  Modern Türkiye'nin kurucusu, 'büyük bir siyasi realist, ama aynı zamanda seçkin bir vizyoner'; reformları
+  Türkiye'yi Avrupa yanlısı yoluna soktu.
+caveat: >-
+  Polonya Cumhurbaşkanlığı arşivindeki İngilizce metinler (Wayback kopyaları); Lehçe asılları görülmemiştir.
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir denetçi tarafından yeniden açıldı: alıntılanan metin kelimesi
+  kelimesine orada yer almaktadır. Her iki metin de 14 Nisan 2000 tarihlidir.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6db6dc4c6fa7
+  role: f131f466b21f
+  quote: af897162e4de
+  summary: 20f9ac701b1f
+  caveat: 99530f28b35a
+  verification_note: bb8bae81937d
+  verification_method: 66d7e7f771bc

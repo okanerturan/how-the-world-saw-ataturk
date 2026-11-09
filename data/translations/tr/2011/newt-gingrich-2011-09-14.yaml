@@ -1,0 +1,29 @@
+# Turkish for data/voices/2011/newt-gingrich-2011-09-14.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: newt-gingrich-2011-09-14
+voice: Newt Gingrich
+role: >-
+  Eski ABD Temsilciler Meclisi Başkanı; Cumhuriyetçi başkan adayı; Orta Doğu üzerine kampanya basın bülteni
+quote: >-
+  Türk hükümeti dilinde ve politikalarında giderek daha İslamcı bir hale gelmiştir ve Atatürk'ün modern, açık
+  bir Türkiye yaratma çabalarının 90 yıllık mirasını hızla tersine çevirmektedir.
+quote_kind: translated
+summary: >-
+  'Giderek daha İslamcı' bir hale gelen Erdoğan hükümetinin tersine çevirmekte olduğu standart olarak
+  başvurulan, Atatürk'ün 'modern, açık bir Türkiye yaratma' çabalarının doksan yıllık mirası.
+caveat: >-
+  Kampanya basın bülteni (American Presidency Project); Erdoğan'ı eleştirmek için bir ölçüt olarak Atatürk.
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır. Bültenin 4. maddesi.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 059a69abee12
+  role: c703d84fb369
+  quote: 104cfa6f86ef
+  summary: 8d83e2a4c549
+  caveat: e71efbc47be2
+  verification_note: a8945aef974a
+  verification_method: 66d7e7f771bc

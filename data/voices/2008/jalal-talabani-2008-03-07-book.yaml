@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jalal-talabani-2008-03-07-book
+voice: Jalal Talabani
+voice_type: person
+role: >-
+  President of Iraq (Kurdish leader, PUK founder); entry in the Anıtkabir memorial book during his working
+  visit to Ankara
+country: Iraq
+country_now: Iraq
+domain: politics
+date: "2008-03-07"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Turkey's great leader and founder of the Republic, greatly respected in Iraq; Talabani prays for him to be
+  in paradise.
+quote:
+  text: >-
+    Benim başkanlığımdaki Irak heyeti adına Türkiye'nin büyük lideri Mustafa Kemal Paşa Atatürk'ün huzurunda
+    bulunmak büyük bir onurdur. Kendisi Türk Cumhuriyeti'nin ve Türkiye'deki yeni hayatın kurucusudur. Biz
+    Irak'ta ona çok büyük saygı duyuyoruz. […] Onun oynadığı role büyük saygımız var. Onun cennette olması
+    için Allahhü Teala'ya dua ediyoruz.
+  translation: >-
+    On behalf of the Iraqi delegation I lead, it is a great honour to stand before Turkey's great leader
+    Mustafa Kemal Pasha Atatürk. He is the founder of the Turkish Republic and of the new life in Turkey. We
+    in Iraq respect him greatly. […] We have great respect for the role he played. We pray to God Almighty
+    that he be in paradise.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Hürriyet, 7 Mar 2008, 'İşte Talabani'nin Atatürk'e mesajı' (Zeynep Gürcanlı): Turkish translation of the
+  entry by Iraq's National Security Minister Shirwan al-Waili
+caveat: >-
+  The page does not state the language of the original entry (presumably Arabic); the original was not found.
+  'Allahhü' is the page's spelling. A middle sentence of the printed translation is garbled (about the role of
+  Turkey's liberation from foreign intervention and the recognition of the new Iraq) and is omitted here. Read
+  on the Wayback copy of the Hürriyet page.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: http://web.archive.org/web/20081005235532/http://www.hurriyet.com.tr:80/gundem/8403371.asp
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: http://web.archive.org/web/20081005235532/http://www.hurriyet.com.tr:80/gundem/8403371.asp
+  method: archived page
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    Press reports of the day call it a working visit.
+  checked_on: "2026-11-09"

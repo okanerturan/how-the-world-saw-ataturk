@@ -1,0 +1,38 @@
+# Turkish for data/voices/1981/william-crowe-1981-11-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: william-crowe-1981-11-09
+voice: William J. Crowe
+role: >-
+  Amiral, ABD Deniz Kuvvetleri; NATO Güney Avrupa Müttefik Kuvvetleri Başkomutanı; İstanbul'da Boğaziçi
+  Üniversitesi tarafından düzenlenen Uluslararası Atatürk Kongresi'nin açılış konuşması
+quote: >-
+  "Her komutan Ata[türk]'ü tanımalı ve ondan ders al[mal]ıdır" […] "Onun [bir] komutanda bulunması gere[ken]
+  tüm niteliklere sahip bulun[duğ]unu" belirtmiş, "O, devlet a[dam]lığı ile askerî dehayı birleş[tirm]iş,
+  büyük bir liderdir" de[mişt]ir.
+quote_kind: original-turkish
+summary: >-
+  Her komutan için bir örnek: bir komutanda bulunması gereken tüm niteliklere sahip olan ve devlet adamlığı
+  ile askerî dehayı birleştiren büyük bir lider.
+caveat: >-
+  Taramada sütunun sol kenarı kesilmiştir; köşeli parantez içindeki harfler tamamlanmıştır. Atatürk'ün
+  hayatını çocukluğundan itibaren ayrıntılarıyla anlatmıştır (anlatı). Aynı haber, kongrenin Atatürk Kültür
+  Merkezi'nde yapıldığını belirtmektedir. Sayfa görüntüsünden okundu (Milliyet abone arşivi).
+mediated_by: >-
+  Milliyet, 10 Kasım 1981, s. 9 ('Ata'yı ölümünün 43. yılında anıyoruz', ara başlık '«Uluslararası Atatürk
+  Kongresi» dün açıldı'): gazetenin Türkçe çevirisi
+verification_note: >-
+  Sayfa görüntüsü üzerinden ikinci ve bağımsız bir kontrolör tarafından yeni kesitlerle okundu (9 Kasım 2026):
+  alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir. Görünür harfler eşleşmektedir; kesilmiş
+  harfler köşeli parantez içine alınmıştır.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f63fb40ea062
+  role: 7a4230e75112
+  quote: 6135aac322a4
+  summary: a1ed1ea9560b
+  caveat: 32b83e252374
+  mediated_by: caad34f8b0c0
+  verification_note: ee8a3ed5b753
+  verification_method: 1c3478366c90

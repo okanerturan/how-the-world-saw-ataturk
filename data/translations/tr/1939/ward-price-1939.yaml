@@ -1,0 +1,37 @@
+# Turkish for data/voices/1939/ward-price-1939.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ward-price-1939
+voice: G. Ward Price
+role: >-
+  Ankara'yı ilk kez 1923'te ziyaret eden ve Kasım 1938'de Atatürk'ün cenazesine katılan Daily Mail dış
+  haberler muhabiri; Year of Reckoning (Cassell, 1939)
+quote: >-
+  Kemal Atatürk'ün tabutunun, uluslararası onur kıtalarıyla çevrili olarak ve Çanakkale'deki eski İngiliz
+  hasmı tarafından selamlanarak, alışılmadık bir ebedi istirahatgâh olan Ankara Etnografya Müzesi'ne
+  taşınmasını izlemek tuhaf bir deneyimdi. Kariyeri vahşi bir şiddet ve değişken ruh hallerine dayalı bir
+  keyif düşkünlüğüyle geçmişti; yine de halkı, ölümünden on gün sonra bile tabutunun başında histerik
+  hıçkırıklarla onun yasını tuttu.
+quote_kind: translated
+summary: >-
+  Cenazede: 'vahşi şiddet ve kaprisli bir sefahatle' geçmiş bir kariyer; yine de ölümünden on gün sonra
+  ağlayan kalabalıklarca yası tutuluyor.
+caveat: >-
+  Year of Reckoning (Londra: Cassell, 1939), s. 343, açık erişimli DLI taramasından okunmuştur. Anı kitabı
+  Extra-Special Correspondent'ta (Harrap, 1957; ödünç kopya, yalnızca kesitler) Kemal'e 'çağdaş tarihin hiç
+  tanık olmadığı türden bir ulusal yeniden inşa' ('such a national reconstruction as contemporary history had
+  never witnessed') atfeder. Kendisinin Daily Mail'de yayımlanan Kemal mülakatlarına ulaşılamamıştır (British
+  Newspaper Archive ücretli erişimlidir).
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine oradadır. Ankara'ya ilk ziyareti ve cenazedeki bulunuşu s. 342'dedir.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 724a756acf31
+  role: 9ce981e73dfa
+  quote: f5ab00b71477
+  summary: 1e3266b55012
+  caveat: e53505eddb19
+  verification_note: 4376054ef3f0
+  verification_method: 66d7e7f771bc

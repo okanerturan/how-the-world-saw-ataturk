@@ -1,0 +1,35 @@
+# Turkish for data/voices/2007/queen-beatrix-2007-02-27-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: queen-beatrix-2007-02-27-book
+voice: Hollanda Kraliçesi Beatrix
+role: >-
+  Hollanda Kraliçesi; devlet ziyareti sırasında Anıtkabir özel defterine yazdığı metin, Ankara
+quote: >-
+  Bu vesile ile Mustafa Kemal Atatürk'e saygılarımızı sunuyoruz. Onun ileri görüşlülüğü ve sahip olduğu üstün
+  devlet adamlığı vasıfları günümüze kadar uzanan derin bir etki yaratmış ve özellikle de ülkelerimiz
+  arasındaki yakınlaşmaya önemli katkı sağlamıştır. Onun halkına bıraktığı manevi miras sadece Türk halkının
+  huzur ve refahının temininde ve gelişmesinde değil, aynı zamanda AB ile ilişkilerin yoğunlaşarak
+  ilerlemesine de daimi bir ilham kaynağı olmuştur.
+quote_kind: original-turkish
+summary: >-
+  Etkisi günümüze kadar uzanan ileri görüşlü bir devlet adamı; mirası Türkiye'nin kalkınması ve AB ile bağları
+  için bir ilham kaynağı.
+caveat: Felemenkçe metin görülmemiştir.
+mediated_by: >-
+  Hürriyet, 27 Şubat 2007 (AA): deftere Felemenkçe ve Türkçe olarak yazılan ve Prens Willem-Alexander ile
+  Prenses Máxima tarafından da imzalanan yazının Türkçe metni
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir denetçi tarafından yeniden açıldı: alıntılanan metin kelimesi
+  kelimesine orada yer almaktadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 31615e2d1b2c
+  role: ee7914bd1ad6
+  quote: 9ba3d7183b31
+  summary: b30cde11efb8
+  caveat: 098026733c5a
+  mediated_by: d3148b59b044
+  verification_note: e9eab29e687c
+  verification_method: 66d7e7f771bc

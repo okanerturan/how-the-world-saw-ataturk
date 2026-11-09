@@ -7,8 +7,8 @@ role: Arjantin Ermeni cemaati lideri
 quote: imha planını sürdürdü
 quote_kind: translated
 summary: >-
-  Cemaatin protestosuna öncülük etti; 27 Mayıs tarihli ücretli ilanda Atatürk'ün 1915 'imha planını
-  sürdürdüğü' ve inkârını başlattığı söylendi; büst izni 28 Mayıs'ta iptal edildi.
+  İlanında Atatürk'ün 1915'teki 'imha planını sürdürdüğü' belirtilen topluluk protestosuna öncülük etti; büst
+  için verilen izin 28 Mayıs'ta iptal edildi.
 caveat: >-
   Alıntılanan sözler Mouradian'ın kişisel bir açıklaması değil, Armenian Mirror-Spectator tarafından (AGBU,
   ADL ve kilise mülakatlarından derlenerek) aktarıldığı şekliyle cemaatin ilanından alınmıştır. Ermeni
@@ -24,7 +24,7 @@ source_fingerprints:
   voice: 9655f2b99edb
   role: 385eeb5b0765
   quote: 8b1ac78b681b
-  summary: b290509e962f
+  summary: fb873899ec93
   caveat: 8dd220240a5c
   verification_note: 0a3d22245280
   verification_method: ad8cee67138e

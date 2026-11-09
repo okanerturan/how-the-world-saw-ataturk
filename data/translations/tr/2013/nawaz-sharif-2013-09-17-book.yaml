@@ -1,0 +1,32 @@
+# Turkish for data/voices/2013/nawaz-sharif-2013-09-17-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nawaz-sharif-2013-09-17-book
+voice: Nawaz Sharif
+role: Pakistan Başbakanı; Anıtkabir ziyaretçi defterindeki yazısı, Ankara
+quote: >-
+  Modern Türkiye'nin babası Mustafa Kemal Atatürk'ün huzurunda saygıyla eğilmek benim için büyük bir onurdur.
+  Atatürk'ün ileri görüşlü devlet adamlığı Türk milletini birleştirmiş ve modernlik ile ilerlemenin rotasını
+  çizmiştir. Atatürk, Pakistan'da gerçekten büyük ve ileri görüşlü bir lider olarak derin saygı görmektedir.
+quote_kind: translated
+summary: >-
+  İleri görüşlü devlet adamlığıyla ulusu birleştiren modern Türkiye'nin babası; 'Pakistan'da gerçekten büyük,
+  ileri görüşlü bir lider olarak saygı görür'.
+caveat: >-
+  Business Recorder (Karaçi) gazetesinin ziyaretle ilgili haberi; Şubat 2017 ziyareti yalnızca dolaylı
+  aktarımla bildirilmiştir.
+mediated_by: Business Recorder, 17 Eylül 2013
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2a0afa384994
+  role: 7b53b4827606
+  quote: 792f150e1cda
+  summary: aefaf9159d15
+  caveat: c1b7dda46042
+  mediated_by: 497765e6e709
+  verification_note: e9eab29e687c
+  verification_method: 66d7e7f771bc

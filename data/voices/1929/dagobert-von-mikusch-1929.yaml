@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dagobert-von-mikusch-1929
+voice: Dagobert von Mikusch
+voice_type: person
+role: >-
+  German writer; Gasi Mustafa Kemal (1929), quoted from the English translation Mustapha Kemal: Between Europe
+  and Asia (Heinemann, 1931)
+country: Germany
+country_now: Germany
+domain: letters
+date: "1929"
+era: contemporary
+polarity: admiring
+intensity: 2
+mirror: bourgeois-revolutionary
+artifact: book
+evidence: P
+summary: >-
+  Creator of modern Turkey, ranked with Lenin and Mussolini: 'a kind of dictator in a democratic toga', yet 'a
+  statesman of an entirely modern type'.
+quote:
+  text: >-
+    The history of our times abounds in outstanding men. Mustapha Kemal, the creator of modern Turkey, stands
+    alongside Lenin, the great revolutionary, and Mussolini, who has given actual form to a new conception of
+    the State. […] He thus possessed both legislative and executive authority, and was therefore a kind of
+    dictator in a democratic toga. But he never disregarded the national representatives or underrated their
+    importance. […] In the exercise of this rare political art he was a statesman of an entirely modern type.
+  is_translation: true
+  language: en
+caveat: >-
+  Quoted from the English translation by John Linton (London: Heinemann, 1931), preface (dated Munich, spring
+  1929) and p. 248, read in the open DLI scan; the German original was not seen.
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.115116
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://archive.org/details/in.ernet.dli.2015.115116
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

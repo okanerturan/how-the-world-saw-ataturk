@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mikheil-saakashvili-2013-04-09
+voice: Mikheil Saakashvili
+voice_type: person
+role: President of Georgia; remarks in Ankara on the day he met President Gül
+country: Georgia
+country_now: Georgia
+domain: politics
+date: "2013-04-09"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Atatürk as the yardstick of a strong leader of global stature, invoked to flatter Erdoğan as the first
+  Turkish leader to match him.
+quote:
+  text: >-
+    From my point of view, there was not such a strong leader globally in Turkey since Mustafa Kemal Atatürk.
+  note: >-
+    Hürriyet Daily News inserts '[founder of the modern Turkey]' after the name; the sentence ends there
+  language: en
+mediated_by: Hürriyet Daily News, 9 Apr 2013, Anatolia news agency report from Ankara
+caveat: >-
+  The remark praises Erdoğan; Atatürk is the benchmark, not the subject. Language of the original remark not
+  stated.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.hurriyetdailynews.com/georgian-president-holds-talks-in-ankara-44591
+    archived: https://web.archive.org/web/20260415170049/https://www.hurriyetdailynews.com/georgian-president-holds-talks-in-ankara-44591
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://www.hurriyetdailynews.com/georgian-president-holds-talks-in-ankara-44591
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

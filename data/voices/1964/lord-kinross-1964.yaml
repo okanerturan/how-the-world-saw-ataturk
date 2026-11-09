@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lord-kinross-1964
+voice: Lord Kinross
+voice_type: person
+role: "British historian; Atatürk: The Rebirth of a Nation (Weidenfeld & Nicolson, 1964)"
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1964"
+era: posthumous
+polarity: conflicted
+intensity: 1
+artifact: book
+evidence: P
+summary: >-
+  His biographer on the private man: 'without love in his nature', one who 'could not endure to be loved too
+  much'.
+quote:
+  text: >-
+    In human terms, Kemal was a man without love in his nature. He understood people. But he did not love
+    them. […] Kemal was a man wedded to his career and his country and the society of other men, to whom women
+    meant little save as a source of distraction, an outlet for his appetites, and a stimulus to his masculine
+    vanity. […] Kemal liked, in his vanity, to be loved, and throughout his life chose women who took the
+    initiative in showing their feelings. But he could not endure to be loved too much […]
+  language: en
+mediated_by: >-
+  archive.org full-text search snippets of the 1964 London edition; pages from Rustow 1968, n. 28
+caveat: >-
+  Assembled from full-text search snippets of lending copies of the biography; pages not seen by us (Rustow,
+  'Atatürk as Founder of a State', n. 28, gives pp. 164, 259 and 391). Rustow quotes the last sentence as
+  'could not bear to be loved too much'; Kinross printed 'endure'. See also lord-kinross-1968-11-10.
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/ataturkrebirthof0000john
+  - url: https://archive.org/details/in.ernet.dli.2015.139658
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    archive.org full-text search of Kinross 1964 (London) and 1965 (New York); Rustow 1968, n. 28
+  method: snippets
+  note: >-
+    Re-checked by a second, independent checker on 9 Nov 2026 in full-text search snippets of several copies
+    of the book: the passages are there word for word; pages not seen.
+  checked_on: "2026-11-09"

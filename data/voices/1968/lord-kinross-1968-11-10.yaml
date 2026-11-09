@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: lord-kinross-1968-11-10
+voice: Lord Kinross
+voice_type: person
+role: >-
+  British historian, author of Atatürk: The Rebirth of a Nation (1964); guest at the 30th-anniversary
+  ceremonies in Istanbul
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1968-11-10"
+era: posthumous
+polarity: admiring
+intensity: 3
+artifact: quote
+evidence: J
+summary: >-
+  'The most beloved of the Turks', 'the greatest statesman and politician of the 20th century'; saving
+  Istanbul at Gallipoli was his greatest achievement.
+quote:
+  text: >-
+    «Türklerin en sevgilisi, büyük dosta... 20. yüzyılın en büyük devlet ve siyaset adamının hâtırasına.» […]
+    «Birinci Dünya Savaşı, Osmanlı İmparatorluğu için bir son, Atatürk için bir başlangıçtı. Gelibolu harekâtı
+    sırasında, üstün kuvvetler karşısında, İstanbul ve Boğazları kurtarması, Atatürk'ün en büyük başarısıdır.
+    Mustafa Kemal, 1918'de bile hâlâ mağlûp edilmemiş bir kumandandı. İstiklâl Savaşı için, Anadolu'nun
+    bağrında halkı birleştiren bu büyük adam, bütün zorlukları da yenmesini bilmiştir. İstiklâl mücadelesi,
+    sadece askerî yönü ile değil, politik yönü ile de büyük önem taşır. Mücadele, Sakarya ile tam bir zafere
+    ulaşmıştır.»
+  translation: >-
+    To the most beloved of the Turks, the great friend… to the memory of the greatest statesman and politician
+    of the 20th century. […] The First World War was an end for the Ottoman Empire and a beginning for
+    Atatürk. His saving of Istanbul and the Straits against superior forces during the Gallipoli campaign is
+    Atatürk's greatest achievement. Even in 1918 Mustafa Kemal was still an undefeated commander. This great
+    man, who united the people in the heart of Anatolia for the War of Independence, knew how to overcome
+    every difficulty. The struggle for independence matters greatly not only in its military but also in its
+    political aspect. With Sakarya the struggle reached complete victory.
+  language: tr
+mediated_by: >-
+  Milliyet, 11 Nov 1968: p. 7 ('Ulu Ata'yı andık', İstanbul'da) for his entry in the book at the Taksim
+  Republic Monument ceremony; p. 1 ('Kinross Atatürk'ü anlattı') and p. 7 for his address to officers at the
+  Third Army Corps headquarters, Harbiye, summarised by the paper ('Özetle şunları söylemiştir')
+caveat: >-
+  The speech is the paper's summary in quotation marks ('Özetle şunları söylemiştir'); the book entry is
+  quoted in Turkish, and the paper does not say in which language he wrote it. Read on the page image
+  (Milliyet's subscriber archive).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1968.11.11
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 1968.11.11 page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

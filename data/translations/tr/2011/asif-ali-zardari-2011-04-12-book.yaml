@@ -1,0 +1,37 @@
+# Turkish for data/voices/2011/asif-ali-zardari-2011-04-12-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: asif-ali-zardari-2011-04-12-book
+voice: Asif Ali Zardari
+role: Pakistan Cumhurbaşkanı; Anıtkabir özel defterindeki yazısı, Ankara
+quote: >-
+  Seçkin bir asker, büyük bir reformcu ve ileri görüşlü bir devlet adamı olan Gazi Mustafa Kemal Paşa'nın
+  huzurunda saygıyla eğilmek benim için büyük bir onurdur. […] Modern Türkiye, Atatürk'ün büyük başarılarının
+  ihtişamının yaşayan tanığıdır. Emperyalizmi reddetmesinin ve egemenlik ile iç işlerine karışmama ilkelerini
+  benimsemesinin bugün barışçıl bir dünya düzeninin temel direkleri olarak kabul edilmesi, Atatürk'ün
+  büyüklüğünün bir nişanesidir. Gerçekten de tarihin kumlarında derin izler bırakmıştır.
+quote_kind: translated
+summary: >-
+  Emperyalizmi reddedişi dünya düzeninin temel taşlarından biri haline gelen 'seçkin bir asker, büyük bir
+  reformcu ve ileri görüşlü bir devlet adamı'.
+caveat: >-
+  Pakistan-Türkiye ilişkileri üzerine bir blogda yeniden yayımlanan, kaynağı belirtilmemiş bir ajans haberinin
+  metni; ajansın özgün metni bulunamamıştır. '[…]' işareti bilinen bir çıkarmayı değil, muhabirin alıntılanan
+  iki pasaj arasındaki geçişini göstermektedir.
+mediated_by: >-
+  pakturkey.blogspot.com adresinde yeniden yayımlanan ajans tarzı haber (Ankara mahreçli, 12 Nisan 2011; ajans
+  adı belirtilmemiş, Associated Press of Pakistan üslubunda)
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 69d8db337161
+  role: 5ee7b7865d6d
+  quote: 3f6b4f1e7d44
+  summary: 675c4454e85d
+  caveat: 9e9458d04939
+  mediated_by: 4cdbadb2d0a9
+  verification_note: e9eab29e687c
+  verification_method: 66d7e7f771bc

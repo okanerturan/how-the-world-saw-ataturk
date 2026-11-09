@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: bourguiba-1963-11-10
+voice: Habib Bourguiba
+voice_type: person
+role: President of Tunisia; message for the 25th anniversary of Atatürk's death
+country: Tunisia
+country_now: Tunisia
+domain: politics
+date: "1963-11-10"
+era: posthumous
+polarity: admiring
+intensity: 3
+mirror: anti-colonial-liberator
+artifact: quote
+evidence: J
+summary: >-
+  The 'Gazi' who refused defeat when all seemed lost, restored his country's sovereignty and built a modern
+  state: an inspiration for newly sovereign nations.
+quote:
+  text: >-
+    Milletimiz «Gazi» nin ölmez eseri için en büyük hayranlığı duymakta, hâtırasına da en büyük hürmeti
+    beslemektedir. Biz O'nun şahsında, savaş meydanlarında, büyük bir asker olduğunu ispat ettikten sonra,
+    herşeyin tamamen kaybolduğu zannedildiği bir anda, milletinden ümidini kesmeyi ve mağlûbiyeti kabul etmeyi
+    şiddetle reddeden Tanrının seçtiği büyük insanı tebcil ediyoruz. […] Atatürk böylece, ölümü esarete tercih
+    eden bir milletin neler yapabileceğini hayretler içinde bulunan dünyaya göstermiştir. Bu örnek
+    unutulmayacaktır. Memleketinin eğemenliğinin mimarı olarak, biz Atatürk'ün şahsında, parçalanmak yolunda
+    olan bir İmparatorluğun enkazı üstünde ilerlemeye yönelmiş, müessir ve modern bir devlet kurmuş devrimciye
+    hayranlık duymaktayız. O'nun ölmez eseri, egemenliklerini elde etmiş milletlerin kaderlerine hükmedenler
+    için ışıklı bir örnek ve bir ilham kaynağı olarak kalacaktır.
+  translation: >-
+    Our nation feels the greatest admiration for the immortal work of the 'Gazi' and holds his memory in the
+    highest respect. In his person we glorify the great man chosen by God who, having proved himself a great
+    soldier on the battlefields, at a moment when all seemed lost fiercely refused to despair of his nation or
+    to accept defeat. […] Atatürk thus showed an astonished world what a nation that prefers death to slavery
+    can do. This example will not be forgotten. As the architect of his country's sovereignty, we admire in
+    Atatürk the revolutionary who, on the ruins of an empire breaking apart, built an effective, modern state
+    turned towards progress. His immortal work will remain a shining example and a source of inspiration for
+    those who govern the destinies of nations that have won their sovereignty.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 10 Nov 1963, p. 1 ('Bütün dünya anıyor…') with continuation on p. 7: the paper's Turkish rendering
+  of a message for the 25th anniversary of Atatürk's death
+caveat: >-
+  The census also holds his 1965 Ankara speech (bourguiba-1965-03-25). 'eğemenliğinin' is the page's spelling.
+  One of ten leaders' messages Milliyet printed on 10 Nov 1963 for the 25th anniversary (seven on p. 1, three
+  on p. 7). Kennedy's (kennedy-1963-11) was a recorded message requested by the Turkish government, so the
+  others were probably solicited the same way. Original-language text not seen. Read on the page image
+  (Milliyet's subscriber archive).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1963.11.10
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 10 Nov 1963 pp. 1, 7, page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

@@ -1,0 +1,35 @@
+# Turkish for data/voices/2000/johannes-rau-2000-04-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: johannes-rau-2000-04-06
+voice: Johannes Rau
+role: >-
+  Almanya Federal Cumhurbaşkanı; Türkiye'ye resmi ziyaret: Cumhurbaşkanı Demirel tarafından verilen akşam
+  yemeği ve ODTÜ'de fahri doktora töreni, Ankara
+quote: >-
+  Atatürk'ün kendisine bağlılık duyduğu Aydınlanma ruhu; demokrasiyi, insan haklarını, pozitif din özgürlüğünü
+  ve aynı zamanda kişinin kendi kültürel geleneklerini yaşatma özgürlüğünü içerir. […] Onlar, modern bir
+  devlet yapısı için bilimin ve özgür akademik araştırmanın önemini kavramış olan Kemal Atatürk'ün çağrısına
+  uydular. […] Tıpkı Kemal Atatürk'ün Cumhuriyeti ilkesel değerler üzerine kurması ve bunlara saygı
+  gösterilmesini sağlaması gibi, Avrupa Birliği de öyle hareket etmektedir.
+quote_kind: translated
+summary: >-
+  Rau'nun demokrasiyi, insan haklarını ve kültürel özgürlüğü de kapsadığı şeklinde yorumladığı Aydınlanma
+  ruhuna bağlı bir kurucu.
+caveat: >-
+  İlk cümle akşam yemeği konuşmasından, diğerleri ODTÜ konuşmasından (1930'ların Alman göçmen akademisyenleri
+  üzerine), her ikisi de 6 Nisan 2000 tarihli. Kısmen araçsal: 'Aydınlanma' okuması, ziyaretin insan hakları
+  ve azınlık kültürü mesajını desteklemektedir.
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir denetçi tarafından yeniden açıldı: alıntılanan metin kelimesi
+  kelimesine orada yer almaktadır. Her iki konuşma da Ankara, 6 Nisan 2000 tarihlidir.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 8ada220fd490
+  role: ec6c55226f00
+  quote: 5d29e07e5a36
+  summary: 8c1a72bbc1e1
+  caveat: 6906c778dde5
+  verification_note: a1b6c48150d0
+  verification_method: 66d7e7f771bc

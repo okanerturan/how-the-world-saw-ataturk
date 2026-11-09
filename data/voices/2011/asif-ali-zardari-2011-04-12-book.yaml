@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: asif-ali-zardari-2011-04-12-book
+voice: Asif Ali Zardari
+voice_type: person
+role: President of Pakistan; entry in the Anıtkabir special book, Ankara
+country: Pakistan
+country_now: Pakistan
+domain: politics
+date: "2011-04-12"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: anti-colonial-liberator
+artifact: quote
+evidence: J
+summary: >-
+  'An illustrious soldier, a great reformer and a visionary statesman', whose rejection of imperialism became
+  a pillar of world order.
+quote:
+  text: >-
+    It is a great honour for me to pay homage to Ghazi Mustafa Kemal Pasha, an illustrious soldier, a great
+    reformer and a visionary statesman. […] Modern Turkey is the living testimony of the glory of Ataturk's
+    great accomplishments. It is a mark of Ataturk's greatness that his rejection of imperialism and espousal
+    of the principles of sovereignty and non-interference are now accepted as pillars of a peaceful world
+    order. Indeed he has left deep imprints on the sands of history.
+  language: en
+mediated_by: >-
+  Wire-style report (dateline Ankara, 12 Apr 2011; no agency credit, in the style of the Associated Press of
+  Pakistan) as reproduced on pakturkey.blogspot.com
+caveat: >-
+  Text of an unattributed wire report reproduced on a Pakistan–Turkey relations blog; the agency original was
+  not found. The '[…]' marks the reporter's break between two quoted passages, not a known omission.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://pakturkey.blogspot.com/2011/04/president-visits-mausoleum-of-ataturk.html
+    archived: https://web.archive.org/web/20231123100443/https://pakturkey.blogspot.com/2011/04/president-visits-mausoleum-of-ataturk.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://pakturkey.blogspot.com/2011/04/president-visits-mausoleum-of-ataturk.html
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

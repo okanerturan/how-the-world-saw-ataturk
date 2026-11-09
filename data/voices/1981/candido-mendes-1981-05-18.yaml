@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: candido-mendes-1981-05-18
+voice: Candido Mendes
+voice_type: person
+role: Brazilian political scientist; paper at the International Atatürk Symposium, Istanbul
+country: Brazil
+country_now: Brazil
+domain: letters
+date: "1981-05-18"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: quote
+evidence: J
+summary: >-
+  A leader who 'never looked backward', whose 1923–38 revolutions set him above Europe's leaders and whose
+  legacy is a guide for Latin America.
+quote:
+  text: >-
+    "Atatürk'ün Avrupa liderlerinden üstün niteliği, 1923-1938 yılları arasında yaptığı devrimlerdir. Atatürk,
+    hiçbir zaman geriye dönük bir lider olmamıştır"
+  translation: >-
+    What sets Atatürk above the leaders of Europe is the revolutions he made between 1923 and 1938. Atatürk
+    was never a backward-looking leader.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 19 May 1981, p. 8: 'Uluslararası Atatürk Sempozyumu başladı' (name printed 'Candido Mentes');
+  paper 'Atatürk çağdaşlaşmasından 1950 sonrası gelişmelere, bir Latin Amerika yaklaşımı'
+caveat: >-
+  The paper adds in indirect speech that he said Atatürk's legacy is a guide for Latin American countries too.
+  Read on the page image (Milliyet's subscriber archive).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1981.05.19
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 1981.05.19 page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

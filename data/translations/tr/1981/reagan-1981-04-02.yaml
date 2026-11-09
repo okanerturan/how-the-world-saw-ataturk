@@ -4,26 +4,28 @@
 id: reagan-1981-04-02
 voice: Ronald Reagan
 role: >-
-  Amerika Birleşik Devletleri Başkanı; Atatürk'ün doğumunun yüzüncü yılı dolayısıyla Beyaz Saray açıklaması
+  Amerika Birleşik Devletleri Başkanı; Atatürk'ün yüzüncü yılı vesilesiyle Beyaz Saray açıklaması
 quote: Atatürk, savaş ve barış zamanlarında büyük bir ulusal liderdi.
 quote_kind: translated
 summary: >-
-  Atatürk'ü savaşta ve barışta büyük bir ulusal lider ve yurttaşlarının kalbinde ilk sırada yer alan bir isim
-  olarak nitelendirir; onun 'Yurtta Barış, Dünyada Barış' sözünü anar.
+  Atatürk'ü savaşta ve barışta büyük bir ulusal lider, yurttaşlarının kalbinde birinci olarak nitelendirir ve
+  onun "Yurtta Barış, Dünyada Barış" sözünü alıntılar.
 caveat: >-
-  Projenin listelediği şekliyle, 1981 yüzüncü yıl dönümü arifesinde Reagan'ın adıyla yayımlanmıştır (övgüyü
-  Türk-Amerikan ittifakına ve Türkiye'nin darbe sonrası hükûmetini desteklemeye bağlar). Ekip tarafından
-  kaleme alınmış metindir; tarih Proje sayfasının üstbilgisinden alınmıştır. UCSB metni 'Statements by the
-  Press Secretary' başlığı altında dosyalamaktadır: Reagan'ın bizzat söylediği sözler değil, onun adına
-  yapılmış bir Beyaz Saray açıklamasıdır.
+  Project'in listelediği şekliyle Reagan'ın adıyla, 1981 yüzüncü yılının arifesinde yayımlanmıştır (övgüyü
+  Türk-Amerikan ittifakına ve Türkiye'nin darbe sonrası hükümetini desteklemeye bağlar). Personel tarafından
+  kaleme alınmış metin; tarih Project sayfası başlığından. UCSB metni 'Statements by the Press Secretary'
+  altında dosyalamaktadır: Reagan'ın kendi sözlü ifadeleri değil, Reagan adına yapılmış bir Beyaz Saray
+  açıklaması. Evren'e gönderdiği yüzüncü yıl mesajı (Milliyet 19 Mayıs 1981 s. 9) "20. yüzyılın yüce
+  şahsiyetini" onurlandırmış ve şöyle demiştir: "Bu büyük insanın 100. doğum günü dolayısıyla şahsî
+  tebriklerimi ve Atatürk yılı için en iyi dileklerimi ifade etmek isterim."
 mediated_by: Beyaz Saray Basın Sözcüsü
 verification_note: >-
-  Alıntı birebir aynı ve tarih doğru; ancak belge Reagan'ın kendisine ait bir konuşma ya da metin değil, Beyaz
-  Saray basın ofisi açıklamasıdır (UCSB bunu 'Statements by the Press Secretary' altında dosyalar). Kayıt bunu
-  kişi olarak Reagan'a atfediyor ve çekince notu yalnızca 'issued under Reagan's name' diyor. DÜZELTME:
-  çekince notunda bunun bir Basın Sözcüsü açıklaması olduğunu (Reagan'ın kendi sözleri değil, ekip metni)
-  belirtin ya da konuşmacıyı kurum olarak 'White House (Reagan administration)' şeklinde yeniden düzenleyin;
-  belge türü 'speech' değil 'statement' olmalı; metin için hayran/2 uygun.
+  Alıntı birebir aynı ve tarih doğru, ancak belge Reagan'ın bizzat yaptığı bir konuşma veya yazdığı bir metin
+  değil, bir Beyaz Saray basın ofisi açıklamasıdır (UCSB bunu 'Statements by the Press Secretary' altında
+  dosyalamaktadır). Kayıt bunu Reagan şahsı olarak seslendirmekte ve çekince yalnızca 'issued under Reagan's
+  name' demektedir. DÜZELTME: çekincede bunun bir Basın Sekreteri açıklaması olduğunu (Reagan'ın kendi sözleri
+  değil, personel metni) belirtin veya voice alanını 'White House (Reagan administration)' kurumu olarak
+  yeniden düzenleyin; belge türü 'speech' değil 'statement'; metin için admiring/2 uygundur.
 verification_method: UCSB sayfasının curl ile çekilmesi
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
@@ -31,7 +33,7 @@ source_fingerprints:
   role: 8f5e8f8187ec
   quote: e9c728ffbab5
   summary: 1426381cd077
-  caveat: cc49b1a5a5cf
+  caveat: 59096617f3bc
   mediated_by: c186541b48a8
   verification_note: 679f3c9915a0
   verification_method: 276843750f96

@@ -1,0 +1,34 @@
+# Turkish for data/voices/1974/jacques-benoist-mechin-1974.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jacques-benoist-mechin-1974
+voice: Jacques Benoist-Méchin
+role: >-
+  Fransız tarihçi ve yazar, Mustapha Kémal ou la mort d'un empire (1954) kitabının yazarı; À destins rompus
+  (Albin Michel, 1974)
+quote: >-
+  […] atalarının savaşçı içgüdülerinin yeniden canlandığı ve enerjisi geçmişin en büyük sultanlarınınkinden
+  aşağı kalmayan bir adam: Kemal Atatürk. […] onlar dünyayı Türkiye'ye teslim etmek istemişlerdi; Mustafa
+  Kemal ise Türkiye'yi dünyaya teslim etti.
+quote_kind: translated
+summary: >-
+  En büyük sultanların enerjisine sahip bir adam: onlar dünyayı Türkiye'ye vermek istemişti, o ise Türkiye'yi
+  dünyaya verdi.
+caveat: >-
+  Yalnızca ödünç alınabilir bir kopyanın tam metin arama kesitleri olarak görülmüştür (sayfa numarası yoktur);
+  1954 tarihli biyografi (yalnızca ödünç alınabilir) sadece anlatı kesitleri vermiştir.
+mediated_by: À destins rompus (1974) kitabının archive.org tam metin arama kesitleri
+verification_note: >-
+  Her iki pasaj da 9 Kasım 2026'da ikinci, bağımsız bir kontrolör tarafından tam metin arama kesitlerinde
+  kelimesi kelimesine bulunmuştur; sayfalar görülmemiştir.
+verification_method: kesitler
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cf534bfab58a
+  role: d3bd0f3f5b14
+  quote: 21f20eca2056
+  summary: 5ab61b2d7921
+  caveat: 816967e6497c
+  mediated_by: 5977906e6f7d
+  verification_note: b73cb57470ef
+  verification_method: 2ddb33e2935b

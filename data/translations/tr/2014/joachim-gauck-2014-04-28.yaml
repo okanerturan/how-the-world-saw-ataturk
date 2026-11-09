@@ -1,0 +1,31 @@
+# Turkish for data/voices/2014/joachim-gauck-2014-04-28.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: joachim-gauck-2014-04-28
+voice: Joachim Gauck
+role: >-
+  Almanya Federal Cumhurbaşkanı; Cumhurbaşkanı Gül'ün resmi ziyafetindeki kadeh konuşması, Ankara
+quote: >-
+  Bu sabah Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün mozolesine bir çelenk koydum. Atatürk'ün
+  bir cümlesi beni özellikle çok etkiliyor. Büyük bir mutlaklık iddiası ifade ediyor. O cümle şöyledir:
+  "Egemenlik kayıtsız şartsız milletindir."
+quote_kind: translated
+summary: >-
+  Egemenliğin kayıtsız şartsız millete ait olduğu ilkesinin sahibi; Gauck bu ilkeyi ifade özgürlüğüne dair
+  nazik bir siteme dönüştürür.
+caveat: >-
+  Bir portreden ziyade bir ilkeye övgü; cümle, Atatürk'ün iddiasına dair kendi yargısı olduğu için
+  korunmuştur. Aynı gezide yaptığı ODTÜ ve İstanbul konuşmalarında Atatürk'ten söz edilmemektedir.
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c12190dfb22e
+  role: 728ed9363aed
+  quote: b9f8fe066c47
+  summary: f11088d8f0ec
+  caveat: 191ddd3bbe91
+  verification_note: e9eab29e687c
+  verification_method: 66d7e7f771bc

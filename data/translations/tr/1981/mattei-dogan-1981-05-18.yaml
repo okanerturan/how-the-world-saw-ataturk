@@ -1,0 +1,38 @@
+# Turkish for data/voices/1981/mattei-dogan-1981-05-18.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mattei-dogan-1981-05-18
+voice: Mattei Dogan
+role: >-
+  Fransız siyaset sosyoloğu (CNRS); Atatürk'ün doğumunun yüzüncü yılı dolayısıyla İstanbul'da düzenlenen
+  Uluslararası Atatürk Sempozyumu'ndaki bildirisi
+quote: >-
+  "Napolyon da bir liderdi, ama Atatürk ve de Gaulle gibi krizmatik bir lider değildi. Atatürk ve de Gaulle'ün
+  ortak özellikleri, asker oluşlarıdır. Her ikisinin de etkileyici kişilikleri, başardıklarının kalıcı
+  olmasını sağlamıştır. Atatürk 20. yüzyılın ilk ve en büyük karizmatik lideridir. Rıza Şah, Gandi, Nehru,
+  Burgiba, Kenyatta ve Eva Peron'a örnek olmuştur."
+quote_kind: original-turkish
+summary: >-
+  Yirminci yüzyılın ilk ve en büyük karizmatik lideri; Rıza Şah, Gandhi, Nehru, Burgiba, Kenyatta ve Eva Perón
+  için bir model.
+caveat: >-
+  Türkiye İş Bankası tarafından düzenlenen sempozyum. Tarih, yayımlanmadan bir önceki gündür. Sayfa
+  görüntüsünden okundu (Milliyet abone arşivi).
+mediated_by: >-
+  Milliyet, 19 Mayıs 1981, s. 8: 'Uluslararası Atatürk Sempozyumu başladı' ('Karizmatik (etkileyici)
+  Kişilikler Yönünden Yoksul Bir Çağ, Napolyon'dan Atatürk'e' başlıklı bildirisinin gazetedeki Türkçe
+  çevirisi; adı 'Mattei Doğan' olarak basılmıştır)
+verification_note: >-
+  Sayfa görüntüsü üzerinden ikinci ve bağımsız bir kontrolör tarafından yeni kesitlerle okundu (9 Kasım 2026):
+  alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir. 'krizmatik' sayfadaki dizgi hatasıdır.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f1409b145ff8
+  role: 4d3f397fce72
+  quote: c84b0da3eb82
+  summary: b7a520fb39ee
+  caveat: 8221057ff6af
+  mediated_by: 2b4eb8d02cd3
+  verification_note: 21d05d280069
+  verification_method: 1c3478366c90

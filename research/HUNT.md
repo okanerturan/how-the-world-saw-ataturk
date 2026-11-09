@@ -40,6 +40,8 @@ evidence:      P/S/J/F/T (+ LEDGER row)
 sources:       [urls, archived]
 ```
 
+**Datum after round 35 (2026-11-09): 964 gazes (959 checked), 792 voices, 90 countries; admiring 510 (53%), conflicted 138, instrumental 131, hostile 122, witness 63; contemporary 474, funeral 196, posthumous 294.**
+
 **Datum after round 23 (2026-11-04), end of the free-seam campaign: 777 gazes, 635 voices, 75 countries; admiring 387 (50%), hostile 107, conflicted 117, instrumental 110, witness 56; contemporary 399, funeral 180, posthumous 198. Round 23: Indian legislatures 1924–63 (Motilal Nehru, Radhakrishnan, the 1938 condolence with Bhulabhai Desai and Zafar Ali Khan); Congressional Record 1957–90 (Powell, Sikes, Mathias, Byrd). Free seams are exhausted for notable voices; what remains is in 'Only Okan can do these' below.**
 
 **Datum after round 22 (2026-11-03): 759 gazes, 619 voices, 75 countries. Rounds 21–22: Ortega Munilla, Ledesma; Herriot, Pinon, Pernot, Franklin-Bouillon, Oliver Baldwin; Wikisource (Iorga, Nzhdeh ×2, Shant, Lototsky, Kotko, Annadurai, Banerjea, McCabe, Hook); La Turquie kémaliste (Ahmed Haşim, W. L. Wright, Pittard, Ireland, Belge); Westminster via TheyWorkForYou (Eden ×2, Noel-Baker, Selwyn Lloyd, Clement Davies, Hollis, Wigg, MacShane, John Patten, Corbyn); Anzac leaders (Hawke ×2, Howard, Rudd, Abbott ×2, Gillard, Morrison, Peters, Goff); Bundestag (Fischer ×2, Schröder, Weisskirchen, Jung, Müntefering, Hampel, Stercken, Poppe, Althammer, Emmerlich); Congress (Connally, Davis, Pepper ×2, Reynolds, Saylor, Levin, Moynihan, Lantos ×2, Byrd, Gohmert); Hitler 1941 upgraded to the Reichstag protocol's German.**
@@ -216,26 +218,29 @@ not assumed.
 10. **Compilation pages** (ataturktoday.com tributes, Pera Palace press page) — T-tier lead-mines;
     never cite directly, always trace upstream.
 
-## Only Okan can do these (final, 5 Nov 2026; 22 open items)
+## Only Okan can do these (updated 9 Nov 2026)
 
-Every free route has been tried for each item below; what is left needs a library, a purchase, a login or a human click.
+Every free route has been tried for each item below. What is left needs a library, a purchase, a login or a human click.
 
 **Library or purchase**
-1. Şimşir, *Atatürk ve Yabancı Devlet Başkanları* I–IV (TTK): the incoming letters from heads of state. *Atatürk'ün Bütün Eserleri* (open) cites them by page, e.g. Hitler's letter of 23 Nov 1934, vol. I pp. 153–154; Alexander I's letters, vol. IV pp. 261–278.
-2. Xenophon Stratigos, *Η Ελλάς εν Μικρά Ασία* (1925): a full PDF exists on Scribd (account) and as a paid Ko-fi download; Papoulas has no digitised memoir (Greek Parliament Library / NLG reading room).
-3. Frunze, «Поездка в Ангору» (1929 diary): two Frunze records now come from Soviet talk records printed in *Atatürk'ün Bütün Eserleri* vol. 12 (round 31); the diary itself is still library-only, for completeness.
-4. *Anıtkabir Özel Defteri* (printed volumes; 23 vols, Anıtkabir Derneği 2001): only for 1974–2002 entries, if any carry text (1953–73 foreign entries are mostly signatures, per Boran 2011).
+3. Şimşir, *Atatürk ve Yabancı Devlet Başkanları* I–IV (TTK): the incoming letters from heads of state (e.g. Hitler, 23 Nov 1934, vol. I pp. 153–154; Alexander I, vol. IV pp. 261–278).
+4. *Anıtkabir Özel Defteri* (ed. Recep Cengiz, Anıtkabir Derneği, 2001; about 20 vols): the master source for 1960–2001 foreign leaders' entries. Saddam Hussein's 1977 entry is known only from a 2004 newspaper extract; the press of the 1990s–2000s rarely prints the text.
+5. Landau (ed.), *Atatürk and the Modernization of Turkey* (Westview/Brill, 1984): the 1981 İş Bankası symposium papers, notably **Ali Mazrui**'s 'Africa between the Meiji Restoration and the Legacy of Atatürk' (pp. ~403–410), plus von Beyme, Hale, Stirling, Dodd.
+6. Xenophon Stratigos, *Η Ελλάς εν Μικρά Ασία* (1925): on Scribd (account) or as a paid Ko-fi PDF.
+7. Frunze, «Поездка в Ангору» (1929 diary), for completeness.
 
 **Borrow on archive.org, one page each**
-5. Hitler, *Table Talk* (2 Apr 1942) · 6. Goebbels' diary (Nov 1938) · 7. Pamuk's "André Gide" essay · 8. Brzezinski, *Strategic Vision* · 9. Brezhnev, Minsk speech 1978 (p. 223) · 10. Herriot, *Jadis* · 11. Morand, *Voyages* · 12. Montgomery and Fuller · 13. Ben-Gurion, *My Talks with Arab Leaders* · 14. Salvemini, Musil · 15. Hemingway, *Dateline: Toronto*.
+8. Hitler, *Table Talk* (2 Apr 1942) · Goebbels' diary (Nov 1938) · Pamuk's "André Gide" essay · Brzezinski, *Strategic Vision* · Brezhnev's Minsk speech 1978 (p. 223) · Herriot, *Jadis* · Morand, *Voyages* · Montgomery and Fuller · Ben-Gurion, *My Talks with Arab Leaders* · Salvemini, Musil · Hemingway, *Dateline: Toronto* · Benoist-Méchin, *À destins rompus* (1974) and *Mustapha Kémal ou la mort d'un empire* (1954), to get page numbers for the staged snippets.
 
-**A human click or login**
-16. Milliyet's own archive (gazetearsivi.milliyet.com.tr, login): 1990–2002 inner pages with the Anıtkabir-book reports for Kohl 1993, Benazir Bhutto 1990, Havel 2000, Mubarak 1998 (the free gastearsivi.com mirror serves only page 1 for 1990+; inner pages return "Bu sayfa arşivimizde yok"). Thatcher 1988 p. 13 is in the mirror but its OCR is garbled; the page image is needed. Also, in the same archive (front pages are free, inner pages need the login): **Tito**, Milliyet 14 Apr 1954 p. 7 (the continuation of the front-page report on his Anıtkabir visit and Bayar's Çankaya dinner, the only place his toast and any book entry would be printed; Boran 2011 says 1953–73 foreign entries are mostly signatures), and **Castro**, Milliyet 14 Jun 1996 p. 14 (his Istanbul arrival, 'the Turkey he called his dream') and 15 Mar 1997 ('Castro, irticayı sordu', which Malumatfuruş transcribes).
-17. ~~The German Embassy's post with Merkel's 2016 entry in German~~: done 5 Nov 2026 via Monid (the embassy's Facebook post).
-18. (Optional) ALEX/ÖNB's Cloudflare box: the same Austrian protocols were covered via parlament.gv.at and the Fraktur re-OCR.
+**A human click (sites behind bot checks, which the agents must not bypass)**
+9. vie-publique.fr and elysee.fr: search "Atatürk" in French presidents' and ministers' speeches (Giscard, Mitterrand, Chirac, Sarkozy, Hollande, Macron).
+10. quirinale.it: Napolitano in Ankara, Nov 2009; presidency.ro (Băsescu, Iohannis); casareal.es (Juan Carlos, Felipe VI); gg.govt.nz.
+11. UNESDOC: M'Bow's 1981 Atatürk-centenary speech.
+12. doria.fi worked through Wayback for Kekkonen; the live site's search could list other Finnish presidential speeches on Turkey.
+13. British Newspaper Archive (paid): G. Ward Price's Daily Mail interviews with Kemal.
 
 **Originals and readers**
-19. Khomeini, *Sahifeh* vol. 3, Persian · 20. Roncalli's Italian diary · 21. Ben Badis, *al-Shihab* / *al-Najah* · 22. Hanioğlu's footnote on Erbakan; the page in Sadat's book; Bhutto's 1965 speech · 23. The Hebrew (Katsav) and Czech (Špidla) originals of the Anıtkabir entries, the Milliyet 1962 (Brynner) and NZZ 1938 originals.
+14. Khomeini, *Sahifeh* vol. 3, Persian · Roncalli's Italian diary · Ben Badis, *al-Shihab* / *al-Najah* · the page in Sadat's book · Bhutto's 1965 speech · the Hebrew (Katsav) and Czech (Špidla) originals of the Anıtkabir entries · Borba / *Govori i članci* IX for Tito's 1954 toast · the English originals of the 1953 and 1963 anniversary messages (MacArthur, Erhard, Douglas-Home, Ayub Khan, Nehru…) and of Luns's 1986 Peace Prize speech.
 
 ## Human / browser queue
 

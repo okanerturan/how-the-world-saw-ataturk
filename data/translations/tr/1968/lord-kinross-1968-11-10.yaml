@@ -1,0 +1,41 @@
+# Turkish for data/voices/1968/lord-kinross-1968-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lord-kinross-1968-11-10
+voice: Lord Kinross
+role: >-
+  İngiliz tarihçi, Atatürk: The Rebirth of a Nation (1964) kitabının yazarı; İstanbul'daki 30. yıl dönümü
+  törenlerinde konuk
+quote: >-
+  «Türklerin en sevgilisi, büyük dosta... 20. yüzyılın en büyük devlet ve siyaset adamının hâtırasına.» […]
+  «Birinci Dünya Savaşı, Osmanlı İmparatorluğu için bir son, Atatürk için bir başlangıçtı. Gelibolu harekâtı
+  sırasında, üstün kuvvetler karşısında, İstanbul ve Boğazları kurtarması, Atatürk'ün en büyük başarısıdır.
+  Mustafa Kemal, 1918'de bile hâlâ mağlûp edilmemiş bir kumandandı. İstiklâl Savaşı için, Anadolu'nun bağrında
+  halkı birleştiren bu büyük adam, bütün zorlukları da yenmesini bilmiştir. İstiklâl mücadelesi, sadece askerî
+  yönü ile değil, politik yönü ile de büyük önem taşır. Mücadele, Sakarya ile tam bir zafere ulaşmıştır.»
+quote_kind: original-turkish
+summary: >-
+  'Türklerin en sevileni', '20. yüzyılın en büyük devlet ve siyaset adamı'; en büyük başarısı Gelibolu'da
+  İstanbul'u kurtarmaktı.
+caveat: >-
+  Konuşma, gazetenin tırnak içinde verdiği özettir ('Özetle şunları söylemiştir'); özel defter yazısı Türkçe
+  olarak alıntılanmıştır ve gazete bunu hangi dilde yazdığını belirtmemektedir. Sayfa görüntüsünden okunmuştur
+  (Milliyet abone arşivi).
+mediated_by: >-
+  Milliyet, 11 Kasım 1968: Taksim Cumhuriyet Anıtı törenindeki defter yazısı için s. 7 ('Ulu Ata'yı andık',
+  İstanbul'da); Harbiye'deki 3. Kolordu Karargâhı'nda subaylara yaptığı ve gazetenin özetlediği ('Özetle
+  şunları söylemiştir') konuşma için s. 1 ('Kinross Atatürk'ü anlattı') ve s. 7
+verification_note: >-
+  İkinci, bağımsız bir kontrolör tarafından yeni kırpılmış görüntüler üzerinden sayfa görüntüsünden okunmuştur
+  (9 Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3bf5345787c0
+  role: 319d4a4f1944
+  quote: 3fa29a7d0b5b
+  summary: b86ed4e491a6
+  caveat: 8bbb8bdc2bbf
+  mediated_by: d0c9ddc7c634
+  verification_note: 700af5de5e3f
+  verification_method: 1c3478366c90

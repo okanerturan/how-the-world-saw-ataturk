@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: nawaz-sharif-2013-09-17-book
+voice: Nawaz Sharif
+voice_type: person
+role: Prime Minister of Pakistan; entry in the Anıtkabir visitors' book, Ankara
+country: Pakistan
+country_now: Pakistan
+domain: politics
+date: "2013-09-17"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: quote
+evidence: J
+summary: >-
+  The father of modern Turkey, whose visionary statesmanship united the nation; 'revered in Pakistan as a
+  truly great visionary leader'.
+quote:
+  text: >-
+    It is a great honour for me to pay homage to Mustafa Kemal Ataturk – the father of modern Turkey.
+    Ataturk's visionary statesmanship united the Turkish nation and chartered the course of modernity and
+    progress. Ataturk is revered in Pakistan as a truly great visionary leader.
+  language: en
+mediated_by: Business Recorder, 17 Sep 2013
+caveat: >-
+  Business Recorder (Karachi) news report of the visit; his Feb 2017 visit is reported only in paraphrase.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.brecorder.com/news/amp/136384
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://www.brecorder.com/news/amp/136384
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

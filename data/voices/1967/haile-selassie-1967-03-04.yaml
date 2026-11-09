@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: haile-selassie-1967-03-04
+voice: Haile Selassie
+voice_type: person
+role: Emperor of Ethiopia; state visit to Turkey, wreath-laying at Anıtkabir, Ankara
+country: Ethiopia
+country_now: Ethiopia
+domain: politics
+date: "1967-03-04"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: quote
+evidence: J
+summary: >-
+  The saviour of the Turkish people, whose service is an example for the whole world; beside his works a
+  silver wreath means nothing.
+quote:
+  text: >-
+    «Atatürk'ün yapmış olduğu işler karşısında bu çelengin hiç bir önemi yoktur. Ben sadece uzun zaman
+    dayanamıyacak çiçekler yerine bunu tercih ettim.» […] «Hayatını vatanına ve milletine vakfetmiş olan Türk
+    halkının kurtarıcısı Kemal Atatürk'ün nihaî istirahatgâhını ziyaret ettik. Memleketi için yaptığı
+    hizmetler bütün dünya için çok güzel bir örnek teşkil etmiştir.»
+  translation: >-
+    Beside the works Atatürk accomplished this wreath has no importance at all. I only preferred it to flowers
+    that cannot last long. […] We have visited the final resting place of Kemal Atatürk, the saviour of the
+    Turkish people, who devoted his life to his country and nation. The services he rendered to his country
+    have set a very fine example for the whole world.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 5 Mar 1967, p. 1 ('Selasiye, Anıt-Kabir'e gümüş çelenk koydu') and p. 7 (continuation): Turkish
+  rendering of his reply when told the wreath would be kept in a special place, and of his special-book entry,
+  which was translated into English on the spot
+caveat: >-
+  At Anıtkabir on 4 March 1967 ('dün'), the day after he arrived in Ankara; the paper prints his reply about
+  the wreath, then the plaque, then the book entry. The wreath's plaque, written in Turkish at his order, also
+  honours Atatürk 'who will always live in everyone's memory for his exemplary work in modernising Turkey, and
+  who devoted his life to the interest, nobility and welfare of his nation'. The original-language book entry
+  was not seen; the Türkiye–Ethiopia Friendship Platform displayed the wreath and gifts in January 2023. Read
+  on the page image (Milliyet's subscriber archive).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1967.03.05
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 5 Mar 1967 pp. 1, 7, page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word. The checker also read the previous day's issue (4 Mar 1967 p. 7), which
+    has him in Ankara on 3 March with the wreath ceremony set for the 4th.
+  checked_on: "2026-11-09"

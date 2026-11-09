@@ -3,21 +3,31 @@
 # yaml-language-server: $schema=../../../schema/translation.schema.json
 id: churchill-1920
 voice: Winston Churchill
-role: Savaş Bakanı, Avam Kamarası Ordu görüşmesi
-quote: Mustafa Kemal'in düşman kuvvetleri
+role: Savaş Bakanı, Avam Kamarası Ordu tartışması
+quote: >-
+  Mustafa Kemal liderliğinde, işlerine geldiği ölçüde İstanbul'daki Hükümetin otoritesini reddeden Türk
+  Milliyetçileri var. […] Bolşevik kuvvetleri, durumu şüpheli Azerbaycan ve Gürcistan Cumhuriyetleri ile ve
+  yalnızca onlarla değil, aynı zamanda Mustafa Kemal'in düşman kuvvetleriyle de yakın temas halinde olacaktır.
+  Askeri açıdan bu birleşme çetindir.
 quote_kind: translated
 summary: >-
-  İstanbul'un otoritesini reddeden Kemal'in Milliyetçilerini Mezopotamya'ya ilişkin kaygılar arasında saydı ve
-  Bolşeviklerle birleşmeleri konusunda uyardı.
+  Kemal'in Milliyetçileri Mezopotamya'ya yönelik üç tehditten biri; Bolşeviklerle birleşmeleri 'korkutucu'
+  olurdu.
 caveat: >-
-  Bolşevizm üzerine daha uzun bir konuşmanın içindeki tehdit değerlendirmesi; Churchill hakkında mevcut not
-  var.
+  Kara Kuvvetleri Bütçe Tahminleri (Kara Kuvvetleri Mevcudu) üzerine verdiği yanıtta, Orta Doğu'ya ilişkin bir
+  değerlendirme kapsamında yer alan bir tehdit değerlendirmesi; bunun 'mutlaka olağan askeri sonuçları
+  doğuracağının kesin olmadığını' ('is not certain that it will necessarily be followed by the ordinary
+  military consequences') da ekler.
+verification_note: >-
+  Her iki pasaj da 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından Hansard kaydından yeniden
+  okundu: kelimesi kelimesine aynıdır.
 verification_method: API
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 12253b5990a1
   role: b536f41abe7a
-  quote: dd4adc63678f
-  summary: aa9b2f9a445d
-  caveat: 4b5e04640a5d
+  quote: 58b0bce01a7d
+  summary: 6c187dabed79
+  caveat: 40c6cd239de0
   verification_method: a033a528b603
+  verification_note: b354516d1468

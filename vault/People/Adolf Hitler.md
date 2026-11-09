@@ -16,9 +16,9 @@ here was personal and genuine.
 
 **The blueprint.** Two defeated empires, two humiliating treaties ([[Treaty of Sèvres]] and
 Versailles). Germany languished under Weimar; Atatürk fought his way to a rewrite. The 1923 Beer Hall
-Putsch was modelled largely on the Ankara rebellion, and in 1933 Hitler called Atatürk "a star in
-the darkness" — a line the German press reprinted into what Ihrig calls a "minor cult" around him
-(p. 115). In 1938: *"Atatürk was the first to show that it is possible to mobilize and
+Putsch was modelled largely on the Ankara rebellion, and in July 1933 Hitler called Atatürk's Turkey
+"a star in the darkness", a line reprinted on the front page of the *Völkischer Beobachter*
+(Ihrig, pp. 114–116). In 1938: *"Atatürk was the first to show that it is possible to mobilize and
 regenerate the resources that a country has lost… Mussolini was his first and I his second student."*
 
 **Ethnic cleansing as völkisch ideal.** The Nazi press celebrated the "New Turkey" as a pure

@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: richard-von-weizsacker-1987-10-14
+voice: Richard von Weizsäcker
+voice_type: person
+role: >-
+  Federal President of West Germany; address in Ankara accepting the International Atatürk Peace Prize
+country: Germany
+country_now: Germany
+domain: politics
+date: "1987-10-14"
+era: posthumous
+polarity: admiring
+intensity: 3
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  One of the truly significant statesmen of the century, of 'historical greatness': he left a backward,
+  humiliated country a modern, respected state.
+quote:
+  text: >-
+    Atatürk war einer der wahrhaft bedeutenden Staatsmänner unseres Jahrhunderts. Wenige lassen sich ihm an
+    die Seite stellen. […] In diesem Sinne kommt Mustafa Kemal Atatürk historische Größe zu. Sein Verständnis
+    für Menschen und sein illusionsloser, weitreichender Realitätssinn gaben ihm die Kraft, einem Staat, einem
+    ganzen Volk neues Selbstbewußtsein zu geben und neue Ziele zu setzen. […] Als Atatürk die Verantwortung
+    für die Geschicke seines Landes übernahm, war die Türkei ein rückständiges, feudales, autokratisch
+    regiertes, durch Niederlagen gedemütigtes Land. Als er starb, hinterließ er einen modernen, aufgeklärten,
+    selbstgewissen und geachteten Staat.
+  translation: >-
+    Atatürk was one of the truly significant statesmen of our century. Few can be placed beside him. […] In
+    this sense Mustafa Kemal Atatürk possesses historical greatness. His understanding of people and his
+    unillusioned, far-reaching sense of reality gave him the strength to give a state, a whole people, new
+    self-confidence and new goals. […] When Atatürk took responsibility for his country's destiny, Turkey was
+    a backward, feudal, autocratically ruled country humiliated by defeats. When he died he left a modern,
+    enlightened, self-assured and respected state.
+  language: de
+caveat: >-
+  Bulletin der Bundesregierung no. 108 (20 Oct 1987), as digitised on bundesregierung.de (all lower case,
+  umlauts as ae/oe/ue; spelling restored here). The 'Burckhardt' sentence paraphrases Jacob Burckhardt on
+  great historical individuals. On his 1986 state visit he wrote in the Anıtkabir special book, citing
+  Atatürk's 'Özgürlük her türlü ilerlemenin anasıdır', "Bu anlayışla Türk halkına barışçı ve şanslı bir
+  gelecek dilerim" (Milliyet 27 May 1986 p. 7, Nur Batur; read on the page image); his 1986 dinner toast as
+  reported does not mention Atatürk.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/gefaehrten-auf-dem-weg-zum-inneren-und-aeusseren-frieden-ansprache-des-bundespraesidenten-zur-verleihung-des-atatuerk-friedenspreises-in-ankara-809740
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/gefaehrten-auf-dem-weg-zum-inneren-und-aeusseren-frieden-ansprache-des-bundespraesidenten-zur-verleihung-des-atatuerk-friedenspreises-in-ankara-809740
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    The digitised text is lower-case ASCII; 'im opernhaus in ankara am 14. oktober 1987'.
+  checked_on: "2026-11-09"

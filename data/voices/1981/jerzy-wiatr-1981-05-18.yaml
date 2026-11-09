@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jerzy-wiatr-1981-05-18
+voice: Jerzy J. Wiatr
+voice_type: person
+role: Polish political sociologist; paper at the International Atatürk Symposium, Istanbul
+country: Poland
+country_now: Poland
+domain: letters
+date: "1981-05-18"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  Exceptional among soldiers who took power: he set aside his regime's military elements, and his republic was
+  not a military dictatorship.
+quote:
+  text: >-
+    "Atatürk'ün, bilinçli olarak, rejiminin bütünüyle askerî öğelerini önemsemeyerek, iktidara gelen askerî
+    liderler arasındaki müstesna yerini aldığını" […] "Kemalizm sembolü, gelişmekte olan ülkelerin ilerici
+    askerî rejimlerinin yönlerini tesbit için, geri kalmışlık ve dış bağımlılık koşulları hüküm sürdükçe,
+    önemli ideolojik âmil olarak kalacaktır"
+  translation: >-
+    that Atatürk, by consciously disregarding the wholly military elements of his regime, took an exceptional
+    place among military leaders who came to power […] 'As long as conditions of backwardness and external
+    dependence prevail, the Kemalist symbol will remain an important ideological factor in setting the course
+    of progressive military regimes in developing countries.'
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 19 May 1981, p. 8: 'Uluslararası Atatürk Sempozyumu başladı', subhead 'Askerî liderler arasında
+  Atatürk'
+caveat: >-
+  Partly indirect speech; a Marxist-era Polish scholar speaking eight months after the 1980 coup in Turkey.
+  Read on the page image (Milliyet's subscriber archive).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1981.05.19
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 1981.05.19 page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

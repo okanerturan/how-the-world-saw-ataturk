@@ -7,9 +7,8 @@ role: Yunan gazetesi
 quote: Türkiye kurucusunu kaybediyorsa, Yunanistan da büyük ve güvenilir bir dostunu kaybediyor
 quote_kind: translated
 summary: >-
-  Onu büyük bir reformcu olarak nitelendirdi ve Yunanların onun Türk-Yunan dostluğuna duyduğu sarsılmaz inancı
-  duygulanarak hatırlayacağını söyledi: Türkiye büyük kurucusunu kaybediyorsa, Yunanistan da büyük ve
-  güvenilir bir dostunu kaybediyor.
+  Onu, Türk-Yunan dostluğuna olan inancı Yunanlar tarafından hatırlanacak büyük bir reformcu olarak
+  nitelendirdi: Türkiye büyük kurucusunu, Yunanistan ise büyük ve güvenilir bir dostunu kaybediyor.
 caveat: >-
   Yunan gazetesinin Toksoy'daki Türkçe özetinin İngilizceye aktarımı. Bu alıntının Estia'ya değil Proia'ya ait
   olduğu anlaşıldığında 29 Ekim 2026'da eklendi.
@@ -21,7 +20,7 @@ source_fingerprints:
   voice: 84a4efe29c7f
   role: 5e3f5e9ffd0a
   quote: 976cac76ae04
-  summary: 46d9dc6982d7
+  summary: dee49c2efee2
   caveat: a36c4d1ce9f9
   mediated_by: 84729c372932
   verification_note: 4875c1cbd6e6

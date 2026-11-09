@@ -1,0 +1,39 @@
+# Turkish for data/voices/1971/urho-kekkonen-1971-06-07.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: urho-kekkonen-1971-06-07
+voice: Urho Kekkonen
+role: >-
+  Finlandiya Cumhurbaşkanı; devlet ziyaretinin ilk gününde Cumhurbaşkanı Cevdet Sunay'ın verdiği resmi akşam
+  yemeğindeki kadeh konuşması, Ankara
+quote: >-
+  Hem bugünkü Türkiye Cumhuriyeti hem de Finlandiya Cumhuriyeti Birinci Dünya Savaşı bağlamında doğmuştur. Bu
+  yüzyılın en büyük devlet adamlarından biri, bugün mezarına Finlandiya hükümetinin çelengini koyma onuruna
+  eriştiğim Kemal Atatürk idi. O, Anadolu'nun sadık köylülerini bu Ankara şehrine toplamayı ve onları nihai
+  zafere ulaştırmayı başardı. Tarihimizde pek çok kader tayin edici evreden geçmiş olan biz Finler, ne
+  tereddüt eden ne de korkan ve hayatının sonuna kadar anavatanının geleceğine inanan bir adama tam
+  takdirimizi sunabiliriz.
+quote_kind: translated
+summary: >-
+  Yüzyılın en büyük devlet adamlarından biri; 'ne tereddüt etti ne de korktu' ve sonuna kadar ülkesinin
+  geleceğine inandı.
+caveat: >-
+  Finlandiya Ulusal Kütüphanesi (Doria, handle 10024/7433) tarafından dijitalleştirilen Cumhurbaşkanlığı
+  daktilo metninden (Urho Kekkonen arşivi, UKK926522 XIX) Fince metin; doria.fi artık bot kontrolü arkasında
+  olduğundan Wayback Machine kopyası üzerinden okunmuştur. Milliyet, 8 Haziran 1971, s. 1 ve s. 9, Anıtkabir
+  ziyaretini ve "her iki Devlet Başkanının Türk-Fin dostluğunu öven birer konuşma yaptığını" metni vermeksizin
+  aktarmaktadır. Çeviri bize aittir.
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci, bağımsız bir kontrolör tarafından yeniden açılmıştır: alıntılanan metin
+  kelimesi kelimesine oradadır. Çeviri aslına sadıktır. Başlık: 'Tasavallan Presidentin puhe Turkin
+  Presidentin illallisilla 7.6.1971'.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3eccee451acb
+  role: 2473b6800c46
+  quote: 99ce1f28e6e2
+  summary: cf40a89b5614
+  caveat: 366d3e1fab6a
+  verification_note: ddd38b7997b8
+  verification_method: 66d7e7f771bc

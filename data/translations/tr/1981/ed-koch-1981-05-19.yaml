@@ -1,0 +1,35 @@
+# Turkish for data/voices/1981/ed-koch-1981-05-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ed-koch-1981-05-19
+voice: Ed Koch
+role: >-
+  New York Belediye Başkanı; New York Times'ta tam sayfa bir ilanda basılan, 19 Mayıs 1981'i Atatürk Günü ilan
+  eden açıklaması
+quote: >-
+  "Kemal Atatürk, zamanımızda insanlığın en iyi ideallerini temsil eden birçok prensibi uygulamaya koymuştur"
+quote_kind: original-turkish
+summary: >-
+  İnsanlığın en iyi ideallerini simgeleyen birçok ilkeyi hayata geçirmiş, çağın en ilham verici liderlerinden
+  biri.
+caveat: >-
+  Sponsorlu bir ilanda (haberde sponsorun adı verilmemiştir) bildiri tarzında bir açıklama; İngilizce metin
+  görülmedi. Haber, açıklamanın Atatürk'ü çağın en ilham verici liderlerinden biri olarak nitelendirdiğini
+  ekliyor (dolaylı anlatım). Sayfa görüntüsünden okundu (Milliyet abone arşivi).
+mediated_by: >-
+  Milliyet, 21 Mayıs 1981, s. 9 ('Atatürk'ün 100. doğum yılını kutlama törenleri ABD'de başladı', İskender
+  Songur): New York Times'taki tam sayfa ilanda Koch'un imzasıyla yayımlanan açıklamanın Türkçe aktarımı
+verification_note: >-
+  Sayfa görüntüsü üzerinden ikinci ve bağımsız bir kontrolör tarafından yeni kesitlerle okundu (9 Kasım 2026):
+  alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2abebdd905be
+  role: c09bdedd9384
+  quote: d2736b6b0b0a
+  summary: 3745ab0fb30f
+  caveat: 1e590785c4d9
+  mediated_by: ced06871ded0
+  verification_note: 700af5de5e3f
+  verification_method: 1c3478366c90

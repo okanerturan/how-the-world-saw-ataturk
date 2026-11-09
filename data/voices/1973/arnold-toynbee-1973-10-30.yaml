@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: arnold-toynbee-1973-10-30
+voice: Arnold J. Toynbee
+voice_type: person
+role: >-
+  British historian; signed article 'İngiliz gözüyle' in Milliyet's series for the Republic's 50th anniversary
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1973-10-30"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: J
+summary: >-
+  In their crisis the Turks 'found a great leader', dynamic and inspiring, who like Churchill in 1940 could
+  promise only victory through sacrifice.
+quote:
+  text: >-
+    TÜRKLER Kurtuluş Savaşında heyecan verici bir zafer kazandılar. Bu zafer, cesaret ve sabırlarının
+    armağanıydı. Ulusal tarihlerinin bu bunalımlı noktasında Türkler büyük bir önder buldular: Mustafa Kemal
+    Atatürk... Hareketli ve ilham verici bir kişiydi Atatürk. Ne var ki, Türkler bedelini ödemekte istekli
+    olmasalardı, yurddaşlarını, Atatürk de zafere ulaştıramazdı. 1919 da Atatürk kendi halkına, ancak aşırı
+    fedakârlık isteyen bir zafer ihtimali vaadedebilirdi. 1940'da Churchill'in yaptığı da buydu. Türk halkı
+    Atatürk'ün çağrısına soylu bir cevap verdi.
+  translation: >-
+    The Turks won a thrilling victory in the War of Liberation, the gift of their courage and patience. At
+    this critical point in their national history the Turks found a great leader: Mustafa Kemal Atatürk…
+    Atatürk was a dynamic and inspiring person. Yet had the Turks not been willing to pay the price, not even
+    Atatürk could have led his compatriots to victory. In 1919 Atatürk could promise his people only the
+    chance of a victory demanding extreme sacrifice. That is what Churchill did in 1940. The Turkish people
+    gave Atatürk's call a noble answer.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 30 Oct 1973, p. 2: 'İngiliz gözüyle — Türk Kurtuluş Savaşı ve dünya', bylined 'Yazan: Prof. Arnold
+  Toynbee' (Turkish translation of his article)
+caveat: >-
+  Written for the Republic's 50th anniversary, two years before his death; the English original was not seen.
+  A striking shift from his 1922 The Western Question (arnold-toynbee-1922). The next day's article in the
+  series was by Dankwart Rustow. Read on the page image (Milliyet's subscriber archive).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1973.10.30
+    archived: https://web.archive.org/web/20261014020921/https://gazetearsivi.milliyet.com.tr/liste?tarih=1973.10.30
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 1973.10.30 page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

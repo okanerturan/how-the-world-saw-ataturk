@@ -1,0 +1,40 @@
+# Turkish for data/voices/1973/arnold-toynbee-1973-10-30.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: arnold-toynbee-1973-10-30
+voice: Arnold J. Toynbee
+role: >-
+  İngiliz tarihçi; Cumhuriyet'in 50. yıl dönümü dolayısıyla Milliyet'in hazırladığı dizide yer alan "İngiliz
+  gözüyle" başlıklı imzalı yazısı
+quote: >-
+  TÜRKLER Kurtuluş Savaşında heyecan verici bir zafer kazandılar. Bu zafer, cesaret ve sabırlarının
+  armağanıydı. Ulusal tarihlerinin bu bunalımlı noktasında Türkler büyük bir önder buldular: Mustafa Kemal
+  Atatürk... Hareketli ve ilham verici bir kişiydi Atatürk. Ne var ki, Türkler bedelini ödemekte istekli
+  olmasalardı, yurddaşlarını, Atatürk de zafere ulaştıramazdı. 1919 da Atatürk kendi halkına, ancak aşırı
+  fedakârlık isteyen bir zafer ihtimali vaadedebilirdi. 1940'da Churchill'in yaptığı da buydu. Türk halkı
+  Atatürk'ün çağrısına soylu bir cevap verdi.
+quote_kind: original-turkish
+summary: >-
+  Türkler kriz anında, tıpkı 1940'ta Churchill'in yaptığı gibi yalnızca fedakârlık yoluyla zafer vaat
+  edebilen, dinamik ve ilham verici 'büyük bir lider buldular'.
+caveat: >-
+  Cumhuriyet'in 50. yıldönümü için, ölümünden iki yıl önce yazılmıştır; İngilizce özgün metin görülmemiştir.
+  1922 tarihli The Western Question (arnold-toynbee-1922) eserine kıyasla çarpıcı bir değişimdir. Dizideki
+  ertesi günkü yazı Dankwart Rustow'a aittir. Sayfa görüntüsünden okunmuştur (Milliyet abone arşivi).
+mediated_by: >-
+  Milliyet, 30 Ekim 1973, s. 2: 'İngiliz gözüyle — Türk Kurtuluş Savaşı ve dünya', 'Yazan: Prof. Arnold
+  Toynbee' imzasıyla (yazısının Türkçe çevirisi)
+verification_note: >-
+  İkinci, bağımsız bir kontrolör tarafından yeni kırpılmış görüntüler üzerinden sayfa görüntüsünden okunmuştur
+  (9 Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 9d504ed5aa33
+  role: 53ff0bd07b28
+  quote: 1c5f4e6cdf25
+  summary: e0f3acd0da3e
+  caveat: 05249f9b0ecc
+  mediated_by: 873bc53c5247
+  verification_note: 700af5de5e3f
+  verification_method: 1c3478366c90

@@ -1,0 +1,32 @@
+# Turkish for data/voices/2014/gjorge-ivanov-2014-05-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: gjorge-ivanov-2014-05-19
+voice: Gjorge Ivanov
+role: >-
+  Makedonya Cumhuriyeti Cumhurbaşkanı; Kocacık'ta Ali Rıza Efendi'nin (Atatürk'ün babası) restore edilen
+  evinin açılış konuşması
+quote: >-
+  Babanın doğum yeri oğul için nasıl azizse, kurucunun doğum yeri de devlet için önemlidir. Makedonya
+  Cumhuriyeti, Atatürk'ün ve babasının doğum yeri olarak anılmaktan gurur duymaktadır.
+quote_kind: translated
+summary: >-
+  Makedonya'nın kendi değeri olarak sahiplendiği modern Türkiye'nin kurucusu: Ülke, 'Atatürk'ün ve babasının
+  doğduğu yer olarak anılmaktan gurur duymaktadır'.
+caveat: >-
+  Cumhurbaşkanlığı sitesindeki resmi İngilizce metin. Atatürk Selanik'te (bugün Yunanistan) doğdu ve
+  Manastır'da okula gitti; Kocacık babasının köyüdür, dolayısıyla "Atatürk'ün doğum yeri" bir olgudan ziyade
+  bir akrabalık iddiasıdır. Açılış tarihi olarak Türk gençlik günü olan 19 Mayıs seçilmiştir.
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1a34f61a3681
+  role: 857355d2f611
+  quote: 6cad0e23c436
+  summary: f587be4cc876
+  caveat: 011ce64741f9
+  verification_note: e9eab29e687c
+  verification_method: 66d7e7f771bc

@@ -22,6 +22,7 @@ quote:
   translation: >-
     His counting the Turks as Western was a very vital mistake. But that aside, I have great admiration for
     him.
+  is_translation: true
   language: tr
 mediated_by: >-
   Cumhuriyet, 16 Jul 1984 p. 8, series 'Ben Bella anlatıyor' (Geneva interview, printed in Turkish translation)
@@ -47,5 +48,5 @@ verification:
     Turkish quote verbatim (OCR 'hayranhğım'); 'olağanüstü bir insan oldu' and 'getirdiği çarelerle ayru
     [aynı] fikirde değiliz' present, as is the 1930s-40s study answer. TIER: this is a newspaper Q&A printed
     in Turkish translation, so it is press, not his own text. Evidence P → J. mediated_by is correctly filled.
-  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 30)
   checked_on: "2026-11-05"
+  resolution: corrected 2026-11-05 — see LEDGER § Source-check corrections (round 30)

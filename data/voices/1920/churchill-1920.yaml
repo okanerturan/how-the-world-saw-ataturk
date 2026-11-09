@@ -13,12 +13,19 @@ intensity: 1
 artifact: speech
 evidence: P
 summary: >-
-  Listed Kemal's Nationalists, repudiating Constantinople's authority, among the anxieties for Mesopotamia and
-  warned of their junction with the Bolsheviks.
+  Kemal's Nationalists as one of three threats to Mesopotamia; their junction with the Bolsheviks would be
+  'formidable'.
 quote:
-  text: the hostile forces of Mustapha Kemal
+  text: >-
+    There are the Turkish Nationalists under Mustapha Kemal, who repudiate the authority of the Government at
+    Constantinople so far as it is convenient to them to do so. […] the Bolshevik forces will be in close
+    touch with the doubtful Republics of Azerbaijan and Georgia, and not only with them, but also with the
+    hostile forces of Mustapha Kemal. On military grounds this junction is formidable.
   language: en
-caveat: A threat assessment inside a longer speech on Bolshevism; existing note on Churchill.
+caveat: >-
+  A threat assessment in his reply on the Army Estimates (Number of Land Forces), within a survey of the
+  Middle East; he adds that it 'is not certain that it will necessarily be followed by the ordinary military
+  consequences'.
 node: Parliament Meets Kemal, February–March 1920
 sources:
   - url: https://hansard.parliament.uk/Commons/1920-03-22/debates/8529f900-db16-4d18-924b-a2cb5745973b/NumberOfLandForces
@@ -29,4 +36,6 @@ verification:
     Hansard API contribution b08af620-6e0f-4925-917f-32dfa46347b9 (Mr Churchill, 1920-03-22, Number Of Land
     Forces)
   method: api
-  checked_on: "2026-10-29"
+  note: >-
+    Both passages re-read in the Hansard record by a second, independent checker on 9 Nov 2026: word for word.
+  checked_on: "2026-11-09"

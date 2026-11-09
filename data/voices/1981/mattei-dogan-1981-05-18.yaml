@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mattei-dogan-1981-05-18
+voice: Mattei Dogan
+voice_type: person
+role: >-
+  French political sociologist (CNRS); paper at the International Atatürk Symposium, Istanbul, for the
+  centenary of Atatürk's birth
+country: France
+country_now: France
+domain: letters
+date: "1981-05-18"
+era: posthumous
+polarity: admiring
+intensity: 3
+artifact: quote
+evidence: J
+summary: >-
+  The first and greatest charismatic leader of the twentieth century, a model for Reza Shah, Gandhi, Nehru,
+  Bourguiba, Kenyatta and Eva Perón.
+quote:
+  text: >-
+    "Napolyon da bir liderdi, ama Atatürk ve de Gaulle gibi krizmatik bir lider değildi. Atatürk ve de
+    Gaulle'ün ortak özellikleri, asker oluşlarıdır. Her ikisinin de etkileyici kişilikleri, başardıklarının
+    kalıcı olmasını sağlamıştır. Atatürk 20. yüzyılın ilk ve en büyük karizmatik lideridir. Rıza Şah, Gandi,
+    Nehru, Burgiba, Kenyatta ve Eva Peron'a örnek olmuştur."
+  translation: >-
+    Napoleon too was a leader, but not a charismatic leader like Atatürk and de Gaulle. What Atatürk and de
+    Gaulle have in common is that they were soldiers. In both, an impressive personality ensured that what
+    they achieved would last. Atatürk is the first and greatest charismatic leader of the 20th century. He was
+    a model for Reza Shah, Gandhi, Nehru, Bourguiba, Kenyatta and Eva Perón.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 19 May 1981, p. 8: 'Uluslararası Atatürk Sempozyumu başladı' (the paper's Turkish rendering of his
+  paper 'Karizmatik (etkileyici) Kişilikler Yönünden Yoksul Bir Çağ, Napolyon'dan Atatürk'e'; name printed
+  'Mattei Doğan')
+caveat: >-
+  Symposium organised by Türkiye İş Bankası. Date is the day before publication. Read on the page image
+  (Milliyet's subscriber archive).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1981.05.19
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 1981.05.19 page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word. 'krizmatik' is the page's misprint.
+  checked_on: "2026-11-09"

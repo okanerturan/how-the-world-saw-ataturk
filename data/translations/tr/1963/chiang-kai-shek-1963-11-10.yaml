@@ -1,0 +1,40 @@
+# Turkish for data/voices/1963/chiang-kai-shek-1963-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: chiang-kai-shek-1963-11-10
+voice: Chiang Kai-shek (蔣中正)
+role: Çin Cumhuriyeti (Tayvan) Cumhurbaşkanı; Atatürk'ün ölümünün 25. yıldönümü mesajı
+quote: >-
+  Türkiye Cumhutiyetinin kurucusu Mustafa Kemal Atatürk'ün ölümünün 25 inci yıldönümü münasebetiyle,
+  memleketim ve milletim adına, milletini hürriyet ve demokrasiye kavuşturmak uğrunda mücadele ederek başarı
+  kazanan büyük Türk önderi hakkındaki engin duygularımı ve hayranlığımı iletmek isterim, Atatürk'ün hayatı ve
+  eseri sadece Türkiye için değil fakat dünyanın bütün hür milletleri için bir ilham kaynağı olmakta devam
+  edecektir.
+quote_kind: original-turkish
+summary: >-
+  Ulusuna özgürlük ve demokrasi kazandıran büyük Türk lideri; hayatı ve eseri tüm özgür uluslar için bir ilham
+  kaynağı.
+caveat: >-
+  Derlemede ayrıca 1940 tarihli günlük/konuşma kaydı da yer almaktadır (chiang-kai-shek-1940-10). 'Çin
+  Cumhurbaşkanı Çan-Kay-Şek' başlığı altında basılmıştır. 'Cumhutiyetinin', 'Cumhuriyetinin' kelimesinin
+  sayfadaki dizgi hatasıdır. Milliyet'in 25. yıl dönümü dolayısıyla 10 Kasım 1963'te yayımladığı on lider
+  mesajından biridir (yedisi s. 1'de, üçü s. 7'de). Kennedy'ninki (kennedy-1963-11) Türk hükümetinin talebi
+  üzerine kaydedilmiş bir mesajdı; diğerleri de muhtemelen aynı şekilde istenmişti. Özgün dildeki metin
+  görülmedi. Sayfa görüntüsünden okundu (Milliyet'in abone arşivi).
+mediated_by: >-
+  Milliyet, 10 Kasım 1963, s. 7 ('Atatürk'ü anıyoruz' başlığı altındaki lider mesajları sütunu): Atatürk'ün
+  ölümünün 25. yıldönümü mesajının gazetede yer alan Türkçe aktarımı
+verification_note: >-
+  Yeni kırpılmış görüntüler üzerinden ikinci, bağımsız bir kontrolör tarafından sayfa görüntüsünden okundu (9
+  Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 1443a425de0a
+  role: a6602882db33
+  quote: 66d8af74bbce
+  summary: 3e6c00f372b1
+  caveat: 9a4b11f0968c
+  mediated_by: faf6323ee271
+  verification_note: 700af5de5e3f
+  verification_method: 1c3478366c90

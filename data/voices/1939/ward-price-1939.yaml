@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ward-price-1939
+voice: G. Ward Price
+voice_type: person
+role: >-
+  Daily Mail foreign correspondent, who first visited Angora in 1923 and attended Atatürk's funeral in
+  November 1938; Year of Reckoning (Cassell, 1939)
+country: United Kingdom
+country_now: United Kingdom
+domain: letters
+date: "1939"
+era: posthumous
+polarity: hostile
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  At the funeral: a career of 'savage violence and moody self-indulgence', yet mourned by weeping crowds ten
+  days after his death.
+quote:
+  text: >-
+    It was a curious experience to watch the coffin of Kemal Ataturk carried to the unusual resting-place of
+    the Ankara Ethnographic Museum, surrounded by international honours, and saluted by his old British
+    antagonist of the Dardanelles. His career had been one of savage violence and moody self-indulgence, yet
+    his people mourned him by hysterical weeping beside his coffin even ten days after his death.
+  language: en
+caveat: >-
+  Year of Reckoning (London: Cassell, 1939), p. 343, read in the open DLI scan. In his memoir Extra-Special
+  Correspondent (Harrap, 1957; lending copy, snippets only) he credits Kemal with 'such a national
+  reconstruction as contemporary history had never witnessed'. His own Daily Mail interviews with Kemal were
+  not reached (British Newspaper Archive is paywalled).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.210007
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://archive.org/details/in.ernet.dli.2015.210007
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    His first visit to Angora and his presence at the funeral are on p. 342.
+  checked_on: "2026-11-09"

@@ -1,0 +1,33 @@
+# Turkish for data/voices/2000/vaclav-havel-2000-10-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: vaclav-havel-2000-10-10
+voice: Václav Havel
+role: >-
+  Çek Cumhuriyeti Cumhurbaşkanı; bir Çek devlet başkanının Türkiye'ye yaptığı ilk resmi ziyarette
+  Cumhurbaşkanı Sezer'in verdiği resmi akşam yemeğindeki kadeh konuşması, Ankara
+quote: >-
+  Bugünkü Türkiye, şanlı Anadolu uygarlığının mirasçısı ve büyük Türk devlet adamı Mustafa Kemal Atatürk ile
+  ayrılmaz biçimde bağlantılı olan demokratik, toplumsal, kültürel ve ekonomik reform sürecinin takipçisidir.
+  […] Yolunuzun başında ilk cumhurbaşkanınız Atatürk'ün bazı kararları vardı. Bunlar cesur ve bu nedenle bazı
+  bakımlardan biraz sancılı kararlardı.
+quote_kind: translated
+summary: >-
+  Kurucu kararları cesur ve bu nedenle sancılı olan 'büyük Türk devlet adamı'; Türkiye'nin dönüşümü Çekler
+  için bile 'dikkat çekici bir örnek' olabilir.
+caveat: >-
+  Prag Kalesi konuşma arşivinden Çekçe ve İngilizce metinler (old.hrad.cz adresinin Wayback kopyaları);
+  arşivlenmiş Çekçe kopyada aksan işaretleri eksiktir, burada tamamlanmıştır.
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir denetçi tarafından yeniden açıldı: alıntılanan metin kelimesi
+  kelimesine orada yer almaktadır. Hem Çekçe hem de resmi İngilizce metin açıldı.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: a411714084ff
+  role: 6fadc6d7c676
+  quote: 617d4ea48360
+  summary: e6f253df4b37
+  caveat: 3a4db9e48ed2
+  verification_note: 843faf245cdc
+  verification_method: 66d7e7f771bc

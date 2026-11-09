@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: urho-kekkonen-1971-06-07
+voice: Urho Kekkonen
+voice_type: person
+role: >-
+  President of Finland; toast at President Cevdet Sunay's state dinner, Ankara, on the first day of his state
+  visit
+country: Finland
+country_now: Finland
+domain: politics
+date: "1971-06-07"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  One of the greatest statesmen of the century, who 'neither hesitated nor feared' and believed in his
+  country's future to the end.
+quote:
+  text: >-
+    Sekä nykyinen Turkin tasavalta että Suomen tasavalta syntyivät ensimmäisen maailmansodan yhteydessä. Tämän
+    vuosisadan suurimpia valtiomiehiä oli Kemal Atatürk, jonka haudalle minulla oli tänään kunnia laskea
+    Suomen hallituksen seppele. Hän kykeni keräämään Anatolian uskolliset talonpojat tähän Ankaran kaupunkiin
+    ja johtamaan heidät lopulliseen voittoon. Me suomalaiset, jotka olemme läpikäyneet historiassamme monia
+    kohtalokkaita vaiheita, pystymme antamaan täyden tunnustuksen miehelle, joka ei epäröinyt eikä pelännyt ja
+    joka elämänsä päättymiseen saakka uskoi isänmaansa tulevaisuuteen.
+  translation: >-
+    Both the present Republic of Turkey and the Republic of Finland were born in connection with the First
+    World War. Among the greatest statesmen of this century was Kemal Atatürk, on whose grave I had the honour
+    today to lay the wreath of the Finnish government. He was able to gather the loyal peasants of Anatolia to
+    this city of Ankara and lead them to final victory. We Finns, who have been through many fateful phases in
+    our history, can give full recognition to a man who neither hesitated nor feared and who, until the end of
+    his life, believed in the future of his fatherland.
+  language: fi
+caveat: >-
+  Finnish text from the President's office typescript (Urho Kekkonen archive, UKK926522 XIX) digitised by the
+  National Library of Finland (Doria, handle 10024/7433); read via the Wayback Machine copy because doria.fi
+  now sits behind a bot check. Milliyet 8 Jun 1971 p. 1 and p. 9 reports the Anıtkabir visit and that 'both
+  heads of state gave speeches praising Turkish–Finnish friendship', without the text. Translation ours.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.doria.fi/handle/10024/7433
+    archived: https://web.archive.org/web/20210421220304/https://www.doria.fi/handle/10024/7433
+  - url: https://web.archive.org/web/20230402220239/https://www.doria.fi/bitstream/handle/10024/7433/TMP.objres.3979.html?sequence=1&isAllowed=y
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1971.06.08
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Doria 10024/7433 (Wayback copy of TMP.objres.3979.html), full speech text
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    The translation is faithful. Heading: 'Tasavallan Presidentin puhe Turkin Presidentin illallisilla
+    7.6.1971'.
+  checked_on: "2026-11-09"

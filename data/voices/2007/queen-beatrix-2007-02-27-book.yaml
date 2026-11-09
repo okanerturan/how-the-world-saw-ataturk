@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: queen-beatrix-2007-02-27-book
+voice: Queen Beatrix of the Netherlands
+voice_type: person
+role: >-
+  Queen of the Netherlands; entry in the Anıtkabir special book during her state visit, Ankara
+country: Netherlands
+country_now: Netherlands
+domain: politics
+date: "2007-02-27"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  A statesman of foresight whose influence reaches to the present; his legacy an inspiration for Turkey's
+  development and its ties with the EU.
+quote:
+  text: >-
+    Bu vesile ile Mustafa Kemal Atatürk'e saygılarımızı sunuyoruz. Onun ileri görüşlülüğü ve sahip olduğu
+    üstün devlet adamlığı vasıfları günümüze kadar uzanan derin bir etki yaratmış ve özellikle de ülkelerimiz
+    arasındaki yakınlaşmaya önemli katkı sağlamıştır. Onun halkına bıraktığı manevi miras sadece Türk halkının
+    huzur ve refahının temininde ve gelişmesinde değil, aynı zamanda AB ile ilişkilerin yoğunlaşarak
+    ilerlemesine de daimi bir ilham kaynağı olmuştur.
+  translation: >-
+    On this occasion we pay our respects to Mustafa Kemal Atatürk. His foresight and outstanding qualities as
+    a statesman have had a deep influence reaching to the present day and, in particular, have made an
+    important contribution to the rapprochement between our countries. The spiritual legacy he left his people
+    has been a lasting source of inspiration not only for the peace, prosperity and development of the Turkish
+    people but also for the intensifying progress of relations with the EU.
+  language: tr
+mediated_by: >-
+  Hürriyet, 27 Feb 2007 (AA): the Turkish version of the entry, which was written in the book in Dutch and
+  Turkish and also signed by Prince Willem-Alexander and Princess Máxima
+caveat: The Dutch text was not seen.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.hurriyet.com.tr/gundem/kralice-beatrix-anitkabiri-ziyaret-etti-6027260
+    archived: https://web.archive.org/web/20250123192909/https://www.hurriyet.com.tr/gundem/kralice-beatrix-anitkabiri-ziyaret-etti-6027260
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://www.hurriyet.com.tr/gundem/kralice-beatrix-anitkabiri-ziyaret-etti-6027260
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

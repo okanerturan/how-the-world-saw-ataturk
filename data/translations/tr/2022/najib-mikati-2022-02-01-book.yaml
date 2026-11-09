@@ -1,0 +1,32 @@
+# Turkish for data/voices/2022/najib-mikati-2022-02-01-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: najib-mikati-2022-02-01-book
+voice: Najib Mikati
+role: Lübnan Başbakanı; resmi ziyareti sırasında Anıtkabir özel defterine yazdığı metin, Ankara
+quote: >-
+  Modern Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün mozolesinin önünde saygıyla dururken,
+  seçkin bir lider ve devlet adamını selamlamaktan onur duyuyorum. Halkını seven, ona sevgi ve saygı gösteren,
+  politikası, ileri görüşlülüğü ve mücadelesi ile çağdaş, ileri bir devlet olarak kurulan çağdaş Türk
+  devletinin simgesi haline gelen seçkin lider ve bilge devlet adamı.
+quote_kind: original-turkish
+summary: >-
+  Halkını seven ve modern Türk devletinin simgesi haline gelen seçkin bir lider ve bilge bir devlet adamı.
+caveat: >-
+  Muhtemelen Arapça yazılmıştır; özgün metin görülmedi. Yazı, devamında Atatürk'ün mirasını korudukları için
+  haleflerini övmektedir.
+mediated_by: "Anadolu Ajansı, 1 Şubat 2022: defter yazısının Türkçe aktarımı"
+verification_note: >-
+  Kaynak 9 Kasım 2026 tarihinde ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: caabe6254e69
+  role: 6e0cd50c040e
+  quote: a921fa3737f7
+  summary: cce2cd4a67d9
+  caveat: e4117cafd538
+  mediated_by: cb7d111c30c6
+  verification_note: e9eab29e687c
+  verification_method: 66d7e7f771bc

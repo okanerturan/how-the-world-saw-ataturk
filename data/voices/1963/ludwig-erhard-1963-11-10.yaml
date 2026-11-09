@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ludwig-erhard-1963-11-10
+voice: Ludwig Erhard
+voice_type: person
+role: >-
+  Chancellor of West Germany (from Oct 1963); message for the 25th anniversary of Atatürk's death
+country: Germany
+country_now: Germany
+domain: politics
+date: "1963-11-10"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: nation-forge-template
+artifact: quote
+evidence: J
+summary: >-
+  The soldier who won a seemingly hopeless struggle; the Republic was the work of his 'diplomatic genius', and
+  he sought close ties with Europe.
+quote:
+  text: >-
+    Bütün dünya 10 Kasımda, biz Almanların da dostluk ve saygı ile bağlı olduğumuz bir insanın, hayatını ve
+    eserlerini takdirle anmaktadır... Atatürk bir asker olarak, amansız ve hattâ bâzı anlarında ümitsiz
+    gözüken bir mücadeleden muzaffer çıkmış ve sonra da devlet sorumluluğunu üzerine almıştır. 29 Ekim 1923 te
+    Türkiye Cumhuriyetini ilânı, onun diplomatik dehâsının bir eseridir. […] Cesurâne ve azimkârane ideallere
+    sahipti ve yılmak bilmeyen bir yaratıcılıkla eserlerini gerçekleştirmeğe başladı... Atatürk, biz
+    Almanlarla geleneksel, yürekten ve karşılıklı itimada dayanan münasebetler idame ettirmiştir... Atatürk,
+    daima Türkiye ile Avrupa arasında sıkı bağlar kurmağa çalışmıştır.
+  translation: >-
+    On 10 November the whole world remembers with appreciation the life and works of a man to whom we Germans,
+    too, are bound by friendship and respect... As a soldier Atatürk emerged victorious from a merciless and
+    at moments seemingly hopeless struggle, and then took on the responsibility of the state. The proclamation
+    of the Turkish Republic on 29 October 1923 is a work of his diplomatic genius. […] He had courageous and
+    resolute ideals and began to realise his works with tireless creativity... Atatürk maintained with us
+    Germans traditional, heartfelt relations based on mutual trust... Atatürk always strove to build close
+    ties between Turkey and Europe.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 10 Nov 1963, p. 1 ('Bütün dünya anıyor…') with continuation on p. 7: the paper's Turkish rendering
+  of a message for the 25th anniversary of Atatürk's death
+caveat: >-
+  One of ten leaders' messages Milliyet printed on 10 Nov 1963 for the 25th anniversary (seven on p. 1, three
+  on p. 7). Kennedy's (kennedy-1963-11) was a recorded message requested by the Turkish government, so the
+  others were probably solicited the same way. Original-language text not seen. Read on the page image
+  (Milliyet's subscriber archive).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1963.11.10
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 10 Nov 1963 pp. 1, 7, page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

@@ -9,8 +9,8 @@ quote: >-
   adamdı.
 quote_kind: translated
 summary: >-
-  Ankara'da az konuşan ve delici bakışlı, eski kuşak bir Piemonteli asker gibi sade ve seçkin bir adam buldu;
-  büstün taslağını bir saat içinde çıkardı ve dördüncü günde tamamladı.
+  Ankara'da eski bir Piemonteli asker gibi sade, seçkin, az konuşan ve keskin bakışlı bir adam buldu; büstünü
+  dört günde tamamladı.
 caveat: >-
   Poz verme oturumları 1926'daydı ancak bu sözler, yalnızca arşivdeki bir daktilo metninden alıntı yapan
   ikincil bir makale aracılığıyla görülen geç dönem bir anıdandır (yakl. 1945–50); anının kendisi
@@ -27,7 +27,7 @@ source_fingerprints:
   voice: 1db324a6cd4a
   role: 7e574564f926
   quote: 6700c828ce15
-  summary: ca2734f8f5a2
+  summary: 275722a95e26
   caveat: eb49dd97c508
   mediated_by: abb428a0e347
   verification_note: 425a466c12e0

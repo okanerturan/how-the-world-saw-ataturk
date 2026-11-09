@@ -1,0 +1,46 @@
+# Turkish for data/voices/1986/joseph-luns-1986-05-19.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: joseph-luns-1986-05-19
+voice: Joseph Luns
+role: >-
+  Eski NATO Genel Sekreteri (1971–84) ve Hollanda Dışişleri Bakanı; ilk Uluslararası Atatürk Barış Ödülü'nü
+  kabul konuşması, Ankara
+quote: >-
+  […] bu hedeflere ulaşıldıktan sonra Gazi bir daha asla askerî harekâta başvurmadı ve tam bağımsızlığını
+  kazandıktan sonra Türkiye'nin tek bir hedefi olduğunu, bunun da tüm komşularıyla barış içinde yaşamak ve tüm
+  uluslar arasında barışçıl ilişkileri teşvik etmek olduğunu her zaman dile getirdi. Böylelikle ünlü dünya
+  liderleri arasında çok nadir görülen bir nitelik sergiledi: itidal. […] Bu büyük insanın bu kadar kısa
+  sürede başardıkları hayret vericidir. […] Dünya sahnesinde böylesine çok yönlü bir deha çok nadiren ortaya
+  çıkar. […] NATO Antlaşması ile birbirine bağlanmış olan biz Batılıların, Atatürk'e büyük bir minnet duymak
+  için güçlü nedenlerimiz var; çünkü müttefikleriyle aynı idealleri, aynı özgürlük ve barış sevgisini paylaşan
+  modern Türkiye, Atatürk'ün başarıları olmadan düşünülemez.
+quote_kind: translated
+summary: >-
+  Nadir görülen niteliği itidal olan bir asker: bağımsızlıktan sonra bir daha asla silaha başvurmadı; NATO
+  müttefiklerinin minnet borçlu olduğu çok yönlü bir deha.
+caveat: >-
+  Dergi, konuşmayı İngilizce ve Türkçe çevirisiyle yayımlamıştır; derginin imlasıyla İngilizcesinden
+  alıntılanmıştır. Konuşma ayrıca Türkiye'yi bugünkü büyüklüğüyle sınırlandırmayı ve hilafetten vazgeçmeyi 'a
+  wise and farsighted perception' (bilgece ve ileri görüşlü bir anlayış) olarak nitelendirmektedir. NATO Genel
+  Sekreteri olarak Evren'e gönderdiği yüzüncü yıl mesajında (Milliyet 21 Mayıs 1981 s. 9), Atatürk'ün engin
+  yeteneği ve üstün stratejik anlayışıyla Türk devletinin Batı uygarlıkları düzeyine ulaştığını söylemişti
+  (dolaylı anlatım, Türkçe).
+mediated_by: >-
+  Atatürk Araştırma Merkezi Dergisi, c. II, sayı 6 (Temmuz 1986), 'Atatürk Uluslararası Barış Ödülü Töreni':
+  konuşmanın İngilizce metni, s. 548 vd. ('Joseph Luns'un konuşmasının İngilizcesi'); Türkçe çevirisi, s.
+  540–547
+verification_note: >-
+  İngilizce metin, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından dergi PDF'sinin sayfa
+  görüntüleri üzerinden (s. 548–551) okundu; bu kaydın ilk sürümünde Türkçe çeviri alıntılanmıştı.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 6093028162af
+  role: f6f279745364
+  quote: 343cb3675e74
+  summary: fc69617d805b
+  caveat: 4fa75b5e2293
+  mediated_by: 7a3671b07100
+  verification_note: 26eba15ded5b
+  verification_method: 66d7e7f771bc

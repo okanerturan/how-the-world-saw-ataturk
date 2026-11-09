@@ -1,0 +1,39 @@
+# Turkish for data/voices/2024/edi-rama-2024-02-20-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: edi-rama-2024-02-20-book
+voice: Edi Rama
+role: >-
+  Arnavutluk Başbakanı; Ankara'ya yaptığı resmî ziyaret sırasında Anıtkabir özel defterindeki yazısı
+quote: >-
+  Adında, modern Türk devletinin köklerini bulduğumuz ve mirasında, Türk toplumunun kimliğini renklendiren
+  büyük lideri hatırlıyoruz. Mustafa Kemal Atatürk'ün kalıcı varlığı, günümüzde bile eşine rastlanması zor bir
+  kapsayıcılığı, barışı ve ilerlemeyi gösteriyor. Zekası, onun, kadınların özgürleşmesinin önemini fark
+  etmesine yol açtı. Milletine olan sevgisi, onu, ilerlemeyi, okuryazarlığı sahiplenmeye ve gelişme tutkusu
+  ile değerli vizyonunu kanıtlayan ekonomik reformları desteklemeye yöneltti. Burada, Atatürk'ün ebedi
+  istirahatgahının kutsal mekanında, onun sevgi ve barış gibi beklenmedik yollarla başarılan modern Türkiye
+  vizyonunu kutluyoruz.
+quote_kind: original-turkish
+summary: >-
+  Zekâsıyla kadınların özgürleşmesinin önemini kavrayan, ender rastlanır bir kapsayıcılık, barış ve ilerleme
+  yanlısı büyük bir lider.
+caveat: >-
+  Arnavutça veya İngilizce özgün metin bulunamadı. O gün Anıtkabir'e yapılan ziyaret Top Channel (Tiran)
+  tarafından doğrulanmaktadır.
+mediated_by: >-
+  İşçi Haber, 20 Şubat 2024, ajans (muhtemelen AA) haberini yeniden yayımlayarak: defter yazısının Türkçe
+  aktarımı
+verification_note: >-
+  Kaynak 9 Kasım 2026 tarihinde ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır. Sayfada herhangi bir ajans ibaresi bulunmamaktadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: ab62f0d90fe5
+  role: 2fb99d6e1df9
+  quote: 5ec92b025637
+  summary: 79f811401077
+  caveat: 30bf94a18a68
+  mediated_by: 37257fbd4a13
+  verification_note: 2c0f46c9654c
+  verification_method: 66d7e7f771bc

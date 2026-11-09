@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dankwart-rustow-1973-10-31
+voice: Dankwart A. Rustow
+voice_type: person
+role: >-
+  American political scientist (City University of New York); signed article 'Amerikan gözüyle' in Milliyet's
+  series for the Republic's 50th anniversary
+country: United States
+country_now: United States
+domain: letters
+date: "1973-10-31"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: J
+summary: >-
+  A born leader who still valued organisation and legality, and a soldier who turned military into civilian
+  rule; not a mere elitist.
+quote:
+  text: >-
+    Atatürk, Türkiye'nin yaşadığı en uzun barış döneminde zaferleri her zaman hatırlanan bir askerdi ve
+    yönetimi askerî rejimden sivil rejime çevirmeyi başarmıştı. […] Doğuştan bir liderdi; buna rağmen
+    örgütlenmeye ve yasal gereklere çok önem veriyordu. Bütün bu kutuplar, tek bir diyalektik gerilimin
+    parçalarını oluşturdu ve Atatürk'ün yaratıcı önderliğinin katkısıyla bir sentez yarattı. Kurduğu Batılı
+    Türk Ulusu ve devletinin gücü, bu sentezin değerini göstermektedir. […] Gerçekte, Atatürk, salt bir
+    elitist değildi; bu ve buna benzer birçok nedenlerde, birtakım birbirine karşı unsurları bir araya
+    getirmiş ve belirli çelişmezlikleri uzlaştırmıştı.
+  translation: >-
+    Atatürk was a soldier whose victories were always remembered in the longest period of peace Turkey has
+    known, and he succeeded in turning the government from military to civilian rule. […] He was a born
+    leader, yet he attached great importance to organisation and legal requirements. All these poles formed
+    parts of a single dialectical tension, and with the contribution of Atatürk's creative leadership they
+    produced a synthesis. The strength of the Western Turkish nation and state he founded shows the value of
+    this synthesis. […] In fact Atatürk was not a mere elitist; for this and many similar reasons he brought
+    together a number of opposing elements and reconciled certain contradictions.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 31 Oct 1973, p. 2: 'Amerikan gözüyle — Batı dengesi, iç isyanlar ve Atatürk…', bylined Prof.
+  Dankwart A. Rustow (Turkish translation); the first two passages as printed in the standfirst box above the
+  headline
+caveat: >-
+  English original not seen. Warmer than his 1968 psychological portrait (dankwart-rustow-1968). Read on the
+  page image (Milliyet's subscriber archive).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1973.10.31
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 1973.10.31 page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word. 'çelişmezlikleri' is as printed.
+  checked_on: "2026-11-09"

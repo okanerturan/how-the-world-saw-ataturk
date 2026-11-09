@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dankwart-rustow-1968
+voice: Dankwart A. Rustow
+voice_type: person
+role: American political scientist; 'Atatürk as Founder of a State', Daedalus 97, no. 3 (1968)
+country: United States
+country_now: United States
+domain: letters
+date: "1968"
+era: posthumous
+polarity: conflicted
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  A psychological portrait: an able, withdrawn general who mastered his ambivalence about authority, but whose
+  personality 'began to blur and decline' in his last decade.
+quote:
+  text: >-
+    The second phase (1923-27) was that of consolidation of his dictatorship, when Kemal was able to relate
+    the personal experience of his youth to the cultural situation of Turkey as a whole. The third phase
+    (1927-38) included the last decade of his life, when he was the country's unchallenged ruler, but when the
+    resources of his personality, so sharply focused earlier, began to blur and decline.
+  language: en
+caveat: >-
+  Read in an open DLI scan of the Popular Prakashan (Bombay) reprint of the Daedalus issue 'Philosophers and
+  Kings' (catalogued as 1949). The essay's concluding 'triple accomplishment' sentence (liberator, creator of
+  the Republic, radical reformer) is garbled in the two-column OCR and is summarised, not quoted. Milliyet
+  printed an article by him on 31 Oct 1973 (dankwart-rustow-1973-10-31).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/in.ernet.dli.2015.139658
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://archive.org/details/in.ernet.dli.2015.139658
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

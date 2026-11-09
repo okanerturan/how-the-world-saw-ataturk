@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: najib-mikati-2022-02-01-book
+voice: Najib Mikati
+voice_type: person
+role: >-
+  Prime Minister of Lebanon; entry in the Anıtkabir special book during his official visit, Ankara
+country: Lebanon
+country_now: Lebanon
+domain: politics
+date: "2022-02-01"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  A distinguished leader and wise statesman who loved his people and became the symbol of the modern Turkish
+  state.
+quote:
+  text: >-
+    Modern Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün mozolesinin önünde saygıyla dururken,
+    seçkin bir lider ve devlet adamını selamlamaktan onur duyuyorum. Halkını seven, ona sevgi ve saygı
+    gösteren, politikası, ileri görüşlülüğü ve mücadelesi ile çağdaş, ileri bir devlet olarak kurulan çağdaş
+    Türk devletinin simgesi haline gelen seçkin lider ve bilge devlet adamı.
+  translation: >-
+    Standing in respect before the mausoleum of Mustafa Kemal Atatürk, founder of the modern Republic of
+    Türkiye, I am honoured to salute a distinguished leader and statesman — a distinguished leader and wise
+    statesman who loved his people and showed them love and respect, and who through his policy, foresight and
+    struggle became the symbol of the modern Turkish state, founded as a modern, advanced state.
+  is_translation: true
+  language: tr
+mediated_by: "Anadolu Agency, 1 Feb 2022: Turkish rendering of the entry"
+caveat: >-
+  Probably written in Arabic; original not seen. The entry goes on to praise Atatürk's successors for
+  preserving his legacy.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.aa.com.tr/tr/gundem/lubnan-basbakani-mikati-anitkabiri-ziyaret-etti/2491015
+    archived: https://web.archive.org/web/20250724120315/https://www.aa.com.tr/tr/gundem/lubnan-basbakani-mikati-anitkabiri-ziyaret-etti/2491015
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://www.aa.com.tr/tr/gundem/lubnan-basbakani-mikati-anitkabiri-ziyaret-etti/2491015
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

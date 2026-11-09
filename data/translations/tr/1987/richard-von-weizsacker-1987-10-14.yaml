@@ -1,0 +1,41 @@
+# Turkish for data/voices/1987/richard-von-weizsacker-1987-10-14.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: richard-von-weizsacker-1987-10-14
+voice: Richard von Weizsäcker
+role: >-
+  Batı Almanya Federal Cumhurbaşkanı; Uluslararası Atatürk Barış Ödülü'nü kabul ederken Ankara'da yaptığı
+  konuşma
+quote: >-
+  Atatürk, yüzyılımızın gerçekten önemli devlet adamlarından biriydi. Çok az kişi onun yanına konulabilir. […]
+  Bu anlamda Mustafa Kemal Atatürk tarihsel bir büyüklüğe sahiptir. İnsan anlayışı ve yanılsamalardan uzak,
+  geniş ufuklu gerçeklik duygusu; ona bir devlete, bütün bir halka yeni bir özgüven kazandırma ve yeni
+  hedefler koyma gücü verdi. […] Atatürk ülkesinin kaderinin sorumluluğunu üstlendiğinde Türkiye geri kalmış,
+  feodal, otokratik olarak yönetilen, yenilgilerle aşağılanmış bir ülkeydi. Öldüğünde ardında modern,
+  aydınlanmış, kendinden emin ve saygı duyulan bir devlet bıraktı.
+quote_kind: translated
+summary: >-
+  Yüzyılın 'tarihsel büyüklüğe' sahip gerçekten önemli devlet adamlarından biri: geri kalmış, aşağılanmış bir
+  ülkeyi modern ve saygın bir devlet olarak bıraktı.
+caveat: >-
+  Bulletin der Bundesregierung sayı 108 (20 Ekim 1987), bundesregierung.de adresinde dijitalleştirildiği
+  şekliyle (tamamı küçük harf, umlaut'lar ae/oe/ue şeklinde; imla burada düzeltilmiştir). 'Burckhardt'
+  cümlesi, Jacob Burckhardt'ın tarihteki büyük şahsiyetler üzerine sözlerini açımlamaktadır. 1986'daki devlet
+  ziyaretinde Anıtkabir özel defterine, Atatürk'ün 'Özgürlük her türlü ilerlemenin anasıdır' sözünü
+  alıntılayarak, "Bu anlayışla Türk halkına barışçı ve şanslı bir gelecek dilerim" yazmıştır (Milliyet 27
+  Mayıs 1986 s. 7, Nur Batur; sayfa görüntüsünden okunmuştur); 1986 akşam yemeği kadeh konuşması, aktarıldığı
+  kadarıyla Atatürk'ten söz etmemektedir.
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir denetçi tarafından yeniden açıldı: alıntılanan metin kelimesi
+  kelimesine orada yer almaktadır. Dijitalleştirilmiş metin küçük harfli ASCII biçimindedir; 'im opernhaus in
+  ankara am 14. oktober 1987'.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 66e5382d7422
+  role: 23c972751b32
+  quote: 3e18399a4f41
+  summary: b865c760f347
+  caveat: 1da440cb28ce
+  verification_note: 20b966d2dd05
+  verification_method: 66d7e7f771bc

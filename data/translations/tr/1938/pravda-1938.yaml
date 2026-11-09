@@ -9,9 +9,8 @@ quote: >-
   reformun yaratıcısı ve öncüsü
 quote_kind: translated
 summary: >-
-  NYT'ye (13 Kasım 1938) göre SSCB'ye dostluğunu vurgulayan uzun ve övgü dolu bir biyografi yayımladı; bu
-  durum Moskova'nın Ankara ile ilişkileri geliştirme arzusuna işaret ediyor olabilir; Türk bakanlığının
-  derlemesi ise 10 Kasım tarihli Pravda'dan yalnızca reformlarının bir listesini basmaktadır.
+  NYT'ye göre, SSCB'ye olan dostluğunu vurgulayan uzun ve övgü dolu bir biyografi yayımladı; Türkçe derlemede
+  ise yalnızca reformlarının bir listesi yer almaktadır.
 caveat: >-
   Alıntı, Türk bakanlığı derlemesinin İngilizce çevirisidir; 2026-10-29 kontrolünde NYT'ye ulaşılamamıştır.
   Düzeltme: 'independence movement ... all sincere friends feel sorrow' satırı Izvestia (11 Kasım) başlığıyla
@@ -29,7 +28,7 @@ source_fingerprints:
   voice: eecfe61076ed
   role: "563884169e38"
   quote: bff578b25ed7
-  summary: c413b99f6c7e
+  summary: fe4a9d4d5194
   caveat: 1bd5dabf54ae
   mediated_by: 055d55d844cf
   verification_note: 3dfb0d0ad943

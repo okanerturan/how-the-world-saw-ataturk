@@ -1,0 +1,35 @@
+# Turkish for data/voices/2000/helen-clark-2000-04-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: helen-clark-2000-04-25
+voice: Helen Clark
+role: Yeni Zelanda Başbakanı; Anzak Günü şafak ayini ve uluslararası tören, Gelibolu
+quote: >-
+  Atatürk'ün burada ölenlerin anne ve babalarına yönelik teselli sözleri, uluslarımızın Gelibolu travmasına
+  uyum sağlamasına yardımcı oldu. Burada hayatını kaybedenleri Türkiye'nin kendi evlatları olarak kabul edip
+  burada bakılmalarını sağlamaktaki ruh yüceliği, ülkelerimiz arasındaki dostluk bağlarının temelini attı. […]
+  Ayrıca, Atatürk'ün ilham verici liderliği altında ülkelerini savunmak için büyük bir cesaretle savaşan Türk
+  askerlerinin sarsılmaz cesaretini de saygıyla anmak istiyorum.
+quote_kind: translated
+summary: >-
+  Gelibolu'daki Türk savunmasının ilham verici lideri; İtilaf Devletleri'nin ölülerine gösterdiği yüce
+  gönüllülük Türkiye ile Yeni Zelanda arasındaki dostluğun temelini attı.
+caveat: >-
+  Scoop'ta yeniden yayımlanan hükümet konuşma metinleri. Doğumunun 125. yıldönümü dolayısıyla gönderdiği mesaj
+  (Mayıs 2006'da Washington'da, Ataturk Society of America'da Yeni Zelanda büyükelçisi tarafından okunmuştur):
+  'Kemal Ataturk will always have a special place in history as that remarkable soldier who led the defence of
+  his country on the Gallipoli Peninsula and who went on to found the modern Turkish republic. It is not only
+  in Turkey that this great statesman is remembered.'
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir denetçi tarafından yeniden açıldı: alıntılanan metin kelimesi
+  kelimesine orada yer almaktadır. Üç metnin tamamı açıldı.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 165601fb63f0
+  role: a856f1228c03
+  quote: cbb94b84837b
+  summary: d27b7e00c4fe
+  caveat: a72b33a19723
+  verification_note: 60df1f698013
+  verification_method: 66d7e7f771bc

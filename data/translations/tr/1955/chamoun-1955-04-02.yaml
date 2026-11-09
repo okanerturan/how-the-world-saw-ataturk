@@ -15,7 +15,7 @@ summary: >-
 caveat: >-
   Sıkı ölçüte göre sınırda: tek değer yargısı 'muvaffakiyetle' (başarıyla) sözcüğüdür. Daha önce Ankara'da beş
   gün geçirdiğini ekler. Anıtkabir ziyareti yalnızca anlatımdır. Okuyucu ajan tarafından sayfa görüntüsünden
-  (Okan'ın Milliyet arşivi girişi) okundu; ana ajan tarafından yeniden okunmadı.
+  (Milliyet'in abonelere açık arşivi) okundu; ana ajan tarafından yeniden okunmadı.
 mediated_by: >-
   Milliyet, 3 Nisan 1955, s. 7 ('Türk-Lübnan ticaret anlaşması yapıldı' devamı, 'Şamoun'un mukabelesi'
   bölümü): gazetenin Türkçe aktarımı
@@ -28,7 +28,7 @@ source_fingerprints:
   role: 20f4d7ac0f9e
   quote: 70815f308962
   summary: 1f4085d6932a
-  caveat: 30f385f05d88
+  caveat: 335342dc7ecc
   mediated_by: d740c93f9465
   verification_note: af2d278fd1e2
   verification_method: 1c3478366c90

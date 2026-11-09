@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: frank-walter-steinmeier-2024-04-24
+voice: Frank-Walter Steinmeier
+voice_type: person
+role: >-
+  Federal President of Germany; entry in the Anıtkabir special book during his official visit, Ankara
+country: Germany
+country_now: Germany
+domain: politics
+date: "2024-04-24"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  The founder of the state, to whom he pays 'deep respects', whose 'vision of Europe' laid the foundation of a
+  century of German–Turkish friendship.
+quote:
+  text: >-
+    As the President of Germany, it is a great honor for me to visit the Republic of Türkiye and to pay my
+    deep respects to the founder of this state, Mustafa Kemal Atatürk. His vision of Europe laid the
+    foundation for the deep friendship between Germany and the Republic of Türkiye over the past 100 years.
+  is_translation: true
+  language: en
+mediated_by: Anadolu Agency English report carried by A News, 24 Apr 2024
+caveat: >-
+  Known only from Anadolu Agency's English rendering (via A News); the German original was not found on
+  bundespraesident.de. Contrast his 2018 Berlin remark (frank-walter-steinmeier-2018-09-09).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.anews.com.tr/turkey/2024/04/24/german-president-steinmeier-pays-visit-to-mausoleum-of-turkiyes-founder/amp
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.anews.com.tr/turkey/2024/04/24/german-president-steinmeier-pays-visit-to-mausoleum-of-turkiyes-founder/amp
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

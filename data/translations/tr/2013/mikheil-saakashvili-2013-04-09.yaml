@@ -1,0 +1,31 @@
+# Turkish for data/voices/2013/mikheil-saakashvili-2013-04-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mikheil-saakashvili-2013-04-09
+voice: Mikheil Saakashvili
+role: Gürcistan Cumhurbaşkanı; Cumhurbaşkanı Gül ile görüştüğü gün Ankara'da yaptığı açıklamalar
+quote: >-
+  Benim bakış açıma göre, Mustafa Kemal Atatürk'ten bu yana Türkiye'de küresel çapta bu kadar güçlü bir lider
+  olmamıştır.
+quote_kind: translated
+summary: >-
+  Küresel çapta güçlü bir liderin ölçütü olarak Atatürk; Erdoğan'ı onunla boy ölçüşebilen ilk Türk lider
+  olarak övmek için anılmıştır.
+caveat: >-
+  Bu söz Erdoğan'ı övmektedir; Atatürk konunun kendisi değil, ölçüttür. Özgün açıklamanın dili
+  belirtilmemiştir.
+mediated_by: Hürriyet Daily News, 9 Nisan 2013, Ankara mahreçli Anadolu Ajansı haberi
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: c7ebac6d2640
+  role: 7b0f56086485
+  quote: ac1f5f63b7a6
+  summary: 4f23bc9a3bd6
+  caveat: d8dd674ad06a
+  mediated_by: 5136938eeac5
+  verification_note: e9eab29e687c
+  verification_method: 66d7e7f771bc

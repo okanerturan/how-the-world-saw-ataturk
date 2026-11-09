@@ -1,0 +1,34 @@
+# Turkish for data/voices/2024/frank-walter-steinmeier-2024-04-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: frank-walter-steinmeier-2024-04-24
+voice: Frank-Walter Steinmeier
+role: >-
+  Almanya Federal Cumhurbaşkanı; resmî ziyareti sırasında Anıtkabir Özel Defteri'ne yazdığı metin, Ankara
+quote: >-
+  Almanya Cumhurbaşkanı olarak Türkiye Cumhuriyeti'ni ziyaret etmek ve bu devletin kurucusu Mustafa Kemal
+  Atatürk'e derin saygılarımı sunmak benim için büyük bir onurdur. Onun Avrupa vizyonu, son 100 yılda Almanya
+  ile Türkiye Cumhuriyeti arasındaki derin dostluğun temelini atmıştır.
+quote_kind: translated
+summary: >-
+  'Derin saygılarını' sunduğu, 'Avrupa vizyonu' bir asırlık Türk-Alman dostluğunun temelini atan devlet
+  kurucusu.
+caveat: >-
+  Yalnızca Anadolu Ajansı'nın İngilizce çevirisinden (A News aracılığıyla) bilinmektedir; Almanca özgün metin
+  bundespraesident.de adresinde bulunamadı. 2018'deki Berlin konuşmasında yaptığı değerlendirmeyle
+  (frank-walter-steinmeier-2018-09-09) karşılaştırınız.
+mediated_by: A News'un aktardığı Anadolu Ajansı İngilizce haberi, 24 Nisan 2024
+verification_note: >-
+  Kaynak 9 Kasım 2026 tarihinde ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3e49cfbea5bd
+  role: d8178a5b45f1
+  quote: f46f46e2cc6c
+  summary: 452e566621a3
+  caveat: 740646b67d80
+  mediated_by: 583c311e0db9
+  verification_note: e9eab29e687c
+  verification_method: 66d7e7f771bc

@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: martti-ahtisaari-1999-11-20
+voice: Martti Ahtisaari
+voice_type: person
+role: >-
+  President of Finland; banquet speech in Ankara during the first Finnish state visit since Kekkonen's in
+  1971, also speaking for the EU presidency
+country: Finland
+country_now: Finland
+domain: politics
+date: "1999-11-20"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  A creative force of a new republic, who made a book on Finland compulsory reading in military schools; his
+  modernising work was admired in Finland.
+quote:
+  text: >-
+    Mustafa Kemal Atatürk went even further and made it compulsory reading in military schools. […] It is
+    noteworthy that Atatürk attached great importance to these things in a situation in which he himself was a
+    creative force in developing a new republic. It should also be pointed out that Atatürk's work in
+    modernizing Turkey also attracted respect and admiration in Finland.
+  language: en
+caveat: >-
+  Official English text on the Finnish presidency's archived Ahtisaari site. The claim that Atatürk made the
+  book compulsory in military schools is a long-standing Turkish tradition rather than something Ahtisaari
+  documents.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.presidentti.fi/ahtisaari/puheet-1999/p991120.ankaraen.html
+    archived: https://web.archive.org/web/20240227181811/https://www.presidentti.fi/ahtisaari/puheet-1999/p991120.ankaraen.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://www.presidentti.fi/ahtisaari/puheet-1999/p991120.ankaraen.html
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

@@ -1,0 +1,40 @@
+# Turkish for data/voices/1963/alec-douglas-home-1963-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: alec-douglas-home-1963-11-10
+voice: Alec Douglas-Home
+role: >-
+  Birleşik Krallık Başbakanı (Ekim 1963'ten itibaren); Atatürk'ün ölümünün 25. yıldönümü mesajı
+quote: >-
+  Atatürk'ün adı bizce, hemen hemen 50 yıl önce parlak bir Türk askeri kumandanı olarak biliniyordu. Barışı
+  takiben ona büyük milli liderler arasında tarihteki daimi yerini kazandıran devletçilik sıfatlarıyle
+  Atatürk'ü tanıdık. […] Mutlu işbirliği; büyük anlamda Atatürk'ün çalışmalarının neticesidir. Atatürk'ün
+  ölümünün 25. yıldönümünde, O'nu kahraman asker olarak saygı ile yâd eder, modern Türkiye'nin Ata'sını,
+  devlet adamı Atatürk'ü, takdir ve şükranla anarız.
+quote_kind: original-turkish
+summary: >-
+  Britanya'da önce parlak bir komutan, ardından büyük ulusal liderler arasında yer alan bir devlet adamı
+  olarak tanındı; Türk-İngiliz ortaklığı büyük ölçüde onun eseridir.
+caveat: >-
+  'Hemen hemen elli yıl önce' ifadesi 1915 Gelibolu'suna işaret eder. Milliyet'in 25. yıldönümü dolayısıyla 10
+  Kasım 1963'te bastığı on lider mesajından biridir (yedisi s. 1'de, üçü s. 7'de). Kennedy'ninki
+  (kennedy-1963-11) Türk hükümetinin talebi üzerine kaydedilmiş bir mesajdı; dolayısıyla diğerleri de
+  muhtemelen aynı yolla istenmişti. Özgün dildeki metin görülmemiştir. Sayfa görüntüsünden okunmuştur
+  (Milliyet'in abone arşivi).
+mediated_by: >-
+  Milliyet, 10 Kasım 1963, s. 1 ('Bütün dünya anıyor…'): Atatürk'ün ölümünün 25. yıldönümü için gönderilen bir
+  mesajın gazetedeki Türkçe çevirisi
+verification_note: >-
+  Sayfa görüntüsünden, yeni kırpılmış görüntüler üzerinden ikinci ve bağımsız bir kontrolör tarafından okundu
+  (9 Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir. Mesajın tamamı s. 1'dedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 90181957d4ec
+  role: 1426428b0cbb
+  quote: 73cb84945430
+  summary: bca261fc9699
+  caveat: 44d97cef150d
+  mediated_by: 4c0b06c5e801
+  verification_note: 6a62f300a740
+  verification_method: 1c3478366c90

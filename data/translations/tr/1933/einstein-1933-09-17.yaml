@@ -12,14 +12,14 @@ summary: >-
   Atatürk'e değil Başbakan İnönü'ye yazarak, Almanya'da çalışmaları yasaklanan kırk bilim insanının Türkiye'de
   bir yıl ücretsiz çalışmasını istedi; bakanlık reddetti.
 caveat: >-
-  Önemli şahsiyetler için birinci elden temas kuralı kapsamında dahil edildi (Okan, 5 Kasım 2026). Mektup (17
-  Eylül 1933, OSE onursal başkanı sıfatıyla) Atatürk'e değil Başbakan İsmet İnönü'ye hitaben yazılmıştır ve ne
-  Atatürk'ün ne de reformlarının adını anar. İnönü mektubu 9 Ekim 1933'te Eğitim Bakanlığı'na gönderdi;
-  derkenar notları teklifi reddetti ('incompatible…', 'impossible to accept…') — Reisman bu notları bakan
-  Reşit Galip'e atfeder (Galip Ağustos 1933'te görevden ayrılmış olabilir). İki Einstein arşivi de (Princeton,
-  Hebrew University) mektubu görmemişti; bir arşivci Einstein'ın OSE tarafından kaleme alınmış bir metni
-  imzaladığını öne sürdü. Türkiye 1933'te başka kanallar aracılığıyla çok sayıda Alman göçmen bilim insanını
-  kabul etmiştir.
+  Önemli şahsiyetler için birinci elden temas kuralı kapsamında dahil edildi (proje kuralı, 5 Kasım 2026).
+  Mektup (17 Eylül 1933, OSE onursal başkanı sıfatıyla) Atatürk'e değil Başbakan İsmet İnönü'ye hitaben
+  yazılmıştır ve ne Atatürk'ün ne de reformlarının adını anar. İnönü mektubu 9 Ekim 1933'te Eğitim
+  Bakanlığı'na gönderdi; derkenar notları teklifi reddetti ('incompatible…', 'impossible to accept…') —
+  Reisman bu notları bakan Reşit Galip'e atfeder (Galip Ağustos 1933'te görevden ayrılmış olabilir). İki
+  Einstein arşivi de (Princeton, Hebrew University) mektubu görmemişti; bir arşivci Einstein'ın OSE tarafından
+  kaleme alınmış bir metni imzaladığını öne sürdü. Türkiye 1933'te başka kanallar aracılığıyla çok sayıda
+  Alman göçmen bilim insanını kabul etmiştir.
 mediated_by: >-
   İnönü Vakfı transkripsiyonu ← Başbakanlık arşivindeki aslı; bakanlık notları için Reisman (HNN)
 verification_note: >-
@@ -42,7 +42,7 @@ source_fingerprints:
   role: 5307d7c062e5
   quote: a29db5fbe474
   summary: 01ab618eaa56
-  caveat: 98d5a1af89ca
+  caveat: a1ef1acb0cd3
   mediated_by: 255edaf8ba2e
   verification_note: 3fbb03963708
   verification_method: 5300d17a1d69

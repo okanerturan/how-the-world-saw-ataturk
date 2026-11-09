@@ -5,30 +5,32 @@ id: venizelos-1934-01-12
 voice: Eleftherios Venizelos
 role: Eski Yunanistan başbakanı; 1930 Türk-Yunan paktını imzaladı
 quote: >-
-  Barış davasına yapılan bu paha biçilmez katkının kendisine borçlu olunduğu kişi, elbette Türkiye Cumhuriyeti
+  Barış davasına yapılan bu paha biçilmez katkının borçlu olunduğu kişi, elbette Türkiye Cumhuriyeti
   Cumhurbaşkanı Mustafa Kemal Paşa'dır.
 quote_kind: translated
 summary: >-
-  Osmanlı istikrarsızlığına son vermeyi ve Türkiye'yi bir barış sütunu haline getirmeyi Mustafa Kemal'e
-  atfetti; onu Nobel Barış Ödülü'ne aday gösterdi.
+  Osmanlı istikrarsızlığına son vermeyi ve Türkiye'yi bir barış sütunu haline getirmeyi Kemal'e atfetti; onu
+  Nobel Barış Ödülü'ne aday gösterdi.
 caveat: >-
-  İngilizce web çevirisi, Fransızca özgün metin görülmedi; konuşmacı, Mustafa Kemal'in yenilgiye uğrattığı
-  1919-22 Yunan politikasını yönetmişti ve mektup Türk-Yunan uzlaşmasına hizmet etmektedir; dolayısıyla okur
-  bunu araçsal olarak değerlendirebilir; Nobel arşivi kaydı yeniden okunmadı.
+  İngilizce web çevirisi, Fransızca aslı görülmedi; konuşmacı, Kemal'in mağlup ettiği 1919-22 Yunan
+  politikasını yönetmişti ve mektup Türk-Yunan uzlaşmasına hizmet etmektedir, dolayısıyla okuyucu bunu araçsal
+  olarak değerlendirebilir; Nobel arşivi kaydı yeniden okunmadı. Mektubun tamamının Türkçe çevirisi Türkiye'de
+  ilk kez Özgen Acar tarafından yayımlandı, Milliyet 20 Mayıs 1981 s. 8 ('Venizelos, Atatürk'ü Nobel Barış
+  Ödülü'ne aday göstermişti').
 mediated_by: Fransızca mektubun İngilizce çevirisi (S. Colston), Greek World Media 2017
 verification_note: >-
-  Alıntı İngilizce çeviride birebir aynıdır; tarih mektup başlığıyla doğrulanmıştır. Adaylığın varlığı, yılı
-  ve aday gösteren kişi Nobel arşivi kesitiyle teyit edilmektedir; ancak Fransızca özgün metin ve arşivdeki
-  metin görülmediğinden ifadeler çevirmene aittir. Nobel arşivi, aday gösterenin mesleğini eski başbakan
-  olarak değil, 'Member of the Greek parliament' olarak listelemektedir.
-verification_method: Çevirinin ücretsiz çekilmesi; Nobel arşivi kaydı için bir tools/ms araması
+  Alıntı İngilizce çeviride birebir aynı; tarih mektup başlığıyla doğrulandı. Adaylığın varlığı, yılı ve aday
+  gösteren kişi Nobel arşivi kesitiyle doğrulanmaktadır, ancak Fransızca aslı ve arşivdeki metin
+  görülmediğinden ifadeler bir çevirmene aittir. Nobel arşivi aday gösterenin mesleğini eski başbakan olarak
+  değil, 'Member of the Greek parliament' olarak listelemektedir.
+verification_method: Çevirinin serbestçe getirilmesi; Nobel arşivi kaydı için bir adet tools/ms araması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: "420717528619"
   role: 17e7c1640142
   quote: 997a949089aa
   summary: c14a0c7363c4
-  caveat: 00f587e7d04c
+  caveat: 70a5ebd77f3a
   mediated_by: 90872db11c42
   verification_note: 0af832b030ba
   verification_method: 91405e32a41a

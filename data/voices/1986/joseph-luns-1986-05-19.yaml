@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: joseph-luns-1986-05-19
+voice: Joseph Luns
+voice_type: person
+role: >-
+  Former Secretary-General of NATO (1971–84) and Dutch foreign minister; speech accepting the first
+  International Atatürk Peace Prize, Ankara
+country: Netherlands
+country_now: Netherlands
+domain: politics
+date: "1986-05-19"
+era: posthumous
+polarity: admiring
+intensity: 3
+mirror: nation-forge-template
+artifact: speech
+evidence: P
+summary: >-
+  A soldier whose rare quality was moderation: after independence he never again took up arms; a many-sided
+  genius to whom NATO allies owe gratitude.
+quote:
+  text: >-
+    […] after these goals were achieved the Gazi never again resorted to military action and always stated
+    that Turkey, once its complete independence was gained, had only one target, namely to live in peace with
+    all its neighbours and to promote peaceful relations between all nations. He displayed thereby a very rare
+    quality amongst famous world-leaders: moderation. […] It is stupendous what this great man has achieved in
+    so short a time. […] It is but very rarely that such a many-sided genius appears on the worldscene. […] We
+    in the west, joined together by the NATO Treaty, have strong reasons to be very grateful to Atatürk
+    because modern Turkey, sharing with its allies the same ideals, the same love for freedom and peace, is
+    inconceivable without Atatürk's achievements.
+  language: en
+mediated_by: >-
+  Atatürk Araştırma Merkezi Dergisi, vol. II, no. 6 (July 1986), 'Atatürk Uluslararası Barış Ödülü Töreni':
+  English text of the speech, pp. 548 ff. ('Joseph Luns'un konuşmasının İngilizcesi'); Turkish translation,
+  pp. 540–547
+caveat: >-
+  The journal prints the speech in English and in Turkish translation; quoted from the English, with the
+  journal's spelling. The speech also calls limiting Turkey to its present size and forgoing the caliphate 'a
+  wise and farsighted perception'. As NATO Secretary-General he had sent Evren a centenary message (Milliyet
+  21 May 1981 p. 9) saying that 'with Atatürk's vast ability and superior strategic sense the Turkish state
+  reached the level of Western civilisations' (indirect speech, in Turkish).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://atamdergi.gov.tr/files/issues/56/fc37880fb617f529a3f6adb15103fa05.pdf
+    archived: https://web.archive.org/web/20250403222922/https://www.atamdergi.gov.tr/files/issues/56/fc37880fb617f529a3f6adb15103fa05.pdf
+  - url: https://atamdergi.gov.tr/sayi/56
+    archived: https://web.archive.org/web/20260510044629/https://www.atamdergi.gov.tr/sayi/56
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Atatürk Araştırma Merkezi Dergisi 6 (July 1986), PDF pp. 540–551
+  method: full text
+  note: >-
+    English text read on the page images of the journal PDF (pp. 548–551) by a second, independent checker on
+    9 Nov 2026; the first version of this record had quoted the Turkish translation.
+  checked_on: "2026-11-09"

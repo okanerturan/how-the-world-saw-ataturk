@@ -1,0 +1,46 @@
+# Turkish for data/voices/1963/nehru-1963-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: nehru-1963-11-10
+voice: Jawaharlal Nehru
+role: Hindistan Başbakanı; Atatürk'ün ölümünün 25. yıldönümü mesajı
+quote: >-
+  Kemal Atatürk veya, bizim O'nu o zamanlar tanıdığımız adıyla Kemal Paşa, gençlik günlerimde, benim
+  kahramanımdı. Biz o tarihlerde kendi bağımsızlık hareketimizle son derece meşguldük ve ben, diğer birçok
+  kimselerle birlikte hapishane hayatıma başlamıştım. Kemal Paşa'nın Türkiye'yi yabancı hâkimiyet ve
+  nüfuzundan kurtarmak yolundaki faaliyetleri ve mücadelesi ile ilgili haberleri hapishanede dahi büyük bir
+  alâka ve heyecanla takip etmekte idik. Anadolu'da Yunanlılara karşı kazanılan büyük zaferin haberi
+  hapishanede bize geldiği zaman bundan ne büyük bir memnuniyet duyduğumuzu ve bunu hapishanede dahi nasıl
+  kutladığımızı çok iyi hatırlıyorum. […] O'nun dinamizmi, yılmak ve yorulmak bizmezliği insanda büyük bir
+  tesir yaratıyordu... O, Doğuda modern çağın yapıcılarından biridir. O'nun en büyük hayranları arasında
+  bulunmakta devam ediyorum.
+quote_kind: original-turkish
+summary: >-
+  'Gençliğimin kahramanı': Nehru onun Anadolu'daki zaferini hapishanede kutlamıştır ve 'en büyük hayranları
+  arasında' yer almaya devam etmektedir.
+caveat: >-
+  1934 tarihli Glimpses of World History kitabındaki hükmüyle (nehru-1934: 'the appetite for power of a
+  dictator always grows with its use') karşılaştırınız. Çıkarılan orta kısımda, devrimleri Hindistan'dan tek
+  tek değerlendirmenin güç olduğu ancak 'Atatürk'ün Türkiye'yi modernleştirmeye yönelik genel çabasını büyük
+  bir takdirle karşıladığı' belirtilmektedir. 'bizmezliği', 'bilmezliği' kelimesinin sayfadaki dizgi
+  hatasıdır. Milliyet'in 25. yıl dönümü dolayısıyla 10 Kasım 1963'te yayımladığı on lider mesajından biridir
+  (yedisi s. 1'de, üçü s. 7'de). Kennedy'ninki (kennedy-1963-11) Türk hükümetinin talebi üzerine kaydedilmiş
+  bir mesajdı; diğerleri de muhtemelen aynı şekilde istenmişti. Özgün dildeki metin görülmedi. Sayfa
+  görüntüsünden okundu (Milliyet'in abone arşivi).
+mediated_by: >-
+  Milliyet, 10 Kasım 1963, s. 1 ('Bütün dünya anıyor…') ve s. 7'deki devamı: Atatürk'ün ölümünün 25. yıldönümü
+  mesajının gazetede yer alan Türkçe aktarımı
+verification_note: >-
+  Yeni kırpılmış görüntüler üzerinden ikinci, bağımsız bir kontrolör tarafından sayfa görüntüsünden okundu (9
+  Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3d5887fabb9e
+  role: e4e3136053bd
+  quote: 731f3a37e11f
+  summary: ec3f98e57bce
+  caveat: 7aeca2c3d3cb
+  mediated_by: 76b8b66f163f
+  verification_note: 700af5de5e3f
+  verification_method: 1c3478366c90

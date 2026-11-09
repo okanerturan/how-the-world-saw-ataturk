@@ -1,0 +1,35 @@
+# Turkish for data/voices/1937/hanns-froembgen-1937.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hanns-froembgen-1937
+voice: Hanns Froembgen
+role: >-
+  Alman yazar; Kemal Ataturk: a biography (Londra, 1937), 1935 tarihli Almanca biyografisinin İngilizce
+  çevirisi
+quote: >-
+  […] Osmanlı Ordusu'ndaki en büyük asker ve Enver'in en amansız muhalifi olan Mustafa Kemal'den başkası
+  değildi. […] her ikisi de tüm önyargılardan, yüklerden ve eskimiş anlayışlardan arınmış, yeni ve canlı bir
+  ruhla dolu eylem insanlarıydı.
+quote_kind: translated
+summary: >-
+  Osmanlı ordusunun en büyük askeri; VIII. Edward gibi, eskimiş anlayışlardan arınmış, 'yeni ve canlı bir
+  ruhla dolu' bir eylem adamı.
+caveat: >-
+  Kenneth Kirkness'ın İngilizce çevirisinden (Londra, 1937), s. 61 ve 250'den alıntılanmıştır; Almanca özgün
+  metin görülmemiştir. S. 61'deki ifade, bir komplocunun Enver'in halefi olarak kimi adlandırdığını aktarır.
+  S. 250'deki pasaj ise Kemal'in Eylül 1936'da VIII. Edward ile görüşmesini anlatır ve ondan 'eski
+  Majesteleri' ('his former Majesty') diye söz eder; dolayısıyla Aralık 1936'daki tahttan çekilmeden sonra
+  yazılmıştır.
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine oradadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 096f0f61b202
+  role: 4f10c91ecd5a
+  quote: d8330fba00e5
+  summary: 8f5538370994
+  caveat: 02bc17da593f
+  verification_note: e9eab29e687c
+  verification_method: 66d7e7f771bc

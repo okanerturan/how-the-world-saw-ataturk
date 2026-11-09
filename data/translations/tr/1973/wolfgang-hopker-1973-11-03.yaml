@@ -1,0 +1,36 @@
+# Turkish for data/voices/1973/wolfgang-hopker-1973-11-03.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: wolfgang-hopker-1973-11-03
+voice: Wolfgang Höpker
+role: >-
+  Alman gazeteci ve yazar (Deutsche Zeitung); Milliyet'in Cumhuriyet'in 50. yıldönümü dizisinde yayımlanan
+  'Alman gözüyle' başlıklı imzalı yazısı
+quote: >-
+  Atatürk, ne bir dogmatik idi ve ne de bir ideolog, bilâkis pratik fikirleri olan bir devlet adamı idi.
+  Zamanının Türkiyesinde yapılması mümkün olanın sınırı aşmakta olduğunu gördüğü anda, durup münasip zamanı
+  beklemesini biliyordu. İşte kendisinin asıl büyüklüğü de buradadır. […] Atatürk bu noktada, âdet ve
+  geleneklerin içlerinde ne kadar büyük dirençler sakladıklarını, Anadolu köylüsünün içine İslâmî geleneklerin
+  ne kadar derin kökler salmış olduğunu, karanlığın kuvvetini tahminde yanıldı.
+quote_kind: original-turkish
+summary: >-
+  Dogmatik ya da ideolog değil, ne zaman bekleyeceğini bilen pratik bir devlet adamı; buna karşın İslami
+  geleneğin Anadolu köylüleri üzerindeki etkisini yanlış değerlendirmiştir.
+caveat: Almanca özgün metin görülmemiştir. Sayfa görüntüsünden okunmuştur (Milliyet abone arşivi).
+mediated_by: >-
+  Milliyet, 3 Kasım 1973, s. 2: 'Alman gözüyle — Avrupa'ya yönelen yeni Türkiye', Dr. Wolfgang Höpker
+  imzasıyla (Türkçe çevirisi)
+verification_note: >-
+  İkinci, bağımsız bir kontrolör tarafından yeni kırpılmış görüntüler üzerinden sayfa görüntüsünden okunmuştur
+  (9 Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 82c902911b11
+  role: 475d8984647e
+  quote: 0053dafe82e1
+  summary: f7859d02c8f7
+  caveat: d7af8ac76d3a
+  mediated_by: 03da5befb850
+  verification_note: 700af5de5e3f
+  verification_method: 1c3478366c90

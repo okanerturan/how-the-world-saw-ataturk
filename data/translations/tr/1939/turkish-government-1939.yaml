@@ -5,9 +5,8 @@ id: turkish-government-1939
 voice: Türk Hükümeti
 role: Ulusal hükümet
 summary: >-
-  İlk 10 Kasım için standart bir ulusal program (İçişleri Bakanlığı, 5 Kasım 1939) yayımladı: 9.05 sireni,
-  Atatürk'ün manevi huzurunda beş dakikalık sessizlik, hayatı üzerine bir konuşma ve şehrin Atatürk anıtına
-  bir çelenk konulması.
+  İlk 10 Kasım için ulusal bir program yayımladı: 9.05'te siren, beş dakikalık saygı duruşu, hayatı üzerine
+  bir konuşma ve kentteki Atatürk anıtına çelenk konulması.
 caveat: >-
   Siyah portreler ve matem marşı, Akça'nın çalışmasında ulusal programın maddeleri değil, Muğla yerel
   uygulamasıdır (Halkevi bandosu; Halk gazetesi).
@@ -21,7 +20,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 3b5773f9ef78
   role: 2f0200777a25
-  summary: a47afbe47aa8
+  summary: e07c79017048
   caveat: cfdfc714f45c
   mediated_by: db9006b66417
   verification_note: ac38734ab932

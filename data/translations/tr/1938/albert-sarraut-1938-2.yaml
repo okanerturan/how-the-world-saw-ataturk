@@ -7,9 +7,8 @@ role: Fransa İçişleri Bakanı, cenaze heyeti başkanı
 quote: Ona hayranlık ve sevgi duydum
 quote_kind: translated
 summary: >-
-  Fransa'nın cenaze heyetine bizzat başkanlık etti; eski Ankara büyükelçisi olarak Türk basınına o zamandan
-  beri Atatürk'e 'derin hayranlık' duyduğunu söylerken, bir Hollanda günlük gazetesi heyete onun başkanlık
-  etmesini Batılı güçlerin Türkiye'nin dostluğuna verdiği ağırlığın bir işareti olarak okudu.
+  Fransa'nın cenaze heyetine başkanlık etti; eski bir Ankara büyükelçisi olarak Türk basınına o zamandan beri
+  Atatürk'e 'derin bir hayranlık' duyduğunu söyledi.
 caveat: >-
   Alıntı ve 'deep admiration' ifadesi, Sarraut'nun açıklamalarına ilişkin Toksoy'un Türkçe özetlerinin
   İngilizce aktarımlarıdır. 'courtship of Ankara' okuması Sarraut'ya değil, bir Hollanda günlük gazetesine
@@ -27,7 +26,7 @@ source_fingerprints:
   voice: c8b9ad53d5f8
   role: "297669362429"
   quote: a96d4473c4d8
-  summary: d39a0d1f1378
+  summary: f63d1e537b21
   caveat: 8328865110fa
   mediated_by: 6589ffb36ed6
   verification_note: 3ba3989533b6

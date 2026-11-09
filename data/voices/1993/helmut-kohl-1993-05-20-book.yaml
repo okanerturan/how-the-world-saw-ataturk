@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: helmut-kohl-1993-05-20-book
+voice: Helmut Kohl
+voice_type: person
+role: >-
+  Chancellor of Germany; entry in the Anıtkabir book during his official visit to Turkey, Ankara
+country: Germany
+country_now: Germany
+domain: politics
+date: "1993-05-20"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  A genius who showed his nation the way and showed Kohl's own generation the goals to be pursued.
+quote:
+  text: >-
+    Ulusuna yol gösteren ve bizim kuşağımıza, izlenmesi gereken hedefleri gösteren dâhinin anısına
+  translation: >-
+    To the memory of the genius who showed his nation the way and showed our generation the goals to be pursued
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 21 May 1993, p. 15 ('Kohl'den sıcak tavır', Ankara Milliyet): Turkish rendering of his entry in
+  the book
+caveat: >-
+  German original not seen. Visit of 20 May 1993, meant to ease tensions after the Mölln arson attack and amid
+  German criticism of Turkey; he also went, off protocol, to İnönü's tomb. His Istanbul University speech
+  (Bulletin) thanks 'Atatürk's Turkey' without a judgment of the man. Read on the page image (Milliyet's
+  subscriber archive).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1993.05.21
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 21 May 1993 p. 15, page image crop
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

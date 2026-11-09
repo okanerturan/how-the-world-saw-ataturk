@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jacques-benoist-mechin-1974
+voice: Jacques Benoist-Méchin
+voice_type: person
+role: >-
+  French historian and writer, author of Mustapha Kémal ou la mort d'un empire (1954); À destins rompus (Albin
+  Michel, 1974)
+country: France
+country_now: France
+domain: letters
+date: "1974"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  A man with the energy of the greatest sultans: they wanted to give the world to Turkey, he gave Turkey to
+  the world.
+quote:
+  text: >-
+    […] un homme en qui revivaient les instincts guerriers de ses ancêtres et dont l'énergie n'était pas
+    inférieure à celle des plus grands sultans du passé : Kemal Ataturk. […] ceux-ci avaient voulu remettre le
+    monde à la Turquie; Mustapha Kemal, lui, a remis la Turquie au monde.
+  translation: >-
+    …a man in whom the warrior instincts of his ancestors lived again and whose energy was no less than that
+    of the greatest sultans of the past: Kemal Atatürk. … They had wanted to deliver the world to Turkey;
+    Mustapha Kemal delivered Turkey to the world.
+  language: fr
+mediated_by: archive.org full-text search snippets of À destins rompus (1974)
+caveat: >-
+  Seen only as full-text search snippets of a lending copy (no page numbers); the 1954 biography (lending
+  only) gave narrative snippets only.
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/destinsrompus0000beno
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://archive.org/details/destinsrompus0000beno
+  method: snippets
+  note: >-
+    Both passages found word for word in full-text search snippets by a second, independent checker on 9 Nov
+    2026; pages not seen.
+  checked_on: "2026-11-09"

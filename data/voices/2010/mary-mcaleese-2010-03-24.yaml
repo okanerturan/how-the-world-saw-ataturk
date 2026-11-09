@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mary-mcaleese-2010-03-24
+voice: Mary McAleese
+voice_type: person
+role: >-
+  President of Ireland; first visit to Turkey by an Irish head of state: remarks at Green Hill Cemetery and at
+  the Governor's lunch, Çanakkale
+country: Ireland
+country_now: Ireland
+domain: politics
+date: "2010-03-24"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  'A remarkable statesman and soldier', a 'great, fearless Turkish hero' whose words to the mothers of the
+  Gallipoli dead taught forgiveness.
+quote:
+  text: >-
+    These truly remarkable words, by a remarkable statesman and soldier, written when the searing memory and
+    bitterness of that so called "Great War" was still fresh and raw in peoples' minds, is a testament not
+    only to the man, but to the generosity of spirit of the Turkish people. […] Only a soldier who has
+    witnessed at first hand the traumatic heat and horror of battle could have uttered such gracious and
+    healing remarks. […] It was that great, fearless Turkish hero Mustafa Kemal Ataturk who long ago showed us
+    that the way to that peace lay in seeing all those who died as brothers.
+  language: en
+caveat: >-
+  The 1934 'Johnnies and Mehmets' text she praises is of disputed authorship (possibly drafted by Şükrü Kaya);
+  her own judgment of the man is clear. Her Ankara state-dinner toast of 23 Mar 2010 does not mention Atatürk.
+  Read on Wayback copies (president.ie is behind a bot check).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://web.archive.org/web/2024/https://president.ie/media-library/speeches/remarks-by-president-mcaleese-at-green-hill-cemetery-canakkale-wednesday-24
+  - url: https://web.archive.org/web/2024/https://president.ie/media-library/speeches/remarks-by-president-mcaleese-at-lunch-co-hosted-by-governor-of-canakkale-a
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://web.archive.org/web/2024/https://president.ie/media-library/speeches/remarks-by-president-mcaleese-at-green-hill-cemetery-canakkale-wednesday-24
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    'The first visit of an Irish Head of State to this country' is in her Ankara dinner remarks of 23 March
+    2010.
+  checked_on: "2026-11-09"

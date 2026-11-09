@@ -1,0 +1,38 @@
+# Turkish for data/voices/1963/macarthur-1963-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: macarthur-1963-11-10
+voice: Douglas MacArthur
+role: Orgeneral (emekli); Atatürk'ün ölümünün 25. yıldönümü mesajı
+quote: >-
+  Bu asker - devlet adamı, çağımızın en büyük liderlerinden biri idi. Kendisi, Türkiye'nin dünyanın en ileri
+  memleketleri arasında hak ettiği yeri almasını sağlamıştır. Keza O, Türklere, bir milletin büyüklüğünün
+  temel taşını teşkil eden, kendine güvenme ve dayanma duygusunu vermiştir. Ben Atatürk'ün sadık
+  arkadaşlarından biri olmakla büyük iftihar duyuyorum.
+quote_kind: original-turkish
+summary: >-
+  Bir asker-devlet adamı, çağın en büyük liderlerinden biri; MacArthur 'Atatürk'ün sadık dostlarından biri
+  olmaktan büyük gurur duymaktadır'.
+caveat: >-
+  MacArthur 1932'de Atatürk ile görüşmüştü (macarthur-1932-09-27); bu mesajdan beş ay sonra hayatını kaybetti.
+  Milliyet'in 25. yıl dönümü dolayısıyla 10 Kasım 1963'te yayımladığı on lider mesajından biridir (yedisi s.
+  1'de, üçü s. 7'de). Kennedy'ninki (kennedy-1963-11) Türk hükümetinin talebi üzerine kaydedilmiş bir mesajdı;
+  diğerleri de muhtemelen aynı şekilde istenmişti. Özgün dildeki metin görülmedi. Sayfa görüntüsünden okundu
+  (Milliyet'in abone arşivi).
+mediated_by: >-
+  Milliyet, 10 Kasım 1963, s. 1 ('Bütün dünya anıyor…'): Atatürk'ün ölümünün 25. yıl dönümü dolayısıyla
+  gönderilen mesajın gazetedeki Türkçe çevirisi
+verification_note: >-
+  Yeni kırpılmış görüntüler üzerinden ikinci, bağımsız bir kontrolör tarafından sayfa görüntüsünden okundu (9
+  Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir. Mesajın tamamı s. 1'dedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d08fa86811cf
+  role: 37b8f0628b06
+  quote: 66727a3f9a19
+  summary: cdce8796eab9
+  caveat: 1501dacf45a7
+  mediated_by: 4c0b06c5e801
+  verification_note: 6a62f300a740
+  verification_method: 1c3478366c90

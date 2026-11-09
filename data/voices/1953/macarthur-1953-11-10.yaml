@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: macarthur-1953-11-10
+voice: Douglas MacArthur
+voice_type: person
+role: >-
+  General of the Army, former Supreme Commander in the Far East; message to the Turkish nation for the 15th
+  anniversary of Atatürk's death, issued through the Turkish press directorate
+country: United States
+country_now: United States
+domain: military
+date: "1953-11-10"
+era: posthumous
+polarity: admiring
+intensity: 3
+artifact: quote
+evidence: J
+summary: >-
+  'My old friend', a statesman of world stature underrated even by some Turks; had he lived, the world scene
+  would be fundamentally different.
+quote:
+  text: >-
+    Bugün 10 kasım, eski dostum Kemal Atatürkün ölüm yıldönümüdür. O zamandan beri on beş sene geçmiş olmasına
+    rağmen onun ufulüne kendimi henüz alıştıramıyorum. Eğer sağ olsaydı milletlerarası sahnenin bugünkü
+    hercümerc hali esaslı bir şekilde değişik olurdu. Atatürk, Türkiyede daima memleketin bugünkü inkişafının
+    modern atası olarak anılacaktır. Fakat, onun dünya çapında devlet adamı olarak yüksek kudreti belki de
+    bazı vatandaşları tarafından bile tam mânasiyle anlaşılamamaktadır. O tanıdığım diğer insanlar gibi, hür
+    insanlığın köleliğe karşı durması meselesinin cihanşümul mahiyetini idrak ediyordu, onun dünyayı sarsan
+    mücadelenin vahim bir anında vefatı, telâfisi gayri kabil olmakta devam etmektedir.
+  translation: >-
+    Today, 10 November, is the anniversary of the death of my old friend Kemal Atatürk. Although fifteen years
+    have passed, I still cannot accustom myself to his passing. Had he lived, the present chaos of the
+    international scene would be fundamentally different. In Turkey Atatürk will always be remembered as the
+    modern father of the country's present development. But his great power as a statesman of world stature is
+    perhaps not fully understood even by some of his compatriots. Like the other people I have known, he
+    grasped the universal nature of free humanity's stand against slavery; his death at a grave moment of the
+    world-shaking struggle remains irreparable.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 10 Nov 1953, p. 7, box 'Mac Arthur'un mesajı' (Ankara, A.A., 9 Nov): Anatolian Agency's Turkish
+  text of the message
+caveat: >-
+  English original not seen. The Anatolian Agency dateline is Ankara, 9 Nov; the message itself opens 'Today,
+  10 November'. 'O tanıdığım diğer insanlar gibi' ('like the other people I have known') is as printed and may
+  stand for 'like few other people I have known'. Read on the page image (Milliyet's subscriber archive). See
+  also macarthur-1932-09-27 and macarthur-1963-11-10.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1953.11.10
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 10 Nov 1953 p. 7, page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word. The last three lines are faint but legible.
+  checked_on: "2026-11-09"

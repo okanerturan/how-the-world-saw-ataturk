@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: frank-walter-steinmeier-2018-09-09
+voice: Frank-Walter Steinmeier
+voice_type: person
+role: >-
+  Federal President of Germany; speech in Berlin for the 70th anniversary of Ernst Reuter's 'Ihr Völker der
+  Welt' address
+country: Germany
+country_now: Germany
+domain: politics
+date: "2018-09-09"
+era: posthumous
+polarity: hostile
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Atatürk's rule as an 'authoritarian regime', one of the places where the exiled Ernst Reuter saw democratic
+  virtues under challenge.
+quote:
+  text: >-
+    Es sind demokratische Tugenden, wie Reuter selbst sie an jedem Ort, an jeder Station seiner Biographie
+    angefochten und umkämpft erlebt hatte: in der Weimarer Republik unter dem Druck der Demokratiefeindschaft,
+    in der Türkei unter dem autoritären Regime Atatürks, vor allem aber in den Jahren der russischen
+    Revolution und des Bürgerkrieges an der Wolga.
+  translation: >-
+    These are democratic virtues such as Reuter himself had seen challenged and fought over at every place,
+    every station of his life: in the Weimar Republic under the pressure of hostility to democracy, in Turkey
+    under Atatürk's authoritarian regime, but above all in the years of the Russian Revolution and the civil
+    war on the Volga.
+  language: de
+caveat: >-
+  A passing characterisation in a Berlin speech, three weeks before Erdoğan's state visit; contrast his 2024
+  Anıtkabir entry (frank-walter-steinmeier-2024-04-24).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden/2018/09/180909-Ernst%20Reuter.html
+    archived: https://web.archive.org/web/20260111143433/https://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden/2018/09/180909-Ernst%20Reuter.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden/2018/09/180909-Ernst%20Reuter.html
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

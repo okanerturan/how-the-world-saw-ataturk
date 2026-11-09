@@ -1,0 +1,35 @@
+# Turkish for data/voices/1981/candido-mendes-1981-05-18.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: candido-mendes-1981-05-18
+voice: Candido Mendes
+role: >-
+  Brezilyalı siyaset bilimci; İstanbul'daki Uluslararası Atatürk Sempozyumu'nda sunduğu bildiri
+quote: >-
+  "Atatürk'ün Avrupa liderlerinden üstün niteliği, 1923-1938 yılları arasında yaptığı devrimlerdir. Atatürk,
+  hiçbir zaman geriye dönük bir lider olmamıştır"
+quote_kind: original-turkish
+summary: >-
+  "Hiçbir zaman geriye dönük olmamış", 1923–38 yılları arasında yaptığı devrimlerle Avrupa liderlerinin üstüne
+  çıkmış ve mirası Latin Amerika için bir rehber olan bir lider.
+caveat: >-
+  Gazete, dolaylı anlatımla onun Atatürk'ün mirasının Latin Amerika ülkeleri için de bir rehber olduğunu
+  söylediğini ekliyor. Sayfa görüntüsünden okundu (Milliyet abone arşivi).
+mediated_by: >-
+  Milliyet, 19 Mayıs 1981, s. 8: 'Uluslararası Atatürk Sempozyumu başladı' (adı 'Candido Mentes' olarak
+  dizilmiş); 'Atatürk çağdaşlaşmasından 1950 sonrası gelişmelere, bir Latin Amerika yaklaşımı' başlıklı
+  bildiri
+verification_note: >-
+  Sayfa görüntüsü üzerinden ikinci ve bağımsız bir kontrolör tarafından yeni kesitlerle okundu (9 Kasım 2026):
+  alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: b6a272bbdd2a
+  role: 7c5a90768921
+  quote: 82a718822fbc
+  summary: 1606f175c8b5
+  caveat: e48db8057c7e
+  mediated_by: 2250dec96352
+  verification_note: 700af5de5e3f
+  verification_method: 1c3478366c90

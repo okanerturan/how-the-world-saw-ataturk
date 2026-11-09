@@ -1,0 +1,38 @@
+# Turkish for data/voices/2010/mary-mcaleese-2010-03-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mary-mcaleese-2010-03-24
+voice: Mary McAleese
+role: >-
+  İrlanda Cumhurbaşkanı; bir İrlanda devlet başkanının Türkiye'ye ilk ziyareti: Green Hill Mezarlığı'ndaki ve
+  Valilik öğle yemeğindeki konuşmaları, Çanakkale
+quote: >-
+  O sözde "Büyük Savaş"ın yakıcı anısı ve acısı insanların zihinlerinde hâlâ taze ve çiğken, olağanüstü bir
+  devlet adamı ve asker tarafından yazılan bu gerçekten olağanüstü sözler, yalnızca o insanın değil, Türk
+  halkının ruh yüceliğinin de bir kanıtıdır. […] Yalnızca muharebenin travmatik hararetine ve dehşetine bizzat
+  tanık olmuş bir asker böylesine alicenap ve iyileştirici sözler söyleyebilirdi. […] Bize o barışa giden
+  yolun, ölenlerin hepsini kardeş olarak görmekten geçtiğini uzun zaman önce gösteren, o büyük, korkusuz Türk
+  kahramanı Mustafa Kemal Atatürk'tü.
+quote_kind: translated
+summary: >-
+  Gelibolu'da hayatını kaybedenlerin annelerine söylediği sözlerle bağışlamayı öğreten 'olağanüstü bir devlet
+  adamı ve asker', 'büyük, korkusuz bir Türk kahramanı'.
+caveat: >-
+  Övdüğü 1934 tarihli 'Johnnies and Mehmets' metninin yazarlığı tartışmalıdır (Şükrü Kaya tarafından kaleme
+  alınmış olabilir); kendisinin Atatürk hakkındaki yargısı ise açıktır. 23 Mart 2010 tarihli Ankara resmi
+  akşam yemeği kadeh kaldırma konuşmasında Atatürk'ten söz edilmemektedir. Wayback kopyalarından okunmuştur
+  (president.ie bot kontrolü arkasındadır).
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine orada yer almaktadır. 'The first visit of an Irish Head of State to this country'
+  ifadesi, 23 Mart 2010 tarihli Ankara akşam yemeği konuşmasında geçmektedir.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 33f4c91d7ab0
+  role: 14a6da974592
+  quote: 71c8871221ac
+  summary: 1d7f0e824a92
+  caveat: 7d8345b95475
+  verification_note: ad71a7c2d8e7
+  verification_method: 66d7e7f771bc

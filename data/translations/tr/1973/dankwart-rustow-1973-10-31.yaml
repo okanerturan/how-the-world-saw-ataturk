@@ -1,0 +1,41 @@
+# Turkish for data/voices/1973/dankwart-rustow-1973-10-31.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dankwart-rustow-1973-10-31
+voice: Dankwart A. Rustow
+role: >-
+  Amerikalı siyaset bilimci (City University of New York); Milliyet'in Cumhuriyet'in 50. yıldönümü dizisinde
+  yayımlanan 'Amerikan gözüyle' başlıklı imzalı yazısı
+quote: >-
+  Atatürk, Türkiye'nin yaşadığı en uzun barış döneminde zaferleri her zaman hatırlanan bir askerdi ve yönetimi
+  askerî rejimden sivil rejime çevirmeyi başarmıştı. […] Doğuştan bir liderdi; buna rağmen örgütlenmeye ve
+  yasal gereklere çok önem veriyordu. Bütün bu kutuplar, tek bir diyalektik gerilimin parçalarını oluşturdu ve
+  Atatürk'ün yaratıcı önderliğinin katkısıyla bir sentez yarattı. Kurduğu Batılı Türk Ulusu ve devletinin
+  gücü, bu sentezin değerini göstermektedir. […] Gerçekte, Atatürk, salt bir elitist değildi; bu ve buna
+  benzer birçok nedenlerde, birtakım birbirine karşı unsurları bir araya getirmiş ve belirli çelişmezlikleri
+  uzlaştırmıştı.
+quote_kind: original-turkish
+summary: >-
+  Yine de örgütlenmeye ve yasallığa değer veren doğuştan bir lider ve askeri yönetimi sivil yönetime
+  dönüştüren bir asker; salt bir seçkinci değil.
+caveat: >-
+  İngilizce özgün metin görülmemiştir. 1968 tarihli psikolojik portresine (dankwart-rustow-1968) kıyasla daha
+  sıcak bir tondadır. Sayfa görüntüsünden okunmuştur (Milliyet abone arşivi).
+mediated_by: >-
+  Milliyet, 31 Ekim 1973, s. 2: 'Amerikan gözüyle — Batı dengesi, iç isyanlar ve Atatürk…', Prof. Dankwart A.
+  Rustow imzasıyla (Türkçe çeviri); ilk iki pasaj başlığın üstündeki spot kutusunda basıldığı şekliyle
+verification_note: >-
+  İkinci, bağımsız bir kontrolör tarafından yeni kırpılmış görüntüler üzerinden sayfa görüntüsünden okunmuştur
+  (9 Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir. 'çelişmezlikleri' basıldığı
+  gibidir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 663e5a8cfaa5
+  role: c04c40899681
+  quote: a8de2b5f1f07
+  summary: a408729c9410
+  caveat: 7ad29a8a375f
+  mediated_by: 65c2c463022e
+  verification_note: 33f988c78e8f
+  verification_method: 1c3478366c90

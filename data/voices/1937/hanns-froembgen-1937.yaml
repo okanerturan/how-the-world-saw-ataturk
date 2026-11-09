@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hanns-froembgen-1937
+voice: Hanns Froembgen
+voice_type: person
+role: >-
+  German writer; Kemal Ataturk: a biography (London, 1937), the English translation of his German biography of
+  1935
+country: Germany
+country_now: Germany
+domain: letters
+date: "1937"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  The greatest soldier of the Ottoman army; like Edward VIII a man of action 'filled with a new, live spirit',
+  free of obsolete conceptions.
+quote:
+  text: >-
+    […] none other than Mustafa Kemal, the greatest soldier in the Ottoman Army and Enver's most unrelenting
+    opponent. […] men of action, both filled with a new, live spirit, free from all prejudices and burdens and
+    obsolete conceptions.
+  is_translation: true
+  language: en
+caveat: >-
+  Quoted from the English translation by Kenneth Kirkness (London, 1937), pp. 61 and 250; the German original
+  was not seen. On p. 61 the phrase reports whom a conspirator named as Enver's successor. The p. 250 passage
+  describes Kemal's meeting with Edward VIII in September 1936 and calls him 'his former Majesty', so it was
+  written after the abdication of December 1936.
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/39020025962500-kemalataturkabi
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://archive.org/details/39020025962500-kemalataturkabi
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

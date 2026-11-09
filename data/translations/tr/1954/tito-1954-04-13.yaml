@@ -12,14 +12,13 @@ quote: >-
   ifadesidir.
 quote_kind: original-turkish
 summary: >-
-  Türkiye'nin hükûmet merkezi Ankara: 'büyük Atatürk'ün efsanevî şahsiyeti'nin hatırasından ilham alan bir
-  millî kuvvetin vakur ifadesi.
+  'Büyük Atatürk'ün efsanevi kişiliğinin' hatırasından ilham alan ulusal bir gücün vakur ifadesi olarak Ankara.
 caveat: >-
   Cevabî kadeh konuşmasının açılış satırları; devamı Yugoslav sempatisi, Ankara Paktı ve Balkan barışı
   hakkındadır. Aynı gün Anıtkabir'e çelenk koydu (Milliyet s. 1); herhangi bir defter yazısı basılmamıştır.
   Özgün Sırpça-Hırvatça metin (Borba / Politika, 14 Nisan 1954; Govori i članci c. IX) görülmedi. Anıtkabir
   defterindeki yazısına atfedilen Instagram'daki 'Sizi hayatım boyunca daima ilham kaynağı olarak yaşattım'
-  sözünün kaynağı yoktur. Sayfa görüntüsünden okundu (Okan'ın Milliyet arşivi girişi).
+  sözünün kaynağı yoktur. Sayfa görüntüsünden okundu (Milliyet'in abonelere açık arşivi).
 mediated_by: >-
   Milliyet, 14 Nisan 1954, s. 7 ('Türk-Yugoslav siyasî görüşmeleri başladı', 'Titonun nutku' bölümü):
   Sırp-Hırvatça yapılan bir kadeh konuşmasının gazetedeki Türkçe aktarımı
@@ -33,8 +32,8 @@ source_fingerprints:
   voice: f23e7ece797a
   role: 5897b70e7c0f
   quote: cb382b77ea74
-  summary: c74b54c50597
-  caveat: bc722c85a29f
+  summary: 30106f96831a
+  caveat: 626fc9c5767e
   mediated_by: 6d2a65028583
   verification_note: 3e529d5a4e3d
   verification_method: 1c3478366c90

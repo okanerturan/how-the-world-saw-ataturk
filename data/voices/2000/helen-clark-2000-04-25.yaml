@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: helen-clark-2000-04-25
+voice: Helen Clark
+voice_type: person
+role: Prime Minister of New Zealand; Anzac Day dawn service and international service, Gallipoli
+country: New Zealand
+country_now: New Zealand
+domain: politics
+date: "2000-04-25"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: chivalrous-enemy
+artifact: speech
+evidence: P
+summary: >-
+  The inspired leader of the Turkish defence at Gallipoli, whose generosity towards the allied dead founded
+  the friendship between Turkey and New Zealand.
+quote:
+  text: >-
+    Ataturk's words of comfort to the parents of those who died here helped our nations adjust to the trauma
+    of Gallipoli. His generosity of spirit in accepting those who had fallen as sons of Turkey to be cared for
+    here laid the foundation for bonds of friendship between our countries. […] I also want to pay tribute to
+    the steadfast courage of the Turkish soldiers who, under the inspired leadership of Ataturk, fought so
+    bravely to defend their country.
+  language: en
+caveat: >-
+  Government speech texts republished on Scoop. Her message for the 125th anniversary of his birth (read by
+  the NZ ambassador at the Ataturk Society of America, Washington, May 2006): 'Kemal Ataturk will always have
+  a special place in history as that remarkable soldier who led the defence of his country on the Gallipoli
+  Peninsula and who went on to found the modern Turkish republic. It is not only in Turkey that this great
+  statesman is remembered.'
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://m.scoop.co.nz/stories/PA0004/S00312/pm-in-turkey-anzac-dawn-service.htm
+  - url: https://m.scoop.co.nz/stories/PA0004/S00311/pm-in-turkey-the-international-service.htm
+  - url: https://ataturksociety.org/?p=667
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://m.scoop.co.nz/stories/PA0004/S00312/pm-in-turkey-anzac-dawn-service.htm
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    All three texts opened.
+  checked_on: "2026-11-09"

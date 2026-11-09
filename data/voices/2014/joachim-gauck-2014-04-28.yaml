@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: joachim-gauck-2014-04-28
+voice: Joachim Gauck
+voice_type: person
+role: Federal President of Germany; toast at President Gül's state banquet, Ankara
+country: Germany
+country_now: Germany
+domain: politics
+date: "2014-04-28"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  The author of the principle that sovereignty belongs unconditionally to the people, which Gauck turns into a
+  gentle rebuke on free speech.
+quote:
+  text: >-
+    Heute Morgen habe ich am Mausoleum des Gründers der türkischen Republik, Mustafa Kemal Atatürk, einen
+    Kranz niedergelegt. Ein Satz von Atatürk beeindruckt mich ganz besonders. Er drückt einen Anspruch von
+    großer Unbedingtheit aus. Der Satz lautet: "Die Souveränität liegt uneingeschränkt und bedingungslos beim
+    Volke."
+  translation: >-
+    This morning I laid a wreath at the mausoleum of the founder of the Turkish Republic, Mustafa Kemal
+    Atatürk. One sentence of Atatürk's impresses me especially. It expresses a claim of great
+    unconditionality. The sentence reads: 'Sovereignty belongs to the people without restriction or
+    condition.'
+  language: de
+caveat: >-
+  Praise of a principle rather than a portrait; kept because the sentence is his own judgment of Atatürk's
+  claim. His METU and Istanbul speeches on the same trip do not mention Atatürk.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://bundespraesident.de/SharedDocs/Reden/DE/Joachim-Gauck/Reden/2014/04/140428-Toast-Staatsbankett-Ankara.html
+    archived: https://web.archive.org/web/20230421025501/https://www.bundespraesident.de/SharedDocs/Reden/DE/Joachim-Gauck/Reden/2014/04/140428-Toast-Staatsbankett-Ankara.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://bundespraesident.de/SharedDocs/Reden/DE/Joachim-Gauck/Reden/2014/04/140428-Toast-Staatsbankett-Ankara.html
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

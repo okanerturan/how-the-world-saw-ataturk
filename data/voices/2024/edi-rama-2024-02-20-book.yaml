@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: edi-rama-2024-02-20-book
+voice: Edi Rama
+voice_type: person
+role: >-
+  Prime Minister of Albania; entry in the Anıtkabir special book during his official visit to Ankara
+country: Albania
+country_now: Albania
+domain: politics
+date: "2024-02-20"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: emancipator-patriarch
+artifact: quote
+evidence: J
+summary: >-
+  A great leader of rare inclusiveness, peace and progress, whose intelligence saw the importance of women's
+  emancipation.
+quote:
+  text: >-
+    Adında, modern Türk devletinin köklerini bulduğumuz ve mirasında, Türk toplumunun kimliğini renklendiren
+    büyük lideri hatırlıyoruz. Mustafa Kemal Atatürk'ün kalıcı varlığı, günümüzde bile eşine rastlanması zor
+    bir kapsayıcılığı, barışı ve ilerlemeyi gösteriyor. Zekası, onun, kadınların özgürleşmesinin önemini fark
+    etmesine yol açtı. Milletine olan sevgisi, onu, ilerlemeyi, okuryazarlığı sahiplenmeye ve gelişme tutkusu
+    ile değerli vizyonunu kanıtlayan ekonomik reformları desteklemeye yöneltti. Burada, Atatürk'ün ebedi
+    istirahatgahının kutsal mekanında, onun sevgi ve barış gibi beklenmedik yollarla başarılan modern Türkiye
+    vizyonunu kutluyoruz.
+  translation: >-
+    We remember the great leader in whose name we find the roots of the modern Turkish state and whose legacy
+    colours the identity of Turkish society. Mustafa Kemal Atatürk's enduring presence shows an inclusiveness,
+    peace and progress hard to match even today. His intelligence led him to recognise the importance of
+    women's emancipation. His love for his nation led him to embrace progress and literacy and to support
+    economic reforms that proved his passion for development and his valuable vision. Here, in the sacred
+    space of Atatürk's eternal resting place, we celebrate his vision of a modern Türkiye achieved by
+    unexpected means such as love and peace.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  İşçi Haber, 20 Feb 2024, reprinting the agency (probably AA) report: Turkish rendering of the entry
+caveat: >-
+  The Albanian or English original was not found. The visit to Anıtkabir that day is confirmed by Top Channel
+  (Tirana).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.iscihaber.net/gundem/arnavutluk-basbakani-rama-ankaraya-geldi/104539
+  - url: https://top-channel.tv/english/pm-rama-and-the-albanian-ministers-are-received-with-official-ceremony-by-erdogan-in-ankara
+    archived: https://web.archive.org/web/20240422030653/https://top-channel.tv/english/pm-rama-and-the-albanian-ministers-are-received-with-official-ceremony-by-erdogan-in-ankara/
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://www.iscihaber.net/gundem/arnavutluk-basbakani-rama-ankaraya-geldi/104539
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    The page carries no agency credit.
+  checked_on: "2026-11-09"

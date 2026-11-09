@@ -1,0 +1,36 @@
+# Turkish for data/voices/1977/saddam-hussein-1977-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: saddam-hussein-1977-book
+voice: Saddam Hussein
+role: >-
+  Irak Cumhurbaşkanı Yardımcısı (1979–2003 yıllarında Cumhurbaşkanı); Türkiye ziyareti sırasında Anıtkabir
+  özel defterine yazdığı metin
+quote: >-
+  Büyük insanlar büyük eserler bırakırlar. Onların bıraktığı bu mirası halkları, gerek hayatları süresince
+  gerek öldükten sonra en güzel şekilde yaşatır. Mustafa Kemal Atatürk bunlardan biriydi...
+quote_kind: original-turkish
+summary: >-
+  Büyük eserler bırakan, halklarının bıraktıkları mirası hem hayattayken hem de öldükten sonra yaşattığı
+  'büyük insanlar'dan biri.
+caveat: >-
+  Yazı, kaydı yalnızca "1977 yılındaki Türkiye ziyaretinde" diye tarihlendiriyor ve metni kısaltarak ("...")
+  veriyor. 1977 yılında gerçekleşmiş bir ziyarete dair bağımsız bir kayda rastlanmadı; bu yıl bilgisi
+  Haber7'ye dayanmaktadır. Birincil kaynak, Anıtkabir özel defterinin yayımlanmış basımıdır.
+mediated_by: >-
+  Haber7, 20 Ekim 2004, 'Anıtkabir'deki tarih!', yayımlanmış Anıtkabir Özel Defteri ciltlerine dayanarak (23
+  cilt, Anıtkabir Derneği, 2001)
+verification_note: >-
+  Yazı 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin orada yer
+  almaktadır. Yayımlanmış özel defterin kendisi görülmedi.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: f203fdb9c19e
+  role: 2d38c5e6ec95
+  quote: 3649922a124f
+  summary: cbd490b9005d
+  caveat: 800d29bd6c0e
+  mediated_by: a31ec5aca037
+  verification_note: 91cc1b28867e
+  verification_method: 66d7e7f771bc

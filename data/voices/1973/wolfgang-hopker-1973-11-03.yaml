@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: wolfgang-hopker-1973-11-03
+voice: Wolfgang Höpker
+voice_type: person
+role: >-
+  German journalist and author (Deutsche Zeitung); signed article 'Alman gözüyle' in Milliyet's series for the
+  Republic's 50th anniversary
+country: Germany
+country_now: Germany
+domain: press
+date: "1973-11-03"
+era: posthumous
+polarity: admiring
+intensity: 2
+mirror: modernization-poster-child
+artifact: article
+evidence: J
+summary: >-
+  No dogmatist or ideologue but a practical statesman who knew when to wait; yet he misjudged the hold of
+  Islamic tradition on Anatolian peasants.
+quote:
+  text: >-
+    Atatürk, ne bir dogmatik idi ve ne de bir ideolog, bilâkis pratik fikirleri olan bir devlet adamı idi.
+    Zamanının Türkiyesinde yapılması mümkün olanın sınırı aşmakta olduğunu gördüğü anda, durup münasip zamanı
+    beklemesini biliyordu. İşte kendisinin asıl büyüklüğü de buradadır. […] Atatürk bu noktada, âdet ve
+    geleneklerin içlerinde ne kadar büyük dirençler sakladıklarını, Anadolu köylüsünün içine İslâmî
+    geleneklerin ne kadar derin kökler salmış olduğunu, karanlığın kuvvetini tahminde yanıldı.
+  translation: >-
+    Atatürk was neither a dogmatist nor an ideologue, but a statesman of practical ideas. The moment he saw
+    that what was possible in the Turkey of his time was being exceeded, he knew how to stop and wait for the
+    right moment. That is where his real greatness lies. […] At this point Atatürk misjudged how great a
+    resistance customs and traditions hide, how deep Islamic traditions had rooted in the Anatolian peasant —
+    the strength of the darkness.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 3 Nov 1973, p. 2: 'Alman gözüyle — Avrupa'ya yönelen yeni Türkiye', bylined Dr. Wolfgang Höpker
+  (Turkish translation)
+caveat: German original not seen. Read on the page image (Milliyet's subscriber archive).
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1973.11.03
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 1973.11.03 page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

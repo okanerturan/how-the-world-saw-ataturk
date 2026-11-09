@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: alec-douglas-home-1963-11-10
+voice: Alec Douglas-Home
+voice_type: person
+role: >-
+  Prime Minister of the United Kingdom (from Oct 1963); message for the 25th anniversary of Atatürk's death
+country: United Kingdom
+country_now: United Kingdom
+domain: politics
+date: "1963-11-10"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  Known in Britain first as a brilliant commander, then as a statesman among the great national leaders; the
+  Anglo-Turkish partnership is largely his work.
+quote:
+  text: >-
+    Atatürk'ün adı bizce, hemen hemen 50 yıl önce parlak bir Türk askeri kumandanı olarak biliniyordu. Barışı
+    takiben ona büyük milli liderler arasında tarihteki daimi yerini kazandıran devletçilik sıfatlarıyle
+    Atatürk'ü tanıdık. […] Mutlu işbirliği; büyük anlamda Atatürk'ün çalışmalarının neticesidir. Atatürk'ün
+    ölümünün 25. yıldönümünde, O'nu kahraman asker olarak saygı ile yâd eder, modern Türkiye'nin Ata'sını,
+    devlet adamı Atatürk'ü, takdir ve şükranla anarız.
+  translation: >-
+    To us Atatürk's name was known almost fifty years ago as that of a brilliant Turkish military commander.
+    After the peace we came to know Atatürk through the qualities of statesmanship that won him his permanent
+    place in history among the great national leaders. […] This happy cooperation is in a large sense the
+    result of Atatürk's work. On the 25th anniversary of his death we remember him with respect as a heroic
+    soldier, and we honour the father of modern Turkey, the statesman Atatürk, with appreciation and
+    gratitude.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 10 Nov 1963, p. 1 ('Bütün dünya anıyor…'): the paper's Turkish rendering of a message for the 25th
+  anniversary of Atatürk's death
+caveat: >-
+  'Almost fifty years ago' points to Gallipoli, 1915. One of ten leaders' messages Milliyet printed on 10 Nov
+  1963 for the 25th anniversary (seven on p. 1, three on p. 7). Kennedy's (kennedy-1963-11) was a recorded
+  message requested by the Turkish government, so the others were probably solicited the same way.
+  Original-language text not seen. Read on the page image (Milliyet's subscriber archive).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1963.11.10
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 10 Nov 1963 p. 1, page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word. The message is complete on p. 1.
+  checked_on: "2026-11-09"

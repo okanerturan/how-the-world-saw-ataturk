@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: saddam-hussein-1977-book
+voice: Saddam Hussein
+voice_type: person
+role: >-
+  Vice-President of Iraq (President 1979–2003); entry in the Anıtkabir special book during a visit to Turkey
+country: Iraq
+country_now: Iraq
+domain: politics
+date: "1977"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  One of the 'great men' who leave great works, whose peoples keep their legacy alive in life and after death.
+quote:
+  text: >-
+    Büyük insanlar büyük eserler bırakırlar. Onların bıraktığı bu mirası halkları, gerek hayatları süresince
+    gerek öldükten sonra en güzel şekilde yaşatır. Mustafa Kemal Atatürk bunlardan biriydi...
+  translation: >-
+    Great men leave great works. Their peoples keep the legacy they leave alive in the finest way, both during
+    their lives and after their death. Mustafa Kemal Atatürk was one of them…
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Haber7, 20 Oct 2004, 'Anıtkabir'deki tarih!', drawing on the published Anıtkabir Özel Defteri volumes (23
+  vols, Anıtkabir Derneği, 2001)
+caveat: >-
+  The article dates the entry only to 'his visit to Turkey in 1977' and truncates it ('...'). No independent
+  record of a 1977 visit was found; the year rests on Haber7. The primary source is the Anıtkabir special book
+  in its published edition.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.haber7.com/guncel/haber/18629-anitkabirdeki-tarih
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: https://www.haber7.com/guncel/haber/18629-anitkabirdeki-tarih
+  method: full text
+  note: >-
+    Article re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there. The published
+    special book itself was not seen.
+  checked_on: "2026-11-09"

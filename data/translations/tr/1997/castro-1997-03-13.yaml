@@ -9,9 +9,8 @@ quote: >-
   "Asker ve fikir adamı Atatürk önemli insan olarak tarihe geçti."
 quote_kind: original-turkish
 summary: >-
-  İngilizleri bir şekilde yenmiş büyük bir insan ve büyük bir asker, tarihe geçmiş bir asker ve düşünür;
-  Atatürk'ün Türk yazısını değiştirdiği söylendiğinde Castro, kendisinin böyle bir düzen değişikliği
-  yapamayacağını söyledi.
+  İngilizleri mağlup eden büyük bir adam ve büyük bir asker; harf inkılabı anlatıldığında Castro, kendisinin
+  böyle bir değişikliği yapamayacağını söylemiştir.
 caveat: >-
   Cumhurbaşkanı Demirel'den bir mektup sunan Sağlık Bakanı Yıldırım Aktuna'nın heyetinin 13 Mart 1997,
   22:00–23:50 tarihli kabulü. Harf devrimi konusunda Domaç yalnızca şunu kaydeder: 'Ben [böyle bir] düzen
@@ -40,8 +39,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 0cf856771338
   role: 7add6fa798ca
-  quote: 2ae1c00c6413
-  summary: 991d306b3b24
+  quote: b83a8c24c853
+  summary: 6ffcac075109
   caveat: dd3a95a88deb
   mediated_by: e11d095ff3e1
   verification_note: 77b6f84914fb

@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: gjorge-ivanov-2014-05-19
+voice: Gjorge Ivanov
+voice_type: person
+role: >-
+  President of the Republic of Macedonia; speech opening the restored house of Ali Rıza Efendi (Atatürk's
+  father) at Kodžadžik
+country: Republic of Macedonia
+country_now: North Macedonia
+domain: politics
+date: "2014-05-19"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  The founder of modern Turkey claimed as Macedonia's own: the country is 'proud to be called the birthplace
+  of Ataturk and of his father'.
+quote:
+  text: >-
+    As the father's birthplace is dear to the son, the founder's birthplace is important to the state. The
+    Republic of Macedonia is proud to be called the birthplace of Ataturk and of his father.
+  language: en
+caveat: >-
+  Official English text on the president's site. Atatürk was born in Salonica (now Greece) and went to school
+  in Bitola; Kodžadžik is his father's village, so 'birthplace of Ataturk' is a claim of kinship rather than a
+  fact. Opening date chosen for 19 May, the Turkish youth day.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://pretsedatel.gjorgeivanov.mk/en/media-centre/speeches/2651-2014-05-19-14-27-18.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: https://pretsedatel.gjorgeivanov.mk/en/media-centre/speeches/2651-2014-05-19-14-27-18.html
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+  checked_on: "2026-11-09"

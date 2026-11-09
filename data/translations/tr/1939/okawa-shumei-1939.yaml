@@ -5,9 +5,8 @@ id: okawa-shumei-1939
 voice: Ōkawa Shūmei
 role: Japon Pan-Asyacı yazar
 summary: >-
-  Güney Mançurya Demiryolu'nun Doğu Asya Ekonomik Araştırma Bürosu tarafından yayımlanan Shin-Ajia (Yeni Asya)
-  dergisinin 1. cilt 2. sayısında yer alan 'Yeni Türkiye'nin kurucusu Kemal Paşa' başlıklı makalesiyle Japonca
-  basındaki diziyi kapattı.
+  Shin-Ajia (Yeni Asya) dergisinin 1. cilt 2. sayısında yayımlanan 'Yeni Türkiye'nin kurucusu Kemal Paşa'
+  başlıklı makalesiyle Japon basınındaki yazı dizisini noktaladı.
 caveat: >-
   Bibliyografya yalnızca başlıkları listelemektedir; hiçbir makale okunmamıştır. 2026-10-29 tarihinde
   düzeltildi: Shimizu 2013'e göre süreli yayın Shin-Ajia 1(2)'dir (önceki kayıtta Koron, Aralık deniyordu); ay
@@ -22,7 +21,7 @@ translated_by: "machine: gemini-4-argon-medium"
 source_fingerprints:
   voice: a0dc18cc6f31
   role: 4108d2f6828d
-  summary: 8ab5f923fc74
+  summary: aa1ea9f9317f
   caveat: 82dd3fda863d
   mediated_by: e32d2250c13f
   verification_note: e8025c2db22a

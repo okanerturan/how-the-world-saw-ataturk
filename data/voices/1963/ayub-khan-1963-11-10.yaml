@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ayub-khan-1963-11-10
+voice: Ayub Khan
+voice_type: person
+role: President of Pakistan; message for the 25th anniversary of Atatürk's death
+country: Pakistan
+country_now: Pakistan
+domain: politics
+date: "1963-11-10"
+era: posthumous
+polarity: admiring
+intensity: 3
+mirror: anti-colonial-liberator
+artifact: quote
+evidence: J
+summary: >-
+  One of the greatest men of all ages: a military genius, loved by Muslims everywhere, who set Turkey back on
+  the road to greatness.
+quote:
+  text: >-
+    Kemal Atatürk, yalnız bu asrın en büyük adamlarından biri değildir. Biz Pakistan'da O'nu, gelmiş geçmiş
+    bütün çağların en büyük adamlarından biri olarak görüyoruz. Askeri bir dehâ, doğuştan bir lider ve büyük
+    bir vatanperver olan Kemal Atatürk, memleketinizi yeniden büyüklük yoluna koydu. O, yalnız sizin
+    milletinizin sevgili lideri değildi. Dünyadaki bütün Müslümanlar gözlerini sevgi ve hayranlık hisleriyle
+    O'na çevirmişlerdi. O, Müslüman dünyasında yeniden siyasi uyanış istikametinde ileriye doğru cesur bir
+    adım atan bir avuç insandan biriydi.
+  translation: >-
+    Kemal Atatürk is not only one of the greatest men of this century. We in Pakistan see him as one of the
+    greatest men of all ages. A military genius, a born leader and a great patriot, Kemal Atatürk set your
+    country once more on the road to greatness. He was not the beloved leader of your nation alone: all the
+    Muslims of the world turned their eyes to him with love and admiration. He was one of the handful of men
+    who took a bold step forward towards a new political awakening in the Muslim world.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 10 Nov 1963, p. 1 ('Bütün dünya anıyor…') with continuation on p. 7: the paper's Turkish rendering
+  of a message for the 25th anniversary of Atatürk's death
+caveat: >-
+  One of ten leaders' messages Milliyet printed on 10 Nov 1963 for the 25th anniversary (seven on p. 1, three
+  on p. 7). Kennedy's (kennedy-1963-11) was a recorded message requested by the Turkish government, so the
+  others were probably solicited the same way. Original-language text not seen. Read on the page image
+  (Milliyet's subscriber archive).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1963.11.10
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 10 Nov 1963 pp. 1, 7, page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

@@ -5,9 +5,8 @@ id: mustafa-cokay-1931
 voice: Mustafa Çokay
 role: Kazak Türkistan özerkliği lideri, sürgündeki editör
 summary: >-
-  Üç tek partili devleti karşılaştırdı, Kemalist Türkiye'nin ilerici politikalarından memnun kaldı (özetin
-  ifadesiyle: bir mucize ile küllerinden yeniden doğan bir ülke) ve dergisi yasaklandıktan sonra da Atatürk'ün
-  Türkistan'a verdiği manevi desteği övmeyi sürdürdü.
+  Üç tek partili devleti karşılaştırırken Kemalist Türkiye'nin ilerici politikalarından memnun kaldı ve
+  dergisi yasaklandıktan sonra da Atatürk'ün Türkistan'a verdiği manevi desteği övmeyi sürdürdü.
 caveat: >-
   'From its ashes by a miracle' ifadesi Çokay'a değil, özet yazarına aittir. Yalnızca özet ve kaynakça
   mevcuttur: 1931 tarihi kaynakça listesindeki Prométhée kaydından alınmıştır; iddia edilen 1938 tarihli vefat
@@ -21,7 +20,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: c3642d7b756a
   role: 535bd6387a0f
-  summary: f9e8139c99f5
+  summary: e4b885c0dc0a
   caveat: 8e5c00e1b80d
   verification_note: 99b377cd9f5e
   verification_method: ad8cee67138e

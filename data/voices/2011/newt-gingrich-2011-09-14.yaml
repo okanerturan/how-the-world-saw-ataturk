@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: newt-gingrich-2011-09-14
+voice: Newt Gingrich
+voice_type: person
+role: >-
+  Former Speaker of the US House; Republican presidential candidate; campaign press release on the Middle East
+country: United States
+country_now: United States
+domain: politics
+date: "2011-09-14"
+era: posthumous
+polarity: instrumental
+intensity: 1
+mirror: modernization-poster-child
+artifact: quote
+evidence: P
+summary: >-
+  Atatürk's ninety-year legacy of efforts 'to create a modern, open Turkey', invoked as the standard an
+  'increasingly Islamist' Erdoğan government is reversing.
+quote:
+  text: >-
+    The Turkish government has become increasingly Islamist in its language and policies and is rapidly
+    reversing the 90 year legacy of Ataturk's efforts to create a modern, open Turkey.
+  language: en
+caveat: >-
+  Campaign press release (American Presidency Project); Atatürk as a yardstick for criticising Erdoğan.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.presidency.ucsb.edu/documents/gingrich-campaign-press-release-the-emerging-crises-the-middle-east
+    archived: https://web.archive.org/web/20250808220459/https://www.presidency.ucsb.edu/documents/gingrich-campaign-press-release-the-emerging-crises-the-middle-east
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.presidency.ucsb.edu/documents/gingrich-campaign-press-release-the-emerging-crises-the-middle-east
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    Item 4 of the release.
+  checked_on: "2026-11-09"

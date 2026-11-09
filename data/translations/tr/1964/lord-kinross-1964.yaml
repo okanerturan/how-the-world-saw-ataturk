@@ -1,0 +1,37 @@
+# Turkish for data/voices/1964/lord-kinross-1964.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: lord-kinross-1964
+voice: Lord Kinross
+role: "İngiliz tarihçi; Atatürk: The Rebirth of a Nation (Weidenfeld & Nicolson, 1964)"
+quote: >-
+  İnsani açıdan Kemal, doğasında sevgi barındırmayan bir adamdı. İnsanları anlardı. Fakat onları sevmezdi. […]
+  Kemal, kariyerine, ülkesine ve başka erkeklerin dostluğuna bağlanmış bir adamdı; kadınlar onun için bir
+  oyalanma kaynağı, arzularının bir çıkış yolu ve erkeklik gururunu okşayan bir dürtü dışında pek az anlam
+  taşırdı. […] Kemal, gururu içinde, sevilmekten hoşlanırdı ve hayatı boyunca duygularını göstermekte ilk
+  adımı atan kadınları seçti. Ancak aşırı sevilmeye tahammül edemezdi […]
+quote_kind: translated
+summary: >-
+  Biyografi yazarının gözünden özel hayatındaki insan: 'doğasında sevgi barındırmayan', 'aşırı sevilmeye
+  tahammül edemeyen' biri.
+caveat: >-
+  Biyografinin ödünç verilebilir nüshalarının tam metin arama kesitlerinden bir araya getirilmiştir; sayfalar
+  tarafımızca görülmemiştir (Rustow, 'Atatürk as Founder of a State', n. 28, s. 164, 259 ve 391'i verir).
+  Rustow son cümleyi 'could not bear to be loved too much' olarak aktarır; Kinross'un baskısında 'endure'
+  geçmektedir. Ayrıca bkz. lord-kinross-1968-11-10.
+mediated_by: >-
+  1964 Londra baskısının archive.org tam metin arama kesitleri; sayfa numaraları Rustow 1968, n. 28'den
+verification_note: >-
+  9 Kasım 2026'da ikinci, bağımsız bir kontrolör tarafından kitabın birkaç nüshasının tam metin arama
+  kesitlerinde yeniden kontrol edildi: pasajlar kelimesi kelimesine oradadır; sayfalar görülmedi.
+verification_method: kesitler
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 3bf5345787c0
+  role: 489bfea31f9c
+  quote: 6e7d689c4273
+  summary: 04713153a937
+  caveat: 446d64d262b4
+  mediated_by: 55c9dfbb6eb4
+  verification_note: abab95a24f63
+  verification_method: 2ddb33e2935b

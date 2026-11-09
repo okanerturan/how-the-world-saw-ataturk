@@ -9,8 +9,8 @@ quote: >-
   Atatürk askerlerine yalnızca saldırmayı değil, ölmeyi de emretmişti.
 quote_kind: translated
 summary: >-
-  Gelibolu'daki Türk liderini büyük bir lider olmaya yazgılı bir adam olarak nitelendirir; Atatürk'ün
-  askerlerine yalnızca saldırmayı değil, ölmeyi de emrettiğini söyler.
+  Gelibolu'daki Türk lideri, askerlerine yalnızca taarruz etmeyi değil ölmeyi de emreden, büyük bir lider
+  olmaya yazgılı bir adam olarak nitelendirir.
 caveat: >-
   Alıntı aynı konuşmanın iki pasajını birleştirir (üç noktayla işaretlenmiştir; ilki adını anmaz, ikincisi
   Atatürk adını anar). Övgüden ziyade betimleyicidir; bu konuşmada 'Johnnies' sözleri alıntılanmamıştır.
@@ -34,7 +34,7 @@ source_fingerprints:
   voice: f8591a9a9cf0
   role: 9b6c72ab8fef
   quote: 992bb9fa366e
-  summary: c8765f27f8c0
+  summary: a8d2e80b3841
   caveat: bd38b111c65c
   verification_note: e0ff494cab3e
   verification_method: 3f8d2632cdf0

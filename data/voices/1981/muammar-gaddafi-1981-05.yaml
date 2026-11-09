@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: muammar-gaddafi-1981-05
+voice: Muammar Gaddafi
+voice_type: person
+role: >-
+  Leader of the Libyan Revolution; message of congratulation to Kenan Evren for the centenary of Atatürk's
+  birth
+country: Libya
+country_now: Libya
+domain: politics
+date: "1981-05"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  A great leader not only of the Turks but of the whole Islamic world and of the Arabs, who left unforgettable
+  memories and revolutions.
+quote:
+  text: >-
+    "Atatürk'ün hiçbir zaman unutulmayacak büyük anılar ve devrimler bıraktığını" belirtmiş, "Atatürk sadece
+    Türk ulusu için değil, tüm İslâm âlemi ve Araplar için de büyük bir liderdi" demiştir.
+  translation: >-
+    that 'Atatürk left great memories and revolutions that will never be forgotten', and: 'Atatürk was a great
+    leader not only for the Turkish nation but for the whole Islamic world and for the Arabs.'
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 21 May 1981, p. 9 ('Kaddafi: «Atatürk tüm İslam âlemi için büyük bir liderdi…»', foreign news
+  service), teaser on p. 1: Turkish rendering of his message
+caveat: >-
+  Arabic original not seen; the paper gives no date for the message (the centenary was 19 May, the report is
+  of 21 May). Mustafa Kemal had fought the Italians at Tobruk and Derna in 1911–12. Read on the page image
+  (Milliyet's subscriber archive).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1981.05.21
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 21 May 1981 p. 9, page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

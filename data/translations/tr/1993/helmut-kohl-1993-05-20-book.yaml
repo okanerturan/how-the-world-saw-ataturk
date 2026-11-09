@@ -1,0 +1,35 @@
+# Turkish for data/voices/1993/helmut-kohl-1993-05-20-book.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: helmut-kohl-1993-05-20-book
+voice: Helmut Kohl
+role: >-
+  Almanya Şansölyesi; Türkiye'ye yaptığı resmi ziyaret sırasında Anıtkabir Özel Defteri'ne yazdığı metin,
+  Ankara
+quote: >-
+  Ulusuna yol gösteren ve bizim kuşağımıza, izlenmesi gereken hedefleri gösteren dâhinin anısına
+quote_kind: original-turkish
+summary: >-
+  Ulusuna yol gösteren ve Kohl'ün kendi kuşağına izlenmesi gereken hedefleri gösteren bir dahi.
+caveat: >-
+  Almanca aslı görülmedi. Mölln kundaklama saldırısının ardından ve Almanya'nın Türkiye'ye yönelik
+  eleştirileri ortasında gerilimi yumuşatmayı amaçlayan 20 Mayıs 1993 ziyareti; ayrıca protokol dışı olarak
+  İnönü'nün kabrine de gitmiştir. İstanbul Üniversitesi konuşması (Bulletin) Atatürk hakkında kişisel bir
+  yargıda bulunmaksızın 'Atatürk Türkiyesi'ne teşekkür eder. Sayfa görüntüsünden okundu (Milliyet'in abonelere
+  açık arşivi).
+mediated_by: >-
+  Milliyet, 21 Mayıs 1993, s. 15 ('Kohl'den sıcak tavır', Ankara Milliyet): defter yazısının Türkçe aktarımı
+verification_note: >-
+  İkinci ve bağımsız bir denetçi tarafından yeni kırpılmış görüntüler üzerinden sayfa görüntüsünden okundu (9
+  Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: cfa7ce7368da
+  role: 18f8ec6d087e
+  quote: d18ac3170d8b
+  summary: 536004a233d9
+  caveat: 5ae53ebea628
+  mediated_by: 9b9c52fccd87
+  verification_note: 700af5de5e3f
+  verification_method: 1c3478366c90

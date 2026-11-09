@@ -1,0 +1,46 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ed-koch-1981-05-19
+voice: Ed Koch
+voice_type: person
+role: >-
+  Mayor of New York City; statement proclaiming 19 May 1981 Atatürk Day, printed in a full-page New York Times
+  advertisement
+country: United States
+country_now: United States
+domain: politics
+date: "1981-05-19"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: quote
+evidence: J
+summary: >-
+  One of the most inspiring leaders of the age, who put into practice many principles that embody humanity's
+  best ideals.
+quote:
+  text: >-
+    "Kemal Atatürk, zamanımızda insanlığın en iyi ideallerini temsil eden birçok prensibi uygulamaya koymuştur"
+  translation: >-
+    Kemal Atatürk put into practice many principles that represent the best ideals of humanity in our time
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 21 May 1981, p. 9 ('Atatürk'ün 100. doğum yılını kutlama törenleri ABD'de başladı', İskender
+  Songur): Turkish rendering of the statement over Koch's signature in a full-page New York Times
+  advertisement
+caveat: >-
+  A proclamation-style statement in a sponsored advertisement (sponsor not named in the report); the English
+  text was not seen. The report adds that the statement called Atatürk one of the most inspiring leaders of
+  the age (indirect speech). Read on the page image (Milliyet's subscriber archive).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1981.05.21
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 21 May 1981 p. 9, page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word.
+  checked_on: "2026-11-09"

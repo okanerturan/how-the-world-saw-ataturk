@@ -1,0 +1,33 @@
+# Turkish for data/voices/1968/dankwart-rustow-1968.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: dankwart-rustow-1968
+voice: Dankwart A. Rustow
+role: Amerikalı siyaset bilimci; 'Atatürk as Founder of a State', Daedalus 97, sayı 3 (1968)
+quote: >-
+  İkinci evre (1923-27), Kemal'in gençliğinin kişisel deneyimini bir bütün olarak Türkiye'nin kültürel
+  durumuyla ilişkilendirebildiği, diktatörlüğünü pekiştirme dönemiydi. Üçüncü evre (1927-38), ülkenin
+  tartışmasız hükümdarı olduğu, ancak daha önce çok keskin biçimde odaklanmış olan kişilik kaynaklarının
+  bulanıklaşmaya ve gerilemeye başladığı hayatının son on yılını kapsıyordu.
+quote_kind: translated
+summary: >-
+  Psikolojik bir portre: otoriteye karşı ikircikli tutumunu aşmayı başaran, ancak son on yılında kişiliği
+  'bulanıklaşmaya ve gerilemeye başlayan' yetenekli, içe kapanık bir general.
+caveat: >-
+  Daedalus'un 'Philosophers and Kings' sayısının Popular Prakashan (Bombay) tıpkıbasımının (1949 olarak
+  kataloglanmış) açık erişimli DLI taramasından okunmuştur. Makalenin sonundaki 'üçlü başarı' (kurtarıcı,
+  Cumhuriyet'in kurucusu, köklü reformcu) cümlesi iki sütunlu OCR'da bozulmuş olduğundan alıntılanmamış,
+  özetlenmiştir. Milliyet, 31 Ekim 1973'te onun bir yazısını yayımlamıştır (dankwart-rustow-1973-10-31).
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci, bağımsız bir kontrolör tarafından yeniden açılmıştır: alıntılanan metin
+  kelimesi kelimesine oradadır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 663e5a8cfaa5
+  role: 2ff5d4a0040a
+  quote: c392204c80a2
+  summary: c5c730dfd2de
+  caveat: 9e8de4e4ec9b
+  verification_note: e9eab29e687c
+  verification_method: 66d7e7f771bc

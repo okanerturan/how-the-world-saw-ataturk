@@ -1,0 +1,35 @@
+# Turkish for data/voices/1963/hayato-ikeda-1963-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hayato-ikeda-1963-11-10
+voice: Hayato Ikeda
+role: Japonya Başbakanı; Atatürk'ün ölümünün 25. yıldönümü mesajı
+quote: >-
+  Büyük Kemal Atatürk'ün vefatının 25. yıldönümü münasebeti ile Türk Milletinin ünlü liderine duyduğum derin
+  hayranlığı belirtmek ister ve Japon hükûmeti ve milletinin, Türk milletinin saadet ve refahı için beslediği
+  en hâlishane dilekleri Türk Milleti ve Hükûmetine ulaştırmanızı istirham ederim.
+quote_kind: original-turkish
+summary: Derin bir hayranlık duyduğunu ifade ettiği 'büyük' kişi ve 'Türk Milletinin ünlü lideri'.
+caveat: >-
+  Protokol mesajına yakındır; şahsına duyulan hayranlığı dile getirdiği için korunmuştur. Milliyet'in 25. yıl
+  dönümü dolayısıyla 10 Kasım 1963'te yayımladığı on lider mesajından biridir (yedisi s. 1'de, üçü s. 7'de).
+  Kennedy'ninki (kennedy-1963-11) Türk hükümetinin talebi üzerine kaydedilmiş bir mesajdı; diğerleri de
+  muhtemelen aynı şekilde istenmişti. Özgün dildeki metin görülmedi. Sayfa görüntüsünden okundu (Milliyet'in
+  abone arşivi).
+mediated_by: >-
+  Milliyet, 10 Kasım 1963, s. 7 ('Atatürk'ü anıyoruz' başlığı altındaki lider mesajları sütunu): Atatürk'ün
+  ölümünün 25. yıldönümü mesajının gazetede yer alan Türkçe aktarımı
+verification_note: >-
+  Yeni kırpılmış görüntüler üzerinden ikinci, bağımsız bir kontrolör tarafından sayfa görüntüsünden okundu (9
+  Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: aa1fd4a3b0ba
+  role: 8f1b0247e536
+  quote: 7c985b8b473e
+  summary: 0228cd3bc107
+  caveat: d7670e9a2bfe
+  mediated_by: faf6323ee271
+  verification_note: 700af5de5e3f
+  verification_method: 1c3478366c90

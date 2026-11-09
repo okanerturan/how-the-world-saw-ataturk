@@ -5,10 +5,8 @@ id: bakr-sidqi-1936
 voice: Bakr Sidqi
 role: Iraklı general; 1936 darbesinin lideri
 summary: >-
-  1936 darbesine liderlik etti; Sorby, hem onun hem de Hikmat Sulayman'ın, bağımsızlığını ancak ordusunu
-  yeniden teşkilatlandırarak koruyabilen 'Kemalist Türkiye'den ilham aldığını' yazar; Britannica (daha önce
-  kaydedildiği üzere) onun Irak ordusunu Kemalist çizgide yeniden teşkilatlandırdığını belirtir; haberlere
-  göre Ağustos 1937'de vurulduğunda Türkiye'ye uçmak üzereydi.
+  Irak'ın 1936 darbesine önderlik etti; Sorby onun 'Kemalist Türkiye'den ilham aldığını' yazar ve Ağustos
+  1937'de vurulduğunda bildirdiğine göre Türkiye'ye uçmak üzereydi.
 caveat: >-
   Yeniden kontrolde (2026-10-29) Britannica'ya erişilemedi, bu nedenle 'reorganised the army along Kemalist
   lines' ifadesi bu turda doğrulanamadı. Ağustos 1937 gezisi yalnızca Wikipedia'da yer alıyor (T, tek kaynak);
@@ -24,7 +22,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 14260972d982
   role: 0e2df20d57db
-  summary: 3bb1d79252f7
+  summary: 2506dcb10807
   caveat: 02a396d2379e
   verification_note: 48089871fe17
   verification_method: ad8cee67138e

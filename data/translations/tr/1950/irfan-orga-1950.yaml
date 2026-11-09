@@ -1,0 +1,40 @@
+# Turkish for data/voices/1950/irfan-orga-1950.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: irfan-orga-1950
+voice: İrfan Orga
+role: >-
+  İngiltere'de yaşayan Türk hava subayı ve yazar; Atatürk'le tanışmasını anlatan bir anı kitabı olan Portrait
+  of a Turkish Family (1950)
+quote: >-
+  O zayıf, fanatik yüzün, düşmanlarının bile ona pek çok şeyi bağışlamasını sağlayan göz kamaştırıcı bir
+  gülümsemeyle nasıl aydınlanabildiğini ve daha sık olarak, gözler karanlık, kasvetli ve meydan okur halde
+  kalırken birbirine bastırılmış dudakların nasıl gülümsediğini hatırladım. […] o kadar aniden yumuşayabilen
+  sert gözleri, omuza konan sıcak karşılayıcı eli ve eğlenen, sert sesiyle 'Ee, Teğmen, hâlâ Hava
+  Kuvvetleri'ni yönetiyor musun?' diyen uzun boylu, haşin lider. Resmi vesilelerle etrafındaki törensizlik
+  belki de onun sabırsız, otokratik mizacına pek uygun değildi, ama bazen sadelik takındığı olurdu.
+quote_kind: translated
+summary: >-
+  Göz kamaştırıcı bir gülümsemeye ve 'sabırsız, otokratik bir mizaca' sahip 'zayıf, fanatik bir yüz';
+  kendisiyle tanışmış olan Orga, 'sanki bir dost gitmiş gibi' yas tutmuştu.
+caveat: >-
+  28. Bölüm, Kasım 1938 üzerine; Eland baskısının sayfa numarası bulunmayan dijitalleştirilmiş metninden
+  okunmuştur. Daha sonraki Atatürk kitabı (Margarete Orga ile birlikte, Michael Joseph, 1962), Ateş Orga'nın
+  sonsözüne göre, 'Atatürk'ün karakterini betimlemek için kullanılan sözler' ('the words used to describe
+  Ataturk's character') nedeniyle Türkiye Büyükelçiliği'nin protestosuna yol açmıştır (Evening Standard, Ocak
+  1962).
+verification_note: >-
+  Kaynak, 9 Kasım 2026'da ikinci ve bağımsız bir kontrolör tarafından yeniden açıldı: alıntılanan metin
+  kelimesi kelimesine oradadır. Eland baskısının dijitalleştirilmiş metninden okunmuş ve archive.org'daki 1950
+  ve 1988 basılı nüshalarında tam metin aramasıyla çapraz kontrol edilmiştir; basılı metinde 'Lieutenant'
+  büyük harfle yazılmıştır.
+verification_method: tam metin
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 2483dce7401e
+  role: 7b7290d53f5a
+  quote: f4bc39cf9955
+  summary: 49381961ce2a
+  caveat: 249d691cd854
+  verification_note: 1e859ff20468
+  verification_method: 66d7e7f771bc

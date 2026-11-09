@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: johannes-rau-2000-04-06
+voice: Johannes Rau
+voice_type: person
+role: >-
+  Federal President of Germany; state visit to Turkey: dinner given by President Demirel and honorary
+  doctorate at METU, Ankara
+country: Germany
+country_now: Germany
+domain: politics
+date: "2000-04-06"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  A founder committed to the spirit of the Enlightenment, which Rau reads as including democracy, human rights
+  and cultural freedom.
+quote:
+  text: >-
+    Der Geist der Aufklärung, dem sich Atatürk verpflichtet fühlte, schließt Demokratie, Menschenrechte,
+    positive Religionsfreiheit und auch die Freiheit ein, die eigenen kulturellen Traditionen zu pflegen. […]
+    Sie folgten dem Ruf Kemal Atatürks, der die Bedeutung von Wissenschaft und freier akademischer Forschung
+    für ein modernes Staatswesen erkannt hatte. […] So wie Kemal Atatürk die Republik auf prinzipielle Werte
+    gründete und deren Respekt durchsetzte, so verhält sich auch die Europäische Union.
+  translation: >-
+    The spirit of the Enlightenment, to which Atatürk felt committed, includes democracy, human rights,
+    positive religious freedom and also the freedom to cultivate one's own cultural traditions. […] They
+    followed the call of Kemal Atatürk, who had recognised the importance of science and free academic
+    research for a modern state. […] Just as Kemal Atatürk founded the Republic on principled values and
+    enforced respect for them, so does the European Union.
+  language: de
+caveat: >-
+  First sentence from the dinner speech, the others from the METU speech (on the German émigré scholars of the
+  1930s), both 6 Apr 2000. Partly instrumental: the 'Enlightenment' reading supports the human-rights and
+  minority-culture message of the visit.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2000/04/20000406_Rede.html
+  - url: https://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2000/04/20000406_Rede2.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    https://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2000/04/20000406_Rede.html
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    Both speeches are dated Ankara, 6 April 2000.
+  checked_on: "2026-11-09"

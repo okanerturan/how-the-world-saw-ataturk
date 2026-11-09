@@ -1,0 +1,43 @@
+# Turkish for data/voices/1967/haile-selassie-1967-03-04.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: haile-selassie-1967-03-04
+voice: Haile Selassie
+role: Etiyopya İmparatoru; Türkiye'ye devlet ziyareti, Anıtkabir'e çelenk koyma töreni, Ankara
+quote: >-
+  «Atatürk'ün yapmış olduğu işler karşısında bu çelengin hiç bir önemi yoktur. Ben sadece uzun zaman
+  dayanamıyacak çiçekler yerine bunu tercih ettim.» […] «Hayatını vatanına ve milletine vakfetmiş olan Türk
+  halkının kurtarıcısı Kemal Atatürk'ün nihaî istirahatgâhını ziyaret ettik. Memleketi için yaptığı hizmetler
+  bütün dünya için çok güzel bir örnek teşkil etmiştir.»
+quote_kind: original-turkish
+summary: >-
+  Türk halkının kurtarıcısı, hizmeti bütün dünyaya örnek olan lider; eserlerinin yanında gümüş bir çelengin
+  hiçbir anlamı yoktur.
+caveat: >-
+  Ankara'ya varışının ertesi günü, 4 Mart 1967'de ('dün') Anıtkabir'de; gazete önce çelenkle ilgili cevabını,
+  ardından plaketi, sonra da özel defterdeki yazısını yayımlamıştır. Kendi emriyle Türkçe yazılan çelenk
+  plaketinde de Atatürk, "Türkiye'yi modernleştirmek için yaptığı örnek çalışmalarla daima herkesin
+  hafızasında yaşayacak olan ve hayatını milletinin menfaatine, asaletine ve refahına vakfetmiş bulunan"
+  sözleriyle anılmaktadır. Özel defterdeki yazının özgün dilindeki metni görülmemiştir; Türkiye-Etiyopya
+  Dostluk Platformu çelengi ve hediyeleri Ocak 2023'te sergilemiştir. Sayfa görüntüsünden okunmuştur (Milliyet
+  abone arşivi).
+mediated_by: >-
+  Milliyet, 5 Mart 1967, s. 1 ('Selasiye, Anıt-Kabir'e gümüş çelenk koydu') ve s. 7 (devamı): çelengin özel
+  bir yerde saklanacağı söylendiğinde verdiği cevabın ve anında İngilizceye çevrilen özel defter yazısının
+  Türkçe aktarımı
+verification_note: >-
+  İkinci, bağımsız bir kontrolör tarafından yeni kırpılmış görüntüler üzerinden sayfa görüntüsünden okunmuştur
+  (9 Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir. Kontrolör, kendisinin 3
+  Mart'ta Ankara'da bulunduğunu ve çelenk töreninin 4 Mart için planlandığını bildiren bir önceki günkü
+  nüshayı da (4 Mart 1967, s. 7) okumuştur.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: d4e0d29bc174
+  role: d6107e9db74a
+  quote: e65a639c8cb5
+  summary: 9f53a6159a9b
+  caveat: d3190de8f235
+  mediated_by: 241acc14ca38
+  verification_note: f8d726e8f2df
+  verification_method: 1c3478366c90

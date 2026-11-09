@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: irfan-orga-1950
+voice: Irfan Orga
+voice_type: person
+role: >-
+  Turkish air-force officer and writer in England; Portrait of a Turkish Family (1950), a memoir that
+  describes meeting Atatürk
+country: Turkey
+country_now: Turkey
+domain: letters
+date: "1950"
+era: posthumous
+polarity: conflicted
+intensity: 2
+artifact: memoir
+evidence: P
+summary: >-
+  A 'lean, fanatic's face' with a dazzling smile and an 'impatient, autocratic temperament'; Orga, who had met
+  him, grieved 'as if a friend had gone'.
+quote:
+  text: >-
+    I remembered how the lean, fanatic's face could light with a smile so dazzling that even his enemies
+    forgave him much and how, more frequently, the pressed-in lips smiled when the eyes remained dark and
+    sombre, challenging. […] the tall stern leader with the hard eyes that could so suddenly soften, the
+    welcoming hand on the shoulder and the amused, harsh voice that said: 'Well, Lieutenant, still running the
+    Air Force?' The lack of ceremony surrounding him upon formal occasions had not perhaps been in keeping
+    with his impatient, autocratic temperament, yet sometimes he had affected simplicity.
+  language: en
+caveat: >-
+  Chapter 28, on November 1938; read in a digitised text of the Eland edition, which has no page numbers. His
+  later Atatürk (with Margarete Orga, Michael Joseph, 1962) drew a Turkish Embassy protest against 'the words
+  used to describe Ataturk's character' (Evening Standard, Jan 1962), per Ateş Orga's afterword.
+node: Writers and Thinkers on Atatürk — Round 30 Sweep
+sources:
+  - url: https://archive.org/details/portraitofturkis00orga
+    citation: >-
+      Irfan Orga, Portrait of a Turkish Family (London: Gollancz, 1950; Eland, 1988), ch. 28, 'The Beginning
+      of the End'
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Digitised text of the Eland edition, ch. 28; archive.org full-text search of the 1950 (Macmillan) and 1988
+    (Eland) editions
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    Read in a digitised text of the Eland edition and cross-checked in full-text search of the 1950 and 1988
+    print editions on archive.org; 'Lieutenant' is capitalised in print.
+  checked_on: "2026-11-09"

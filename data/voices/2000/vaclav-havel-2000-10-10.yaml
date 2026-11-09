@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: vaclav-havel-2000-10-10
+voice: Václav Havel
+voice_type: person
+role: >-
+  President of the Czech Republic; toast at President Sezer's state dinner, Ankara, on the first Czech state
+  visit to Turkey
+country: Czech Republic
+country_now: Czech Republic
+domain: politics
+date: "2000-10-10"
+era: posthumous
+polarity: admiring
+intensity: 1
+mirror: modernization-poster-child
+artifact: speech
+evidence: P
+summary: >-
+  'The great Turkish statesman' whose founding decisions were brave and therefore painful; Turkey's
+  transformation can be 'a remarkable example' even for Czechs.
+quote:
+  text: >-
+    Dnešní Turecko je dědicem slavné anatolské civilizace a následovníkem demokratického, společenského,
+    kulturního a ekonomického reformního procesu, který je neodmyslitelně spjat s velkým tureckým státníkem
+    Mustafou Kemalem Atatürkem. […] Na počátku vaší cesty byla některá rozhodnutí vašeho prvního prezidenta
+    Atatürka. Byla to rozhodnutí odvážná a proto v některých ohledech poněkud bolestná.
+  translation: >-
+    The current Turkey is the inheritor of the famous Anatolian civilization, and advocates democratic,
+    social, cultural and economic reform processes which undoubtedly is linked with the great Turkish
+    Statesman Mustafa Kemal Ataturk. […] At the beginning of your path, some of the decisions were made by
+    your first President Ataturk. These decisions were quite brave and, therefore, in some sense quite
+    painful.
+  note: >-
+    official English text from the Prague Castle archive, which is loose: the Czech has Turkey as 'successor
+    to' the reform process, 'inseparably' linked with Atatürk, and decisions 'courageous and therefore
+    somewhat painful'
+  language: cs
+caveat: >-
+  Czech and English texts from the Prague Castle speech archive (Wayback copies of old.hrad.cz); the archived
+  Czech copy lacks diacritics, restored here.
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: http://web.archive.org/web/20041119040841/http://old.hrad.cz:80/president/Havel/speeches/2000/1010.html
+  - url: http://web.archive.org/web/20040220132041/http://old.hrad.cz:80/president/Havel/speeches/2000/1010_uk.html
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    http://web.archive.org/web/20040220132041/http://old.hrad.cz:80/president/Havel/speeches/2000/1010_uk.html
+  method: full text
+  note: >-
+    Source re-opened by a second, independent checker on 9 Nov 2026: the quoted text is there word for word.
+    Czech and official English texts both opened.
+  checked_on: "2026-11-09"

@@ -25,11 +25,13 @@ mediated_by: English translation (S. Colston) of the French letter, Greek World 
 caveat: >-
   English web translation, French original unseen; the speaker commanded the 1919-22 Greek policy Kemal
   defeated and the letter serves the Greek-Turkish settlement, so a reader may weigh it as instrumental; Nobel
-  archive record not re-read.
+  archive record not re-read. A Turkish translation of the full letter was first published in Turkey by Özgen
+  Acar, Milliyet 20 May 1981 p. 8 ('Venizelos, Atatürk'ü Nobel Barış Ödülü'ne aday göstermişti').
 node: Venizelos Nominates Kemal for the Nobel Peace Prize, 1934
 sources:
   - url: https://greekworldmedia.com/2017/03/19/nomination-letter-by-eleftherios-k-venizelos-for-the-conferral-of-the-nobel-peace-prize-upon-mustafa-kemal-pasha-ataturk
     archived: https://web.archive.org/web/20250414143713/https://greekworldmedia.com/2017/03/19/nomination-letter-by-eleftherios-k-venizelos-for-the-conferral-of-the-nobel-peace-prize-upon-mustafa-kemal-pasha-ataturk/
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1981.05.20
 verification:
   verdict: confirmed
   quote_found: true

@@ -3,33 +3,32 @@
 # yaml-language-server: $schema=../../../schema/translation.schema.json
 id: churchill-1929
 voice: Winston Churchill
-role: Eski Savaş Bakanı; The World Crisis kitabının yazarı
-quote: Harekâtları karmaşık ve ustacaydı.
+role: Maliye Bakanı (Savaş Bakanı 1919–21); The World Crisis kitabının yazarı
+quote: Harekatları karmaşık ve ustacaydı.
 quote_kind: translated
 summary: >-
-  Kemal'i bir 'Savaşçı Prens'in niteliklerine sahip 'Kaderin Adamı' ve 1922 taarruzunu 'ustaca' diye
-  nitelendirir; ancak ordusunu İzmir'in yakılmasıyla ilişkilendirir.
+  Kemal'i bir "Savaşçı Prens" niteliklerine sahip bir "Kader Adamı" ve 1922 taarruzunu "ustaca" olarak
+  nitelendirir, ancak ordusunu İzmir'in yakılmasıyla ilişkilendirir.
 caveat: >-
   Aynı ciltteki ikinci alıntı, s. 367-368: 'Mustapha Kemal, the Man of Destiny whom we have met in these
   volumes on the Gallipoli Peninsula ... was furnished with the power, as he already possessed the qualities,
-  of a Warrior Prince.' s. 419'da aynı yazar, Kemal'in ordusu hakkında 'celebrated their triumph by the
-  burning of Smyrna to ashes and by a vast massacre of its Christian population' diye yazar; dolayısıyla kitap
-  generale karşı hem hayranlık duymakta hem de sonuca karşı düşmanca bir tutum sergilemektedir. Sayfa
-  numaraları 1929 Thornton Butterworth baskısının djvu metnindeki (OCR) üst başlıklardan alınmıştır;
-  alıntılanan satır için s. 418. Mevcut churchill-1920 kaydı Avam Kamarası'ndaki farklı ve düşmanca bir
-  beyandır.
+  of a Warrior Prince.' Aynı yazar s. 419'da Kemal'in ordusunun 'celebrated their triumph by the burning of
+  Smyrna to ashes and by a vast massacre of its Christian population' diye yazar; dolayısıyla kitap hem
+  generale hayranlık duymakta hem de sonuca düşmanca yaklaşmaktadır. Sayfa numaraları 1929 Thornton
+  Butterworth baskısının djvu metninin (OCR) üst bilgi başlıklarından alınmıştır; alıntılanan satır için s.
+  418. Mevcut churchill-1920 kaydı, Avam Kamarası'ndaki farklı ve düşmanca bir açıklamadır.
 verification_note: >-
-  s. 418'de birebir aynıdır ('His operations were complicated and masterly.'). Uyarı notundaki alıntılar da
-  birebir aynıdır: 'Mustapha Kemal, the Man of Destiny ... was furnished with the power, as he already
-  possessed the qualities, of a Warrior Prince' (s. 367-368) ve 'celebrated their triumph by the burning of
-  Smyrna to ashes and by a vast massacre of its Christian population' (s. 419). Önsöz 1 Ocak 1929 tarihlidir.
-  Çelişkili kutupluluk ve what_they_saw yerindedir. Düzeltme gerekmez.
+  S. 418'de birebir aynı ('His operations were complicated and masterly.'). Çekince alıntıları da birebir
+  aynı: 'Mustapha Kemal, the Man of Destiny ... was furnished with the power, as he already possessed the
+  qualities, of a Warrior Prince' (s. 367-368) ve 'celebrated their triumph by the burning of Smyrna to ashes
+  and by a vast massacre of its Christian population' (s. 419). Önsöz 1 Ocak 1929 tarihli. Çelişkili
+  kutupluluk ve what_they_saw adil. Düzeltme yok.
 verification_method: >-
-  archive.org djvu metninin curl ile çekilmesi; grep ile arama ve üst başlıklarla birlikte bağlamın okunması
+  archive.org djvu metninin curl ile çekilmesi; üst bilgi başlıklarıyla grep ve bağlam okuması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 12253b5990a1
-  role: 5c5f352854ad
+  role: 76c1c58c1717
   quote: 83304191cf4d
   summary: 6ad8f4dbeb2f
   caveat: bf1a25d768dc

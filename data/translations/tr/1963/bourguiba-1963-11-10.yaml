@@ -1,0 +1,43 @@
+# Turkish for data/voices/1963/bourguiba-1963-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: bourguiba-1963-11-10
+voice: Habib Bourguiba
+role: Tunus Cumhurbaşkanı; Atatürk'ün ölümünün 25. yıldönümü mesajı
+quote: >-
+  Milletimiz «Gazi» nin ölmez eseri için en büyük hayranlığı duymakta, hâtırasına da en büyük hürmeti
+  beslemektedir. Biz O'nun şahsında, savaş meydanlarında, büyük bir asker olduğunu ispat ettikten sonra,
+  herşeyin tamamen kaybolduğu zannedildiği bir anda, milletinden ümidini kesmeyi ve mağlûbiyeti kabul etmeyi
+  şiddetle reddeden Tanrının seçtiği büyük insanı tebcil ediyoruz. […] Atatürk böylece, ölümü esarete tercih
+  eden bir milletin neler yapabileceğini hayretler içinde bulunan dünyaya göstermiştir. Bu örnek
+  unutulmayacaktır. Memleketinin eğemenliğinin mimarı olarak, biz Atatürk'ün şahsında, parçalanmak yolunda
+  olan bir İmparatorluğun enkazı üstünde ilerlemeye yönelmiş, müessir ve modern bir devlet kurmuş devrimciye
+  hayranlık duymaktayız. O'nun ölmez eseri, egemenliklerini elde etmiş milletlerin kaderlerine hükmedenler
+  için ışıklı bir örnek ve bir ilham kaynağı olarak kalacaktır.
+quote_kind: original-turkish
+summary: >-
+  Her şey kaybedilmiş görünürken yenilgiyi reddeden, ülkesinin egemenliğini yeniden kuran ve modern bir devlet
+  inşa eden 'Gazi': yeni bağımsızlığına kavuşmuş uluslar için bir ilham kaynağı.
+caveat: >-
+  Derlemede ayrıca 1965 Ankara konuşması da yer almaktadır (bourguiba-1965-03-25). 'eğemenliğinin' sayfadaki
+  yazılıştır. Milliyet'in 25. yıl dönümü dolayısıyla 10 Kasım 1963'te yayımladığı on lider mesajından biridir
+  (yedisi s. 1'de, üçü s. 7'de). Kennedy'ninki (kennedy-1963-11) Türk hükümetinin talebi üzerine kaydedilmiş
+  bir mesajdı; diğerleri de muhtemelen aynı şekilde istenmişti. Özgün dildeki metin görülmedi. Sayfa
+  görüntüsünden okundu (Milliyet'in abone arşivi).
+mediated_by: >-
+  Milliyet, 10 Kasım 1963, s. 1 ('Bütün dünya anıyor…') ve s. 7'deki devamı: Atatürk'ün ölümünün 25. yıldönümü
+  mesajının gazetede yer alan Türkçe aktarımı
+verification_note: >-
+  Yeni kırpılmış görüntüler üzerinden ikinci, bağımsız bir kontrolör tarafından sayfa görüntüsünden okundu (9
+  Kasım 2026): alıntılanan metin sayfayla kelimesi kelimesine örtüşmektedir.
+verification_method: sayfa görüntüsü
+translated_by: "machine: Gemini 4 Argon (2026-11-08)"
+source_fingerprints:
+  voice: 11bf5bc01517
+  role: 9f171c7707dd
+  quote: 0b58f491ca0c
+  summary: 37201982529f
+  caveat: 2f59eddcbef5
+  mediated_by: 76b8b66f163f
+  verification_note: 700af5de5e3f
+  verification_method: 1c3478366c90

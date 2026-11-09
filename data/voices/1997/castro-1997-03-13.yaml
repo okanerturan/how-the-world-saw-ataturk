@@ -14,9 +14,8 @@ intensity: 2
 artifact: meeting
 evidence: P+J+J
 summary: >-
-  A great man and a great soldier who somehow beat the British, a soldier and a thinker who entered history;
-  told that Atatürk changed the Turkish script, Castro said he himself could not have made such a change in
-  the order of things.
+  A great man and great soldier who beat the British; told of the script reform, Castro said he could not have
+  made such a change.
 quote:
   text: >-
     "Atatürk büyük insan, büyük asker İngilizleri nasıl yendi?" durakladı... tekrar; "onları nasıl yendi?"
@@ -24,6 +23,7 @@ quote:
   translation: >-
     Atatürk, a great man, a great soldier — how did he beat the British?' He paused… again: 'How did he beat
     them?' 'Atatürk, soldier and man of ideas, has gone down in history as an important person.
+  is_translation: true
   language: tr
 mediated_by: >-
   Mehmet Domaç (president of the Turkish Pharmacists' Association), notes taken during the audience in a

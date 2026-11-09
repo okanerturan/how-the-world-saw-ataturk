@@ -7,8 +7,8 @@ role: Bataviaasch Nieuwsblad muhabiri
 quote: demir irade, büyük zekâ ve bu Doğu için gerekli olan acımasızlık ile
 quote_kind: translated
 summary: >-
-  1920-21 Ankara anısı: demir irade, büyük zekâ ve bu Doğu için gerekli olan acımasızlık; hocalar, din
-  adamlarına duyduğu nefret; 'Doğu kurnazlığıyla' eski usullerin gizli takipçileri.
+  1920-21 Ankara'sına dair anılar: demir bir irade, büyük bir zekâ ve bu Doğu için gerekli olan acımasızlık;
+  din adamlarına duyduğu nefret; gizlice sürdürülen eski adetler.
 caveat: >-
   Alıntı bir başlık değil, Felemenkçe gövde metnidir (açıklaması: demir irade, büyük zekâ, bu Doğu için
   gerekli olan acımasızlık); OCR başlık veya yazar adı döndürmediğinden 'G. Nypels' ve 'Bij den dood van Kemal
@@ -25,7 +25,7 @@ source_fingerprints:
   voice: 1fa9bd33eff9
   role: 4eeba9a84610
   quote: d31b8fd41e12
-  summary: f64b2af05389
+  summary: c0b68d4bda69
   caveat: 15cab794bf31
   verification_note: a771a98202c4
   verification_method: ad8cee67138e

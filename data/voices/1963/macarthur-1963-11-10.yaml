@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: macarthur-1963-11-10
+voice: Douglas MacArthur
+voice_type: person
+role: General of the Army (retired); message for the 25th anniversary of Atatürk's death
+country: United States
+country_now: United States
+domain: military
+date: "1963-11-10"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: quote
+evidence: J
+summary: >-
+  A soldier-statesman, one of the greatest leaders of the age; MacArthur is 'very proud to be one of Atatürk's
+  loyal friends'.
+quote:
+  text: >-
+    Bu asker - devlet adamı, çağımızın en büyük liderlerinden biri idi. Kendisi, Türkiye'nin dünyanın en ileri
+    memleketleri arasında hak ettiği yeri almasını sağlamıştır. Keza O, Türklere, bir milletin büyüklüğünün
+    temel taşını teşkil eden, kendine güvenme ve dayanma duygusunu vermiştir. Ben Atatürk'ün sadık
+    arkadaşlarından biri olmakla büyük iftihar duyuyorum.
+  translation: >-
+    This soldier-statesman was one of the greatest leaders of our age. He secured for Turkey its deserved
+    place among the most advanced countries of the world. He also gave the Turks the sense of self-confidence
+    and self-reliance that is the cornerstone of a nation's greatness. I am very proud to be one of Atatürk's
+    loyal friends.
+  is_translation: true
+  language: tr
+mediated_by: >-
+  Milliyet, 10 Nov 1963, p. 1 ('Bütün dünya anıyor…'): the paper's Turkish rendering of a message for the 25th
+  anniversary of Atatürk's death
+caveat: >-
+  MacArthur met Atatürk in 1932 (macarthur-1932-09-27); he died five months after this message. One of ten
+  leaders' messages Milliyet printed on 10 Nov 1963 for the 25th anniversary (seven on p. 1, three on p. 7).
+  Kennedy's (kennedy-1963-11) was a recorded message requested by the Turkish government, so the others were
+  probably solicited the same way. Original-language text not seen. Read on the page image (Milliyet's
+  subscriber archive).
+node: World Leaders on Atatürk — Round 30 Sweep
+sources:
+  - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1963.11.10
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Milliyet 10 Nov 1963 p. 1, page image crops
+  method: page image
+  note: >-
+    Read on the page image by a second, independent checker on fresh crops (9 Nov 2026): the quoted text
+    matches the page word for word. The message is complete on p. 1.
+  checked_on: "2026-11-09"
