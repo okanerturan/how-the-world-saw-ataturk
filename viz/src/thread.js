@@ -440,8 +440,7 @@ function sheet(ei) {
     <div class="sc">${esc(when(g.date))} &nbsp;·&nbsp; ${esc(placeOf(g))}</div>
     <h3>${esc(voiceName(g))}</h3>
     <div class="role">${esc(roleOf(g))}</div>
-    ${q ? `<blockquote>“${esc(q)}”</blockquote>` : ''}
-    ${q ? `<div class="kind">${esc(tx('their_words'))}</div>` : ''}
+    ${q ? `<div class="kind">${esc(tx('their_words'))}</div><blockquote>“${esc(q)}”</blockquote>` : ''}
     ${showOrig ? `<p class="orig"><span class="sc">${esc(origLabel)}</span> “${esc(orig)}”</p>` : ''}
     ${g.quote_is_translation ? `<p class="mt">${esc(tx('only_translation'))}</p>` : ''}
     ${TR && tr.quote_kind === 'translated' ? `<p class="mt">${esc(tx('translated_note'))}</p>` : ''}

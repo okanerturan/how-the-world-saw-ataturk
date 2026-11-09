@@ -1,0 +1,4 @@
+/gazes*.json
+  Cache-Control: public, max-age=0, must-revalidate
+/photos/*
+  Cache-Control: public, max-age=86400

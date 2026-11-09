@@ -126,11 +126,11 @@ body[data-mode="read"] #faces, body.unwound #faces { opacity: 0.3; }
 #sheet .x { position: absolute; top: 8px; right: 12px; border: 0; background: none; font: 28px var(--serif); cursor: pointer; color: var(--ink); }
 #sheet h3 { margin: 4px 0 0; font-size: 34px; font-weight: 500; line-height: 1.02; }
 #sheet .role { margin-top: 5px; font-style: italic; color: var(--mute); }
-#sheet blockquote { margin: 16px 0 0; font-size: 22px; line-height: 1.3; }
+#sheet blockquote { margin: 4px 0 0; font-size: 22px; line-height: 1.3; }
 #sheet .orig { margin: 8px 0 0; font-style: italic; color: var(--mute); font-size: 15px; }
 #sheet .saw { margin: 14px 0 0; font-style: italic; color: #3f3a33; }
 #sheet .saw .sc { font-style: normal; margin-right: 4px; font-size: 12.5px; }
-#sheet .kind { margin-top: 4px; font-variant: all-small-caps; letter-spacing: 0.1em; font-size: 13px; color: var(--mute); }
+#sheet .kind { margin-top: 16px; font-variant: all-small-caps; letter-spacing: 0.1em; font-size: 13px; color: var(--mute); }
 #sheet .src .arch { font-size: 13px; color: var(--mute); }
 #sheet .edit { margin-top: 18px; padding-top: 10px; border-top: 1px solid var(--rule); font-size: 14.5px; display: flex; flex-wrap: wrap; gap: 4px 14px; }
 #sheet .edit a { color: var(--red); }

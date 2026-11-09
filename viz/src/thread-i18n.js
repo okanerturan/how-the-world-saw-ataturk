@@ -25,7 +25,7 @@ export const upper = (s, turkish) => (TR && turkish ? s.toLocaleUpperCase('tr') 
 // per-voice Turkish fields, only those still matching the English they were translated from
 export async function loadVoices(base) {
   if (!TR) return new Map();
-  try { return new Map(Object.entries(await (await fetch(`${base}gazes.tr.json`)).json())); } catch { return new Map(); }
+  try { return new Map(Object.entries(await (await fetch(`${base}gazes.tr.json?v=${__DATA_VERSION__}`)).json())); } catch { return new Map(); }
 }
 
 // put the page's static words into the chosen language
