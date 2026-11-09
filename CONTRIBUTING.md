@@ -47,7 +47,7 @@ In order of ease. A record's `summary` and `role` are written in English. If you
 
 You only need a GitHub account. Choose a form:
 
-- [Suggest a voice / Ses öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml): a voice that is not in the archive yet.
+- [Suggest a voice / Söz öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml): a voice that is not in the archive yet.
 - [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml): something wrong in a record.
 - [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml): a better Turkish wording.
 

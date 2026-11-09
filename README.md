@@ -68,7 +68,7 @@ The records are split into year folders because GitHub shows at most 1,000 files
 
 You can suggest a voice, report an error or fix a Turkish translation. You do not need to know Git or YAML for the first two.
 
-- **Open an issue** with one of the forms: [Suggest a voice / Ses öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml), [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml), [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml).
+- **Open an issue** with one of the forms: [Suggest a voice / Söz öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml), [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml), [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml).
 - **Or open a pull request** with a new or corrected file. This works in the browser.
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) first. It explains what counts as a voice, what evidence is needed, and how review works. The [code of conduct](CODE_OF_CONDUCT.md) applies in all project spaces.

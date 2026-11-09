@@ -2,13 +2,13 @@ English: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Katkıda Bulunma
 
-Bu arşiv, insanların kaynaklarda buldukları sesleri eklemesi ve gördükleri hataları düzeltmesiyle büyür. Bu sayfada nelerin kabul edildiği, hangi kanıtların gerektiği, bunların nasıl gönderileceği ve sonrasında ne olacağı anlatılmaktadır.
+Bu arşiv, insanların kaynaklarda buldukları sözleri eklemesi ve gördükleri hataları düzeltmesiyle büyür. Bu sayfada nelerin kabul edildiği, hangi kanıtların gerektiği, bunların nasıl gönderileceği ve sonrasında ne olacağı anlatılmaktadır.
 
 Issue (konu) ve pull request (çekme isteği) açıklamalarını Türkçe veya İngilizce yazabilirsiniz.
 
-## Ne bir ses sayılır?
+## Ne bir söz sayılır?
 
-Bir ses; kimliği belirli bir kişinin, gazetenin, kurumun veya topluluğun bilinen bir zamanda, işaret edebileceğiniz bir kaynakta Atatürk hakkında görüş bildirmesidir. Arşivde halihazırda yer alan bazı örnekler:
+Bir söz; kimliği belirli bir kişinin, gazetenin, kurumun veya topluluğun bilinen bir zamanda, işaret edebileceğiniz bir kaynakta Atatürk hakkında görüş bildirmesidir. Arşivde halihazırda yer alan bazı örnekler:
 
 - bir kişi: Rabindranath Tagore'un Kasım 1926'da İstanbul basınına Türkiye Cumhurbaşkanı'nın "bize uygarlığın yolunu gösterdiğini" söylemesi (`data/voices/1926/rabindranath-tagore-1926.yaml`);
 - bir gazete: İsveç'te yayımlanan günlük Aftonbladet gazetesinin Kasım 1938'deki yazısı (`data/voices/1938/aftonbladet-1938.yaml`);
@@ -25,7 +25,7 @@ Bir kayıt, tek bir andaki tek bir sestir. Aynı kişi onun hakkında farklı g�
 - Kaynağı olmayan veya gösterilen kaynağın ilgili metni içermediği iddialar.
 - Özel kişilerin sosyal medya paylaşımları.
 - Önerilerde veya yorumlarda yer alan hakaretler.
-- Bu arşiv için yazılmış her şey: bize yapılmış veya bizim isteğimiz üzerine verilmiş açıklamalar. Bir ses, arşivden bağımsız olarak var olan bir kaynaktan gelmelidir.
+- Bu arşiv için yazılmış her şey: bize yapılmış veya bizim isteğimiz üzerine verilmiş açıklamalar. Bir söz, arşivden bağımsız olarak var olan bir kaynaktan gelmelidir.
 - Kaynak olarak alıntı siteleri, söz derlemeleri ve üzerinde alıntı bulunan görseller. Bilinen bir sözün izi sürülebilir bir kaynağı yoksa, o kişinin sözü olarak arşive giremez. İlk nerede basıldığını bulabilirseniz, o kaynak bir katkıdır.
 
 ## Kanıt standartları
@@ -33,7 +33,7 @@ Bir kayıt, tek bir andaki tek bir sestir. Aynı kişi onun hakkında farklı g�
 - **Birincil kaynakları tercih edin:** konuşmacının kendi metni, dönemin bir gazetesi, meclis tutanağı, mektup, arşiv belgesi. Birincil kaynağı alıntılayan akademik bir kitap veya makale de uygundur; aktarım zincirini `mediated_by` alanına kaydedin, örneğin `"Toksoy 2006 ← Cumhuriyet 14 Nov 1938"`.
 - **Sayfa numarasını verin.** Kitap, dergi veya basılı gazete için sayfa (veya sütun ya da varak) numarasını belirtin. Web sitesi için bağlantıyı ve mümkünse [Wayback Machine](https://web.archive.org/) üzerindeki arşivlenmiş kopyasını verin.
 - **Özgün dilinde, birebir alıntı yapın.** Kelimeleri eski imla dahil kaynakta basıldığı şekliyle, olduğu gibi kopyalayın. Çıkarılan kelimeleri `…` ile gösterin. Alıntı İngilizce değilse, kendi alanına (`quote.translation`) İngilizce çevirisini ekleyin. Özgün metnin yerine çeviri koymayın.
-- **Özet bize aittir.** `summary`, ilgili sesin onda ne gördüğünü 25 veya daha az kelimeyle, İngilizce ve tarafsız biçimde yeniden ifade eden bir özettir. Ne söylediklerini aktarır ("Onu … olarak nitelendirdi", "… övdü", "… kınadı") ve bizim kendi yargımızı katmaz.
+- **Özet bize aittir.** `summary`, söz sahibinin onda ne gördüğünü 25 veya daha az kelimeyle, İngilizce ve tarafsız biçimde yeniden ifade eden bir özettir. Ne söylediklerini aktarır ("Onu … olarak nitelendirdi", "… övdü", "… kınadı") ve bizim kendi yargımızı katmaz.
 - **Şüphelerinizi yazın.** Yalnızca tek bir kaynak varsa, tarih yaklaşık ise veya sözün kime ait olduğu kesin değilse, bunu `caveat` alanında belirtin.
 - **Polarite (`polarity`), kaynağın gösterdiği şekliyle konuşmacının tutumudur.** Bizim konuşmacı hakkındaki görüşümüz veya Atatürk hakkındaki görüşümüz değildir.
 
@@ -47,11 +47,11 @@ Kolaydan zora doğru sıralanmıştır. Bir kaydın `summary` ve `role` alanlar�
 
 Yalnızca bir GitHub hesabına ihtiyacınız vardır. Bir form seçin:
 
-- [Suggest a voice / Ses öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml): henüz arşivde olmayan bir ses.
+- [Suggest a voice / Söz öner](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml): henüz arşivde olmayan bir söz.
 - [Correction / Düzeltme](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml): bir kayıttaki hatalı bir bilgi.
 - [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml): daha iyi bir Türkçe ifade önerisi.
 
-Bir ses önermeden önce, halihazırda mevcut olup olmadığını görmek için ismi [sergide](https://the-long-thread.pages.dev) veya bu depoda arayın. Bakımcı veya başka bir katkıda bulunan, uygun bir öneriyi kayda dönüştürür ve issue içinde bağlantısını paylaşır.
+Bir söz önermeden önce, halihazırda mevcut olup olmadığını görmek için ismi [sergide](https://the-long-thread.pages.dev) veya bu depoda arayın. Bakımcı veya başka bir katkıda bulunan, uygun bir öneriyi kayda dönüştürür ve issue içinde bağlantısını paylaşır.
 
 ### 2. Tarayıcı üzerinden dosya ekleyin veya düzenleyin
 
@@ -60,7 +60,7 @@ Herhangi bir yazılıma gerek yoktur; GitHub'ın web düzenleyicisi yeterlidir.
 Kayıt eklemek için:
 
 1. [Şablonu](data/templates/voice.yaml) açın, "Raw" düğmesine tıklayın ve tamamını kopyalayın.
-2. `data/voices/` dizinine gidin ve sesin tarihine ait yıl klasörünü açın, örneğin `data/voices/1938/`.
+2. `data/voices/` dizinine gidin ve sözün tarihine ait yıl klasörünü açın, örneğin `data/voices/1938/`.
 3. "Add file" ve ardından "Create new file" düğmesine tıklayın. GitHub önce depoyu çatallamanızı (fork) isteyecektir; kabul edin.
 4. Dosyaya `<id>.yaml` biçiminde ad verin, örneğin `firstname-lastname-1938.yaml`. İlgili yıl için henüz bir klasör yoksa, `data/voices/` dizininden başlayın ve dosya adından önce yılı ve eğik çizgiyi yazın, örneğin `1951/firstname-lastname-1951.yaml`; GitHub klasörü oluşturur.
 5. Şablonu yapıştırın ve doldurun. Kullanmadığınız isteğe bağlı satırları silin veya yorum satırı olarak bırakın.
@@ -120,13 +120,13 @@ Bir issue, yeni veya düzeltilmiş kayda verilen bir bağlantıyla ya da kabul e
 
 Bu arşiv Türkiye'den yayımlanmaktadır. 5816 sayılı Kanun (Atatürk Aleyhine İşlenen Suçlar Hakkında Kanun) uyarınca Atatürk'ün hatırasına alenen hakaret etmek suçtur.
 
-Arşiv, tarihsel seslerin onun hakkında ne söylediğini her biri kendi kaynağıyla birlikte belgeler. Buna karşıt veya düşmanca sesler de dahildir. Düşmanca bir görüş içeren kayıt; bunu kimin, ne zaman söylediğini ve nerede basıldığını tarafsız bir özet ve kısa, birebir bir alıntıyla aktarır. Konuşmacının görüşünü kaydeder; o görüşü benimsemez.
+Arşiv, tarihteki söz sahiplerinin onun hakkında ne söylediğini her biri kendi kaynağıyla birlikte belgeler. Karşıt veya düşmanca sözler de buna dahildir. Düşmanca bir görüş içeren kayıt; bunu kimin, ne zaman söylediğini ve nerede basıldığını tarafsız bir özet ve kısa, birebir bir alıntıyla aktarır. Konuşmacının görüşünü kaydeder; o görüşü benimsemez.
 
 Her katkı birleştirilmeden önce bakımcı tarafından incelenir. Kişisel görüş veya hakaret içeren issue'lar, pull request'ler ve yorumlar kapatılır. [Davranış kurallarına](CODE_OF_CONDUCT.md) bakın.
 
 ## Yapay zeka araçları
 
-Sesleri aramak, kaynak bulmak veya çeviri taslağı çıkarmak için yapay zeka araçlarını kullanabilirsiniz. Ancak kaynaktaki ilgili bölümü bizzat okumuş olmanız gerekir: özeti değil; sayfanın kendisini, taramasını veya basılı metni görmelisiniz. Kaynakta bizzat görmediğiniz bir alıntıyı asla göndermeyin. Yapay zeka araçları gerçek gibi görünen ama var olmayan alıntılar, sayfa numaraları ve kaynakçalar üretebilir.
+Sözleri aramak, kaynak bulmak veya çeviri taslağı çıkarmak için yapay zeka araçlarını kullanabilirsiniz. Ancak kaynaktaki ilgili bölümü bizzat okumuş olmanız gerekir: özeti değil; sayfanın kendisini, taramasını veya basılı metni görmelisiniz. Kaynakta bizzat görmediğiniz bir alıntıyı asla göndermeyin. Yapay zeka araçları gerçek gibi görünen ama var olmayan alıntılar, sayfa numaraları ve kaynakçalar üretebilir.
 
 Bir şeyi bulmanıza bir yapay zeka aracı yardımcı olduysa, bunu issue veya pull request içinde belirtin.
 

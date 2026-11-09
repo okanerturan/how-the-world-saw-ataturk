@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../schema/voice.schema.json
 #
-# Template for a new voice record / Yeni ses kaydı için şablon
+# Template for a new voice record / Yeni söz kaydı için şablon
 #
 # Save it as data/voices/<YYYY>/<id>.yaml: <YYYY> is the year in `date`, <id> is the `id` below.
 # data/voices/<YYYY>/<id>.yaml olarak kaydedin: <YYYY> `date` alanındaki yıl, <id> aşağıdaki `id` değeridir.

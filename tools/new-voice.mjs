@@ -31,7 +31,7 @@ for (let i = 0; i < argv.length; i++) {
 const [voice, date] = pos;
 if (!voice || !date || pos.length > 2) {
   fail('usage: npm run new -- "<voice name>" <date>   e.g. npm run new -- "Albert Lebrun" 1938-11-10',
-       'kullanım: npm run new -- "<ses adı>" <tarih>   örnek: npm run new -- "Albert Lebrun" 1938-11-10');
+       'kullanım: npm run new -- "<söz sahibinin adı>" <tarih>   örnek: npm run new -- "Albert Lebrun" 1938-11-10');
 }
 if (!DATE_RE.test(date)) {
   fail(`date "${date}" must be YYYY, YYYY-MM, YYYY-MM-DD or a decade like 1980s`,
@@ -92,7 +92,7 @@ function setKey(text, key, value) {
 
 const SKELETON = `${SCHEMA_LINE}
 # New voice record. Fill in every field below; see data/README.md. Write only what the source says.
-# Yeni ses kaydı. Aşağıdaki alanları doldurun; bkz. data/README.md. Yalnızca kaynağın söylediğini yazın.
+# Yeni söz kaydı. Aşağıdaki alanları doldurun; bkz. data/README.md. Yalnızca kaynağın söylediğini yazın.
 id:
 voice:
 voice_type:        # person | press | institution | collective

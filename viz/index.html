@@ -25,10 +25,10 @@
           var q = new URLSearchParams(location.search).get('lang'), m = q || localStorage.getItem('thread-lang');
           tr = m ? m === 'tr' : (navigator.languages || [navigator.language]).some(function (l) { return /^tr\b/i.test(l || ''); });
         } catch (e) {}
-        var S = tr ? {"head": "İplik burada çizilemedi.", "inapp": "Bu, bir uygulamanın yerleşik tarayıcısına benziyor; bu tür tarayıcılar sayfanın ihtiyaç duyduğu grafikleri genellikle kapatır.", "other": "Bu tarayıcı, bu sayfanın ihtiyaç duyduğu grafikleri başlatamadı.", "chrome": "Chrome’da açın", "open": "Tarayıcınızda açın", "retry": "tekrar deneyin"} : {
+        var S = tr ? {"head": "Sarmal burada çizilemedi.", "inapp": "Bu, bir uygulamanın yerleşik tarayıcısına benziyor; bu tür tarayıcılar sayfanın ihtiyaç duyduğu grafikleri genellikle kapatır.", "other": "Bu tarayıcı, bu sayfanın ihtiyaç duyduğu grafikleri başlatamadı.", "chrome": "Chrome’da açın", "open": "Tarayıcınızda açın", "retry": "tekrar deneyin"} : {
           head: 'The thread could not be drawn here.', inapp: 'This looks like an app’s built-in browser, which often switches off the graphics this page needs.',
           other: 'This browser could not start the graphics this page needs.', chrome: 'Open it in Chrome', open: 'Open it in your browser', retry: 'try again' };
-        if (tr) { var bt = document.getElementById('boot'); if (bt) bt.textContent = "Her ses dizgiye alınıyor…"; }
+        if (tr) { var bt = document.getElementById('boot'); if (bt) bt.textContent = "Her söz dizgiye alınıyor…"; }
         function show(detail) {
           var f = document.getElementById('fail');
           if (shown || !f || document.body.classList.contains('ready')) return;

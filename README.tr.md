@@ -2,18 +2,18 @@ English: [README.md](README.md)
 
 # Dünya Atatürk'ü nasıl gördü
 
-1919'dan 2026'ya Mustafa Kemal Atatürk hakkında belgelenmiş seslerden oluşan açık bir arşiv: onun hakkında kimin ne söylediği, nerede söylediği, bunun hangi kaynaktan geldiği ve o kaynağın bağımsız doğrulaması.
+1919'dan 2026'ya Mustafa Kemal Atatürk hakkında belgelenmiş sözlerden oluşan açık bir arşiv: onun hakkında kimin ne söylediği, nerede söylediği, bunun hangi kaynaktan geldiği ve o kaynağın bağımsız doğrulaması.
 
-Sesler; devlet başkanları, şairler, generaller, gazeteler, parlamentolar, din adamları, düşmanlar ve hayranlardan oluşuyor. Her kayıt, belirli bir andaki tek bir sesi konu alan küçük bir YAML dosyasıdır: konuşmacı, tarih, kısa ve tarafsız bir özet, kaynakta yer alıyorsa konuşmacının orijinal dildeki kendi sözleri, kaynak ve bu kaynağı yeniden açıp inceleyen bağımsız bir doğrulayıcının ulaştığı sonuç.
+Sözler; devlet başkanlarından, şairlerden, generallerden, gazetelerden, parlamentolardan, din adamlarından, düşmanlardan ve hayranlardan geliyor. Her kayıt, belirli bir andaki tek bir sözü konu alan küçük bir YAML dosyasıdır: konuşmacı, tarih, kısa ve tarafsız bir özet, kaynakta yer alıyorsa konuşmacının orijinal dildeki kendi sözleri, kaynak ve bu kaynağı yeniden açıp inceleyen bağımsız bir doğrulayıcının ulaştığı sonuç.
 
-**Sergi:** [the-long-thread.pages.dev](https://the-long-thread.pages.dev) (İplik, Türkçe ve İngilizce). Bu depodaki dosyalardan oluşturulmuştur.
+**Sergi:** [the-long-thread.pages.dev](https://the-long-thread.pages.dev) (Sarmal, Türkçe ve İngilizce). Bu depodaki dosyalardan oluşturulmuştur.
 
 ## Mevcut boyut
 
 | | |
 |---|---|
 | Kayıtlar | 913 |
-| Tekil ses adları (kişiler, gazeteler, kurumlar, gruplar) | 750 |
+| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 750 |
 | Günümüz ülkeleri ve bölgeleri (`country_now`) | 80; ayrıca Avrupa Birliği, Avrupa Konseyi ve UNESCO |
 | Kapsanan yıllar | 1919 – 2026 (96 yıl klasörü; yalnızca 1938'de 207 kayıt vardır) |
 | Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 29 dilde 786 |
@@ -36,7 +36,7 @@ Sonuçların açıklamaları [data/README.md](data/README.md#verdicts) dosyasın
 
 Sergide 907 kayıt gösterilmektedir. Diğer 6 kayıt ise doğrulaması başarısız olan (`not-found`, `contradicted`) 5 kayıt ile Atatürk'ün kendisi hakkında konuştuğu (`voice_type: self`) 1 kayıttır. Bunlar veri setinde kalmaya devam eder.
 
-Sesin Atatürk'e karşı tutumu (`polarity`): 468 hayranlık duyan (admiring), 135 ikircikli (conflicted), 127 araçsal (instrumental; konuşmacının kendi gündemine hizmet eden övgü), 120 düşmanca (hostile), 63 tanık (witness; bildiren veya katılan, belirtilmiş bir görüşü olmayan).
+Söz sahibinin Atatürk'e karşı tutumu (`polarity`): 468 hayranlık duyan (admiring), 135 ikircikli (conflicted), 127 araçsal (instrumental; konuşmacının kendi gündemine hizmet eden övgü), 120 düşmanca (hostile), 63 tanık (witness; bildiren veya katılan, belirtilmiş bir görüşü olmayan).
 
 ## Klasörlerin içeriği
 
@@ -60,18 +60,18 @@ GitHub bir klasörde en fazla 1.000 dosya gösterdiği için kayıtlar yıl klas
 - **Alıntılar birebirdir ve orijinal dilindedir.** Fransızca bir telgraf Fransızca, Rusça bir anı Rusça alıntılanır. İngilizce çevirisi kendi alanında hemen yanında yer alır.
 - **Özetler bize aittir ve bizim olarak işaretlenmiştir.** `summary` alanı en fazla 25 kelimelik tarafsız bir açımlamadır. Asla konuşmacının kendi sözleriymiş gibi sunulmaz.
 - **Her kayıt, yazarı dışında biri tarafından yeniden doğrulanır.** Doğrulayıcı, belirtilen kaynağı yeniden açar ve bulduklarını aynı dosyanın `verification` bloğuna kaydeder: sonuç, alıntının bulunup bulunmadığı, neyin okunduğu ve nasıl okunduğu.
-- **Hem hayranlık duyan hem de düşmanca sesler dahil edilir.** Belgelenmiş bir ses, görüşü ne olursa olsun kaydedilir. Düşmanca bir kayıt bunu kimin, ne zaman ve hangi kaynakta söylediğini belirtir. Arşivin değil, konuşmacının görüşünü kaydeder.
+- **Hem hayranlık dolu hem de düşmanca sözler dahil edilir.** Belgelenmiş bir söz, görüşü ne olursa olsun kaydedilir. Düşmanca bir kayıt bunu kimin, ne zaman ve hangi kaynakta söylediğini belirtir. Arşivin değil, konuşmacının görüşünü kaydeder.
 - **Şüpheler kayda geçirilir.** İkinci elden aktarım zincirleri `mediated_by` alanına, belirsizlikler `caveat` alanına yazılır. Doğrulaması başarısız olan kayıtlar veri setinde kalır ancak sergide gösterilmez.
 - **Türkçe çeviriler makine yapımıdır ve bu şekilde işaretlenmiştir.** Her çeviri dosyası bunu ilk satırında ve `translated_by` alanında belirtir. Düzeltmeler memnuniyetle karşılanır. Orijinali Türkçe olan metinler basıldıkları haliyle korunur.
 
 ## Nasıl katkıda bulunabilirsiniz
 
-Bir ses önerebilir, bir hata bildirebilir veya bir Türkçe çeviriyi düzeltebilirsiniz. İlk ikisi için Git veya YAML bilmenize gerek yoktur.
+Bir söz önerebilir, bir hata bildirebilir veya bir Türkçe çeviriyi düzeltebilirsiniz. İlk ikisi için Git veya YAML bilmenize gerek yoktur.
 
-- Formlardan biriyle **bir issue (konu) açın**: [Ses öner / Suggest a voice](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml), [Düzeltme / Correction](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml), [Çeviri düzeltmesi / Translation fix](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml).
+- Formlardan biriyle **bir issue (konu) açın**: [Söz öner / Suggest a voice](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=suggest-voice.yml), [Düzeltme / Correction](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=correction.yml), [Çeviri düzeltmesi / Translation fix](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml).
 - **Veya yeni ya da düzeltilmiş bir dosyayla bir pull request (çekme isteği) açın.** Bu işlemi doğrudan tarayıcıda yapabilirsiniz.
 
-Önce [CONTRIBUTING.tr.md](CONTRIBUTING.tr.md) dosyasını okuyun. Orada neyin bir ses sayıldığı, hangi kanıtların gerektiği ve inceleme sürecinin nasıl işlediği açıklanmaktadır. Tüm proje alanlarında [davranış kuralları](CODE_OF_CONDUCT.md) geçerlidir.
+Önce [CONTRIBUTING.tr.md](CONTRIBUTING.tr.md) dosyasını okuyun. Orada neyin bir söz sayıldığı, hangi kanıtların gerektiği ve inceleme sürecinin nasıl işlediği açıklanmaktadır. Tüm proje alanlarında [davranış kuralları](CODE_OF_CONDUCT.md) geçerlidir.
 
 ## Veriyi kullanma
 

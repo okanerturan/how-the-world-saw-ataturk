@@ -2,13 +2,13 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/okanerturan/how-the-world-saw-ataturk/main/data/schema/voice.schema.json",
   "title": "Voice record",
-  "description": "One documented voice on Atatürk at one moment: who spoke, when, what they saw in him, their own words, and the source. File: data/voices/<YYYY>/<id>.yaml.\n\nTR: Atatürk hakkında belgelenmiş bir ses, tek bir anda: kim konuştu, ne zaman, onda ne gördü, kendi sözleri ve kaynağı. Dosya: data/voices/<YYYY>/<id>.yaml.",
+  "description": "One documented voice on Atatürk at one moment: who spoke, when, what they saw in him, their own words, and the source. File: data/voices/<YYYY>/<id>.yaml.\n\nTR: Atatürk hakkında belgelenmiş bir söz, tek bir anda: kim konuştu, ne zaman, onda ne gördü, kendi sözleri ve kaynağı. Dosya: data/voices/<YYYY>/<id>.yaml.",
   "type": "object",
   "required": ["id", "voice", "voice_type", "role", "country", "country_now", "domain", "date", "polarity", "summary", "sources"],
   "additionalProperties": false,
   "properties": {
     "id": {
-      "description": "Unique id in kebab-case (lowercase letters, digits, hyphens), the same as the file name without .yaml. Convention: <voice-slug>-<year>, plus -<mm>, -<dd> or a word when needed to tell two apart. Example: rabindranath-tagore-1926.\n\nTR: Benzersiz kimlik; küçük harf, rakam ve tire. Dosya adıyla aynı (.yaml olmadan). Kural: <ses-adı>-<yıl>; iki kaydı ayırmak gerekirse -<ay>, -<gün> ya da bir sözcük eklenir. Örnek: rabindranath-tagore-1926.",
+      "description": "Unique id in kebab-case (lowercase letters, digits, hyphens), the same as the file name without .yaml. Convention: <voice-slug>-<year>, plus -<mm>, -<dd> or a word when needed to tell two apart. Example: rabindranath-tagore-1926.\n\nTR: Benzersiz kimlik; küçük harf, rakam ve tire. Dosya adıyla aynı (.yaml olmadan). Kural: <söz-sahibi>-<yıl>; iki kaydı ayırmak gerekirse -<ay>, -<gün> ya da bir sözcük eklenir. Örnek: rabindranath-tagore-1926.",
       "type": "string",
       "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
       "examples": ["rabindranath-tagore-1926"]
@@ -24,13 +24,13 @@
       "enum": ["person", "press", "institution", "collective", "self"]
     },
     "role": {
-      "description": "Short description of the voice, in English: \"Hungarian PM\", \"Prague daily\", \"Islamic reformer\".\n\nTR: Sesin kısa tanımı, İngilizce: \"Hungarian PM\", \"Prague daily\", \"Islamic reformer\".",
+      "description": "Short description of the voice, in English: \"Hungarian PM\", \"Prague daily\", \"Islamic reformer\".\n\nTR: Söz sahibinin kısa tanımı, İngilizce: \"Hungarian PM\", \"Prague daily\", \"Islamic reformer\".",
       "type": "string",
       "minLength": 1,
       "examples": ["Poet, Nobel laureate"]
     },
     "country": {
-      "description": "The voice's country (polity) at the time, e.g. \"British India\", \"Ottoman Empire\".\n\nTR: Sesin o tarihteki ülkesi (siyasi birim), ör. \"British India\", \"Ottoman Empire\".",
+      "description": "The voice's country (polity) at the time, e.g. \"British India\", \"Ottoman Empire\".\n\nTR: Söz sahibinin o tarihteki ülkesi (siyasi birim), ör. \"British India\", \"Ottoman Empire\".",
       "type": "string",
       "minLength": 1
     },
@@ -40,11 +40,11 @@
       "minLength": 1
     },
     "domain": {
-      "description": "The field the voice speaks from: politics · letters · arts · military · religion · science · press · sport · diplomacy.\n\nTR: Sesin konuştuğu alan: politics (siyaset) · letters (edebiyat) · arts (sanat) · military (askerlik) · religion (din) · science (bilim) · press (basın) · sport (spor) · diplomacy (diplomasi).",
+      "description": "The field the voice speaks from: politics · letters · arts · military · religion · science · press · sport · diplomacy.\n\nTR: Söz sahibinin konuştuğu alan: politics (siyaset) · letters (edebiyat) · arts (sanat) · military (askerlik) · religion (din) · science (bilim) · press (basın) · sport (spor) · diplomacy (diplomasi).",
       "enum": ["politics", "letters", "arts", "military", "religion", "science", "press", "sport", "diplomacy"]
     },
     "date": {
-      "description": "When the voice spoke, as a quoted string: \"YYYY\", \"YYYY-MM\", \"YYYY-MM-DD\", or a decade \"1980s\". Its first four characters are the year folder: data/voices/<YYYY>/.\n\nTR: Sesin konuştuğu tarih, tırnak içinde: \"YYYY\", \"YYYY-AA\", \"YYYY-AA-GG\" ya da on yıl \"1980s\". İlk dört karakteri yıl klasörüdür: data/voices/<YYYY>/.",
+      "description": "When the voice spoke, as a quoted string: \"YYYY\", \"YYYY-MM\", \"YYYY-MM-DD\", or a decade \"1980s\". Its first four characters are the year folder: data/voices/<YYYY>/.\n\nTR: Sözün söylendiği tarih, tırnak içinde: \"YYYY\", \"YYYY-AA\", \"YYYY-AA-GG\" ya da on yıl \"1980s\". İlk dört karakteri yıl klasörüdür: data/voices/<YYYY>/.",
       "type": "string",
       "pattern": "^(\\d{4}(-(0[1-9]|1[0-2])(-(0[1-9]|[12]\\d|3[01]))?)?|\\d{3}0s)$",
       "examples": ["1938-11-10", "1926-11", "1934", "1980s"]
@@ -54,7 +54,7 @@
       "enum": ["contemporary", "funeral", "posthumous"]
     },
     "polarity": {
-      "description": "How the voice stands toward him: admiring · hostile · conflicted · instrumental (praise serving the speaker's own agenda) · witness (reports or attends, no stated view).\n\nTR: Sesin ona karşı tutumu: admiring (hayran) · hostile (düşmanca) · conflicted (çelişkili) · instrumental (konuşanın kendi amacına hizmet eden övgü) · witness (tanık; aktarır ya da katılır, görüş bildirmez).",
+      "description": "How the voice stands toward him: admiring · hostile · conflicted · instrumental (praise serving the speaker's own agenda) · witness (reports or attends, no stated view).\n\nTR: Söz sahibinin ona karşı tutumu: admiring (hayran) · hostile (düşmanca) · conflicted (çelişkili) · instrumental (konuşanın kendi amacına hizmet eden övgü) · witness (tanık; aktarır ya da katılır, görüş bildirmez).",
       "enum": ["admiring", "hostile", "conflicted", "instrumental", "witness"]
     },
     "intensity": {
@@ -83,7 +83,7 @@
       "enum": ["quote", "editorial", "article", "poem", "book", "speech", "policy", "visit", "telegram", "memoir", "artwork", "monument", "ceremony", "nomination", "broadcast", "report", "letter", "meeting"]
     },
     "evidence": {
-      "description": "Source tiers joined by +: P primary (the voice's own text, contemporary print) · S secondary scholarship · J journalism · F a figure's own later account · T tertiary/reference. Example: P+S.\n\nTR: + ile birleştirilmiş kaynak düzeyleri: P birincil (sesin kendi metni, dönemin basını) · S ikincil akademik çalışma · J gazetecilik · F bir kişinin sonradan kendi anlatımı · T üçüncül/başvuru kaynağı. Örnek: P+S.",
+      "description": "Source tiers joined by +: P primary (the voice's own text, contemporary print) · S secondary scholarship · J journalism · F a figure's own later account · T tertiary/reference. Example: P+S.\n\nTR: + ile birleştirilmiş kaynak düzeyleri: P birincil (söz sahibinin kendi metni, dönemin basını) · S ikincil akademik çalışma · J gazetecilik · F bir kişinin sonradan kendi anlatımı · T üçüncül/başvuru kaynağı. Örnek: P+S.",
       "type": "string",
       "pattern": "^[PSJFT](\\+[PSJFT])*$",
       "examples": ["P", "P+S", "S+J"]
@@ -107,7 +107,7 @@
       "type": "string"
     },
     "sources": {
-      "description": "Where the voice is documented: at least one source, each with a url or a citation.\n\nTR: Sesin belgelendiği yer: en az bir kaynak; her birinde url ya da citation bulunmalı.",
+      "description": "Where the voice is documented: at least one source, each with a url or a citation.\n\nTR: Sözün belgelendiği yer: en az bir kaynak; her birinde url ya da citation bulunmalı.",
       "type": "array",
       "minItems": 1,
       "items": { "$ref": "#/$defs/source" }
@@ -116,7 +116,7 @@
   },
   "$defs": {
     "quote": {
-      "description": "The voice's OWN words, verbatim as printed in the source, in the source's language.\n\nTR: Sesin KENDİ sözleri; kaynakta basıldığı gibi, harfi harfine, kaynağın dilinde.",
+      "description": "The voice's OWN words, verbatim as printed in the source, in the source's language.\n\nTR: Söz sahibinin KENDİ sözleri; kaynakta basıldığı gibi, harfi harfine, kaynağın dilinde.",
       "type": "object",
       "required": ["text"],
       "additionalProperties": false,

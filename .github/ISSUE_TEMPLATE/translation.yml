@@ -30,7 +30,7 @@ body:
         - mediated_by (aktarım zinciri)
         - verification_note (denetim notu)
         - verification_method (denetim yöntemi)
-        - voice (ses adı)
+        - voice (söz sahibinin adı)
         - other / diğer
     validations:
       required: true
