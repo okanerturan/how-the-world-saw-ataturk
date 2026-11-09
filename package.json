@@ -7,7 +7,8 @@
   "scripts": {
     "validate": "node tools/validate.mjs",
     "new": "node tools/new-voice.mjs",
-    "export": "node tools/export.mjs"
+    "export": "node tools/export.mjs",
+    "archive": "node tools/archive-sources.mjs"
   },
   "engines": {
     "node": ">=20"

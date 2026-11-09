@@ -46,7 +46,7 @@ who fix a translation add themselves to `reviewed_by`.
 
 Agents adding records follow the same rules as people: `npm run new -- "Voice" YYYY-MM-DD`, fill in the fields from
 the source, quote verbatim in the original language, add `sources` with page and an archived copy
-(`https://web.archive.org/save/<url>`), `npm run validate`. A different agent or person does the `verification`.
+(`npm run archive` finds or creates one), `npm run validate`. A different agent or person does the `verification`.
 The older pipeline and its brief are in `research/pipeline/` for reference.
 
 ## Publishing the exhibition
@@ -60,4 +60,5 @@ wrangler pages deploy viz/dist --project-name the-long-thread --branch main
 
 - 5 records have `quote.needs_split: true`: several passages and translations interleaved in one text.
 - Some voices appear under slightly different names across records; a shared voice list is planned.
-- Some sources have no archived copy yet.
+- Some sources have no archived copy yet: `npm run archive` adds existing Wayback snapshots, `npm run archive -- --save`
+  asks the Wayback Machine to save the rest (about one a minute; some sites refuse).
