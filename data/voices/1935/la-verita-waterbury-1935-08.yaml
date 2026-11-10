@@ -29,7 +29,14 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn95063190 1935-08-16 sp=3 page OCR
-  method: loc.gov JSON + tile OCR
-  note: Exact; comparison with Russia and Germany and Italy having no race struggle present.
-  checked_on: "2026-10-30"
+  checked_against: >-
+    La Verità, 16 August 1935, p. 3: the page scan and its OCR text (Library of Congress, Chronicling America
+    sn95063190)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
+  note: >-
+    The quoted clause was read on the scanned page and is verbatim; the paper writes the accent as an
+    apostrophe ("vi e'"). From the OCR text: the comparison with Russia and Germany, and Italy having no race
+    struggle.
+  checked_on: "2026-11-10"

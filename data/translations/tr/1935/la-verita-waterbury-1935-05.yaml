@@ -13,9 +13,12 @@ caveat: >-
   İmzasız köşe yazısı; gazetenin İtalyan Faşizmine bağlılığı bu pasajda görülmez. Alıntılanan yan cümle,
   gazetenin Astor'un konuşması hakkındaki yorumudur.
 verification_note: >-
-  Birebir aynı (OCR satır sonlarıyla); Astor'u över, tırnak içinde 'dittatore', haremden kurtarılan kadınlar,
-  yeniden kurulan siyasi birlik.
-verification_method: tile.loc.gov full_text
+  Alıntılanan cümlecik taranmış sayfadan okunmuştur ve birebir aynıdır ('supremo' kelimesi orada iki satıra
+  bölünmüştür). OCR metninden: Astor'u över, tırnak içinde 'dittatore' ifadesi, haremden kurtarılan kadınlar,
+  yeniden sağlanan siyasi birlik.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından alıntılanan sözlerin kütüphanenin görsel servisinden alınan
+  tarama kesitinden okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 56a4a962f5bd
@@ -23,5 +26,5 @@ source_fingerprints:
   quote: 0cb8797e323f
   summary: d86ce92af9a3
   caveat: bef0f0a81117
-  verification_note: a89722cc510b
-  verification_method: 0e07f3903a84
+  verification_note: 69af040a6d47
+  verification_method: 7f67ff34ed94

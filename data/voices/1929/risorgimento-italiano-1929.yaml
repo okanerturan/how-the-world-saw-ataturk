@@ -18,7 +18,7 @@ summary: >-
   energy, intuition and will.
 quote:
   text: >-
-    rinascita e vitalità dovute sopra tutto all’energia, all’intuito, alla volontà di Kemal Pascià
+    rinascita e vitalità dovute sopratutto all’energia, all’intuito, alla volontà di Kemal Pascià
   language: it
 caveat: >-
   Praise framed to celebrate Italy's pact policy (Fascist-era Italian diplomacy), hence instrumental; unsigned.
@@ -28,9 +28,15 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn89060332 1929-01-12 ed-1 (OCR, file 0213)
-  method: loc.gov JSON -> tile.loc.gov full_text OCR
+  checked_against: >-
+    Il Risorgimento Italiano nel Maryland, 12 January 1929, p. 4: the page scan and its OCR text (Library of
+    Congress, Chronicling America sn89060332)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Quote verbatim (headed 'Politica Italiana e Nuova Turchia'); OCR file number 0213 vs sp=4 not
-    independently mapped.
-  checked_on: "2026-10-30"
+    The quoted words were read on the scanned page. The paper prints 'sopra-tutto' across a line break, so the
+    word is 'sopratutto'; the OCR had made it two words. Page 4 is image file 0213 of the reel (the archived
+    Chronicling America pages give 0210 for page 1 and 0212 for page 3). The heading 'Politica Italiana e
+    Nuova Turchia' is from the OCR text.
+  checked_on: "2026-11-10"

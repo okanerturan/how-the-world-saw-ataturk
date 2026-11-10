@@ -15,15 +15,20 @@ caveat: >-
   Övgü, İtalya'nın pakt politikasını (Faşist dönem İtalyan diplomasisi) kutlamak üzere çerçevelenmiştir,
   dolayısıyla araçsaldır; imzasızdır.
 verification_note: >-
-  Alıntı birebir aynı ('Politica Italiana e Nuova Turchia' başlıklı); OCR dosya numarası 0213 ile sp=4
-  bağımsız olarak eşleştirilmemiştir.
-verification_method: loc.gov JSON -> tile.loc.gov full_text OCR
+  Alıntılanan sözler taranmış sayfadan okunmuştur. Gazete 'sopra-tutto' kelimesini satır sonu bölmesiyle
+  basmıştır, dolayısıyla kelime 'sopratutto' şeklindedir; OCR bunu iki ayrı kelime yapmıştır. 4. sayfa,
+  mikrofilm makarasının 0213 numaralı görüntü dosyasıdır (arşivlenmiş Chronicling America sayfaları 1. sayfa
+  için 0210'u ve 3. sayfa için 0212'yi vermektedir). 'Politica Italiana e Nuova Turchia' başlığı OCR
+  metnindendir.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından alıntılanan sözlerin kütüphanenin görsel servisinden alınan
+  tarama kesitinden okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: e426d9eba3ed
   role: 85cf22ec4b91
-  quote: f041947db7fe
+  quote: 57ae4ba013a5
   summary: e22cf5142709
   caveat: e4d9c68cda81
-  verification_note: a7a0c9409440
-  verification_method: 3285e0490d8a
+  verification_note: 995e6d0ae004
+  verification_method: 7f67ff34ed94

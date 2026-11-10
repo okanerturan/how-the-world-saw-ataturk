@@ -19,15 +19,22 @@ quote:
   text: risultati come quelli di Mussolini, Stalin, Kemal, Piluski e di altri dittatori riformisti
   language: it
 caveat: >-
-  Local-politics argument; Kemal used as one example of a reformist dictator; OCR 'Piluski', 'Tesperimento' in
-  the sentence's opening.
+  Local-politics argument; Kemal used as one example of a reformist dictator. 'Piluski' is the paper's own
+  spelling of Piłsudski and is kept as printed.
 node: America's Immigrant Press Reads Kemal, 1922–1938
 sources:
   - url: https://www.loc.gov/resource/sn84020351/1934-09-13/ed-1/?sp=4
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn84020351 1934-09-13 ed-1 seq 4 OCR
-  method: loc.gov JSON + tile.loc.gov full_text
-  note: Verbatim incl. OCR 'Piluski'; Stamford 'Strong Mayor' context confirmed.
-  checked_on: "2026-10-30"
+  checked_against: >-
+    La Sentinella, 13 September 1934, p. 4: the page scan and its OCR text (Library of Congress, Chronicling
+    America sn84020351)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
+  note: >-
+    Read on the scanned page: 'Se l'esperimento darà risultati come quelli di Mussolini, Stalin, Kemal,
+    Piluski e di altri dittatori riformisti'. The paper prints 'Piluski'; it is not an OCR slip. Stamford
+    'Strong Mayor' context confirmed in the OCR text.
+  checked_on: "2026-11-10"

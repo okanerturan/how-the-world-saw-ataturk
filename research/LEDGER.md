@@ -1826,3 +1826,15 @@ The archive began in July 1919 because nobody had looked earlier. One search for
 Not entered: Minber of 17 Nov 1918 (he was a partner in the paper, and Enver Ziya Karal thought the biographical introduction may have been dictated by him), Ahmet Hulki in Minber of 19 Nov 1918 (known only in Karal's modernised rendering), Mahmut Şevket Paşa's diary for Feb 1913 (third-hand and modernised), and Ruşen Eşref's 1918 interview (the known wording is from the 1930 book). No teacher's or classmate's text from his school years was found. The viewer of the Austrian newspaper collection sits behind a browser check, so three records rest on scan crops returned by its search, not on the whole page.
 
 In the exhibition, a record dated only to its year now follows that year's dated records.
+
+## Page scans re-read (2026-11-10): the Italian-language American weeklies
+
+The five Italian-language records from Chronicling America had been checked against the library's OCR text only. A contributor asked whether 'Piluski' in La Sentinella was an OCR slip, so each quote was read on the page scan (crops from the Library of Congress image service, tile.loc.gov; the image paths come from archived copies of the old Chronicling America pages).
+
+| Record | Page | What the scan shows |
+|---|---|---|
+| `risorgimento-italiano-1922` | 21 Oct 1922, p. 1 | Verbatim |
+| `risorgimento-italiano-1929` | 12 Jan 1929, p. 4 | 'sopra-tutto' is one word broken across a line; the OCR had 'sopra tutto'. Corrected to 'sopratutto' |
+| `la-sentinella-bridgeport-1934` | 13 Sep 1934, p. 4 | Verbatim. 'Piluski' is the paper's own spelling of Piłsudski, not an OCR slip; the OCR's 'Tesperimento' is 'l'esperimento' on the page |
+| `la-verita-waterbury-1935-05` | 3 May 1935, p. 2 | Verbatim |
+| `la-verita-waterbury-1935-08` | 16 Aug 1935, p. 3 | Verbatim |

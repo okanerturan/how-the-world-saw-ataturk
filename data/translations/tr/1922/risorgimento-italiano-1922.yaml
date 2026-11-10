@@ -12,17 +12,19 @@ summary: >-
   Portre: Kemal artık bir asi değil, 'tanınmış diktatör'dür; Enver ve Talat'ın aksine ülkesini kurtaran,
   yozlaştırılamaz bir vatanseverdir.
 caveat: >-
-  İmzasız birinci sayfa yazısı (aynı sayfa onu 'il dittatore riconosciuto' olarak adlandırır); OCR'da küçük
-  bozulmalar var.
+  İmzasız birinci sayfa haberi (aynı sayfa kendisinden 'il dittatore riconosciuto' olarak söz etmektedir).
 verification_note: >-
-  Birebir; sayfada ayrıca 'il dittatore riconosciuto' ifadesi ve Enver/Talat karşıtlığı yer alıyor.
-verification_method: loc.gov JSON + tile.loc.gov full_text
+  Alıntılanan sözler taranmış sayfadan okunmuştur ve birebir aynıdır. OCR metninden: sayfada ayrıca 'il
+  dittatore riconosciuto' ifadesi ve Enver/Talat karşılaştırması yer almaktadır.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından alıntılanan sözlerin kütüphanenin görsel servisinden alınan
+  tarama kesitinden okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: e426d9eba3ed
   role: 85cf22ec4b91
   quote: a7fd830b604f
   summary: 0508b5cce566
-  caveat: fa86ecccb1c8
-  verification_note: c39384d0e6f8
-  verification_method: 28ee7781d3b6
+  caveat: c13a9f1b3250
+  verification_note: f8152888b991
+  verification_method: 7f67ff34ed94

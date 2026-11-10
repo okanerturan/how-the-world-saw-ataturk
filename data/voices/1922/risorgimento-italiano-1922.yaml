@@ -19,15 +19,20 @@ quote:
   text: >-
     un patriota che lavora, indomito ed incorrotto, per salvare quanto è salvabile del suo povero paese
   language: it
-caveat: >-
-  Unsigned front-page item (the same page calls him 'il dittatore riconosciuto'); OCR has minor artefacts.
+caveat: Unsigned front-page item (the same page calls him 'il dittatore riconosciuto').
 node: America's Immigrant Press Reads Kemal, 1922–1938
 sources:
   - url: https://www.loc.gov/resource/sn89060332/1922-10-21/ed-1/?sp=1
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn89060332 1922-10-21 ed-1 seq 1 OCR
-  method: loc.gov JSON + tile.loc.gov full_text
-  note: Verbatim; page also has 'il dittatore riconosciuto' and the Enver/Talaat contrast.
-  checked_on: "2026-10-30"
+  checked_against: >-
+    Il Risorgimento Italiano nel Maryland, 21 October 1922, p. 1: the page scan and its OCR text (Library of
+    Congress, Chronicling America sn89060332)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
+  note: >-
+    The quoted words were read on the scanned page and are verbatim. From the OCR text: the page also has 'il
+    dittatore riconosciuto' and the Enver/Talaat contrast.
+  checked_on: "2026-11-10"

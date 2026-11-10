@@ -10,16 +10,21 @@ summary: >-
   Stamford 'güçlü belediye başkanı' tüzüğü üzerine: Mussolini, Stalin, Kemal, Piłsudski ve diğer 'reformcu
   diktatörler'inkiler gibi sonuçlar umuyor.
 caveat: >-
-  Yerel siyaset tartışması; Kemal reformcu bir diktatör örneği olarak kullanılmış; OCR'da 'Piluski' ve
-  cümlenin başında 'Tesperimento' geçiyor.
-verification_note: OCR 'Piluski' dahil birebir aynı; Stamford 'Strong Mayor' bağlamı doğrulandı.
-verification_method: loc.gov JSON + tile.loc.gov full_text
+  Yerel siyaset tartışması; Kemal, reformcu bir diktatör örneği olarak kullanılmıştır. 'Piluski', gazetenin
+  Piłsudski için kullandığı kendi yazımıdır ve basıldığı şekliyle korunmuştur.
+verification_note: >-
+  Taranmış sayfadan okunmuştur: 'Se l'esperimento darà risultati come quelli di Mussolini, Stalin, Kemal,
+  Piluski e di altri dittatori riformisti'. Gazete 'Piluski' olarak basmıştır; bu bir OCR hatası değildir.
+  Stamford 'Strong Mayor' bağlamı OCR metninde doğrulanmıştır.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından alıntılanan sözlerin kütüphanenin görsel servisinden alınan
+  tarama kesitinden okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 4ff3f69ecd07
   role: da3c64d1bc6a
   quote: 1c8eacfc3c7b
   summary: e8695fa2be61
-  caveat: f18f91dc8b02
-  verification_note: a9ae6a2c8cd9
-  verification_method: 28ee7781d3b6
+  caveat: b164e838d401
+  verification_note: d9bdeb5ffe98
+  verification_method: 7f67ff34ed94

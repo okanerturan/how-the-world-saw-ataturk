@@ -29,9 +29,14 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn95063190 1935-05-03 p.2 OCR
-  method: tile.loc.gov full_text
+  checked_against: >-
+    La Verità, 3 May 1935, p. 2: the page scan and its OCR text (Library of Congress, Chronicling America
+    sn95063190)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Verbatim (OCR line breaks); praises Astor, 'dittatore' in quotes, women freed from harem, restored
+    The quoted clause was read on the scanned page and is verbatim ('supremo' is broken across two lines
+    there). From the OCR text: praises Astor, 'dittatore' in quotes, women freed from the harem, restored
     political unity.
-  checked_on: "2026-10-30"
+  checked_on: "2026-11-10"

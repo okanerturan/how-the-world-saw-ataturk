@@ -13,8 +13,12 @@ caveat: >-
   Kemal değerlendirmesi değil, faşizm savunucusu bir karşılaştırma; Kemal, İtalya'dan daha sert bir
   diktatörlük olarak anılıyor.
 verification_note: >-
-  Tam eşleşme; Rusya ve Almanya ile karşılaştırma ve İtalya'da ırk mücadelesi olmadığı ifadesi mevcut.
-verification_method: loc.gov JSON + karo OCR
+  Alıntılanan cümlecik taranmış sayfadan okunmuştur ve birebir aynıdır; gazete vurgu işaretini kesme işareti
+  olarak yazmaktadır ("vi e'"). OCR metninden: Rusya ve Almanya ile karşılaştırma ve İtalya'da ırk
+  mücadelesinin olmaması.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından alıntılanan sözlerin kütüphanenin görsel servisinden alınan
+  tarama kesitinden okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 56a4a962f5bd
@@ -22,5 +26,5 @@ source_fingerprints:
   quote: 1ec3f50c4ae5
   summary: d14083d59c8c
   caveat: 0d641b13fefe
-  verification_note: d5d8b822ed62
-  verification_method: 363638f20035
+  verification_note: 5cec239e26b4
+  verification_method: 7f67ff34ed94
