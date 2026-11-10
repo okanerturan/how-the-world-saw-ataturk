@@ -1,0 +1,40 @@
+# Turkish for data/voices/2005/ciampi-2005-11-22.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ciampi-2005-11-22
+voice: Carlo Azeglio Ciampi
+role: İtalya Cumhurbaşkanı
+quote: >-
+  Kemal Atatürk'ün yenilenme tercihi, Batı ile yalnızca tarihi değil, aynı zamanda Batı'nın kendisini
+  özdeşleştirdiği demokrasi ve özgürlük değerlerinin tamamını da paylaşabilen bir Türk devletinin temellerini
+  atmıştır.
+quote_kind: translated
+summary: >-
+  Ankara'da Cumhurbaşkanı Sezer onuruna kadeh kaldırırken: Kemal Atatürk'ün 'yenilenme tercihi', Batı'nın
+  demokrasi ve özgürlüğünü paylaşan bir Türk devletinin zeminini hazırlamıştır.
+caveat: >-
+  Devlet ziyareti sırasında Cumhurbaşkanı Ahmet Necdet Sezer tarafından verilen devlet yemeğindeki kadeh
+  kaldırma konuşması, Cumhurbaşkanlığı Köşkü, Ankara, 22 Kasım 2005. Cümle, Roma, Bizans ve Osmanlılar üzerine
+  bir pasajı izler ve Atlantik ittifakı ile Avrupa dayanışmasına bağlanır. Ertesi gün, Meclis Başkanı Bülent
+  Arınç'ın Dolmabahçe Sarayı'nda verdiği yemekte, sarayı 'significativo - come ultima residenza di Kemal
+  Atatürk - della svolta storica compiuta dalla Turchia, ottant'anni orsono, sulla via della modernità e del
+  rinnovamento democratico' olarak nitelendirmiştir. Ziyaret programında 22 Kasım sabahı mozoleye çelenk
+  koyması ve Şeref Defteri'ni imzalaması da yer alır; bu yazının metni portalda bulunmamaktadır.
+verification_note: >-
+  Portalda 'Atatürk', 'Ataturk' ve 'Kemal' için yapılan aramalar bu iki kadeh kaldırma konuşmasını,
+  Napolitano'nun 2009'daki kadeh kaldırma konuşması ile konferansını ve Ciampi'nin ziyaretine ait fotoğraf
+  altı yazılarını döndürmektedir; başka bir şey yoktur. Her iki cümle ve tarih-yer bilgileri sayfa metninden
+  okundu. İkinci bir okuyucu sayfayı bağımsız olarak açmış ve alıntıyı ve alıntılanan her parçayı metinle
+  karşılaştırmıştır.
+verification_method: >-
+  site betiklere tarayıcı kontrolüyle yanıt verdiği için sayfa bir tarayıcıda açıldı; pasaj sayfa metninden
+  okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 7f4de69b679a
+  role: 08998382b40d
+  quote: 1463dc35d0d9
+  summary: 7c2a6dc81adf
+  caveat: d71bfcbb01f8
+  verification_note: 055a6f99380b
+  verification_method: 5905c6bf960b

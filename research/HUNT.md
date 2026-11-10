@@ -233,9 +233,9 @@ Every free route has been tried for each item below. What is left needs a librar
 8. Hitler, *Table Talk* (2 Apr 1942) · Goebbels' diary (Nov 1938) · Pamuk's "André Gide" essay · Brzezinski, *Strategic Vision* · Brezhnev's Minsk speech 1978 (p. 223) · Herriot, *Jadis* · Morand, *Voyages* · Montgomery and Fuller · Ben-Gurion, *My Talks with Arab Leaders* · Salvemini, Musil · Hemingway, *Dateline: Toronto* · Benoist-Méchin, *À destins rompus* (1974) and *Mustapha Kémal ou la mort d'un empire* (1954), to get page numbers for the staged snippets.
 
 **Sites behind bot checks (they need a real browser)**
-9. vie-publique.fr and elysee.fr: search "Atatürk" in French presidents' and ministers' speeches (Giscard, Mitterrand, Chirac, Sarkozy, Hollande, Macron).
-10. quirinale.it: Napolitano in Ankara, Nov 2009; presidency.ro (Băsescu, Iohannis); casareal.es (Juan Carlos, Felipe VI); gg.govt.nz.
-11. UNESDOC: M'Bow's 1981 Atatürk-centenary speech.
+9. vie-publique.fr: done in a browser on 10 Nov 2026. Its search covers titles only, so the texts of 193 Turkey-related speeches were scanned for his name. Entered: Giscard d'Estaing 1976 (with 1978), Mitterrand's arrival statement of 13 Apr 1992, Chirac 2002 (with 1998), Sarkozy 2011, Hollande's toast of 27 Jan 2014. Not entered (passing mentions by ministers): see `candidates/europe.md`. Still open: elysee.fr for Macron, and speeches that the 193 did not include.
+10. quirinale.it: done in a browser on 10 Nov 2026. The portal's search returns three texts for "Atatürk": Ciampi's two toasts of 22 and 23 Nov 2005 and Napolitano's of 17 Nov 2009 (both entered). Still open: presidency.ro (Băsescu, Iohannis); casareal.es (Juan Carlos, Felipe VI); gg.govt.nz.
+11. UNESDOC: done in a browser on 10 Nov 2026. M'Bow's address is of 9 June 1980, at the Symposium on Atatürk in Ankara (DG/80/15; `mbow-1980-06-09`). Still unread in the same library: his address on receiving an honorary doctorate from the University of Ankara (ark:/48223/pf0000047424) and 'Atatürk, the father of modern Turkey' (pf0000074752). The documents are scans without a text layer.
 12. doria.fi worked through Wayback for Kekkonen; the live site's search could list other Finnish presidential speeches on Turkey.
 13. British Newspaper Archive (paid): G. Ward Price's Daily Mail interviews with Kemal.
 

@@ -1,0 +1,36 @@
+# Turkish for data/voices/1976/giscard-destaing-1976-09-23.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: giscard-destaing-1976-09-23
+voice: Valéry Giscard d'Estaing
+role: Fransa Cumhurbaşkanı
+quote: >-
+  Avrupa ile Yakın Doğu arasında bir bağ olma yönündeki bu değerli rolünü, ülkesinin Batılı demokratik uluslar
+  arasındaki yerini belirleyen Atatürk'ün belirleyici tercihine borçludur.
+quote_kind: translated
+summary: >-
+  Türkiye'nin yeni büyükelçisini kabul ederken: Türkiye, Avrupa ile Yakın Doğu arasındaki bağ rolünü
+  Atatürk'ün Batı demokrasileri yönündeki 'belirleyici tercihine' borçludur.
+caveat: >-
+  Türkiye'nin büyükelçisi olarak güven mektubunu sunan Orhan Eralp'in konuşmasına verilen yanıt, Paris, 23
+  Eylül 1976; 'elle' modern Türkiye'dir. Diplomatik bir nezaket ifadesi: devamında ittifakı ve Avrupa
+  Topluluğu ile ortaklığı bu 'choix fondamental'den türetir. İki yıl sonra, 7 Eylül 1978'de bir sonraki
+  büyükelçi Hamit Batu'yu (tutanakta 'Hatim Batu' yazılıdır) kabul ederken şöyle demiştir: 'Les choix de la
+  Turquie moderne, marqués par la grande figure d'Ataturk nous ont encore rapprochés.'
+verification_note: >-
+  1976 cümlesi ve 1978 cümlesi, büyük harflerle yazılmış olan sayfa metninden okundu. Site her ikisinin
+  konuşmacısını da Valéry Giscard d'Estaing olarak listelemektedir. Büyükelçinin adı ve Eralp'ten sonraki yeri
+  sayfadan değil, Türkiye'nin Fransa büyükelçileri listesinden alınmıştır. İkinci bir okuyucu sayfayı bağımsız
+  olarak açmış ve alıntıyı ve alıntılanan her parçayı metinle karşılaştırmıştır.
+verification_method: >-
+  site betiklere tarayıcı kontrolüyle yanıt verdiği için sayfa bir tarayıcıda açıldı; pasaj sayfa metninden
+  okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: cfdbfa181716
+  role: 4ed070142147
+  quote: 8a2c671039fb
+  summary: 43c686160f3f
+  caveat: 16ae49021572
+  verification_note: 099cce0836be
+  verification_method: 5905c6bf960b

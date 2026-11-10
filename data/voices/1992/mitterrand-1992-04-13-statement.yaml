@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mitterrand-1992-04-13-statement
+voice: François Mitterrand
+voice_type: person
+role: President of France
+country: France
+country_now: France
+domain: politics
+date: "1992-04-13"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  In Ankara, opening the first French state visit since de Gaulle's: 'Never have Kemal Atatürk's words, peace
+  at home, peace abroad, been so timely.'
+quote:
+  text: >-
+    Jamais les mots "Paix à l'intérieur, paix à l'extérieur" de Kemal Atatürk n'ont été autant d'actualité.
+  translation: Never have the words of Kemal Atatürk, "Peace at home, peace abroad", been so timely.
+  language: fr
+caveat: >-
+  Reply to the Turkish President on the first day of his state visit, Ankara, 13 April 1992, 'vingt-quatre ans
+  exactement après la visite du Général de Gaulle'. Its wording ('près de cette ville capitale, que je ne
+  connais pas') suggests the arrival ceremony; the site gives only 'Ankara'. Earlier in it he names Atatürk
+  among the 'figures de proue' of the land's history (a phrase he credits to the historian René Grousset),
+  'depuis les premiers rois Hittites, à Kemal Atatürk en passant par Darius, les Seldjoukides, les Ottomans et
+  Soliman'. The toast at Çankaya that evening is a separate record (mitterrand-1992-04-13).
+sources:
+  - url: https://www.vie-publique.fr/discours/127245-francois-mitterrand-13041992-role-de-turquie-au-moyen-orient
+    label: Vie publique (République française), collection of public speeches
+    citation: >-
+      Déclaration de M. François Mitterrand, président de la République, sur la reconnaissance du rôle
+      croissant de la Turquie dans la stabilité du Moyen-Orient et de sa position stratégique, Ankara le 13
+      avril 1992
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: The speech text on vie-publique.fr
+  method: >-
+    the page opened in a browser, because the site answers scripts with a browser check; the passage read in
+    the page text
+  note: >-
+    The opening, the 'figures de proue' sentence and the quoted sentence with its surroundings were read in
+    the page text. That it is the arrival speech is the archive's inference. A second reader opened the page
+    independently and compared the quote and every quoted fragment with it.
+  checked_on: "2026-11-10"

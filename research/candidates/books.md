@@ -94,7 +94,7 @@ Leads (next steps): Şimşir vol. IV pp. 261–278 (Alexander, original French),
 | Harold Nicolson | *Curzon: The Last Phase* (1934), p. 116, p. 352 (DLI `in.ernet.dli.2015.208069`; `190097` has garbled OCR) | **PROMOTED** conflicted |
 | Coudenhove-Kalergi | *Crusade for Pan-Europe* (1943; DLI `dli.ernet.155751`) ch. VIII pp. 67-68, XIV pp. 125-126, XXVII c. p. 280 | **PROMOTED** x2 (admiring; conflicted). Next: his 1920s-30s Pan-Europa journal |
 | Rebecca West | *Black Lamb and Grey Falcon* (DLI `dli.ernet.12968`, `in.ernet.dli.2015.12979`) | **PROMOTED** witness, intensity 1 ("at least half Slav") |
-| Emil Ludwig | interview 3 Nov 1929; *NFP* 11 Mar 1930 "Die neue Türkei" (ANNO) | ⌀ original behind a Cloudflare Turnstile (no bypass); only retellings (Cumhuriyet Daily 10 Nov 2023). Lead: a human can open `anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19300311&seite=1` |
+| Emil Ludwig | interview 3 Nov 1929; *NFP* 11 Mar 1930 "Die neue Türkei" (ANNO) | ✅ done: the article is in the NFP of **9** March 1930, pp. 2 and 4, and was read on the ANNO page image on 4 Nov 2026 (`emil-ludwig-1930-03-09`). The ANNO viewer opens in an ordinary browser |
 | Spengler | *Jahre der Entscheidung* 1933 (`OswaldSpenglerJahreDerEntscheidung`), *Hour of Decision* (`in.ernet.dli.2015.121879`) | ⌀ dug: Kemal/Atatürk never named |
 | Dos Passos | *Orient Express* (1927, `orientexpress0000john`) | ⌀ Kemal named only in others' speech (1921) |
 | Gertrude Bell | *Letters* vol. II (`in.ernet.dli.2015.210996`) | ⌀ two passing mentions ("Emissaries of Muftafa Kemal"), no view |

@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: chirac-2002-11-22
+voice: Jacques Chirac
+voice_type: person
+role: President of France
+country: France
+country_now: France
+domain: politics
+date: "2002-11-22"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  Asked about '65 million Turkish Muslims' joining the Union: Turkey is secular, and must not undo the
+  secularism won by 'the father of modern Turkey'.
+quote:
+  text: >-
+    La Turquie est un pays laïc et dont nous attendons qu'elle ne remette pas en cause cette laïcité qui a été
+    gagnée historiquement, notamment par le père de la Turquie moderne Kamal ATATURK.
+  translation: >-
+    Turkey is a secular country, and one we expect not to call into question this secularism, which was won
+    historically, notably by the father of modern Turkey, Kemal Atatürk.
+  language: fr
+caveat: >-
+  Press conference at the NATO summit in Prague, 22 November 2002, less than three weeks after the AKP's
+  election victory. Asked why European opinion should not fear 'l'entrée éventuelle de 65 millions de
+  musulmans turcs au sein de l'Union', he retorts 'Vous dites 60 millions de musulmans turcs. C'est curieux,
+  parce que vous ne dites pas 60 millions de chrétiens français' and says the question is political, not
+  religious: Turkey has its place in Europe to the extent that it shares Europe's values, which 'lui reste à
+  démontrer'. Atatürk serves that argument. The transcript prints 'Kamal ATATURK'. On 19 February 1998, at the
+  state dinner for President Demirel at the Élysée, he had said that France was the first, 'dès 1921, en écho
+  à l'appel de Mustapha Kemal', to recognise 'le fait national turc'.
+sources:
+  - url: https://www.vie-publique.fr/discours/133136-conference-de-presse-de-m-jacques-chirac-president-de-la-republique-s
+    label: Vie publique (République française), collection of public speeches
+    citation: >-
+      Conférence de presse de M. Jacques Chirac, Président de la République, sommet de l'OTAN, Prague, 22
+      novembre 2002
+    accessed: "2026-11-10"
+  - url: https://www.vie-publique.fr/discours/132360-allocution-de-m-jacques-chirac-president-de-la-republique-sur-les-rel
+    label: Vie publique (République française), collection of public speeches
+    citation: >-
+      Allocution de M. Jacques Chirac, Président de la République, visite d'État de M. Süleyman Demirel, 19
+      février 1998
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Both texts on vie-publique.fr
+  method: >-
+    the page opened in a browser, because the site answers scripts with a browser check; the passage read in
+    the page text
+  note: >-
+    The sentence, the lines before and after it, and the 1998 sentence were read in the page text. The date of
+    the Turkish election is the archive's addition; the next question at the press conference is about the new
+    Turkish government. A second reader opened the page independently and compared the quote and every quoted
+    fragment with it.
+  checked_on: "2026-11-10"

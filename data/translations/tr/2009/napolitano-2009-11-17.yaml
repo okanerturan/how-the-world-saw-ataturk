@@ -1,0 +1,39 @@
+# Turkish for data/voices/2009/napolitano-2009-11-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: napolitano-2009-11-17
+voice: Giorgio Napolitano
+role: İtalya Cumhurbaşkanı
+quote: >-
+  Daha yakın zamanlarda, Osmanlı İmparatorluğu'nun yıkılışından sonra Kemal Atatürk ve genç Türkiye
+  Cumhuriyeti tarafından izlenen yenilenme tercihinin izinde, Türkiye ile Avrupa değerler sistemi arasındaki
+  ilişki giderek gelişmiştir.
+quote_kind: translated
+summary: >-
+  Cumhurbaşkanı Gül onuruna kadeh kaldırırken: Türkiye'nin Avrupa değerleriyle bağı, Kemal Atatürk ve genç
+  Cumhuriyet'in 'yenilenme tercihinin izinde' gelişmiştir.
+caveat: >-
+  'a distanza di quattro anni da quella del mio predecessore Carlo Azeglio Ciampi' gerçekleşen bir devlet
+  ziyaretinde, Cumhurbaşkanı Abdullah Gül tarafından verilen devlet yemeğindeki kadeh kaldırma konuşması,
+  Ankara, 17 Kasım 2009; selefi Ciampi'nin 'scelta rinnovatrice' ifadesini tekrarlar (bkz. ciampi-2005-11-22).
+  Türkiye'nin Avrupa yolunu destekleyen diplomatik bir nezaket ifadesi. Ertesi gün Ankara Üniversitesinde
+  verdiği konferansta, 'che culminò - dopo la caduta dell'Impero ottomano - nelle scelte della neonata
+  Repubblica turca, sotto la guida di Kemal Ataturk : scelte di trasformazione della società turca in senso
+  europeo, a partire dalla Costituzione del 1924' diyerek sancılı bir modernleşme yolculuğundan söz etmiştir.
+  Programda 17 Kasım sabahı mozolenin Şeref Defteri'ni imzalaması yer alır; bu metin portalda bulunmamaktadır.
+verification_note: >-
+  Cümle, kadeh kaldırma konuşmasının açılışı ve tarih-yer bilgisi sayfa metninden okundu. Ankara Üniversitesi
+  cümlesi birinci değil, ikinci okuyucu tarafından okunmuştur. İkinci bir okuyucu sayfayı bağımsız olarak
+  açmış ve alıntıyı ve alıntılanan her parçayı metinle karşılaştırmıştır.
+verification_method: >-
+  site betiklere tarayıcı kontrolüyle yanıt verdiği için sayfa bir tarayıcıda açıldı; pasaj sayfa metninden
+  okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 31d3266ba65c
+  role: 08998382b40d
+  quote: d66b94171144
+  summary: f562f9bc50f1
+  caveat: e5dbda55b03e
+  verification_note: 984a62bf4a52
+  verification_method: 5905c6bf960b

@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ciampi-2005-11-22
+voice: Carlo Azeglio Ciampi
+voice_type: person
+role: President of Italy
+country: Italy
+country_now: Italy
+domain: politics
+date: "2005-11-22"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Toasting President Sezer in Ankara: Kemal Atatürk's 'choice of renewal' laid the ground for a Turkish state
+  sharing the West's democracy and freedom.
+quote:
+  text: >-
+    La scelta rinnovatrice di Kemal Atatürk ha posto le premesse per uno Stato turco capace di condividere con
+    l'Occidente, oltre alla storia, anche la pienezza dei valori di democrazia e di libertà in cui esso si
+    identifica.
+  translation: >-
+    Kemal Atatürk's choice of renewal laid the foundations for a Turkish state able to share with the West not
+    only history but also the fullness of the values of democracy and freedom with which the West identifies.
+  language: it
+caveat: >-
+  Toast at the state dinner given by President Ahmet Necdet Sezer, Presidential Palace, Ankara, 22 November
+  2005, on his state visit. The sentence follows a passage on Rome, Byzantium and the Ottomans and leads into
+  the Atlantic alliance and European solidarity. The next day, at a dinner given by the Speaker, Bülent Arınç,
+  in Dolmabahçe Palace, he called the palace 'significativo - come ultima residenza di Kemal Atatürk - della
+  svolta storica compiuta dalla Turchia, ottant'anni orsono, sulla via della modernità e del rinnovamento
+  democratico'. The visit's programme also has him laying a wreath at the mausoleum and signing its Book of
+  Honour on the morning of 22 November; the text of that entry is not on the portal.
+sources:
+  - url: https://presidenti.quirinale.it/elementi/183353
+    label: Presidenza della Repubblica, portal 'I Presidenti'
+    citation: >-
+      Brindisi del Presidente della Repubblica Carlo Azeglio Ciampi al pranzo di Stato offerto dal Presidente
+      della Repubblica di Turchia Ahmet Necdet Sezer, Ankara, Palazzo Presidenziale, 22 novembre 2005
+    accessed: "2026-11-10"
+  - url: https://presidenti.quirinale.it/elementi/183355
+    label: Presidenza della Repubblica, portal 'I Presidenti'
+    citation: >-
+      Brindisi del Presidente della Repubblica Carlo Azeglio Ciampi, in visita di Stato nella Repubblica di
+      Turchia, in occasione del pranzo di Stato offerto in suo onore dal Presidente della Grande Assemblea
+      Nazionale di Turchia, Bulent Arinc, Istanbul - Palazzo Dolmabahce, 23 novembre 2005
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Both toasts on the Quirinale's historical portal
+  method: >-
+    the page opened in a browser, because the site answers scripts with a browser check; the passage read in
+    the page text
+  note: >-
+    The portal's search for 'Atatürk', 'Ataturk' and 'Kemal' returns these two toasts, Napolitano's toast and
+    lecture of 2009, and photo captions of Ciampi's visit; nothing else. Both sentences and their datelines
+    were read in the page text. A second reader opened the page independently and compared the quote and every
+    quoted fragment with it.
+  checked_on: "2026-11-10"

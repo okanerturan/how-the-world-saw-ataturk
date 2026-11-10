@@ -1,0 +1,40 @@
+# Turkish for data/voices/2002/chirac-2002-11-22.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: chirac-2002-11-22
+voice: Jacques Chirac
+role: Fransa Cumhurbaşkanı
+quote: >-
+  Türkiye laik bir ülkedir ve tarihsel olarak, bilhassa modern Türkiye'nin babası Kemal Atatürk tarafından
+  kazanılmış olan bu laikliği sorgulamamasını beklediğimiz bir ülkedir.
+quote_kind: translated
+summary: >-
+  Birliğe katılacak '65 milyon Türk Müslüman' hakkında soru sorulduğunda: Türkiye laiktir ve 'modern
+  Türkiye'nin babası' tarafından kazanılan laikliği bozmamalıdır.
+caveat: >-
+  Prag'daki NATO zirvesinde düzenlenen basın toplantısı, 22 Kasım 2002, AKP'nin seçim zaferinden üç haftadan
+  kısa bir süre sonra. Avrupa kamuoyunun 'l'entrée éventuelle de 65 millions de musulmans turcs au sein de
+  l'Union'dan neden korkmaması gerektiği sorulduğunda, 'Vous dites 60 millions de musulmans turcs. C'est
+  curieux, parce que vous ne dites pas 60 millions de chrétiens français' diye karşılık verir ve meselenin
+  dini değil siyasi olduğunu söyler: Türkiye, Avrupa'nın değerlerini paylaştığı ölçüde Avrupa'da yere sahiptir
+  ki bu da 'lui reste à démontrer' [henüz kanıtlaması gereken bir şeydir]. Atatürk bu argümana hizmet eder.
+  Tutanakta 'Kamal ATATURK' yazılıdır. 19 Şubat 1998'de, Élysée'de Cumhurbaşkanı Demirel onuruna verilen
+  devlet yemeğinde, Fransa'nın 'dès 1921, en écho à l'appel de Mustapha Kemal' [daha 1921'de, Mustafa Kemal'in
+  çağrısına karşılık olarak] 'le fait national turc'ü [Türk ulusal gerçeğini] tanıyan ilk ülke olduğunu
+  söylemişti.
+verification_note: >-
+  Cümle, öncesindeki ve sonrasındaki satırlar ile 1998 cümlesi sayfa metninden okundu. Türkiye'deki seçimin
+  tarihi arşivin eklemesidir; basın toplantısındaki bir sonraki soru yeni Türk hükümeti hakkındadır. İkinci
+  bir okuyucu sayfayı bağımsız olarak açmış ve alıntıyı ve alıntılanan her parçayı metinle karşılaştırmıştır.
+verification_method: >-
+  site betiklere tarayıcı kontrolüyle yanıt verdiği için sayfa bir tarayıcıda açıldı; pasaj sayfa metninden
+  okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: c7f9f54b8fb4
+  role: 4ed070142147
+  quote: 31130ada0a27
+  summary: 0ec8c9fad4bf
+  caveat: be93a1cedd9d
+  verification_note: 46efaee033f2
+  verification_method: 5905c6bf960b

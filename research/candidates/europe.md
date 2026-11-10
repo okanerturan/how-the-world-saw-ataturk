@@ -195,3 +195,17 @@ ParlSpeech V2 has NO European Parliament corpus (files: Bundestag, Congreso, Fol
 - ⌀ Index entry 'Ἐπίθεσις Βουλγαρίας καὶ Κεμάλ, 181' is under Ἐξωτερικὴ Πολιτική for the Βουλή of 1919–20 (volume ΠΡΒ_ΠΕΡ.Κ_ΣΥΝ.Δ_1919-1920, 3 parts), not the Γ΄ Εθνοσυνέλευση; Γ΄ Τ.1 p. 181 is an election-law sitting. Venizelist foreign-policy debate of 1919–20 is the only part of the 1910–36 minutes still unread (k1.pdf downloaded, not OCRed).
 - ⌀ Ismet's visit (Oct 1931): Venizelos's report, Σύν.Δ Τ.1 part 1 p. 9, names only Ismet and Tevfik Rüştü.
 - Not counted but available: Baltatzis (Foreign Minister, 18 May 1922) on 'Kemalist savagery'; P. Argyropoulos 1921 calling the Kemalists the Young Turk Committee.
+
+## French ministers on vie-publique.fr (found 10 Nov 2026, not entered)
+
+A scan of 193 Turkey-related texts on vie-publique.fr (in a browser; the site refuses scripts and its search covers titles only) found his name in 16. The presidents' texts became records. These mention him in passing and were only skimmed:
+
+| Speaker | Text | What it says |
+|---|---|---|
+| François Fillon, Prime Minister | Declaration during President Gül's visit, Paris, 9 Oct 2009 | "Nous sommes fiers que la France ait été la première à reconnaître la République, fondée par Mustapha Kemal en octobre 1921." (The date is that of the Ankara agreement, not of the Republic.) |
+| Michel Barnier, minister for European affairs | Declarations on Franco-Turkish relations, 21 Oct 1996; interviews with Milliyet, Turkish Daily News and Sabah | Two and three mentions; not read |
+| Hervé de Charette, foreign minister | Statements and interviews to the French and Turkish press (1995–97) | Three mentions; not read |
+| Pierre Lellouche, secretary of state for European affairs | Declaration on Franco-Turkish relations, Istanbul | Four mentions; not read |
+| Jean-Marc Ayrault, foreign minister | Declaration on France and Turkey (2016) | One mention; not read |
+| Hervé Novelli, secretary of state for trade | Two declarations on Franco-Turkish business ties | One mention each; not read |
+

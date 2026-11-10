@@ -1,0 +1,56 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: eleanor-roosevelt-1959-03-24
+voice: Eleanor Roosevelt
+voice_type: person
+role: Former First Lady of the United States; writer of the syndicated newspaper column 'My Day'
+country: United States
+country_now: United States
+domain: press
+date: "1959-03-24"
+era: posthumous
+polarity: witness
+intensity: 1
+artifact: visit
+evidence: P
+summary: >-
+  On a night stopover in Ankara she drove to Atatürk's floodlit mausoleum and thought it, with its rows of
+  columns, somewhat like the Lincoln Memorial.
+quote:
+  text: >-
+    We drove to Ataturk's monument but could not go inside, as it closes at sunset. They light it all night
+    very brilliantly, so it stands out on the hillside with its rows of columns all around, looking somewhat
+    similar to the Lincoln Memorial in Washington, D. C.
+  language: en
+caveat: >-
+  From her column 'My Day', datelined Tel Aviv and published 24 March 1959, about the evening of Friday 13
+  March: a stopover of a few hours in Ankara on the flight from Rome to Tehran, with her granddaughter Nina.
+  The US embassy sent a Mr. Butler of its staff to meet them with an embassy car; they did not go inside. She
+  calls it 'Ataturk's monument'; that it is the mausoleum is our identification. She adds what Butler said a
+  guard had told him, that the monument opens at sunrise and closes at sunset 'so as not to disturb Ataturk's
+  slumbers'. It is a visitor's description of the mausoleum, with no judgment of him; the comparison with
+  Lincoln's memorial is her own. The digital edition marks this column as emended, but the only correction
+  near this passage is the spelling of Tehran.
+sources:
+  - url: https://www2.gwu.edu/~erpapers/myday/displaydoc.cfm?_y=1959&_f=md004387
+    archived: https://web.archive.org/web/20231205170722/https://www2.gwu.edu/~erpapers/myday/displaydoc.cfm?_y=1959&_f=md004387
+    label: The Eleanor Roosevelt Papers, Digital Edition (George Washington University)
+    citation: >-
+      Eleanor Roosevelt, "My Day, March 24, 1959", The Eleanor Roosevelt Papers Digital Edition (2017)
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    The column's page in the Eleanor Roosevelt Papers digital edition, emended and original versions, its
+    archived copy and its XML master
+  method: >-
+    the edition's site search (a Google search box that only runs in a browser) for 'Ataturk', 'Kemal' and
+    Turkey; then the column fetched and its text compared with the quote
+  note: >-
+    The site search returns this one column for 'Ataturk' and nothing for 'Kemal'. A second reader fetched the
+    edition's XML master of every listed column (7,996, 1936-1962) and searched them for his name in its usual
+    spellings: no other column names him. Columns that speak of Turkey without naming him include 29 March
+    1937 (a film showing 'what has been done in a very few years to change a country'), 21 May 1938 (a visit
+    from the Turkish journalist Ismet Sanli, on 'the new Turkey of today') and 13 November 1958 (a pamphlet of
+    Turkish cartoons). The quote is word for word in both versions of the column.
+  checked_on: "2026-11-10"

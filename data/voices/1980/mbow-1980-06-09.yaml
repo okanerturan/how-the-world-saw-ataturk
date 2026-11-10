@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mbow-1980-06-09
+voice: Amadou-Mahtar M'Bow
+voice_type: person
+role: Director-General of UNESCO
+country: Senegal
+country_now: Senegal
+domain: diplomacy
+date: "1980-06-09"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  At an Ankara symposium's opening: Atatürk is 'one of the most outstanding figures of our century'; his
+  revolution influenced many countries fighting for liberation.
+quote:
+  text: >-
+    Atatürk est certainement l'une des figures les plus marquantes de notre siècle. Et la révolution kémaliste
+    a été l'une des premières à avoir posé certains des problèmes fondamentaux auxquels continuent d'être
+    confrontés, encore de nos jours, tant de pays soumis à des transformations rapides.
+  translation: >-
+    Atatürk is indeed one of the most outstanding figures of our century. And the Kemalist revolution was
+    among the first to raise some of the fundamental problems which still, even today, confront so many
+    countries undergoing rapid change.
+  note: >-
+    The English is UNESCO's own version of the address, issued under the same document number; it is not the
+    archive's translation.
+  language: fr
+caveat: >-
+  Address at the opening of the Symposium on Atatürk, Ankara, 9 June 1980, after the Turkish Minister of
+  Culture (UNESCO document DG/80/15, a cover and three typed pages), at the Turkish government's invitation
+  during the preparations for the centenary of his birth. The document does not say which language he spoke;
+  the French and English typescripts carry the same number. The praise is not unqualified. In UNESCO's
+  English: 'Atatürk had to ride roughshod over age-old customs, defy powerful entrenched forces and act
+  uncompromisingly in often painful dilemmas. … Inevitably he sometimes took controversial decisions and made
+  choices some of which might today seem hazardous. But is that not the lot of all who lead their peoples down
+  new paths, down avenues still untried?' The French is milder at the first point: 'Atatürk dut bousculer des
+  habitudes séculaires, braver de puissantes forces établies, trancher des dilemmes souvent douloureux'. He
+  also speaks of 'that period of history which bears the imprint of Atatürk's genius' ('la période historique
+  qui porte l'empreinte du génie d'Atatürk'). He says the revolution led by Mustafa Kemal was 'to exert a
+  profound influence in many countries fighting for their liberation', and ends on its foreign policy, 'in
+  which its originality combines with its universality'.
+node: Atatürk Centennial
+sources:
+  - url: https://unesdoc.unesco.org/ark:/48223/pf0000040379_fre
+    label: UNESCO Digital Library (UNESDOC), French version
+    citation: >-
+      Allocution de M. Amadou-Mahtar M'Bow, Directeur général de l'Unesco, à l'occasion de l'inauguration du
+      Colloque sur Atatürk, Ankara, 9 juin 1980 (DG/80/15)
+    accessed: "2026-11-10"
+  - url: https://unesdoc.unesco.org/ark:/48223/pf0000040379
+    label: UNESCO Digital Library (UNESDOC), English version
+    citation: >-
+      Address by Mr. Amadou-Mahtar M'Bow, Director-General of Unesco, at the opening of the Symposium on
+      Atatürk, Ankara, 9 June 1980 (DG/80/15)
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: The scanned typescripts of DG/80/15 in UNESDOC, French and English, all four pages of each
+  method: >-
+    the documents opened in a browser (the library answers scripts with a browser check); they are scans with
+    no text layer, so the pages were read as images
+  note: >-
+    The first reader read the whole English address and the first page of the French. A second reader then
+    read both typescripts in full: the French quotation and every English phrase quoted in the caveat were
+    found as given. Neither typescript says which language he spoke.
+  checked_on: "2026-11-10"

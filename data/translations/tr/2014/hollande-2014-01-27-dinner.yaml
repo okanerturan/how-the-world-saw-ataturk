@@ -1,0 +1,35 @@
+# Turkish for data/voices/2014/hollande-2014-01-27-dinner.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: hollande-2014-01-27-dinner
+voice: François Hollande
+role: Fransa Cumhurbaşkanı
+quote: >-
+  Bu Çankaya Köşkü'nde bir araya geldik ve ister istemez Mustafa Kemal Atatürk'ü düşünüyorum; hatırlatayım,
+  kendisi Cumhuriyet'i ilan etmeden önce hükümetini tanıyan ilk Batılı ülke Fransa olmuştu.
+quote_kind: translated
+summary: >-
+  Çankaya Köşkü'ndeki devlet yemeğinde: 'İster istemez Mustafa Kemal Atatürk'ü düşünüyorum'; hükümetini
+  tanıyan ilk Batılı ülke Fransa'ydı.
+caveat: >-
+  Devlet ziyaretinin ('cette visite d'Etat', konuşmada iki kez geçer; sitenin başlığında 'Voyage officiel'
+  yazar) ilk gününde Cumhurbaşkanı Abdullah Gül tarafından verilen devlet yemeğindeki konuşma, Ankara, 27 Ocak
+  2014. Fransız-Türk bağlarının eskiliği ve gücü olan temasına hizmet eden bir nezaket ifadesi; bir sonraki
+  cümle bugüne döner. Tutanakta 'Cancaya' ve 'reconnaitre' yazılıdır. Aynı gün Anıtkabir defterine yazdığı
+  metin ayrı bir kayıttır (hollande-2014-01-27-book).
+verification_note: >-
+  Cümle ve her iki yanındaki cümleler sayfa metninden okundu. Sitenin başlığı 'Voyage officiel … dîner d'Etat
+  offert par M. Abdullah Gül' şeklindedir; konuşmada ise bunu bir 'visite d'Etat' olarak adlandırır. İkinci
+  bir okuyucu sayfayı bağımsız olarak açmış ve alıntıyı ve alıntılanan her parçayı metinle karşılaştırmıştır.
+verification_method: >-
+  site betiklere tarayıcı kontrolüyle yanıt verdiği için sayfa bir tarayıcıda açıldı; pasaj sayfa metninden
+  okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 4c6fbec0a605
+  role: 4ed070142147
+  quote: 848fbb87ef56
+  summary: a7fa4ee505a0
+  caveat: 275fa22fdf67
+  verification_note: 2a9af0c0e5fd
+  verification_method: 5905c6bf960b

@@ -1,0 +1,38 @@
+# Turkish for data/voices/2011/sarkozy-2011-02-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: sarkozy-2011-02-25
+voice: Nicolas Sarkozy
+role: Fransa Cumhurbaşkanı
+quote: >-
+  Geçmişte Mustafa Kemal gibi vizyonerlerin yapabildiği gibi, ortak zorluklarımızın büyüklüğüne yaraşır yeni
+  çözümler üretmemiz gerektiğine inanıyorum.
+quote_kind: translated
+summary: >-
+  Bir Türk gazetesinde Türkiye'nin AB üyeliğine karşı çıkarken: 'geçmişte Mustafa Kemal gibi vizyonerlerin
+  yapabildiği gibi' yeni çözümler üretilmelidir.
+caveat: >-
+  Ankara'ya yaptığı çalışma ziyaretinin günü olan 25 Şubat 2011'de yayımlanan, Türk günlük gazetesi Posta ile
+  mülakat. Türklerin kendisini 'un dirigeant qui n'aime pas la Turquie, qui veut la pousser en dehors de
+  l'Union européenne' olarak görmekte haklı olup olmadıkları sorulduğunda, Türkiye ve AB'nin 'sans aller
+  jusqu'à l'intégration, qui ne profiterait en réalité ni à la Turquie ni à l'Union européenne' mümkün
+  olduğunca yakın olmaları gerektiğini söyler ve bunun yerine 'l'UE et la Turquie, avec la Russie, seraient
+  des piliers' olacağı ortak bir alan önerir. Alıntılanan cümle bu yanıtı kapatır: Kemal, kendi başına ele
+  alınmak için değil, üyeliğe bir alternatif konusunda cesaret modeli olarak anılır. Bir sonraki soru onu
+  Türkiye'ye bir Orta Doğu ülkesi muamelesi yapmak ve onu AB'den uzaklaştırmakla suçlar.
+verification_note: >-
+  Cümle, kapattığı yanıtın sonu ve izleyen soru birinci okuyucu tarafından sayfa metninden okundu; ikinci
+  okuyucu, Kemal'in bir kez anıldığı mülakatın tamamını okudu. İkinci bir okuyucu sayfayı bağımsız olarak
+  açmış ve alıntıyı ve alıntılanan her parçayı metinle karşılaştırmıştır.
+verification_method: >-
+  site betiklere tarayıcı kontrolüyle yanıt verdiği için sayfa bir tarayıcıda açıldı; pasaj sayfa metninden
+  okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 4b36a4b90b0f
+  role: 4ed070142147
+  quote: 0f21ea7be839
+  summary: 53d185d18537
+  caveat: 1be4d5d154fe
+  verification_note: d6835db6fdd2
+  verification_method: 5905c6bf960b

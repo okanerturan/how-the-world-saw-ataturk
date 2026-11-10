@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: napolitano-2009-11-17
+voice: Giorgio Napolitano
+voice_type: person
+role: President of Italy
+country: Italy
+country_now: Italy
+domain: politics
+date: "2009-11-17"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Toasting President Gül: Turkey's bond with European values grew 'in the wake of the choice of renewal' of
+  Kemal Atatürk and the young Republic.
+quote:
+  text: >-
+    In tempi più recenti, nella scia della scelta rinnovatrice perseguita, dopo la caduta dell'Impero
+    ottomano, da Kemal Atatürk e dalla giovane Repubblica turca, si è via via sviluppato il rapporto tra la
+    Turchia e il sistema di valori europei.
+  translation: >-
+    In more recent times, in the wake of the choice of renewal pursued, after the fall of the Ottoman Empire,
+    by Kemal Atatürk and the young Turkish Republic, the relationship between Turkey and the European system
+    of values has gradually developed.
+  language: it
+caveat: >-
+  Toast at the state dinner given by President Abdullah Gül, Ankara, 17 November 2009, on a state visit 'a
+  distanza di quattro anni da quella del mio predecessore Carlo Azeglio Ciampi', whose phrase 'scelta
+  rinnovatrice' he repeats (see ciampi-2005-11-22). A diplomatic courtesy in support of Turkey's European
+  path. The next day, lecturing at Ankara University, he spoke of a troubled path of modernisation 'che
+  culminò - dopo la caduta dell'Impero ottomano - nelle scelte della neonata Repubblica turca, sotto la guida
+  di Kemal Ataturk : scelte di trasformazione della società turca in senso europeo, a partire dalla
+  Costituzione del 1924'. The programme has him signing the mausoleum's Book of Honour on the morning of the
+  17th; that text is not on the portal.
+sources:
+  - url: https://presidenti.quirinale.it/elementi/54609
+    label: Presidenza della Repubblica, portal 'I Presidenti'
+    citation: >-
+      Brindisi del Presidente Napolitano al Pranzo di Stato offerto dal Presidente della Repubblica di Turchia
+      Gül, Ankara, 17 novembre 2009
+    accessed: "2026-11-10"
+  - url: https://presidenti.quirinale.it/elementi/54610
+    label: Presidenza della Repubblica, portal 'I Presidenti'
+    citation: Intervento del Presidente Napolitano all'Università di Ankara, Ankara, 18 novembre 2009
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: The toast on the Quirinale's historical portal
+  method: >-
+    the page opened in a browser, because the site answers scripts with a browser check; the passage read in
+    the page text
+  note: >-
+    The sentence, the opening of the toast and its dateline were read in the page text. The Ankara University
+    sentence was read by the second reader, not by the first. A second reader opened the page independently
+    and compared the quote and every quoted fragment with it.
+  checked_on: "2026-11-10"

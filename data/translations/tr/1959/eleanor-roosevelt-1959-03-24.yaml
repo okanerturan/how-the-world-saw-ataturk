@@ -1,0 +1,45 @@
+# Turkish for data/voices/1959/eleanor-roosevelt-1959-03-24.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: eleanor-roosevelt-1959-03-24
+voice: Eleanor Roosevelt
+role: >-
+  Eski Amerika Birleşik Devletleri First Lady'si; ortak yayımlanan 'My Day' gazete köşesinin yazarı
+quote: >-
+  Atatürk'ün anıtına arabayla gittik ama gün batımında kapandığı için içeri giremedik. Bütün gece çok parlak
+  bir şekilde aydınlatıyorlar; böylece dört bir yanındaki sütun dizileriyle yamacın üzerinde belirginleşiyor
+  ve Washington, D.C.'deki Lincoln Anıtı'na oldukça benziyor.
+quote_kind: translated
+summary: >-
+  Ankara'daki bir gece aktarmasında Atatürk'ün ışıklandırılmış mozolesine arabayla gitmiş ve sütun dizileriyle
+  burayı biraz Lincoln Anıtı'na benzetmiştir.
+caveat: >-
+  Tel Aviv mahreçli ve 24 Mart 1959'da yayımlanan, 13 Mart Cuma akşamını konu alan 'My Day' adlı köşe
+  yazısından: torunu Nina ile Roma'dan Tahran'a uçarken Ankara'da birkaç saatlik bir aktarma. ABD
+  Büyükelçiliği, onları elçilik arabasıyla karşılaması için personelinden Bay Butler'ı göndermiş; içeri
+  girmemişler. Kendisi buradan 'Ataturk's monument' diye söz eder; bunun mozole olduğu bizim tespitimizdir.
+  Butler'ın bir nöbetçiden duyduğunu söylediği şeyi, anıtın 'so as not to disturb Ataturk's slumbers' gün
+  doğumunda açılıp gün batımında kapandığını ekler. Bu, kendisi hakkında hiçbir yargı içermeyen bir
+  ziyaretçinin mozole tasviridir; Lincoln'ün anıtıyla yapılan karşılaştırma kendisine aittir. Dijital edisyon
+  bu köşe yazısını düzeltilmiş olarak işaretler, ancak bu pasajın yakınındaki tek düzeltme Tahran'ın
+  yazılışıdır.
+verification_note: >-
+  Site araması 'Ataturk' için yalnızca bu köşe yazısını döndürmekte, 'Kemal' için ise hiçbir sonuç
+  vermemektedir. İkinci bir okuyucu, edisyondaki listelenmiş tüm köşe yazılarının (7.996 adet, 1936-1962) ana
+  XML dosyalarını indirmiş ve adının alışılmış yazılışlarını aramıştır: başka hiçbir köşe yazısında adı
+  geçmemektedir. Adını anmadan Türkiye'den söz eden köşe yazıları arasında 29 Mart 1937 ('what has been done
+  in a very few years to change a country' konulu bir film), 21 Mayıs 1938 (Türk gazeteci Ismet Sanli'nin 'the
+  new Turkey of today' üzerine ziyareti) ve 13 Kasım 1958 (Türk karikatürlerinden oluşan bir broşür) yer alır.
+  Alıntı, köşe yazısının her iki versiyonunda da kelimesi kelimesine aynıdır.
+verification_method: >-
+  edisyonun site içi aramasında (yalnızca tarayıcıda çalışan bir Google arama kutusu) 'Ataturk', 'Kemal' ve
+  Turkey aramaları yapıldı; ardından köşe yazısı çekilip metni alıntıyla karşılaştırıldı
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 932d357c29e1
+  role: ca965b81993f
+  quote: bff8d4bc175b
+  summary: 534e529acb19
+  caveat: e5837beaeb2c
+  verification_note: a5b6efb1621e
+  verification_method: 644cb2732e28

@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: hollande-2014-01-27-dinner
+voice: François Hollande
+voice_type: person
+role: President of France
+country: France
+country_now: France
+domain: politics
+date: "2014-01-27"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  At the state dinner in Çankaya Palace: 'I think inevitably of Mustafa Kemal Atatürk', whose government
+  France was the first Western country to recognise.
+quote:
+  text: >-
+    Nous sommes réunis dans ce palais de Cancaya et je pense forcément à Mustafa KEMAL ATATÜRK dont, je le
+    rappelle, la France fut le premier pays occidental à reconnaitre le Gouvernement avant qu'il ne proclame
+    lui-même la République.
+  translation: >-
+    We are gathered in this palace of Çankaya and I think inevitably of Mustafa Kemal Atatürk, whose
+    government, let me recall, France was the first Western country to recognise, before he himself proclaimed
+    the Republic.
+  language: fr
+caveat: >-
+  Speech at the state dinner given by President Abdullah Gül, Ankara, 27 January 2014, on the first day of his
+  state visit ('cette visite d'Etat', twice in the speech; the site's heading has 'Voyage officiel'). A
+  courtesy that serves his theme, the age and strength of Franco-Turkish ties; the next sentence turns to the
+  present. The transcript prints 'Cancaya' and 'reconnaitre'. His entry in the Anıtkabir book the same day is
+  a separate record (hollande-2014-01-27-book).
+sources:
+  - url: https://www.vie-publique.fr/discours/190272-declaration-de-m-francois-hollande-president-de-la-republique-sur-les
+    label: Vie publique (République française), collection of public speeches
+    citation: >-
+      Déclaration de M. François Hollande, Président de la République, sur les relations entre la France et la
+      Turquie, à Ankara le 27 janvier 2014
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: The speech text on vie-publique.fr
+  method: >-
+    the page opened in a browser, because the site answers scripts with a browser check; the passage read in
+    the page text
+  note: >-
+    The sentence and the sentences on either side were read in the page text. The site's heading reads 'Voyage
+    officiel … dîner d'Etat offert par M. Abdullah Gül'; in the speech he calls it a 'visite d'Etat'. A second
+    reader opened the page independently and compared the quote and every quoted fragment with it.
+  checked_on: "2026-11-10"

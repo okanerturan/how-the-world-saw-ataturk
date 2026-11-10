@@ -1,0 +1,36 @@
+# Turkish for data/voices/1992/mitterrand-1992-04-13-statement.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mitterrand-1992-04-13-statement
+voice: François Mitterrand
+role: Fransa Cumhurbaşkanı
+quote: >-
+  Kemal Atatürk'ün "Yurtta barış, dünyada barış" sözleri hiçbir zaman bu kadar güncel olmamıştı.
+quote_kind: translated
+summary: >-
+  Ankara'da, de Gaulle'ünkinden bu yana yapılan ilk Fransız devlet ziyaretini açarken: 'Kemal Atatürk'ün
+  yurtta barış, dünyada barış sözleri hiçbir zaman bu kadar güncel olmamıştı.'
+caveat: >-
+  Devlet ziyaretinin ilk gününde Türkiye Cumhurbaşkanına verdiği yanıt, Ankara, 13 Nisan 1992, 'vingt-quatre
+  ans exactement après la visite du Général de Gaulle'. İfadeleri ('près de cette ville capitale, que je ne
+  connais pas') karşılama törenine işaret etmektedir; sitede yalnızca 'Ankara' yazar. Metnin daha önceki
+  kısımlarında, (tarihçi René Grousset'ye atfettiği bir ifadeyle) 'depuis les premiers rois Hittites, à Kemal
+  Atatürk en passant par Darius, les Seldjoukides, les Ottomans et Soliman' diyerek Atatürk'ü bu toprakların
+  tarihinin 'figures de proue' [öncü şahsiyetleri] arasında sayar. O akşam Çankaya'da yapılan kadeh kaldırma
+  konuşması ayrı bir kayıttır (mitterrand-1992-04-13).
+verification_note: >-
+  Açılış kısmı, 'figures de proue' cümlesi ve alıntılanan cümle ile çevresindeki metin sayfa metninden okundu.
+  Bunun karşılama konuşması olduğu arşivin çıkarımıdır. İkinci bir okuyucu sayfayı bağımsız olarak açmış ve
+  alıntıyı ve alıntılanan her parçayı metinle karşılaştırmıştır.
+verification_method: >-
+  site betiklere tarayıcı kontrolüyle yanıt verdiği için sayfa bir tarayıcıda açıldı; pasaj sayfa metninden
+  okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 7fa33b006a32
+  role: 4ed070142147
+  quote: 4939de872044
+  summary: fc0a2d99eb6d
+  caveat: bf627597a10a
+  verification_note: 875cd2ea8835
+  verification_method: 5905c6bf960b

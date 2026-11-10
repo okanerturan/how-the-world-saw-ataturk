@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: giscard-destaing-1976-09-23
+voice: Valéry Giscard d'Estaing
+voice_type: person
+role: President of France
+country: France
+country_now: France
+domain: politics
+date: "1976-09-23"
+era: posthumous
+polarity: admiring
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Receiving Turkey's new ambassador: Turkey owes its role as a link between Europe and the Near East to
+  Atatürk's 'decisive choice' for the Western democracies.
+quote:
+  text: >-
+    Ce rôle précieux de trait d'union entre l'Europe et le Proche-Orient, elle le doit au choix décisif
+    d'Ataturk qui a marqué la place de son pays parmi les nations démocratiques occidentales.
+  translation: >-
+    This precious role as a link between Europe and the Near East she owes to the decisive choice of Ataturk,
+    who marked out his country's place among the Western democratic nations.
+  note: >-
+    The official transcript is typed in capitals without accents; case and accents are restored here, the
+    wording is unchanged.
+  language: fr
+caveat: >-
+  Reply to the speech of Orhan Eralp on presenting his credentials as Turkey's ambassador, Paris, 23 September
+  1976; 'elle' is modern Turkey. A diplomatic courtesy: he goes on to derive the alliance and the association
+  with the European Community from that 'choix fondamental'. Two years later, receiving the next ambassador,
+  Hamit Batu (the transcript prints 'Hatim Batu'), on 7 September 1978, he said: 'Les choix de la Turquie
+  moderne, marqués par la grande figure d'Ataturk nous ont encore rapprochés.'
+sources:
+  - url: https://www.vie-publique.fr/discours/263053-allocution-de-m-le-president-de-la-republique-en-reponse-au-discours-de
+    label: Vie publique (République française), collection of public speeches
+    citation: >-
+      Allocution de M. le Président de la République en réponse au discours de M. Orhan Eralp, ambassadeur de
+      Turquie en France, Paris, 23 septembre 1976
+    accessed: "2026-11-10"
+  - url: https://www.vie-publique.fr/discours/262707-valery-giscard-destaing-07091978-lettres-de-creance-france-turquie
+    label: Vie publique (République française), collection of public speeches
+    citation: >-
+      Allocution de M. le Président de la République à l'occasion de la présentation des lettres de créance de
+      S.E. M. Hatim Batu, ambassadeur de Turquie en France, Palais de l'Élysée, 7 septembre 1978
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: Both addresses on vie-publique.fr
+  method: >-
+    the page opened in a browser, because the site answers scripts with a browser check; the passage read in
+    the page text
+  note: >-
+    The 1976 sentence and the 1978 sentence were read in the page text, which is in capitals. The site lists
+    the speaker of both as Valéry Giscard d'Estaing. The ambassador's name and his place after Eralp are from
+    the list of Turkish ambassadors to France, not from the page. A second reader opened the page
+    independently and compared the quote and every quoted fragment with it.
+  checked_on: "2026-11-10"

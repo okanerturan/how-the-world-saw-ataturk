@@ -1844,3 +1844,24 @@ The five Italian-language records from Chronicling America had been checked agai
 ## The three Vienna pages read whole (2026-11-10)
 
 `reichspost-1915-05-20`, `neue-freie-presse-1916-08-14` and `dimitri-atschkow-1916-09-09` had been read only in three-line crops, because the ANNO page viewer answers scripts with a browser check. Opened in a browser, the pages agree with the crops word for word. New from the whole pages: the Reichspost headline and the sheet's own heading ('Seite 2 … Nr. 235'); the line marking the Sofia item as the Neue Freie Presse's own telegram; and the interview's full heading and closing note, which describes 'Dimitri Atschkow' closely enough to identify him with Dimitar Achkov of Prilep (born 1869). The identification is the archive's and is flagged as such in the record; the lead it opens is in `research/candidates/before-1919.md`.
+
+## Census round 37 (2026-11-10): presidents, from sites that need a browser
+
+Four sites that answer scripts with a browser check were opened in an ordinary browser: the Eleanor Roosevelt Papers' column search (a Google box), the French government's speech collection (vie-publique.fr), the Italian presidency's historical portal and UNESCO's document library. On vie-publique.fr the search covers titles only, so the texts of 193 Turkey-related speeches were scanned for his name; 16 have it. A second reader then opened each page independently and found every quote word for word; the corrections below came from that read.
+
+| Record | Date | What was read | Corrected at the second read |
+|---|---|---|---|
+| `giscard-destaing-1976-09-23` | 23 Sep 1976 (with 7 Sep 1978) | Both addresses to new Turkish ambassadors; the transcript is in capitals | The 1978 sentence has no second comma; the transcript's 'Hatim Batu' is Hamit Batu |
+| `mitterrand-1992-04-13-statement` | 13 Apr 1992 | The statement in reply to the Turkish President on the first day of the state visit | The page does not say where in Ankara; 'arrival' is an inference and is no longer in the summary or the id |
+| `chirac-2002-11-22` | 22 Nov 2002 (with 19 Feb 1998) | Press conference at the NATO summit, Prague | The journalist said 65 million, Chirac 60 |
+| `ciampi-2005-11-22` | 22 Nov 2005 (with 23 Nov) | Both toasts and the visit programme | The Dolmabahçe meal was a dinner, not a lunch; translation tightened |
+| `napolitano-2009-11-17` | 17 Nov 2009 (with 18 Nov) | Toast; the Ankara University lecture was found by the second reader | Lecture added |
+| `sarkozy-2011-02-25` | 25 Feb 2011 | The whole Posta interview | The answer argues against EU membership; the claim that the French text was the Élysée's is dropped |
+| `hollande-2014-01-27-dinner` | 27 Jan 2014 | Speech at the state dinner | He calls it a state visit; the dinner was Gül's |
+| `eleanor-roosevelt-1959-03-24` | 24 Mar 1959 | Her 'My Day' column, both versions; the second reader also searched the XML of all 7,996 columns | The column does not say that the embassy's Mr. Butler drove; no other column names him |
+| `mbow-1980-06-09` | 9 Jun 1980 | UNESCO document DG/80/15, scanned typescripts in French and English, read as images | The French is milder than the English at 'ride roughshod'; he spoke at the opening, after the Turkish minister |
+
+Not entered: passing mentions by French ministers and by Prime Minister Fillon (`research/candidates/europe.md`). New leads: the Anıtkabir book entries of Ciampi (22 Nov 2005) and Napolitano (17 Nov 2009), which the Quirinale's programmes record but do not print.
+
+The Wayback Machine cannot archive these two sites (it stores the browser check instead of the page), nor UNESCO's, so those eight records carry no `archived` link.
+

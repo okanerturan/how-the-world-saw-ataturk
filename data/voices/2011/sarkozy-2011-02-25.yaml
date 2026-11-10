@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: sarkozy-2011-02-25
+voice: Nicolas Sarkozy
+voice_type: person
+role: President of France
+country: France
+country_now: France
+domain: politics
+date: "2011-02-25"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  Opposing Turkey's EU membership in a Turkish daily: new solutions must be invented, 'as visionaries like
+  Mustafa Kemal were able to do in the past'.
+quote:
+  text: >-
+    Je suis convaincu que nous devons inventer des solutions nouvelles, à la hauteur des défis communs qui
+    sont les nôtres, comme ont su le faire dans le passé des visionnaires comme Mustafa Kemal.
+  translation: >-
+    I am convinced that we must invent new solutions, equal to the common challenges we face, as visionaries
+    like Mustafa Kemal were able to do in the past.
+  language: fr
+caveat: >-
+  Interview with the Turkish daily Posta, published on 25 February 2011, the day of his working visit to
+  Ankara. Asked whether Turks are right to see him as 'un dirigeant qui n'aime pas la Turquie, qui veut la
+  pousser en dehors de l'Union européenne', he says Turkey and the EU should be as close as possible 'sans
+  aller jusqu'à l'intégration, qui ne profiterait en réalité ni à la Turquie ni à l'Union européenne', and
+  proposes instead a common space of which 'l'UE et la Turquie, avec la Russie, seraient des piliers'. The
+  quoted sentence closes that answer: Kemal is invoked as a model of boldness for an alternative to
+  membership, not discussed in his own right. The next question accuses him of treating Turkey as a Middle
+  Eastern country and pushing it away from the EU.
+sources:
+  - url: https://www.vie-publique.fr/discours/181376-entretien-de-m-nicolas-sarkozy-president-de-la-republique-dans-le-quo
+    label: Vie publique (République française), collection of public speeches
+    citation: >-
+      Entretien de M. Nicolas Sarkozy, Président de la République, dans le quotidien turc « Posta » du 25
+      février 2011
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: The interview text on vie-publique.fr
+  method: >-
+    the page opened in a browser, because the site answers scripts with a browser check; the passage read in
+    the page text
+  note: >-
+    The sentence, the end of the answer it closes and the following question were read in the page text by the
+    first reader; the second reader read the whole interview, in which Kemal is named once. A second reader
+    opened the page independently and compared the quote and every quoted fragment with it.
+  checked_on: "2026-11-10"

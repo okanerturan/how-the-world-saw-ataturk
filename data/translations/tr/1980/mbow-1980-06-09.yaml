@@ -1,0 +1,45 @@
+# Turkish for data/voices/1980/mbow-1980-06-09.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mbow-1980-06-09
+voice: Amadou-Mahtar M'Bow
+role: UNESCO Genel Direktörü
+quote: >-
+  Atatürk hiç kuşkusuz yüzyılımızın en iz bırakan şahsiyetlerinden biridir. Ve Kemalist devrim, hızlı
+  dönüşümlere tabi olan pek çok ülkenin bugün bile hâlâ karşı karşıya kalmaya devam ettiği bazı temel
+  sorunları ortaya koyan ilk devrimlerden biri olmuştur.
+quote_kind: translated
+summary: >-
+  Ankara'daki bir sempozyumun açılışında: Atatürk 'yüzyılımızın en seçkin şahsiyetlerinden biridir'; devrimi,
+  kurtuluş mücadelesi veren pek çok ülkeyi etkilemiştir.
+caveat: >-
+  9 Haziran 1980'de Ankara'da düzenlenen Atatürk Sempozyumu'nun açılışında, Türkiye Kültür Bakanı'nın
+  ardından, doğumunun yüzüncü yılı hazırlıkları sırasında Türk hükümetinin daveti üzerine yaptığı konuşma
+  (UNESCO belgesi DG/80/15, bir kapak ve daktiloyla yazılmış üç sayfa). Belgede hangi dilde konuştuğu
+  belirtilmemektedir; Fransızca ve İngilizce daktilo metinleri aynı numarayı taşımaktadır. Övgü koşulsuz
+  değildir. UNESCO'nun İngilizce metninde şöyle denir: 'Atatürk had to ride roughshod over age-old customs,
+  defy powerful entrenched forces and act uncompromisingly in often painful dilemmas. … Inevitably he
+  sometimes took controversial decisions and made choices some of which might today seem hazardous. But is
+  that not the lot of all who lead their peoples down new paths, down avenues still untried?' Fransızca metin
+  ilk noktada daha yumuşaktır: 'Atatürk dut bousculer des habitudes séculaires, braver de puissantes forces
+  établies, trancher des dilemmes souvent douloureux'. Ayrıca 'that period of history which bears the imprint
+  of Atatürk's genius' ('la période historique qui porte l'empreinte du génie d'Atatürk') ifadesini kullanır.
+  Mustafa Kemal önderliğindeki devrimin 'to exert a profound influence in many countries fighting for their
+  liberation' olduğunu söyler ve sözlerini bu devrimin 'in which its originality combines with its
+  universality' olan dış politikasıyla bitirir.
+verification_note: >-
+  İlk okur İngilizce konuşmanın tamamını ve Fransızca metnin ilk sayfasını okudu. Ardından ikinci bir okur her
+  iki daktilo metnini de baştan sona okudu: Fransızca alıntı ve şerhte alıntılanan her İngilizce ibare
+  verildiği şekliyle bulundu. Her iki daktilo metninde de konuşmayı hangi dilde yaptığı belirtilmemektedir.
+verification_method: >-
+  belgeler bir tarayıcıda açılmıştır (kütüphane betiklere tarayıcı kontrolüyle yanıt vermektedir); metin
+  katmanı olmayan taramalar olduğundan sayfalar görüntü olarak okunmuştur
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 8ea6f46752e2
+  role: 2bd5fdb14ff3
+  quote: 19d1a8d6ba0b
+  summary: adaa9251056d
+  caveat: 22ddeb2fcc8d
+  verification_note: 6de7bb8af209
+  verification_method: e91672fe4502
