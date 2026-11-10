@@ -31,8 +31,11 @@ sources:
   - url: https://www.aa.com.tr/tr/turkiye/hollande-turkiyede/187515
     archived: https://web.archive.org/web/20261109114032/https://www.aa.com.tr/tr/turkiye/hollande-turkiyede/187515
   - url: https://www.hurriyet.com.tr/dunya/hollandein-tarihi-ziyareti-basladi-25663527
+    archived: https://web.archive.org/web/20261110013808/https://www.hurriyet.com.tr/dunya/hollandein-tarihi-ziyareti-basladi-25663527
   - url: https://www.sozcu.com.tr/hollande-bugun-turkiyede-wp447749
+    archived: https://web.archive.org/web/20261110013902/https://www.sozcu.com.tr/hollande-bugun-turkiyede-wp447749
   - url: https://www.dunya.com/gundem/22-yil-sonra-ilk-ziyaret-haberi-235918
+    archived: https://web.archive.org/web/20261110014013/https://www.dunya.com/gundem/22-yil-sonra-ilk-ziyaret-haberi-235918
 verification:
   verdict: confirmed
   quote_found: true

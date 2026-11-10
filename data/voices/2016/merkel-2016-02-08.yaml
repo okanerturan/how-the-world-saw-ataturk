@@ -33,6 +33,7 @@ sources:
   - url: https://www.yeniasir.com.tr/gundem/2016/02/08/turkiye-cumhuriyetinin-atasi
     archived: https://web.archive.org/web/20160513053655/http://www.yeniasir.com.tr:80/gundem/2016/02/08/turkiye-cumhuriyetinin-atasi
   - url: https://www.ensonhaber.com/merkel-anitkabiri-ziyaret-etti-2016-02-08-h10640632
+    archived: https://web.archive.org/web/20261110014401/https://www.ensonhaber.com/merkel-anitkabiri-ziyaret-etti-2016-02-08-h10640632
 verification:
   verdict: partial
   quote_found: true

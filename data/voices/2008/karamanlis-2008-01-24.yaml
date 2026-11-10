@@ -35,6 +35,7 @@ sources:
   - url: https://archive.cyprus-mail.com/2008/01/25/karamanlis-lauds-ataturk-on-historic-trip-to-turkey/
     archived: https://web.archive.org/web/20250621161603/https://archive.cyprus-mail.com/2008/01/25/karamanlis-lauds-ataturk-on-historic-trip-to-turkey/
   - url: https://www.hurriyet.com.tr/gundem/kucuk-asya-faciasi-anitkabirde-8091290
+    archived: https://web.archive.org/web/20261110013256/https://www.hurriyet.com.tr/gundem/kucuk-asya-faciasi-anitkabirde-8091290
 verification:
   verdict: confirmed
   quote_found: true

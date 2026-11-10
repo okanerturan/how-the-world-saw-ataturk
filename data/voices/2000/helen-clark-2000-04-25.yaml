@@ -33,8 +33,11 @@ caveat: >-
 node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: https://m.scoop.co.nz/stories/PA0004/S00312/pm-in-turkey-anzac-dawn-service.htm
+    archived: https://web.archive.org/web/20261110012021/https://m.scoop.co.nz/stories/PA0004/S00312/pm-in-turkey-anzac-dawn-service.htm
   - url: https://m.scoop.co.nz/stories/PA0004/S00311/pm-in-turkey-the-international-service.htm
+    archived: https://web.archive.org/web/20261110012106/https://m.scoop.co.nz/stories/PA0004/S00311/pm-in-turkey-the-international-service.htm
   - url: https://ataturksociety.org/?p=667
+    archived: https://web.archive.org/web/20261110012224/https://ataturksociety.org/?p=667
 verification:
   verdict: confirmed
   quote_found: true

@@ -28,6 +28,7 @@ caveat: >-
 node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: https://www.brecorder.com/news/amp/136384
+    archived: https://web.archive.org/web/20261110013623/https://www.brecorder.com/news/amp/136384
 verification:
   verdict: confirmed
   quote_found: true

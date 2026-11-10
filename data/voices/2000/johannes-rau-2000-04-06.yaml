@@ -39,7 +39,9 @@ caveat: >-
 node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: https://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2000/04/20000406_Rede.html
+    archived: https://web.archive.org/web/20261110012315/https://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2000/04/20000406_Rede.html
   - url: https://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2000/04/20000406_Rede2.html
+    archived: https://web.archive.org/web/20261110012519/https://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2000/04/20000406_Rede2.html
 verification:
   verdict: confirmed
   quote_found: true

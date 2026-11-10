@@ -33,7 +33,9 @@ caveat: >-
 node: Leaders in the Anıtkabir Special Book, 2004–2025
 sources:
   - url: https://www.hurriyet.com.tr/gundem/cok-duygulandim-236952
+    archived: https://web.archive.org/web/20261110012807/https://www.hurriyet.com.tr/gundem/cok-duygulandim-236952
   - url: https://www.yenimesaj.com.tr/anitkabir-ozel-defterini-cia-kalemiyle-imzaladi-H1100793.htm
+    archived: https://web.archive.org/web/20261110012921/https://www.yenimesaj.com.tr/anitkabir-ozel-defterini-cia-kalemiyle-imzaladi-H1100793.htm
 verification:
   verdict: partial
   quote_found: true
