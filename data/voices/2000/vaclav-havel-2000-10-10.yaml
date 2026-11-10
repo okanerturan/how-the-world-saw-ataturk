@@ -41,7 +41,9 @@ caveat: >-
 node: World Leaders on Atatürk — Round 30 Sweep
 sources:
   - url: http://web.archive.org/web/20041119040841/http://old.hrad.cz:80/president/Havel/speeches/2000/1010.html
+    archived: https://web.archive.org/web/20041119040841/http://web.archive.org/web/20041119040841/http://old.hrad.cz:80/president/Havel/speeches/2000/1010.html
   - url: http://web.archive.org/web/20040220132041/http://old.hrad.cz:80/president/Havel/speeches/2000/1010_uk.html
+    archived: https://web.archive.org/web/20040220132041/http://web.archive.org/web/20040220132041/http://old.hrad.cz:80/president/Havel/speeches/2000/1010_uk.html
 verification:
   verdict: confirmed
   quote_found: true
