@@ -28,8 +28,14 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn81004351 1926-10-27 p.2 (tile.loc.gov full_text)
+  checked_against: >-
+    La Opinión (Los Angeles), 27 October 1926, p. 2: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn81004351)
   method: >-
-    headline 'Los Napoleones de Papel Carton' present; column says Kemal proposes polygamy to Angora
-    legislature, 'suspirar por las orgias, el serrallo'; hostile polarity fits
-  checked_on: "2026-10-29"
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
+  checked_on: "2026-11-10"
+  note: >-
+    The quoted words were read on the page scan and are as printed. From the OCR text: headline 'Los
+    Napoleones de Papel Carton' present; column says Kemal proposes polygamy to Angora legislature, 'suspirar
+    por las orgias, el serrallo'; hostile polarity fits

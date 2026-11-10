@@ -11,9 +11,12 @@ summary: >-
   okuryazarlığın yaygınlaşması.
 caveat: İmzasız haber ve yorum köşesi.
 verification_note: >-
-  Birebir aynı; aynı makale okumayı yaygınlaştırmak için İsviçre hukukunu ve Latin alfabesini anıyor (OCR
-  sütun sırası birbirine karışmış).
-verification_method: tile.loc.gov full_text
+  Alıntılanan sözler sayfa taramasından okundu ve basıldığı gibidir. OCR metninden: bire bir aynı; aynı makale
+  okuma yazmayı yaygınlaştırmak için İsviçre hukuku ve Latin alfabesinden söz ediyor (OCR sütun sırası
+  birbirine karışmış).
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a4de90df8c5a
@@ -21,5 +24,5 @@ source_fingerprints:
   quote: a72eaff9438d
   summary: 3d7697a77355
   caveat: 55c7719b1a1f
-  verification_note: b0cd0a3ab1ab
-  verification_method: 0e07f3903a84
+  verification_note: 24c67c3a6abc
+  verification_method: 7f67ff34ed94

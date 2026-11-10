@@ -19,7 +19,7 @@ Leads from the search of 10 November 2026 for texts about Mustafa Kemal that exi
 | Piacentini, acting Italian consul at Tripoli, 18 Oct 1908, no. 940/394 | Archivio Storico Diplomatico, Rome |
 | Vakit and Zaman, November 1918: how the papers framed the same interview | Istanbul newspaper collections |
 | Büyük Mecmua no. 3, 20 Mar 1919, p. 44, in the original (is it signed?) | Periodical collections |
-| The full pages behind `reichspost-1915-05-20`, `neue-freie-presse-1916-08-14` and `dimitri-atschkow-1916-09-09` | anno.onb.ac.at in a browser (the page viewer asks for a check) |
+| Dimitar Achkov (the 'Dimitri Atschkow' of `dimitri-atschkow-1916-09-09`) as a friend of Mustafa Kemal, and as head of the Bulgarian delegation to Ankara in 1922: anything he said or wrote about him later | «Ататюрк оставя сърцето си в България», Standart, 2 Apr 2006 (Wayback copy); Gadzhev, *Иван Михайлов – отвъд легендите*, vol. I (Sofia, 2007), pp. 237–238 |
 | German press on Crown Prince Vahdettin's visit, December 1917 – January 1918 | Deutsches Zeitungsportal in a browser |
 | Dated diaries: İzzettin Çalışlar (his chief of staff, 1915–17); Cavid Bey, *Meşrutiyet Rûznâmesi* (1917–18); Kâzım Karabekir, *Günlükler* (April 1919) | Printed editions |
 | British files for November 1918 – May 1919; the Arab Bulletin; *Handbook of the Turkish Army* (Cairo, 1916) | The National Archives; India Office Records |

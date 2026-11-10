@@ -26,9 +26,13 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn86002403 1935-01-24 p.1 OCR
-  method: tile.loc.gov full_text
+  checked_against: >-
+    La Gaceta (Tampa), 24 January 1935, p. 1: the page scan and its OCR text (Library of Congress, Chronicling
+    America sn86002403)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Verbatim; preceding lines name 'Mussolini, un Hitler o un Mustafá Kemal'. Sentence applies to the whole
-    set.
-  checked_on: "2026-10-30"
+    The quoted words were read on the page scan and are as printed. From the OCR text: verbatim; preceding
+    lines name 'Mussolini, un Hitler o un Mustafá Kemal'. Sentence applies to the whole set.
+  checked_on: "2026-11-10"

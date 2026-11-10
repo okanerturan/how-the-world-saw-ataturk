@@ -16,20 +16,25 @@ summary: >-
   Called Kemal a dictator beside whom Mussolini, Pilsudski or Primo de Rivera were still 'children of
   Democracy', then cited Le Temps on a one-party state.
 quote:
-  text: Mustaphá Kemal es un dictador ante quien
+  text: >-
+    Mustaphá Kemal es un dictador ante quien Mussolini, Pilsudski o Primo de Rivera son todavía hijos de la
+    Democracia.
   language: es
-caveat: >-
-  Column signed 'Por MARCO POLO' on page 3; OCR of the quoted sentence has artefacts ('MussolinL, Pllsudski'),
-  so only the clean clause is quoted. The Le Temps passage is quoted by the columnist.; text unchecked by
-  independent check (InFlow stopped 2026-10-29)
+caveat: Column signed 'Por MARCO POLO' on page 3. The Le Temps passage is quoted by the columnist.
 node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
 sources:
   - url: https://www.loc.gov/resource/sn81004351/1928-07-26/ed-1/?sp=3
 verification:
-  verdict: unreachable
-  checked_against: loc.gov sn81004351 1928-07-26 p.3
+  verdict: confirmed
+  checked_against: >-
+    La Opinión (Los Angeles), 26 July 1928, p. 3: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn81004351)
   method: >-
-    ms wrapper returned INFLOW STOPPED (stop rule); direct curl to loc.gov/chroniclingamerica Cloudflare 403
-  note: Not checked.
-  checked_on: "2026-10-29"
-  quote_found: false
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
+  note: >-
+    Read on the page scan: the sentence is printed cleanly and is now quoted whole (the OCR had 'MussolinL,
+    Pllsudski', so only its first clause had been quoted). The byline 'Por MARCO POLO' is on the page. Until
+    10 Nov 2026 this record had not been checked at all.
+  checked_on: "2026-11-10"
+  quote_found: true

@@ -19,18 +19,23 @@ quote:
   text: el héroe que salvó al país, posee la fuerza de un símbolo
   language: es
 caveat: >-
-  Printed 'Especial para La Opinión'; the byline is read from the OCR. Maco also notes a reactionary force and
-  that the Turk 'imitates European civilisation only partially'.
+  Under the kicker 'Crónica de Turquía' the piece is headed 'La Turquía Tradicional — Por PEDRO MACO (Especial
+  para LA OPINION. —Prohibida la Reproducción.)'. Maco also notes a reactionary force and that the Turk
+  'imitates European civilisation only partially'.
 node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
 sources:
   - url: https://www.loc.gov/resource/sn81004351/1929-05-16/ed-1/?sp=3
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: tile.loc.gov OCR sn81004351 1929-05-16 (curiv twinberry 1929051601/0163) full_text
-  method: loc.gov ALTO full_text via curl
+  checked_against: >-
+    La Opinión (Los Angeles), 16 May 1929, p. 3: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn81004351)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    'CRÓNICA DE TURQUÍA Por PEDRO MACO (Especial para LA OPINIÓN)'; 'el héroe que salvó al país, posee la
-    fuerza de un símbolo' verbatim; 'voluntad de hierro' and reactionary force present. Sheet seq 3 not
-    independently confirmed from the loc.gov page viewer.
-  checked_on: "2026-10-29"
+    Read on the page scan: 'el héroe que salvó al país, posee la fuerza de un símbolo' is as printed, and the
+    title and byline are on the page. Page 3 is image file 0163 of the reel, as the archived Chronicling
+    America page confirms. From the OCR text: 'voluntad de hierro' and the reactionary force.
+  checked_on: "2026-11-10"

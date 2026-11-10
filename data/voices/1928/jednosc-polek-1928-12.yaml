@@ -17,7 +17,7 @@ summary: >-
   Reports a rumour of crowning Kemal king, which the Turkish press rejects; says Poles grasp his work through
   Piłsudski's, 'our Polish Washington'.
 quote:
-  text: Odrodzicielem kraju i narodu w Turcji jest Kemal Pasza.
+  text: Odrodzicielem kraju i narodu w Turcji — jest Kemal Pasza.
   language: pl
 caveat: >-
   Unsigned column; the Piłsudski analogy is the paper's, anchored to a remark it attributes to a US envoy in
@@ -28,7 +28,14 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn83035481 1928-12-18 sp=4 page OCR
-  method: loc.gov JSON + tile OCR
-  note: Exact; crown rumour, Turkish press reply and Pilsudski 'nasz polski Washington' present.
-  checked_on: "2026-10-30"
+  checked_against: >-
+    Jedność Polek (Cleveland), 18 December 1928, p. 4: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn83035481)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
+  note: >-
+    Read on the page scan; the paper prints a dash after 'Turcji', which the OCR had dropped. The lines before
+    it call Piłsudski 'nasz polski Washington'. From the OCR text: the crown rumour and the Turkish press's
+    reply.
+  checked_on: "2026-11-10"

@@ -20,17 +20,22 @@ quote:
   text: no cabe negarle que es el campeón de la renovación
   language: es
 caveat: >-
-  Unsigned Angora dispatch dated 27 Jan, printed in Los Angeles; the headline's OCR is garbled but the
-  sentence quoted is clean.
+  Unsigned Angora dispatch dated 27 Jan, printed in Los Angeles under 'KEMAL PASHA HA OBTENIDO SONADO TRIUNFO
+  EN TURQUIA / Su Mayor Hazaña ha Consistido en Modernizar a un País Completamente Tradicionalista'. Just
+  before the quoted clause the paper itself prints 'Keman Pasha'.
 node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
 sources:
   - url: https://www.loc.gov/resource/sn81004351/1929-02-03/ed-1/?sp=2
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn81004351 1929-02-03 p.2 full text (tile.loc.gov, 0290.xml)
-  method: tile.loc.gov full_text via curl
+  checked_against: >-
+    La Opinión (Los Angeles), 3 February 1929, p. 2: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn81004351)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    'no cabe negarle que es el campeón de la renovación' present, dispatch ANGORA Enero 27, headline about
-    triunfo and modernising a traditionalist country; dictator's-sword remark in snippets.
-  checked_on: "2026-10-29"
+    Read on the page scan: 'no cabe negarle que es el campeón de la renovación' is as printed, with the
+    headline and the dateline ANGORA, Enero 27. From the OCR text: the dictator's-sword remark.
+  checked_on: "2026-11-10"

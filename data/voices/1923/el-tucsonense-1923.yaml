@@ -26,13 +26,16 @@ verification:
   verdict: partial
   quote_found: true
   checked_against: >-
-    El Tucsonense 17 Feb 1923 p.7 via tile.loc.gov full_text (batch_az_dyingcowboy_ver02
-    .../1923021701/1049.xml)
-  method: tile.loc.gov OCR text
+    El Tucsonense (Tucson), 17 February 1923, p. 7: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn95060694)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Phrase occurs but negated: 'Nadie, hasta ahora, lo ha llamado "el Napoleón del Cercano Oriente" pero los
-    periodistas ... lo harán tarde o temprano ... se dice que recuerda a Napoleón'. The paper says nobody has
-    yet called him that; quote as epithet is misleading. Rest (heading QUIEN ES MUSTAFA KEMAL PASHA, real
-    dictator, esperanza y terror, Spanish-Jewish ancestry) supported.
+    Read on the page scan; there is no quote in this record. Phrase occurs but negated: 'Nadie, hasta ahora,
+    lo ha llamado "el Napoleon del Cercano Oriente" pero los periodistas ... lo harán tarde o temprano ... se
+    dice que recuerda a Napoleón'. The paper says nobody has yet called him that; quote as epithet is
+    misleading. Rest (heading QUIEN ES MUSTAFA KEMAL PASHA, real dictator, esperanza y terror, Spanish-Jewish
+    ancestry) supported.
   resolution: fixed before merge
-  checked_on: "2026-10-29"
+  checked_on: "2026-11-10"

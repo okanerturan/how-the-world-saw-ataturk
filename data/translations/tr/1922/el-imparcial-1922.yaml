@@ -10,19 +10,24 @@ summary: >-
   'El Caudillo de Angora' başlıklı portre: Türkiye ihanete uğramış halklar arasında ayağa kalkan ilk halktır;
   Kemal ise kurtarıcı olarak alkışlanan, pantürkist çılgınlığı reddeden ölçülü ve sessiz bir liderdir.
 caveat: >-
-  Yazar adı OCR'da 'Camie Rerría' olarak çıkmıştır (isim çözülemedi); OCR metni yer yer bozuktur, alıntı satır
-  sonu bölünmesi birleştirilerek alınmıştır ('sal vador').
+  Yazar satırı taramada bulanıktır; 'por Camilo Barcia.' olarak okunuyor görünmektedir (OCR'da 'Camie Rerría'
+  çıkmıştır).
 verification_note: >-
-  'Kemal es aclamado como sal vador' mevcut (satır sonu birleştirmesi); 'El Caudillo de Angora' başlığı,
-  'Turquía es el primero de los pueblos vendidos que se incorpora', ölçülü/sessiz ve pantürkizm karşıtı
-  unsurların tümü mevcut; yazar adı OCR'da belirtildiği gibi 'Camie Rerría'.
-verification_method: curl aracılığıyla tile.loc.gov full_text
+  Sayfa taramasında okunmuştur: 'Kemal es aclamado como salvador' satır sonundan bölünmüş 'sal-vador' ile
+  basıldığı gibidir. Yazar satırı bulanıktır ve 'por Camilo Barcia.' olarak okunuyor görünmektedir. OCR
+  metninden yapılan önceki kontrol: 'Kemal es aclamado como sal vador' mevcuttur (satır sonu birleştirmesi);
+  'El Caudillo de Angora' başlığı, 'Turquía es el primero de los pueblos vendidos que se incorpora',
+  ölçülü/sessiz, pan-Türkizm karşıtı ifadelerin tamamı mevcuttur; yazar satırı OCR'ı belirtildiği gibi 'Camie
+  Rerría' şeklindedir.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü servisinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 0ee38f5dc6d1
   role: 627eeee3a771
   quote: bdb3dce1da35
   summary: aeb0efd99e3a
-  caveat: b4a9bd8da3bf
-  verification_note: 67e8e78e809b
-  verification_method: 1635ac2d73d2
+  caveat: 87136d31e970
+  verification_note: 1093a598a64d
+  verification_method: 7f67ff34ed94

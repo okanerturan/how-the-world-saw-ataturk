@@ -26,7 +26,13 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn88078386 1930-01-31 ed-1 (OCR, file 0489)
-  method: loc.gov JSON -> tile.loc.gov full_text OCR
-  note: Quote verbatim under 'TURECKO ZAKÁZALO DEŤOM PRACOVAŤ'; US South contrast present.
-  checked_on: "2026-10-30"
+  checked_against: >-
+    Youngstownské Slovenské Noviny, 31 January 1930, p. 1: the page scan and its OCR text (Library of
+    Congress, Chronicling America sn88078386)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
+  note: >-
+    The quoted words were read on the page scan and are as printed. From the OCR text: quote verbatim under
+    'TURECKO ZAKÁZALO DEŤOM PRACOVAŤ'; US South contrast present.
+  checked_on: "2026-11-10"

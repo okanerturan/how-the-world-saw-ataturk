@@ -10,17 +10,21 @@ summary: >-
   'Obrozování Turecka' başlıklı makale: Türkiye'nin galip çıktığı Lozan yeni bir dönem açıyor; Kemal'in
   zaferleri Ankara ulusal rönesansının itici gücünü oluşturuyor.
 caveat: >-
-  Makalenin başında OCR metninde bir yazarın baş harfleri yer almaktadır ('Dr. F. Š.'?), çözümlenememiştir;
-  sayfa üstbilgisi ve sütun sırası OCR nedeniyle bozulmuştur.
+  Deneme 'OBROZOVÁNÍ TURECKA.' başlığını taşımakta ve yalnızca 'Dr. F. S.' baş harfleriyle imzalanmaktadır;
+  yazarın kimliği belirtilmemiştir.
 verification_note: >-
-  Birebir aynı (OCR'da 'de jin'); Lozan barışından 'jako vitez' ve Kemal'in zaferleri rönesansa yön veriyor.
-verification_method: loc.gov JSON + görüntü parçası OCR
+  Sayfa taramasından okundu: alıntı basıldığı gibidir (OCR 'dějin' kelimesini bölmüştü), başlık ve 'Dr. F. S.'
+  baş harfleri yer almaktadır. OCR metninden: 'jako vítěz' olarak Lozan barışı ve rönesansı yönlendiren
+  Kemal'in zaferleri.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: ce04da9282e4
   role: d6666ca9a7d5
   quote: 1c9f0387783c
   summary: 1d23526b7318
-  caveat: ba36936515f5
-  verification_note: 33fb9362afa3
-  verification_method: 363638f20035
+  caveat: b8fa54529cdb
+  verification_note: d6767c908fdf
+  verification_method: 7f67ff34ed94

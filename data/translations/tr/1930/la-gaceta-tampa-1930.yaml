@@ -4,25 +4,29 @@
 id: la-gaceta-tampa-1930
 voice: La Gaceta (Tampa)
 role: İspanyolca günlük gazete, Tampa, Florida
-quote: Türkiye, Cumhurbaşkanı Mustafa Kemal Paşa dolayısıyla bir “cumhuriyet”tir
+quote: Türkiye, diktatör-cumhurbaşkanı Kemal Paşa tarafından yönetilen bir “cumhuriyet”tir
 quote_kind: translated
 summary: >-
   Diktatörlükler üzerine birinci sayfa köşe yazısı: Türkiye yalnızca adıyla bir 'cumhuriyet'; Kemal ömür boyu
   cumhurbaşkanlığını reddetti ama işine geldiği sürece cumhurbaşkanı kalacağını 'biliyor'.
 caveat: >-
-  İmzasız birinci sayfa köşe yazısı; OCR, Kemal'in reddine ilişkin satırı bozmuştur. Aynı köşenin diktatör
-  listeleri (27 Haziran 1930, 28 Mayıs 1932, 1 Kasım 1935) kayıt değil, ipucudur.
+  İmzasız birinci sayfa köşe yazısı. Aynı köşe, ayrı kayıtlar olan 27 Haziran 1930, 28 Mayıs 1932 ve 1 Kasım
+  1935 tarihli diktatör listelerinde de Kemal'e döner.
 verification_note: >-
-  küçük sorun: LoC üstverisi La Gaceta'yı haftalık olarak listeliyor, kayıttaki rol alanı 'daily' diyor
+  Sayfa taramasından okundu: 'Turquía es una “república” gobernada por el presidente-dictador Kemal Pachá.'
+  OCR 'gobernada' ve '-dictador' kelimeleri ile vurgu işaretini atlamıştı. Reddedişine dair satırlar taramada
+  okunabiliyor ('No quiso el Dictador aceptar “el honor,”…'; 'él sabe que será presidente hasta que le
+  convenga'). LoC üst verileri La Gaceta'yı haftalık olarak listeliyor; kayıttaki görev bilgisinde ise
+  'günlük' deniyor.
 verification_method: >-
-  alıntı OCR'da mevcut ('Turquia es una republica por el presidente Kemal Pacha'); Kemal ömür boyu
-  cumhurbaşkanlığını reddediyor, 'sabe que sera presidente hasta que le convenga'
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  alıntılanan sözlerin okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1af7128c59ed
   role: 68e91204af83
-  quote: 8a4aa24517dc
+  quote: ba5ca7a81592
   summary: 647ae9e58433
-  caveat: b4c265fccf2d
-  verification_note: 07c4d0f5b72a
-  verification_method: cc4dca0ba11b
+  caveat: 695c29cc0a05
+  verification_note: 6d7971b8a6b9
+  verification_method: 7f67ff34ed94

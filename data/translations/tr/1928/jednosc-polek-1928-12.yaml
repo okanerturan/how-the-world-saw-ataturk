@@ -4,7 +4,7 @@
 id: jednosc-polek-1928-12
 voice: Jedność Polek (Cleveland)
 role: Lehçe haftalık kadın gazetesi, Cleveland
-quote: Türkiye'de ülkenin ve ulusun dirilticisi Mustafa Kemal Paşa'dır.
+quote: Türkiye'de ülkenin ve milletin yeniden dirilticisi — Kemal Paşa'dır.
 quote_kind: translated
 summary: >-
   Kemal'e kral tacı giydirileceği yönündeki, Türk basınının reddettiği bir söylentiyi aktarır; Polonyalıların
@@ -13,14 +13,18 @@ caveat: >-
   İmzasız köşe yazısı; Piłsudski benzetmesi gazeteye aittir ve Varşova'daki bir ABD elçisine atfettiği bir
   söze dayandırılmıştır.
 verification_note: >-
-  Tam eşleşme; taç söylentisi, Türk basınının yanıtı ve Pilsudski 'nasz polski Washington' mevcut.
-verification_method: loc.gov JSON + tile OCR
+  Sayfa taramasından okundu; gazetede 'Turcji' kelimesinden sonra OCR'ın atladığı bir tire basılıdır.
+  Öncesindeki satırlarda Piłsudski 'nasz polski Washington' olarak adlandırılmaktadır. OCR metninden: taç
+  söylentisi ve Türk basınının yanıtı.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a4de90df8c5a
   role: f069f2cdbd4d
-  quote: 650d623fe1d6
+  quote: 2afffd13ac5e
   summary: 10fab33eab29
   caveat: 76e2c5f16e4e
-  verification_note: 708ac6fe8f3f
-  verification_method: 363638f20035
+  verification_note: 7df3eca4dc77
+  verification_method: 7f67ff34ed94

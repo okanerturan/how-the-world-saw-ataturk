@@ -13,9 +13,12 @@ caveat: >-
   İmzasız başyazı. Ayrıca İzmir'i Türklerin değil Yunanların yaktığını ileri sürer; bu iddia tartışmalıdır ve
   yalnızca gazetenin görüşü olarak kaydedilmiştir.
 verification_note: >-
-  Birebir. Standard Oil ve 'okrutnych Turków' yakınmasının bırakılması, İzmir'i Yunanların yakması,
-  Polonya'nın Türklere karşı 'przychylne' olması ifadelerinin tamamı mevcut.
-verification_method: loc.gov JSON + tile.loc.gov full_text
+  Alıntılanan sözler sayfa taramasında okunmuştur ve basıldığı gibidir. OCR metninden: bire bir aynıdır.
+  Standard Oil'in 'okrutnych Turków' şikayetinden vazgeçilmesi, Yunanların İzmir'i yakması, Polonya'nın
+  Türklere karşı 'przychylne' tutumu ifadelerinin tamamı mevcuttur.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü servisinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: d6d9d670853d
@@ -23,5 +26,5 @@ source_fingerprints:
   quote: f71de572c0f5
   summary: d0c0ccfb067b
   caveat: f5e8d7ffe988
-  verification_note: eb4bac9edcfd
-  verification_method: 28ee7781d3b6
+  verification_note: ef560443f460
+  verification_method: 7f67ff34ed94

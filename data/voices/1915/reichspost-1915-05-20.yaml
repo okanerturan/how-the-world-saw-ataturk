@@ -30,11 +30,12 @@ caveat: >-
   The praise goes to the infantry under his command more than to him, and it is wartime communiqué copy, with
   heavy enemy losses claimed in the next sentence. The first reader saw the same text in Deutsches Volksblatt
   (21 May), Das interessante Blatt (27 May) and Mühlviertler Nachrichten (29 May 1915); those were not
-  re-checked. Read in crops of the scanned page; the headline ('Der Durchbruchsversuch bei Ari Burun
-  gescheitert') is known from the OCR text only, and the full page sits behind the library viewer's bot check.
+  re-checked. Read on the whole page in the library's viewer: the item is headed 'Der Durchbruchsversuch bei
+  Ari Burun gescheitert.' (the text below it spells 'Ari Burnu'), and the sheet itself is headed 'Seite 2 …
+  Reichspost … 20. Mai 1915 … Nr. 235'; it is page 16 of the day's scan.
 sources:
   - url: https://anno.onb.ac.at/cgi-content/anno?aid=rpt&datum=19150520&seite=16
-    label: Austrian National Library, ANNO (the page viewer asks for a browser check)
+    label: Austrian National Library, ANNO page viewer
     citation: Reichspost (Vienna), 20 May 1915, p. 16
     page: 16
     accessed: "2026-11-10"
@@ -44,9 +45,11 @@ verification:
   checked_against: >-
     Reichspost, 20 May 1915, p. 16, in the Austrian National Library's ANNO collection (document
     ANNO_rpt19150520)
-  method: scan crops returned by the library's open search endpoint, three lines at a time
+  method: >-
+    scan crops from the library's open search endpoint, then the whole page in the library's viewer, opened in
+    a browser
   note: >-
-    The dateline and every sentence of the item were read in crops of the scanned page; 'Sechzehn Bataillone'
-    and 'Mustafa Kemal' are in spaced type. Neither reader has seen the page as a whole, and the headline was
-    not in any crop.
+    The whole page was read in the viewer: headline, the dateline 'SslK Konstantinopel, 18. Mai.' and every
+    sentence of the item, with 'Sechzehn Bataillone' and 'Mustafa Kemal' in spaced type. It agrees with the
+    crops the two readers had seen.
   checked_on: "2026-11-10"

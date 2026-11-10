@@ -12,10 +12,12 @@ summary: >-
 caveat: >-
   İmzasız köşe yazısı; alıntılanan cümle genel ilkedir, Mustafa Kemal Paşa cümleciği iki cümle sonra gelir.
 verification_note: >-
-  Birebir aynı. Sonraki cümleler Mussolini, Piłsudski, 'el Sr. Kemal Pasha' ve Stalin'i sıralıyor; hasmane
-  kutupluluk diktatör listesinden çıkarılmıştır; çekince notunda belirtildiği gibi alıntının kendisi genel
-  ilkedir.
-verification_method: tile.loc.gov full_text
+  Alıntılanan sözler sayfa taramasından okundu ve basıldığı gibidir. OCR metninden: bire bir aynı. Sonraki
+  cümleler Mussolini, Piłsudski, 'el Sr. Kemal Pasha' ve Stalin'i sıralamaktadır; düşmanca kutupluluk diktatör
+  listesinden çıkarılmaktadır; alıntının kendisi, araştırma notunda belirtildiği üzere genel ilkedir.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1af7128c59ed
@@ -23,5 +25,5 @@ source_fingerprints:
   quote: 2c58b37d9770
   summary: 2a26d0c5a1dd
   caveat: bcfaf7f37dab
-  verification_note: d8aa5f201d31
-  verification_method: 0e07f3903a84
+  verification_note: 5a1cbd8d59ea
+  verification_method: 7f67ff34ed94

@@ -13,13 +13,14 @@ intensity: 1
 artifact: editorial
 evidence: P
 summary: >-
-  Column lists 'Dictadura de Kemal Pacha en Turquía' with Mussolini, Pilsudski and Stalin and condemns all
-  dictatorships as bad and undemocratic.
+  Column lists 'Dictadura de Kemal Pacha en Turquía' beside Piłsudski's, Stalin's and Italy's 'black
+  dictatorship', and condemns all dictatorships as bad and undemocratic.
 quote:
   text: Todas las dictaduras son malas, antidemocráticas
   language: es
 caveat: >-
-  Unsigned front-page column; the list also names Primo de Rivera, Leguía, Ibáñez and Stalin, so Kemal is one
+  Unsigned front-page column. The list names Piłsudski, Kemal Pacha, Leguía, Ibáñez and Stalin; Italy and
+  Spain appear only as 'Dictadura negra en Italia' and 'Dictadura “verde” militar en España'. Kemal is one
   entry in a general indictment.
 node: Tampa's La Gaceta Calls Kemal a Dictator, 1930–1935
 sources:
@@ -27,11 +28,13 @@ sources:
 verification:
   verdict: paraphrase-ok
   quote_found: true
-  checked_against: Chronicling America sn86002403 1930-06-27 ed-1 p1 (OCR)
-  method: loc.gov JSON -> tile.loc.gov full_text OCR
+  checked_against: >-
+    La Gaceta (Tampa), 27 June 1930, p. 1: the page scan and its OCR text (Library of Congress, Chronicling
+    America sn86002403)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Quote verbatim ('Todas las dictaduras son malas, antidemocráticas'). Column lists 'Dictadura de Kemal
-    Pacha en Turquía' with Pilsudski, Leguía, Ibáñez, Stalin; Mussolini and Primo de Rivera are NOT named,
-    only 'Dictadura negra en Italia' / 'verde militar en España' - record's 'names Primo de Rivera/Mussolini'
-    is inference.
-  checked_on: "2026-10-30"
+    Read on the page scan: the quote is as printed, and the list is as the caveat gives it. Mussolini and
+    Primo de Rivera are not named.
+  checked_on: "2026-11-10"

@@ -27,10 +27,14 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn86002403 1932-05-28 ed-1 seq 1 OCR
-  method: loc.gov JSON + tile.loc.gov full_text
+  checked_against: >-
+    La Gaceta (Tampa), 28 May 1932, p. 1: the page scan and its OCR text (Library of Congress, Chronicling
+    America sn86002403)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    'Dictador de mano dura y caballero inteligente, Mustafa Kemal Pasha...' in a column on Turkey's ties with
-    Mussolini's Italy and Soviet Russia; 'Mussolini y Kemal son dos Dictadores'. Quote is a line-broken phrase
-    in the OCR.
-  checked_on: "2026-10-30"
+    The quoted words were read on the page scan and are as printed. From the OCR text: 'Dictador de mano dura
+    y caballero inteligente, Mustafa Kemal Pasha...' in a column on Turkey's ties with Mussolini's Italy and
+    Soviet Russia; 'Mussolini y Kemal son dos Dictadores'. Quote is a line-broken phrase in the OCR.
+  checked_on: "2026-11-10"

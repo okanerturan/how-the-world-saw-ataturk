@@ -13,9 +13,12 @@ caveat: >-
   Bir köşe yazısında tek satırlık şaka; ima edilen karşıtlık daha gürültücü diktatörlerledir (bir önceki
   paragrafın konusu Hitler'dir).
 verification_note: >-
-  Satır sonu bölünmesiyle birlikte birebir aynıdır; bağlam: Kemal gripten iyileşmiştir, 'his name only reaches
-  papers when he is ill'. Hitler ile ima edilen karşıtlık kaydın çıkarımıdır.
-verification_method: tile.loc.gov full_text
+  Alıntılanan sözler sayfa taramasından okundu ve basıldığı gibidir. OCR metninden: satır kırılımı boyunca
+  kelimesi kelimesine; bağlam: Kemal gripten iyileşti, 'adı gazetelere ancak hastalandığında çıkıyor'. Hitler
+  ile örtük karşılaştırma kaydın kendi çıkarımıdır.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  alıntılanan sözlerin okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 9b507d3e53b1
@@ -23,5 +26,5 @@ source_fingerprints:
   quote: 856224ec7e6d
   summary: 47c3fd26dc69
   caveat: 3d38ffd5503a
-  verification_note: c2d811285344
-  verification_method: 0e07f3903a84
+  verification_note: 04567a58fddb
+  verification_method: 7f67ff34ed94

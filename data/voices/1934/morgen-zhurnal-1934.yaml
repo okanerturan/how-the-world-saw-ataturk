@@ -19,7 +19,7 @@ quote:
   text: ליידען פון אונזערע ברידער אונטער דער טערקישער דיקטאטור
   language: yi
 caveat: >-
-  Yiddish OCR is poor ('דו' for 'די'); the quote is exactly as OCR renders it. Page layout suggests the
+  The quote is as the page prints it ('אונ־זערע' is broken across a line there). Page layout suggests the
   editorial page but no byline appears.
 node: America's Immigrant Press Reads Kemal, 1922–1938
 sources:
@@ -27,9 +27,14 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn83045838 1934-07-25 sp=7 page OCR
-  method: loc.gov JSON + tile OCR; quote matches after joining line-break hyphen (אונ/זערע)
+  checked_against: >-
+    Morgen Zhurnal (New York), 25 July 1934, p. 7: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn83045838)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Passage: Turkey made Jews second-class citizens, urges American Jewish Congress/Committee to investigate;
+    Read on the page scan: the quote is as printed; the OCR's 'דו' is 'די' in print. From the OCR text:
+    passage: Turkey made Jews second-class citizens, urges American Jewish Congress/Committee to investigate;
     Kemal Pasha's regime named.
-  checked_on: "2026-10-30"
+  checked_on: "2026-11-10"

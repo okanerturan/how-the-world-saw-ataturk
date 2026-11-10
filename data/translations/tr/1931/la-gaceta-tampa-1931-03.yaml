@@ -9,19 +9,20 @@ quote_kind: translated
 summary: >-
   Sütun yazısı, Kemal'in dervişleri ve gizli tarikat mensuplarını astığını, tıpkı saltanatın yaptığı gibi
   hükümet düşmanlarını asma yönündeki eski geleneği sürdürdüğünü söylüyor.
-caveat: >-
-  Önceki satırların OCR'ı hasarlıdır ('Keraal Pasha', çift yazılmış kelimeler); alıntılanan cümle temizdir.
-  İmzasız.
+caveat: İmzasız. Alıntıdan önceki satırlar taramada temizdir; onları bozan OCR olmuştur.
 verification_note: >-
-  Tam cümle; bağlam 'Kemal sostiene ... anorcar a los enemigos del gobierno', dervişlerin asılması; önceki
-  satırların OCR'ı belirtildiği gibi hasarlıdır.
-verification_method: loc.gov JSON + karo OCR
+  Sayfa taramasından okundu: cümle basıldığı gibidir ve bir önceki satırda 'ahorcar a los enemigos del
+  gobierno' ifadesi yer alır (OCR'da 'anorcar' olarak geçiyordu). Dervişlerin asılması aynı haber
+  maddesindedir.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  alıntılanan sözlerin okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1af7128c59ed
   role: ec3228434984
   quote: 2e969d53685b
   summary: 7c78fa61d299
-  caveat: f4830185d50d
-  verification_note: b76a6a6ad700
-  verification_method: 363638f20035
+  caveat: c8c4df55b215
+  verification_note: 3cc79e093154
+  verification_method: 7f67ff34ed94

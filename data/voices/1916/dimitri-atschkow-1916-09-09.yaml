@@ -3,8 +3,8 @@ id: dimitri-atschkow-1916-09-09
 voice: Dimitri Atschkow
 voice_type: person
 role: >-
-  Bulgarian deputy, described by the paper as a well-known Macedo-Bulgarian politician; interview in the Neue
-  Freie Presse
+  Bulgarian deputy; the paper calls him a well-known Macedo-Bulgarian politician, a member of the Macedonian
+  executive committee and a figure in the Stambolov party. Interview in the Neue Freie Presse
 country: Bulgaria
 country_now: Bulgaria
 domain: politics
@@ -30,20 +30,28 @@ quote:
     on the Diyarbekir front.
   language: de
 caveat: >-
-  Interview headed 'Unterredung mit Dimitri Atschkow. Bulgarischer Abgeordneter.' in the Neue Freie Presse of
-  9 September 1916, p. 2, on the brotherhood in arms of Bulgarians and Turks; the paper introduces him as 'Der
-  bekannte mazedo-bulgarische Politiker Dimitri Atschkow, der sich seit einigen Tagen in Wien aufhält'. He has
-  not been identified beyond that description, and whether he knew Mustafa Kemal from Sofia is not known. He
-  names him second, after 'der türkische Nationalheros Enver Pascha', as proof of Enver's gift for finding the
-  right men; the praise serves the theme of the interview. 'Diarbekirfront' and a general's post 'while still
-  a young man' are his loose wording. Read in crops of the scanned page, set in Fraktur; the full page sits
-  behind the library viewer's bot check and was not seen, and the dateline 'Wien, 8. September' is only half
-  visible.
+  Interview headed 'Die Befreiung der Dobrudscha durch den Sieg bei Tutrakan. Die Waffenbrüderschaft zwischen
+  Bulgaren und Türken. Unterredung mit Dimitri Atschkow. Bulgarischer Abgeordneter.', dated 'Wien, 8.
+  September.', in the Neue Freie Presse of 9 September 1916, p. 2, on the brotherhood in arms of Bulgarians
+  and Turks; the paper introduces him as 'Der bekannte mazedo-bulgarische Politiker Dimitri Atschkow, der sich
+  seit einigen Tagen in Wien aufhält'. A closing note adds that he sits on the Macedonian executive committee,
+  is a well-known figure in the Stambolov party, fought on the Macedonian front and was decorated after
+  Krivolak, took part in the Balkan War and worked for the rapprochement of Turkey and Bulgaria. That matches
+  Dimitar Achkov of Prilep (born 1869), whose Bulgarian Wikipedia biography has the same committee seat,
+  Balkan War service and wartime decoration; the identification is the archive's. The same biography cites a
+  2006 newspaper article and a 2007 book for a friendship between Achkov and Mustafa Kemal; those were not
+  opened, and the interview itself does not say they knew each other. He names him second, after 'der
+  türkische Nationalheros Enver Pascha', as proof of Enver's gift for finding the right men; the praise serves
+  the theme of the interview. 'Diarbekirfront' and a general's post 'while still a young man' are his loose
+  wording. Read on the whole page in the library's viewer, set in Fraktur.
 sources:
   - url: https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19160909&seite=2
-    label: Austrian National Library, ANNO (the page viewer asks for a browser check)
+    label: Austrian National Library, ANNO page viewer
     citation: Neue Freie Presse (Vienna), 9 September 1916, p. 2
     page: 2
+    accessed: "2026-11-10"
+  - url: https://bg.wikipedia.org/wiki/Димитър_Ачков
+    label: Bulgarian Wikipedia, Димитър Ачков (for the identification only)
     accessed: "2026-11-10"
 verification:
   verdict: confirmed
@@ -51,9 +59,12 @@ verification:
   checked_against: >-
     Neue Freie Presse, 9 September 1916, p. 2, in the Austrian National Library's ANNO collection (document
     ANNO_nfp19160909)
-  method: scan crops returned by the library's open search endpoint, three lines at a time
+  method: >-
+    scan crops from the library's open search endpoint, then the whole page in the library's viewer, opened in
+    a browser
   note: >-
-    Every quoted line was read in crops of the scanned page, with no difference in wording; the introduction
-    naming and describing the speaker was read the same way. Neither reader has seen the page as a whole, and
-    the speaker could not be identified from other sources.
+    Every quoted line was read in crops of the scanned page, then on the whole page in the viewer, with no
+    difference in wording; so were the heading, the dateline, the introduction and the closing note describing
+    the speaker. The identification with Dimitar Achkov rests on that note and on his Wikipedia biography, not
+    on a printed source seen for this record.
   checked_on: "2026-11-10"

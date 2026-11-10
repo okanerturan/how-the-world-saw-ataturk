@@ -11,8 +11,11 @@ summary: >-
   Mustafa Kemal Paşa'nın şahsında mükemmel bir cumhurbaşkanına sahiptir.
 caveat: İmzasız dolgu haberi; ABD Güneyi ile yapılan karşılaştırma gazetenin yorumudur.
 verification_note: >-
-  'TURECKO ZAKÁZALO DEŤOM PRACOVAŤ' başlığı altında alıntı birebir aynı; ABD Güneyi karşılaştırması mevcut.
-verification_method: loc.gov JSON -> tile.loc.gov full_text OCR
+  Alıntılanan sözler sayfa taramasından okundu ve basıldığı gibidir. OCR metninden: 'TURECKO ZAKÁZALO DEŤOM
+  PRACOVAŤ' başlığı altında kelimesi kelimesine alıntı; ABD'nin Güney eyaletleriyle karşılaştırma mevcut.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  alıntılanan sözlerin okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: afb1b346d1a1
@@ -20,5 +23,5 @@ source_fingerprints:
   quote: 5d9a6bce5717
   summary: 1005f57f6f04
   caveat: 7d5bd18ad8e5
-  verification_note: b28c9c1ce5a1
-  verification_method: 3285e0490d8a
+  verification_note: fb7e917e2f75
+  verification_method: 7f67ff34ed94

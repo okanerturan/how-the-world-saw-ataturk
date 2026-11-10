@@ -10,19 +10,21 @@ summary: >-
   1934 Trakya pogromları üzerine başyazı: Türkiye Yahudileri ikinci sınıf vatandaş yaptı; Yahudi kuruluşları,
   Mustafa Kemal Paşa'nın diktatörlüğü altındaki 'kardeşlerimizin acılarını' araştırmalıdır.
 caveat: >-
-  Yidiş OCR kalitesi düşük ('די' yerine 'דו'); alıntı tam olarak OCR'ın verdiği şekildedir. Sayfa düzeni
-  başyazı sayfasına işaret ediyor ancak yazar adı görünmüyor.
+  Alıntı sayfada basıldığı gibidir ('אונ־זערע' orada satır sonundan bölünmüştür). Sayfa düzeni başyazı
+  sayfasına işaret etmektedir ancak yazar adı görülmemektedir.
 verification_note: >-
-  Pasaj: Türkiye Yahudileri ikinci sınıf vatandaş yaptı, American Jewish Congress/Committee'yi araştırmaya
-  çağırıyor; Mustafa Kemal Paşa rejiminin adı geçiyor.
+  Sayfa taramasından okundu: alıntı basıldığı gibidir; OCR'daki 'דו', baskıda 'די' şeklindedir. OCR metninden:
+  pasaj: Türkiye Yahudileri ikinci sınıf vatandaş yaptı, Amerikan Yahudi Kongresi/Komitesi'ni inceleme yapmaya
+  çağırıyor; Kemal Paşa rejiminin adı geçiyor.
 verification_method: >-
-  loc.gov JSON + tile OCR; satır sonu tiresi (אונ/זערע) birleştirildikten sonra alıntı eşleşiyor
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  alıntılanan sözlerin okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 4d52b30e89a4
   role: 916010c8b9ef
   quote: e67aa5e75f9d
   summary: bc708bb06f6c
-  caveat: d8bece2e35f8
-  verification_note: f3b9574518f8
-  verification_method: d8c6b06659a9
+  caveat: 6981f97777e7
+  verification_note: 8548948031f5
+  verification_method: 7f67ff34ed94

@@ -31,11 +31,11 @@ caveat: >-
   Unsigned, and whose memory 'in Bulgaria' is meant is not said. It is the only trace of his years as attaché
   in Sofia (1913–14) found in print from before 1919. The first reader also saw it reprinted in the
   Militärische Rundschau (23 September 1916) and Die Presse of Thorn (19 August 1916); those were not
-  re-checked. Read in crops of the scanned page; the full page sits behind the library viewer's bot check and
-  was not seen.
+  re-checked. Read on the whole page in the library's viewer; the line '[Telegramm der „Neuen Freien
+  Presse“.]' under the headline marks it as the paper's own telegram.
 sources:
   - url: https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19160814&seite=6
-    label: Austrian National Library, ANNO (the page viewer asks for a browser check)
+    label: Austrian National Library, ANNO page viewer
     citation: Neue Freie Presse (Vienna), 14 August 1916, p. 6
     page: 6
     accessed: "2026-11-10"
@@ -45,9 +45,11 @@ verification:
   checked_against: >-
     Neue Freie Presse, 14 August 1916, p. 6, in the Austrian National Library's ANNO collection (document
     ANNO_nfp19160814)
-  method: scan crops returned by the library's open search endpoint, three lines at a time
+  method: >-
+    scan crops from the library's open search endpoint, then the whole page in the library's viewer, opened in
+    a browser
   note: >-
-    Headline, the dateline 'Sofia, 13. August.' and both sentences were read in crops of the scanned page by
-    two readers. The line marking it as the paper's own telegram is cut in half in the crop. Neither reader
-    has seen the page as a whole.
+    Headline, the line '[Telegramm der „Neuen Freien Presse“.]', the dateline 'Sofia, 13. August.' and both
+    sentences were read in crops by two readers, then on the whole page in the viewer, which is headed 'Seite
+    6 … 14. August 1916 … Nr. 18671'.
   checked_on: "2026-11-10"

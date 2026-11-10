@@ -27,8 +27,13 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn83035481 1927-12-20 ed-1 (OCR, file 0981)
-  method: loc.gov JSON -> tile.loc.gov full_text OCR
+  checked_against: >-
+    Jedność Polek (Cleveland), 20 December 1927, p. 4: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn83035481)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Quote verbatim; 36-hour speech, self-glorification charge, 'protektoratu', Kerensky contrast all present.
-  checked_on: "2026-10-30"
+    The quoted words were read on the page scan and are as printed. From the OCR text: quote verbatim; 36-hour
+    speech, self-glorification charge, 'protektoratu', Kerensky contrast all present.
+  checked_on: "2026-11-10"

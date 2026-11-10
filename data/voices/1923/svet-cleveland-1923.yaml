@@ -20,8 +20,8 @@ quote:
   text: znamená počátek nového období tureckých dějin
   language: cs
 caveat: >-
-  Essay is headed with an author's initials in the OCR ('Dr. F. Š.'?), not resolved; page header and column
-  order damaged by OCR.
+  The essay is headed 'OBROZOVÁNÍ TURECKA.' and signed with initials only, 'Dr. F. S.'; the author is not
+  identified.
 node: America's Immigrant Press Reads Kemal, 1922–1938
 sources:
   - url: https://www.loc.gov/resource/sn83045068/1923-09-07/ed-1/?sp=2
@@ -29,7 +29,13 @@ verification:
   verdict: confirmed
   quote_found: true
   checked_against: >-
-    Chronicling America sn83045068 1923-09-07 sp=2 page OCR (headed OBROZOVANI TURECKA, Dr. F. S.)
-  method: loc.gov JSON + tile OCR
-  note: Exact (OCR 'de jin'); Lausanne peace 'jako vitez' and Kemal victories drive renaissance.
-  checked_on: "2026-10-30"
+    Svět (Cleveland), 7 September 1923, p. 2: the page scan and its OCR text (Library of Congress, Chronicling
+    America sn83045068)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
+  note: >-
+    Read on the page scan: the quote is as printed (the OCR had split 'dějin'), with the heading and the
+    initials 'Dr. F. S.'. From the OCR text: the Lausanne peace 'jako vítěz' and Kemal's victories driving the
+    renaissance.
+  checked_on: "2026-11-10"

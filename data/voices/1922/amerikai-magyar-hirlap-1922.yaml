@@ -16,12 +16,12 @@ summary: >-
   Greeting to Angora: Kemal's sword proved a truth; the Angora Assembly likened to Kossuth's 1849 Debrecen
   parliament.
 quote:
-  text: Kemal villogó kardja alaposan bizonyította be a világnak azt az igazságot
+  text: Kemal villogó kardja alaposan bizonyitotta be a világnak azt az igazságot
   language: hu
 mediated_by: reprinted in Amerikai Magyar Hirlap (Youngstown), 23 Nov 1922
 caveat: >-
   Headed 'ÜDVÖZLET ANGORÁBA', ending '(Pesti Hirlap.)': a reprint, not the US paper's editorial (corrected
-  after check). OCR damaged in places.
+  after check).
 node: America's Immigrant Press Reads Kemal, 1922–1938
 sources:
   - url: https://www.loc.gov/resource/sn88078388/1922-11-23/ed-1/?sp=4
@@ -29,11 +29,17 @@ sources:
 verification:
   verdict: partial
   quote_found: true
-  checked_against: Chronicling America sn88078388 1922-11-23 ed-1 (OCR, file 0028)
-  method: loc.gov JSON -> tile.loc.gov full_text OCR
+  checked_against: >-
+    Amerikai Magyar Hirlap (Youngstown), 23 November 1922, p. 4: the page scan and its OCR text (Library of
+    Congress, Chronicling America sn88078388)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Quote and Kossuth/Debrecen kinship verbatim, BUT the article (headed 'ÜDVÖZLET ANGORÁBA') ends '(Pesti
-    Hirlap.)' - it is a reprint from the Budapest daily, not the Amerikai Magyar Hirlap's own editorial;
-    record's 'Unsigned; ... the paper's own' and 'Editorial' misattribute the voice.
+    Read on the page scan: the quote is as printed ('bizonyitotta' with a short i, which the OCR had
+    lengthened), and the heading and the closing '—(Pesti Hirlap.)' are on the page. Earlier check: quote and
+    Kossuth/Debrecen kinship verbatim, BUT the article (headed 'ÜDVÖZLET ANGORÁBA') ends '(Pesti Hirlap.)' -
+    it is a reprint from the Budapest daily, not the Amerikai Magyar Hirlap's own editorial; record's
+    'Unsigned; ... the paper's own' and 'Editorial' misattribute the voice.
   resolution: fixed before merge
-  checked_on: "2026-10-30"
+  checked_on: "2026-11-10"

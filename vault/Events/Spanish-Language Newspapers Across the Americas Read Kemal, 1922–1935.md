@@ -53,7 +53,7 @@ hyphenation joined); the OCR is rough, so every quote was restricted to a phrase
   (Mussolini, Pilsudski, Leguía, Ibáñez, Stalin) on 27 Jun 1930.
 
 **1935: Kemal as an argument in Spanish Republican politics.** *La Gaceta* (Tampa), 21 Feb 1935, p. 1, column
-"Changas y Chungas": in the Turkish Assembly 16 of 17 deputies (the column's count) are educated women and the
+"Chungas y no chungas": in the Turkish Assembly 16 of 17 deputies (the column's count) are educated women and the
 17th a peasant mayor. "La Dictadura produjo el milagro. Esclavas ayer, hoy mujeres 'libres'." But "Mustafá
 Kemal las llamó a la Asamblea y mañana, si así lo quiere, puede devolverlas al hogar o la cocina; pero la
 República española no pudo hacer lo mismo cuando comprobó su error. La Dictadura crea y destruye a su gusto

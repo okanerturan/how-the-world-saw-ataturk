@@ -13,17 +13,19 @@ caveat: >-
   aktarılmıştır; kontrol sonrası düzeltildi: Napolyon yakıştırması kullanılmamış, ileride kullanılacağı
   öngörülmüştür
 verification_note: >-
-  İfade geçiyor ancak olumsuzlanmış olarak: 'Nadie, hasta ahora, lo ha llamado "el Napoleón del Cercano
-  Oriente" pero los periodistas ... lo harán tarde o temprano ... se dice que recuerda a Napoleón'. Gazete
-  henüz kimsenin ona böyle demediğini söylüyor; yakıştırma olarak alıntılanması yanıltıcıdır. Geri kalanı
-  (QUIEN ES MUSTAFA KEMAL PASHA başlığı, gerçek diktatör, esperanza y terror, İspanyol-Yahudi soyu)
-  destekleniyor.
-verification_method: tile.loc.gov OCR metni
+  Sayfa taramasında okunmuştur; bu kayıtta alıntı yoktur. İfade geçmektedir ancak olumsuzlanmıştır: 'Nadie,
+  hasta ahora, lo ha llamado "el Napoleon del Cercano Oriente" pero los periodistas ... lo harán tarde o
+  temprano ... se dice que recuerda a Napoleón'. Gazete şimdiye kadar kimsenin ona böyle seslenmediğini
+  söylemektedir; ifadenin bir lakap gibi alıntılanması yanıltıcıdır. Geri kalan kısımlar (QUIEN ES MUSTAFA
+  KEMAL PASHA başlığı, gerçek diktatör, esperanza y terror, İspanyol-Yahudi soyu) doğrulanmaktadır.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü servisinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a585ca93ca7a
   role: 55e0a175a3e3
   summary: 96b34ed5856a
   caveat: ed8ac6860c35
-  verification_note: 2cab9a59fa43
-  verification_method: 8f538a31eec9
+  verification_note: 19353807ee41
+  verification_method: 7f67ff34ed94

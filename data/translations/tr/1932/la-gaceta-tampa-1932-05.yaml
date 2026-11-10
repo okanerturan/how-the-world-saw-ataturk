@@ -13,10 +13,13 @@ caveat: >-
   İmzasız. Aynı sayının s. 4'ünde Kemal'i soylu bir hasım olarak nitelendiren, Gelibolu tarihi konulu bir
   İngiliz yazısı yer alır (gazetenin kendi sesi değildir).
 verification_note: >-
-  Türkiye'nin Mussolini İtalyası ve Sovyet Rusya ile ilişkileri hakkındaki bir köşe yazısında 'Dictador de
-  mano dura y caballero inteligente, Mustafa Kemal Pasha...'; 'Mussolini y Kemal son dos Dictadores'. Alıntı,
-  OCR'da satır sonundan bölünmüş bir ifadedir.
-verification_method: loc.gov JSON + tile.loc.gov full_text
+  Alıntılanan sözler sayfa taramasından okundu ve basıldığı gibidir. OCR metninden: Türkiye'nin Mussolini
+  İtalyası ve Sovyet Rusya ile ilişkileri üzerine bir köşe yazısında 'Dictador de mano dura y caballero
+  inteligente, Mustafa Kemal Pasha...'; 'Mussolini y Kemal son dos Dictadores'. Alıntı, OCR'da satır sonundan
+  bölünmüş bir ibaredir.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  alıntılanan sözlerin okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1af7128c59ed
@@ -24,5 +27,5 @@ source_fingerprints:
   quote: 234dc88302f0
   summary: c88002c901d4
   caveat: 5311aa50f73d
-  verification_note: c682f5e5f082
-  verification_method: 28ee7781d3b6
+  verification_note: 117d1d518214
+  verification_method: 7f67ff34ed94

@@ -10,19 +10,23 @@ summary: >-
   'Crónica de Turquía': turistik yüzeyin ötesinde Kemal demir iradeli bir savaşçıdır, ülkeyi kurtaran
   kahramandır, bir sembolün gücüne sahiptir.
 caveat: >-
-  'Especial para La Opinión' ibaresiyle basılmıştır; yazar adı OCR'dan okunmuştur. Maco ayrıca gerici bir güce
-  ve Türk'ün 'Avrupa uygarlığını yalnızca kısmen taklit ettiğine' dikkat çeker.
+  'Crónica de Turquía' üst başlığı altında yazı 'La Turquía Tradicional — Por PEDRO MACO (Especial para LA
+  OPINION. —Prohibida la Reproducción.)' başlığını taşımaktadır. Maco ayrıca gerici bir güce ve Türk'ün
+  'Avrupa uygarlığını yalnızca kısmen taklit ettiğine' dikkat çekmektedir.
 verification_note: >-
-  'CRÓNICA DE TURQUÍA Por PEDRO MACO (Especial para LA OPINIÓN)'; 'el héroe que salvó al país, posee la fuerza
-  de un símbolo' birebir aynı; 'voluntad de hierro' ve gerici güç mevcut. Yaprak seq 3, loc.gov sayfa
-  görüntüleyicisinden bağımsız olarak doğrulanmamıştır.
-verification_method: curl aracılığıyla loc.gov ALTO full_text
+  Sayfa taramasından okundu: 'el héroe que salvó al país, posee la fuerza de un símbolo' ifadesi basıldığı
+  gibidir ve başlık ile yazar imzası sayfada yer almaktadır. Arşivlenmiş Chronicling America sayfasının
+  doğruladığı üzere 3. sayfa, mikrofilm makarasının 0163 numaralı görüntü dosyasıdır. OCR metninden: 'voluntad
+  de hierro' ve gerici güç.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8f3e3bc9ffcf
   role: a57cc6692558
   quote: 1f2dd45e20be
   summary: 02c00c82eea7
-  caveat: 21406eb75487
-  verification_note: 1c0454b5e1f3
-  verification_method: 66d1884c5811
+  caveat: 04e0b838056d
+  verification_note: e1a5c1a9f5aa
+  verification_method: 7f67ff34ed94

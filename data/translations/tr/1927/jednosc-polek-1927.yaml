@@ -13,9 +13,11 @@ caveat: >-
   İmzasız köşe yazısı; Rusya'da Kerensky'nin başarısızlığıyla karşılaştırıyor. Alıntıdan önceki bölümde OCR
   hasarlı.
 verification_note: >-
-  Alıntı birebir; 36 saatlik konuşma, kendini yüceltme suçlaması, 'protektoratu' ve Kerensky
-  karşılaştırmasının tamamı mevcut.
-verification_method: loc.gov JSON -> tile.loc.gov full_text OCR
+  Alıntılanan sözler sayfa taramasından okundu ve basıldığı gibidir. OCR metninden: alıntı bire bir aynı; 36
+  saatlik konuşma, kendini yüceltme suçlaması, 'protektoratu', Kerensky karşılaştırması hepsi mevcut.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a4de90df8c5a
@@ -23,5 +25,5 @@ source_fingerprints:
   quote: 85c094630f22
   summary: a1e98995e5f9
   caveat: d2b935a06f8f
-  verification_note: d547e4624891
-  verification_method: 3285e0490d8a
+  verification_note: 98cd1e9f1881
+  verification_method: 7f67ff34ed94

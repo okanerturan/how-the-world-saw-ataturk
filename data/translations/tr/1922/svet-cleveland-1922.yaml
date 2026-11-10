@@ -4,27 +4,31 @@
 id: svet-cleveland-1922
 voice: Svět (Cleveland)
 role: Çekçe günlük gazete, Cleveland, Ohio
-quote: eşkıya Türk, Avrupa'nın kaderini ellerinde tutuyor
+quote: haydut Türk, Avrupa'nın kaderini ellerinde tutuyor
 quote_kind: translated
 summary: >-
   Plain Dealer başyazısını çeviriyor: eşkıyavari Kemal Avrupa'nın kaderini elinde tutuyor, yine de Müslümanlar
   ve Hindular için göz kamaştırıcı bir kahraman.
 caveat: >-
-  Dolaylı aktarım: başyazı Plain Dealer'a aittir, Svět tarafından günün değerlendirmesi olarak çevrilip
-  yayımlanmıştır; OCR sütunları birbirine karıştırdığı için alıntılanan cümle iki satırdan birleştirilmiştir.
+  Dolaylı: başyazı Plain Dealer'a aittir ('píše Plain Dealer') ve Svět tarafından günün gelişmelerine dair
+  kendi yorumu olarak çeviri halinde basılmıştır. Gazete 'zbujnický' kelimesini u harfinin üzerindeki halka
+  olmadan basmıştır.
 mediated_by: Cleveland Plain Dealer başyazısı 'War is Imminent' (15 Eylül 1922), Çekçe çevirisiyle
 verification_note: >-
-  Alıntı birebir aynı, OCR satır bölünmesi birleştirilmiş (Ke-/mal, zbůjnický Turek, drží ve svých rukou osud
-  Evropy). Makale, Plain Dealer'ın 'War is Imminent' başlıklı başyazısının çevirisidir; metinde hem Hinduların
-  hem de Müslümanların Kemal'i 'zářící hrdina' olarak gördüğü belirtiliyor.
-verification_method: loc.gov JSON + tile.loc.gov full_text
+  Sayfa taramasında okunmuştur: 'Kemal, zbujnický Turek, drží ve svých rukou osud Evropy.' OCR'da 'zbůjnický'
+  olarak çıkmıştır. Aynı sayfa hem Hinduların hem de Müslümanların Mustafa Kemal'e 'jako na zářícího hrdinu'
+  baktığını söylemektedir. Makalenin Plain Dealer'ın 'War is Imminent' başlıklı başyazısının çevirisi olduğu
+  bilgisi önceki kontrolden gelmektedir.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü servisinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: ce04da9282e4
   role: d6666ca9a7d5
-  quote: c839911afa6c
+  quote: 54ff06063fdb
   summary: 0aad73fa8c16
-  caveat: 0c776d9efe08
+  caveat: 14146649f003
   mediated_by: d6fc5b0f4e55
-  verification_note: 647ba8ef221c
-  verification_method: 28ee7781d3b6
+  verification_note: 02b937256371
+  verification_method: 7f67ff34ed94

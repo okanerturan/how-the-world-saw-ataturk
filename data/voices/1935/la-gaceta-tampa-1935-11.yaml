@@ -16,19 +16,25 @@ summary: >-
   On the Ethiopian crisis: the 'Turkish dictator' offers Britain help against Italy and asks for the
   Dodecanese; sarcastic about Kemal's 'excess population'.
 quote:
-  text: El dictador turco pide las islas
+  text: El dictador turco pide las islas del Dodecaneso, que ahora domina Italia.
   language: es
 caveat: >-
-  OCR of the island name is damaged ('Ad Dodecaneso'); only the clean clause is quoted. Unsigned.
+  Unsigned. An ink blot on the scan covers part of 'del', which the OCR had read as 'Ad'; the sentence is
+  otherwise clean and is quoted whole.
 node: Tampa's La Gaceta Calls Kemal a Dictator, 1930–1935
 sources:
   - url: https://www.loc.gov/resource/sn86002403/1935-11-01/ed-1/?sp=1
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn86002403 1935-11-01 page OCR
-  method: loc.gov JSON + tile OCR
+  checked_against: >-
+    La Gaceta (Tampa), 1 November 1935, p. 1: the page scan and its OCR text (Library of Congress, Chronicling
+    America sn86002403)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Exact (line-break joined): 'El dictador turco pide las islas Ad Dodecaneso'; Turkey offers Britain help in
-    Mediterranean; 'exceso de poblacion' sarcasm present.
-  checked_on: "2026-10-30"
+    Read on the page scan: '¿A cambio de qué tanto “cariño?” El dictador turco pide las islas del Dodecaneso,
+    que ahora domina Italia.' From the OCR text: Turkey offers Britain help in the Mediterranean; the 'exceso
+    de población' sarcasm.
+  checked_on: "2026-11-10"

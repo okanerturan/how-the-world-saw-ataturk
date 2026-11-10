@@ -17,9 +17,12 @@ mediated_by: >-
   Ricardo Eaton ← 'Revista Semanaria' (Paris), 10 Kasım 1922 tarihli Paris mahreçli haber, La Prensa'da
   yeniden basıldı
 verification_note: >-
-  'Kemal, el dios del día' mevcut; makale 'Con Mustafa Kemal', Paris 10 Kasım, Revista Semanaria, Ricardo
-  Eaton; mülteciler, 'fusilados por centenares' ibaresiyle Ermeniler ve 'guía' olarak Napolyon'un tümü mevcut.
-verification_method: curl aracılığıyla loc.gov ALTO full_text
+  Alıntılanan sözler sayfa taramasında okunmuştur ve basıldığı gibidir. OCR metninden: 'Kemal, el dios del
+  día' mevcuttur; 'Con Mustafa Kemal' makalesi, Paris 10 Kasım, Revista Semanaria, Ricardo Eaton; mülteciler,
+  Ermenilerin 'fusilados por centenares' oluşu, 'guía' olarak Napolyon ifadelerinin tamamı mevcuttur.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü servisinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a68d75d4d249
@@ -28,5 +31,5 @@ source_fingerprints:
   summary: 7f894b8e7497
   caveat: b3700b7095dc
   mediated_by: d1389e2a6a16
-  verification_note: d7788b7b2e73
-  verification_method: 66d1884c5811
+  verification_note: a016780a0ba0
+  verification_method: 7f67ff34ed94

@@ -4,25 +4,28 @@
 id: la-opinion-marco-polo-1928
 voice: Marco Polo (La Opinión)
 role: Müstear isimli köşe yazarı, Los Angeles'ta yayımlanan İspanyolca günlük gazete
-quote: Mustafa Kemal bir diktatördür ki onun karşısında
+quote: >-
+  Mustafa Kemal, karşısında Mussolini, Pilsudski veya Primo de Rivera'nın hâlâ Demokrasinin çocukları kaldığı
+  bir diktatördür.
 quote_kind: translated
 summary: >-
   Kemal'i, yanında Mussolini, Pilsudski veya Primo de Rivera'nın hâlâ 'Demokrasinin çocukları' kaldığı bir
   diktatör olarak nitelendirdi; ardından tek parti devleti üzerine Le Temps'dan alıntı yaptı.
 caveat: >-
-  Sayfa 3'te 'Por MARCO POLO' imzalı köşe yazısı; alıntılanan cümlenin OCR metninde bozulmalar ('MussolinL,
-  Pllsudski') bulunduğundan yalnızca temiz yan cümlecik alıntılanmıştır. Le Temps pasajı köşe yazarı
-  tarafından alıntılanmıştır; metin bağımsız kontrolden geçirilmemiştir (InFlow 29 Ekim 2026'da durdu)
-verification_note: Kontrol edilmedi.
+  3. sayfada 'Por MARCO POLO' imzalı sütun. Le Temps pasajı köşe yazarı tarafından alıntılanmıştır.
+verification_note: >-
+  Sayfa taramasından okundu: cümle temiz bir şekilde basılmıştır ve artık tam olarak alıntılanmaktadır (OCR'da
+  'MussolinL, Pllsudski' çıktığı için yalnızca ilk cümleciği alıntılanmıştı). Sayfada 'Por MARCO POLO' imzası
+  yer almaktadır. 10 Kasım 2026'ya kadar bu kayıt hiç kontrol edilmemişti.
 verification_method: >-
-  ms sarmalayıcısı INFLOW STOPPED döndürdü (durdurma kuralı); loc.gov/chroniclingamerica adresine doğrudan
-  curl Cloudflare 403 verdi
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 0f49107663cc
   role: 444683466ed2
-  quote: 6e5a842cf58d
+  quote: 4443730abb82
   summary: 44e29b282436
-  caveat: 0232646929b4
-  verification_note: 19ec77d34e93
-  verification_method: 92f89df5fd7f
+  caveat: c96124e72ae5
+  verification_note: f19baf112fc3
+  verification_method: 7f67ff34ed94

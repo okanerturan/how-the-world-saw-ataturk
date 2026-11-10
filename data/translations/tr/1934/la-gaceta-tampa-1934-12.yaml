@@ -11,9 +11,12 @@ summary: >-
   âdetini izliyor; 'Türkiye ilerliyor', Müslüman rahipler 'ehlileştirildi'.
 caveat: İmzasız köşe yazısı maddesi; tonu hafifçe onaylayıcı ve ironik ('amansados').
 verification_note: >-
-  Alıntı birebir aynı; 'Turquía progresa', 'amansados' mevcut; önlem Hristiyanlara, Müslümanlara,
-  Protestanlara, İbranilere uygulanmış.
-verification_method: loc.gov JSON -> tile.loc.gov full_text OCR
+  Alıntılanan sözler sayfa taramasından okundu ve basıldığı gibidir. OCR metninden: kelimesi kelimesine
+  alıntı; 'Turquía progresa', 'amansados' mevcut; önlem Hristiyanlara, Müslümanlara, Protestanlara, İbranilere
+  uygulanmış.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  alıntılanan sözlerin okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1af7128c59ed
@@ -21,5 +24,5 @@ source_fingerprints:
   quote: 7c75655dfcf8
   summary: 2fbd6a251381
   caveat: 0e89fcfcbf7e
-  verification_note: 8cf57db7edcc
-  verification_method: 3285e0490d8a
+  verification_note: 3b511b167756
+  verification_method: 7f67ff34ed94

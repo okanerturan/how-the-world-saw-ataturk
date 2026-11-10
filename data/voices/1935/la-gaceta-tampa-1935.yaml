@@ -13,23 +13,29 @@ intensity: 2
 artifact: editorial
 evidence: P
 summary: >-
-  Column 'Changas y Chungas' on Turkish women deputies: dictatorship 'produced the miracle', but Kemal could
-  send them back to the kitchen tomorrow; democracy cannot.
+  Column 'Chungas y no chungas' on Turkish women deputies: dictatorship 'produced the miracle', but Kemal
+  could send them back to the kitchen tomorrow; democracy cannot.
 quote:
   text: >-
     Mustafá Kemal las llamó a la Asamblea y mañana, si así lo quiere, puede devolverlas al hogar o la cocina
   language: es
 caveat: >-
   Unsigned; used to argue about the Spanish Republic's women's suffrage (Kent, Campoamor). The piece's own
-  lede counts 17 women deputies, which is its figure, not checked here.; text unchecked by independent check
-  (InFlow stopped 2026-10-29)
+  lede counts 17 women deputies, which is its figure, not checked here.
 node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
 sources:
   - url: https://www.loc.gov/resource/sn86002403/1935-02-21/ed-1/?sp=1
 verification:
-  verdict: unreachable
-  checked_against: loc.gov sn86002403 1935-02-21 p.1
-  method: ms wrapper returned INFLOW STOPPED (stop rule); direct curl to loc.gov Cloudflare 403
-  note: Not checked.
-  checked_on: "2026-10-29"
-  quote_found: false
+  verdict: confirmed
+  checked_against: >-
+    La Gaceta (Tampa), 21 February 1935, p. 1: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn86002403)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
+  note: >-
+    Read on the page scan: the quote is as printed, under the column head 'CHUNGAS Y NO CHUNGAS' (its subheads
+    end '…Mujeres Diputadas en Turquía.'). The 17 deputies, 'La Dictadura produjo el milagro', Kent and
+    Campoamor are on the page. Until 10 Nov 2026 this record had not been checked at all.
+  checked_on: "2026-11-10"
+  quote_found: true

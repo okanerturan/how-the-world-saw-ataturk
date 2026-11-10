@@ -8,21 +8,25 @@ quote: >-
   Mustafa Kemal onları Meclis'e çağırdı ve yarın, eğer öyle isterse, onları eve ya da mutfağa geri gönderebilir
 quote_kind: translated
 summary: >-
-  Türk kadın milletvekilleri üzerine 'Changas y Chungas' köşesi: diktatörlük 'mucizeyi yarattı', ancak Kemal
-  yarın onları mutfağa geri gönderebilir; demokrasi bunu yapamaz.
+  Türk kadın milletvekilleri üzerine 'Chungas y no chungas' başlıklı köşe yazısı: diktatörlük 'mucizeyi
+  yarattı', ancak Kemal onları yarın mutfağa geri gönderebilir; demokrasi ise gönderemez.
 caveat: >-
-  İmzasız; İspanya Cumhuriyeti'nde kadınların oy hakkı tartışmasında (Kent, Campoamor) argüman olarak
-  kullanılmıştır. Yazının kendi girişi 17 kadın milletvekili sayar; bu yazının kendi rakamıdır, burada
-  doğrulanmamıştır; metin bağımsız kontrolle doğrulanmamıştır (InFlow 2026-10-29'da durdu)
-verification_note: Kontrol edilmedi.
+  İmzasız; İspanya Cumhuriyeti'nde kadınların oy hakkı (Kent, Campoamor) üzerine yürütülen tartışmada
+  kullanılmıştır. Yazının kendi girişi 17 kadın milletvekili saymaktadır; bu, yazının kendi rakamıdır ve
+  burada doğrulanmamıştır.
+verification_note: >-
+  Sayfa taramasından okundu: alıntı, 'CHUNGAS Y NO CHUNGAS' köşe başlığı altında basıldığı gibidir (alt
+  başlıkları '…Mujeres Diputadas en Turquía.' ile bitiyor). 17 milletvekili, 'La Dictadura produjo el
+  milagro', Kent ve Campoamor sayfada yer alıyor. 10 Kasım 2026'ya kadar bu kayıt hiç kontrol edilmemişti.
 verification_method: >-
-  ms sarmalayıcısı INFLOW STOPPED döndürdü (durdurma kuralı); loc.gov adresine doğrudan curl Cloudflare 403
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  alıntılanan sözlerin okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1af7128c59ed
   role: 68e91204af83
   quote: 699146bc4aa7
-  summary: "4e1425959915"
-  caveat: 2fb2e48d78cb
-  verification_note: 19ec77d34e93
-  verification_method: 966d5c86f000
+  summary: 1909097154bf
+  caveat: c25508d3266d
+  verification_note: 439499b14905
+  verification_method: 7f67ff34ed94

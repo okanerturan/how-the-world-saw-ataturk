@@ -16,20 +16,26 @@ summary: >-
   Front-page column on dictatorships: Turkey a 'republic' in name; Kemal declined a perpetual presidency but
   'knows' he stays president as long as it suits him.
 quote:
-  text: Turquía es una “república” por el presidente Kemal Pacha
+  text: Turquía es una “república” gobernada por el presidente-dictador Kemal Pachá
   language: es
 caveat: >-
-  Unsigned front-page column; OCR garbles the line about Kemal's refusal. The same column's dictator lists (27
-  Jun 1930, 28 May 1932, 1 Nov 1935) are leads, not records.
+  Unsigned front-page column. The same column comes back to Kemal in its dictator lists of 27 Jun 1930, 28 May
+  1932 and 1 Nov 1935, which are separate records.
 node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
 sources:
   - url: https://www.loc.gov/resource/sn86002403/1930-10-14/ed-1/?sp=1
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn86002403 1930-10-14 p.1 (tile.loc.gov full_text)
+  checked_against: >-
+    La Gaceta (Tampa), 14 October 1930, p. 1: the page scan and its OCR text (Library of Congress, Chronicling
+    America sn86002403)
   method: >-
-    quote present in OCR ('Turquia es una republica por el presidente Kemal Pacha'); Kemal refuses perpetual
-    presidency, 'sabe que sera presidente hasta que le convenga'
-  note: "minor: LoC metadata lists La Gaceta as weekly, record role says 'daily'"
-  checked_on: "2026-10-29"
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
+  note: >-
+    Read on the page scan: 'Turquía es una “república” gobernada por el presidente-dictador Kemal Pachá.' The
+    OCR had dropped 'gobernada' and '-dictador' and the accent. The lines on his refusal are readable on the
+    scan ('No quiso el Dictador aceptar “el honor,”…'; 'él sabe que será presidente hasta que le convenga').
+    LoC metadata lists La Gaceta as a weekly; the record's role says 'daily'.
+  checked_on: "2026-11-10"

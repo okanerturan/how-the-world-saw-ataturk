@@ -13,9 +13,12 @@ caveat: >-
   İmzasız; alıntılanan cümle Kemal'in adının geçtiği pasajın ardından gelir ve faşist tarzı grubun tamamını
   ilgilendirir.
 verification_note: >-
-  Birebir aynı; önceki satırlarda 'Mussolini, un Hitler o un Mustafá Kemal' adları geçer. Cümle grubun tamamı
-  için geçerlidir.
-verification_method: tile.loc.gov full_text
+  Alıntılanan sözler sayfa taramasından okundu ve basıldığı gibidir. OCR metninden: kelimesi kelimesine;
+  önceki satırlarda 'Mussolini, un Hitler o un Mustafá Kemal' isimleri geçiyor. Cümle bu grubun tamamı için
+  geçerlidir.
+verification_method: >-
+  tile.loc.gov üzerinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  alıntılanan sözlerin okunması
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1af7128c59ed
@@ -23,5 +26,5 @@ source_fingerprints:
   quote: ca2802639d9d
   summary: 06c106538f4a
   caveat: 52830d111edb
-  verification_note: 66f787fbeecd
-  verification_method: 0e07f3903a84
+  verification_note: da4a0daf492b
+  verification_method: 7f67ff34ed94

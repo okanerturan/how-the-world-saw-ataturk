@@ -7,23 +7,24 @@ role: İspanyolca günlük gazete, Tampa, Florida (puro işçisi okur kitlesi)
 quote: Bütün diktatörlükler kötüdür, antidemokratiktir
 quote_kind: translated
 summary: >-
-  Köşe yazısı, Mussolini, Pilsudski ve Stalin ile birlikte 'Dictadura de Kemal Pacha en Turquía'yı sıralar ve
-  bütün diktatörlükleri kötü ve antidemokratik olarak kınar.
+  Sütun, Piłsudski'nin, Stalin'in ve İtalya'nın 'kara diktatörlüğü'nün yanında 'Dictadura de Kemal Pacha en
+  Turquía'yı sıralamakta ve tüm diktatörlükleri kötü ve antidemokratik olarak kınamaktadır.
 caveat: >-
-  İmzasız birinci sayfa köşe yazısı; listede Primo de Rivera, Leguía, Ibáñez ve Stalin'in de adı geçer,
-  dolayısıyla Kemal genel bir suçlamadaki maddelerden biridir.
+  İmzasız birinci sayfa sütunu. Listede Piłsudski, Kemal Pacha, Leguía, Ibáñez ve Stalin'in adları
+  geçmektedir; İtalya ve İspanya yalnızca 'Dictadura negra en Italia' ve 'Dictadura “verde” militar en España'
+  olarak yer almaktadır. Kemal, genel bir suçlama listesindeki maddelerden biridir.
 verification_note: >-
-  Alıntı birebir aynı ('Todas las dictaduras son malas, antidemocráticas'). Köşe yazısı Pilsudski, Leguía,
-  Ibáñez, Stalin ile birlikte 'Dictadura de Kemal Pacha en Turquía'yı sıralıyor; Mussolini ve Primo de
-  Rivera'nın adı GEÇMİYOR, yalnızca 'Dictadura negra en Italia' / 'verde militar en España' var - kayıttaki
-  'names Primo de Rivera/Mussolini' ifadesi çıkarımdır.
-verification_method: loc.gov JSON -> tile.loc.gov full_text OCR
+  Sayfa taramasından okundu: alıntı basıldığı gibidir ve liste araştırma notunda verildiği şekildedir.
+  Mussolini ve Primo de Rivera'nın adı geçmemektedir.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1af7128c59ed
   role: ec3228434984
   quote: 2700c9a3c689
-  summary: c68ca513a15d
-  caveat: 29fb136dfa39
-  verification_note: f773ac86e0c3
-  verification_method: 3285e0490d8a
+  summary: 0aa7d2e56af5
+  caveat: 1ab48b35d576
+  verification_note: a2f62ea92aed
+  verification_method: 7f67ff34ed94

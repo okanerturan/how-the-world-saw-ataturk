@@ -16,22 +16,26 @@ summary: >-
   Translating a Plain Dealer editorial: brigand-like Kemal holds Europe's fate, yet is a dazzling hero to
   Muslims and Hindus.
 quote:
-  text: zbůjnický Turek, drží ve svých rukou osud Evropy
+  text: zbujnický Turek, drží ve svých rukou osud Evropy
   language: cs
 mediated_by: Cleveland Plain Dealer editorial 'War is Imminent' (15 Sep 1922), in Czech translation
 caveat: >-
-  Mediated: the editorial is the Plain Dealer's, printed in translation by Svět as its own take on the day;
-  OCR interleaves columns, so the quoted clause is joined from two lines.
+  Mediated: the editorial is the Plain Dealer's ('píše Plain Dealer'), printed in translation by Svět as its
+  own take on the day. The paper prints 'zbujnický' without the ring over the u.
 node: America's Immigrant Press Reads Kemal, 1922–1938
 sources:
   - url: https://www.loc.gov/resource/sn83045068/1922-09-16/ed-1/?sp=2
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn83045068 1922-09-16 ed-1 seq 2 OCR
-  method: loc.gov JSON + tile.loc.gov full_text
+  checked_against: >-
+    Svět (Cleveland), 16 September 1922, p. 2: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn83045068)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Quote verbatim, joined across OCR line break (Ke-/mal, zbůjnický Turek, drží ve svých rukou osud Evropy).
-    Article is a translation of the Plain Dealer 'War is Imminent' editorial; text says Hindus and Muslims
-    both regard Kemal as 'zářící hrdina'.
-  checked_on: "2026-10-30"
+    Read on the page scan: 'Kemal, zbujnický Turek, drží ve svých rukou osud Evropy.' The OCR had 'zbůjnický'.
+    The same page says Hindus and Muslims both look to Mustafa Kemal 'jako na zářícího hrdinu'. That the
+    article translates the Plain Dealer's 'War is Imminent' editorial is from the earlier check.
+  checked_on: "2026-11-10"

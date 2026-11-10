@@ -12,10 +12,13 @@ summary: >-
 caveat: >-
   İmzasız. İddia edilen çok eşlilik önerisi gazetenin haberidir ve burada doğrulanmamıştır; olgu olarak değil,
   dönemin bir söylentisi olarak değerlendirilmelidir.
-verification_note: ""
+verification_note: >-
+  Alıntılanan sözler sayfa taramasından okundu ve basıldığı gibidir. OCR metninden: 'Los Napoleones de Papel
+  Carton' başlığı mevcut; sütunda Kemal'in Angora meclisine çok eşliliği önerdiği, 'suspirar por las orgias,
+  el serrallo' ifadeleri yer alıyor; düşmanca kutupluluk uyumlu
 verification_method: >-
-  'Los Napoleones de Papel Carton' başlığı mevcut; köşe yazısında Kemal'in Ankara meclisine çok eşliliği
-  önerdiği, 'suspirar por las orgias, el serrallo' denildiği belirtiliyor; hasmane kutupluluk uygun
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü hizmetinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: aa204ec9f170
@@ -23,5 +26,5 @@ source_fingerprints:
   quote: 9c0b8cb66c2b
   summary: 3d2595d1b6e7
   caveat: f7328072f6b9
-  verification_note: da39a3ee5e6b
-  verification_method: 0165a6af7ec2
+  verification_note: f2611d21c225
+  verification_method: 7f67ff34ed94

@@ -29,9 +29,14 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: tile.loc.gov OCR sn83045395 1922-11-27 seq 3 (0139.xml full_text)
-  method: loc.gov ALTO full_text via curl
+  checked_against: >-
+    La Prensa (San Antonio), 27 November 1922, p. 3: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn83045395)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    'Kemal, el dios del día' present; article 'Con Mustafa Kemal', Paris Nov 10, Revista Semanaria, Ricardo
-    Eaton; refugees, Armenians 'fusilados por centenares', Napoleon as 'guía' all present.
-  checked_on: "2026-10-29"
+    The quoted words were read on the page scan and are as printed. From the OCR text: 'Kemal, el dios del
+    día' present; article 'Con Mustafa Kemal', Paris Nov 10, Revista Semanaria, Ricardo Eaton; refugees,
+    Armenians 'fusilados por centenares', Napoleon as 'guía' all present.
+  checked_on: "2026-11-10"

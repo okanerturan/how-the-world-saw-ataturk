@@ -20,18 +20,23 @@ quote:
   text: Kemal es aclamado como salvador
   language: es
 caveat: >-
-  Byline printed in the OCR as 'Camie Rerría' (name unresolved); OCR text garbled in places, quote joined
-  across a line break ('sal vador').
+  The byline is blurred on the scan; it appears to read 'por Camilo Barcia.' (the OCR had 'Camie Rerría').
 node: Spanish-Language Newspapers Across the Americas Read Kemal, 1922–1935
 sources:
   - url: https://www.loc.gov/resource/sn88073003/1922-11-11/ed-1/?sp=4
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn88073003 1922-11-11 p.4 full text (tile.loc.gov ALTO text)
-  method: tile.loc.gov full_text via curl
+  checked_against: >-
+    El Imparcial (San Juan), 11 November 1922, p. 4: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn88073003)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
+    Read on the page scan: 'Kemal es aclamado como salvador' is as printed, with 'sal-vador' broken across a
+    line. The byline is blurred and appears to read 'por Camilo Barcia.' Earlier check, from the OCR text:
     'Kemal es aclamado como sal vador' present (line-break join); headline 'El Caudillo de Angora', 'Turquía
     es el primero de los pueblos vendidos que se incorpora', sober/silent, anti-pan-Turk all present; byline
     OCR 'Camie Rerría' as stated.
-  checked_on: "2026-10-29"
+  checked_on: "2026-11-10"

@@ -19,17 +19,20 @@ quote:
   text: La república en eso imita al extinguido sultanato.
   language: es
 caveat: >-
-  OCR of the preceding lines is damaged ('Keraal Pasha', doubled words); the quoted sentence is clean.
-  Unsigned.
+  Unsigned. The lines before the quote are clean on the scan; it was the OCR that had garbled them.
 node: Tampa's La Gaceta Calls Kemal a Dictator, 1930–1935
 sources:
   - url: https://www.loc.gov/resource/sn86002403/1931-03-02/ed-1/?sp=1
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn86002403 1931-03-02 page OCR (tile.loc.gov)
-  method: loc.gov JSON + tile OCR
+  checked_against: >-
+    La Gaceta (Tampa), 2 March 1931, p. 1: the page scan and its OCR text (Library of Congress, Chronicling
+    America sn86002403)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Exact sentence; context 'Kemal sostiene ... anorcar a los enemigos del gobierno', hanging dervishes; OCR
-    of preceding lines damaged as stated.
-  checked_on: "2026-10-30"
+    Read on the page scan: the sentence is as printed, and the line before it has 'ahorcar a los enemigos del
+    gobierno' (the OCR had 'anorcar'). The hanging of dervishes is in the same item.
+  checked_on: "2026-11-10"

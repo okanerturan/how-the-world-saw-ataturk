@@ -13,25 +13,27 @@ summary: >-
   Gazetenin Sofya telgrafı, Bitlis ve Muş'taki zaferleri, Bulgaristan'da askerî ataşe olarak çok iyi
   hatırlanan 'son derece enerjik' General Mustafa Kemal Paşa'ya mal etti.
 caveat: >-
-  14 Ağustos 1916 tarihli Neue Freie Presse'de (s. 6) yer alan, Sofya, 13 Ağustos tarihli ve 'Mustafa Kemal
+  14 Ağustos 1916 tarihli Neue Freie Presse'nin 6. sayfasında, Sofya, 13 Ağustos tarihli, 'Mustafa Kemal
   Pascha Kommandant der Kaukasusarmee.' başlıklı haber. Başlık görevini abartmaktadır: o cephede bir kolorduya
   komuta ediyordu. İmzasızdır ve 'Bulgaristan'da' kimin hafızasının kastedildiği belirtilmemiştir. Sofya'daki
-  ataşelik yıllarına (1913–14) dair 1919 öncesinden basılı olarak bulunan tek izdir. İlk okuyucu bu haberin
-  Militärische Rundschau (23 Eylül 1916) ve Thorn'da çıkan Die Presse (19 Ağustos 1916) gazetelerinde yeniden
-  basıldığını da görmüştür; bunlar tekrar kontrol edilmemiştir. Taranmış sayfanın kesitlerinden okunmuştur;
-  tam sayfa kütüphane görüntüleyicisinin bot kontrolü arkasında kaldığından görülmemiştir.
+  ataşelik yıllarının (1913–14) 1919 öncesinde basında bulunan tek izidir. İlk okuyucu bunun Militärische
+  Rundschau (23 Eylül 1916) ve Thorn'da çıkan Die Presse (19 Ağustos 1916) gazetelerinde yeniden basıldığını
+  da görmüştür; bunlar yeniden kontrol edilmemiştir. Kütüphanenin görüntüleyicisinde tam sayfa olarak
+  okunmuştur; başlığın altındaki '[Telegramm der „Neuen Freien Presse“.]' satırı, bunun gazetenin kendi
+  telgrafı olduğunu göstermektedir.
 verification_note: >-
-  Başlık, 'Sofia, 13. August.' tarih satırı ve her iki cümle, taranmış sayfanın kesitlerinden iki okuyucu
-  tarafından okunmuştur. Haberin gazetenin kendi telgrafı olduğunu belirten satır kesitte yarıdan kesilmiştir.
-  İki okuyucu da sayfayı bir bütün olarak görmemiştir.
+  Başlık, '[Telegramm der „Neuen Freien Presse“.]' satırı, 'Sofia, 13. August.' mahreci ve her iki cümle iki
+  okuyucu tarafından kesitlerde, ardından görüntüleyicide 'Seite 6 … 14. August 1916 … Nr. 18671' başlığını
+  taşıyan tam sayfada okunmuştur.
 verification_method: >-
-  kütüphanenin açık arama uç noktasından her seferinde üçer satır halinde dönen tarama kesitleri
+  kütüphanenin açık arama uç noktasından tarama kesitleri, ardından tarayıcıda açılan kütüphane
+  görüntüleyicisinde tam sayfa
 translated_by: "machine: gemini-4-argon-medium"
 source_fingerprints:
   voice: 2587e23d0eb8
   role: 0f412239a4b2
   quote: 64a40a75ef38
   summary: 76b972a3b3ac
-  caveat: 798dd5a6bff5
-  verification_note: 3b71aac73aa3
-  verification_method: ed3212fc5043
+  caveat: aab74707cf70
+  verification_note: 135a24aa501d
+  verification_method: 37f20a94e113

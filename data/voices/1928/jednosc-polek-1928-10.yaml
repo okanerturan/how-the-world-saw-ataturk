@@ -25,8 +25,13 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn83035481 1928-10-09 p.1 OCR
-  method: tile.loc.gov full_text
+  checked_against: >-
+    Jedność Polek (Cleveland), 9 October 1928, p. 1: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn83035481)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Verbatim; same article names Swiss law and Latin alphabet to spread reading (OCR column order interleaved).
-  checked_on: "2026-10-30"
+    The quoted words were read on the page scan and are as printed. From the OCR text: verbatim; same article
+    names Swiss law and Latin alphabet to spread reading (OCR column order interleaved).
+  checked_on: "2026-11-10"

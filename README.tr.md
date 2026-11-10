@@ -30,11 +30,11 @@ Sonuca göre kaynak doğrulamaları:
 
 | Sonuç | Kayıtlar | Oran |
 |---|---|---|
-| `confirmed` | 776 | %80 |
+| `confirmed` | 778 | %80 |
 | `partial` | 96 | %10 |
 | `paraphrase-ok` | 57 | %6 |
 | `secondary-only` | 31 | %3 |
-| `unreachable` | 11 | %1 |
+| `unreachable` | 9 | %1 |
 | `not-found` | 3 | %1'in altında |
 | `contradicted` | 2 | %1'in altında |
 

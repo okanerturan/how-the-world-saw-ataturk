@@ -27,9 +27,14 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: Chronicling America sn83045203 1922-12-01 p.5 OCR
-  method: tile.loc.gov full_text
+  checked_against: >-
+    Glas svobode (Chicago), 1 December 1922, p. 5: the page scan and its OCR text (Library of Congress,
+    Chronicling America sn83045203)
+  method: >-
+    page OCR from tile.loc.gov, then the quoted words read in a crop of the scan from the library's image
+    service
   note: >-
-    Verbatim (OCR: line-break hyphens). Mudanya, sultan gone, path to caliphate, Enver as rival; wary of Kemal
-    as protector of Muslims.
-  checked_on: "2026-10-30"
+    The quoted words were read on the page scan and are as printed. From the OCR text: verbatim (OCR:
+    line-break hyphens). Mudanya, sultan gone, path to caliphate, Enver as rival; wary of Kemal as protector
+    of Muslims.
+  checked_on: "2026-11-10"

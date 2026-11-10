@@ -4,8 +4,8 @@
 id: dimitri-atschkow-1916-09-09
 voice: Dimitri Atschkow
 role: >-
-  Gazetenin tanınmış bir Makedonya Bulgarı siyasetçi olarak tanımladığı Bulgar milletvekili; Neue Freie
-  Presse'deki mülakat
+  Bulgar milletvekili; gazete onu tanınmış bir Makedo-Bulgar siyasetçi, Makedonya icra komitesi üyesi ve
+  Stambolov partisinin bir siması olarak nitelendiriyor. Neue Freie Presse'teki mülakat
 quote: >-
   Makedonya kökenli olan Mustafa Kemal, Çanakkale savunmasında üstün başarı gösterdikten sonra, henüz genç bir
   adamken 16. Kolordu Komutanı olarak generallik görevini aldı. Askerî yetenekleri sayesinde, Diyarbekir
@@ -15,28 +15,35 @@ summary: >-
   Mustafa Kemal'i Türkiye'nin öne çıkan liderleri arasında saydı: Makedonya kökenli, Çanakkale'de üstün başarı
   göstermiş, genç yaşta general olmuş ve Rusları püskürtmüş bir isim.
 caveat: >-
-  9 Eylül 1916 tarihli Neue Freie Presse'de (s. 2) Bulgarlar ile Türklerin silah kardeşliği üzerine yayımlanan
-  'Unterredung mit Dimitri Atschkow. Bulgarischer Abgeordneter.' başlıklı mülakat; gazete onu 'Der bekannte
-  mazedo-bulgarische Politiker Dimitri Atschkow, der sich seit einigen Tagen in Wien aufhält' sözleriyle
-  tanıtır. Bu tanımın ötesinde kimliği tespit edilememiştir ve Mustafa Kemal'i Sofya'dan tanıyıp tanımadığı
-  bilinmemektedir. Enver'in doğru adamları bulma yeteneğinin kanıtı olarak, 'der türkische Nationalheros Enver
-  Pascha'dan sonra ikinci sırada onun adını verir; övgü, mülakatın temasına hizmet etmektedir.
-  'Diarbekirfront' ve 'henüz genç bir adamken' generallik görevi alması kendi serbest ifadeleridir. Fraktur
-  harfleriyle dizilmiş taranmış sayfanın kesitlerinden okunmuştur; tam sayfa kütüphane görüntüleyicisinin bot
-  kontrolü arkasında kaldığından görülmemiştir ve 'Wien, 8. September' tarih satırının yalnızca yarısı
-  görünmektedir.
+  9 Eylül 1916 tarihli Neue Freie Presse'nin 2. sayfasında, 'Wien, 8. September.' tarihli ve Bulgarlar ile
+  Türklerin silah kardeşliği üzerine 'Die Befreiung der Dobrudscha durch den Sieg bei Tutrakan. Die
+  Waffenbrüderschaft zwischen Bulgaren und Türken. Unterredung mit Dimitri Atschkow. Bulgarischer
+  Abgeordneter.' başlıklı mülakat; gazete onu 'Der bekannte mazedo-bulgarische Politiker Dimitri Atschkow, der
+  sich seit einigen Tagen in Wien aufhält' olarak tanıtıyor. Kapanış notu onun Makedonya icra komitesinde yer
+  aldığını, Stambolov partisinde tanınmış bir sima olduğunu, Makedonya cephesinde savaşıp Krivolak'tan sonra
+  nişan aldığını, Balkan Savaşı'na katıldığını ve Türkiye ile Bulgaristan'ın yakınlaşması için çalıştığını
+  ekliyor. Bu bilgiler, Bulgarca Wikipedia biyografisinde aynı komite üyeliği, Balkan Savaşı hizmeti ve savaş
+  dönemi nişanı yer alan Pirlepe doğumlu Dimitar Achkov (doğumu 1869) ile örtüşmektedir; bu kimlik tespiti
+  arşive aittir. Aynı biyografi Achkov ile Mustafa Kemal arasındaki bir dostluk için 2006 tarihli bir gazete
+  yazısına ve 2007 tarihli bir kitaba atıfta bulunmaktadır; bunlar incelenmemiştir ve mülakatın kendisi
+  birbirlerini tanıdıklarını söylememektedir. Enver'in doğru adamları bulma yeteneğinin kanıtı olarak, 'der
+  türkische Nationalheros Enver Pascha'dan sonra ikinci sırada onun adını verir; bu övgü mülakatın temasına
+  hizmet etmektedir. 'Diarbekirfront' ve 'henüz genç bir adamken' general rütbesi onun yaklaşık ifadeleridir.
+  Kütüphanenin görüntüleyicisinde, Fraktur harfleriyle dizilmiş tam sayfa üzerinden okunmuştur.
 verification_note: >-
-  Alıntılanan her satır taranmış sayfanın kesitlerinden okunmuş olup metinde hiçbir ifade farkı yoktur;
-  konuşmacının adını veren ve onu tanıtan giriş kısmı da aynı şekilde okunmuştur. İki okuyucu da sayfayı bir
-  bütün olarak görmemiştir ve konuşmacının kimliği başka kaynaklardan tespit edilememiştir.
+  Alıntılanan her satır taranmış sayfanın kesitlerinde, ardından görüntüleyicideki tam sayfada hiçbir ifade
+  farkı olmaksızın okunmuştur; başlık, mahreç, giriş ve konuşmacıyı tanıtan kapanış notu da aynı şekilde
+  okunmuştur. Dimitar Achkov ile özdeşleştirilmesi bu kayıt için görülmüş basılı bir kaynağa değil, söz konusu
+  nota ve Wikipedia biyografisine dayanmaktadır.
 verification_method: >-
-  kütüphanenin açık arama uç noktasından her seferinde üçer satır halinde dönen tarama kesitleri
+  kütüphanenin açık arama uç noktasından tarama kesitleri, ardından tarayıcıda açılan kütüphane
+  görüntüleyicisinde tam sayfa
 translated_by: "machine: gemini-4-argon-medium"
 source_fingerprints:
   voice: ee79b373547d
-  role: de02ba811b6b
+  role: 065e991e06b9
   quote: 925c8c6d4d97
   summary: 3e6997fe4f3c
-  caveat: 7c24e2eac775
-  verification_note: b35e3314b027
-  verification_method: ed3212fc5043
+  caveat: fe127f52838c
+  verification_note: 9761efaba0db
+  verification_method: 37f20a94e113

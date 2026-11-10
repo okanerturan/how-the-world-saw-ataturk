@@ -13,9 +13,12 @@ caveat: >-
   İmzasız; ayrıca s. 5'te Kemal'in her yerdeki Müslümanları korumak isteyeceğinden çekinen bir 'Balkanska
   zveza' yazısı yer alıyor; gazetenin tutumu kısmen bundan çıkarılmıştır.
 verification_note: >-
-  Birebir (OCR: satır sonu tireleri). Mudanya, sultanın gidişi, hilafet yolu, rakip olarak Enver;
-  Müslümanların koruyucusu olarak Kemal'e karşı temkinli.
-verification_method: tile.loc.gov full_text
+  Alıntılanan sözler sayfa taramasında okunmuştur ve basıldığı gibidir. OCR metninden: bire bir aynıdır (OCR:
+  satır sonu tireleri). Mudanya, padişahın gidişi, hilafete giden yol, rakip olarak Enver; Müslümanların
+  koruyucusu olarak Kemal'e karşı ihtiyatlı yaklaşım.
+verification_method: >-
+  tile.loc.gov adresinden sayfa OCR'ı, ardından kütüphanenin görüntü servisinden alınan tarama kesitinde
+  okunan alıntı sözler
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: bc4e3d7c4332
@@ -23,5 +26,5 @@ source_fingerprints:
   quote: 1d59321cd550
   summary: a8a64c1971a9
   caveat: 79495b814d8a
-  verification_note: 5f67bfbda8d0
-  verification_method: 0e07f3903a84
+  verification_note: fe8cac1f4aa4
+  verification_method: 7f67ff34ed94
