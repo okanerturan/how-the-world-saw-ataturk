@@ -6,9 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        A voice is an identifiable person, newspaper, institution or collective expressing a view of Atatürk, in a source you can point to. Personal opinions, unsourced claims and insults are not accepted. Please check the [exhibition](https://the-long-thread.pages.dev) first: the voice may already be there. Rules: [CONTRIBUTING.md](https://github.com/okanerturan/how-the-world-saw-ataturk/blob/main/CONTRIBUTING.md).
+        A voice is an identifiable person, newspaper, institution or collective expressing a view of Atatürk, in a source you can point to. Personal opinions, unsourced claims and insults are not accepted. Please check the [exhibition](https://ataturk.fyi) first: the voice may already be there. Rules: [CONTRIBUTING.md](https://github.com/okanerturan/how-the-world-saw-ataturk/blob/main/CONTRIBUTING.md).
 
-        Söz; kimliği belli bir kişinin, gazetenin, kurumun ya da topluluğun Atatürk hakkında, gösterebileceğiniz bir kaynakta yer alan görüşüdür. Kişisel görüşler, kaynaksız iddialar ve hakaretler kabul edilmez. Önce [sergiye](https://the-long-thread.pages.dev) bakın: söz zaten orada olabilir. Kurallar: [CONTRIBUTING.md](https://github.com/okanerturan/how-the-world-saw-ataturk/blob/main/CONTRIBUTING.md).
+        Söz; kimliği belli bir kişinin, gazetenin, kurumun ya da topluluğun Atatürk hakkında, gösterebileceğiniz bir kaynakta yer alan görüşüdür. Kişisel görüşler, kaynaksız iddialar ve hakaretler kabul edilmez. Önce [sergiye](https://ataturk.fyi) bakın: söz zaten orada olabilir. Kurallar: [CONTRIBUTING.md](https://github.com/okanerturan/how-the-world-saw-ataturk/blob/main/CONTRIBUTING.md).
 
         You can write in English or Turkish. / İngilizce ya da Türkçe yazabilirsiniz.
   - type: input

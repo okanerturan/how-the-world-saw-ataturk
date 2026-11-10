@@ -62,7 +62,7 @@ You only need a GitHub account. Choose a form:
 - [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml): you re-opened a record's source and can say what it prints.
 - [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml): a better Turkish wording.
 
-Before suggesting a voice, search for the name in the [exhibition](https://the-long-thread.pages.dev) or in this repository, to see whether it is already there. The maintainer or another contributor turns a good suggestion into a record and links it in the issue.
+Before suggesting a voice, search for the name in the [exhibition](https://ataturk.fyi) or in this repository, to see whether it is already there. The maintainer or another contributor turns a good suggestion into a record and links it in the issue.
 
 ### 2. Add or edit a file in the browser
 

@@ -62,7 +62,7 @@ Yalnızca bir GitHub hesabına ihtiyacınız vardır. Bir form seçin:
 - [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml): bir kaydın kaynağını yeniden açtınız ve orada ne yazdığını söyleyebilirsiniz.
 - [Translation fix / Çeviri düzeltmesi](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=translation.yml): daha iyi bir Türkçe ifade önerisi.
 
-Bir söz önermeden önce, halihazırda mevcut olup olmadığını görmek için ismi [sergide](https://the-long-thread.pages.dev) veya bu depoda arayın. Bakımcı veya başka bir katkıda bulunan, uygun bir öneriyi kayda dönüştürür ve issue içinde bağlantısını paylaşır.
+Bir söz önermeden önce, halihazırda mevcut olup olmadığını görmek için ismi [sergide](https://ataturk.fyi) veya bu depoda arayın. Bakımcı veya başka bir katkıda bulunan, uygun bir öneriyi kayda dönüştürür ve issue içinde bağlantısını paylaşır.
 
 ### 2. Tarayıcı üzerinden dosya ekleyin veya düzenleyin
 

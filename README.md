@@ -2,17 +2,17 @@ Türkçe için: [README.tr.md](README.tr.md)
 
 # How the world saw Atatürk
 
-[![The exhibition's opening view: a portrait of Atatürk drawn entirely in lines of text](viz/public/og.jpg)](https://the-long-thread.pages.dev)
+[![The exhibition's opening view: a portrait of Atatürk drawn entirely in lines of text](viz/public/og.jpg)](https://ataturk.fyi)
 
 An open archive of documented voices on Mustafa Kemal Atatürk, from 1919 to 2026: who said what about him, where they said it, the source it comes from, and an independent check of that source.
 
 The voices are presidents, poets, generals, newspapers, parliaments, clerics, enemies and admirers. Each record is a small YAML file about one voice at one moment: the speaker, the date, a short neutral summary, the speaker's own words in the original language when the source prints them, the source, and the result of a separate checker re-opening that source.
 
-**Exhibition:** [the-long-thread.pages.dev](https://the-long-thread.pages.dev) (The Thread, in Turkish and English). It is built from the files in this repository.
+**Exhibition:** [ataturk.fyi](https://ataturk.fyi) (The Thread, in Turkish and English). It is built from the files in this repository.
 
-[![One voice opened in the exhibition: Eleftherios Venizelos, 1934](docs/thread-voice.en.jpg)](https://the-long-thread.pages.dev/#venizelos-1934-01-12)
+[![One voice opened in the exhibition: Eleftherios Venizelos, 1934](docs/thread-voice.en.jpg)](https://ataturk.fyi/#venizelos-1934-01-12)
 
-Every voice has its own link. The one above is [the-long-thread.pages.dev/#venizelos-1934-01-12](https://the-long-thread.pages.dev/#venizelos-1934-01-12); the part after `#` is the record's `id`.
+Every voice has its own link. The one above is [ataturk.fyi/#venizelos-1934-01-12](https://ataturk.fyi/#venizelos-1934-01-12); the part after `#` is the record's `id`.
 
 ## Current size
 
