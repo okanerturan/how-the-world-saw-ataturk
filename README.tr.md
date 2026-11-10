@@ -1,6 +1,6 @@
 English: [README.md](README.md)
 
-# Dünya Atatürk'ü nasıl gördü
+# Dünyanın Gözünden Atatürk
 
 [![Serginin açılış görünümü: Atatürk'ün tamamen yazı satırlarından oluşan portresi](viz/public/og.jpg)](https://ataturk.fyi)
 
