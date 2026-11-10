@@ -1804,3 +1804,25 @@ Before release, every record added or changed in rounds 34b–35 was re-read by 
 Also: 36 records whose quoted text is a rendering of a foreign speaker's words (a Turkish paper's version, or a published translation) now carry `quote.is_translation: true` (the exhibition labels such text 'As printed'); every `summary` is 25 words or fewer; the two round-sweep notes in `vault/Events/` were regenerated from the corrected records.
 
 **Added after the re-check (9 Nov 2026):** Mustafa Zein, Lebanese ambassador in Ankara, on his Arabic book about Atatürk: "Gerçek bir dahinin ne olduğunu göstermek istedim" (Milliyet 10 Nov 1983 p. 5; read by two readers). The 10 Nov 1978 issue has no foreign voice: its UNESCO item is a draft resolution with no named speaker.
+
+## Census round 36 (2026-11-10): before 1919
+
+The archive began in July 1919 because nobody had looked earlier. One search for texts that existed before 19 May 1919 (letters, despatches, newspapers, a wartime book) found fifteen candidates; a second reader then re-opened every source. None was contradicted. Eleven are entered as records, four are kept as leads in [`candidates/before-1919.md`](candidates/before-1919.md).
+
+| Record | Date | What was read | Verdict | Corrected at the second read |
+|---|---|---|---|---|
+| `alvarez-1908-10` | Oct 1908 | Simon 1980 (Belleten 44/173), pp. 75–77, page images; F.O. 195/2271 not seen | secondary-only | He is named only 'Adjutant Kemal Bey'; dated to the month because the split between two despatches rests on Simon's footnotes |
+| `ahmed-izzet-pasha-1913-02-22` | 22 Feb 1913 | Aktepe 1974 (Belleten 38/150), pp. 283–285, 288, page images | confirmed | Date is 22 Feb, not Aktepe's bracketed 23; wording taken from the print, not the web text; he argues against removing them, and the 'şübban' sentence covers both factions |
+| `reichspost-1915-05-20` | 20 May 1915 | scan crops of p. 16 (ANNO) | confirmed | The voice is the paper carrying agency copy; 'Fifth Army headquarters' was an inference and is dropped |
+| `liman-von-sanders-1915-09-30` | 30 Sep 1915 | facsimile of the handwritten letter (Belleten 32/128, plates) | confirmed | None; read line by line twice |
+| `tasvir-i-efkar-1915-10-29` | 29 Oct 1915 | photograph of the front page | confirmed | Occasion added: the war anniversary issue |
+| `erich-prigge-1916` | 1916 | page images of the 1916 printing | confirmed | None |
+| `neue-freie-presse-1916-08-14` | 14 Aug 1916 | scan crops of p. 6 (ANNO) | confirmed | None |
+| `dimitri-atschkow-1916-09-09` | 9 Sep 1916 | scan crops of p. 2 (ANNO) | confirmed | Speaker not identified beyond the paper's description; dateline only half visible |
+| `enver-pasha-1917-09-29` | 29 Sep 1917 | İğdemir 1969 (Belleten 33), pp. 509–510 and facsimile | confirmed | First printing has 'kemal-i muvaffakıyetle' (the later book drops a word); it is a draft cipher telegram, not a letter |
+| `carlo-sforza-1918-12-17` | 17 Dec 1918 | page images of DDI, serie 6, vol. I, pp. 317–318 | confirmed | The print says 'Ismail Kemal pascià'; the identification is the editors' |
+| `buyuk-mecmua-1919-03-20` | 20 Mar 1919 | Arıkan 1989, pp. 607–612, page images; the magazine not seen | secondary-only | Not a fortnightly; the piece miscounts the anniversary |
+
+Not entered: Minber of 17 Nov 1918 (he was a partner in the paper, and Enver Ziya Karal thought the biographical introduction may have been dictated by him), Ahmet Hulki in Minber of 19 Nov 1918 (known only in Karal's modernised rendering), Mahmut Şevket Paşa's diary for Feb 1913 (third-hand and modernised), and Ruşen Eşref's 1918 interview (the known wording is from the 1930 book). No teacher's or classmate's text from his school years was found. The viewer of the Austrian newspaper collection sits behind a browser check, so three records rest on scan crops returned by its search, not on the whole page.
+
+In the exhibition, a record dated only to its year now follows that year's dated records.

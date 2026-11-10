@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: enver-pasha-1917-09-29
+voice: Enver Pasha
+voice_type: person
+role: Ottoman War Minister and Deputy Commander-in-Chief; draft cipher telegram to Mustafa Kemal
+country: Ottoman Empire
+country_now: Turkey
+domain: military
+date: "1917-09-29"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: telegram
+evidence: P
+summary: >-
+  Told Mustafa Kemal he had long known and appreciated him, had chosen him for the most important post, and
+  was sure he would succeed.
+quote:
+  text: >-
+    Zat-ı âlinizi eskiden beri tanıdığım ve takdir eylediğim cihetle en müşkül zamanda ve en mühim vazifede
+    bulunmanızı menafi-i vataniyeye muvafık bulmuş ve böylece müsaade-i seniyeyi istihsal etmiştim. Yedinci
+    Ordu veya bunun kısm-ı küllisi ile Sina cephesinde Kress Paşa'nın Sekizinci Ordu'su yanında Yedinci Ordu
+    kumandanı sıfatiyle kemal-i muvaffakıyetle ifay-ı hizmet buyurulacağına eminim.
+  translation: >-
+    Since I have long known and appreciated Your Excellency, I judged it in the fatherland's interest that you
+    should hold the most important post at the most difficult time, and so obtained the imperial consent. I am
+    sure that with the Seventh Army, or the greater part of it, you will serve with complete success as
+    Seventh Army commander on the Sinai front beside Kress Pasha's Eighth Army.
+  language: ota
+caveat: >-
+  The draft of a cipher telegram on a War Ministry draft sheet dated 29/9/33 (29 September 1917), addressed
+  'Yedinci Ordu Kumandanı Mir-i Liva Mustafa Kemal Paşa Hazretlerine'; what was sent was the enciphered text.
+  It answers the first of his reports in the dispute with Marshal Falkenhayn, and he replied by cipher the
+  next day. İğdemir notes its 'oldukça nazik' tone: a superior soothing a subordinate who was threatening to
+  resign. He left the Seventh Army command in mid-October all the same. Quoted in İğdemir's Latin-script
+  transliteration, with the Ottoman draft reproduced in facsimile; İğdemir says he found it in Kâzım Orbay's
+  papers. His later book (Atatürk'ün Yaşamı I, pp. 93–94) prints the passage without the word 'kemal-i'.
+sources:
+  - url: https://dergipark.org.tr/en/download/article-file/2720356
+    citation: >-
+      Uluğ İğdemir, 'Birinci Dünya Savaşında Atatürk'le Mareşal Falkenhayn Arasında Çıkan Anlaşmazlığa Dair
+      Yeni Belgeler', Belleten 33 (1969), pp. 505 ff., Belge I, with facsimile plates
+    page: 510
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    İğdemir 1969, pp. 509–510 and the two facsimile plates of the draft, in the article PDF
+    (https://dergipark.org.tr/en/download/article-file/2720356)
+  method: page images at 300 dpi
+  note: >-
+    The quote follows the first printing on p. 510. On the facsimile of the draft's second page the words
+    'كمال موفقيتله' are written in above a struck-out phrase, so 'kemal-i muvaffakıyetle' is the right reading
+    and the later book dropped a word. P. 509 calls the document 'şifreli telgrafın müsveddesi'. That the book
+    lacks the word is known from its OCR text only.
+  checked_on: "2026-11-10"

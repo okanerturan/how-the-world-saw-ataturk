@@ -1,5 +1,5 @@
 // THREAD: every voice in the archive, in the order they spoke, set as one continuous line of text that
-// winds out in a spiral from 1919 at the centre to today at the rim. The letters are signed-distance
+// winds out in a spiral from 1908 at the centre to today at the rim. The letters are signed-distance
 // glyphs; each one is cut heavier or lighter by the tone of his photograph beneath it, the way a
 // banknote engraver draws a face with line weight. Far away it is a portrait; close up it is legible.
 import * as THREE from 'three';
@@ -704,7 +704,7 @@ const decade = (g) => +`${g.date.slice(0, 3)}0`;
 const tally = (f) => { const m = new Map(); byDate.forEach((g, i) => { const k = f(g); if (k) (m.get(k) ?? m.set(k, []).get(k)).push(i); }); return m; };
 const GROUPS = [
   [tx('grp_who'), [...tally((g) => DOMAIN(g.domain)), ...tally((g) => KIND(g.voice_type))]],
-  [tx('grp_when'), [...tally((g) => tx(+g.date.slice(0, 4) < 1923 ? 'era_war' : +g.date.slice(0, 4) < 1939 ? 'era_republic' : 'era_after'))]],
+  [tx('grp_when'), [...tally((g) => tx(+g.date.slice(0, 4) < 1919 ? 'era_before' : +g.date.slice(0, 4) < 1923 ? 'era_war' : +g.date.slice(0, 4) < 1939 ? 'era_republic' : 'era_after'))]],
   [tx('grp_decade'), [...tally(decade)].sort((a, c) => a[0] - c[0]).map(([d, l]) => [decadeLabel(d), l])],
   [tx('grp_from'), [...tally((g) => placeOf(g))].sort((a, c) => c[1].length - a[1].length).slice(0, 18)],
 ];

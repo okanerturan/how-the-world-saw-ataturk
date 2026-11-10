@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: carlo-sforza-1918-12-17
+voice: Carlo Sforza
+voice_type: person
+role: Italian High Commissioner at Constantinople; telegram to Foreign Minister Sonnino
+country: Italy
+country_now: Italy
+domain: diplomacy
+date: "1918-12-17"
+era: contemporary
+polarity: witness
+intensity: 1
+artifact: telegram
+evidence: P
+summary: >-
+  Reported secretly receiving a delegation of Unionist leaders, among them 'the hero of the Dardanelles',
+  judging that their party might soon return to power.
+quote:
+  text: >-
+    Una delegazione dei capi della Unione e Progresso qui rimasta (fra cui Fetty bey, Ismail Kemal pascià,
+    l'eroe dei Dardanelli, ecc.) chiese vedermi. Convinto che la principale forza viva, o per lo meno
+    organizzata, risiede tuttora in quel partito e che se una Turchia rimane, non è escluso suo prossimo
+    ritorno potere, li ricevetti, ma in modo che non si sapesse.
+  translation: >-
+    A delegation of the Union and Progress leaders who have remained here (among them Fethi Bey, Ismail Kemal
+    Pasha, the hero of the Dardanelles, etc.) asked to see me. Convinced that the main living, or at least
+    organised, force still lies in that party and that, if a Turkey remains, its early return to power is not
+    excluded, I received them, but in such a way that it should not be known.
+  language: it
+caveat: >-
+  A record of first-hand contact: Sforza gives no view of him beyond the epithet. The telegram prints 'Ismail
+  Kemal pascià'; the volume's editors index the passage under 'KEMAL, Mustafà, generale turco', and 'the hero
+  of the Dardanelles' in Fethi's company fits only him, but the identification is the editors'. The comma
+  after 'pascià' also allows a reading as a list of three. 'Leaders of Union and Progress' is Sforza's
+  description of his visitors. 17 December is the date of the telegram (received on the 19th); the day of the
+  meeting is not given. He advised them on autonomy for the peoples of the empire and on asking the Western
+  powers, above all Italy, for advisers; they answered that if they returned to power they wanted Italian
+  support. Compare his later judgement (carlo-sforza-1931).
+sources:
+  - url: https://archive.org/details/documenti-diplomatici-italiani-1918-1922.-sesta-serie-vol.-iii
+    citation: >-
+      I Documenti Diplomatici Italiani, Sesta Serie: 1918–1922, vol. I (4 novembre 1918 – 17 gennaio 1919),
+      doc. 582, 'L'Alto Commissario a Costantinopoli, Sforza, al Ministro degli Esteri, Sonnino', T. gab.
+      3394/33, Constantinople, 17 December 1918
+    page: 317–318
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Page images of printed pp. 317–318 of vol. I in the archive.org item
+    documenti-diplomatici-italiani-1918-1922.-sesta-serie-vol.-iii (leaves 384–385)
+  method: page images of the printed volume
+  note: >-
+    The quoted sentences match the page exactly, and the heading, telegram number and date of doc. 582 were
+    confirmed on the image. The index entry that identifies him as Mustafa Kemal was seen in the volume's OCR
+    text only; there is no index entry under 'Ismail'.
+  checked_on: "2026-11-10"

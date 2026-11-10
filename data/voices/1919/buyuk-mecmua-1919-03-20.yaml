@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: buyuk-mecmua-1919-03-20
+voice: Büyük Mecmua
+voice_type: press
+role: >-
+  Istanbul literary and scientific magazine, owned and edited by M. Zekeriya; unsigned profile
+country: Ottoman Empire
+country_now: Turkey
+domain: press
+date: "1919-03-20"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: S
+summary: >-
+  In its series 'Our Great Men': Çanakkale gave the nation a great hero; a young, resolute, steadfast
+  commander, one of 'our saviours'.
+quote:
+  text: >-
+    Mustafa Kemal genç, azimkâr, metin bir kumandandır. Çanakkale'de ordu nevmid bir vaziyete düştüğü zaman
+    ümidini bozmamış ve imanından aldığı kuvvetle ordunun da maneviyetini yükseltmişti. Büyüklerini tanımak
+    mecburiyetinde olan gençlik, (Mustafa Kemal) namını da hafızalarına ilâve etmeli ve halâskârlarımızdan
+    birinin de O olduğunu unutmamalıdır.
+  translation: >-
+    Mustafa Kemal is a young, resolute, steadfast commander. When the army fell into despair at Çanakkale he
+    did not lose hope, and with the strength he drew from his faith raised the army's morale too. Our youth,
+    who are obliged to know their great men, must add the name (Mustafa Kemal) to their memories and not
+    forget that he too is one of our saviours.
+  language: ota
+mediated_by: >-
+  Arıkan 1989 (Atatürk Araştırma Merkezi Dergisi 5/15) ← Büyük Mecmua no. 3, 20 Mart 1919, p. 44
+caveat: >-
+  'Büyüklerimiz: Mustafa Kemal Paşa', Büyük Mecmua no. 3 (20 March 1919), p. 44, unsigned, with a photograph
+  in uniform: printed in occupied Istanbul two months before he left for Samsun. Known from Zeki Arıkan's full
+  reprint in modern transliteration; the magazine itself was not seen. The writer says 'Gazeteci olmak
+  itibariyle biliyorum ki'; attributing the piece to the editor M. Zekeriya (Sertel) would be a guess. The
+  censor's cuts are marked '(sansür)' just before the quoted passage. The piece opens by saying that Çanakkale
+  'bize birçok muvaffakiyetlerden maada, bir de (Mustafa Kemal) kazandırmıştı', and it names him together with
+  Cevat Paşa. It calls March 1919 the 'third' anniversary of Çanakkale; it was the fourth.
+sources:
+  - url: https://dergipark.org.tr/tr/download/article-file/1145291
+    citation: >-
+      Zeki Arıkan, 'Atatürk'le İlgili Eski Bir Belge', Atatürk Araştırma Merkezi Dergisi 5/15 (July 1989), pp.
+      607–612
+    page: 611–612
+    accessed: "2026-11-10"
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Arıkan 1989, pp. 607–612, page images of the article PDF
+    (https://dergipark.org.tr/tr/download/article-file/1145291)
+  method: page images rendered from the scan (no text layer)
+  note: >-
+    The quote matches Arıkan's reprint on pp. 611–612, and his note 10 gives 'Büyük Mecmua, 3 (20 Mart 1919),
+    44'. It is a 1989 transliteration with no facsimile; the original magazine was not seen.
+  checked_on: "2026-11-10"

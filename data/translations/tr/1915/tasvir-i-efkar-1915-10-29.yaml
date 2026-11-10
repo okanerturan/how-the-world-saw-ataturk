@@ -1,0 +1,37 @@
+# Turkish for data/voices/1915/tasvir-i-efkar-1915-10-29.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tasvir-i-efkar-1915-10-29
+voice: Tasvir-i Efkâr
+role: İstanbul'da çıkan günlük gazete; birinci sayfadaki portresinin alt yazısı
+quote: >-
+  Çanakkale muharebât-ı berriyesinde fevkalâde yararlıkları görülen ve emr-i müdafaadaki iktidar ve mahareti
+  ile bihakkın ihrâz-ı şan ü şeref eyleyerek Boğazları ve makam-ı hilâfeti kurtaran kumandanlarımızdan
+  celâdet-i fıtriye ve havârık-ı hamâset ile mümtaz Miralay Mustafa Kemal Bey Efendi
+quote_kind: original-turkish
+summary: >-
+  Birinci sayfadaki portre alt yazısı: Çanakkale'de olağanüstü hizmetler görmüş, savunmadaki maharetiyle
+  Boğazları ve hilafet merkezini kurtarmış bir komutan.
+caveat: >-
+  Tasvir-i Efkâr sayı 1589, 29 Ekim 1915 Cuma (20 Zilhicce 1333 / 16 Teşrinievvel 1331). Birinci sayfa, solda
+  Cevat Paşa'nın, sağda ise 'Miralay Mustafa Kemal Bey Efendi'nin birbirine eş portreleriyle Osmanlı'nın
+  savaşa girişinin birinci yıl dönümünü anmaktadır; iki alt yazı birbirini tamamlayan bir çifttir. Askerî
+  sansür altındaki savaş dönemi basını. Sayfadaki bir makale Yunus Nadi imzalıdır. Sayfanın bir
+  röprodüksiyonunun 1365 piksellik fotoğrafından okunmuştur; daha iyi bir tarama memnuniyetle karşılanır.
+  Resmin Enver Paşa'dan habersiz gazeteye sokulduğuna dair daha sonraki hikâye bir anekdottur ve bu sayfanın
+  bir parçası değildir.
+verification_note: >-
+  Beş satırlık alt yazı, sayfa görüntüsü üzerinden iki okuyucu tarafından bağımsız olarak okunmuştur:
+  Osmanlıca metin, çeviriyazı ve çeviri kelimesi kelimesine örtüşmektedir. Gazete künyesindeki sayı numarası
+  ve üç takvimdeki tarih görüntü üzerinden okunmuştur. 16 Teşrinievvel 1330 tarihli manşetler, sayfanın
+  savaşın yıl dönümü nüshası olduğunu göstermektedir.
+verification_method: gazete başlığı, manşetler ve her iki portre alt yazısının büyütülmüş kesitleri
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: cfa747b67d4e
+  role: 39cb3c4a89ea
+  quote: 5e954d04bc35
+  summary: 5cd6d6ef58d5
+  caveat: f93d56d43c03
+  verification_note: d53a831b1ec2
+  verification_method: da5f0c7ee18a

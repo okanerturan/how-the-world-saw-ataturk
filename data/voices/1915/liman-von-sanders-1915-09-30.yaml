@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: liman-von-sanders-1915-09-30
+voice: Otto Liman von Sanders
+voice_type: person
+role: German marshal commanding the Ottoman Fifth Army at the Dardanelles; letter to Enver Paşa
+country: Germany
+country_now: Germany
+domain: military
+date: "1915-09-30"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: letter
+evidence: P
+summary: >-
+  Refused to forward Colonel Mustafa Kemal's resignation, calling him an exceptionally able, capable and brave
+  officer whose services the country needed in the war.
+quote:
+  text: >-
+    Ich kann dies Gesuch nicht befürworten, da ich Oberst Mustapha Kemal Bey als einen ganz besonders fähigen,
+    tüchtigen und tapferen Offizier kennen und schaetzen gelernt habe, dessen Dienste das Vaterland in diesem
+    grossen Kriege durchaus braucht.
+  translation: >-
+    I cannot support this request, since I have come to know and value Colonel Mustapha Kemal Bey as a quite
+    exceptionally able, capable and brave officer, whose services the fatherland absolutely needs in this
+    great war.
+  language: de
+caveat: >-
+  Handwritten German letter dated 17.7.1331 in the Rumi calendar, which Uluğ İğdemir reads as 17 Eylül 1331,
+  that is 30 September 1915; Mustafa Kemal's own reply to Enver is dated 21 Eylül 331 (4 October 1915). Liman
+  wrote to stop his resignation from the Anafartalar Group command after Enver had visited the other three
+  group commanders and not him, so it is advocacy as well as assessment. The letter goes on to say he 'hat
+  seit der ersten Landung vor 5 Monaten mit Auszeichnung an der Spitze der 19. Division gefochten' and had to
+  take over command on the Anafarta wing 'im schwierigen Augenblick' because the XVI Corps commander had not
+  carried out the repeated order to attack: one party's account of the August change of command. From Kâzım
+  Orbay's papers, bought by the Türk Tarih Kurumu. The Turkish text in the article is İğdemir's translation,
+  not the original. Compare his memoir (liman-von-sanders-1927).
+sources:
+  - url: https://www.belleten.gov.tr/tam-metin-pdf/3452/tur
+    citation: >-
+      Uluğ İğdemir, 'Atatürk'ün Anafartalar Gurubu Komutanlığı'ndan İstifasına Dair Bazı Belgeler', Belleten
+      32/128 (October 1968), pp. 473–478, with facsimile plates of the letter
+    page: unnumbered plates between pp. 476 and 477
+    accessed: "2026-11-10"
+  - url: https://www.belleten.gov.tr/tam-metin/3452/tur
+    label: The same article as web text, with İğdemir's Turkish translation
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Facsimile plates of the handwritten letter in the article PDF, Belleten 32/128, between pp. 476 and 477
+    (https://www.belleten.gov.tr/tam-metin-pdf/3452/tur)
+  method: 150-dpi page scans enlarged and read line by line
+  note: >-
+    All three pages of the letter were read line by line by two readers independently; the wording holds word
+    for word, including 'Auszeichnung' and 'Anaforta-Fluegel'. The mix of ae/ue and umlaut spellings follows
+    the hand. The date conversion fits 'vor 5 Monaten' (from 25 April) and the dated plate of Mustafa Kemal's
+    reply.
+  checked_on: "2026-11-10"

@@ -1,0 +1,43 @@
+# Turkish for data/voices/1913/ahmed-izzet-pasha-1913-02-22.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ahmed-izzet-pasha-1913-02-22
+voice: Ahmed İzzet Paşa
+role: Osmanlı ordusu Başkumandan Vekili; Sadrazam Mahmut Şevket Paşa'ya gizli mektup
+quote: >-
+  Fethi ve Kemal Beylerin isti'fâsının vüs'ati bilinemez ise de, bunların ve Fahri Paşa'nın oradan
+  kaldırılması ile de şimdiye kadar müttehaz tertîbatı bozmak, böyle mühim bir zamanda or[du] ahvâline vâkıf
+  olmayanlara kumandayı tevdî'etmek gibi ciddî mahzûrlara meydan verilmiş olur. Diğer cihetden, bunların
+  başı-boş bırakılmaları ile de istedikleri gibi tehyîc-i ezhân etmeleri teshîl edilmiş olur.
+quote_kind: original-turkish
+summary: >-
+  Fethi ve Kemal Beylerin istifalarından ve genç subaylar arasındaki kaynaşmadan yakındı; bununla birlikte
+  onların uzaklaştırılmasının ordunun tertibatına zarar vereceği uyarısında bulundu.
+caveat: >-
+  Bolayır'da Fethi ve Mustafa Kemal'in ortak muhtırası ve istifalarının ardından yazılmıştır; mektup önce
+  'Erkân-ı harbîye Reîsi Fethi Bey ile refîkı Mustafa Kemal Bey' adını verir, ardından 'Fethi ve Kemal Beyler'
+  diye söz eder. 'Fethi ve Enver Beyler' ile taraftarlarını birbiriyle çekişen iki taraf olarak betimler;
+  dünyadaki hiçbir ordunun resmî sorumluluk taşımayan 'şübban' (gençler) tarafından idare edilmediği ve
+  böylesi bir 'anarşi ve nifak ve fitne' ile yönetilen bir ordunun asla muharebe kazanamadığı yönündeki en
+  sert cümlesi ise her iki tarafın genç kurmay subayları hakkında bir hüküm olarak okunur. Tarihi 16
+  Rebiülevvel 1331 / 9 Şubat 1328, yani 22 Şubat 1913 Cumartesi'dir; Aktepe köşeli parantez içinde '[23 Şubat
+  1913]' yazar, ancak kendi metninde s. 288'de mektubun 'dokuz Şubat Cumartesi' günü yazıldığını belirtir.
+  Yalnızca Aktepe'nin çeviriyazısından ve küçük bir tıpkıbasımdan bilinmektedir; Aktepe belgenin Mahmut Şevket
+  Paşa'nın evrakından çıktığına inanıyor ve özel bir arşivde tutulduğunu söylüyordu. 'or[du]' tamamlaması ona
+  aittir.
+verification_note: >-
+  Metin, hatalar (der-tıhde, şiîbban, kafiyen, ilâ'ate) içeren derginin web metninden değil, basılı nüshadan
+  alınmıştır. Diyakritik işaretler 150 dpi çözünürlüklü bir taramadan okunmuştur ve daha net bir kopya
+  bulunursa yeniden girilmelidir. s. 276 ile 277 arasındaki tıpkıbasım levhası okunamayacak kadar küçüktür; bu
+  nedenle Aktepe'nin çeviriyazısı aslıyla karşılaştırılıp denetlenmemiştir. Tarih, 9 Şubat 1328'den
+  hesaplanmış ve s. 288 ile doğrulanmıştır.
+verification_method: 150 dpi sayfa görüntüleri
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 5d2d763c4728
+  role: 6bb6f2206786
+  quote: 8a1b2d2ea7cd
+  summary: 78cadc0eac67
+  caveat: 8291de67f5d6
+  verification_note: 9731841c83a0
+  verification_method: aaae4b2cfeb8

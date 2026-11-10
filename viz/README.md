@@ -1,7 +1,7 @@
 # viz/ — the Thread
 
 The exhibition at https://ataturk.fyi: every checked voice in the archive, in the order they spoke, set
-as one line of text that spirals out from 1919 at the centre to today at the rim. Each letter is cut heavier where his
+as one line of text that spirals out from 1908 at the centre to today at the rim. Each letter is cut heavier where his
 photograph is dark, so from a distance the text draws his portrait. Click a voice and it unwinds into a straight line
 of type with its sources and its check. Turkish and English (Turkish by browser language, `?lang=en|tr` to choose).
 Every voice has its own address, `/#<record id>`, which opens straight on that voice; "share" under an open voice

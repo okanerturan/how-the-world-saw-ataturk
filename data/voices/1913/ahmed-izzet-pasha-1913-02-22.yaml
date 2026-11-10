@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ahmed-izzet-pasha-1913-02-22
+voice: Ahmed İzzet Paşa
+voice_type: person
+role: >-
+  Acting Commander-in-Chief of the Ottoman army; confidential letter to Grand Vizier Mahmut Şevket Paşa
+country: Ottoman Empire
+country_now: Turkey
+domain: military
+date: "1913-02-22"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: letter
+evidence: P
+summary: >-
+  Complained of Fethi and Kemal Beys' resignations and agitation among young officers, yet warned that
+  removing them would harm the army's dispositions.
+quote:
+  text: >-
+    Fethi ve Kemal Beylerin isti'fâsının vüs'ati bilinemez ise de, bunların ve Fahri Paşa'nın oradan
+    kaldırılması ile de şimdiye kadar müttehaz tertîbatı bozmak, böyle mühim bir zamanda or[du] ahvâline vâkıf
+    olmayanlara kumandayı tevdî'etmek gibi ciddî mahzûrlara meydan verilmiş olur. Diğer cihetden, bunların
+    başı-boş bırakılmaları ile de istedikleri gibi tehyîc-i ezhân etmeleri teshîl edilmiş olur.
+  translation: >-
+    The extent of Fethi and Kemal Beys' resignation cannot be known; yet removing them and Fahri Pasha from
+    there would upset the dispositions made so far and, at so critical a time, hand the command to men who do
+    not know the army's situation, which are serious drawbacks. On the other hand, leaving them at large would
+    make it easier for them to stir up minds as they please.
+  language: ota
+caveat: >-
+  Written after the joint memorandum and resignations of Fethi and Mustafa Kemal at Bolayır; the letter first
+  names 'Erkân-ı harbîye Reîsi Fethi Bey ile refîkı Mustafa Kemal Bey' and then speaks of 'Fethi ve Kemal
+  Beyler'. It describes 'Fethi ve Enver Beyler' and their supporters as two quarrelling parties, and its
+  harshest sentence, that no army in the world has been run by 'şübban' (youths) who bear no official
+  responsibility and that an army ruled by such 'anarşi ve nifak ve fitne' has never won a battle, reads as a
+  judgement on the young staff officers of both sides. Dated 16 Rebiülevvel 1331 / 9 Şubat 1328, which is
+  Saturday 22 February 1913; Aktepe brackets '[23 Şubat 1913]', but his own p. 288 says it was written on
+  'dokuz Şubat Cumartesi'. Known only from Aktepe's transliteration and a small facsimile; he believed the
+  document came from Mahmut Şevket Paşa's papers and said it was kept in a private archive. 'or[du]' is his
+  completion.
+sources:
+  - url: https://www.belleten.gov.tr/tam-metin-pdf/1312/tur
+    citation: >-
+      Münir Aktepe, 'Atatürk'ün Sofya Ataşeliğine Kadar İttihat ve Terakki Cemiyeti ile Olan Münasebetleri ve
+      Bu Hususla Alâkalı Bir Belge', Belleten 38/150 (April 1974), pp. 263–294
+    page: 284–285
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Aktepe 1974, pp. 283–285 and 288, page images of the article PDF
+    (https://www.belleten.gov.tr/tam-metin-pdf/1312/tur)
+  method: page images at 150 dpi
+  note: >-
+    The wording is taken from the print, not from the journal's web text, which has slips (der-tıhde, şiîbban,
+    kafiyen, ilâ'ate). Diacritics were read from a 150-dpi scan and should be re-keyed if a sharper copy is
+    found. The facsimile plate between pp. 276 and 277 is too small to read, so Aktepe's transliteration is
+    unchecked against the original. Date worked out from 9 Şubat 1328 and confirmed by p. 288.
+  checked_on: "2026-11-10"
