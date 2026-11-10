@@ -34,7 +34,6 @@ caveat: >-
 node: Emil Ludwig
 sources:
   - url: https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19300309&seite=2
-    archived: https://web.archive.org/web/20261109090041/https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19300309&seite=2
   - url: https://archive.org/details/furdieweimarerre0000ludw
 verification:
   verdict: confirmed

@@ -197,7 +197,7 @@ A list. Each item needs a `url` or, when there is no link, a `citation`.
 | Key | Rule |
 |---|---|
 | `url` | A link starting with `http://` or `https://`. |
-| `archived` | A Wayback Machine (`https://web.archive.org/web/…`) or archive.today (`archive.ph`) copy of the link. |
+| `archived` | A Wayback Machine (`https://web.archive.org/web/…`) or archive.today (`archive.ph`) copy of the link. Open the copy before adding it: for a site behind a bot check the archive often holds only the check page, and such a link is left out. |
 | `citation` | A full citation: author, title, publisher or archive, year, page. Required when there is no `url`. |
 | `page` | Page, column or folio. Text or a whole number. |
 | `label` | A short name for the source. |

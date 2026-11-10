@@ -25,7 +25,6 @@ caveat: >-
   Kemal.
 sources:
   - url: https://resolver.kb.nl/resolve?urn=ddd:110570965:mpeg21:a0001
-    archived: https://web.archive.org/web/20261109112841/https://resolver.kb.nl/resolve?urn=ddd:110570965:mpeg21:a0001
 verification:
   verdict: confirmed
   quote_found: true

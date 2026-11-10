@@ -27,7 +27,6 @@ sources:
   - url: https://binbadis.net/archives/919
     archived: https://web.archive.org/web/20251110233135/https://binbadis.net/archives/919
   - url: http://www.alsalabi.com/article/141
-    archived: https://web.archive.org/web/20261109085805/http://www.alsalabi.com/article/141
 verification:
   verdict: confirmed
   quote_found: true

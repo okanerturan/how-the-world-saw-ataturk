@@ -44,7 +44,6 @@ sources:
   - url: https://www.doria.fi/handle/10024/7433
     archived: https://web.archive.org/web/20210421220304/https://www.doria.fi/handle/10024/7433
   - url: https://web.archive.org/web/20230402220239/https://www.doria.fi/bitstream/handle/10024/7433/TMP.objres.3979.html?sequence=1&isAllowed=y
-    archived: https://web.archive.org/web/20230402220239/https://web.archive.org/web/20230402220239/https://www.doria.fi/bitstream/handle/10024/7433/TMP.objres.3979.html?sequence=1&isAllowed=y
   - url: https://gazetearsivi.milliyet.com.tr/liste?tarih=1971.06.08
 verification:
   verdict: confirmed

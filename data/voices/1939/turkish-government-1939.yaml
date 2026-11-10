@@ -22,7 +22,6 @@ caveat: >-
 node: 10 Kasım
 sources:
   - url: https://dergipark.org.tr/en/pub/gttad/issue/80536/1243468
-    archived: https://web.archive.org/web/20261109100122/https://dergipark.org.tr/en/pub/gttad/issue/80536/1243468
 verification:
   verdict: partial
   checked_against: https://dergipark.org.tr/en/pub/gttad/article/1243468 (Akca 2023)

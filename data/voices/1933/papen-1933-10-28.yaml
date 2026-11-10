@@ -28,12 +28,9 @@ caveat: >-
 node: German Statesmen Address Kemal, 1924 and 1933
 sources:
   - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/FJKUMZ355YLKP7DLCPEKBHDTRBAE7U7V?issuepage=2
-    archived: https://web.archive.org/web/20261109114900/https://www.deutsche-digitale-bibliothek.de/newspaper/item/FJKUMZ355YLKP7DLCPEKBHDTRBAE7U7V?issuepage=2
   - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/IL6KPVDUX4BMVKLVT3ABTDMZJDRSN2JR?issuepage=10
-    archived: https://web.archive.org/web/20261109115000/https://www.deutsche-digitale-bibliothek.de/newspaper/item/IL6KPVDUX4BMVKLVT3ABTDMZJDRSN2JR?issuepage=10
   - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/VQG446GIV37B2LZDN5GHHE4XPCE2WQVC?issuepage=1
   - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/U7JKQWQMXIZ4G7JUD73BXNU26UDKOSOO?issuepage=2
-    archived: https://web.archive.org/web/20261109115102/https://www.deutsche-digitale-bibliothek.de/newspaper/item/U7JKQWQMXIZ4G7JUD73BXNU26UDKOSOO?issuepage=2
 verification:
   verdict: confirmed
   quote_found: true

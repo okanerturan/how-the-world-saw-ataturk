@@ -36,7 +36,6 @@ sources:
   - url: https://dserver.bundestag.de/btp/19/19052.pdf
     archived: https://web.archive.org/web/20260710065848/https://dserver.bundestag.de/btp/19/19052.pdf
   - url: https://dip.bundestag.de/
-    archived: https://web.archive.org/web/20261020200949/https://dip.bundestag.de/
 verification:
   verdict: confirmed
   quote_found: true
