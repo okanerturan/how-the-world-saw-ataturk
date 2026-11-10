@@ -1,0 +1,39 @@
+# Turkish for data/voices/1918/carlo-sforza-1918-12-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: carlo-sforza-1918-12-17
+voice: Carlo Sforza
+role: İstanbul'daki İtalyan Yüksek Komiseri; Dışişleri Bakanı Sonnino'ya telgraf
+quote: >-
+  Burada kalan İttihat ve Terakki liderlerinden bir heyet (aralarında Fethi Bey, İsmail Kemal Paşa, Çanakkale
+  kahramanı vb.) beni görmek istedi. Başlıca canlı ya da en azından örgütlü gücün hâlâ o partide bulunduğuna
+  ve eğer bir Türkiye kalırsa yakında iktidara dönüşünün ihtimal dışı olmadığına ikna olmuş olarak onları
+  kabul ettim, ama bilinmeyecek bir şekilde.
+quote_kind: translated
+summary: >-
+  Aralarında 'Çanakkale kahramanı'nın da bulunduğu İttihatçı liderlerden oluşan bir heyeti, partilerinin
+  yakında yeniden iktidara gelebileceği değerlendirmesiyle gizlice kabul ettiğini bildirdi.
+caveat: >-
+  İlk elden bir temas kaydı: Sforza, kullandığı unvan dışında onun hakkında bir görüş belirtmez. Telgrafta
+  'Ismail Kemal pascià' yazılıdır; cildin editörleri pasajı dizinde 'KEMAL, Mustafà, generale turco' maddesi
+  altında gösterir ve Fethi'nin yanındaki 'Çanakkale kahramanı' yalnızca ona uyar, ancak bu kimlik tespiti
+  editörlere aittir. 'pascià' kelimesinden sonraki virgül, buranın üç kişilik bir liste olarak okunmasına da
+  imkân tanır. 'İttihat ve Terakki liderleri' Sforza'nın ziyaretçileri için kullandığı tanımlamadır. 17 Aralık
+  telgrafın tarihidir (19'unda alınmıştır); görüşmenin günü verilmemiştir. Onlara imparatorluk halklarına
+  özerklik verilmesi ve başta İtalya olmak üzere Batılı devletlerden danışmanlar istenmesi yönünde tavsiyede
+  bulunmuş; onlar da iktidara dönerlerse İtalya'nın desteğini istediklerini söylemişlerdir. Daha sonraki
+  değerlendirmesiyle karşılaştırınız (carlo-sforza-1931).
+verification_note: >-
+  Alıntılanan cümleler sayfayla birebir örtüşmektedir; 582 numaralı belgenin başlığı, telgraf numarası ve
+  tarihi görüntü üzerinden doğrulanmıştır. Onu Mustafa Kemal olarak tanımlayan dizin maddesi yalnızca cildin
+  OCR metninde görülmüştür; dizinde 'Ismail' altında bir madde yoktur.
+verification_method: basılı cildin sayfa görüntüleri
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 0ba6c229bc10
+  role: 4647f881659d
+  quote: e164505ba28a
+  summary: f64db4beec40
+  caveat: fce914aee343
+  verification_note: ec0bd141b64f
+  verification_method: "905803061505"

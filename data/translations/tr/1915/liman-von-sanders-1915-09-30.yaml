@@ -1,0 +1,39 @@
+# Turkish for data/voices/1915/liman-von-sanders-1915-09-30.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: liman-von-sanders-1915-09-30
+voice: Otto Liman von Sanders
+role: Çanakkale'de Osmanlı Beşinci Ordusu'na komuta eden Alman mareşali; Enver Paşa'ya mektup
+quote: >-
+  Bu talebi destekleyemem; zira Albay Mustafa Kemal Bey'i, hizmetlerine vatanın bu büyük savaşta kesinlikle
+  ihtiyaç duyduğu, olağanüstü derecede yetenekli, ehil ve cesur bir subay olarak tanıyıp takdir ettim.
+quote_kind: translated
+summary: >-
+  Albay Mustafa Kemal'in istifasını iletmeyi reddetti; onu, hizmetlerine ülkenin savaşta ihtiyaç duyduğu
+  olağanüstü yetenekli, ehil ve cesur bir subay olarak nitelendirdi.
+caveat: >-
+  Rumi takvimle 17.7.1331 tarihli, Uluğ İğdemir'in 17 Eylül 1331, yani 30 Eylül 1915 olarak okuduğu Almanca el
+  yazısı mektup; Mustafa Kemal'in Enver'e kendi cevabı 21 Eylül 331 (4 Ekim 1915) tarihlidir. Liman bu
+  mektubu, Enver'in diğer üç grup komutanını ziyaret edip onu ziyaret etmemesinin ardından Anafartalar Grubu
+  komutanlığından istifasını önlemek için yazmıştır; dolayısıyla metin bir değerlendirme olduğu kadar bir
+  savunudur. Mektup devamında onun için 'hat seit der ersten Landung vor 5 Monaten mit Auszeichnung an der
+  Spitze der 19. Division gefochten' der ve XVI. Kolordu komutanının yinelenen taarruz emrini yerine
+  getirmemesi yüzünden Anafarta kanadında komutayı 'im schwierigen Augenblick' devralmak zorunda kaldığını
+  belirtir: ağustos ayındaki komuta değişikliğine ilişkin tek bir tarafın anlatımı. Türk Tarih Kurumu
+  tarafından satın alınan Kâzım Orbay'ın evrakındandır. Makaledeki Türkçe metin aslı değil, İğdemir'in
+  çevirisidir. Anılarıyla karşılaştırınız (liman-von-sanders-1927).
+verification_note: >-
+  Mektubun her üç sayfası iki okuyucu tarafından bağımsız olarak satır satır okunmuştur; 'Auszeichnung' ve
+  'Anaforta-Fluegel' dâhil olmak üzere metin kelimesi kelimesine tutmaktadır. ae/ue ve umlaut yazımlarının
+  karışımı el yazısını izlemektedir. Tarih çevirisi, (25 Nisan'dan itibaren) 'vor 5 Monaten' ifadesiyle ve
+  Mustafa Kemal'in cevabının tarihli levhasıyla uyumludur.
+verification_method: Büyütülüp satır satır okunan 150 dpi sayfa taramaları
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 8359e777539c
+  role: 0d0e91ac7a33
+  quote: 5411909a6705
+  summary: ce845a045c3f
+  caveat: e41de76d6c9b
+  verification_note: 34fce9509727
+  verification_method: 739a15190981

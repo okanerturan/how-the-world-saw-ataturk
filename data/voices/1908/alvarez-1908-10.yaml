@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: alvarez-1908-10
+voice: J. Alvarez
+voice_type: person
+role: British consul at Tripoli; despatches to Ambassador Lowther
+country: United Kingdom
+country_now: United Kingdom
+domain: diplomacy
+date: "1908-10"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: report
+evidence: S
+summary: >-
+  Found the Young Turk emissary 'Adjutant Kemal Bey' silent and reserved, energetic and resolute, and an
+  eloquent speaker applauded by a large Tripoli audience.
+quote:
+  text: >-
+    He called on me the other day and I had the opportunity of observing that he was very silent and of a
+    reserved disposition. He gave me the impression, which I trust will be confirmed later on, of an energetic
+    character and resolute temper, both of which may eventually be required, should certain anarchical
+    tendencies, which I have observed locally, continue. […] He is an eloquent and fluent speaker, as I can
+    testify, having heard him expound the principles and objects pursued by his party with remarkable
+    lucidity, some five days ago, when he was enthusiastically applauded by a large audience representative of
+    every class of the population.
+  note: >-
+    Two despatches: the first passage is from no. 63 of 9 October 1908, the second from no. 65 of 17 October
+    1908, as Simon's footnotes assign them.
+  language: en
+mediated_by: >-
+  Simon 1980 (Belleten 44/173) ← F.O. 195/2271, Alvarez to Lowther, Tripoli, nos. 63 (9 Oct 1908) and 65 (17
+  Oct 1908)
+caveat: >-
+  The earliest outside view of him found so far. Alvarez writes 'Adjutant Kemal Bey' and 'Kemal Bey', 'a
+  representative of the Salonica Committee of the Young Turkey party'; the identification with Mustafa Kemal
+  is Rachel Simon's, resting on his own later account of the Tripoli mission and on an Italian consular
+  report. Which despatch each passage comes from rests on Simon's footnotes, and a slip between her notes 16
+  and 17 cannot be ruled out. The Foreign Office file is not online and was not seen. The second despatch adds
+  that his mission was 'to a large extent of an educational character'. Simon notes that the Benghazi consul's
+  report on the same mission 'has some inaccuracies'.
+sources:
+  - url: https://belleten.gov.tr/tam-metin-pdf/1588/eng
+    citation: >-
+      Rachel Simon, 'Beginnings of Leadership: Mustafa Kemal's First Visit to Libya, 1908', Belleten 44/173
+      (January 1980), pp. 69–82
+    page: 75–77
+    accessed: "2026-11-10"
+verification:
+  verdict: secondary-only
+  quote_found: true
+  checked_against: >-
+    Simon 1980, pp. 75–77, page images of the article PDF (https://belleten.gov.tr/tam-metin-pdf/1588/eng)
+  method: page images at 150 dpi, not the PDF's text layer
+  note: >-
+    Both passages are exactly as Simon prints them; the slips 'gaye' and '~ nay' are in the PDF's text layer
+    only. Notes 16 and 17 give the despatch numbers and dates. The Foreign Office file itself was not seen, so
+    the wording rests on Simon.
+  checked_on: "2026-11-10"

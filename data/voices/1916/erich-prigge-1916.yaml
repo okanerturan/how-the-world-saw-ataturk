@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: erich-prigge-1916
+voice: Erich R. Prigge
+voice_type: person
+role: German major, adjutant to Marshal Liman von Sanders; book Der Kampf um die Dardanellen
+country: Germany
+country_now: Germany
+domain: military
+date: "1916"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: book
+evidence: P
+summary: >-
+  Liman's adjutant shows him on 25 April 1915 grasping the danger at once and sending his regiments to the
+  heights without half measures.
+quote:
+  text: >-
+    Das Gefährliche der Situation erkennend, sandte er unverzüglich eines der ihm unterstellten Regimenter mit
+    einer Gebirgsbatterie nach dem Kodja-Tschemen-Dagh in der richtigen Erkenntnis, daß der Besitz dieser
+    gewaltigen Höhen für einen Durchbruch des Gegners nach Maidos, der die Beherrschung der Meerenge im
+    Gefolge haben muß, von ausschlaggebender Bedeutung sei. Doch der Führer der 19. Division begnügt sich
+    nicht mit halben Maßnahmen.
+  translation: >-
+    Recognising the danger of the situation, he at once sent one of the regiments under him with a mountain
+    battery to Kocaçimen Dağ, rightly seeing that possession of these mighty heights was of decisive
+    importance for an enemy breakthrough to Maidos, which must bring with it command of the Straits. But the
+    commander of the 19th Division is not content with half measures.
+  language: de
+caveat: >-
+  Der Kampf um die Dardanellen (Deutsche Orientbücherei XIII; Weimar: Gustav Kiepenheuer, 1916), with a
+  foreword by Ernst Jäckh: a wartime book for the German public by Liman's adjutant. The quote is from pp.
+  44–45, on 25 April 1915; the passage ends with General Esat Paşa approving 'die energischen Maßnahmen seines
+  verantwortungsfreudigen Divisionskommandeurs'. Also p. 11 (his headquarters 'gave the place its name') and
+  pp. 98–99, on 10 August: 'Er stellt sich an die Spitze der stürmenden Truppen … Ein Geschoß durchschlägt den
+  Rock Mustapha Kemals. Seine Taschenuhr rettet ihm das Leben.' On p. 98 Prigge says a Colonel 'Fehzi' fell
+  suddenly ill and was replaced by him; Liman's own letter of that autumn (liman-von-sanders-1915-09-30) says
+  the corps commander had not carried out the order to attack. The text spells him 'Mustapha', the portrait
+  plate after p. 48 'Oberst Mustafa Kemal Bey'. Printed in Fraktur; the long s and the double hyphens in place
+  names are normalised here.
+sources:
+  - url: https://archive.org/details/kampfdardanellenprigge
+    citation: "E. R. Prigge, Der Kampf um die Dardanellen (Weimar: Gustav Kiepenheuer, 1916)"
+    page: 44–45
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Page images of the 1916 printing in the scan at https://archive.org/details/kampfdardanellenprigge:
+    printed pp. 11, 44, 45, 98, 99, the title page and the portrait plate
+  method: page images rendered from the scan PDF (Fraktur), read by eye
+  note: >-
+    No difference in wording on any of the three passages; page numbers confirmed on the images. Title page:
+    'Major E. R. Prigge, Adjutant S. Exzellenz des Marschalls Liman von Sanders', 1916, Verlag Gustav
+    Kiepenheuer, Weimar.
+  checked_on: "2026-11-10"

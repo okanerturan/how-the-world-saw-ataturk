@@ -4,7 +4,7 @@ Türkçe için: [README.tr.md](README.tr.md)
 
 [![The exhibition's opening view: a portrait of Atatürk drawn entirely in lines of text](viz/public/og.jpg)](https://ataturk.fyi)
 
-An open archive of documented voices on Mustafa Kemal Atatürk, from 1919 to 2026: who said what about him, where they said it, the source it comes from, and an independent check of that source.
+An open archive of documented voices on Mustafa Kemal Atatürk, from 1908 to 2026: who said what about him, where they said it, the source it comes from, and an independent check of that source.
 
 The voices are presidents, poets, generals, newspapers, parliaments, clerics, enemies and admirers. Each record is a small YAML file about one voice at one moment: the speaker, the date, a short neutral summary, the speaker's own words in the original language when the source prints them, the source, and the result of a separate checker re-opening that source.
 
@@ -18,31 +18,31 @@ Every voice has its own link. The one above is [ataturk.fyi/#venizelos-1934-01-1
 
 | | |
 |---|---|
-| Records | 965 |
-| Distinct voice names (people, papers, institutions, groups) | 793 |
+| Records | 976 |
+| Distinct voice names (people, papers, institutions, groups) | 801 |
 | Present-day countries and territories (`country_now`) | 84, plus the European Union, the Council of Europe and UNESCO |
-| Years covered | 1919 to 2026 (100 year folders; 1938 alone has 207 records) |
-| Records with the speaker's own words (`quote`) | 838, in 30 languages |
-| Records with a stored source check | 965 (all) |
-| Records with a Turkish translation file | 965 (all) |
+| Years covered | 1908 to 2026 (106 year folders; 10 records are from before 1919; 1938 alone has 207 records) |
+| Records with the speaker's own words (`quote`) | 849, in 31 languages |
+| Records with a stored source check | 976 (all) |
+| Records with a Turkish translation file | 976 (all) |
 
 Source checks, by verdict:
 
 | Verdict | Records | Share |
 |---|---|---|
-| `confirmed` | 767 | 79% |
+| `confirmed` | 776 | 80% |
 | `partial` | 96 | 10% |
 | `paraphrase-ok` | 57 | 6% |
-| `secondary-only` | 29 | 3% |
+| `secondary-only` | 31 | 3% |
 | `unreachable` | 11 | 1% |
 | `not-found` | 3 | under 1% |
 | `contradicted` | 2 | under 1% |
 
 The verdicts are explained in [data/README.md](data/README.md#verdicts).
 
-959 records are shown in the exhibition. The other 6 are the 5 records whose check failed (`not-found`, `contradicted`) and 1 record of Atatürk speaking about himself (`voice_type: self`). They stay in the data.
+970 records are shown in the exhibition. The other 6 are the 5 records whose check failed (`not-found`, `contradicted`) and 1 record of Atatürk speaking about himself (`voice_type: self`). They stay in the data.
 
-Stance of the voice towards Atatürk (`polarity`): 511 admiring, 138 conflicted, 131 instrumental (praise that served the speaker's own agenda), 122 hostile, 63 witness (reported or attended, no stated view).
+Stance of the voice towards Atatürk (`polarity`): 518 admiring, 139 conflicted, 133 instrumental (praise that served the speaker's own agenda), 122 hostile, 64 witness (reported or attended, no stated view).
 
 ## What is in each folder
 
@@ -104,7 +104,7 @@ npm run export     # write dist/voices.json and dist/voices.csv
 
 ## How to cite
 
-> Okan Erturan, *How the world saw Atatürk: documented voices on Mustafa Kemal Atatürk, 1919–2026*, https://github.com/okanerturan/how-the-world-saw-ataturk (accessed 10 November 2026).
+> Okan Erturan, *How the world saw Atatürk: documented voices on Mustafa Kemal Atatürk, 1908–2026*, https://github.com/okanerturan/how-the-world-saw-ataturk (accessed 10 November 2026).
 
 Replace the access date with the date you used it. To cite a single record, cite the original source named in its `sources` field, and add the record's file path, for example `data/voices/1921/lenin-aralov-1921.yaml`.
 

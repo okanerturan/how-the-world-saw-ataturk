@@ -1,0 +1,42 @@
+# Turkish for data/voices/1919/buyuk-mecmua-1919-03-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: buyuk-mecmua-1919-03-20
+voice: Büyük Mecmua
+role: >-
+  M. Zekeriya'nın sahibi ve yayın yönetmeni olduğu İstanbul edebiyat ve bilim dergisi; imzasız portre yazısı
+quote: >-
+  Mustafa Kemal genç, azimkâr, metin bir kumandandır. Çanakkale'de ordu nevmid bir vaziyete düştüğü zaman
+  ümidini bozmamış ve imanından aldığı kuvvetle ordunun da maneviyetini yükseltmişti. Büyüklerini tanımak
+  mecburiyetinde olan gençlik, (Mustafa Kemal) namını da hafızalarına ilâve etmeli ve halâskârlarımızdan
+  birinin de O olduğunu unutmamalıdır.
+quote_kind: original-turkish
+summary: >-
+  'Büyüklerimiz' dizisinde: Çanakkale millete büyük bir kahraman kazandırdı; genç, azimli, metin bir komutan,
+  'kurtarıcılarımız'dan biri.
+caveat: >-
+  'Büyüklerimiz: Mustafa Kemal Paşa', Büyük Mecmua sayı 3 (20 Mart 1919), s. 44, imzasız, üniformalı bir
+  fotoğrafla birlikte: Samsun'a hareketinden iki ay önce işgal altındaki İstanbul'da basılmıştır. Zeki
+  Arıkan'ın modern çeviriyazıyla yaptığı tam yeniden basımından bilinmektedir; derginin kendisi görülmemiştir.
+  Yazar 'Gazeteci olmak itibariyle biliyorum ki' der; yazıyı derginin yayın yönetmeni M. Zekeriya'ya (Sertel)
+  atfetmek bir tahminden ibaret olur. Sansür kesintileri alıntılanan pasajın hemen öncesinde '(sansür)' olarak
+  işaretlenmiştir. Yazı, Çanakkale'nin 'bize birçok muvaffakiyetlerden maada, bir de (Mustafa Kemal)
+  kazandırmıştı' sözleriyle açılır ve onu Cevat Paşa ile birlikte anar. Mart 1919'u Çanakkale'nin 'üçüncü'
+  yıldönümü olarak adlandırır; oysa dördüncü yıldönümüydü.
+mediated_by: >-
+  Arıkan 1989 (Atatürk Araştırma Merkezi Dergisi 5/15) ← Büyük Mecmua sayı 3, 20 Mart 1919, s. 44
+verification_note: >-
+  Alıntı, Arıkan'ın s. 611–612'deki yeniden basımıyla örtüşmektedir ve 10 numaralı dipnotunda 'Büyük Mecmua, 3
+  (20 Mart 1919), 44' künyesi verilir. Tıpkıbasım içermeyen 1989 tarihli bir çeviriyazıdır; özgün dergi
+  görülmemiştir.
+verification_method: taramadan oluşturulan sayfa görüntüleri (metin katmanı yok)
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 5cc18ea2cadd
+  role: 64ad38fac20d
+  quote: 3b69a07e31fe
+  summary: c4da8baa5365
+  caveat: 06463f73dfa5
+  mediated_by: 77564d73c69b
+  verification_note: 6ba99da4cd0f
+  verification_method: 29da2e2e3ab1

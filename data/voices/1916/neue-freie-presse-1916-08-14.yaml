@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: neue-freie-presse-1916-08-14
+voice: Neue Freie Presse
+voice_type: press
+role: Vienna daily; its own telegram from Sofia
+country: Austria-Hungary
+country_now: Austria
+domain: press
+date: "1916-08-14"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Its Sofia telegram credited the victories at Bitlis and Muş to the 'exceedingly energetic' General Mustafa
+  Kemal Pasha, well remembered in Bulgaria as military attaché.
+quote:
+  text: >-
+    Die türkischen Erfolge gegen die Russen bei Bitlis und Musch wurden von der türkischen Armee errungen,
+    welche der überaus energische General Mustafa Kemal Pascha befehligt. Dieser steht in Bulgarien als
+    gewesener Militärattaché in bester Erinnerung.
+  translation: >-
+    The Turkish successes against the Russians at Bitlis and Muş were won by the Turkish army commanded by the
+    exceedingly energetic General Mustafa Kemal Pasha. He is very well remembered in Bulgaria as the former
+    military attaché.
+  language: de
+caveat: >-
+  Item headed 'Mustafa Kemal Pascha Kommandant der Kaukasusarmee.', dated Sofia, 13 August, in the Neue Freie
+  Presse of 14 August 1916, p. 6. The headline overstates his post: he commanded a corps on that front.
+  Unsigned, and whose memory 'in Bulgaria' is meant is not said. It is the only trace of his years as attaché
+  in Sofia (1913–14) found in print from before 1919. The first reader also saw it reprinted in the
+  Militärische Rundschau (23 September 1916) and Die Presse of Thorn (19 August 1916); those were not
+  re-checked. Read in crops of the scanned page; the full page sits behind the library viewer's bot check and
+  was not seen.
+sources:
+  - url: https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19160814&seite=6
+    label: Austrian National Library, ANNO (the page viewer asks for a browser check)
+    citation: Neue Freie Presse (Vienna), 14 August 1916, p. 6
+    page: 6
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Neue Freie Presse, 14 August 1916, p. 6, in the Austrian National Library's ANNO collection (document
+    ANNO_nfp19160814)
+  method: scan crops returned by the library's open search endpoint, three lines at a time
+  note: >-
+    Headline, the dateline 'Sofia, 13. August.' and both sentences were read in crops of the scanned page by
+    two readers. The line marking it as the paper's own telegram is cut in half in the crop. Neither reader
+    has seen the page as a whole.
+  checked_on: "2026-11-10"

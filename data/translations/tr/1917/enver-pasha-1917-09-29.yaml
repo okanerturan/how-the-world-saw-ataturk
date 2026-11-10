@@ -1,0 +1,39 @@
+# Turkish for data/voices/1917/enver-pasha-1917-09-29.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: enver-pasha-1917-09-29
+voice: Enver Paşa
+role: Osmanlı Harbiye Nazırı ve Başkumandan Vekili; Mustafa Kemal'e şifreli telgraf müsveddesi
+quote: >-
+  Zat-ı âlinizi eskiden beri tanıdığım ve takdir eylediğim cihetle en müşkül zamanda ve en mühim vazifede
+  bulunmanızı menafi-i vataniyeye muvafık bulmuş ve böylece müsaade-i seniyeyi istihsal etmiştim. Yedinci Ordu
+  veya bunun kısm-ı küllisi ile Sina cephesinde Kress Paşa'nın Sekizinci Ordu'su yanında Yedinci Ordu
+  kumandanı sıfatiyle kemal-i muvaffakıyetle ifay-ı hizmet buyurulacağına eminim.
+quote_kind: original-turkish
+summary: >-
+  Mustafa Kemal'e onu uzun zamandır tanıyıp takdir ettiğini, en önemli görev için kendisini seçtiğini ve
+  başarılı olacağından emin olduğunu söyledi.
+caveat: >-
+  29/9/33 (29 Eylül 1917) tarihli bir Harbiye Nezareti müsvedde kâğıdı üzerinde, 'Yedinci Ordu Kumandanı Mir-i
+  Liva Mustafa Kemal Paşa Hazretlerine' hitaplı şifreli telgraf müsveddesi; gönderilen metin bunun şifrelenmiş
+  halidir. Mareşal Falkenhayn ile yaşanan anlaşmazlıktaki raporlarının ilkine cevaptır; o da ertesi gün
+  şifreyle karşılık vermiştir. İğdemir telgrafın 'oldukça nazik' üslubuna dikkat çeker: istifa tehdidinde
+  bulunan bir astı yatıştıran bir üst. Yine de ekim ortasında Yedinci Ordu komutanlığından ayrılmıştır.
+  İğdemir'in Latin harfli çeviriyazısından aktarılmıştır; Osmanlıca müsveddenin tıpkıbasımı da yer almaktadır
+  ve İğdemir belgeyi Kâzım Orbay'ın evrakı arasında bulduğunu belirtir. Daha sonraki kitabı (Atatürk'ün Yaşamı
+  I, s. 93–94) pasajı 'kemal-i' kelimesi olmadan basar.
+verification_note: >-
+  Alıntı s. 510'daki ilk basımı izlemektedir. Müsveddenin ikinci sayfasının tıpkıbasımında üstü çizili bir
+  ibarenin üzerine 'كمال موفقيتله' kelimeleri yazılmıştır; dolayısıyla doğru okunuş 'kemal-i
+  muvaffakıyetle'dir ve daha sonraki kitap bir kelimeyi düşürmüştür. S. 509'da belge 'şifreli telgrafın
+  müsveddesi' olarak adlandırılır. Kitapta bu kelimenin eksik olduğu yalnızca OCR metninden bilinmektedir.
+verification_method: 300 dpi sayfa görüntüleri
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: fea41fea54fd
+  role: e718370ac597
+  quote: a4a4da35a2b1
+  summary: f1983f9a76a5
+  caveat: 2c6240915a7d
+  verification_note: 7bec339b3852
+  verification_method: 42f50401f60e

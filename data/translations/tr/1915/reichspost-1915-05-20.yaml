@@ -1,0 +1,38 @@
+# Turkish for data/voices/1915/reichspost-1915-05-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: reichspost-1915-05-20
+voice: Reichspost
+role: İstanbul kaynaklı bir ajans haberine yer veren günlük Viyana gazetesi
+quote: >-
+  Mustafa Kemal Bey komutasındaki Türk piyadesi burada olağanüstü bir biçimde kendini gösterdi.
+quote_kind: translated
+summary: >-
+  İstanbul'dan, 'Mustafa Kemal Bey komutasındaki' Türk piyadesinin Arıburnu'ndaki İtilaf taarruzunu geri
+  püskürtürken kendini gösterdiğini bildirdi.
+caveat: >-
+  Şimdiye dek yabancı basında adının geçtiği en erken tarihli kayıt. Reichspost, 20 Mayıs 1915, s. 16,
+  'Konstantinopel, 18. Mai' mahreçli haber: on altı Avustralya ve Yeni Zelanda taburunun saldırdığı ve bir
+  süngü karşı taarruzunun onları geri püskürttüğü, Arıburnu'nda genel bir İtilaf yarma girişiminin
+  başarısızlığa uğraması üzerine 'Ein Bericht aus dem Hauptquartier in den Dardanellen'. Gazete hangi karargâh
+  olduğunu belirtmez. Övgü, kendisinden ziyade komutasındaki piyadeye yöneliktir ve bu bir savaş dönemi resmî
+  tebliğ metnidir; bir sonraki cümlede ağır düşman kayıpları ileri sürülür. İlk okuyucu aynı metni Deutsches
+  Volksblatt (21 Mayıs), Das interessante Blatt (27 Mayıs) ve Mühlviertler Nachrichten (29 Mayıs 1915)
+  gazetelerinde de görmüştür; bunlar yeniden kontrol edilmemiştir. Taranmış sayfanın kırpılmış kesitlerinden
+  okunmuştur; başlık ('Der Durchbruchsversuch bei Ari Burun gescheitert') yalnızca OCR metninden bilinmektedir
+  ve tam sayfa kütüphane görüntüleyicisinin bot kontrolünün arkasında yer almaktadır.
+verification_note: >-
+  Haberin mahreci ve her cümlesi, taranmış sayfanın kırpılmış kesitlerinden okunmuştur; 'Sechzehn Bataillone'
+  ve 'Mustafa Kemal' aralıklı dizgiyledir. İki okuyucu da sayfayı bir bütün olarak görmemiştir ve başlık
+  hiçbir kesitte yer almamaktadır.
+verification_method: >-
+  kütüphanenin açık arama uç noktasının her seferinde üçer satır hâlinde döndürdüğü tarama kesitleri
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: d50fb826c3f4
+  role: 1a9fa0eec269
+  quote: 05a8d0f04f80
+  summary: 3a45a269ca6c
+  caveat: 5293e95ab403
+  verification_note: 36c28caa2778
+  verification_method: ed3212fc5043

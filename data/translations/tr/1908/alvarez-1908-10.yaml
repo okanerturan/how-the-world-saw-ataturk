@@ -1,0 +1,45 @@
+# Turkish for data/voices/1908/alvarez-1908-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: alvarez-1908-10
+voice: J. Alvarez
+role: Trablusgarp'taki İngiliz konsolosu; Büyükelçi Lowther'a gönderdiği raporlar
+quote: >-
+  Geçen gün beni ziyaret etti ve kendisinin çok sessiz ve mesafeli bir tabiata sahip olduğunu gözlemleme
+  fırsatı buldum. Bende, ileride doğrulanacağını umduğum üzere, enerjik bir karaktere ve kararlı bir mizaca
+  sahip olduğu izlenimini bıraktı; yerel olarak gözlemlediğim birtakım anarşik eğilimlerin sürmesi hâlinde,
+  sonunda bu iki özelliğe de ihtiyaç duyulabilir. […] Tanıklık edebileceğim üzere belagatli ve akıcı bir
+  hatiptir; yaklaşık beş gün önce partisinin izlediği ilke ve amaçları dikkate değer bir berraklıkla
+  açıklarken kendisini dinledim; o sırada halkın her sınıfını temsil eden kalabalık bir dinleyici kitlesi
+  tarafından coşkuyla alkışlandı.
+quote_kind: translated
+summary: >-
+  Jön Türk temsilcisi 'Adjutant Kemal Bey'i sessiz ve mesafeli, enerjik ve kararlı, ayrıca kalabalık bir
+  Trablusgarp dinleyici kitlesi tarafından alkışlanan belagatli bir hatip olarak buldu.
+caveat: >-
+  Şimdiye dek bulunan en erken tarihli dış gözlem. Alvarez, 'Adjutant Kemal Bey' ve 'Kemal Bey', 'a
+  representative of the Salonica Committee of the Young Turkey party' diye yazar; bu kişinin Mustafa Kemal ile
+  özdeşleştirilmesi, onun Trablusgarp görevine ilişkin kendi sonraki anlatımına ve bir İtalyan konsolosluk
+  raporuna dayanan Rachel Simon'a aittir. Hangi pasajın hangi rapordan geldiği Simon'ın dipnotlarına
+  dayanmaktadır ve 16 ile 17 numaralı dipnotları arasında bir karışıklık olasılığı göz ardı edilemez. Foreign
+  Office dosyası çevrimiçi değildir ve görülmemiştir. İkinci rapor, görevinin 'to a large extent of an
+  educational character' olduğunu ekler. Simon, Bingazi konsolosunun aynı göreve ilişkin raporu hakkında 'has
+  some inaccuracies' diye belirtir.
+mediated_by: >-
+  Simon 1980 (Belleten 44/173) ← F.O. 195/2271, Alvarez'den Lowther'a, Trablusgarp, sayı 63 (9 Ekim 1908) ve
+  65 (17 Ekim 1908)
+verification_note: >-
+  Her iki pasaj da tam olarak Simon'ın bastığı gibidir; 'gaye' ve '~ nay' hataları yalnızca PDF'nin metin
+  katmanındadır. 16 ve 17 numaralı dipnotlar rapor numaralarını ve tarihlerini verir. Foreign Office
+  dosyasının kendisi görülmemiştir; dolayısıyla ifadeler Simon'a dayanmaktadır.
+verification_method: PDF'nin metin katmanı değil, 150 dpi sayfa görüntüleri
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: b6935f711432
+  role: 1a1a20956ee0
+  quote: 339b177e03d1
+  summary: ea724be3c186
+  caveat: 53c550e91fcb
+  mediated_by: 05c284832c49
+  verification_note: e0160a7f7071
+  verification_method: e9fda76da140

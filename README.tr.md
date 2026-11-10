@@ -4,7 +4,7 @@ English: [README.md](README.md)
 
 [![Serginin açılış görünümü: Atatürk'ün tamamen yazı satırlarından oluşan portresi](viz/public/og.jpg)](https://ataturk.fyi)
 
-1919'dan 2026'ya Mustafa Kemal Atatürk hakkında belgelenmiş sözlerden oluşan açık bir arşiv: onun hakkında kimin ne söylediği, nerede söylediği, bunun hangi kaynaktan geldiği ve o kaynağın bağımsız doğrulaması.
+1908'den 2026'ya Mustafa Kemal Atatürk hakkında belgelenmiş sözlerden oluşan açık bir arşiv: onun hakkında kimin ne söylediği, nerede söylediği, bunun hangi kaynaktan geldiği ve o kaynağın bağımsız doğrulaması.
 
 Sözler; devlet başkanlarından, şairlerden, generallerden, gazetelerden, parlamentolardan, din adamlarından, düşmanlardan ve hayranlardan geliyor. Her kayıt, belirli bir andaki tek bir sözü konu alan küçük bir YAML dosyasıdır: konuşmacı, tarih, kısa ve tarafsız bir özet, kaynakta yer alıyorsa konuşmacının orijinal dildeki kendi sözleri, kaynak ve bu kaynağı yeniden açıp inceleyen bağımsız bir doğrulayıcının ulaştığı sonuç.
 
@@ -18,31 +18,31 @@ Her sözün kendi bağlantısı vardır. Yukarıdaki söz [ataturk.fyi/#venizelo
 
 | | |
 |---|---|
-| Kayıtlar | 965 |
-| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 793 |
+| Kayıtlar | 976 |
+| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 801 |
 | Günümüz ülkeleri ve bölgeleri (`country_now`) | 84; ayrıca Avrupa Birliği, Avrupa Konseyi ve UNESCO |
-| Kapsanan yıllar | 1919 – 2026 (100 yıl klasörü; yalnızca 1938'de 207 kayıt vardır) |
-| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 30 dilde 838 |
-| Kayıtlı kaynak doğrulaması bulunan kayıtlar | 965 (tümü) |
-| Türkçe çeviri dosyası bulunan kayıtlar | 965 (tümü) |
+| Kapsanan yıllar | 1908 – 2026 (106 yıl klasörü; 10 kayıt 1919 öncesindendir; yalnızca 1938'de 207 kayıt vardır) |
+| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 849 |
+| Kayıtlı kaynak doğrulaması bulunan kayıtlar | 976 (tümü) |
+| Türkçe çeviri dosyası bulunan kayıtlar | 976 (tümü) |
 
 Sonuca göre kaynak doğrulamaları:
 
 | Sonuç | Kayıtlar | Oran |
 |---|---|---|
-| `confirmed` | 767 | %79 |
+| `confirmed` | 776 | %80 |
 | `partial` | 96 | %10 |
 | `paraphrase-ok` | 57 | %6 |
-| `secondary-only` | 29 | %3 |
+| `secondary-only` | 31 | %3 |
 | `unreachable` | 11 | %1 |
 | `not-found` | 3 | %1'in altında |
 | `contradicted` | 2 | %1'in altında |
 
 Sonuçların açıklamaları [data/README.md](data/README.md#verdicts) dosyasındadır.
 
-Sergide 959 kayıt gösterilmektedir. Diğer 6 kayıt ise doğrulaması başarısız olan (`not-found`, `contradicted`) 5 kayıt ile Atatürk'ün kendisi hakkında konuştuğu (`voice_type: self`) 1 kayıttır. Bunlar veri setinde kalmaya devam eder.
+Sergide 970 kayıt gösterilmektedir. Diğer 6 kayıt ise doğrulaması başarısız olan (`not-found`, `contradicted`) 5 kayıt ile Atatürk'ün kendisi hakkında konuştuğu (`voice_type: self`) 1 kayıttır. Bunlar veri setinde kalmaya devam eder.
 
-Söz sahibinin Atatürk'e karşı tutumu (`polarity`): 511 hayranlık duyan (admiring), 138 ikircikli (conflicted), 131 araçsal (instrumental; konuşmacının kendi gündemine hizmet eden övgü), 122 düşmanca (hostile), 63 tanık (witness; bildiren veya katılan, belirtilmiş bir görüşü olmayan).
+Söz sahibinin Atatürk'e karşı tutumu (`polarity`): 518 hayranlık duyan (admiring), 139 ikircikli (conflicted), 133 araçsal (instrumental; konuşmacının kendi gündemine hizmet eden övgü), 122 düşmanca (hostile), 64 tanık (witness; bildiren veya katılan, belirtilmiş bir görüşü olmayan).
 
 ## Klasörlerin içeriği
 
@@ -104,7 +104,7 @@ npm run export     # write dist/voices.json and dist/voices.csv
 
 ## Nasıl kaynak gösterilir
 
-> Okan Erturan, *How the world saw Atatürk: documented voices on Mustafa Kemal Atatürk, 1919–2026*, https://github.com/okanerturan/how-the-world-saw-ataturk (erişim tarihi: 10 Kasım 2026).
+> Okan Erturan, *How the world saw Atatürk: documented voices on Mustafa Kemal Atatürk, 1908–2026*, https://github.com/okanerturan/how-the-world-saw-ataturk (erişim tarihi: 10 Kasım 2026).
 
 Erişim tarihini veriyi kullandığınız tarihle değiştirin. Tek bir kaydı kaynak göstermek için, kaydın `sources` alanında adı geçen orijinal kaynağı belirtin ve kaydın dosya yolunu ekleyin; örneğin `data/voices/1921/lenin-aralov-1921.yaml`.
 

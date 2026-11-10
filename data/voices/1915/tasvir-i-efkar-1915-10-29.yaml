@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tasvir-i-efkar-1915-10-29
+voice: Tasvir-i Efkâr
+voice_type: press
+role: Istanbul daily; caption under his portrait on the front page
+country: Ottoman Empire
+country_now: Turkey
+domain: press
+date: "1915-10-29"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Front-page portrait caption: a commander of extraordinary service at Çanakkale whose skill in the defence
+  saved the Straits and the seat of the Caliphate.
+quote:
+  text: >-
+    Çanakkale muharebât-ı berriyesinde fevkalâde yararlıkları görülen ve emr-i müdafaadaki iktidar ve mahareti
+    ile bihakkın ihrâz-ı şan ü şeref eyleyerek Boğazları ve makam-ı hilâfeti kurtaran kumandanlarımızdan
+    celâdet-i fıtriye ve havârık-ı hamâset ile mümtaz Miralay Mustafa Kemal Bey Efendi
+  translation: >-
+    Colonel Mustafa Kemal Bey Efendi, one of our commanders who rendered extraordinary services in the land
+    battles of Çanakkale and who, rightly winning glory and honour by his ability and skill in the defence,
+    saved the Straits and the seat of the Caliphate; distinguished by inborn valour and prodigies of heroism.
+  note: >-
+    The page prints it in Ottoman script; the Latin transliteration is this archive's. As printed: چناق قلعه
+    محاربات بريه‌سنده فوق‌العاده يارارلقلرى كورولن وامر مدافعه‌ده‌كى اقتدار ومهارتى ايله بحق احراز شان وشرف
+    ايليه‌رك بوغازلرى و مقام خلافتى قورتاران قوماندانلرمزدن جلادت فطريه وخوارق حماست ايله ممتاز ميرالاى مصطفى
+    كمال بك افندى
+  language: ota
+caveat: >-
+  Tasvir-i Efkâr no. 1589, Friday 29 October 1915 (20 Zilhicce 1333 / 16 Teşrinievvel 1331). The front page
+  marks the first anniversary of the Ottoman entry into the war, with matching portraits of Cevat Paşa on the
+  left and 'Miralay Mustafa Kemal Bey Efendi' on the right; the two captions are a pair. Wartime press under
+  military censorship. An article on the page is signed Yunus Nadi. Read from a 1365-pixel photograph of a
+  reproduction of the page; a better scan would be welcome. The later story that the picture was slipped past
+  Enver Paşa is anecdote and is not part of this page.
+sources:
+  - url: https://commons.wikimedia.org/wiki/File:Tasviri_Efkar_Oct_29,_1915.jpg
+    label: Photograph of the front page (Wikimedia Commons)
+    citation: Tasvir-i Efkâr, no. 1589, 29 October 1915, front page
+    page: 1
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    The photograph of the front page on Wikimedia Commons
+    (https://upload.wikimedia.org/wikipedia/commons/f/fb/Tasviri_Efkar_Oct_29%2C_1915.jpg), 1365×2048 px
+  method: enlarged crops of the masthead, the headlines and both portrait captions
+  note: >-
+    The five-line caption was read independently by two readers on the page image: the Ottoman script, the
+    transliteration and the translation agree word for word. Masthead number and the date in three calendars
+    were read on the image. The headlines dated 16 Teşrinievvel 1330 show the page is the war anniversary
+    issue.
+  checked_on: "2026-11-10"

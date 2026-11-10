@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: reichspost-1915-05-20
+voice: Reichspost
+voice_type: press
+role: Vienna daily, carrying an agency report from Constantinople
+country: Austria-Hungary
+country_now: Austria
+domain: press
+date: "1915-05-20"
+era: contemporary
+polarity: admiring
+intensity: 1
+artifact: article
+evidence: P
+summary: >-
+  Reported from Constantinople that Turkish infantry 'under the command of Mustafa Kemal Bey' distinguished
+  itself in throwing back the Allied assault at Arıburnu.
+quote:
+  text: >-
+    Türkische Infanterie unter dem Befehle Mustafa Kemal Beis zeichnete sich hiebei in hervorragender Weise
+    aus.
+  translation: >-
+    Turkish infantry under the command of Mustafa Kemal Bey distinguished itself here in outstanding fashion.
+  language: de
+caveat: >-
+  The earliest naming of him in the foreign press found so far. Reichspost, 20 May 1915, p. 16, dateline
+  'Konstantinopel, 18. Mai': 'Ein Bericht aus dem Hauptquartier in den Dardanellen' on the failure of a
+  general Allied attempt to break through at Arıburnu, in which sixteen battalions of Australians and New
+  Zealanders attacked and a bayonet counter-attack threw them back. The paper does not say whose headquarters.
+  The praise goes to the infantry under his command more than to him, and it is wartime communiqué copy, with
+  heavy enemy losses claimed in the next sentence. The first reader saw the same text in Deutsches Volksblatt
+  (21 May), Das interessante Blatt (27 May) and Mühlviertler Nachrichten (29 May 1915); those were not
+  re-checked. Read in crops of the scanned page; the headline ('Der Durchbruchsversuch bei Ari Burun
+  gescheitert') is known from the OCR text only, and the full page sits behind the library viewer's bot check.
+sources:
+  - url: https://anno.onb.ac.at/cgi-content/anno?aid=rpt&datum=19150520&seite=16
+    label: Austrian National Library, ANNO (the page viewer asks for a browser check)
+    citation: Reichspost (Vienna), 20 May 1915, p. 16
+    page: 16
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Reichspost, 20 May 1915, p. 16, in the Austrian National Library's ANNO collection (document
+    ANNO_rpt19150520)
+  method: scan crops returned by the library's open search endpoint, three lines at a time
+  note: >-
+    The dateline and every sentence of the item were read in crops of the scanned page; 'Sechzehn Bataillone'
+    and 'Mustafa Kemal' are in spaced type. Neither reader has seen the page as a whole, and the headline was
+    not in any crop.
+  checked_on: "2026-11-10"

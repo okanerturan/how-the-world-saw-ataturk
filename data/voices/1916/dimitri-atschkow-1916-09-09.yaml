@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: dimitri-atschkow-1916-09-09
+voice: Dimitri Atschkow
+voice_type: person
+role: >-
+  Bulgarian deputy, described by the paper as a well-known Macedo-Bulgarian politician; interview in the Neue
+  Freie Presse
+country: Bulgaria
+country_now: Bulgaria
+domain: politics
+date: "1916-09-09"
+era: contemporary
+polarity: instrumental
+intensity: 1
+artifact: quote
+evidence: P
+summary: >-
+  Named Mustafa Kemal among Turkey's outstanding leaders: of Macedonian origin, distinguished at the
+  Dardanelles, a general while young, who repelled the Russians.
+quote:
+  text: >-
+    Mustafa Kemal, der mazedonischer Herkunft ist, bekam, nachdem er sich bei der Verteidigung der Dardanellen
+    ausgezeichnet hatte, noch als junger Mann den Generalposten als Kommandierender des 16. Armeekorps. Dank
+    seinen militärischen Talenten gelang es ihm, die türkischen Waffen mit Ruhm zu bedecken, indem er die
+    großen russischen Angriffe bei der Diarbekirfront abwehrte.
+  translation: >-
+    Mustafa Kemal, who is of Macedonian origin, received, after distinguishing himself in the defence of the
+    Dardanelles, while still a young man the general's post of commander of the 16th Army Corps. Thanks to his
+    military talents he succeeded in covering Turkish arms with glory by repelling the great Russian attacks
+    on the Diyarbekir front.
+  language: de
+caveat: >-
+  Interview headed 'Unterredung mit Dimitri Atschkow. Bulgarischer Abgeordneter.' in the Neue Freie Presse of
+  9 September 1916, p. 2, on the brotherhood in arms of Bulgarians and Turks; the paper introduces him as 'Der
+  bekannte mazedo-bulgarische Politiker Dimitri Atschkow, der sich seit einigen Tagen in Wien aufhält'. He has
+  not been identified beyond that description, and whether he knew Mustafa Kemal from Sofia is not known. He
+  names him second, after 'der türkische Nationalheros Enver Pascha', as proof of Enver's gift for finding the
+  right men; the praise serves the theme of the interview. 'Diarbekirfront' and a general's post 'while still
+  a young man' are his loose wording. Read in crops of the scanned page, set in Fraktur; the full page sits
+  behind the library viewer's bot check and was not seen, and the dateline 'Wien, 8. September' is only half
+  visible.
+sources:
+  - url: https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19160909&seite=2
+    label: Austrian National Library, ANNO (the page viewer asks for a browser check)
+    citation: Neue Freie Presse (Vienna), 9 September 1916, p. 2
+    page: 2
+    accessed: "2026-11-10"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Neue Freie Presse, 9 September 1916, p. 2, in the Austrian National Library's ANNO collection (document
+    ANNO_nfp19160909)
+  method: scan crops returned by the library's open search endpoint, three lines at a time
+  note: >-
+    Every quoted line was read in crops of the scanned page, with no difference in wording; the introduction
+    naming and describing the speaker was read the same way. Neither reader has seen the page as a whole, and
+    the speaker could not be identified from other sources.
+  checked_on: "2026-11-10"

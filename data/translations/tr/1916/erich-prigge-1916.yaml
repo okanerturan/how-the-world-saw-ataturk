@@ -1,0 +1,42 @@
+# Turkish for data/voices/1916/erich-prigge-1916.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: erich-prigge-1916
+voice: Erich R. Prigge
+role: >-
+  Alman binbaşı, Mareşal Liman von Sanders'in yaveri; Der Kampf um die Dardanellen adlı kitap
+quote: >-
+  Durumun tehlikesini fark ederek, beraberinde kaçınılmaz olarak Boğaz hâkimiyetini getirecek olan Maydos'a
+  yönelik bir düşman yarma harekâtı için bu muazzam tepelere sahip olmanın belirleyici önem taşıdığını doğru
+  biçimde kavrayıp emrindeki alaylardan birini bir dağ bataryasıyla birlikte derhal Kocaçimen Dağı'na
+  gönderdi. Ancak 19. Tümen Komutanı yarım tedbirlerle yetinmez.
+quote_kind: translated
+summary: >-
+  Liman'ın yaveri, onu 25 Nisan 1915'te tehlikeyi derhal kavrayıp yarım tedbirlerle yetinmeksizin alaylarını
+  tepelere gönderirken gösterir.
+caveat: >-
+  Ernst Jäckh'in önsözüyle yayımlanan Der Kampf um die Dardanellen (Deutsche Orientbücherei XIII; Weimar:
+  Gustav Kiepenheuer, 1916): Liman'ın yaveri tarafından Alman kamuoyu için yazılmış bir savaş dönemi kitabı.
+  Alıntı s. 44–45'ten olup 25 Nisan 1915 hakkındadır; pasaj, General Esat Paşa'nın 'die energischen Maßnahmen
+  seines verantwortungsfreudigen Divisionskommandeurs'u onaylamasıyla sona erer. Ayrıca bkz. s. 11 (karargâhı
+  'yere adını vermiştir') ve 10 Ağustos hakkındaki s. 98–99: 'Er stellt sich an die Spitze der stürmenden
+  Truppen … Ein Geschoß durchschlägt den Rock Mustapha Kemals. Seine Taschenuhr rettet ihm das Leben.' S.
+  98'de Prigge, 'Fehzi' adlı bir albayın aniden hastalandığını ve yerine onun getirildiğini söyler; Liman'ın o
+  sonbahardaki kendi mektubu ise (liman-von-sanders-1915-09-30) kolordu komutanının taarruz emrini yerine
+  getirmediğini belirtir. Metinde adı 'Mustapha' olarak, s. 48'den sonraki portre levhasında ise 'Oberst
+  Mustafa Kemal Bey' olarak yazılmıştır. Fraktur harfleriyle basılmıştır; uzun s harfi ve yer adlarındaki çift
+  tireler burada standartlaştırılmıştır.
+verification_note: >-
+  Üç pasajın hiçbirinde ifade farkı yoktur; sayfa numaraları görüntüler üzerinden doğrulanmıştır. İç kapak
+  sayfası: 'Major E. R. Prigge, Adjutant S. Exzellenz des Marschalls Liman von Sanders', 1916, Verlag Gustav
+  Kiepenheuer, Weimar.
+verification_method: taranmış PDF'ten oluşturulan sayfa görüntüleri (Fraktur), gözle okunarak
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 2b6b78c99d1c
+  role: 98c83bfdac2c
+  quote: cef891aaaa98
+  summary: bfe405ef08c8
+  caveat: 8347157588d3
+  verification_note: b913f022f255
+  verification_method: 153b9bfbafd9
