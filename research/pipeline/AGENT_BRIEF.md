@@ -40,7 +40,8 @@ speaker's framing as the vault's own.
 
 **Books:** download full text only where it is served openly (Internet Archive open items, HathiTrust full
 view, Gallica, Gutenberg). For copyrighted or lending-only items, use search-inside snippets and page numbers
-only. Never get around a login, lending wall or CAPTCHA. Keep quotes to a sentence or two.
+only. Keep quotes to a sentence or two. A site that answers a script with a bot check is opened in a real
+browser instead; a login or a loan needs an account of the person running the hunt.
 
 ## What you write (only these; other agents work in parallel)
 1. `bNN_<slug>.py` — modelled on recent scripts: `from _lib import note, person`; tags include "verified";

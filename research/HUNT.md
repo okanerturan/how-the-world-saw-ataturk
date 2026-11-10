@@ -232,7 +232,7 @@ Every free route has been tried for each item below. What is left needs a librar
 **Borrow on archive.org, one page each**
 8. Hitler, *Table Talk* (2 Apr 1942) · Goebbels' diary (Nov 1938) · Pamuk's "André Gide" essay · Brzezinski, *Strategic Vision* · Brezhnev's Minsk speech 1978 (p. 223) · Herriot, *Jadis* · Morand, *Voyages* · Montgomery and Fuller · Ben-Gurion, *My Talks with Arab Leaders* · Salvemini, Musil · Hemingway, *Dateline: Toronto* · Benoist-Méchin, *À destins rompus* (1974) and *Mustapha Kémal ou la mort d'un empire* (1954), to get page numbers for the staged snippets.
 
-**A human click (sites behind bot checks, which the agents must not bypass)**
+**Sites behind bot checks (they need a real browser)**
 9. vie-publique.fr and elysee.fr: search "Atatürk" in French presidents' and ministers' speeches (Giscard, Mitterrand, Chirac, Sarkozy, Hollande, Macron).
 10. quirinale.it: Napolitano in Ankara, Nov 2009; presidency.ro (Băsescu, Iohannis); casareal.es (Juan Carlos, Felipe VI); gg.govt.nz.
 11. UNESDOC: M'Bow's 1981 Atatürk-centenary speech.
