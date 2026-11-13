@@ -66,22 +66,38 @@ const FS = 48, BUF = 10, RAD = 12, CUT = 0.25;
 const sdf = new TinySDF({ fontSize: FS, buffer: BUF, radius: RAD, cutoff: CUT, fontFamily: 'Georgia, "Times New Roman", serif' });
 const chars = new Set([...entries.map((e) => e.text).join(''), ...RIM]);
 const glyphs = new Map();
+// TinySDF draws each glyph from the pen position rightwards and reads the canvas from there, so a letter that
+// reaches back to the left of the pen (Georgia's j) comes out as a sliver. Such a glyph is drawn further right
+// by `back` pixels, and its box is moved left by the same amount when it is set.
+let back = 0;
+{
+  const ctx = sdf.ctx, measure = ctx.measureText.bind(ctx), fill = ctx.fillText.bind(ctx);
+  ctx.measureText = (ch) => {
+    const m = measure(ch);
+    back = Math.max(0, Math.ceil(m.actualBoundingBoxLeft));
+    return {
+      width: m.width, actualBoundingBoxAscent: m.actualBoundingBoxAscent, actualBoundingBoxDescent: m.actualBoundingBoxDescent,
+      actualBoundingBoxLeft: back ? 0 : m.actualBoundingBoxLeft, actualBoundingBoxRight: m.actualBoundingBoxRight + back,
+    };
+  };
+  ctx.fillText = (ch, x, y) => fill(ch, x + back, y);
+}
 {
   const W = 1024; let x = 0, y = 0, row = 0;
   const drawn = [];
   for (const ch of chars) {
     const gl = sdf.draw(ch);
     if (x + gl.width > W) { x = 0; y += row + 1; row = 0; }
-    drawn.push([ch, gl, x, y]);
+    drawn.push([ch, gl, x, y, back]);
     x += gl.width + 1; row = Math.max(row, gl.height);
   }
   const H = 2 ** Math.ceil(Math.log2(y + row + 1));
   const data = new Uint8Array(W * H);
-  for (const [ch, gl, gx, gy] of drawn) {
+  for (const [ch, gl, gx, gy, left] of drawn) {
     for (let j = 0; j < gl.height; j++) data.set(gl.data.subarray(j * gl.width, (j + 1) * gl.width), (gy + j) * W + gx);
     glyphs.set(ch, {
       adv: gl.glyphAdvance / FS, empty: gl.glyphWidth === 0,
-      box: [-BUF / FS, (gl.glyphTop + BUF) / FS, gl.width / FS, gl.height / FS],
+      box: [-(BUF + left) / FS, (gl.glyphTop + BUF) / FS, gl.width / FS, gl.height / FS],
       uv: [gx / W, gy / H, (gx + gl.width) / W, (gy + gl.height) / H],
     });
   }
