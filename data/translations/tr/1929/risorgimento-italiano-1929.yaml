@@ -5,8 +5,7 @@ id: risorgimento-italiano-1929
 voice: Il Risorgimento Italiano nel Maryland
 role: İtalyanca haftalık gazete, Baltimore
 quote: >-
-  her şeyden önce Mustafa Kemal Paşa'nın enerjisine, sezgisine, iradesine borçlu olunan yeniden doğuş ve
-  canlılık
+  her şeyden önce Kemal Paşa'nın enerjisine, sezgisine ve iradesine borçlu olunan yeniden doğuş ve canlılık
 quote_kind: translated
 summary: >-
   İtalyan-Türk paktını memnuniyetle karşılıyor: Türkiye'nin yeniden doğuşu ve Avrupa tarihine dönüşü her
@@ -27,7 +26,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: e426d9eba3ed
   role: 85cf22ec4b91
-  quote: 57ae4ba013a5
+  quote: e6ef7068117a
   summary: e22cf5142709
   caveat: e4d9c68cda81
   verification_note: 995e6d0ae004

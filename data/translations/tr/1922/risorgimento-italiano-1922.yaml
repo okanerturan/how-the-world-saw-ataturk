@@ -5,8 +5,7 @@ id: risorgimento-italiano-1922
 voice: Il Risorgimento Italiano nel Maryland
 role: İtalyanca haftalık gazete, Baltimore
 quote: >-
-  zavallı ülkesinden kurtarılabilecek ne varsa kurtarmak için çalışan, boyun eğmez ve yozlaşmamış bir
-  vatansever
+  zavallı ülkesinden kurtarılabilecek ne varsa kurtarmak için yılmadan ve yozlaşmadan çalışan bir vatansever
 quote_kind: translated
 summary: >-
   Portre: Kemal artık bir asi değil, 'tanınmış diktatör'dür; Enver ve Talat'ın aksine ülkesini kurtaran,
@@ -23,7 +22,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: e426d9eba3ed
   role: 85cf22ec4b91
-  quote: a7fd830b604f
+  quote: 277544146cc6
   summary: 0508b5cce566
   caveat: c13a9f1b3250
   verification_note: f8152888b991

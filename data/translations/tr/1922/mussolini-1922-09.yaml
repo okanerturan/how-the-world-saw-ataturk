@@ -5,20 +5,20 @@ id: mussolini-1922-09
 voice: Benito Mussolini
 role: >-
   Faşist lider, gazeteci (Il Popolo d'Italia çevresinde yayımlanan makale; 1930'da yeniden basıldı)
-quote: Mustafa Kemal Paşa'nın zaferi, Anadolu toprakları bakımından nihaidir.
+quote: Kemal Paşa'nın zaferi, Anadolu toprakları bakımından kesindir.
 quote_kind: translated
 summary: >-
   Kemal'in Yunanistan karşısındaki zaferini Anadolu için nihai, Fransa'nın Britanya'ya karşı
   silahlandırmasının bir ürünü ve Avrupa'nın kalıcı bir barışa ihtiyaç duyduğuna dair bir ders olarak okur.
 caveat: >-
   'La luna crescente' makalesi (yaklaşık 2.000 kelime), Benito Mussolini, Tempi della Rivoluzione Fascista
-  (1930), s. 108-110 vd., archive.org TempiDellaRivoluzioneFascista (açık). Çevirisi: 'Mustafa Kemal Paşa'nın
-  zaferi, Anadolu toprakları bakımından nihaidir.' OCR 'cbe' olarak basmıştır, 'che' olarak düzeltildi. Özgün
-  yayım tarihi taramada basılı değildir; Eylül 1922 tarihi, kapanış satırındaki 'İzmir yangınının alevleri'
-  ifadesinden çıkarılmıştır. Mussolini'nin çerçevesi: Kemal'in İzmir'e yürüyüşü, Fransa'nın engellenen Ruhr
-  yürüyüşü için 'bir tür telafi'dir; 'La morale della vittoria kemalista' ise Avrupa'nın elli yıllık barışa
-  ihtiyaç duyduğudur. İzmir yalnızca bir tarih işareti olarak anılır; derleme yangının kendisine dair bir
-  görüş kaydetmez. 1928 mülakat kaydından daha eskidir ve ton olarak ondan ayrılır.
+  (1930), s. 108-110 vd., archive.org TempiDellaRivoluzioneFascista (açık erişim). OCR taramasında 'cbe'
+  olarak çıkan kelime 'che' olarak düzeltilmiştir. Taramada orijinal yayın tarihi basılı değildir; Eylül 1922
+  tarihi, kapanış satırındaki 'the flames of the burning of Smyrna' ifadesinden çıkarılmıştır. Mussolini'nin
+  çerçevesi: Kemal'in İzmir yürüyüşü, Fransa'nın engellenen Ruhr yürüyüşünün 'a sort of compensation' (bir tür
+  telafisi) niteliğindedir; 'La morale della vittoria kemalista' ise Avrupa'nın elli yıllık bir barışa ihtiyaç
+  duyduğudur. İzmir yalnızca bir tarih işareti olarak anılır; derlemede yangının kendisine dair bir görüş
+  kayıtlı değildir. 1928 tarihli mülakat kaydından daha öncedir ve ton olarak ondan farklıdır.
 verification_note: >-
   s. 109'da birebir: 'La vittoria di Kemal pascià, è definitiva per ciò che riguarda il territorio anatolico'
   (OCR 'cbe'). Fransız/İngiliz rekabeti okuması ve 'La marcia di Kemal su Smirne è una specie di
@@ -30,8 +30,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: e8f28c51f778
   role: 2d052c503081
-  quote: b4579a7e36df
+  quote: f6369d3075f1
   summary: 702de4f1fa22
-  caveat: d312f62a60eb
+  caveat: 8e7142c0acaa
   verification_note: be883fe45c7b
   verification_method: 1427b6d844eb

@@ -4,7 +4,7 @@
 id: la-verita-waterbury-1935-05
 voice: La Verità (Waterbury)
 role: İtalyanca haftalık gazete, Waterbury, Connecticut
-quote: yeni Türkiye'nin en üst liderinin tartışılmaz meziyetlerini kabul etti
+quote: yeni Türkiye'nin en yüce liderinin tartışılmaz liyakatlerini kabul etmiştir
 quote_kind: translated
 summary: >-
   Türk kadınlarını haremden kurtardığı için 'diktatör' Kemal'i selamlayan Lady Astor'un konuşmasını över;
@@ -23,7 +23,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 56a4a962f5bd
   role: f79c789fafaa
-  quote: 0cb8797e323f
+  quote: ccfb335eda12
   summary: d86ce92af9a3
   caveat: bef0f0a81117
   verification_note: 69af040a6d47

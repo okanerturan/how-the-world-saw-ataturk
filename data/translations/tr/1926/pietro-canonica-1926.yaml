@@ -5,8 +5,8 @@ id: pietro-canonica-1926
 voice: Pietro Canonica
 role: İtalyan heykeltıraş
 quote: >-
-  O sade, tavırlarıyla tıpkı eski kuşak Lombardiyalı ve Piemonteli askerlerimiz gibi son derece seçkin bir
-  adamdı.
+  O, tıpkı bizim eski kuşak Lombardiyalı ve Piemonteli askerlerimiz gibi tavırlarında son derece seçkin, sade
+  bir adamdı.
 quote_kind: translated
 summary: >-
   Ankara'da eski bir Piemonteli asker gibi sade, seçkin, az konuşan ve keskin bakışlı bir adam buldu; büstünü
@@ -26,7 +26,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 1db324a6cd4a
   role: 7e574564f926
-  quote: 6700c828ce15
+  quote: 368b6492e683
   summary: 275722a95e26
   caveat: eb49dd97c508
   mediated_by: abb428a0e347

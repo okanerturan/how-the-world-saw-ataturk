@@ -8,8 +8,8 @@ quote: ulusun yenilenmesinin mimarı
 quote_kind: translated
 summary: Onu ulusun yenilenmesinin mimarı olarak nitelendirdi.
 caveat: >-
-  TBMM c. 1 (c1) PDF s. 7, üst yazı s. 6. Alıntı İtalyancadır; çevirisi: 'ulusun yenilenmesinin mimarı'.
-  Niteleyici bir isim içeren faşist dönem kalıbıdır; tarih büyükelçiliğin iletim tarihidir, 12 Kasım.
+  TBMM c. 1 (c1) PDF s. 7, üst yazı s. 6. Niteleyici bir isim içeren faşist dönem kalıbı; tarih,
+  büyükelçiliğin iletim tarihi olan 12 Kasım'dır.
 verification_note: >-
   Daktiloyla yazılmış İtalyanca: 'ARTEFICE DEL RINNOVAMENTO DELLA NAZIONE', 'PRESIDENTE SENATO FEDERZONI'
   imzalı. Üst yazı s. 6, 'Ankara, 12 Novembre 1938 - XVII' tarihli ve iki telgrafın İtalya Senatosu ve Meclisi
@@ -23,8 +23,8 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 3bd6e41c8298
   role: bc46735cf544
-  quote: 381fa49cef78
+  quote: 4482bd16e142
   summary: 0108fd9f33f9
-  caveat: 14b9a484b5e6
+  caveat: a28aafd66a0b
   verification_note: 586b572fa247
   verification_method: 7c3ad23fb937

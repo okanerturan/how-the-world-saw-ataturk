@@ -1869,3 +1869,7 @@ The Wayback Machine cannot archive these two sites (it stores the browser check 
 ## Archived copies audited (2026-11-10)
 
 Every `archived` link was opened (512 distinct links). 418 hold the page or document. 94 did not and were removed from 145 records (156 lines): 52 pointed at captures the Wayback Machine does not have (a save request had returned a timestamp, but the capture never completed; nine were a Wayback link wrapped around a Wayback link), 16 were a bot-check page (the German Digital Library, Australia's PM transcripts, vie-publique.fr and others), and 26 were an empty page shell that needs JavaScript or a login (Japan's National Diet Library, the Turkish parliament's site, the Milliyet archive viewer, UNESDOC). No other capture of those pages exists. `tools/archive-sources.mjs` now opens a capture and checks that it holds the page before writing it into a record.
+
+## First contribution from outside (2026-11-13)
+
+Pull request #11 (mrCabez, a native Italian speaker) added English translations to the nine Italian quotes that had none, for issue #6. Each was read against the Italian before the merge: all nine are faithful and literal, `quote.text` and the checks were not touched, and in three records the English that had sat in the caveat moved to `quote.translation`. Turkish for the nine was refreshed from the new English. 299 quotes in other languages are still without an English translation.

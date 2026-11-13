@@ -4,7 +4,8 @@
 id: la-sentinella-bridgeport-1934
 voice: La Sentinella (Bridgeport)
 role: İtalyanca haftalık gazete, Bridgeport, Connecticut
-quote: Mussolini, Stalin, Kemal, Piłsudski ve diğer reformcu diktatörlerinkiler gibi sonuçlar
+quote: >-
+  Mussolini, Stalin, Kemal, Piłsudski ve diğer reformcu diktatörlerin elde ettiği gibi sonuçlar
 quote_kind: translated
 summary: >-
   Stamford 'güçlü belediye başkanı' tüzüğü üzerine: Mussolini, Stalin, Kemal, Piłsudski ve diğer 'reformcu
@@ -23,7 +24,7 @@ translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 4ff3f69ecd07
   role: da3c64d1bc6a
-  quote: 1c8eacfc3c7b
+  quote: 7e4e7fc38863
   summary: e8695fa2be61
   caveat: b164e838d401
   verification_note: d9bdeb5ffe98
