@@ -23,9 +23,10 @@ quote:
     appreciation of the difficulties that lay ahead.
   language: en
 caveat: >-
-  International ceremony at the Çanakkale Memorial on the 75th anniversary of the landings (the site prints
-  'Cannakklae'). He also read Atatürk's 1934 words to the Anzac mothers. The 'Balkan War' defence of the
-  peninsula he credits to Kemal is his own reading.
+  International ceremony at the Çanakkale Memorial on the 75th anniversary of the landings (the speech text
+  spells the town 'Cannakklae'). He also quoted the opening of Atatürk's words on the Anzac dead ('Those
+  heroes that shed their blood… Therefore rest in peace'). The 'Balkan War' defence of the peninsula he
+  credits to Kemal is his own reading.
 sources:
   - url: https://gg.govt.nz/publications/international-ceremony-canakkale-memorial
     archived: https://web.archive.org/web/20190918194236/https://gg.govt.nz/publications/international-ceremony-canakkale-memorial
@@ -38,6 +39,6 @@ verification:
   method: >-
     the site answers scripts with a bot check; the page was opened in a browser and its text read
   note: >-
-    Read on 18 Nov 2026. The site gives the issue date 25 April 1990 and the speaker. Entered and checked by
-    the same reader; no second reader yet.
+    Read on 18 Nov 2026. The site gives the issue date 25 April 1990 and the speaker. A second reader re-read
+    the source on 18 Nov 2026 and confirmed the quote; it corrected the caveat on the Atatürk words he quoted.
   checked_on: "2026-11-18"

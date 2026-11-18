@@ -21,9 +21,9 @@ quote:
     far to the personality of Mustapha Kemal Pasha.
   language: en
 caveat: >-
-  The paper says it takes his aims 'on the authority of an Englishman who has long known him well'; the long
-  biography that follows (Salonika, Anafarta, the 1917 memorandum to Enver) rests on that account. 'To say
-  that Kemal wanted war is silly' is also its own.
+  The paper takes his aims 'as we may judge them from his actions, and, as we learn them on the authority of
+  an Englishman who has long known him well'; the long biography that follows (Salonika, Anafarta, the 1917
+  memorandum to Enver) gives no source. 'To say that Kemal wanted war is silly' is also its own.
 node: Australian Editors on Kemal after Chanak, October 1922
 sources:
   - url: https://trove.nla.gov.au/newspaper/article/93230845
@@ -35,6 +35,6 @@ verification:
     and text
   method: read the article image and Trove text in a browser
   note: >-
-    Read on 18 Nov 2026; the quote is verbatim on the image. Entered and checked by the same reader; no second
-    reader yet.
+    Read on 18 Nov 2026; the quote is verbatim on the image. A second reader re-read the source on 18 Nov 2026
+    and confirmed the quote; the caveat no longer says the biography rests on the Englishman.
   checked_on: "2026-11-18"

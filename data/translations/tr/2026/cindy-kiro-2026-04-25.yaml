@@ -16,8 +16,8 @@ caveat: >-
   Conkbayırı'ndaki Yeni Zelanda Ulusal Töreni, Gelibolu, Anzak Günü 2026. Yeni Zelandalı kayıpların anıldığı
   bir törende geçerken yapılan bir saygı atfı.
 verification_note: >-
-  18 Kasım 2026'da okundu. Sitede yayım tarihi 25 Nisan 2026 ve konuşmacı belirtiliyor. Aynı okur tarafından
-  girildi ve kontrol edildi; henüz ikinci bir okur kontrol etmedi.
+  18 Kasım 2026 tarihinde okundu. Site, yayım tarihini 25 Nisan 2026 olarak ve konuşmacıyı vermektedir. İkinci
+  bir okur kaynağı 18 Kasım 2026 tarihinde yeniden okumuş ve alıntıyı harfi harfine doğrulamıştır.
 verification_method: site betiklere bot kontrolüyle yanıt veriyor; sayfa bir tarayıcıda açıldı ve metni okundu
 translated_by: "machine: gemini-4-argon-medium"
 source_fingerprints:
@@ -26,5 +26,5 @@ source_fingerprints:
   quote: 956a08e424b5
   summary: 7ce4cdf2e0c2
   caveat: 3c54b5e8cf69
-  verification_note: 565d18422e4e
+  verification_note: 080282e7f4a3
   verification_method: 299c17c2f6cc

@@ -13,12 +13,14 @@ summary: >-
   75. Anzak Günü'nde: Müttefik generaller Kemal'in sicilini incelemeliydi; onun 'Yurtta sulh, cihanda sulh'
   şiarı bizim görevimizdir.
 caveat: >-
-  Çıkarmaların 75. yıl dönümünde Çanakkale Şehitler Abidesi'nde düzenlenen uluslararası tören (sitede
-  'Cannakklae' yazmaktadır). Ayrıca Atatürk'ün 1934 yılında Anzak annelerine hitaben söylediği sözleri de
-  okudu. Yarımadanın 'Balkan Savaşı'ndaki savunmasını Kemal'e atfetmesi kendi yorumudur.
+  Çıkarmaların 75. yıldönümünde Çanakkale Şehitler Abidesi'nde düzenlenen uluslararası tören (konuşma metninde
+  kent adı 'Cannakklae' olarak yazılmıştır). Ayrıca Atatürk'ün Anzak ölüleri hakkındaki sözlerinin giriş
+  kısmını da alıntılamıştır ('Those heroes that shed their blood… Therefore rest in peace'). Yarımadanın
+  savunulmasını 'Balkan Savaşı' bağlamında Kemal'e atfetmesi kendi yorumudur.
 verification_note: >-
-  18 Kasım 2026'da okundu. Site yayım tarihini 25 Nisan 1990 olarak ve konuşmacıyı veriyor. Aynı okuyucu
-  tarafından girildi ve kontrol edildi; henüz ikinci bir okuyucu yok.
+  18 Kasım 2026 tarihinde okundu. Site, yayım tarihini 25 Nisan 1990 ve konuşmacıyı vermektedir. İkinci bir
+  okuyucu 18 Kasım 2026 tarihinde kaynağı yeniden okuyarak alıntıyı doğruladı ve alıntıladığı Atatürk
+  sözlerine ilişkin araştırma notunu düzeltti.
 verification_method: site betiklere bot kontrolüyle yanıt veriyor; sayfa bir tarayıcıda açıldı ve metni okundu
 translated_by: "machine: gemini-4-argon-medium"
 source_fingerprints:
@@ -26,6 +28,6 @@ source_fingerprints:
   role: 30ec02d78e59
   quote: 1c38e46f26f2
   summary: a69b41a893a8
-  caveat: 1b6289c89ddf
-  verification_note: 2ad68d60ea27
+  caveat: d5db5e43fcfe
+  verification_note: 4974c7049cad
   verification_method: 299c17c2f6cc

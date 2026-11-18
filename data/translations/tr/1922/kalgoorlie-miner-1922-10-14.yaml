@@ -12,12 +12,14 @@ summary: >-
   Mudanya Mütarekesi'ni ve barışı Kemal'in kişiliğine bağlayan başyazı: savaşa girebilecekken bundan kaçınan,
   dizginleyici, reformcu bir yurtsever, 'diktatör değil'.
 caveat: >-
-  Gazete, onun amaçlarını 'on the authority of an Englishman who has long known him well' aktardığını
-  söylüyor; ardından gelen uzun biyografi (Selanik, Anafartalar, Enver'e verilen 1917 muhtırası) bu anlatıya
-  dayanmaktadır. 'To say that Kemal wanted war is silly' ifadesi de gazetenin kendisine aittir.
+  Gazete, onun amaçlarını 'eylemlerinden çıkarabildiğimiz ve kendisini uzun süredir yakından tanıyan bir
+  İngiliz'in tanıklığından öğrendiğimiz kadarıyla' ele alır; ardından gelen uzun biyografi (Selanik,
+  Anafartalar, Enver'e gönderilen 1917 tarihli muhtıra) ise kaynak belirtmez. 'To say that Kemal wanted war is
+  silly' ifadesi de gazetenin kendisine aittir.
 verification_note: >-
-  18 Kasım 2026'da okundu; alıntı görseldeki metinle birebir aynıdır. Aynı okuyucu tarafından girildi ve
-  kontrol edildi; henüz ikinci bir okuyucu kontrol etmedi.
+  18 Kasım 2026'da okundu; alıntı görselde birebir yer almaktadır. İkinci bir okuyucu 18 Kasım 2026'da kaynağı
+  yeniden okuyup alıntıyı doğruladı; çekince notu artık biyografinin söz konusu İngiliz'e dayandığını
+  söylememektedir.
 verification_method: makale görseli ve Trove metni tarayıcıda okundu
 translated_by: "machine: gemini-4-argon-medium"
 source_fingerprints:
@@ -25,6 +27,6 @@ source_fingerprints:
   role: ef6efcfb1104
   quote: cb34b09373e6
   summary: 076bdfb1ea4c
-  caveat: 56a3884d2f3e
-  verification_note: 20ca6e76c7ab
+  caveat: bcc932bd99f2
+  verification_note: c05445667e05
   verification_method: 41a6f3d53a55

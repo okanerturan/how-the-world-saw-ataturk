@@ -48,8 +48,9 @@ sources:
   - url: https://unesdoc.unesco.org/ark:/48223/pf0000047424
     label: UNESCO Digital Library (UNESDOC), English version
     citation: >-
-      Address by Mr Amadou-Mahtar M'Bow, Director-General of Unesco, on being awarded the degree of Doctor
-      Honoris Causa of the University of Ankara, Ankara, 6 November 1981 (DG/81/43)
+      Address by Mr Amadou-Mahtar M'Bow, Director-General of the United Nations Educational, Scientific and
+      Cultural Organization (Unesco), on being awarded the degree of Doctor Honoris Causa of the University of
+      Ankara, Ankara, 6 November 1981 (DG/81/43)
     accessed: "2026-11-18"
 verification:
   verdict: confirmed
@@ -61,6 +62,7 @@ verification:
     the documents opened in a browser and the pages rendered and read as images (scans with no text layer)
   note: >-
     Read on 18 Nov 2026. The French quotation is on the French p. 3 and the English on the English p. 3; the
-    typewriter prints 'maftrisé' and 's'accroftrait' for î, outside the quoted part. Entered and checked by
-    the same reader; no second reader yet.
+    typewriter prints 'maftrisé' and 's'accroftrait' for î, outside the quoted part. A second reader re-read
+    the source on 18 Nov 2026 (the English in full, the French p. 3 and cover): quote, translation and caveat
+    confirmed.
   checked_on: "2026-11-18"

@@ -19,9 +19,10 @@ caveat: >-
   Aralık 1981'de Paris'te düzenleyeceği sempozyumu ve 'Atatürk: fondateur d'un Etat moderne' adlı kitabını
   duyurdu. 1980'de olduğu gibi, belgede konuşmayı hangi dilde yaptığı belirtilmemektedir.
 verification_note: >-
-  18 Kasım 2026'da okundu. Fransızca alıntı Fransızca metnin s. 3'ünde, İngilizce alıntı ise İngilizce metnin
-  s. 3'ündedir; daktilo, alıntılanan kısmın dışında î harfi yerine 'maftrisé' ve 's'accroftrait' basmıştır.
-  Aynı okuyucu tarafından girildi ve kontrol edildi; henüz ikinci bir okuyucu yok.
+  18 Kasım 2026'da okundu. Fransızca alıntı Fransızca metnin s. 3'ünde, İngilizcesi ise İngilizce metnin s.
+  3'ündedir; daktilo, alıntılanan kısmın dışında î harfi yerine 'maftrisé' ve 's'accroftrait' basmıştır.
+  İkinci bir okuyucu 18 Kasım 2026'da kaynağı (İngilizce metnin tamamını, Fransızca metnin s. 3'ünü ve
+  kapağını) yeniden okudu: alıntı, çeviri ve çekince notu doğrulandı.
 verification_method: >-
   belgeler bir tarayıcıda açıldı ve sayfalar görüntü olarak (metin katmanı olmayan taramalar) işlenip okundu
 translated_by: "machine: gemini-4-argon-medium"
@@ -31,5 +32,5 @@ source_fingerprints:
   quote: 18c8f71161ff
   summary: cd1f96386040
   caveat: 76ef7043a814
-  verification_note: 887c18f05cc3
+  verification_note: 06bd7f085a65
   verification_method: 48e12835fc01
