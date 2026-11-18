@@ -13,8 +13,8 @@ intensity: 2
 artifact: article
 evidence: P
 summary: >-
-  Year-end report from Constantinople: German–Turkish business thrived, but Kemal snubbed Hindenburg's
-  birthday greeting while tolerating statues of himself everywhere.
+  Year-end report from Constantinople: German–Turkish business grew, but Kemal failed to congratulate
+  Hindenburg on his birthday, though fond of statues of himself.
 quote:
   text: >-
     Ein Mann wie Kemal Pascha durfte den Glückwunsch zu Hindenburgs Geburtstag einfach nicht übersehen, zumal
@@ -22,15 +22,16 @@ quote:
     Boden geschossenen Kemaldenkmäler jedermann deutlich beweist.
   language: de
   translation: >-
-    A man like Kemal Pasha should simply not have overlooked the congratulations on Hindenburg's birthday,
+    A man like Kemal Pasha should simply not have neglected the congratulations on Hindenburg's birthday,
     especially as he himself sets great store by honours to his own person, as the tolerance of the Kemal
     monuments that have shot up like mushrooms this year plainly shows everyone.
   translated_by: "machine: claude-opus-5-5"
 caveat: >-
-  'Das Jahr 1927 in der Türkei', by the paper's Constantinople correspondent (signed 'd.'), front page of the
-  evening edition, 2 Jan 1928. The complaint closes a review that praises the railways and industry built in
-  1927, largely by German firms; it ends by wishing the Turkish people 'von Herzen Glück' for their peaceful
-  reconstruction. Hindenburg turned 80 on 2 Oct 1927.
+  'Das Jahr 1927 in der Türkei', from the paper's Constantinople correspondent ('d. Konstantinopel, Ende
+  Dezember 1927'), front page of the evening edition, 2 Jan 1928. The complaint closes a review that notes
+  some 500 km of railway opened in 1927 and power stations and factories 'fast ausschließlich in deutschen
+  Händen'. It calls the lapse one of 'internationale Höflichkeit' in a young state, and ends by congratulating
+  the Turkish people 'von Herzen' on their successes in peaceful reconstruction.
 node: A Stuttgart Daily on Kemal and Hindenburg, January 1928
 sources:
   - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/RDSBCRC6QKO2HZEE2TSPXLDQ2ERDK7BN?issuepage=7
@@ -45,6 +46,8 @@ verification:
   method: >-
     found by the Deutsches Zeitungsportal's full-text search; the passage read on the page image
   note: >-
-    Read on 18 Nov 2026; the quote is verbatim on the page. Entered and checked by the same reader; no second
-    reader yet.
+    Read on 18 Nov 2026; the quote is verbatim on the page. A second reader re-read the page image on 18 Nov
+    2026: quote confirmed; it corrected the reading (Kemal failed to send congratulations; it was not a
+    greeting from Hindenburg that he ignored), the byline and the claims about railways, and the caveat's
+    outside fact about Hindenburg's age is gone.
   checked_on: "2026-11-18"

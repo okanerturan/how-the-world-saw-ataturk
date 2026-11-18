@@ -14,13 +14,14 @@ mirror: volkisch-purifier
 artifact: article
 evidence: P
 summary: >-
-  Obituary 'From Rebel to "Father of the Turks"': the pioneer and leader to whom alone Turkey owed its rise;
-  veil and Arabic script abolished.
+  Obituary 'From Rebel to "Father of the Turks"': the leader to whom alone Turkey owed its rise; veil and
+  polygamy abolished, Latin script adopted.
 caveat: >-
   Unsigned obituary on p. 2 of the NSDAP's Hamburg daily, 10 Nov 1938, under the headline 'Vom Rebell zum
-  „Vater der Türken“' and an Ankara report of the death. It ends: 'Ein Wille aus Granit und eine
+  „Vater der Türken“' and an Ankara report of the death. Near the end: 'Ein Wille aus Granit und eine
   unerschöpfliche Arbeitskraft waren das Fundament dieses Wirkens.' The essay 'Führer und Volk' that German
-  History in Documents prints with it is from the issue of 10 Dec 1938, pp. 1–2, a separate piece.
+  History in Documents prints with it is, by GHDI's source line, from the issue of 10 Dec 1938, pp. 1–2, a
+  separate piece.
 node: Hamburger Tageblatt, November 1938
 sources:
   - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/2IXCYLABE4ZVLQYPHUVD225VJUYDHHVP?issuepage=2
@@ -35,8 +36,10 @@ verification:
   method: found by the portal's full-text search; the passage read on the page image
   note: >-
     Read on 18 Nov 2026. Until then the record rested on German History in Documents' English and had no
-    quote; the German sentence is verbatim on the page, as are the headline and the closing sentence in the
-    caveat. Entered and checked by the same reader; no second reader yet.
+    quote; the German sentence is verbatim on the page, as are the headline and the 'Granit' sentence in the
+    caveat. A second reader re-read the page image on 18 Nov 2026: quote confirmed; it corrected the caveat
+    (the 'Granit' sentence is not the last) and the summary (the page abolishes veil, harem and polygamy and
+    replaces the script).
   checked_on: "2026-11-18"
 quote:
   text: >-
@@ -44,6 +47,6 @@ quote:
     Aufstieg nach dem Weltkriege zu verdanken hat.
   language: de
   translation: >-
-    The death of Kamal Atatürk takes from Turkey the pioneer and leader to whom alone she owes her remarkable
+    The death of Kamal Atatürk takes from Turkey the pioneer and leader to whom alone she owes her significant
     rise after the World War.
   translated_by: "machine: claude-opus-5-5"

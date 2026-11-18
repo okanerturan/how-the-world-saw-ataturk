@@ -5,30 +5,31 @@ id: hamburger-tageblatt-1938
 voice: Hamburger Tageblatt
 role: Günlük Hamburg Nazi gazetesi
 quote: >-
-  Kamal Atatürk'ün ölümü, Türkiye'den, Dünya Savaşı'ndan sonraki dikkate değer yükselişini tek başına borçlu
-  olduğu öncüyü ve lideri alıp götürüyor.
+  Kamal Atatürk'ün ölümü, Türkiye'den, Dünya Savaşı'ndan sonraki önemli yükselişini tek başına borçlu olduğu
+  öncüyü ve lideri alıp götürüyor.
 quote_kind: translated
 summary: >-
   'İsyancıdan "Türklerin Babası"na' başlıklı vefat yazısı: Türkiye'nin yükselişini tek başına borçlu olduğu
-  öncü ve lider; peçe ve Arap alfabesi kaldırıldı.
+  lider; peçe ve çok eşlilik kaldırıldı, Latin alfabesi kabul edildi.
 caveat: >-
-  NSDAP'nin Hamburg'da yayımlanan günlük gazetesinin 10 Kasım 1938 tarihli nüshasının 2. sayfasında, 'Vom
-  Rebell zum „Vater der Türken“' başlığı ve ölümüne ilişkin bir Ankara haberi altında yer alan imzasız vefat
-  yazısı. Yazı şöyle sona erer: 'Ein Wille aus Granit und eine unerschöpfliche Arbeitskraft waren das
-  Fundament dieses Wirkens.' German History in Documents'in bu yazıyla birlikte yayımladığı 'Führer und Volk'
-  başlıklı deneme ise 10 Aralık 1938 tarihli sayının 1–2. sayfalarından alınmış ayrı bir yazıdır.
+  NSDAP'nin günlük Hamburg gazetesinin 2. sayfasında, 10 Kasım 1938 tarihinde, 'Vom Rebell zum „Vater der
+  Türken“' başlığı ve ölümüne dair bir Ankara haberi altında yayımlanan imzasız vefat yazısı. Sonlara doğru:
+  'Ein Wille aus Granit und eine unerschöpfliche Arbeitskraft waren das Fundament dieses Wirkens.' German
+  History in Documents'ın bununla birlikte yayımladığı 'Führer und Volk' başlıklı yazı, GHDI'nin kaynak
+  satırına göre 10 Aralık 1938 tarihli sayının 1-2. sayfalarından ayrı bir yazıdır.
 verification_note: >-
-  18 Kasım 2026'da okundu. O tarihe kadar kayıt German History in Documents'teki İngilizce metne dayanıyordu
-  ve alıntı içermiyordu; Almanca cümle, araştırma notundaki başlık ve kapanış cümlesi gibi sayfada kelimesi
-  kelimesine yer alıyor. Aynı okur tarafından girildi ve kontrol edildi; henüz ikinci bir okur kontrolü
-  yapılmadı.
+  18 Kasım 2026'da okundu. O zamana kadar kayıt German History in Documents'ın İngilizce metnine dayanıyordu
+  ve alıntı içermiyordu; Almanca cümle, başlık ve araştırma notundaki 'Granit' cümlesi gibi sayfada kelimesi
+  kelimesine yer almaktadır. İkinci bir okuyucu 18 Kasım 2026'da sayfa görüntüsünü yeniden okudu: alıntı
+  doğrulandı; araştırma notu ('Granit' cümlesi son cümle değildir) ve özet (sayfa peçeyi, haremi ve çok
+  eşliliği kaldırmakta ve alfabeyi değiştirmektedir) düzeltildi.
 verification_method: portalın tam metin aramasıyla bulundu; pasaj sayfa görüntüsünden okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 2f80e6d94a12
   role: 3ef4bc48d6e4
-  summary: f3c718bdb3ca
-  caveat: cd9606950210
-  verification_note: cb45291c23fd
+  summary: ae78cc75756a
+  caveat: 7dee84b2e3f1
+  verification_note: 1de7eaf345bb
   verification_method: 6ed954e764da
-  quote: 83703cf48d9d
+  quote: f7281b8b42b1

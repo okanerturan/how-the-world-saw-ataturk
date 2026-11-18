@@ -5,29 +5,32 @@ id: stuttgarter-neues-tagblatt-1928-01-02
 voice: Stuttgarter Neues Tagblatt
 role: Stuttgart'ta yayımlanan günlük gazete
 quote: >-
-  Mustafa Kemal Paşa gibi bir adam, Hindenburg'un doğum günü tebriğini kesinlikle göz ardı etmemeliydi;
-  üstelik bu yıl mantar gibi yerden biten Kemal anıtlarına gösterilen müsamahanın herkese açıkça kanıtladığı
-  üzere, kendisi de şahsının onurlandırılmasına fazlasıyla önem verirken.
+  Mustafa Kemal Paşa gibi bir adam, Hindenburg'un doğum günü tebriğini kesinlikle atlamamalıydı; üstelik bu
+  yıl mantar gibi yerden biten Kemal anıtlarına gösterilen müsamahanın herkese açıkça kanıtladığı üzere,
+  kendisi de şahsının onurlandırılmasına çok önem vermektedir.
 quote_kind: translated
 summary: >-
-  İstanbul'dan yıl sonu raporu: Türk-Alman ticari ilişkileri gelişti, ancak Kemal her yerde kendi heykellerine
-  müsamaha gösterirken Hindenburg'un doğum gününü kutlamayı ihmal etti.
+  İstanbul'dan yıl sonu raporu: Türk-Alman ticari ilişkileri gelişti ancak Kemal, kendi heykellerinden
+  hoşlanmasına rağmen Hindenburg'un doğum gününü kutlamayı ihmal etti.
 caveat: >-
-  Gazetenin İstanbul muhabirinin ('d.' imzalı) kaleme aldığı 'Das Jahr 1927 in der Türkei' başlıklı yazı,
-  akşam baskısının birinci sayfası, 2 Ocak 1928. Bu sitem, 1927 yılında büyük ölçüde Alman firmaları
-  tarafından inşa edilen demiryollarını ve sanayiyi öven bir değerlendirmenin sonunda yer alır; yazı, Türk
-  halkına barışçıl yeniden inşa çalışmaları için 'von Herzen Glück' dileğiyle sona erer. Hindenburg, 2 Ekim
-  1927'de 80 yaşına girmişti.
+  Gazetenin İstanbul muhabirinden ('d. Konstantinopel, Ende Dezember 1927') 'Das Jahr 1927 in der Türkei'
+  başlıklı yazı, akşam baskısının ön sayfası, 2 Ocak 1928. Bu serzeniş, 1927'de yaklaşık 500 km demiryolunun
+  açıldığını ve elektrik santralleri ile fabrikaların 'fast ausschließlich in deutschen Händen' olduğunu
+  belirten bir değerlendirmenin sonunda yer alır. Bu ihmali genç bir devlette 'internationale Höflichkeit'
+  eksikliği olarak nitelendirir ve Türk halkını barışçıl yeniden inşa sürecindeki başarılarından dolayı 'von
+  Herzen' kutlayarak sona erer.
 verification_note: >-
-  18 Kasım 2026'da okundu; alıntı sayfada kelimesi kelimesine yer alıyor. Aynı okur tarafından girildi ve
-  kontrol edildi; henüz ikinci bir okur kontrolü yapılmadı.
+  18 Kasım 2026'da okundu; alıntı sayfada kelimesi kelimesine yer almaktadır. İkinci bir okuyucu 18 Kasım
+  2026'da sayfa görüntüsünü yeniden okudu: alıntı doğrulandı; okuma (Kemal tebrik göndermeyi ihmal etmişti;
+  Hindenburg'dan gelen bir kutlamayı görmezden gelmiş değildi), muhabir satırı ve demiryollarına ilişkin
+  iddialar düzeltildi ve araştırma notundaki Hindenburg'un yaşına dair dış bilgi çıkarıldı.
 verification_method: Deutsches Zeitungsportal'ın tam metin aramasıyla bulundu; pasaj sayfa görüntüsünden okundu
 translated_by: "machine: gemini-4-argon-medium"
 source_fingerprints:
   voice: 4ab1eab674d2
   role: 9f5000d489d8
-  quote: 9b734ef03beb
-  summary: 7ee781d17aa6
-  caveat: 0eafb3203a48
-  verification_note: af3da2907a7f
+  quote: 40558d2b8f35
+  summary: a35d023d765a
+  caveat: 30b84d6f1a5b
+  verification_note: cdf3b3e5a253
   verification_method: 5e477a433efe

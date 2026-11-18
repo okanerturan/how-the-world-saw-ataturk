@@ -27,10 +27,10 @@ quote:
     and the German Reich Government's warmest sympathy.
   translated_by: "machine: claude-opus-5-5"
 caveat: >-
-  A formal condolence telegram to Tevfik Rüştü Aras, released by the official news agency (DNB) on 10 Nov and
-  printed in German papers of 11 Nov with Hitler's telegram (hitler-1938); the portal finds it in 37 papers.
-  Ribbentrop was away from Berlin; State Secretary von Weizsäcker paid the condolence call at the Turkish
-  embassy in his name.
+  A formal condolence telegram to Tevfik Rüştü Aras, released by the official news agency (dnb, Berlin, 10
+  Nov) and printed in German papers of 11 Nov after Hitler's telegram (hitler-1938); the portal finds it in 37
+  papers. Ribbentrop was away from Berlin; State Secretary von Weizsäcker paid a condolence call on the
+  Turkish ambassador in his name.
 node: Condolence Telegrams to Ankara, November 1938
 sources:
   - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/XQK4IIDRUG6WFY3RAJGDEKKKK5XKMWIK?issuepage=1
@@ -40,12 +40,12 @@ sources:
 verification:
   verdict: confirmed
   quote_found: true
-  checked_against: >-
-    Hamburger Fremdenblatt, Morgenausgabe, 11 Nov 1938, p. 1: page image (SUB Hamburg); same text in the OCR
-    of the Niederrheinische Volkszeitung, Dortmunder Zeitung and Wittener Tageblatt of 11 Nov
+  checked_against: "Hamburger Fremdenblatt, Morgen-Ausgabe, 11 Nov 1938, p. 1: page image (SUB Hamburg)"
   method: >-
     found by the Deutsches Zeitungsportal's full-text search; the telegram read on the page image
   note: >-
-    Read on 18 Nov 2026; the quote is verbatim on the Fremdenblatt's page (some papers print 'Euer
-    Exzellenz'). Entered and checked by the same reader; no second reader yet.
+    Read on 18 Nov 2026; the quote is verbatim on the Fremdenblatt's page. In the OCR of other papers
+    (Dortmunder Zeitung, Wittener Tageblatt) the opening reads 'Euer Exzellenz' and a signature follows; those
+    were not checked on images. A second reader re-read the page image on 18 Nov 2026: quote and translation
+    confirmed; the caveat no longer places the call at the embassy.
   checked_on: "2026-11-18"

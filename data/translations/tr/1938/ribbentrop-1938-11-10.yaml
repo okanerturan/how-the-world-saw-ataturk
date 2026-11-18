@@ -13,14 +13,16 @@ summary: >-
   Dışişleri Bakanı Aras'a, Türkiye Cumhuriyeti'nin "büyük kurucusu"nun "yeri doldurulamaz kaybı" dolayısıyla
   gönderilen taziye telgrafı.
 caveat: >-
-  Tevfik Rüştü Aras'a gönderilen, resmi haber ajansı (DNB) tarafından 10 Kasım'da yayımlanan ve 11 Kasım
-  tarihli Alman gazetelerinde Hitler'in telgrafıyla (hitler-1938) birlikte basılan resmi taziye telgrafı;
-  portal bu metni 37 gazetede bulmaktadır. Ribbentrop Berlin dışındaydı; Devlet Sekreteri von Weizsäcker onun
-  adına Türkiye Büyükelçiliği'ne taziye ziyaretinde bulundu.
+  Tevfik Rüştü Aras'a gönderilen, resmi haber ajansı (dnb, Berlin, 10 Kasım) tarafından yayımlanan ve 11 Kasım
+  tarihli Alman gazetelerinde Hitler'in telgrafından (hitler-1938) sonra basılan resmi taziye telgrafı; portal
+  bunu 37 gazetede tespit etmektedir. Ribbentrop Berlin dışındaydı; Devlet Sekreteri von Weizsäcker onun adına
+  Türkiye büyükelçisine taziye ziyaretinde bulundu.
 verification_note: >-
-  18 Kasım 2026'da okundu; alıntı Fremdenblatt sayfasında kelimesi kelimesine yer alıyor (bazı gazetelerde
-  'Euer Exzellenz' olarak basılmıştır). Aynı okur tarafından girildi ve kontrol edildi; henüz ikinci bir okur
-  kontrolü yapılmadı.
+  18 Kasım 2026'da okundu; alıntı Fremdenblatt'ın sayfasında kelimesi kelimesine yer almaktadır. Diğer
+  gazetelerin (Dortmunder Zeitung, Wittener Tageblatt) OCR metinlerinde giriş 'Euer Exzellenz' şeklindedir ve
+  ardından bir imza gelir; bunlar sayfa görüntüleri üzerinden kontrol edilmemiştir. İkinci bir okuyucu 18
+  Kasım 2026'da sayfa görüntüsünü yeniden okudu: alıntı ve çeviri doğrulandı; araştırma notu artık ziyareti
+  büyükelçilikte gerçekleşmiş olarak belirtmemektedir.
 verification_method: >-
   Deutsches Zeitungsportal'ın tam metin aramasıyla bulundu; telgraf sayfa görüntüsünden okundu
 translated_by: "machine: gemini-4-argon-medium"
@@ -29,6 +31,6 @@ source_fingerprints:
   role: b70f9c0f1cd1
   quote: 0d4e6a0bc278
   summary: 3c31bc3855a7
-  caveat: 105725c5380a
-  verification_note: 03f4ef0297f1
+  caveat: 69b1ec488065
+  verification_note: 6b023e30ddca
   verification_method: 5693064b329e

@@ -2049,7 +2049,7 @@ The German newspaper portal has an open full-text search API (`api.deutsche-digi
 
 - `hamburger-tageblatt-1938`: the obituary of 10 Nov 1938, p. 2 ('Vom Rebell zum „Vater der Türken"'), read on the page. The record had rested on German History in Documents' English and had no quote; it now quotes the German ('den Wegbereiter und Führer, dem allein sie ihren bedeutenden Aufstieg nach dem Weltkriege zu verdanken hat'). Dated 10 Nov; verdict partial → confirmed.
 - New: `ribbentrop-1938-11-10`, his condolence telegram to Aras (DNB, printed in 37 papers on 11 Nov), read on the Hamburger Fremdenblatt's front page.
-- New: `stuttgarter-neues-tagblatt-1928-01-02`, the paper's Constantinople correspondent on 1927: Kemal 'should simply not have overlooked' Hindenburg's birthday greeting, 'especially as he himself sets great store by honours to his own person', with Kemal statues shooting up 'like mushrooms'. Found by searching Hindenburg with Kemal. The same search shows Hindenburg's letter and portrait handed to Kemal by Ambassador Nadolny on the 10th anniversary of the Republic (Oct 1933), but no words of the letter; not entered.
+- New: `stuttgarter-neues-tagblatt-1928-01-02`, the paper's Constantinople correspondent on 1927: Kemal should not have neglected to congratulate Hindenburg on his birthday, 'especially as he himself sets great store by honours to his own person', with Kemal statues shooting up 'like mushrooms'. Found by searching Hindenburg with Kemal. The same search shows Hindenburg's letter and portrait handed to Kemal by Ambassador Nadolny on the 10th anniversary of the Republic (Oct 1933), but no words of the letter; not entered.
 
 Counts: 998 records, 817 voices, 867 quotes (490 machine-translated); confirmed 812, partial 93.
 
@@ -2059,3 +2059,4 @@ Counts: 998 records, 817 voices, 867 quotes (490 machine-translated); confirmed 
 - **Macron, France 5 (probably March 2021).** A machine transcript (Happy Scribe) of the C dans l'air episode 'Erdogan, le sultan qui défie l'Europe' carries an interview clip in which Macron calls Atatürk 'le héros fondateur de cette Turquie moderne' and Erdoğan's 'idole'. Only the automatic transcript was seen; not entered until the broadcast or an official text is found.
 
 Counts: 1001 records, 820 voices, 870 quotes; confirmed 815.
+- A second reader re-read the three German pages the same day: quotes confirmed. Corrected: the Hamburger Tageblatt's 'Granit' sentence is near the end, not the last; the Stuttgart piece complains that Kemal failed to send congratulations (the first draft read it as a greeting from Hindenburg he ignored), its 'd.' is the dateline mark, and only power stations and factories are called German-built; Weizsäcker's call was on the ambassador.
