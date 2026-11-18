@@ -1,0 +1,35 @@
+# Turkish for data/voices/2014/jerry-mateparae-2014-04-29.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: jerry-mateparae-2014-04-29
+voice: Sir Jerry Mateparae
+role: Yeni Zelanda Genel Valisi
+quote: >-
+  Gelibolu'da hayatını kaybeden askerlerimiz hakkında Mustafa Kemal Atatürk tarafından dile getirilen uzlaşı
+  ruhuyla diyorum ki: / Ailelere / Gözyaşlarınızı silin / Atalarınız burada yatıyor / Topraklarımızın bağrında
+  / Huzur içinde / Onlar hepimizin atalarıdır
+quote_kind: translated
+summary: >-
+  Gate Pā'nın 150. yıl anma töreninde, Atatürk'ün Gelibolu'da ölenler için söylediği uzlaşı sözlerini Yeni
+  Zelanda Savaşları'nda ölenlere uyarladı.
+caveat: >-
+  Gate Pā (Pukehinahina, Tauranga, 1864), İngiliz kuvvetleri ile Maoriler arasındaki bir muharebeydi. Son
+  dizeler, Atatürk'ün 1934'te Anzak annelerine söylediği sözleri bu muharebenin ölüleri için yeniden uyarlar;
+  konuşmacı ardından bu dizeleri Maorice söyler. Dört gün önce, Anzak Koyu şafak töreninde Atatürk'ü 'a leader
+  in the art of peace and the art of nation-building as much he was in the art of war' olarak nitelendirmişti
+  (gg.govt.nz/publications/dawn-service-gallipoli, 25 Nisan 2014).
+verification_note: >-
+  18 Kasım 2026'da okundu. Sitede yayım tarihi 29 Nisan 2014 ve konuşmacı belirtiliyor; 25 Nisan 2014 tarihli
+  şafak töreni konuşması da aynı gün okundu. Site, 'I say:' ifadesinden sonraki satırları dizeler halinde
+  dizmiş; alıntıda satır sonları ' / ' ile gösterilmiştir. Aynı okur tarafından girildi ve kontrol edildi;
+  henüz ikinci bir okur kontrol etmedi.
+verification_method: site betiklere bot kontrolüyle yanıt veriyor; sayfa bir tarayıcıda açıldı ve metni okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: a155bde496d7
+  role: 30ec02d78e59
+  quote: 008910cc3f79
+  summary: 65dc1ac0afc3
+  caveat: 2f0e8cc14f10
+  verification_note: d3d17bee0a13
+  verification_method: 299c17c2f6cc

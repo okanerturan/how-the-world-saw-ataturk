@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: mbow-1981-11-06
+voice: Amadou-Mahtar M'Bow
+voice_type: person
+role: Director-General of UNESCO
+country: Senegal
+country_now: Senegal
+domain: diplomacy
+date: "1981-11-06"
+era: posthumous
+polarity: admiring
+intensity: 2
+artifact: speech
+evidence: P
+summary: >-
+  Honorary doctorate in Ankara, centenary year: 'one of this century's most notable figures', whose long march
+  holds lessons for the Third World.
+quote:
+  text: >-
+    Bien des aspects de cet immense parcours d'Atatürk ont une portée universelle. […] ces peuples peuvent
+    tirer de précieuses leçons de la longue marche entreprise par Atatürk, il y a déjà plus d'un demi-siècle,
+    sur des cimes qui étaient encore vierges et dans un monde où les pionniers de sa trempe étaient encore des
+    hommes seuls.
+  language: fr
+  translation: >-
+    A good many aspects of Atatürk's vast work are universally valid. […] They can learn valuable lessons from
+    the long march undertaken by Atatürk, over half a century ago now, across heights that were still
+    untrodden, in a world where pioneers of his stamp were still solitary figures.
+  translated_by: source
+  note: >-
+    The English is UNESCO's own version of the address, issued under the same document number; it is not the
+    archive's translation. 'Ces peuples' are the peoples of the Third World, named in the part left out.
+caveat: >-
+  Address on receiving the degree of Doctor honoris causa of the University of Ankara (Faculty of Literature,
+  History and Geography), Ankara, 6 November 1981, in the presence of the head of state (UNESCO document
+  DG/81/43, a cover and three typed pages). It was his second visit in eighteen months, after mbow-1980-06-09.
+  He also announced the symposium UNESCO would hold in Paris on 16–18 December 1981 and its volume 'Atatürk:
+  fondateur d'un Etat moderne'. As in 1980, the document does not say which language he spoke.
+node: Atatürk Centennial
+sources:
+  - url: https://unesdoc.unesco.org/ark:/48223/pf0000047424_fre
+    label: UNESCO Digital Library (UNESDOC), French version
+    citation: >-
+      Allocution de M. Amadou-Mahtar M'Bow, Directeur général de l'Organisation des Nations Unies pour
+      l'éducation, la science et la culture (Unesco), à l'occasion de la collation du grade de docteur honoris
+      causa de l'Université d'Ankara, Ankara, 6 novembre 1981 (DG/81/43)
+    accessed: "2026-11-18"
+  - url: https://unesdoc.unesco.org/ark:/48223/pf0000047424
+    label: UNESCO Digital Library (UNESDOC), English version
+    citation: >-
+      Address by Mr Amadou-Mahtar M'Bow, Director-General of Unesco, on being awarded the degree of Doctor
+      Honoris Causa of the University of Ankara, Ankara, 6 November 1981 (DG/81/43)
+    accessed: "2026-11-18"
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    The scanned typescripts of DG/81/43 in UNESDOC: the English in full (cover and three pages) and the French
+    cover and p. 3
+  method: >-
+    the documents opened in a browser and the pages rendered and read as images (scans with no text layer)
+  note: >-
+    Read on 18 Nov 2026. The French quotation is on the French p. 3 and the English on the English p. 3; the
+    typewriter prints 'maftrisé' and 's'accroftrait' for î, outside the quoted part. Entered and checked by
+    the same reader; no second reader yet.
+  checked_on: "2026-11-18"

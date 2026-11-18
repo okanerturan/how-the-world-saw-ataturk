@@ -18,7 +18,7 @@ data/
 - `<id>` is the record's `id`. The file name is always `<id>.yaml`.
 - `<YYYY>` is the first four characters of the record's `date`. A record dated `"1938-11-10"` goes in `voices/1938/`. A record dated with a decade, such as `"1980s"`, goes in `voices/1980/`.
 - A translation file has the same year folder and file name as its record.
-- The records are split into year folders because GitHub shows at most 1,000 files in one folder. 1938 alone has 206 records.
+- The records are split into year folders because GitHub shows at most 1,000 files in one folder. 1938 alone has 207 records.
 - Files must end in `.yaml`. A `.yml` file is not read.
 
 ## A record, annotated

@@ -18,21 +18,21 @@ Her sözün kendi bağlantısı vardır. Yukarıdaki söz [ataturk.fyi/#venizelo
 
 | | |
 |---|---|
-| Kayıtlar | 989 |
-| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 809 |
+| Kayıtlar | 996 |
+| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 815 |
 | Günümüz ülkeleri ve bölgeleri (`country_now`) | 85; ayrıca Avrupa Birliği, Avrupa Konseyi ve UNESCO |
-| Kapsanan yıllar | 1908 – 2026 (107 yıl klasörü; 10 kayıt 1919 öncesindendir; yalnızca 1938'de 206 kayıt vardır) |
-| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 857 |
-| İngilizce olmayan alıntılar | 500; her birinin İngilizce çevirisi var: 487'si makine çevirisi, 9'u bir katkıcının, 4'ü kaynağın kendi çevirisi |
-| Kayıtlı kaynak doğrulaması bulunan kayıtlar | 989 (tümü) |
-| Türkçe çeviri dosyası bulunan kayıtlar | 989 (tümü) |
+| Kapsanan yıllar | 1908 – 2026 (107 yıl klasörü; 10 kayıt 1919 öncesindendir; yalnızca 1938'de 207 kayıt vardır) |
+| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 864 |
+| İngilizce olmayan alıntılar | 501; her birinin İngilizce çevirisi var: 487'si makine çevirisi, 9'u bir katkıcının, 5'i kaynağın kendi çevirisi |
+| Kayıtlı kaynak doğrulaması bulunan kayıtlar | 996 (tümü) |
+| Türkçe çeviri dosyası bulunan kayıtlar | 996 (tümü) |
 
 Sonuca göre kaynak doğrulamaları:
 
 | Sonuç | Kayıtlar | Oran |
 |---|---|---|
-| `confirmed` | 802 | %81 |
-| `partial` | 94 | %10 |
+| `confirmed` | 809 | %81 |
+| `partial` | 94 | %9 |
 | `paraphrase-ok` | 56 | %6 |
 | `secondary-only` | 32 | %3 |
 | `not-found` | 3 | %1'in altında |

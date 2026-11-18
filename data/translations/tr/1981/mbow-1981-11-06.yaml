@@ -1,0 +1,35 @@
+# Turkish for data/voices/1981/mbow-1981-11-06.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: mbow-1981-11-06
+voice: Amadou-Mahtar M'Bow
+role: UNESCO Genel Direktörü
+quote: >-
+  Atatürk'ün bu muazzam yolculuğunun pek çok yönü evrensel bir boyuta sahiptir. […] bu halklar, Atatürk'ün
+  yarım yüzyılı aşkın bir süre önce, henüz bakir olan zirvelerde ve onun çapındaki öncülerin hâlâ yalnız birer
+  insan olduğu bir dünyada giriştiği uzun yürüyüşten değerli dersler çıkarabilirler.
+quote_kind: translated
+summary: >-
+  Doğumunun yüzüncü yılında Ankara'da fahri doktora: uzun yürüyüşü Üçüncü Dünya için dersler barındıran, 'bu
+  yüzyılın en dikkate değer şahsiyetlerinden biri'.
+caveat: >-
+  Ankara Üniversitesi (Dil ve Tarih-Coğrafya Fakültesi) fahri doktora unvanını kabul ederken devlet başkanının
+  huzurunda yaptığı konuşma, Ankara, 6 Kasım 1981 (UNESCO belgesi DG/81/43, bir kapak ve daktiloyla yazılmış
+  üç sayfa). Bu, mbow-1980-06-09'dan sonra on sekiz ay içindeki ikinci ziyaretiydi. Ayrıca UNESCO'nun 16–18
+  Aralık 1981'de Paris'te düzenleyeceği sempozyumu ve 'Atatürk: fondateur d'un Etat moderne' adlı kitabını
+  duyurdu. 1980'de olduğu gibi, belgede konuşmayı hangi dilde yaptığı belirtilmemektedir.
+verification_note: >-
+  18 Kasım 2026'da okundu. Fransızca alıntı Fransızca metnin s. 3'ünde, İngilizce alıntı ise İngilizce metnin
+  s. 3'ündedir; daktilo, alıntılanan kısmın dışında î harfi yerine 'maftrisé' ve 's'accroftrait' basmıştır.
+  Aynı okuyucu tarafından girildi ve kontrol edildi; henüz ikinci bir okuyucu yok.
+verification_method: >-
+  belgeler bir tarayıcıda açıldı ve sayfalar görüntü olarak (metin katmanı olmayan taramalar) işlenip okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 8ea6f46752e2
+  role: 2bd5fdb14ff3
+  quote: 18c8f71161ff
+  summary: cd1f96386040
+  caveat: 76ef7043a814
+  verification_note: 887c18f05cc3
+  verification_method: 48e12835fc01

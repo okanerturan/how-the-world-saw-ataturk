@@ -1,0 +1,32 @@
+# Turkish for data/voices/2009/anand-satyanand-2009-04-27.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: anand-satyanand-2009-04-27
+voice: Sir Anand Satyanand
+role: Yeni Zelanda Genel Valisi
+quote: >-
+  Atatürk vizyon sahibi bir insandı. Türkiye'nin geleceğinin ancak barış içindeki bir bölgede ve barış
+  içindeki bir dünyada bir ulus olarak yerleşmesiyle güvence altına alınabileceğini açıkça anlamıştı. Yeni
+  Zelanda'ya ve Gelibolu'da düşman olmuş diğer ülkelere elini uzattı. Bu asil jest, onun Yeni Zelandalıların
+  kalplerindeki yerini perçinledi.
+quote_kind: translated
+summary: >-
+  Çankaya'daki bir resmi akşam yemeğinde: 'Yeni Zelanda'nın Türkiye ile ilişkisinin babası', uzattığı el ile
+  Yeni Zelandalıların kalbini kazanan vizyon sahibi bir insan.
+caveat: >-
+  Resmi ziyareti sırasında, Gelibolu'daki Anzak Günü'nden iki gün sonra Ankara'da, Çankaya Cumhurbaşkanlığı
+  Köşkü'nde verilen resmi akşam yemeğindeki kadeh kaldırma konuşması. Ayrıca Kemal'in 'Türkiye'yi bağımsız,
+  demokratik, laik bir ulus-devlete dönüştürmeye devam ettiğini' söylüyor.
+verification_note: >-
+  18 Kasım 2026'da okundu. Site yayım tarihini 27 Nisan 2009 olarak ve konuşmacıyı veriyor. Arşivlenmiş bir
+  kopya bulunamadı. Aynı okuyucu tarafından girildi ve kontrol edildi; henüz ikinci bir okuyucu yok.
+verification_method: site betiklere bot kontrolüyle yanıt veriyor; sayfa bir tarayıcıda açıldı ve metni okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 687abc08cd77
+  role: 30ec02d78e59
+  quote: c8fb20094e56
+  summary: 0e9b10d07c28
+  caveat: 3e11c72baacd
+  verification_note: efeff207abf5
+  verification_method: 299c17c2f6cc

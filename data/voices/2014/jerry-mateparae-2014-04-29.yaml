@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: jerry-mateparae-2014-04-29
+voice: Sir Jerry Mateparae
+role: Governor-General of New Zealand
+voice_type: person
+country: New Zealand
+country_now: New Zealand
+domain: diplomacy
+era: posthumous
+artifact: speech
+evidence: P
+node: New Zealand's Governors-General at Gallipoli, 1990–2026
+date: "2014-04-29"
+polarity: admiring
+intensity: 2
+summary: >-
+  At Gate Pā's 150th commemoration, applied Atatürk's words of reconciliation for the Gallipoli dead to those
+  of the New Zealand Wars.
+quote:
+  text: >-
+    In the spirit of reconciliation expressed by Mustafa Kemal Ataturk of our men who were killed at
+    Gallipoli, I say: / To the families / Wipe away your tears / Your forefathers lie here / In the bosom of
+    our land / In peace / They are the forefathers of us all
+  language: en
+caveat: >-
+  Gate Pā (Pukehinahina, Tauranga, 1864) was a battle between British forces and Māori. The closing lines
+  rework Atatürk's 1934 words to the Anzac mothers for its dead, and he then says them in Māori. Four days
+  earlier, at the Anzac Cove dawn service, he had called Atatürk 'a leader in the art of peace and the art of
+  nation-building as much he was in the art of war' (gg.govt.nz/publications/dawn-service-gallipoli, 25 April
+  2014).
+sources:
+  - url: https://gg.govt.nz/publications/battle-gate-pa-commemorations
+    archived: https://web.archive.org/web/20180211164113/https://gg.govt.nz/publications/battle-gate-pa-commemorations
+  - url: https://gg.govt.nz/publications/dawn-service-gallipoli
+    archived: https://web.archive.org/web/20241008093827/https://gg.govt.nz/publications/dawn-service-gallipoli
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    gg.govt.nz/publications/battle-gate-pa-commemorations: the speech text as published by the
+    Governor-General's office
+  method: >-
+    the site answers scripts with a bot check; the page was opened in a browser and its text read
+  note: >-
+    Read on 18 Nov 2026. The site gives the issue date 29 April 2014 and the speaker; the dawn service speech,
+    25 April 2014, was read the same day. The site sets the lines after 'I say:' as verse; the quote marks its
+    line breaks with ' / '. Entered and checked by the same reader; no second reader yet.
+  checked_on: "2026-11-18"

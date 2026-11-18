@@ -1,0 +1,30 @@
+# Turkish for data/voices/1922/kalgoorlie-miner-1922-10-14.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: kalgoorlie-miner-1922-10-14
+voice: Kalgoorlie Miner
+role: Batı Avustralya günlük gazetesi
+quote: >-
+  Mudanya başarısını ve şimdiye kadar barışın korunmasını Mustafa Kemal Paşa'nın kişiliğine atfedersek
+  muhtemelen gerçeğe çok yaklaşmış oluruz.
+quote_kind: translated
+summary: >-
+  Mudanya Mütarekesi'ni ve barışı Kemal'in kişiliğine bağlayan başyazı: savaşa girebilecekken bundan kaçınan,
+  dizginleyici, reformcu bir yurtsever, 'diktatör değil'.
+caveat: >-
+  Gazete, onun amaçlarını 'on the authority of an Englishman who has long known him well' aktardığını
+  söylüyor; ardından gelen uzun biyografi (Selanik, Anafartalar, Enver'e verilen 1917 muhtırası) bu anlatıya
+  dayanmaktadır. 'To say that Kemal wanted war is silly' ifadesi de gazetenin kendisine aittir.
+verification_note: >-
+  18 Kasım 2026'da okundu; alıntı görseldeki metinle birebir aynıdır. Aynı okuyucu tarafından girildi ve
+  kontrol edildi; henüz ikinci bir okuyucu kontrol etmedi.
+verification_method: makale görseli ve Trove metni tarayıcıda okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: e3bc4767de95
+  role: ef6efcfb1104
+  quote: cb34b09373e6
+  summary: 076bdfb1ea4c
+  caveat: 56a3884d2f3e
+  verification_note: 20ca6e76c7ab
+  verification_method: 41a6f3d53a55

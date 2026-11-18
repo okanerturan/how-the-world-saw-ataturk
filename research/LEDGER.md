@@ -2030,3 +2030,15 @@ Read in Okan's Chrome. No record is `unreachable` now.
 The README's verdict table had `secondary-only` at 32 when the data had 30; it is 32 now.
 
 Counts: 989 records, 809 voices, 857 quotes; confirmed 802, paraphrase-ok 56, secondary-only 32, unreachable 0.
+
+## Browser queue, 18 Nov 2026
+
+Read in Okan's Chrome.
+
+- **Trove.** In Chrome the article page passes the bot check, and `/newspaper/rendition/nla.news-article<ID>.txt` then returns the text. New: `workers-star-1938-11-25` (the whole four-sentence item, read on the image: Kemal 'the leader of the bourgeois revolution in Turkey', 'not so much a dictator as his predecessors, the Sultans'); `kalgoorlie-miner-1922-10-14` (leader after Mudanya: the peace owed 'to the personality of Mustapha Kemal Pasha'; 'to say that Kemal wanted war is silly'). The Sun News-Pictorial item of 16 Sep 1922 is a photo caption, not entered. `cj-dennis-1933` re-read on Trove; its caveat and note, which still said the Trove page had not been seen, were rewritten.
+- **UNESDOC.** `mbow-1981-11-06`: M'Bow's address on his honorary doctorate at the University of Ankara, 6 Nov 1981 (DG/81/43), read in English in full and in French (cover and p. 3); the quote is the French with UNESCO's English. The UNESCO Courier of November 1981 ('Atatürk, the father of modern Turkey') has a text layer: its three Atatürk articles are by Turkish authors (Bülent Tanör and others) under a two-sentence editorial note; not entered.
+- **gg.govt.nz.** The site search ('query') returns 22 pages for 'Ataturk'/'Atatürk'. New: `paul-reeves-1990-04-25`, `anand-satyanand-2009-04-27`, `jerry-mateparae-2014-04-29` (Gate Pā, with his Anzac Cove line of 25 Apr 2014 in the caveat), `cindy-kiro-2026-04-25`. The rest only read the 1934 message or name him in passing. Vault: New Zealand's Governors-General at Gallipoli, 1990–2026.
+- **elysee.fr.** Searched for Macron. Cumhuriyet's 'Erdoğan's Turkey is not the Turkey of Atatürk', reported from his ambassadors' conference speech of 27 Aug 2018, is not in the Élysée's text of that speech, which does not name Atatürk; nothing entered.
+- **casareal.es, presidency.ro.** No speech naming Atatürk found by search; presidency.ro answers scripts with a 503.
+
+Counts: 996 records, 815 voices, 864 quotes; confirmed 809.

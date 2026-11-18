@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: paul-reeves-1990-04-25
+voice: Sir Paul Reeves
+role: Governor-General of New Zealand
+voice_type: person
+country: New Zealand
+country_now: New Zealand
+domain: diplomacy
+era: posthumous
+artifact: speech
+evidence: P
+node: New Zealand's Governors-General at Gallipoli, 1990–2026
+date: "1990-04-25"
+polarity: admiring
+intensity: 2
+summary: >-
+  On the 75th Anzac Day: Allied generals should have studied Kemal's record; his motto 'Peace at home and
+  peace in the world' is our duty.
+quote:
+  text: >-
+    If the Allied generals had studied his military record and, in particular, the brilliant defence of the
+    Gallipoli Peninsula in the Balkan War a mere three years earlier, they might have had a more realistic
+    appreciation of the difficulties that lay ahead.
+  language: en
+caveat: >-
+  International ceremony at the Çanakkale Memorial on the 75th anniversary of the landings (the site prints
+  'Cannakklae'). He also read Atatürk's 1934 words to the Anzac mothers. The 'Balkan War' defence of the
+  peninsula he credits to Kemal is his own reading.
+sources:
+  - url: https://gg.govt.nz/publications/international-ceremony-canakkale-memorial
+    archived: https://web.archive.org/web/20190918194236/https://gg.govt.nz/publications/international-ceremony-canakkale-memorial
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    gg.govt.nz/publications/international-ceremony-canakkale-memorial: the speech text as published by the
+    Governor-General's office
+  method: >-
+    the site answers scripts with a bot check; the page was opened in a browser and its text read
+  note: >-
+    Read on 18 Nov 2026. The site gives the issue date 25 April 1990 and the speaker. Entered and checked by
+    the same reader; no second reader yet.
+  checked_on: "2026-11-18"

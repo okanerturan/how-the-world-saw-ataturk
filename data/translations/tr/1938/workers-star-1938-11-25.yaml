@@ -1,0 +1,30 @@
+# Turkish for data/voices/1938/workers-star-1938-11-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: workers-star-1938-11-25
+voice: Workers Star
+role: Perth haftalık işçi gazetesi
+quote: >-
+  Kemal, Türkiye'de Büyük Savaş'tan hemen sonra son derece gerici feodal saltanatı devirmekte başarılı olan
+  burjuva devriminin lideriydi.
+quote_kind: translated
+summary: >-
+  Demokratların onu övmesine şaşıran 'cahil gericilere' yanıt: Türkiye'nin feodal saltanata karşı burjuva
+  devrimine önderlik etmiş ve demokratik reformlar getirmiştir.
+caveat: >-
+  S. 3'te imzasız kısa bir paragraf. Çerçeve (kapitalizmin 'an immense advance on feudalism' olarak, hâlâ 'in
+  its progressive stages' içinde görülmesi) Marksisttir; ayrıca onun 'not so much a dictator as his
+  predecessors, the Sultans' olduğunu söyler.
+verification_note: >-
+  18 Kasım 2026'da okundu; yazının tamamı dört cümledir ve alıntı görseldeki metinle birebir aynıdır. Aynı
+  okuyucu tarafından girildi ve kontrol edildi; henüz ikinci bir okuyucu kontrol etmedi.
+verification_method: makale görseli ve Trove metni tarayıcıda okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: a66bbe0e558e
+  role: 35ab707db949
+  quote: d47fbd135871
+  summary: ec97f3e42ca5
+  caveat: 6f0a63c52e25
+  verification_note: dc554b9ff182
+  verification_method: 41a6f3d53a55

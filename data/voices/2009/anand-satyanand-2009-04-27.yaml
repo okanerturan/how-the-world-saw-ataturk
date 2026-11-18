@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: anand-satyanand-2009-04-27
+voice: Sir Anand Satyanand
+role: Governor-General of New Zealand
+voice_type: person
+country: New Zealand
+country_now: New Zealand
+domain: diplomacy
+era: posthumous
+artifact: speech
+evidence: P
+node: New Zealand's Governors-General at Gallipoli, 1990–2026
+date: "2009-04-27"
+polarity: admiring
+intensity: 2
+summary: >-
+  At a state dinner in Çankaya: the 'father of New Zealand's relationship with Turkey', a man of vision whose
+  outstretched hand won New Zealanders' hearts.
+quote:
+  text: >-
+    Ataturk was a man of vision. He had a clear understanding that Turkey's future could only be secure if it
+    was settled as a nation, within a region and within a world at peace. He held out his hand to New Zealand,
+    and to other countries that had been foes at Gallipoli. That noble gesture secured his place in the hearts
+    of New Zealanders.
+  language: en
+caveat: >-
+  Toast at the state dinner at the Çankaya Presidential Palace, Ankara, on his state visit, two days after
+  Anzac Day at Gallipoli. He also says Kemal 'went on to transform Turkey into an independent, democratic,
+  secular nation-state'.
+sources:
+  - url: https://gg.govt.nz/publications/state-dinner-2
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    gg.govt.nz/publications/state-dinner-2: the speech text as published by the Governor-General's office
+  method: >-
+    the site answers scripts with a bot check; the page was opened in a browser and its text read
+  note: >-
+    Read on 18 Nov 2026. The site gives the issue date 27 April 2009 and the speaker. No archived copy was
+    found. Entered and checked by the same reader; no second reader yet.
+  checked_on: "2026-11-18"

@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: kalgoorlie-miner-1922-10-14
+voice: Kalgoorlie Miner
+voice_type: press
+role: Western Australian daily
+country: Australia
+country_now: Australia
+domain: press
+date: "1922-10-14"
+era: contemporary
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Leader crediting the Mudanya armistice and peace to Kemal's personality: a restraining, reforming patriot,
+  'no dictator', who could have had war but avoided it.
+quote:
+  text: >-
+    We shall probably be very near the mark if we ascribe the Mudania success and the preservation of peace so
+    far to the personality of Mustapha Kemal Pasha.
+  language: en
+caveat: >-
+  The paper says it takes his aims 'on the authority of an Englishman who has long known him well'; the long
+  biography that follows (Salonika, Anafarta, the 1917 memorandum to Enver) rests on that account. 'To say
+  that Kemal wanted war is silly' is also its own.
+node: Australian Editors on Kemal after Chanak, October 1922
+sources:
+  - url: https://trove.nla.gov.au/newspaper/article/93230845
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Kalgoorlie Miner, 14 Oct 1922, p. 4, leader "MUSTAPHA KEMAL PASHA.": Trove article 93230845, page image
+    and text
+  method: read the article image and Trove text in a browser
+  note: >-
+    Read on 18 Nov 2026; the quote is verbatim on the image. Entered and checked by the same reader; no second
+    reader yet.
+  checked_on: "2026-11-18"

@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: workers-star-1938-11-25
+voice: Workers Star
+voice_type: press
+role: Perth workers' weekly
+country: Australia
+country_now: Australia
+domain: press
+date: "1938-11-25"
+era: funeral
+polarity: admiring
+intensity: 2
+artifact: editorial
+evidence: P
+summary: >-
+  Answering 'illiterate reactionaries' surprised that democrats praised him: he led Turkey's bourgeois
+  revolution against the feudal sultanate and introduced democratic reforms.
+quote:
+  text: >-
+    Kemal was the leader of the bourgeois revolution in Turkey, which was successful just after the Great War
+    in overthrowing the intensely reactionary feudal sultanate.
+  language: en
+caveat: >-
+  A short unsigned paragraph on p. 3. The frame (capitalism as 'an immense advance on feudalism', still 'in
+  its progressive stages') is Marxist; it also says he was 'not so much a dictator as his predecessors, the
+  Sultans'.
+node: Perth Western Mail on Turkey After Atatürk, 17 November 1938
+sources:
+  - url: https://trove.nla.gov.au/newspaper/article/240637647
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Workers Star (Perth), 25 Nov 1938, p. 3, "KEMAL ATATURK": Trove article 240637647, page image and text
+  method: read the article image and Trove text in a browser
+  note: >-
+    Read on 18 Nov 2026; the whole item is four sentences and the quote is verbatim on the image. Entered and
+    checked by the same reader; no second reader yet.
+  checked_on: "2026-11-18"

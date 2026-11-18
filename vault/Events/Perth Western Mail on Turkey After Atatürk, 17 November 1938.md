@@ -2,8 +2,8 @@
 type: event
 when: 17 November 1938
 tags: [event, verified, obituary-corpus]
-gazes: 1
-polarity: [instrumental]
+gazes: 2
+polarity: [instrumental, admiring]
 mirror: []
 era: [funeral]
 ---
@@ -32,13 +32,9 @@ sets it apart from the New Zealand leaders in [[New Zealand Leaders on Kemal, No
 
 ⚠️ **Other Trove items, listed not read:** *West Australian* 15 Nov p. 17 "Monument for Ataturk" (Reuter
 wire, read by agent); *Courier-Mail* 10 Nov "Ataturk Seriously Ill"; *Albury Banner* 18 Nov "Ataturk's
-Successor"; *Warwick Daily News* 1 Dec "Ataturk's Estate". And a **Workers Star** (Perth, labour
-weekly) paragraph, 25 Nov 1938 p. 3, headed "KEMAL ATATURK," which a browse agent transcribed as a
-Marxist defence of the Turkish "bourgeois revolution" against "certain illiterate reactionaries" who
-had objected to democrats praising a dictator — *agent-reported only; the Trove page's text layer
-did not load on re-fetch, so no quotation is made here.* If confirmed it would be the first
-Communist-press gaze in the Commonwealth set (compare the Marxist mirror in
-[[Death and State Funeral of Atatürk]]).
+Successor"; *Warwick Daily News* 1 Dec "Ataturk's Estate". 
+
+**Workers Star, 25 November 1938, p. 3, "KEMAL ATATURK"** (read on the page image, 18 Nov 2026). A four-sentence paragraph in the Perth workers' weekly answers "certain illiterate reactionaries" who were surprised that democrats "should have lauded the achievements of Kemal Ataturk, dictator of Turkey": "Kemal was the leader of the bourgeois revolution in Turkey, which was successful just after the Great War in overthrowing the intensely reactionary feudal sultanate." Capitalism, it goes on, is "an immense advance on feudalism", and he "was not so much a dictator as his predecessors, the Sultans". Record: `workers-star-1938-11-25`.
 
 ## Sources
-- Trove: [Western Mail (Perth), 17 Nov 1938, p. 6](https://trove.nla.gov.au/newspaper/article/37857887) (rendered and read) · Workers Star 25 Nov 1938 [article 240637647](https://trove.nla.gov.au/newspaper/article/240637647) (agent-reported lead)
+- Trove: [Western Mail (Perth), 17 Nov 1938, p. 6](https://trove.nla.gov.au/newspaper/article/37857887) (rendered and read) · Workers Star 25 Nov 1938 [article 240637647](https://trove.nla.gov.au/newspaper/article/240637647) (read on the page image)

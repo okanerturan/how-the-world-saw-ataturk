@@ -1,0 +1,31 @@
+# Turkish for data/voices/1990/paul-reeves-1990-04-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: paul-reeves-1990-04-25
+voice: Sir Paul Reeves
+role: Yeni Zelanda Genel Valisi
+quote: >-
+  Müttefik generaller onun askeri sicilini ve özellikle de sadece üç yıl önce Balkan Savaşı'nda Gelibolu
+  Yarımadası'nda gerçekleştirdiği parlak savunmayı incelemiş olsalardı, önlerinde uzanan güçlükleri daha
+  gerçekçi bir biçimde değerlendirebilirlerdi.
+quote_kind: translated
+summary: >-
+  75. Anzak Günü'nde: Müttefik generaller Kemal'in sicilini incelemeliydi; onun 'Yurtta sulh, cihanda sulh'
+  şiarı bizim görevimizdir.
+caveat: >-
+  Çıkarmaların 75. yıl dönümünde Çanakkale Şehitler Abidesi'nde düzenlenen uluslararası tören (sitede
+  'Cannakklae' yazmaktadır). Ayrıca Atatürk'ün 1934 yılında Anzak annelerine hitaben söylediği sözleri de
+  okudu. Yarımadanın 'Balkan Savaşı'ndaki savunmasını Kemal'e atfetmesi kendi yorumudur.
+verification_note: >-
+  18 Kasım 2026'da okundu. Site yayım tarihini 25 Nisan 1990 olarak ve konuşmacıyı veriyor. Aynı okuyucu
+  tarafından girildi ve kontrol edildi; henüz ikinci bir okuyucu yok.
+verification_method: site betiklere bot kontrolüyle yanıt veriyor; sayfa bir tarayıcıda açıldı ve metni okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 092d0c2fe8dd
+  role: 30ec02d78e59
+  quote: 1c38e46f26f2
+  summary: a69b41a893a8
+  caveat: 1b6289c89ddf
+  verification_note: 2ad68d60ea27
+  verification_method: 299c17c2f6cc

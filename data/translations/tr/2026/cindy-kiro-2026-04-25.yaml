@@ -1,0 +1,30 @@
+# Turkish for data/voices/2026/cindy-kiro-2026-04-25.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: cindy-kiro-2026-04-25
+voice: Dame Cindy Kiro
+role: Yeni Zelanda Genel Valisi
+quote: >-
+  Burada, Conkbayırı'nda, Yeni Zelanda Anıtı ile o büyük asker ve ileri görüşlü devlet adamı Mustafa Kemal
+  Atatürk'ün heykelinin yalnızca birkaç metre arayla yükselmesi, Yeni Zelanda'nın Türkiye halkıyla olan derin
+  ve kalıcı ilişkisinin yerinde bir ifadesidir.
+quote_kind: translated
+summary: >-
+  2026 Anzak Günü'nde Conkbayırı'nda, heykeli Yeni Zelanda Anıtı'nın yanında yükselen Atatürk'ü "o büyük asker
+  ve ileri görüşlü devlet adamı" olarak nitelendirdi.
+caveat: >-
+  Conkbayırı'ndaki Yeni Zelanda Ulusal Töreni, Gelibolu, Anzak Günü 2026. Yeni Zelandalı kayıpların anıldığı
+  bir törende geçerken yapılan bir saygı atfı.
+verification_note: >-
+  18 Kasım 2026'da okundu. Sitede yayım tarihi 25 Nisan 2026 ve konuşmacı belirtiliyor. Aynı okur tarafından
+  girildi ve kontrol edildi; henüz ikinci bir okur kontrol etmedi.
+verification_method: site betiklere bot kontrolüyle yanıt veriyor; sayfa bir tarayıcıda açıldı ve metni okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 376d37bdf1ba
+  role: 30ec02d78e59
+  quote: 956a08e424b5
+  summary: 7ce4cdf2e0c2
+  caveat: 3c54b5e8cf69
+  verification_note: 565d18422e4e
+  verification_method: 299c17c2f6cc

@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: cindy-kiro-2026-04-25
+voice: Dame Cindy Kiro
+role: Governor-General of New Zealand
+voice_type: person
+country: New Zealand
+country_now: New Zealand
+domain: diplomacy
+era: posthumous
+artifact: speech
+evidence: P
+node: New Zealand's Governors-General at Gallipoli, 1990–2026
+date: "2026-04-25"
+polarity: admiring
+intensity: 1
+summary: >-
+  At Chunuk Bair on Anzac Day 2026, called Atatürk 'that great soldier and visionary statesman', whose statue
+  stands beside the New Zealand Memorial.
+quote:
+  text: >-
+    Here at Chunuk Bair, it is a fitting acknowledgement of New Zealand’s deep and enduring relationship with
+    the people of Türkiye that the New Zealand Memorial and the statue of Mustafa Kemal Atatürk – that great
+    soldier and visionary statesman – stand just a few metres apart.
+  language: en
+caveat: >-
+  New Zealand National Service at Chunuk Bair, Gallipoli, Anzac Day 2026. A passing tribute in a commemoration
+  of the New Zealand dead.
+sources:
+  - url: https://gg.govt.nz/publications/anzac-day-2026-new-zealand-national-service-chunuk-bair
+    archived: https://web.archive.org/web/20260427235358/https://gg.govt.nz/publications/anzac-day-2026-new-zealand-national-service-chunuk-bair
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    gg.govt.nz/publications/anzac-day-2026-new-zealand-national-service-chunuk-bair: the speech text as
+    published by the Governor-General's office
+  method: >-
+    the site answers scripts with a bot check; the page was opened in a browser and its text read
+  note: >-
+    Read on 18 Nov 2026. The site gives the issue date 25 April 2026 and the speaker. Entered and checked by
+    the same reader; no second reader yet.
+  checked_on: "2026-11-18"
