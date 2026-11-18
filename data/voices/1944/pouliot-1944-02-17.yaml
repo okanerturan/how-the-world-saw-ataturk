@@ -21,10 +21,10 @@ quote:
     a very great man-both of them.
   language: en
 caveat: >-
-  A sarcastic aside in a debate on the war effort: the 'very great man' is said ironically of a leader who
+  A sarcastic aside in the war appropriation debate: the 'very great man' is said ironically of a leader who
   picked his own opposition, as Kemal did with the Free Republican Party in 1930 (the archive's gloss; Pouliot
-  names no party). LiPaD shows the speaker as Mr. POULIOT, who calls himself 'elected by the people of
-  Temiscouata'.
+  names no party). LiPaD leaves the block unattributed; the speaker is named in the text ('Mr. POULIOT: Yes,
+  union government.') and calls himself 'elected by the people of Temiscouata'.
 node: Canada's Commons Invokes Kemal, 1944–2004
 sources:
   - url: https://www.lipad.ca/full/permalink/1329839
@@ -35,6 +35,7 @@ verification:
   method: >-
     LiPaD answers scripts with a bot check; the speech was opened in a browser and its text read
   note: >-
-    Read on 18 Nov 2026. The sitting is 17 February 1944 (19th Parliament, 5th Session). Entered and checked
-    by the same reader; no second reader yet.
+    Read on 18 Nov 2026. The sitting is 17 February 1944 (19th Parliament, 5th Session). A second reader
+    re-read the source on 18 Nov 2026 and confirmed the quote; the caveat now says how the speaker is
+    identified.
   checked_on: "2026-11-18"

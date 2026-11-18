@@ -2060,3 +2060,4 @@ Counts: 998 records, 817 voices, 867 quotes (490 machine-translated); confirmed 
 
 Counts: 1001 records, 820 voices, 870 quotes; confirmed 815.
 - A second reader re-read the three German pages the same day: quotes confirmed. Corrected: the Hamburger Tageblatt's 'Granit' sentence is near the end, not the last; the Stuttgart piece complains that Kemal failed to send congratulations (the first draft read it as a greeting from Hindenburg he ignored), its 'd.' is the dateline mark, and only power stations and factories are called German-built; Weizsäcker's call was on the ambassador.
+- A second reader re-read the three Hansard speeches: quotes confirmed. Lalonde spoke in French (she says so in the speech), so her quote is the Hansard's official English, now marked as a translation; openparliament.ca has no French for 2004. Pouliot is named only in the text, not by LiPaD's header. Day's summary no longer says he praised the republic.

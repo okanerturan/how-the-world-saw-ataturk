@@ -9,15 +9,16 @@ quote: >-
   tanıdı ve hakkında yorum yaptı.
 quote_kind: translated
 summary: >-
-  Ermeni soykırımını tanıma önergesini desteklerken, Atatürk'ün kurduğu cumhuriyeti övdü ve bizzat Atatürk'ün
-  de soykırımı tanıdığını iddia etti.
+  Ermeni soykırımının tanınmasına yönelik bir önergeyi desteklerken, Atatürk yönetiminde gelişen cumhuriyeti
+  anlattı ve bizzat Atatürk'ün de soykırımı tanıdığını iddia etti.
 caveat: >-
   Oylamadan bir gün önce, Ermeni soykırımını tanımaya yönelik bir milletvekili önergesi üzerine tartışma. Day
   ayrıca cumhuriyetin 'developed after 1923 under Ataturk' ile, 'albeit a one-party state' (tek partili bir
   devlet olsa da) modern bir devlete dönüştüğünü söyledi. Atatürk'ün soykırımı tanıdığı kendi iddiasıdır,
   burada doğrulanmamıştır; arşiv bunu söylendiği şekliyle kaydeder.
 verification_note: >-
-  18 Kasım 2026 tarihinde okundu. Aynı okur tarafından girildi ve kontrol edildi; henüz ikinci bir okur yok.
+  18 Kasım 2026 tarihinde okundu. İkinci bir okuyucu 18 Kasım 2026 tarihinde kaynağı yeniden okuyarak alıntıyı
+  ve çekince notundaki ifadeleri doğruladı; LiPaD kendisini 'Okanagan—Coquihalla, CPC' olarak vermektedir.
 verification_method: >-
   LiPaD betiklere bot kontrolüyle yanıt veriyor; konuşma bir tarayıcıda açıldı ve metni okundu
 translated_by: "machine: gemini-4-argon-medium"
@@ -25,7 +26,7 @@ source_fingerprints:
   voice: 77c597fcf156
   role: 90b3fa81eb1b
   quote: 2002605ddc67
-  summary: 37d188bb1434
+  summary: 70f1f9da7e53
   caveat: 83a2cd3cb9e8
-  verification_note: d5f1e48c1d1a
+  verification_note: 8e93c1e2db56
   verification_method: eaa418f1dea1

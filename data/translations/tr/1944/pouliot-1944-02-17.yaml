@@ -12,13 +12,15 @@ summary: >-
   Hükümeti yalnızca muhalefet liderlerini gizlice bilgilendirdiği için eleştirirken, bu durumu Kemal'in kendi
   ana muhalefet liderini kendisinin seçmesine benzetti.
 caveat: >-
-  Savaş çabalarına ilişkin bir tartışmada alaycı bir ara söz: 'very great man' (çok büyük bir adam) ifadesi,
-  Kemal'in 1930'da Serbest Cumhuriyet Fırkası ile yaptığı gibi (arşivin notu; Pouliot herhangi bir parti adı
-  vermez) kendi muhalefetini seçen bir lider için ironik olarak söylenmiştir. LiPaD konuşmacıyı, kendisini
-  'elected by the people of Temiscouata' olarak tanımlayan Mr. POULIOT olarak gösterir.
+  Savaş ödeneği görüşmeleri sırasındaki alaycı bir ara söz: 'very great man' ifadesi, Kemal'in 1930'da Serbest
+  Cumhuriyet Fırkası ile yaptığı gibi kendi muhalefetini kendi seçen bir lider için ironik olarak
+  kullanılmıştır (arşivin açıklaması; Pouliot parti adı vermez). LiPaD bu konuşma bloğunu konuşmacısız
+  bırakmıştır; konuşmacının adı metnin içinde geçer ('Mr. POULIOT: Yes, union government.') ve kendisinden
+  'elected by the people of Temiscouata' diye söz eder.
 verification_note: >-
-  18 Kasım 2026 tarihinde okundu. Oturum tarihi 17 Şubat 1944'tür (19. Parlamento, 5. Yasama Dönemi). Aynı
-  okur tarafından girildi ve kontrol edildi; henüz ikinci bir okur yok.
+  18 Kasım 2026 tarihinde okundu. Oturum tarihi 17 Şubat 1944'tür (19. Parlamento, 5. Dönem). İkinci bir
+  okuyucu 18 Kasım 2026 tarihinde kaynağı yeniden okuyarak alıntıyı doğruladı; çekince notu artık konuşmacının
+  nasıl tespit edildiğini belirtmektedir.
 verification_method: >-
   LiPaD betiklere bot kontrolüyle yanıt veriyor; konuşma bir tarayıcıda açıldı ve metni okundu
 translated_by: "machine: gemini-4-argon-medium"
@@ -27,6 +29,6 @@ source_fingerprints:
   role: 341aa2d6ee8f
   quote: 0e056ad07402
   summary: 54f740cec9c4
-  caveat: c133fbd7fbf5
-  verification_note: 43af0e9452d7
+  caveat: 7e91d0971d72
+  verification_note: 044ee6a828a3
   verification_method: eaa418f1dea1
