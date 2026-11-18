@@ -13,23 +13,30 @@ intensity: 2
 artifact: report
 evidence: P
 summary: >-
-  Members received the death with profound sorrow; Muslim shops closed, mosques prayed; report says Muslim
-  leadership, not the reforms, drew the tribute.
+  Its members received the news of his death with sorrow and grief, the Morning Tribune reported; Muslim shops
+  closed and mosques prayed for him.
 quote:
-  text: with profound sorrow
+  text: >-
+    received the news of the death of Ataturk Mustapha Kemal Pasha, virtual dictator of Turkey, with profound
+    sorrow and grief
   language: en
 mediated_by: Morning Tribune staff reporter, 12 Nov 1938
 caveat: >-
-  Browse-agent reading of NewspaperSG; body text behind T&C wall; poor OCR; last-sentence wording is paraphrase
+  The words are the reporter's description of the members' reaction, not a statement by the society. The shop
+  closures and prayers are reported for Singapore Muslims generally. The paper's closing comment is in
+  morning-tribune-1938.
 node: Malaya Muslims Mourn Atatürk, November 1938
 sources:
   - url: https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19381112-1.2.107
 verification:
-  verdict: unreachable
+  verdict: confirmed
+  quote_found: true
   checked_against: >-
-    https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19381112-1.2.107 (bot_blocked;
-    render shows T&C wall)
-  method: render
-  note: Quote 'with profound sorrow' and attribution to this society not verified.
-  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+    Morning Tribune, 12 Nov 1938, p. 24, "LOCAL MUSLIMS MOURN ATATURK'S DEATH" (Tribune Staff Reporter),
+    article image on NewspaperSG
+  method: read the article image in a browser
+  note: >-
+    Read on the page image on 18 Nov 2026; until then the record was unchecked. The society is named in the
+    first sentence; the quote was 'with profound sorrow', and the page has 'with profound sorrow and grief'.
+    No archived copy: NewspaperSG shows a terms page first.
+  checked_on: "2026-11-18"

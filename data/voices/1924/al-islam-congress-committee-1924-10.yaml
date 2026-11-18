@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: al-islam-congress-committee-1924-10
+voice: Al-Islam Congress standing committee
+voice_type: institution
+role: Standing committee elected at the second Al-Islam Congress (Garut, May 1924)
+country: Dutch East Indies
+country_now: Indonesia
+domain: religion
+date: "1924-10"
+era: contemporary
+polarity: admiring
+intensity: 3
+artifact: letter
+evidence: S
+summary: >-
+  Asked the Surabaya caliphate meeting of October 1924 to nominate Mustafa Kemal as the new caliph; the
+  meeting debated it and chose Mecca instead.
+mediated_by: >-
+  Martin van Bruinessen, 'Muslims of the Dutch East Indies and the Caliphate Question', Studia Islamika 2(3),
+  1995 ← R.A. Kern's report on the meeting to the governor general, 23 Oct 1924 ('Kalifaatsaktie', KITLV, Kern
+  collection H 797 no. 316)
+caveat: >-
+  Known only from the Dutch adviser's report as van Bruinessen retells it; the letter's words are not given.
+  Tjokroaminoto's answer to it is tjokroaminoto-1924-10.
+node: The Surabaya Caliphate Meeting, October 1924
+sources:
+  - url: https://doi.org/10.15408/sdi.v2i3.829
+  - url: http://www.let.uu.nl/~martin.vanbruinessen/personal/publications/caliphate_question.htm
+    archived: https://web.archive.org/web/20080402114916/http://www.let.uu.nl/~martin.vanbruinessen/personal/publications/caliphate_question.htm
+verification:
+  verdict: secondary-only
+  checked_against: >-
+    van Bruinessen 1995, section 'The caliphate committee', in the author's HTML copy (Wayback Machine, 2 Apr
+    2008); not the printed pages
+  method: read the archived text
+  note: >-
+    The article: the standing committee 'sent a letter to the Surabaya meeting requesting it to nominate
+    Mustafa Kemal as the new caliph'; it was elected at the Garut congress of May 1924. Read and entered on 18
+    Nov 2026 from the article alone; Kern's report was not seen, and no second reader has opened the article
+    yet.
+  checked_on: "2026-11-18"

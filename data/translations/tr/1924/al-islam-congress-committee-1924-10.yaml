@@ -1,0 +1,30 @@
+# Turkish for data/voices/1924/al-islam-congress-committee-1924-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: al-islam-congress-committee-1924-10
+voice: Al-Islam Kongresi Daimi Komitesi
+role: İkinci Al-Islam Kongresi'nde seçilen daimi komite (Garut, Mayıs 1924)
+summary: >-
+  Ekim 1924'teki Surabaya hilafet toplantısından Mustafa Kemal'i yeni halife olarak aday göstermesini istedi;
+  toplantı bunu tartıştı ve onun yerine Mekke'yi seçti.
+caveat: >-
+  Yalnızca Hollandalı danışmanın raporundan, van Bruinessen'in aktardığı şekliyle bilinmektedir; mektubun
+  kendi sözleri verilmemiştir. Tjokroaminoto'nun buna verdiği yanıt tjokroaminoto-1924-10 kaydındadır.
+mediated_by: >-
+  Martin van Bruinessen, 'Muslims of the Dutch East Indies and the Caliphate Question', Studia Islamika 2(3),
+  1995 ← R.A. Kern'in toplantı hakkında genel valiye sunduğu rapor, 23 Ekim 1924 ('Kalifaatsaktie', KITLV,
+  Kern koleksiyonu H 797 sayı 316)
+verification_note: >-
+  Makale: daimi komite 'sent a letter to the Surabaya meeting requesting it to nominate Mustafa Kemal as the
+  new caliph'; komite Mayıs 1924'teki Garut kongresinde seçilmişti. 18 Kasım 2026'da yalnızca makaleden
+  okunarak girildi; Kern'in raporu görülmedi ve makaleyi henüz ikinci bir okuyucu açmadı.
+verification_method: arşivlenmiş metin okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 058e4759dc34
+  role: a1d8efec5bf6
+  summary: 52f0b0980f51
+  caveat: 8f6ac9efbdf6
+  mediated_by: 5fec83c00f1e
+  verification_note: 149da7b81a08
+  verification_method: cf64788808c3

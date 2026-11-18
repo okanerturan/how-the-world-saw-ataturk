@@ -15,17 +15,10 @@ era: [funeral]
 NewspaperSG (the National Library Board's digitised archive): what the Singapore and Malayan dailies
 printed about local Muslims in the fortnight after the death. A keyword search for *ataturk*,
 10–30 November 1938, returned 15 hits; the Muslim-reaction items are below, graded by how far the
-text could be confirmed (the archive puts its article pages behind a terms-and-conditions wall, so
-body text could only be read through a browse agent).
+text could be confirmed (the archive puts its article pages behind a terms-of-use page, which a script cannot pass;
+the Morning Tribune item was read in a browser).
 
-**Read (two browse retrievals agree).** *Morning Tribune*, 12 November 1938, p. 24: **"LOCAL MUSLIMS MOURN ATATURK'S DEATH."** A *Tribune* staff reporter
-writes that Singapore Muslims, members of the All Malaya Muslim Missionary Society, received the news
-of Atatürk's death "with profound sorrow"; Muslim shops and business establishments in Chulia Street,
-Market Street and Arab Street were closed; the important mosques of the Colony held special prayers
-after the Friday congregation; and — the sentence that matters — the report says that **whatever
-Muslims elsewhere might think of his reforms, the fact that he was a Muslim leader alone called forth
-spontaneous tribute.** (The last two details come from the page-level read only; ⚠️ the reading is a
-browse agent's transcription, the OCR is poor, and the wording above is paraphrase, not quotation.)
+**Read on the page image (18 Nov 2026).** *Morning Tribune*, 12 November 1938, p. 24: **"LOCAL MUSLIMS MOURN ATATURK'S DEATH"** (Tribune Staff Reporter). Singapore Muslims, members of the All Malaya Muslim Missionary Society, "received the news of the death of Ataturk Mustapha Kemal Pasha, virtual dictator of Turkey, with profound sorrow and grief." Muslim shops and businesses in Chulia Street, Market Street, Arab Street and elsewhere closed "as mark of sorrow for the loss of the great leader of the Islamic country"; the important mosques of the Colony held special prayers after the Friday congregation. The last sentence is the paper's own: **"Whatever might have been the opinions of Muslims of other countries on his reforms, the fact that he was a Muslim leader alone called forth spontaneous tribute to the Ghazi."**
 
 That is the whole Malayan thesis in one line: the mourning is for the *Muslim leader*, with the
 reforms held in brackets — the opposite pole from the Indian "Asian hero" register in

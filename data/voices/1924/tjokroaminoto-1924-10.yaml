@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: tjokroaminoto-1924-10
+voice: H. O. S. Tjokroaminoto
+voice_type: person
+role: Sarekat Islam leader
+country: Dutch East Indies
+country_now: Indonesia
+domain: politics
+date: "1924-10"
+era: contemporary
+polarity: conflicted
+intensity: 1
+artifact: speech
+evidence: S
+summary: >-
+  Answering a proposal to make Kemal caliph, said he approved of Turkey's attitude but it was too early to
+  judge the aims of Kemal's secularization.
+mediated_by: >-
+  Martin van Bruinessen, 'Muslims of the Dutch East Indies and the Caliphate Question', Studia Islamika 2(3),
+  1995 ← R.A. Kern's report on the meeting to the governor general, 23 Oct 1924 ('Kalifaatsaktie', KITLV, Kern
+  collection H 797 no. 316)
+caveat: >-
+  Reported speech: the Dutch adviser's summary as van Bruinessen retells it, not his words. The proposal he
+  answered is al-islam-congress-committee-1924-10. In the same meeting he called the caliph the worldly and
+  spiritual head of all Muslims.
+node: The Surabaya Caliphate Meeting, October 1924
+sources:
+  - url: https://doi.org/10.15408/sdi.v2i3.829
+  - url: http://www.let.uu.nl/~martin.vanbruinessen/personal/publications/caliphate_question.htm
+    archived: https://web.archive.org/web/20080402114916/http://www.let.uu.nl/~martin.vanbruinessen/personal/publications/caliphate_question.htm
+verification:
+  verdict: secondary-only
+  checked_against: >-
+    van Bruinessen 1995, section 'The caliphate committee', in the author's HTML copy (Wayback Machine, 2 Apr
+    2008); not the printed pages
+  method: read the archived text
+  note: >-
+    The article: 'Tjokroaminoto affirmed that he approved of Turkey's attitude but thought it was too early to
+    judge what the aims of Mustafa Kemal's secularization were.' Read and entered on 18 Nov 2026 from the
+    article alone; Kern's report was not seen, and no second reader has opened the article yet.
+  checked_on: "2026-11-18"

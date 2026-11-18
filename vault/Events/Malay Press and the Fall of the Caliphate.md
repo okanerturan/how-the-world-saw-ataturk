@@ -2,7 +2,7 @@
 type: event
 when: 1924–1930s
 tags: [event, verified, obituary-corpus]
-gazes: 4
+gazes: 3
 polarity: [conflicted, hostile, witness]
 mirror: [apostate]
 era: [contemporary]
@@ -29,10 +29,10 @@ Malaya is the census's first **indifference** card: the place where the Caliphat
   claim is the textbook's.)
 
 The shape: **Malay court + British control = muffled Caliphate sentiment; Kaum Muda reformist
-press = sustained but divided interest in Turkey.** Compare the Dutch East Indies press, which
-a Cambridge University Press book chapter (snippet read; title not extracted) says was "overall
-unconcerned" with the Ottoman defeat and "supportive of Mustafa Kemal's actions" until a Surabaya
-Caliphate Committee formed in October 1924 (see Sukarno).
+press = sustained but divided interest in Turkey.** Compare the Dutch East Indies, where public opinion, Chiara Formichi writes (*Islam and Asia*, 2020,
+p. 128), was "overall unconcerned" with the Ottoman defeat and "supportive of Mustafa Kemal's
+actions" until a caliphate committee was set up in Surabaya in late 1924 (see
+[[The Surabaya Caliphate Meeting, October 1924]]).
 
 *Recorded gap:* NLB NewspaperSG (the Straits Times / *Malaya Tribune* / *Warta Malaya* archive)
 blocks automated fetch; the Nov 1938 Malayan press is a browser-queue item.

@@ -4,22 +4,28 @@
 id: morning-tribune-1938
 voice: Morning Tribune
 role: Singapur günlük gazetesi
-quote: YEREL MÜSLÜMANLAR ATATÜRK'ÜN ÖLÜMÜNÜN YASINI TUTUYOR
+quote: >-
+  Diğer ülkelerdeki Müslümanların onun reformları hakkındaki görüşleri ne olursa olsun, yalnızca Müslüman bir
+  lider olması gerçeği bile Gazi'ye kendiliğinden bir saygı gösterilmesini sağladı.
 quote_kind: translated
 summary: >-
-  'LOCAL MUSLIMS MOURN ATATURK'S DEATH' başlığı altında yerel Müslümanların yasını haberleştirdi; kendi
-  editoryal görüşü yok.
+  Singapur Müslümanlarının 'İslam ülkesinin büyük lideri' için tuttuğu yası haberleştirdi; bu saygıyı çeken
+  şeyin reformları değil, Müslüman bir lider olması olduğunu ekledi.
 caveat: >-
-  Başkalarının tepkisinin haberi; tarayıcı aracısı ile erişim; metin kontrol edilmedi (kaynağa erişilemedi, 29
-  Ekim 2026)
-verification_note: Başlık doğrulanmadı.
-verification_method: sayfa işleme
+  Başyazı değil, kadrolu bir muhabirin kısa haberidir (s. 24). Son cümle gazetenin kendi yorumudur; geri
+  kalanı başkalarının yasını aktarmaktadır (bkz. all-malaya-muslim-missionary-society-1938).
+verification_note: >-
+  NewspaperSG'nin kullanım koşullarını kabul ettikten sonra 18 Kasım 2026'da sayfa görüntüsünden okundu; o
+  tarihe kadar kayıt kontrol edilmemişti. Kayıtta daha önce yalnızca manşet alıntılanıyor ve gazetenin kendi
+  görüşünü belirtmediği söyleniyordu; son cümle gazetenin kendi yorumudur. Arşivlenmiş kopya yok: NewspaperSG
+  önce bir kullanım koşulları sayfası göstermektedir.
+verification_method: makale görüntüsü tarayıcıda okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 8a3b791f48b8
   role: d44651cd35f7
-  quote: 7ef99f3806cb
-  summary: d6d6fa525679
-  caveat: b8f9bd1facd0
-  verification_note: e6d151b2df87
-  verification_method: 37eca5751d1f
+  quote: 58dfb28bb7ee
+  summary: d09677eaefd8
+  caveat: f63d72c4a39c
+  verification_note: 8d435a60b7c8
+  verification_method: 575e481ab4a0

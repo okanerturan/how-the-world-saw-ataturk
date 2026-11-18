@@ -1,0 +1,31 @@
+# Turkish for data/voices/1924/tjokroaminoto-1924-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: tjokroaminoto-1924-10
+voice: H. O. S. Tjokroaminoto
+role: Sarekat Islam lideri
+summary: >-
+  Kemal'i halife yapma önerisine yanıt verirken, Türkiye'nin tutumunu onayladığını ancak Kemal'in
+  laikleştirmesinin amaçları hakkında hüküm vermek için henüz çok erken olduğunu söyledi.
+caveat: >-
+  Dolaylı anlatım: kendi sözleri değil, Hollandalı danışmanın özetinin van Bruinessen tarafından yeniden
+  aktarımıdır. Yanıtladığı öneri: al-islam-congress-committee-1924-10. Aynı toplantıda halifeyi tüm
+  Müslümanların dünyevi ve ruhani lideri olarak nitelendirmiştir.
+mediated_by: >-
+  Martin van Bruinessen, 'Muslims of the Dutch East Indies and the Caliphate Question', Studia Islamika 2(3),
+  1995 ← R.A. Kern'in toplantı hakkında genel valiye sunduğu rapor, 23 Ekim 1924 ('Kalifaatsaktie', KITLV,
+  Kern koleksiyonu H 797 sayı 316)
+verification_note: >-
+  Makale: 'Tjokroaminoto affirmed that he approved of Turkey's attitude but thought it was too early to judge
+  what the aims of Mustafa Kemal's secularization were.' 18 Kasım 2026'da yalnızca makaleden okunarak girildi;
+  Kern'in raporu görülmedi ve makaleyi henüz ikinci bir okuyucu açmadı.
+verification_method: arşivlenmiş metin okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 9f4debd28804
+  role: 8d3f46098df6
+  summary: 40daa9aa178d
+  caveat: a54b8f6e6798
+  mediated_by: 5fec83c00f1e
+  verification_note: 0ae4bd91882e
+  verification_method: cf64788808c3

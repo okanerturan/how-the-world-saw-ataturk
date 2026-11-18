@@ -18,24 +18,23 @@ Every voice has its own link. The one above is [ataturk.fyi/#venizelos-1934-01-1
 
 | | |
 |---|---|
-| Records | 987 |
-| Distinct voice names (people, papers, institutions, groups) | 808 |
+| Records | 989 |
+| Distinct voice names (people, papers, institutions, groups) | 809 |
 | Present-day countries and territories (`country_now`) | 85, plus the European Union, the Council of Europe and UNESCO |
 | Years covered | 1908 to 2026 (107 year folders; 10 records are from before 1919; 1938 alone has 206 records) |
-| Records with the speaker's own words (`quote`) | 858, in 31 languages |
+| Records with the speaker's own words (`quote`) | 857, in 31 languages |
 | Quotes not in English | 500, each with an English translation: 487 by machine, 9 by a contributor, 4 the source's own |
-| Records with a stored source check | 987 (all) |
-| Records with a Turkish translation file | 987 (all) |
+| Records with a stored source check | 989 (all) |
+| Records with a Turkish translation file | 989 (all) |
 
 Source checks, by verdict:
 
 | Verdict | Records | Share |
 |---|---|---|
-| `confirmed` | 800 | 80% |
+| `confirmed` | 802 | 81% |
 | `partial` | 94 | 10% |
-| `paraphrase-ok` | 55 | 6% |
+| `paraphrase-ok` | 56 | 6% |
 | `secondary-only` | 32 | 3% |
-| `unreachable` | 3 | under 1% |
 | `not-found` | 3 | under 1% |
 | `contradicted` | 2 | under 1% |
 

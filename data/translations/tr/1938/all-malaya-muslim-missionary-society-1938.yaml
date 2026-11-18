@@ -4,24 +4,30 @@
 id: all-malaya-muslim-missionary-society-1938
 voice: All Malaya Muslim Missionary Society
 role: Singapur Müslüman cemiyeti
-quote: derin bir üzüntüyle
+quote: >-
+  Türkiye'nin fiili diktatörü Atatürk Mustafa Kemal Paşa'nın ölüm haberini derin bir üzüntü ve kederle
+  karşıladı
 quote_kind: translated
 summary: >-
-  Üyeler ölüm haberini derin bir üzüntüyle karşıladı; Müslüman dükkânları kapandı, camilerde dua edildi;
-  habere göre saygıyı uyandıran şey reformlar değil, Müslüman liderliğiydi.
+  Morning Tribune'ün haberine göre, üyeleri ölüm haberini üzüntü ve kederle karşıladı; Müslüman dükkânları
+  kapandı ve camilerde onun için dua edildi.
 caveat: >-
-  NewspaperSG'nin tarayıcı aracısı okuması; gövde metni kullanım koşulları duvarının arkasında; zayıf OCR; son
-  cümlenin ifadeleri dolaylı aktarımdır
+  Bu sözler cemiyetin bir açıklaması değil, muhabirin üyelerin tepkisini betimlemesidir. Dükkânların kapanması
+  ve dualar genel olarak Singapur Müslümanları için bildirilmektedir. Gazetenin kapanış yorumu
+  morning-tribune-1938 kaydındadır.
 mediated_by: Morning Tribune kadrolu muhabiri, 12 Kasım 1938
-verification_note: "'with profound sorrow' alıntısı ve bu cemiyete atfı doğrulanmadı."
-verification_method: sayfa işleme
+verification_note: >-
+  18 Kasım 2026'da sayfa görüntüsünden okundu; o tarihe kadar kayıt kontrol edilmemişti. Cemiyetin adı ilk
+  cümlede geçmektedir; alıntı 'with profound sorrow' şeklindeydi, sayfada ise 'with profound sorrow and grief'
+  yer almaktadır. Arşivlenmiş kopya yok: NewspaperSG önce bir kullanım koşulları sayfası göstermektedir.
+verification_method: makale görüntüsü tarayıcıda okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: fe550e28c8b7
   role: 4275965a06be
-  quote: 33f4f0ed5264
-  summary: ecf1f1561546
-  caveat: f4cf0c41389e
+  quote: d4f2f5724788
+  summary: 98a0ec238713
+  caveat: 571298c46a22
   mediated_by: 00b6100a8e81
-  verification_note: 49374ad41fd1
-  verification_method: 37eca5751d1f
+  verification_note: 820868e83d60
+  verification_method: 575e481ab4a0

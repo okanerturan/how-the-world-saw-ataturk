@@ -8,27 +8,33 @@ country_now: Singapore
 domain: press
 date: "1938-11-12"
 era: funeral
-polarity: witness
+polarity: admiring
 intensity: 1
 artifact: article
 evidence: P
 summary: >-
-  Reported local Muslim mourning under the headline 'LOCAL MUSLIMS MOURN ATATURK'S DEATH'; no editorial view
-  of its own.
+  Reported Singapore Muslims' mourning for 'the great leader of the Islamic country'; added that his being a
+  Muslim leader, not his reforms, drew the tribute.
 quote:
-  text: LOCAL MUSLIMS MOURN ATATURK'S DEATH
+  text: >-
+    Whatever might have been the opinions of Muslims of other countries on his reforms, the fact that he was a
+    Muslim leader alone called forth spontaneous tribute to the Ghazi.
   language: en
 caveat: >-
-  Report of others' reaction; browse-agent retrieval; text unchecked (source unreachable 2026-10-29)
+  A short staff reporter's report (page 24), not a leader. The closing sentence is the paper's own comment;
+  the rest reports others' mourning (see all-malaya-muslim-missionary-society-1938).
 node: Malaya Muslims Mourn Atatürk, November 1938
 sources:
   - url: https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19381112-1.2.107
 verification:
-  verdict: unreachable
+  verdict: confirmed
+  quote_found: true
   checked_against: >-
-    https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19381112-1.2.107 (bot_blocked;
-    render shows T&C wall)
-  method: render
-  note: Headline not verified.
-  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+    Morning Tribune, 12 Nov 1938, p. 24, "LOCAL MUSLIMS MOURN ATATURK'S DEATH" (Tribune Staff Reporter),
+    article image on NewspaperSG
+  method: read the article image in a browser
+  note: >-
+    Read on the page image on 18 Nov 2026 after accepting NewspaperSG's terms of use; until then the record
+    was unchecked. The record used to quote only the headline and to say the paper gave no view of its own;
+    the last sentence is its own comment. No archived copy: NewspaperSG shows a terms page first.
+  checked_on: "2026-11-18"

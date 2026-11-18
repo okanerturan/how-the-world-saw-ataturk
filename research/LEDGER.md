@@ -1916,7 +1916,7 @@ Issue #5 listed nine records whose source no check had reached. Six were read to
 - `abdul-kadir-adabi-1924`. The Al-Shajarah PDF is open. The sentence is there (p. 290) as the article's account of a Malaysian school textbook; no words of his and no date, so `partial`.
 - `toronto-globe-1922` and `manitoba-free-press-1922`. Stacey's book and the published Dafoe-Sifton correspondence are lending copies on archive.org, and its full-text search returns OCR snippets from them. The Globe headline is in Stacey and in two later histories (`secondary-only`; the Globe page was not seen). Sifton's instruction is in the printed letter in three scans of the correspondence (`confirmed`, on OCR snippets; the letter's date, 18 September or 4 October 1922, was not read).
 
-Three remain `unreachable`: `morning-tribune-1938` and `all-malaya-muslim-missionary-society-1938` (one page on NewspaperSG, which sends a script an empty answer) and `dutch-east-indies-press-1924` (the IIUM repository did not answer at all). They need a browser.
+Three remain `unreachable`: `morning-tribune-1938` and `all-malaya-muslim-missionary-society-1938` (one page on NewspaperSG, which sends a script an empty answer) and `dutch-east-indies-press-1924` (the IIUM repository did not answer at all). They need a browser. (All three were read on 18 Nov 2026; see the last section.)
 
 Counts after this: 858 quotes, 422 of them not in English (409 machine translations); `confirmed` 788, `partial` 97, `paraphrase-ok` 58, `secondary-only` 32, `unreachable` 3; 524 admiring, 63 witness.
 
@@ -2017,3 +2017,15 @@ Points the reader of the Toksoy and Rásonyi scans noted beside the quotes, now 
 - `polska-1938`: 'hicap' in the summary is humiliation, not the veil.
 - `independenta-romana-1938`: Toksoy prints the French title; the voice is now L'Indépendance Roumaine, the French-language Bucharest daily.
 - `proia-1938`: fn 15 concerns a 1937 issue; only fn 16 is this quotation.
+
+## The last three unreachable records (2026-11-18)
+
+Read in Okan's Chrome. No record is `unreachable` now.
+
+- `morning-tribune-1938`, `all-malaya-muslim-missionary-society-1938`: NewspaperSG opens the article after its terms of use are accepted (Okan agreed to that on 18 Nov). Morning Tribune, 12 Nov 1938, p. 24, a staff reporter's report, read on the article image. The headline is as recorded. The record said the paper gave no view of its own; its last sentence is its own comment ('Whatever might have been the opinions of Muslims of other countries on his reforms, the fact that he was a Muslim leader alone called forth spontaneous tribute to the Ghazi'), which is now the paper's quote. The society's quote was 'with profound sorrow'; the page has 'with profound sorrow and grief', and these are the reporter's words, not the society's.
+- `dutch-east-indies-press-1924`: the IIUM thesis it cited is about Malaya, not the Indies, and the repository is down. The record's 'Cambridge chapter' is ch. 4 of Chiara Formichi, *Islam and Asia: A History* (2020), p. 128, read on Google Books: 'public opinion in the Indies' (not the press) had been 'overall unconcerned with the Ottomans' defeat, and was supportive of Mustafa Kemal's actions' until a caliphate committee was set up in Surabaya, 'not earlier than October 1924'. The quote was the historian's words and is gone; voice, summary, date and polarity follow the page; verdict `paraphrase-ok`.
+- New, from van Bruinessen, 'Muslims of the Dutch East Indies and the Caliphate Question' (*Studia Islamika* 1995; the author's HTML copy via the Wayback Machine), who tells the Surabaya meeting of 4–5 Oct 1924 from the Dutch adviser Kern's report: `al-islam-congress-committee-1924-10` (the standing committee's letter asking the meeting to nominate Mustafa Kemal as caliph) and `tjokroaminoto-1924-10` (he approved of Turkey's attitude but thought it too early to judge the aims of Kemal's secularization). Reported speech only; Kern's report not seen; verdict `secondary-only`. Vault: The Surabaya Caliphate Meeting, October 1924.
+
+The README's verdict table had `secondary-only` at 32 when the data had 30; it is 32 now.
+
+Counts: 989 records, 809 voices, 857 quotes; confirmed 802, paraphrase-ok 56, secondary-only 32, unreachable 0.
