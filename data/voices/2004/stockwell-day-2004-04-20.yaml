@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: stockwell-day-2004-04-20
+voice: Stockwell Day
+voice_type: person
+role: Conservative MP for Okanagan—Coquihalla; former leader of the Canadian Alliance
+country: Canada
+country_now: Canada
+domain: politics
+date: "2004-04-20"
+era: posthumous
+polarity: instrumental
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Backing a motion to recognise the Armenian genocide, praised the republic Atatürk built and claimed Atatürk
+  himself had recognised the genocide.
+quote:
+  text: >-
+    Winston Churchill recognized it and talked about that “infamous” time in history and Mustafa Kemal Ataturk
+    himself recognized and commented on it.
+  language: en
+caveat: >-
+  Debate on a private member's motion to recognise the Armenian genocide, the day before the vote. Day also
+  said the republic 'developed after 1923 under Ataturk' into a modern state, 'albeit a one-party state'. That
+  Atatürk recognised the genocide is his claim, not checked here; the archive records it as said.
+node: Canada's Commons Invokes Kemal, 1944–2004
+sources:
+  - url: https://www.lipad.ca/full/permalink/4273948
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: House of Commons Debates via LiPaD (University of Toronto), permalink 4273948
+  method: >-
+    LiPaD answers scripts with a bot check; the speech was opened in a browser and its text read
+  note: Read on 18 Nov 2026. Entered and checked by the same reader; no second reader yet.
+  checked_on: "2026-11-18"

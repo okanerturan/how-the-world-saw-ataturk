@@ -1,0 +1,31 @@
+# Turkish for data/voices/2004/francine-lalonde-2004-04-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: francine-lalonde-2004-04-20
+voice: Francine Lalonde
+role: Bloc Québécois Mercier Milletvekili
+quote: >-
+  1923'te Türkiye Cumhuriyeti'ni kuran Mustafa Kemal'in—tartıştığımız soykırım 1915'te gerçekleşti—katliamları
+  defalarca, onlarca kez kınadığını hatırlayamaz mıyız?
+quote_kind: translated
+summary: >-
+  Ermeni soykırımı önergesini desteklerken, Mustafa Kemal'in katliamları 'onlarca kez' kınadığını ve
+  suçluların cezalandırılmasını istediğini söyledi.
+caveat: >-
+  stockwell-day-2004-04-20 ile aynı tartışma. Şöyle devam eder: 'Many times, he called them heinous acts and
+  called for the guilty parties to be punished.' Bu kendi iddiasıdır, burada doğrulanmamıştır. LiPaD İngilizce
+  Hansard metnini verir ve konuşmayı Fransızca yapıp yapmadığını belirtmez. Şubat 2003'te bir tarihçiyi
+  özetlerken de hemen hemen aynı şeyleri söylemişti (kalıcı bağlantı 4239123).
+verification_note: >-
+  18 Kasım 2026 tarihinde okundu. Aynı okur tarafından girildi ve kontrol edildi; henüz ikinci bir okur yok.
+verification_method: >-
+  LiPaD betiklere bot kontrolüyle yanıt veriyor; konuşma bir tarayıcıda açıldı ve metni okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: e6f560daef5b
+  role: 72df3909cac7
+  quote: 69b397ba6da8
+  summary: 312c1b99507d
+  caveat: e0b73514fa95
+  verification_note: d5f1e48c1d1a
+  verification_method: eaa418f1dea1

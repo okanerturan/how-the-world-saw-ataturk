@@ -2052,3 +2052,10 @@ The German newspaper portal has an open full-text search API (`api.deutsche-digi
 - New: `stuttgarter-neues-tagblatt-1928-01-02`, the paper's Constantinople correspondent on 1927: Kemal 'should simply not have overlooked' Hindenburg's birthday greeting, 'especially as he himself sets great store by honours to his own person', with Kemal statues shooting up 'like mushrooms'. Found by searching Hindenburg with Kemal. The same search shows Hindenburg's letter and portrait handed to Kemal by Ambassador Nadolny on the 10th anniversary of the Republic (Oct 1933), but no words of the letter; not entered.
 
 Counts: 998 records, 817 voices, 867 quotes (490 machine-translated); confirmed 812, partial 93.
+
+## LiPaD and a France 5 lead (2026-11-18)
+
+- **LiPaD** (Canadian Hansard, University of Toronto) answers scripts with a bot check; its search was run in a browser. 'Ataturk' gives 6 speeches, 'Atatürk' 7, 'Kemal' 22 (with overlaps). Mackenzie King 1923 and Adamson 1943 were already in. New: `pouliot-1944-02-17` (sarcastic: Kemal 'chose his own leader of the opposition'), `stockwell-day-2004-04-20` and `francine-lalonde-2004-04-20` (both invoke Kemal in the Armenian genocide motion debate; their claims about him are recorded as said, not checked). Not entered: Republic Day and Anzac statements by members that repeat textbook lines. Lalonde's 2003 passage seems to summarise a historian; not entered.
+- **Macron, France 5 (probably March 2021).** A machine transcript (Happy Scribe) of the C dans l'air episode 'Erdogan, le sultan qui défie l'Europe' carries an interview clip in which Macron calls Atatürk 'le héros fondateur de cette Turquie moderne' and Erdoğan's 'idole'. Only the automatic transcript was seen; not entered until the broadcast or an official text is found.
+
+Counts: 1001 records, 820 voices, 870 quotes; confirmed 815.

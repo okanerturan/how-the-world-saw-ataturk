@@ -18,20 +18,20 @@ Her sözün kendi bağlantısı vardır. Yukarıdaki söz [ataturk.fyi/#venizelo
 
 | | |
 |---|---|
-| Kayıtlar | 998 |
-| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 817 |
+| Kayıtlar | 1001 |
+| Farklı söz sahipleri (kişiler, gazeteler, kurumlar, gruplar) | 820 |
 | Günümüz ülkeleri ve bölgeleri (`country_now`) | 85; ayrıca Avrupa Birliği, Avrupa Konseyi ve UNESCO |
 | Kapsanan yıllar | 1908 – 2026 (107 yıl klasörü; 10 kayıt 1919 öncesindendir; yalnızca 1938'de 208 kayıt vardır) |
-| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 867 |
+| Konuşmacının kendi sözlerini (`quote`) içeren kayıtlar | 31 dilde 870 |
 | İngilizce olmayan alıntılar | 504; her birinin İngilizce çevirisi var: 490'ı makine çevirisi, 9'u bir katkıcının, 5'i kaynağın kendi çevirisi |
-| Kayıtlı kaynak doğrulaması bulunan kayıtlar | 998 (tümü) |
-| Türkçe çeviri dosyası bulunan kayıtlar | 998 (tümü) |
+| Kayıtlı kaynak doğrulaması bulunan kayıtlar | 1001 (tümü) |
+| Türkçe çeviri dosyası bulunan kayıtlar | 1001 (tümü) |
 
 Sonuca göre kaynak doğrulamaları:
 
 | Sonuç | Kayıtlar | Oran |
 |---|---|---|
-| `confirmed` | 812 | %81 |
+| `confirmed` | 815 | %81 |
 | `partial` | 93 | %9 |
 | `paraphrase-ok` | 56 | %6 |
 | `secondary-only` | 32 | %3 |

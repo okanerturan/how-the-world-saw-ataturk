@@ -1,0 +1,31 @@
+# Turkish for data/voices/2004/stockwell-day-2004-04-20.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: stockwell-day-2004-04-20
+voice: Stockwell Day
+role: Muhafazakâr Parti Okanagan—Coquihalla Milletvekili; Canadian Alliance eski lideri
+quote: >-
+  Winston Churchill bunu tanıdı ve tarihteki o “rezil” dönemden bahsetti; bizzat Mustafa Kemal Atatürk de bunu
+  tanıdı ve hakkında yorum yaptı.
+quote_kind: translated
+summary: >-
+  Ermeni soykırımını tanıma önergesini desteklerken, Atatürk'ün kurduğu cumhuriyeti övdü ve bizzat Atatürk'ün
+  de soykırımı tanıdığını iddia etti.
+caveat: >-
+  Oylamadan bir gün önce, Ermeni soykırımını tanımaya yönelik bir milletvekili önergesi üzerine tartışma. Day
+  ayrıca cumhuriyetin 'developed after 1923 under Ataturk' ile, 'albeit a one-party state' (tek partili bir
+  devlet olsa da) modern bir devlete dönüştüğünü söyledi. Atatürk'ün soykırımı tanıdığı kendi iddiasıdır,
+  burada doğrulanmamıştır; arşiv bunu söylendiği şekliyle kaydeder.
+verification_note: >-
+  18 Kasım 2026 tarihinde okundu. Aynı okur tarafından girildi ve kontrol edildi; henüz ikinci bir okur yok.
+verification_method: >-
+  LiPaD betiklere bot kontrolüyle yanıt veriyor; konuşma bir tarayıcıda açıldı ve metni okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 77c597fcf156
+  role: 90b3fa81eb1b
+  quote: 2002605ddc67
+  summary: 37d188bb1434
+  caveat: 83a2cd3cb9e8
+  verification_note: d5f1e48c1d1a
+  verification_method: eaa418f1dea1

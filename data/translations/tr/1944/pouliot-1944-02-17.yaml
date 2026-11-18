@@ -1,0 +1,32 @@
+# Turkish for data/voices/1944/pouliot-1944-02-17.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: pouliot-1944-02-17
+voice: Jean-François Pouliot
+role: Témiscouata, Quebec Milletvekili
+quote: >-
+  Türkiye'de kendi ana muhalefet liderini kendisi seçen Mustafa Kemal Paşa aklıma geliyor; ve çok büyük bir
+  adam olarak kabul edilirdi—ikisi de.
+quote_kind: translated
+summary: >-
+  Hükümeti yalnızca muhalefet liderlerini gizlice bilgilendirdiği için eleştirirken, bu durumu Kemal'in kendi
+  ana muhalefet liderini kendisinin seçmesine benzetti.
+caveat: >-
+  Savaş çabalarına ilişkin bir tartışmada alaycı bir ara söz: 'very great man' (çok büyük bir adam) ifadesi,
+  Kemal'in 1930'da Serbest Cumhuriyet Fırkası ile yaptığı gibi (arşivin notu; Pouliot herhangi bir parti adı
+  vermez) kendi muhalefetini seçen bir lider için ironik olarak söylenmiştir. LiPaD konuşmacıyı, kendisini
+  'elected by the people of Temiscouata' olarak tanımlayan Mr. POULIOT olarak gösterir.
+verification_note: >-
+  18 Kasım 2026 tarihinde okundu. Oturum tarihi 17 Şubat 1944'tür (19. Parlamento, 5. Yasama Dönemi). Aynı
+  okur tarafından girildi ve kontrol edildi; henüz ikinci bir okur yok.
+verification_method: >-
+  LiPaD betiklere bot kontrolüyle yanıt veriyor; konuşma bir tarayıcıda açıldı ve metni okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 95af267501a6
+  role: 341aa2d6ee8f
+  quote: 0e056ad07402
+  summary: 54f740cec9c4
+  caveat: c133fbd7fbf5
+  verification_note: 43af0e9452d7
+  verification_method: eaa418f1dea1

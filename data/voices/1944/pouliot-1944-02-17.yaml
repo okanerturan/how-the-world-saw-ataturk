@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: pouliot-1944-02-17
+voice: Jean-François Pouliot
+voice_type: person
+role: MP for Témiscouata, Quebec
+country: Canada
+country_now: Canada
+domain: politics
+date: "1944-02-17"
+era: posthumous
+polarity: conflicted
+intensity: 1
+artifact: speech
+evidence: P
+summary: >-
+  Attacking the government for briefing only opposition leaders in secret, likened it to Kemal choosing his
+  own leader of the opposition.
+quote:
+  text: >-
+    I am reminded of Kemal Pasha who, in Turkey, chose his own leader of the opposition; and he was considered
+    a very great man-both of them.
+  language: en
+caveat: >-
+  A sarcastic aside in a debate on the war effort: the 'very great man' is said ironically of a leader who
+  picked his own opposition, as Kemal did with the Free Republican Party in 1930 (the archive's gloss; Pouliot
+  names no party). LiPaD shows the speaker as Mr. POULIOT, who calls himself 'elected by the people of
+  Temiscouata'.
+node: Canada's Commons Invokes Kemal, 1944–2004
+sources:
+  - url: https://www.lipad.ca/full/permalink/1329839
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: House of Commons Debates via LiPaD (University of Toronto), permalink 1329839
+  method: >-
+    LiPaD answers scripts with a bot check; the speech was opened in a browser and its text read
+  note: >-
+    Read on 18 Nov 2026. The sitting is 17 February 1944 (19th Parliament, 5th Session). Entered and checked
+    by the same reader; no second reader yet.
+  checked_on: "2026-11-18"
