@@ -10,7 +10,7 @@ Issue (konu) ve pull request (çekme isteği) açıklamalarını Türkçe veya �
 
 Elinizde bir söz ve kaynağı varsa [Yardım etmenin üç yolu](#yardım-etmenin-üç-yolu) bölümüne geçin. Yardım etmek istiyor ve yapacak bir iş arıyorsanız, şu an açık olanlar şunlar:
 
-- 490 alıntının İngilizce çevirisi makineyle yapıldı ve o dili bilen biri tarafından henüz okunmadı ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)). Aşağıdaki "İngilizce çeviriyi düzeltme" bölümüne bakın.
+- 487 alıntının İngilizce çevirisi makineyle yapıldı ve o dili bilen biri tarafından henüz okunmadı ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)). Aşağıdaki "İngilizce çeviriyi düzeltme" bölümüne bakın.
 - Türkçe çeviriler makineyle yapıldı ve okunmayı bekliyor ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
 - Her kaydın kaynağını yeniden açacak birine ihtiyacı var: [Bir kaydı doğrulama](#bir-kaydı-doğrulama) bölümüne bakın. Üç kayıt, kimsenin açamadığı bir kaynağa dayanıyor ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
 - Var olduğu bilinen ama ulaşılamayan metinler var. Başlığı "Wanted" ile başlayan issue'lar bunlardan üçünü anlatıyor; [`research/candidates/`](research/candidates/) klasörü ile [`research/HUNT.md`](research/HUNT.md) dosyasındaki "Open leads that need a person" bölümü bölgelere göre daha fazlasını sıralıyor.
