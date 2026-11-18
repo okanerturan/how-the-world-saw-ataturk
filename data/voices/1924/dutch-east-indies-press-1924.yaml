@@ -13,16 +13,17 @@ intensity: 2
 artifact: report
 evidence: S
 summary: >-
-  Until late 1924, Indies opinion was unconcerned with the Ottoman defeat
-  and supported Kemal, a historian writes; the press praised his bravery.
+  Until late 1924, Formichi writes, Indies opinion was unconcerned by the Ottoman defeat and backed Kemal,
+  urging a renewed caliphate; the press reported his bravery.
 mediated_by: "Chiara Formichi, Islam and Asia: A History (Cambridge UP, 2020), ch. 4, p. 128"
 caveat: >-
-  A historian's characterisation written in 2020, not words of the period; the sentence carries no footnote of
-  its own (the paragraph ends with note 26 on p. 129, not seen), so which newspapers it rests on is not
-  stated. Van Bruinessen (Studia Islamika 1995) says the same: Kemal's resistance movement 'enjoyed widespread
-  sympathy among newspaper-reading Indonesian Muslims'. Until 18 Nov 2026 the record quoted Formichi's phrase
-  as if it were the press's, and its source link was an IIUM thesis about Malaya, which is not about the
-  Indies. The Surabaya meeting itself: al-islam-congress-committee-1924-10, tjokroaminoto-1924-10.
+  A historian's characterisation written in 2020, not words of the period; the paragraph carries no footnote,
+  so which newspapers it rests on is not stated. Van Bruinessen (Studia Islamika 1995) agrees that Kemal's
+  movement 'enjoyed widespread sympathy among newspaper-reading Indonesian Muslims', but he also says the
+  Ottoman defeat shocked many of them (Muhammadiyah protested Sèvres in 1920) and that the sympathy lasted
+  after the first secularising reforms. Until 18 Nov 2026 the record quoted Formichi's phrase as if it were
+  the press's, and its source link was an IIUM thesis about Malaya. The Surabaya meeting itself:
+  al-islam-congress-committee-1924-10, tjokroaminoto-1924-10.
 node: The Surabaya Caliphate Meeting, October 1924
 sources:
   - url: https://doi.org/10.1017/9781316226803.007
@@ -39,5 +40,8 @@ verification:
     Found on 18 Nov 2026: the record's 'Cambridge chapter' is ch. 4 of Formichi's Islam and Asia (online ISBN
     9781316226803). The summary now follows the page; 'unconcerned' and 'supportive' are hers. Formichi's full
     sentence: public opinion 'had been overall unconcerned with the Ottomans' defeat, and was supportive of
-    Mustafa Kemal's actions'.
+    Mustafa Kemal's actions'. A second reader re-read the source on 18 Nov 2026 (Formichi pp. 128–129 on the
+    page images, van Bruinessen in full): 'praised his bravery' corrected to 'reported', the call to renew the
+    caliphate added, and the footnote reference corrected (the paragraph has none; note 26 closes the next
+    one).
   checked_on: "2026-11-18"

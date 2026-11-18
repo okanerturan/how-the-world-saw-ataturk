@@ -3,28 +3,35 @@
 # yaml-language-server: $schema=../../../schema/translation.schema.json
 id: al-islam-congress-committee-1924-10
 voice: Al-Islam Kongresi Daimi Komitesi
-role: İkinci Al-Islam Kongresi'nde seçilen daimi komite (Garut, Mayıs 1924)
+role: >-
+  1924 başlarında (muhtemelen Mayıs 1924'teki Garut kongresinde) seçilen El-İslam Kongresi daimi komitesi
 summary: >-
-  Ekim 1924'teki Surabaya hilafet toplantısından Mustafa Kemal'i yeni halife olarak aday göstermesini istedi;
-  toplantı bunu tartıştı ve onun yerine Mekke'yi seçti.
+  Ekim 1924'teki Surabaya hilafet toplantısından Mustafa Kemal'i halife adayı göstermesini istedi; toplantı
+  kimseyi aday göstermedi ve halifelik makamını Mekke olarak belirledi.
 caveat: >-
-  Yalnızca Hollandalı danışmanın raporundan, van Bruinessen'in aktardığı şekliyle bilinmektedir; mektubun
-  kendi sözleri verilmemiştir. Tjokroaminoto'nun buna verdiği yanıt tjokroaminoto-1924-10 kaydındadır.
+  Yalnızca van Bruinessen'in aktarımından bilinmektedir; bu anlatım görünüşe göre Hollandalı danışmanın
+  raporuna dayanmaktadır (dipnotu raporu yalnızca Tjokroaminoto'nun açılış konuşmasıyla ilişkilendirir);
+  mektubun sözleri verilmemiştir. Teklifi, birçok Endonezyalının Türkiye'ye yönelik tutumunun belki de tipik
+  bir örneği olarak nitelendirir. Tjokroaminoto'nun buna cevabı tjokroaminoto-1924-10 kaydındadır.
 mediated_by: >-
   Martin van Bruinessen, 'Muslims of the Dutch East Indies and the Caliphate Question', Studia Islamika 2(3),
-  1995 ← R.A. Kern'in toplantı hakkında genel valiye sunduğu rapor, 23 Ekim 1924 ('Kalifaatsaktie', KITLV,
-  Kern koleksiyonu H 797 sayı 316)
+  1995 ← görünüşe göre R.A. Kern'in toplantı hakkında genel valiye sunduğu rapor, 23 Ekim 1924
+  ('Kalifaatsaktie', KITLV, Kern koleksiyonu H 797 sayı 316)
 verification_note: >-
-  Makale: daimi komite 'sent a letter to the Surabaya meeting requesting it to nominate Mustafa Kemal as the
-  new caliph'; komite Mayıs 1924'teki Garut kongresinde seçilmişti. 18 Kasım 2026'da yalnızca makaleden
-  okunarak girildi; Kern'in raporu görülmedi ve makaleyi henüz ikinci bir okuyucu açmadı.
+  Makale: 'elected earlier that year' [o yılın başlarında seçilen] daimi komite, 'sent a letter to the
+  Surabaya meeting requesting it to nominate Mustafa Kemal as the new caliph' [Surabaya toplantısına Mustafa
+  Kemal'i yeni halife olarak aday göstermesini talep eden bir mektup gönderdi]. Garut'ta seçilmiş olduğu bir
+  çıkarımdır: Garut (Mayıs 1924), makalede 1924 yılının Ekim ayından önceki tek kongredir. 18 Kasım 2026'da
+  yalnızca makaleden girilmiştir; Kern'in raporu görülmemiştir. İkinci bir okuyucu 18 Kasım 2026'da kaynağı
+  yeniden okudu; Garut tarihi ve Kern atfı artık çıkarım olarak işaretlendi ve 'chose Mecca instead' [bunun
+  yerine Mekke'yi seçti] ifadesi düzeltildi (toplantı hiçbir aday göstermemiştir).
 verification_method: arşivlenmiş metin okundu
 translated_by: "machine: gemini-4-argon-medium"
 source_fingerprints:
   voice: 058e4759dc34
-  role: a1d8efec5bf6
-  summary: 52f0b0980f51
-  caveat: 8f6ac9efbdf6
-  mediated_by: 5fec83c00f1e
-  verification_note: 149da7b81a08
+  role: c40c50c4fcba
+  summary: 43d77492175b
+  caveat: dfcc544668cc
+  mediated_by: 2c853e921ed3
+  verification_note: 1a4be77f732f
   verification_method: cf64788808c3

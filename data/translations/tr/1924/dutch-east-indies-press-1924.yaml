@@ -5,29 +5,36 @@ id: dutch-east-indies-press-1924
 voice: Hollanda Doğu Hint Adaları kamuoyu ve basını
 role: Hollanda Doğu Hint Adaları'nın Müslüman kamuoyu ve gazeteleri
 summary: >-
-  Bir tarihçinin yazdığına göre, 1924 sonlarına kadar Doğu Hint Adaları kamuoyu Osmanlı yenilgisiyle
-  ilgilenmiyordu ve Kemal'i destekliyordu; basın onun cesaretini övüyordu.
+  Formichi'nin yazdığına göre, 1924 sonlarına kadar Doğu Hint Adaları kamuoyu Osmanlı yenilgisinden kaygı
+  duymuyor ve yenilenmiş bir hilafet çağrısıyla Kemal'i destekliyordu; basın onun cesaretini
+  haberleştiriyordu.
 caveat: >-
-  Dönemin sözleri değil, bir tarihçinin 2020'de kaleme aldığı bir nitelendirmedir; cümlenin kendine ait bir
-  dipnotu yoktur (paragraf s. 129'daki 26 numaralı dipnotla biter, görülmedi), dolayısıyla hangi gazetelere
-  dayandığı belirtilmemiştir. Van Bruinessen de (Studia Islamika 1995) aynı şeyi söyler: Kemal'in direniş
-  hareketi 'enjoyed widespread sympathy among newspaper-reading Indonesian Muslims'. 18 Kasım 2026'ya kadar bu
-  kayıt, Formichi'nin ifadesini sanki basının kendi sözleriymiş gibi aktarıyordu ve kaynak bağlantısı Doğu
-  Hint Adaları ile ilgili olmayan, Malaya hakkındaki bir IIUM teziydi. Surabaya toplantısının kendisi için:
-  al-islam-congress-committee-1924-10, tjokroaminoto-1924-10.
+  Bir tarihçinin 2020'de yazdığı nitelendirmedir, dönemin sözleri değildir; paragrafta dipnot bulunmadığından
+  hangi gazetelere dayandığı belirtilmemiştir. Van Bruinessen (Studia Islamika 1995), Kemal'in hareketinin
+  'enjoyed widespread sympathy among newspaper-reading Indonesian Muslims' [gazete okuyan Endonezyalı
+  Müslümanlar arasında geniş bir sempati gördüğü] konusunda hemfikirdir, ancak Osmanlı yenilgisinin birçoğunu
+  sarsmış olduğunu (Muhammadiyah 1920'de Sevr'i protesto etmiştir) ve bu sempatinin ilk laikleştirici
+  reformlardan sonra da sürdüğünü söyler. 18 Kasım 2026'ya kadar kayıt, Formichi'nin ifadesini sanki basının
+  sözleriymiş gibi alıntılıyordu ve kaynak bağlantısı Malaya hakkında bir IIUM teziydi. Surabaya toplantısının
+  kendisi için: al-islam-congress-committee-1924-10, tjokroaminoto-1924-10.
 mediated_by: "Chiara Formichi, Islam and Asia: A History (Cambridge UP, 2020), 4. bölüm, s. 128"
 verification_note: >-
-  18 Kasım 2026'da bulundu: kayıttaki 'Cambridge chapter', Formichi'nin Islam and Asia kitabının 4. bölümüdür
-  (çevrimiçi ISBN 9781316226803). Özet artık sayfayı takip etmektedir; 'unconcerned' ve 'supportive' ifadeleri
-  onundur. Formichi'nin tam cümlesi: kamuoyu 'had been overall unconcerned with the Ottomans' defeat, and was
-  supportive of Mustafa Kemal's actions'.
+  18 Kasım 2026'da bulundu: kaydın 'Cambridge chapter' dediği kaynak, Formichi'nin Islam and Asia kitabının 4.
+  bölümüdür (çevrimiçi ISBN 9781316226803). Özet artık ilgili sayfayı izlemektedir; 'unconcerned' ve
+  'supportive' ifadeleri yazara aittir. Formichi'nin tam cümlesi: kamuoyu 'had been overall unconcerned with
+  the Ottomans' defeat, and was supportive of Mustafa Kemal's actions' [genel olarak Osmanlıların yenilgisiyle
+  ilgilenmemişti ve Mustafa Kemal'in eylemlerini destekliyordu]. İkinci bir okuyucu 18 Kasım 2026'da kaynağı
+  yeniden okudu (sayfa görüntülerinden Formichi s. 128–129, tam metin olarak van Bruinessen): 'praised his
+  bravery' [cesaretini övdü] ifadesi 'reported' [haber yaptı] olarak düzeltildi, hilafeti yenileme çağrısı
+  eklendi ve dipnot referansı düzeltildi (paragrafta dipnot yoktur; 26 numaralı not bir sonraki paragrafı
+  kapatmaktadır).
 verification_method: sayfa görüntüsü tarayıcıda okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: a442f5dd4815
   role: c5da4022ece1
-  summary: 43bb4e8ff961
-  caveat: da47f38cad09
+  summary: e0264e06494d
+  caveat: 133ff6f369fa
   mediated_by: 6ad43678fed3
-  verification_note: 87c618dfb3c0
+  verification_note: 0ee5b7e4f00c
   verification_method: 09636851d5a8

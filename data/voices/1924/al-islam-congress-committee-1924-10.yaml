@@ -2,7 +2,9 @@
 id: al-islam-congress-committee-1924-10
 voice: Al-Islam Congress standing committee
 voice_type: institution
-role: Standing committee elected at the second Al-Islam Congress (Garut, May 1924)
+role: >-
+  Standing committee of the Al-Islam Congress, elected earlier in 1924 (probably at the Garut congress of May
+  1924)
 country: Dutch East Indies
 country_now: Indonesia
 domain: religion
@@ -13,15 +15,17 @@ intensity: 3
 artifact: letter
 evidence: S
 summary: >-
-  Asked the Surabaya caliphate meeting of October 1924 to nominate Mustafa Kemal as the new caliph; the
-  meeting debated it and chose Mecca instead.
+  Asked the Surabaya caliphate meeting of October 1924 to nominate Mustafa Kemal as caliph; the meeting named
+  nobody and put the caliph's seat in Mecca.
 mediated_by: >-
   Martin van Bruinessen, 'Muslims of the Dutch East Indies and the Caliphate Question', Studia Islamika 2(3),
-  1995 ← R.A. Kern's report on the meeting to the governor general, 23 Oct 1924 ('Kalifaatsaktie', KITLV, Kern
-  collection H 797 no. 316)
+  1995 ← apparently R.A. Kern's report on the meeting to the governor general, 23 Oct 1924 ('Kalifaatsaktie',
+  KITLV, Kern collection H 797 no. 316)
 caveat: >-
-  Known only from the Dutch adviser's report as van Bruinessen retells it; the letter's words are not given.
-  Tjokroaminoto's answer to it is tjokroaminoto-1924-10.
+  Known only from van Bruinessen's account, which seems to rest on the Dutch adviser's report (his footnote
+  ties only Tjokroaminoto's opening speech to it); the letter's words are not given. He calls the proposal
+  perhaps characteristic of many Indonesians' attitude to Turkey. Tjokroaminoto's answer to it is
+  tjokroaminoto-1924-10.
 node: The Surabaya Caliphate Meeting, October 1924
 sources:
   - url: https://doi.org/10.15408/sdi.v2i3.829
@@ -34,8 +38,10 @@ verification:
     2008); not the printed pages
   method: read the archived text
   note: >-
-    The article: the standing committee 'sent a letter to the Surabaya meeting requesting it to nominate
-    Mustafa Kemal as the new caliph'; it was elected at the Garut congress of May 1924. Read and entered on 18
-    Nov 2026 from the article alone; Kern's report was not seen, and no second reader has opened the article
-    yet.
+    The article: the standing committee, 'elected earlier that year', 'sent a letter to the Surabaya meeting
+    requesting it to nominate Mustafa Kemal as the new caliph'. That it was elected at Garut is an inference:
+    Garut (May 1924) is the only congress of 1924 before October in the article. Entered on 18 Nov 2026 from
+    the article alone; Kern's report was not seen. A second reader re-read the source on 18 Nov 2026; the
+    Garut date and the Kern attribution are now marked as inferences, and 'chose Mecca instead' was corrected
+    (the meeting named no candidate).
   checked_on: "2026-11-18"

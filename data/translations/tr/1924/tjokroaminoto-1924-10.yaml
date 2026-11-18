@@ -8,24 +8,29 @@ summary: >-
   Kemal'i halife yapma önerisine yanıt verirken, Türkiye'nin tutumunu onayladığını ancak Kemal'in
   laikleştirmesinin amaçları hakkında hüküm vermek için henüz çok erken olduğunu söyledi.
 caveat: >-
-  Dolaylı anlatım: kendi sözleri değil, Hollandalı danışmanın özetinin van Bruinessen tarafından yeniden
-  aktarımıdır. Yanıtladığı öneri: al-islam-congress-committee-1924-10. Aynı toplantıda halifeyi tüm
-  Müslümanların dünyevi ve ruhani lideri olarak nitelendirmiştir.
+  Dolaylı aktarımdır, kendi sözleri değildir: görünüşe göre Hollandalı danışmanın raporuna dayanan van
+  Bruinessen'in anlatımıdır (dipnot bu sözü değil, onun açılış konuşmasını rapora bağlar). Cevap verdiği
+  teklif al-islam-congress-committee-1924-10 kaydındadır. Aynı toplantıda halifeyi tüm Müslümanların dünyevi
+  ve ruhani lideri olarak nitelendirmiştir; Formichi (2020, s. 128) de onun 1924 sonlarında bir halifeye
+  duyulan ihtiyacı dile getirdiğini aktarır.
 mediated_by: >-
   Martin van Bruinessen, 'Muslims of the Dutch East Indies and the Caliphate Question', Studia Islamika 2(3),
-  1995 ← R.A. Kern'in toplantı hakkında genel valiye sunduğu rapor, 23 Ekim 1924 ('Kalifaatsaktie', KITLV,
-  Kern koleksiyonu H 797 sayı 316)
+  1995 ← görünüşe göre R.A. Kern'in toplantı hakkında genel valiye sunduğu rapor, 23 Ekim 1924
+  ('Kalifaatsaktie', KITLV, Kern koleksiyonu H 797 sayı 316)
 verification_note: >-
   Makale: 'Tjokroaminoto affirmed that he approved of Turkey's attitude but thought it was too early to judge
-  what the aims of Mustafa Kemal's secularization were.' 18 Kasım 2026'da yalnızca makaleden okunarak girildi;
-  Kern'in raporu görülmedi ve makaleyi henüz ikinci bir okuyucu açmadı.
+  what the aims of Mustafa Kemal's secularization were.' [Tjokroaminoto, Türkiye'nin tutumunu onayladığını
+  teyit etti ancak Mustafa Kemal'in laikleştirmesinin amaçlarının ne olduğunu yargılamak için henüz çok erken
+  olduğunu düşündüğünü belirtti.] 18 Kasım 2026'da yalnızca makaleden okunarak girilmiştir; Kern'in raporu
+  görülmemiştir ve henüz ikinci bir okuyucu makaleyi açmamıştır. İkinci bir okuyucu 18 Kasım 2026'da kaynağı
+  yeniden okudu; Kern atfı artık bir çıkarım olarak işaretlenmiştir.
 verification_method: arşivlenmiş metin okundu
 translated_by: "machine: gemini-4-argon-medium"
 source_fingerprints:
   voice: 9f4debd28804
   role: 8d3f46098df6
   summary: 40daa9aa178d
-  caveat: a54b8f6e6798
-  mediated_by: 5fec83c00f1e
-  verification_note: 0ae4bd91882e
+  caveat: 54d15ecc1a20
+  mediated_by: 2c853e921ed3
+  verification_note: 8a8795acf8af
   verification_method: cf64788808c3

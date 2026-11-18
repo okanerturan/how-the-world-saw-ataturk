@@ -17,17 +17,19 @@ summary: >-
   judge the aims of Kemal's secularization.
 mediated_by: >-
   Martin van Bruinessen, 'Muslims of the Dutch East Indies and the Caliphate Question', Studia Islamika 2(3),
-  1995 ← R.A. Kern's report on the meeting to the governor general, 23 Oct 1924 ('Kalifaatsaktie', KITLV, Kern
-  collection H 797 no. 316)
+  1995 ← apparently R.A. Kern's report on the meeting to the governor general, 23 Oct 1924 ('Kalifaatsaktie',
+  KITLV, Kern collection H 797 no. 316)
 caveat: >-
-  Reported speech: the Dutch adviser's summary as van Bruinessen retells it, not his words. The proposal he
-  answered is al-islam-congress-committee-1924-10. In the same meeting he called the caliph the worldly and
-  spiritual head of all Muslims.
+  Reported speech, not his words: van Bruinessen's account, which seems to rest on the Dutch adviser's report
+  (the footnote ties his opening speech to it, not this remark). The proposal he answered is
+  al-islam-congress-committee-1924-10. In the same meeting he called the caliph the worldly and spiritual head
+  of all Muslims; Formichi (2020, p. 128) also has him stating the need for a caliph in late 1924.
 node: The Surabaya Caliphate Meeting, October 1924
 sources:
   - url: https://doi.org/10.15408/sdi.v2i3.829
   - url: http://www.let.uu.nl/~martin.vanbruinessen/personal/publications/caliphate_question.htm
     archived: https://web.archive.org/web/20080402114916/http://www.let.uu.nl/~martin.vanbruinessen/personal/publications/caliphate_question.htm
+  - url: https://doi.org/10.1017/9781316226803.007
 verification:
   verdict: secondary-only
   checked_against: >-
@@ -37,5 +39,6 @@ verification:
   note: >-
     The article: 'Tjokroaminoto affirmed that he approved of Turkey's attitude but thought it was too early to
     judge what the aims of Mustafa Kemal's secularization were.' Read and entered on 18 Nov 2026 from the
-    article alone; Kern's report was not seen, and no second reader has opened the article yet.
+    article alone; Kern's report was not seen, and no second reader has opened the article yet. A second
+    reader re-read the source on 18 Nov 2026; the Kern attribution is now marked as an inference.
   checked_on: "2026-11-18"
