@@ -2042,3 +2042,13 @@ Read in Okan's Chrome.
 - **casareal.es, presidency.ro.** No speech naming Atatürk found by search; presidency.ro answers scripts with a 503.
 
 Counts: 996 records, 815 voices, 864 quotes; confirmed 809.
+
+## Deutsches Zeitungsportal (2026-11-18)
+
+The German newspaper portal has an open full-text search API (`api.deutsche-digitale-bibliothek.de/search/index/newspaper-issues/select`, Solr, no key; field `plainpagefulltext`). It returns 903 pages naming Atatürk between 10 and 30 Nov 1938. Page images come from the holding libraries (SUB Hamburg, WLB Stuttgart) once the item page has been opened.
+
+- `hamburger-tageblatt-1938`: the obituary of 10 Nov 1938, p. 2 ('Vom Rebell zum „Vater der Türken"'), read on the page. The record had rested on German History in Documents' English and had no quote; it now quotes the German ('den Wegbereiter und Führer, dem allein sie ihren bedeutenden Aufstieg nach dem Weltkriege zu verdanken hat'). Dated 10 Nov; verdict partial → confirmed.
+- New: `ribbentrop-1938-11-10`, his condolence telegram to Aras (DNB, printed in 37 papers on 11 Nov), read on the Hamburger Fremdenblatt's front page.
+- New: `stuttgarter-neues-tagblatt-1928-01-02`, the paper's Constantinople correspondent on 1927: Kemal 'should simply not have overlooked' Hindenburg's birthday greeting, 'especially as he himself sets great store by honours to his own person', with Kemal statues shooting up 'like mushrooms'. Found by searching Hindenburg with Kemal. The same search shows Hindenburg's letter and portrait handed to Kemal by Ambassador Nadolny on the 10th anniversary of the Republic (Oct 1933), but no words of the letter; not entered.
+
+Counts: 998 records, 817 voices, 867 quotes (490 machine-translated); confirmed 812, partial 93.

@@ -18,21 +18,21 @@ Every voice has its own link. The one above is [ataturk.fyi/#venizelos-1934-01-1
 
 | | |
 |---|---|
-| Records | 996 |
-| Distinct voice names (people, papers, institutions, groups) | 815 |
+| Records | 998 |
+| Distinct voice names (people, papers, institutions, groups) | 817 |
 | Present-day countries and territories (`country_now`) | 85, plus the European Union, the Council of Europe and UNESCO |
-| Years covered | 1908 to 2026 (107 year folders; 10 records are from before 1919; 1938 alone has 207 records) |
-| Records with the speaker's own words (`quote`) | 864, in 31 languages |
-| Quotes not in English | 501, each with an English translation: 487 by machine, 9 by a contributor, 5 the source's own |
-| Records with a stored source check | 996 (all) |
-| Records with a Turkish translation file | 996 (all) |
+| Years covered | 1908 to 2026 (107 year folders; 10 records are from before 1919; 1938 alone has 208 records) |
+| Records with the speaker's own words (`quote`) | 867, in 31 languages |
+| Quotes not in English | 504, each with an English translation: 490 by machine, 9 by a contributor, 5 the source's own |
+| Records with a stored source check | 998 (all) |
+| Records with a Turkish translation file | 998 (all) |
 
 Source checks, by verdict:
 
 | Verdict | Records | Share |
 |---|---|---|
-| `confirmed` | 809 | 81% |
-| `partial` | 94 | 9% |
+| `confirmed` | 812 | 81% |
+| `partial` | 93 | 9% |
 | `paraphrase-ok` | 56 | 6% |
 | `secondary-only` | 32 | 3% |
 | `not-found` | 3 | under 1% |
@@ -79,7 +79,7 @@ You can suggest a voice, report an error, check a record against its source or f
 
 **Looking for somewhere to start?** None of these needs special access or software:
 
-- **Read an English translation against its original.** 487 quotes in 30 languages have an English translation made by machine that no reader of the language has checked; Turkish, French, German, Dutch, Chinese, Spanish, Arabic and Japanese are the largest groups ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
+- **Read an English translation against its original.** 490 quotes in 30 languages have an English translation made by machine that no reader of the language has checked; Turkish, French, German, Dutch, Chinese, Spanish, Arabic and Japanese are the largest groups ([#6](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/6)).
 - **Read a Turkish translation against its English** and fix what sounds wrong. All the Turkish text was translated by machine ([#9](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/9)).
 - **Re-open a source and tell us what it says.** Every record needs a second reader, and the [Check a record / Kayıt doğrula](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/new?template=check-record.yml) form takes a few minutes. Three records cite a source we could not open at all ([#5](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/5)).
 - **Find a text we know exists but could not reach:** Jinnah's statement on Atatürk's death ([#8](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/8)), Roncalli's diary ([#4](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/4)), Frunze's Ankara diary ([#3](https://github.com/okanerturan/how-the-world-saw-ataturk/issues/3)). More leads of this kind are in [`research/candidates/`](research/candidates/) and under "Open leads that need a person" in [`research/HUNT.md`](research/HUNT.md).

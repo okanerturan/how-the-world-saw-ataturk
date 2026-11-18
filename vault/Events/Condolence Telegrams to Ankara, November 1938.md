@@ -88,6 +88,8 @@ the OCR's where not clear; roles for lesser senders (Tokugawa, Ansari, Faraoyan)
 
 See [[Death and State Funeral of Atatürk]], [[Foreign Delegations at the Funeral, November 1938]].
 
+**Ribbentrop to Aras.** Not in the TBMM volume, which collects telegrams to the Assembly: the German Foreign Minister's telegram went to Tevfik Rüştü Aras. The DNB released it with Hitler's on 10 Nov, and German papers printed both on 11 Nov (the Deutsches Zeitungsportal finds it in 37). It speaks of the Republic's "unersetzlichen Verlustes" and "ihres großen Begründers". Record: `ribbentrop-1938-11-10`.
+
 ## Sources
 - TBMM Library (Açık Erişim), handle 11543/2467: vol. 1 `197605293_c1.pdf` (nos. 1–38) and vol. 2 `197605294_c2.pdf` — [acikerisim.tbmm.gov.tr/handle/11543/2467](https://acikerisim.tbmm.gov.tr/handle/11543/2467). Items read: Riga/Ulmanis, Rio de Janeiro, Rome, Italian Senate and Chamber (12 Nov), Riad, Saint-Louis Réunion, Salonica, Sofia ×4, Stockholm, Tallinn, Tanga, Tehran, Tirana, Tokyo ×4, Warsaw ×3, Washington, Watling (Rahmat Ali), Vevey (Abbas Hilmi II), Amsterdam, Antakya (Hatay), Athens, Alexandria, Amman, Baghdad ×2, Barcelona, Belgrade, Berlin ×7, Bern, Beirut ×3, Brooklyn ×2, Bucharest ×3, Budapest, Cairo ×4, Canberra, Damascus, Delhi, Eldoret, Ermelo, Kabul ×2, Lahore, Lichtenburg, London ×2, Luxembourg, Mexico, Moscow, Nairobi, Nicosia, Oslo, Paris ×6, Penang, Pisa, Port Elizabeth, Prague (P — primary telegrams)
 - The telegrams are dated by the Ankara receipt stamp 10–16 Nov 1938. OCR produced locally (macOS Vision); the Rahmat Ali and Punjab Assembly sheets (vol. 1 no. 34; vol. 2 no. 39) were additionally read from the page images.

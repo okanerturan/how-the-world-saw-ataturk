@@ -1,0 +1,33 @@
+# Turkish for data/voices/1928/stuttgarter-neues-tagblatt-1928-01-02.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: stuttgarter-neues-tagblatt-1928-01-02
+voice: Stuttgarter Neues Tagblatt
+role: Stuttgart'ta yayımlanan günlük gazete
+quote: >-
+  Mustafa Kemal Paşa gibi bir adam, Hindenburg'un doğum günü tebriğini kesinlikle göz ardı etmemeliydi;
+  üstelik bu yıl mantar gibi yerden biten Kemal anıtlarına gösterilen müsamahanın herkese açıkça kanıtladığı
+  üzere, kendisi de şahsının onurlandırılmasına fazlasıyla önem verirken.
+quote_kind: translated
+summary: >-
+  İstanbul'dan yıl sonu raporu: Türk-Alman ticari ilişkileri gelişti, ancak Kemal her yerde kendi heykellerine
+  müsamaha gösterirken Hindenburg'un doğum gününü kutlamayı ihmal etti.
+caveat: >-
+  Gazetenin İstanbul muhabirinin ('d.' imzalı) kaleme aldığı 'Das Jahr 1927 in der Türkei' başlıklı yazı,
+  akşam baskısının birinci sayfası, 2 Ocak 1928. Bu sitem, 1927 yılında büyük ölçüde Alman firmaları
+  tarafından inşa edilen demiryollarını ve sanayiyi öven bir değerlendirmenin sonunda yer alır; yazı, Türk
+  halkına barışçıl yeniden inşa çalışmaları için 'von Herzen Glück' dileğiyle sona erer. Hindenburg, 2 Ekim
+  1927'de 80 yaşına girmişti.
+verification_note: >-
+  18 Kasım 2026'da okundu; alıntı sayfada kelimesi kelimesine yer alıyor. Aynı okur tarafından girildi ve
+  kontrol edildi; henüz ikinci bir okur kontrolü yapılmadı.
+verification_method: Deutsches Zeitungsportal'ın tam metin aramasıyla bulundu; pasaj sayfa görüntüsünden okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 4ab1eab674d2
+  role: 9f5000d489d8
+  quote: 9b734ef03beb
+  summary: 7ee781d17aa6
+  caveat: 0eafb3203a48
+  verification_note: af3da2907a7f
+  verification_method: 5e477a433efe

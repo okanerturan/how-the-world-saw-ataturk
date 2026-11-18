@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: stuttgarter-neues-tagblatt-1928-01-02
+voice: Stuttgarter Neues Tagblatt
+voice_type: press
+role: Stuttgart daily
+country: Germany
+country_now: Germany
+domain: press
+date: "1928-01-02"
+era: contemporary
+polarity: conflicted
+intensity: 2
+artifact: article
+evidence: P
+summary: >-
+  Year-end report from Constantinople: German–Turkish business thrived, but Kemal snubbed Hindenburg's
+  birthday greeting while tolerating statues of himself everywhere.
+quote:
+  text: >-
+    Ein Mann wie Kemal Pascha durfte den Glückwunsch zu Hindenburgs Geburtstag einfach nicht übersehen, zumal
+    er selber sehr auf die Ehrung seiner Person hält, wie die Duldung der in diesem Jahre wie Pilze aus dem
+    Boden geschossenen Kemaldenkmäler jedermann deutlich beweist.
+  language: de
+  translation: >-
+    A man like Kemal Pasha should simply not have overlooked the congratulations on Hindenburg's birthday,
+    especially as he himself sets great store by honours to his own person, as the tolerance of the Kemal
+    monuments that have shot up like mushrooms this year plainly shows everyone.
+  translated_by: "machine: claude-opus-5-5"
+caveat: >-
+  'Das Jahr 1927 in der Türkei', by the paper's Constantinople correspondent (signed 'd.'), front page of the
+  evening edition, 2 Jan 1928. The complaint closes a review that praises the railways and industry built in
+  1927, largely by German firms; it ends by wishing the Turkish people 'von Herzen Glück' for their peaceful
+  reconstruction. Hindenburg turned 80 on 2 Oct 1927.
+node: A Stuttgart Daily on Kemal and Hindenburg, January 1928
+sources:
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/RDSBCRC6QKO2HZEE2TSPXLDQ2ERDK7BN?issuepage=7
+    label: >-
+      Deutsches Zeitungsportal: Stuttgarter Neues Tagblatt, 2 Jan 1928, Abend-Ausgabe, p. 1 (image from the
+      Württembergische Landesbibliothek)
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Stuttgarter Neues Tagblatt, 2 Jan 1928, Abend-Ausgabe (Nr. 2), p. 1: page image (WLB Stuttgart) and OCR
+  method: >-
+    found by the Deutsches Zeitungsportal's full-text search; the passage read on the page image
+  note: >-
+    Read on 18 Nov 2026; the quote is verbatim on the page. Entered and checked by the same reader; no second
+    reader yet.
+  checked_on: "2026-11-18"

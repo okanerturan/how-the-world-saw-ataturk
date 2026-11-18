@@ -1,0 +1,34 @@
+# Turkish for data/voices/1938/ribbentrop-1938-11-10.yaml. Machine translation; corrections welcome.
+# source_fingerprints: which English each field was translated from. Leave them as they are.
+# yaml-language-server: $schema=../../../schema/translation.schema.json
+id: ribbentrop-1938-11-10
+voice: Joachim von Ribbentrop
+role: Almanya Dışişleri Bakanı
+quote: >-
+  Türkiye Cumhuriyeti'nin, büyük kurucusu Ekselansları Cumhurbaşkanı Kemal Atatürk'ün vefatıyla uğradığı yeri
+  doldurulamaz kayıp dolayısıyla, Ekselanslarının şahsımın ve Alman Reich Hükümeti'nin en içten taziyelerinden
+  emin olmalarını rica ederim.
+quote_kind: translated
+summary: >-
+  Dışişleri Bakanı Aras'a, Türkiye Cumhuriyeti'nin "büyük kurucusu"nun "yeri doldurulamaz kaybı" dolayısıyla
+  gönderilen taziye telgrafı.
+caveat: >-
+  Tevfik Rüştü Aras'a gönderilen, resmi haber ajansı (DNB) tarafından 10 Kasım'da yayımlanan ve 11 Kasım
+  tarihli Alman gazetelerinde Hitler'in telgrafıyla (hitler-1938) birlikte basılan resmi taziye telgrafı;
+  portal bu metni 37 gazetede bulmaktadır. Ribbentrop Berlin dışındaydı; Devlet Sekreteri von Weizsäcker onun
+  adına Türkiye Büyükelçiliği'ne taziye ziyaretinde bulundu.
+verification_note: >-
+  18 Kasım 2026'da okundu; alıntı Fremdenblatt sayfasında kelimesi kelimesine yer alıyor (bazı gazetelerde
+  'Euer Exzellenz' olarak basılmıştır). Aynı okur tarafından girildi ve kontrol edildi; henüz ikinci bir okur
+  kontrolü yapılmadı.
+verification_method: >-
+  Deutsches Zeitungsportal'ın tam metin aramasıyla bulundu; telgraf sayfa görüntüsünden okundu
+translated_by: "machine: gemini-4-argon-medium"
+source_fingerprints:
+  voice: 146df9b221d3
+  role: b70f9c0f1cd1
+  quote: 0d4e6a0bc278
+  summary: 3c31bc3855a7
+  caveat: 105725c5380a
+  verification_note: 03f4ef0297f1
+  verification_method: 5693064b329e

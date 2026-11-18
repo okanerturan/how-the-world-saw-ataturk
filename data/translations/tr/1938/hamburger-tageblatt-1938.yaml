@@ -4,24 +4,31 @@
 id: hamburger-tageblatt-1938
 voice: Hamburger Tageblatt
 role: Günlük Hamburg Nazi gazetesi
+quote: >-
+  Kamal Atatürk'ün ölümü, Türkiye'den, Dünya Savaşı'ndan sonraki dikkate değer yükselişini tek başına borçlu
+  olduğu öncüyü ve lideri alıp götürüyor.
+quote_kind: translated
 summary: >-
-  10 Kasım 1938 tarihli 'İsyancıdan Türklerin Babasına' başlıklı vefat yazısında; ordu, eğitim, peçe ve Latin
-  alfabesi üzerinden gerçekleştirdiği ulusal dirilişe hayranlık duyulur.
+  'İsyancıdan "Türklerin Babası"na' başlıklı vefat yazısı: Türkiye'nin yükselişini tek başına borçlu olduğu
+  öncü ve lider; peçe ve Arap alfabesi kaldırıldı.
 caveat: >-
-  2026-10-29'da düzeltildi: yazı 10 Aralık 1938 tarihlidir, vefat yazısıyla birlikte basılmamıştır. Yazı
-  Atatürk'e atfedilmektedir; GHDI, Ihrig'e dayanarak bunu Nazi liderlik doktrini olarak çerçeveler.
-mediated_by: GHDI seçkisi çevirisi
+  NSDAP'nin Hamburg'da yayımlanan günlük gazetesinin 10 Kasım 1938 tarihli nüshasının 2. sayfasında, 'Vom
+  Rebell zum „Vater der Türken“' başlığı ve ölümüne ilişkin bir Ankara haberi altında yer alan imzasız vefat
+  yazısı. Yazı şöyle sona erer: 'Ein Wille aus Granit und eine unerschöpfliche Arbeitskraft waren das
+  Fundament dieses Wirkens.' German History in Documents'in bu yazıyla birlikte yayımladığı 'Führer und Volk'
+  başlıklı deneme ise 10 Aralık 1938 tarihli sayının 1–2. sayfalarından alınmış ayrı bir yazıdır.
 verification_note: >-
-  Vefat yazısı (10 Kasım 1938 s. 2, 'Vom Rebell zum Vater der Tuerken') peçe ve Latin alfabesi dahil
-  doğrulandı; ancak 'Fuehrer und Volk' başlıklı yazı 10 Aralık 1938 s. 1-2 tarihlidir, ayrı bir sayıdadır,
-  vefat yazısıyla birlikte basılmamıştır
-verification_method: getirme
+  18 Kasım 2026'da okundu. O tarihe kadar kayıt German History in Documents'teki İngilizce metne dayanıyordu
+  ve alıntı içermiyordu; Almanca cümle, araştırma notundaki başlık ve kapanış cümlesi gibi sayfada kelimesi
+  kelimesine yer alıyor. Aynı okur tarafından girildi ve kontrol edildi; henüz ikinci bir okur kontrolü
+  yapılmadı.
+verification_method: portalın tam metin aramasıyla bulundu; pasaj sayfa görüntüsünden okundu
 translated_by: "machine: Gemini 4 Argon (2026-11-08)"
 source_fingerprints:
   voice: 2f80e6d94a12
   role: 3ef4bc48d6e4
-  summary: 2053a6dd6fb4
-  caveat: b3298c3e1729
-  mediated_by: cc657af0fd5a
-  verification_note: f9db0ff4ad88
-  verification_method: ad8cee67138e
+  summary: f3c718bdb3ca
+  caveat: cd9606950210
+  verification_note: cb45291c23fd
+  verification_method: 6ed954e764da
+  quote: 83703cf48d9d

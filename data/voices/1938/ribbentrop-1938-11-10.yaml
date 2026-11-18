@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../schema/voice.schema.json
+id: ribbentrop-1938-11-10
+voice: Joachim von Ribbentrop
+voice_type: person
+role: German Foreign Minister
+country: Germany
+country_now: Germany
+domain: diplomacy
+date: "1938-11-10"
+era: funeral
+polarity: admiring
+intensity: 1
+artifact: telegram
+evidence: P
+summary: >-
+  Condolence telegram to Foreign Minister Aras on the 'irreplaceable loss' of the Turkish Republic's 'great
+  founder'.
+quote:
+  text: >-
+    „Eure Exzellenz bitte ich, anläßlich des unersetzlichen Verlustes, den die türkische Republik durch das
+    Hinscheiden ihres großen Begründers, Seiner Exzellenz des Herrn Präsidenten Kemal Atatürk erlitten hat,
+    meiner und der deutschen Reichsregierung wärmste Anteilnahme versichert zu sein.“
+  language: de
+  translation: >-
+    I ask Your Excellency, on the occasion of the irreplaceable loss which the Turkish Republic has suffered
+    through the passing of its great founder, His Excellency President Kemal Atatürk, to be assured of my own
+    and the German Reich Government's warmest sympathy.
+  translated_by: "machine: claude-opus-5-5"
+caveat: >-
+  A formal condolence telegram to Tevfik Rüştü Aras, released by the official news agency (DNB) on 10 Nov and
+  printed in German papers of 11 Nov with Hitler's telegram (hitler-1938); the portal finds it in 37 papers.
+  Ribbentrop was away from Berlin; State Secretary von Weizsäcker paid the condolence call at the Turkish
+  embassy in his name.
+node: Condolence Telegrams to Ankara, November 1938
+sources:
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/XQK4IIDRUG6WFY3RAJGDEKKKK5XKMWIK?issuepage=1
+    label: >-
+      Deutsches Zeitungsportal: Hamburger Fremdenblatt, Morgenausgabe, 11 Nov 1938, p. 1 (image from SUB
+      Hamburg)
+verification:
+  verdict: confirmed
+  quote_found: true
+  checked_against: >-
+    Hamburger Fremdenblatt, Morgenausgabe, 11 Nov 1938, p. 1: page image (SUB Hamburg); same text in the OCR
+    of the Niederrheinische Volkszeitung, Dortmunder Zeitung and Wittener Tageblatt of 11 Nov
+  method: >-
+    found by the Deutsches Zeitungsportal's full-text search; the telegram read on the page image
+  note: >-
+    Read on 18 Nov 2026; the quote is verbatim on the Fremdenblatt's page (some papers print 'Euer
+    Exzellenz'). Entered and checked by the same reader; no second reader yet.
+  checked_on: "2026-11-18"

@@ -6,7 +6,7 @@ role: Nazi Hamburg daily
 country: Germany
 country_now: Germany
 domain: press
-date: "1938-11"
+date: "1938-11-10"
 era: funeral
 polarity: admiring
 intensity: 2
@@ -14,24 +14,36 @@ mirror: volkisch-purifier
 artifact: article
 evidence: P
 summary: >-
-  Obituary of 10 Nov 1938, 'From Rebel to Father of the Turks', admiring his national revitalization: army,
-  education, the veil, the Latin alphabet.
-mediated_by: GHDI curated translation
+  Obituary 'From Rebel to "Father of the Turks"': the pioneer and leader to whom alone Turkey owed its rise;
+  veil and Arabic script abolished.
 caveat: >-
-  Corrected 2026-10-29: the essay is dated 10 Dec 1938, not printed with the obituary. Essay is attributed to
-  Atatürk; GHDI frames it as Nazi leadership doctrine per Ihrig.
+  Unsigned obituary on p. 2 of the NSDAP's Hamburg daily, 10 Nov 1938, under the headline 'Vom Rebell zum
+  „Vater der Türken“' and an Ankara report of the death. It ends: 'Ein Wille aus Granit und eine
+  unerschöpfliche Arbeitskraft waren das Fundament dieses Wirkens.' The essay 'Führer und Volk' that German
+  History in Documents prints with it is from the issue of 10 Dec 1938, pp. 1–2, a separate piece.
 node: Hamburger Tageblatt, November 1938
 sources:
+  - url: https://www.deutsche-digitale-bibliothek.de/newspaper/item/2IXCYLABE4ZVLQYPHUVD225VJUYDHHVP?issuepage=2
+    label: "Deutsches Zeitungsportal: Hamburger Tageblatt, 10 Nov 1938, p. 2 (image from SUB Hamburg)"
   - url: https://germanhistorydocs.org/en/nazi-germany-1933-1945/admiration-for-atatuerk-turkeys-leader-1938
     archived: https://web.archive.org/web/20260317131410/https://germanhistorydocs.org/en/nazi-germany-1933-1945/admiration-for-atatuerk-turkeys-leader-1938
 verification:
-  verdict: partial
+  verdict: confirmed
+  quote_found: true
   checked_against: >-
-    https://germanhistorydocs.org/en/nazi-germany-1933-1945/admiration-for-atatuerk-turkeys-leader-1938
-  method: fetch
+    Hamburger Tageblatt, 10 Nov 1938, p. 2: page image (SUB Hamburg) and OCR in the Deutsches Zeitungsportal
+  method: found by the portal's full-text search; the passage read on the page image
   note: >-
-    Obituary (10 Nov 1938 p.2, 'Vom Rebell zum Vater der Tuerken') confirmed incl. veil and Latin alphabet;
-    but the essay 'Fuehrer und Volk' is dated 10 Dec 1938 pp.1-2, a separate issue, not printed with the
-    obituary
-  resolution: corrected/hedged 2026-10-29 — see LEDGER § Source-check corrections
-  checked_on: "2026-10-29"
+    Read on 18 Nov 2026. Until then the record rested on German History in Documents' English and had no
+    quote; the German sentence is verbatim on the page, as are the headline and the closing sentence in the
+    caveat. Entered and checked by the same reader; no second reader yet.
+  checked_on: "2026-11-18"
+quote:
+  text: >-
+    Der Tod Kamal Atatürks nimmt der Türkei den Wegbereiter und Führer, dem allein sie ihren bedeutenden
+    Aufstieg nach dem Weltkriege zu verdanken hat.
+  language: de
+  translation: >-
+    The death of Kamal Atatürk takes from Turkey the pioneer and leader to whom alone she owes her remarkable
+    rise after the World War.
+  translated_by: "machine: claude-opus-5-5"
